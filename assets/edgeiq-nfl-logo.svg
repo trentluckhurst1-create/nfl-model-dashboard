@@ -1,22 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img" aria-labelledby="t d">
-<title id="t">EDGEiQ NFL</title><desc id="d">EDGEiQ NFL professional football intelligence logo</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 250" role="img" aria-labelledby="title desc">
+<title id="title">EDGEiQ NFL</title><desc id="desc">EDGEiQ NFL professional analytics mark</desc>
 <defs>
-  <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#37c8ff"/><stop offset="1" stop-color="#0678ff"/></linearGradient>
-  <linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#aebdcb"/></linearGradient>
-  <filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#39d7ff"/><stop offset="1" stop-color="#087dff"/></linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="420" height="300" rx="26" fill="#06101a"/>
-<g transform="translate(90 10)">
-  <path d="M72 8C32 14 3 42 3 77c0 28 21 48 56 54 35 6 78-5 105-30 17-16 27-35 29-57-18 8-31 15-41 23-6-25-35-51-80-59Z" fill="#071a28" stroke="#d6e5ef" stroke-width="5"/>
-  <path d="M31 82c32-2 69-17 104-45" fill="none" stroke="#d9e6ee" stroke-width="5" stroke-linecap="round"/>
-  <path d="M77 47l8 13m10-21l8 13m9-20l8 12" stroke="#d9e6ee" stroke-width="4" stroke-linecap="round"/>
-  <path d="M133 93V60m19 33V47m19 46V35m19 58V21" stroke="url(#b)" stroke-width="9" stroke-linecap="round"/>
-  <path d="M126 59l24-10 19-17 31-18" fill="none" stroke="url(#b)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M196 4l7 18-20-4Z" fill="#39c7ff" filter="url(#g)"/>
+<rect width="420" height="250" rx="28" fill="#02111c"/>
+<g transform="translate(118 20)">
+  <path d="M16 62c20-34 52-50 90-48 28 1 50 11 67 27-10-3-20-4-31-4-39 0-73 20-91 51z" fill="none" stroke="#dfeef7" stroke-width="7" stroke-linecap="round"/>
+  <path d="M43 87c12-20 29-34 50-42" fill="none" stroke="#dfeef7" stroke-width="5" stroke-linecap="round"/>
+  <path d="M87 44l7 10m8-17l7 11m9-15l6 11" stroke="#dfeef7" stroke-width="4" stroke-linecap="round"/>
+  <path d="M70 102l25-23 17 8 27-30" fill="none" stroke="url(#g)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <path d="M132 57h23v23" fill="none" stroke="#18a9ff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M52 115v27m22-42v42m22-56v56m22-72v72" stroke="url(#g)" stroke-width="9" stroke-linecap="round" opacity=".92"/>
 </g>
-<g text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-weight="900">
-  <text x="210" y="194" font-size="64" fill="url(#s)" letter-spacing="-3">EDGEi<tspan fill="#118dff">Q</tspan></text>
-  <text x="210" y="232" font-size="28" fill="#f4f8fb" letter-spacing="18">NFL</text>
-  <text x="210" y="270" font-family="Consolas,monospace" font-size="12" fill="#25baff" letter-spacing="4">DATA. DISCIPLINE. EDGE.</text>
-</g>
+<text x="210" y="176" text-anchor="middle" fill="#f5fbff" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="900" letter-spacing="2">EDGE<tspan fill="#159cff">iQ</tspan></text>
+<text x="210" y="209" text-anchor="middle" fill="#f5fbff" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="800" letter-spacing="15">NFL</text>
+<text x="210" y="235" text-anchor="middle" fill="#36bfff" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="800" letter-spacing="3">DATA. DISCIPLINE. EDGE.</text>
 </svg>
