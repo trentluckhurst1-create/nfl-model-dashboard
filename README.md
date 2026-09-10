@@ -1,13 +1,19 @@
-# NFL Model Dashboard
+# EDGEiQ NFL
 
-Public one-stop dashboard for the frozen 008A NFL fair-line model.
+Professional one-stop NFL intelligence and operations terminal built around the frozen 008A fair-line model.
+
+## Product identity
+- Name: `EDGEiQ NFL`
+- Terminal: live NFL operations, matchup intelligence, market reference, personnel, scores and prospective model validation
+- Brand principle: data, discipline, edge
 
 ## Features
 - Weekly game board
 - Frozen model fair lines
 - Market reference and edge
-- Scores/results
-- Injury news
+- Team logos and matchup identity
+- Live scores/game state
+- Injury and personnel intelligence
 - Prospective validation ledger
 - 4+ discrepancy indicator (`POST_HOC_NOT_CERTIFIED`)
 - Model methodology/governance
@@ -18,6 +24,7 @@ Public one-stop dashboard for the frozen 008A NFL fair-line model.
 - Training cutoff: end of 2024
 - 2025 labels do not refit the frozen Ridge
 - Market is never a model input
+- News/live-game information is never a model input
 - Locked live rows are immutable
 
 ## GitHub Pages
