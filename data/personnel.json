@@ -1,12 +1,252 @@
 {
-  "schema_version": "1.0",
-  "status": "AWAITING_CERTIFIED_SOURCE",
-  "updated_at_utc": null,
-  "source": null,
+  "schema_version": "1.2",
+  "status": "SOURCE_UNAVAILABLE",
+  "updated_at_utc": "2026-09-10T23:23:06.673909+00:00",
+  "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+  "coverage": {
+    "rosters": 0,
+    "depth_charts": 0,
+    "teams": 32
+  },
   "policy": {
     "model_input": false,
     "purpose": "INFORMATION_LAYER_ONLY",
-    "notes": "Depth charts, starters, inactive lists and roster movements may populate this file only from a verified source. Do not infer or fabricate missing personnel."
+    "notes": "Roster/depth data is informational only and never mutates frozen 008A. Missing source data remains unavailable, never inferred."
   },
-  "teams": {}
+  "errors": [
+    "ARI:roster:HTTPError",
+    "ARI:depth:HTTPError",
+    "ATL:roster:HTTPError",
+    "ATL:depth:HTTPError",
+    "BAL:roster:HTTPError",
+    "BAL:depth:HTTPError",
+    "BUF:roster:HTTPError",
+    "BUF:depth:HTTPError",
+    "CAR:roster:HTTPError",
+    "CAR:depth:HTTPError",
+    "CHI:roster:HTTPError",
+    "CHI:depth:HTTPError",
+    "CIN:roster:HTTPError",
+    "CIN:depth:HTTPError",
+    "CLE:roster:HTTPError",
+    "CLE:depth:HTTPError",
+    "DAL:roster:HTTPError",
+    "DAL:depth:HTTPError",
+    "DEN:roster:HTTPError",
+    "DEN:depth:HTTPError",
+    "DET:roster:HTTPError",
+    "DET:depth:HTTPError",
+    "GB:roster:HTTPError",
+    "GB:depth:HTTPError",
+    "HOU:roster:HTTPError",
+    "HOU:depth:HTTPError",
+    "IND:roster:HTTPError",
+    "IND:depth:HTTPError",
+    "JAX:roster:HTTPError",
+    "JAX:depth:HTTPError",
+    "KC:roster:HTTPError",
+    "KC:depth:HTTPError",
+    "LAC:roster:HTTPError",
+    "LAC:depth:HTTPError",
+    "LA:roster:HTTPError",
+    "LA:depth:HTTPError",
+    "LV:roster:HTTPError",
+    "LV:depth:HTTPError",
+    "MIA:roster:HTTPError",
+    "MIA:depth:HTTPError"
+  ],
+  "teams": {
+    "ARI": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "ATL": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "BAL": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "BUF": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "CAR": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "CHI": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "CIN": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "CLE": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "DAL": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "DEN": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "DET": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "GB": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "HOU": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "IND": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "JAX": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "KC": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "LAC": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "LA": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "LV": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "MIA": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "MIN": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "NE": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "NO": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "NYG": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "NYJ": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "PHI": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "PIT": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "SEA": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "SF": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "TB": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "TEN": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    },
+    "WAS": {
+      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "roster": [],
+      "depth_chart": {},
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+    }
+  }
 }
