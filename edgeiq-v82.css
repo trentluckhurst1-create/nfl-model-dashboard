@@ -1,0 +1,28 @@
+/* EDGEiQ NFL v8.2 — unified operator workspace */
+:root{--e82-panel:#061925;--e82-panel2:#092334;--e82-line:#135173;--e82-line2:#1c6e98;--e82-blue:#149cff;--e82-cyan:#42caff;--e82-text:#f5f9fc;--e82-muted:#89a8bc;--e82-green:#47df9b;--e82-yellow:#ffd15a;--e82-red:#ff6070}
+html[data-edgeiq-ui="v82"] .workspace{max-width:none!important;padding:12px 14px 46px!important}
+html[data-edgeiq-ui="v82"] .view-head{min-height:72px!important;padding:13px 16px!important;margin-bottom:10px!important}
+html[data-edgeiq-ui="v82"] .view-head h1{font-size:22px!important}
+html[data-edgeiq-ui="v82"] .v8-subtitle{max-width:760px}
+html[data-edgeiq-ui="v82"] .v82-ribbon{display:flex;gap:7px;align-items:center;flex-wrap:wrap;margin-top:8px}
+html[data-edgeiq-ui="v82"] .v82-tag{padding:4px 7px;border-radius:4px;border:1px solid #174d6b;background:#071a26;color:#7fa7be;font:800 8px ui-monospace,Consolas,monospace;letter-spacing:.08em;text-transform:uppercase}
+html[data-edgeiq-ui="v82"] .v82-tag.good{border-color:#246b54;color:#64e6a9}html[data-edgeiq-ui="v82"] .v82-tag.blue{border-color:#1e6d98;color:#55c7ff}
+html[data-edgeiq-ui="v82"] .v8-seasonbar{height:66px!important;background:#03131f!important;border-bottom:1px solid #0e4c70!important;padding:6px 10px!important;display:grid!important;grid-template-columns:92px 1fr!important;gap:8px!important;position:sticky!important;top:70px!important;z-index:14!important}
+html[data-edgeiq-ui="v82"] .v8-weekbadge{display:grid;place-items:center;border:1px solid #17638d;border-radius:6px;background:linear-gradient(180deg,#0b3550,#082338);font:900 11px ui-monospace,Consolas,monospace;color:#fff}
+html[data-edgeiq-ui="v82"] .v8-ticker{display:flex;gap:6px;overflow-x:auto;overflow-y:hidden;scrollbar-width:thin}
+html[data-edgeiq-ui="v82"] .v8-tick{flex:0 0 168px;min-width:168px;border:1px solid #123f5d;border-radius:5px;background:linear-gradient(180deg,#082032,#061723);padding:7px 9px;cursor:pointer;position:relative}
+html[data-edgeiq-ui="v82"] .v8-tick:hover,html[data-edgeiq-ui="v82"] .v8-tick.active{border-color:#1aa8f7;background:#0a2b40;box-shadow:inset 0 -2px #149cff}
+html[data-edgeiq-ui="v82"] .v8-tick strong{display:block;color:#f5f9fc;font-size:10px}html[data-edgeiq-ui="v82"] .v8-tick small{display:block;margin-top:4px;color:#8ba9bd;font:700 8px ui-monospace,monospace}html[data-edgeiq-ui="v82"] .v8-tick em{position:absolute;right:7px;top:7px;font-style:normal;color:#4baccf;font:800 7px ui-monospace,monospace}
+html[data-edgeiq-ui="v82"] .stat{min-height:76px!important;padding:12px 14px!important}html[data-edgeiq-ui="v82"] .stat b{font-size:22px!important}
+html[data-edgeiq-ui="v82"] .panel,html[data-edgeiq-ui="v82"] .software-card,html[data-edgeiq-ui="v82"] .division-card,html[data-edgeiq-ui="v82"] .news-card{box-shadow:0 12px 30px rgba(0,0,0,.18)!important}
+html[data-edgeiq-ui="v82"] .software-card{position:relative;overflow:hidden}html[data-edgeiq-ui="v82"] .software-card:after{content:"";position:absolute;left:0;right:0;bottom:0;height:2px;background:#143d54}html[data-edgeiq-ui="v82"] .software-card:hover:after{background:#1dafff}
+html[data-edgeiq-ui="v82"] th{cursor:pointer;user-select:none}html[data-edgeiq-ui="v82"] th:hover{color:#d9f2ff!important;background:#0e2d40!important}html[data-edgeiq-ui="v82"] th.v82-sort:after{content:"  ↕";color:#28b9ff}
+html[data-edgeiq-ui="v82"] .v82-lowerdeck{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:10px}
+html[data-edgeiq-ui="v82"] .v82-module{border:1px solid #104967;border-radius:8px;background:linear-gradient(150deg,#092031,#061520);padding:14px;min-height:118px;box-shadow:0 12px 26px rgba(0,0,0,.14)}
+html[data-edgeiq-ui="v82"] .v82-module h3{margin:0 0 8px;color:#f5f9fc;font-size:11px;text-transform:uppercase;letter-spacing:.06em}html[data-edgeiq-ui="v82"] .v82-module p{margin:0;color:#83a3b7;font-size:10px;line-height:1.55}html[data-edgeiq-ui="v82"] .v82-module b{color:#46c7ff}
+html[data-edgeiq-ui="v82"] .v82-minirow{display:flex;justify-content:space-between;gap:12px;padding:7px 0;border-bottom:1px solid #0d3349;font-size:9px}.v82-minirow:last-child{border-bottom:0}.v82-minirow span{color:#7f9eb1}.v82-minirow strong{font-family:ui-monospace,monospace}
+html[data-edgeiq-ui="v82"] #edgeiqV7{left:202px!important}.v82-gcc-nav{display:flex;gap:7px;align-items:center;justify-self:end}.v82-gcc-btn{border:1px solid #1b638c;background:#0a263a;color:#dff3ff;border-radius:6px;padding:9px 11px;font:900 9px ui-monospace,monospace;cursor:pointer}.v82-gcc-btn:hover{border-color:#3ec4ff;background:#0c3048}
+html[data-edgeiq-ui="v82"] .app-id .edgeiq-app-logo{filter:drop-shadow(0 0 16px rgba(20,156,255,.13))}
+html[data-edgeiq-ui="v82"] .side-nav button{transition:.14s ease}
+@media(max-width:1100px){html[data-edgeiq-ui="v82"] .v82-lowerdeck{grid-template-columns:1fr 1fr}html[data-edgeiq-ui="v82"] .v8-seasonbar{grid-template-columns:72px 1fr!important}.v8-weekbadge{font-size:9px!important}}
+@media(max-width:760px){html[data-edgeiq-ui="v82"] .v82-lowerdeck{grid-template-columns:1fr}html[data-edgeiq-ui="v82"] .v8-seasonbar{top:70px!important;grid-template-columns:1fr!important;height:58px!important}.v8-weekbadge{display:none!important}}
