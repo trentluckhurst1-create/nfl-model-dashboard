@@ -4,8 +4,8 @@ function ensureV65(){
   if(!document.querySelector('link[href="game-control-v65.css"]')){
     const l=document.createElement('link');l.rel='stylesheet';l.href='game-control-v65.css';document.head.appendChild(l);
   }
-  if(!document.querySelector('script[src="game-control-v65.js"]')){
-    const s=document.createElement('script');s.src='game-control-v65.js';s.defer=true;document.body.appendChild(s);
+  if(!document.querySelector('script[src="game-centre-mockup-v65.js"]')){
+    const s=document.createElement('script');s.src='game-centre-mockup-v65.js';s.defer=true;document.body.appendChild(s);
   }
   const ver=document.querySelector('.version');if(ver)ver.textContent='v6.5 · mockup fidelity';
 }
