@@ -1,0 +1,11 @@
+(()=>{'use strict';
+let context={games:{}};
+const esc=s=>String(s??'—').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+async function load(){try{const r=await fetch(`data/game_context.json?t=${Date.now()}`,{cache:'no-store'});if(r.ok)context=await r.json()}catch(_){};window.EDGEiQGameContext=context;enhance()}
+function current(){return window.NFLWorkspace?.getGame?.()||null}
+function enhance(){const id=current(),host=document.querySelector('#gameControlCentre');if(!id||!host||host.classList.contains('hidden'))return;const g=context.games?.[id];if(!g)return;const cards=[...host.querySelectorAll('.gcc-card')];const weather=cards.find(x=>x.querySelector('header span')?.textContent.trim()==='Weather');if(weather&&g.weather?.verified){const w=g.weather;weather.querySelector('header').innerHTML='<span>Weather</span><span class="healthy">VERIFIED FORECAST</span>';weather.querySelector('.gcc-body').innerHTML=`<div class="gcc-weather"><div><span>Min / max</span><b>${esc(w.min_c)}° / ${esc(w.max_c)}°C</b></div><div><span>Rain chance</span><b>${esc(w.rain_chance_pct)}%</b></div><div><span>Conditions</span><b>${esc(w.summary)}</b></div><div><span>Kickoff precision</span><b>${w.kickoff_specific?'EXACT':'AREA FORECAST'}</b></div></div><div class="gcc-empty">Source: ${esc(w.source)} · informational layer only.</div>`}
+const state=cards.find(x=>x.querySelector('header span')?.textContent.trim()==='Game state');if(state&&g.venue?.verified){const rows=state.querySelectorAll('.gcc-row');rows.forEach(r=>{if(r.firstElementChild?.textContent==='Venue')r.lastElementChild.textContent=`${g.venue.name} · ${g.venue.city}`})}
+}
+function boot(){load();setInterval(load,300000);document.addEventListener('nflops:context',()=>setTimeout(enhance,50));document.addEventListener('nflops:information-refresh',()=>setTimeout(enhance,50));document.addEventListener('click',()=>setTimeout(enhance,80),true)}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',boot);else boot();
+})();
