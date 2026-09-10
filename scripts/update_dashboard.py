@@ -4,17 +4,10 @@ import json,requests,xml.etree.ElementTree as ET,re,html
 
 ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/'data'; MODEL=DATA/'model_snapshot.json'; OUT=DATA/'dashboard.json'; NEWS=DATA/'news.json'
 TEAM={"Arizona Cardinals":"ARI","Atlanta Falcons":"ATL","Baltimore Ravens":"BAL","Buffalo Bills":"BUF","Carolina Panthers":"CAR","Chicago Bears":"CHI","Cincinnati Bengals":"CIN","Cleveland Browns":"CLE","Dallas Cowboys":"DAL","Denver Broncos":"DEN","Detroit Lions":"DET","Green Bay Packers":"GB","Houston Texans":"HOU","Indianapolis Colts":"IND","Jacksonville Jaguars":"JAX","Kansas City Chiefs":"KC","Las Vegas Raiders":"LV","Los Angeles Chargers":"LAC","Los Angeles Rams":"LA","Miami Dolphins":"MIA","Minnesota Vikings":"MIN","New England Patriots":"NE","New Orleans Saints":"NO","New York Giants":"NYG","New York Jets":"NYJ","Philadelphia Eagles":"PHI","Pittsburgh Steelers":"PIT","San Francisco 49ers":"SF","Seattle Seahawks":"SEA","Tampa Bay Buccaneers":"TB","Tennessee Titans":"TEN","Washington Commanders":"WAS"}
+ALIASES={k:[k,k.split()[-1]] for k in TEAM}; ALIASES.update({'San Francisco 49ers':['49ers','Niners','San Francisco'],'Los Angeles Rams':['Rams'],'Los Angeles Chargers':['Chargers'],'New England Patriots':['Patriots'],'Seattle Seahawks':['Seahawks'],'Las Vegas Raiders':['Raiders'],'Tampa Bay Buccaneers':['Buccaneers','Bucs'],'Kansas City Chiefs':['Chiefs'],'Green Bay Packers':['Packers'],'New York Jets':['Jets'],'New York Giants':['Giants']})
 HEAD={'User-Agent':'Mozilla/5.0 (compatible; NFLModelTerminal/1.0)'}
-TRUSTED_SOURCES=[
- {'name':'ESPN NFL','url':'https://www.espn.com/espn/rss/nfl/news','tier':'NETWORK'},
- {'name':'CBS Sports NFL','url':'https://www.cbssports.com/rss/headlines/nfl/','tier':'NETWORK'},
-]
-REPORTERS=[
- {'name':'Ian Rapoport','org':'NFL Network','handle':'@RapSheet','profile':'https://x.com/RapSheet'},
- {'name':'Adam Schefter','org':'ESPN','handle':'@AdamSchefter','profile':'https://x.com/AdamSchefter'},
- {'name':'Tom Pelissero','org':'NFL Network','handle':'@TomPelissero','profile':'https://x.com/TomPelissero'},
- {'name':'Mike Garafolo','org':'NFL Network','handle':'@MikeGarafolo','profile':'https://x.com/MikeGarafolo'},
-]
+TRUSTED_SOURCES=[{'name':'ESPN NFL','url':'https://www.espn.com/espn/rss/nfl/news','tier':'NETWORK'},{'name':'CBS Sports NFL','url':'https://www.cbssports.com/rss/headlines/nfl/','tier':'NETWORK'}]
+REPORTERS=[{'name':'Ian Rapoport','org':'NFL Network','handle':'@RapSheet','profile':'https://x.com/RapSheet','tier':'INSIDER'},{'name':'Adam Schefter','org':'ESPN','handle':'@AdamSchefter','profile':'https://x.com/AdamSchefter','tier':'INSIDER'},{'name':'Tom Pelissero','org':'NFL Network','handle':'@TomPelissero','profile':'https://x.com/TomPelissero','tier':'INSIDER'},{'name':'Mike Garafolo','org':'NFL Network','handle':'@MikeGarafolo','profile':'https://x.com/MikeGarafolo','tier':'INSIDER'}]
 def fetch_week(model):
     try:r=requests.get('https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=2026&seasontype=2&week=1',timeout=30,headers=HEAD);r.raise_for_status();d=r.json()
     except Exception as e:print('scoreboard refresh failed:',e);return [],{},{}
@@ -40,21 +33,27 @@ def category(title,summary=''):
     if any(k in s for k in ['injur','questionable','doubtful','ruled out','practice','surgery','mri','concussion']):return 'injury'
     if any(k in s for k in ['sign','trade','waiv','release','contract','extension','roster','activated','reserve']):return 'transaction'
     return 'game'
+def teams_for(text):
+    s=text.lower();found=[]
+    for full,code in TEAM.items():
+        if any(re.search(r'\b'+re.escape(a.lower())+r'\b',s) for a in ALIASES.get(full,[full])):found.append(code)
+    return sorted(set(found))
 def fetch_news():
     items=[]
     for src in TRUSTED_SOURCES:
         try:
             r=requests.get(src['url'],timeout=25,headers=HEAD);r.raise_for_status();root=ET.fromstring(r.content)
-            for x in root.findall('.//item')[:16]:
+            for x in root.findall('.//item')[:20]:
                 title=clean_text(x.findtext('title'));link=(x.findtext('link') or '').strip();desc=clean_text(x.findtext('description'));pub=(x.findtext('pubDate') or '').strip()
-                if title and link:items.append({'title':title,'url':link,'summary':desc[:420],'published':pub,'source':src['name'],'source_type':'publisher','trust':src['tier'],'category':category(title,desc)})
+                if title and link:
+                    txt=title+' '+desc;items.append({'title':title,'url':link,'summary':desc[:420],'published':pub,'source':src['name'],'source_type':'publisher','trust':src['tier'],'category':category(title,desc),'teams':teams_for(txt)})
         except Exception as e:print('news refresh failed:',src['url'],e)
     seen=set();clean=[]
     for x in items:
         k=re.sub(r'\W+',' ',x['title'].lower()).strip()
         if k in seen:continue
         seen.add(k);clean.append(x)
-    return clean[:30]
+    return clean[:40]
 def main():
-    model=json.loads(MODEL.read_text(encoding='utf-8'));old=json.loads(OUT.read_text(encoding='utf-8')) if OUT.exists() else {};scores,records,game_meta=fetch_week(model);now=datetime.now(timezone.utc).isoformat();payload={'updated_at_utc':now,'season':2026,'week':1,'scores':scores or old.get('scores',[]),'records':records or old.get('records',{}),'game_meta':game_meta or old.get('game_meta',{}),'injuries':old.get('injuries',[])};OUT.write_text(json.dumps(payload,indent=2),encoding='utf-8');news=fetch_news();oldnews=json.loads(NEWS.read_text(encoding='utf-8')) if NEWS.exists() else {};NEWS.write_text(json.dumps({'updated_at_utc':now,'policy':'CURATED_TRUSTED_SOURCES_ONLY','items':news or oldnews.get('items',[]),'reporters':REPORTERS,'publisher_watch':[{'name':'NFL','url':'https://www.nfl.com/news/'},{'name':'ESPN NFL','url':'https://www.espn.com/nfl/'},{'name':'FOX Sports NFL','url':'https://www.foxsports.com/nfl'}]},indent=2),encoding='utf-8');print(f"dashboard refreshed: scores={len(payload['scores'])} records={len(payload['records'])} news={len(news)}")
+    model=json.loads(MODEL.read_text(encoding='utf-8'));old=json.loads(OUT.read_text(encoding='utf-8')) if OUT.exists() else {};scores,records,game_meta=fetch_week(model);now=datetime.now(timezone.utc).isoformat();payload={'updated_at_utc':now,'season':2026,'week':1,'scores':scores or old.get('scores',[]),'records':records or old.get('records',{}),'game_meta':game_meta or old.get('game_meta',{}),'injuries':old.get('injuries',[])};OUT.write_text(json.dumps(payload,indent=2),encoding='utf-8');fresh=fetch_news();oldnews=json.loads(NEWS.read_text(encoding='utf-8')) if NEWS.exists() else {};NEWS.write_text(json.dumps({'updated_at_utc':now,'policy':'CURATED_TRUSTED_SOURCES_ONLY','items':fresh or oldnews.get('items',[]),'reporters':REPORTERS,'publisher_watch':[{'name':'NFL.com','url':'https://www.nfl.com/news/','tier':'OFFICIAL'},{'name':'ESPN NFL','url':'https://www.espn.com/nfl/','tier':'NETWORK'},{'name':'FOX Sports NFL','url':'https://www.foxsports.com/nfl','tier':'NETWORK'},{'name':'CBS Sports NFL','url':'https://www.cbssports.com/nfl/','tier':'NETWORK'}]},indent=2),encoding='utf-8');print(f'dashboard refreshed: scores={len(payload["scores"])} records={len(payload["records"])} news={len(fresh)}')
 if __name__=='__main__':main()
