@@ -1,0 +1,26 @@
+{
+  "updated_at_utc": "2026-09-10T21:48:00Z",
+  "policy": "INFORMATION_LAYER_ONLY_MODEL_INPUT_NO",
+  "games": {
+    "SF@LA": {
+      "weather": {
+        "source": "Bureau of Meteorology Melbourne area forecast",
+        "source_url": "https://www.bom.gov.au/places/vic/melbourne/forecast/",
+        "forecast_date_local": "2026-09-11",
+        "min_c": 6,
+        "max_c": 16,
+        "rain_chance_pct": 5,
+        "summary": "Chance of morning fog; sunny afternoon; light winds",
+        "kickoff_specific": false,
+        "verified": true
+      },
+      "venue": {
+        "name": "Melbourne Cricket Ground",
+        "city": "Melbourne",
+        "country": "Australia",
+        "kickoff_local": "2026-09-11T10:35:00+10:00",
+        "verified": true
+      }
+    }
+  }
+}
