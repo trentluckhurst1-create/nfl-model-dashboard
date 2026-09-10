@@ -1,23 +1,26 @@
 {
   "2026_01_SF_LA": {
     "status": "FROZEN_EXACT",
-    "power_diff": 6.31387,
-    "match_off_epa": 0.039469,
-    "match_def_epa": 0.057277,
-    "match_off_pass_epa": 0.064257,
-    "match_def_pass_epa": 0.089972,
-    "match_off_rush_epa": 0.036585,
-    "match_def_rush_epa": 0.07341,
-    "match_off_success": 0.025236,
-    "match_def_success": 0.039737,
-    "injury_match_usage_out": -0.335217356763,
-    "injury_match_usage_doubtful": 0.0,
-    "injury_match_usage_questionable": 0.0,
+    "source": "LIVE-009D_FINAL_FEATURE_VECTOR",
     "our_line_internal": 6.335320316021,
     "our_line_display": "LA -6.3",
     "market_internal": 3.5,
     "market_display": "LA -3.5",
     "edge_points": 2.835320316021,
-    "model_side": "LA"
+    "model_side": "LA",
+    "features": [
+      {"group":"TEAM STRENGTH","key":"power_diff","label":"Power differential","value":6.31387},
+      {"group":"EPA MATCHUP","key":"match_off_epa","label":"Offensive EPA matchup","value":0.039469},
+      {"group":"EPA MATCHUP","key":"match_def_epa","label":"Defensive EPA matchup","value":0.057277},
+      {"group":"PASS / RUSH","key":"match_off_pass_epa","label":"Offensive pass EPA matchup","value":0.064257},
+      {"group":"PASS / RUSH","key":"match_def_pass_epa","label":"Defensive pass EPA matchup","value":0.089972},
+      {"group":"PASS / RUSH","key":"match_off_rush_epa","label":"Offensive rush EPA matchup","value":0.036585},
+      {"group":"PASS / RUSH","key":"match_def_rush_epa","label":"Defensive rush EPA matchup","value":0.07341},
+      {"group":"SUCCESS RATE","key":"match_off_success","label":"Offensive success matchup","value":0.025236},
+      {"group":"SUCCESS RATE","key":"match_def_success","label":"Defensive success matchup","value":0.039737},
+      {"group":"AVAILABILITY","key":"injury_match_usage_out","label":"OUT usage differential","value":-0.335217356763},
+      {"group":"AVAILABILITY","key":"injury_match_usage_doubtful","label":"Doubtful usage differential","value":0.0},
+      {"group":"AVAILABILITY","key":"injury_match_usage_questionable","label":"Questionable usage differential","value":0.0}
+    ]
   }
 }
