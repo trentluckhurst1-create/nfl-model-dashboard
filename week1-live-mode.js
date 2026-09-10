@@ -1,0 +1,15 @@
+(()=>{
+'use strict';
+const TARGET='2026_01_SF_LA';
+const TARGET_KICKOFF='2026-09-11T00:35:00Z';
+const kickoffOf=g=>{try{if(typeof kickoff==='function')return kickoff(g)}catch(_){}return g?.game_id===TARGET?TARGET_KICKOFF:null};
+const scoreOf=id=>{try{return typeof score==='function'?score(id):null}catch(_){return null}};
+function phase(g){const s=scoreOf(g.game_id);if(s?.state==='LIVE')return'LIVE';if(s?.state==='FINAL')return'FINAL';const k=kickoffOf(g);if(!k)return'UPCOMING';const ms=new Date(k)-Date.now();if(ms<=0&&ms>-6*3600000)return'LIVE WINDOW';if(ms>0&&ms<=6*3600000)return'TODAY';return'UPCOMING'}
+function countdown(g){const k=kickoffOf(g);if(!k)return'';let d=new Date(k)-Date.now();if(d<=0)return phase(g)==='FINAL'?'FINAL':'KICKOFF / LIVE WINDOW';const h=Math.floor(d/3600000);d-=h*3600000;const m=Math.floor(d/60000);const s=Math.floor((d%60000)/1000);return`T-${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`}
+function priority(){const gs=(typeof model!=='undefined'&&model?.games)||[];return gs.find(g=>scoreOf(g.game_id)?.state==='LIVE')||gs.find(g=>g.game_id===TARGET&&phase(g)!=='FINAL')||gs.find(g=>phase(g)==='TODAY')||gs.find(g=>phase(g)==='UPCOMING')||gs[0]}
+function decorate(){const g=priority();if(!g)return;let bar=document.getElementById('livePriorityBar');if(!bar){bar=document.createElement('section');bar.id='livePriorityBar';bar.className='live-priority-bar';document.querySelector('#view-command')?.prepend(bar)}const p=phase(g),s=scoreOf(g.game_id);bar.innerHTML=`<div class="lp-state ${p==='LIVE'?'is-live':''}">${p}</div><div class="lp-game"><b>${g.away} @ ${g.home}</b><span>${g.game_id===TARGET?'MCG · MELBOURNE':'WEEK 1 PRIORITY'}</span></div><div class="lp-score">${s?`<b>${s.away_score}–${s.home_score}</b><span>${s.detail||s.state||''}</span>`:`<b>${countdown(g)}</b><span>${kickoffOf(g)?new Date(kickoffOf(g)).toLocaleString([], {weekday:'short',hour:'numeric',minute:'2-digit'}):'SCHEDULED'}</span>`}</div><button id="openPriorityGame">OPEN GAME</button>`;document.getElementById('openPriorityGame').onclick=()=>{try{if(typeof selectGame==='function')selectGame(g.game_id)}catch(_){};window.NFLWorkspace?.setGame?.(g.game_id)};
+document.querySelectorAll('.terminal-row[data-game]').forEach(el=>{const x=((typeof model!=='undefined'&&model.games)||[]).find(z=>z.game_id===el.dataset.game);if(!x)return;el.dataset.phase=phase(x);el.classList.toggle('live-priority',x.game_id===g.game_id);let tag=el.querySelector('.phase-tag');if(!tag){tag=document.createElement('span');tag.className='phase-tag';el.querySelector('.game-name')?.appendChild(tag)}tag.textContent=phase(x)});
+}
+function boot(){decorate();setInterval(decorate,1000);document.addEventListener('nflops:information-refresh',decorate);setTimeout(()=>{const g=priority();if(g&&g.game_id===TARGET&&window.NFLWorkspace?.getGame?.()!==TARGET){window.NFLWorkspace?.setGame?.(TARGET);try{if(typeof selectGame==='function')selectGame(TARGET)}catch(_){}}},700)}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',boot);else boot();
+})();
