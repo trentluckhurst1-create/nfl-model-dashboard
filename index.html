@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="NFL Model Dashboard — fair lines, market edges, scores, injuries, standings and prospective validation.">
+  <meta name="description" content="NFL Model Dashboard — fair lines, markets, scores, injuries, standings and live validation.">
   <title>NFL Model Dashboard</title>
   <link rel="stylesheet" href="styles.css">
 </head>
@@ -12,17 +12,15 @@
   <div class="brand"><div class="brandmark">NFL</div><div><b>NFL MODEL DASHBOARD</b><span>One-stop NFL command centre</span></div></div>
   <div class="topmeta"><span class="live-dot"></span><span id="updated">Loading…</span></div>
 </header>
-
 <main>
-  <section class="hero">
+  <section class="hero compact-hero">
     <div class="hero-copy">
-      <em>2026 · WEEK 1 · FROZEN PRODUCTION MODEL</em>
+      <div class="weekbar"><button class="weekbtn" disabled>‹</button><span>2026 · WEEK 1</span><button class="weekbtn" disabled>›</button></div>
       <h1>Build our number.<br><strong>Then face the market.</strong></h1>
-      <p>Scores, injuries, fair lines, market discrepancies and an immutable live validation record — all in one place.</p>
+      <p>Scores, injuries, fair lines, market movement and an immutable prospective record — in one NFL terminal.</p>
     </div>
     <aside class="engine-card">
-      <small>PRODUCTION ENGINE</small>
-      <h2>008A RIDGE</h2>
+      <small>PRODUCTION ENGINE</small><h2>008A RIDGE</h2>
       <p>002D football efficiency<br>+ 007C injury availability</p>
       <div class="engine-rule"><span>Market used as model input</span><b>NO</b></div>
       <div class="engine-rule"><span>Training cutoff</span><b>2024</b></div>
@@ -34,8 +32,9 @@
   <nav class="navtabs">
     <button class="active" data-tab="home">Home</button>
     <button data-tab="gamesPanel">Games</button>
+    <button data-tab="market">Market</button>
     <button data-tab="injuries">Injuries</button>
-    <button data-tab="results">Results</button>
+    <button data-tab="results">Performance</button>
     <button data-tab="standings">Standings</button>
     <button data-tab="model">Model</button>
   </nav>
@@ -47,50 +46,58 @@
         <div id="featuredGames" class="game-grid"></div>
       </div>
       <aside class="side-stack">
-        <article class="mini-panel"><small>LIVE VALIDATION</small><h3 id="ledgerHeadline">1 locked game</h3><p>Every prospective row is frozen before kickoff. No hindsight edits.</p><button class="ghost" data-goto="results">Open ledger →</button></article>
+        <article class="mini-panel"><small>LIVE VALIDATION</small><h3 id="ledgerHeadline">Loading…</h3><p>Every prospective row is frozen before kickoff. No hindsight edits.</p><button class="ghost" data-goto="results">Open performance →</button></article>
         <article class="mini-panel"><small>INJURY WATCH</small><div id="injuryWatch"></div><button class="ghost" data-goto="injuries">Full report →</button></article>
+        <article class="mini-panel"><small>BIGGEST DISCREPANCY</small><div id="biggestEdge"></div><button class="ghost" data-goto="market">Open market board →</button></article>
       </aside>
     </div>
   </section>
 
   <section id="gamesPanel" class="panel">
-    <div class="section-title"><div><small>WEEK 1</small><h3>All Games</h3></div><div class="filters"><button class="filter active" data-filter="all">All</button><button class="filter" data-filter="locked">Locked</button><button class="filter" data-filter="signal">4+ Edge</button></div></div>
+    <div class="section-title"><div><small>2026 · WEEK 1</small><h3>All Games</h3></div><div class="filters"><button class="filter active" data-filter="all">All</button><button class="filter" data-filter="locked">Locked</button><button class="filter" data-filter="signal">4+ Edge</button></div></div>
     <div id="gameCards" class="game-grid full"></div>
+  </section>
+
+  <section id="market" class="panel">
+    <div class="section-title"><div><small>MODEL FIRST · MARKET SECOND</small><h3>Market Board</h3></div></div>
+    <div class="market-summary" id="marketSummary"></div>
+    <div class="table"><table><thead><tr><th>Game</th><th>Our Line</th><th>Captured Market</th><th>Difference</th><th>Model Side</th><th>Books</th><th>Signal</th></tr></thead><tbody id="marketRows"></tbody></table></div>
   </section>
 
   <section id="injuries" class="panel">
     <div class="section-title"><div><small>OFFICIAL STATUS</small><h3>Injury Centre</h3></div><div class="legend"><span class="badge out">OUT</span><span class="badge q">QUESTIONABLE</span></div></div>
+    <div id="injuryTeamCards" class="injury-team-grid"></div>
     <div class="table"><table><thead><tr><th>Team</th><th>Player</th><th>Pos</th><th>Injury</th><th>Practice</th><th>Game Status</th><th>Prior Usage</th></tr></thead><tbody id="injuryRows"></tbody></table></div>
   </section>
 
   <section id="results" class="panel">
-    <div class="section-title"><div><small>EXPERIMENT 030</small><h3>Prospective Validation Ledger</h3></div></div>
+    <div class="section-title"><div><small>EXPERIMENT 030</small><h3>Prospective Performance</h3></div></div>
     <div id="validationCards" class="kpis compact"></div>
-    <div class="table"><table><thead><tr><th>Game</th><th>Our Frozen Line</th><th>Market</th><th>Edge</th><th>Model Side</th><th>Result</th><th>State</th></tr></thead><tbody id="resultRows"></tbody></table></div>
-    <article class="note"><b>Immutable means immutable.</b><p>Once a game is locked prospectively, its model line, market reference and model side remain unchanged after the final score.</p></article>
+    <div class="performance-strip" id="performanceStrip"></div>
+    <div class="table"><table><thead><tr><th>Game</th><th>Frozen Line</th><th>Market</th><th>Edge</th><th>Model Side</th><th>Final Score</th><th>Model Margin Error</th><th>State</th></tr></thead><tbody id="resultRows"></tbody></table></div>
+    <article class="note"><b>No hindsight edits.</b><p>Only prospectively locked games count toward the live model record. Audit-only or current-as-of rows remain visible but are excluded from prospective performance.</p></article>
   </section>
 
   <section id="standings" class="panel">
-    <div class="section-title"><div><small>2026 SEASON</small><h3>Team Records</h3></div></div>
-    <div id="standingsGrid" class="standings-grid"></div>
+    <div class="section-title"><div><small>2026 SEASON</small><h3>Standings & Records</h3></div></div>
+    <div id="standingsGrid" class="division-grid"></div>
   </section>
 
   <section id="model" class="panel">
     <div class="model-grid">
-      <article><small>ENGINE</small><h3>Frozen 008A Ridge</h3><p>12 strictly pre-game features. The production coefficients were fit only on the approved historical training universe through the end of the 2024 season.</p></article>
-      <article><small>TEAM STATE</small><h3>002D Success Core</h3><p>Power, EPA, pass/rush EPA and success-rate matchup state. Current team state can update; production Ridge coefficients do not.</p></article>
-      <article><small>INJURY LAYER</small><h3>007C Availability</h3><p>Out, doubtful and questionable burdens weighted by strictly prior same-team snap usage. Target-game snaps are never used.</p></article>
-      <article><small>MARKET</small><h3>Independent Benchmark</h3><p>Our fair line is produced first. Only after it is locked do we compare with the median spread across available U.S. bookmakers.</p></article>
-      <article><small>LIVE RECORD</small><h3>Experiment 030</h3><p>The live 2026 ledger is prospective and append-only. Completed results can score a prediction, but can never rewrite it.</p></article>
-      <article><small>RESEARCH SIGNAL</small><h3>4+ Point Discrepancy</h3><p>Shown for transparency because it was interesting historically. It remains POST_HOC_NOT_CERTIFIED and is not presented as a guaranteed betting rule.</p></article>
+      <article><small>ENGINE</small><h3>Frozen 008A Ridge</h3><p>12 strictly pre-game features. Production coefficients were fitted only through the end of the 2024 season.</p></article>
+      <article><small>TEAM STATE</small><h3>002D Success Core</h3><p>Power, EPA, pass/rush EPA and success-rate matchup state using strict prior information.</p></article>
+      <article><small>INJURY LAYER</small><h3>007C Availability</h3><p>Out, doubtful and questionable burdens weighted by strictly prior same-team snap usage.</p></article>
+      <article><small>MARKET</small><h3>Independent Benchmark</h3><p>Our fair line exists first. Only afterward is it compared with the median available U.S. bookmaker spread.</p></article>
+      <article><small>LIVE RECORD</small><h3>Experiment 030</h3><p>Prospective and append-only. Results may score a prediction but can never rewrite it.</p></article>
+      <article><small>RESEARCH SIGNAL</small><h3>4+ Discrepancy</h3><p>Displayed transparently, but remains POST_HOC_NOT_CERTIFIED and is not presented as a guaranteed betting rule.</p></article>
     </div>
   </section>
 </main>
 
 <div id="drawerBackdrop" class="drawer-backdrop"></div>
 <aside id="gameDrawer" class="drawer" aria-hidden="true"><button id="closeDrawer" class="drawer-close">×</button><div id="drawerBody"></div></aside>
-
-<footer><div>NFL Model Dashboard</div><div>Research & analytics · Public model record</div></footer>
+<footer><div>NFL Model Dashboard</div><div>Frozen fair lines · Public prospective record</div></footer>
 <script src="app.js"></script>
 </body>
 </html>
