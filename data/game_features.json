@@ -1,0 +1,27 @@
+{
+  "2026_01_SF_LA": {
+    "feature_status": "FINAL_LOCKED_INPUT_VECTOR",
+    "features": [
+      {"key":"power_diff","label":"Power differential","value":6.313870,"group":"Team strength"},
+      {"key":"match_off_epa","label":"Offensive EPA matchup","value":0.039469,"group":"Efficiency"},
+      {"key":"match_def_epa","label":"Defensive EPA matchup","value":0.057277,"group":"Efficiency"},
+      {"key":"match_off_pass_epa","label":"Pass EPA matchup","value":0.064257,"group":"Passing"},
+      {"key":"match_def_pass_epa","label":"Pass defense matchup","value":0.089972,"group":"Passing"},
+      {"key":"match_off_rush_epa","label":"Rush EPA matchup","value":0.036585,"group":"Rushing"},
+      {"key":"match_def_rush_epa","label":"Rush defense matchup","value":0.073410,"group":"Rushing"},
+      {"key":"match_off_success","label":"Offensive success matchup","value":0.025236,"group":"Success rate"},
+      {"key":"match_def_success","label":"Defensive success matchup","value":0.039737,"group":"Success rate"},
+      {"key":"injury_match_usage_out","label":"OUT usage differential","value":-0.335217356763,"group":"Availability"},
+      {"key":"injury_match_usage_doubtful","label":"Doubtful usage differential","value":0.0,"group":"Availability"},
+      {"key":"injury_match_usage_questionable","label":"Questionable usage differential","value":0.0,"group":"Availability"}
+    ],
+    "injury": {
+      "away_out_usage": 0.484477037859,
+      "home_out_usage": 0.819694394621,
+      "away_doubtful_usage": 0.0,
+      "home_doubtful_usage": 0.0,
+      "away_questionable_usage": 0.0,
+      "home_questionable_usage": 0.0
+    }
+  }
+}
