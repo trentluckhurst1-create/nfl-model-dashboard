@@ -1,17 +1,28 @@
 (()=>{
 'use strict';
-function addCss(href){if(document.querySelector(`link[href^="${href}"]`))return;const l=document.createElement('link');l.rel='stylesheet';l.href=`${href}?v=75`;document.head.appendChild(l)}
-function addJs(src){if(document.querySelector(`script[src^="${src}"]`))return;const s=document.createElement('script');s.src=`${src}?v=75`;s.defer=true;document.body.appendChild(s)}
-function ensureUI(){
-  if(!document.querySelector('link[href^="game-control-v74.css"]')){const l=document.createElement('link');l.rel='stylesheet';l.href='game-control-v74.css?v=74';document.head.appendChild(l)}
-  if(!document.querySelector('script[src^="game-control-v74.js"]')){const s=document.createElement('script');s.src='game-control-v74.js?v=74';s.defer=true;document.body.appendChild(s)}
-  addCss('unified-ui-v75.css');
-  addJs('unified-ui-v75.js');
-}
-function openGame(id){if(!id)return;ensureUI();try{window.NFLWorkspace?.setGame?.(id)}catch(_){}window.EDGEiQGameCentre?.open?.(id)}
+/* v8.6: one UI stack only. Do not inject legacy v7.4/v7.5 assets. */
 function gameId(el){return el?.closest?.('[data-game]')?.dataset?.game||null}
-document.addEventListener('click',e=>{const id=gameId(e.target);if(!id)return;e.preventDefault();e.stopImmediatePropagation();openGame(id)},true);
-document.addEventListener('keydown',e=>{if(e.key!=='Enter'&&e.key!==' ')return;const id=gameId(e.target);if(!id)return;e.preventDefault();e.stopImmediatePropagation();openGame(id)},true);
-window.EDGEiQGameCentreLauncher={open:openGame};ensureUI();
-const ver=document.querySelector('.version');if(ver)ver.textContent='v7.5 · unified approved UI';
+async function openGame(id){
+  if(!id)return false;
+  try{window.NFLWorkspace?.setGame?.(id)}catch(_){}
+  for(let i=0;i<80;i++){
+    if(window.EDGEiQGameCentre?.open){
+      await window.EDGEiQGameCentre.open(id);
+      return true;
+    }
+    await new Promise(r=>setTimeout(r,25));
+  }
+  console.error('EDGEiQ Game Control Centre unavailable:',id);
+  return false;
+}
+document.addEventListener('click',e=>{
+  const id=gameId(e.target);if(!id)return;
+  e.preventDefault();e.stopImmediatePropagation();openGame(id);
+},true);
+document.addEventListener('keydown',e=>{
+  if(e.key!=='Enter'&&e.key!==' ')return;
+  const id=gameId(e.target);if(!id)return;
+  e.preventDefault();e.stopImmediatePropagation();openGame(id);
+},true);
+window.EDGEiQGameCentreLauncher={open:openGame};
 })();
