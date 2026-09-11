@@ -5,6 +5,9 @@ on:
     - cron: "17 * * * *"
 permissions:
   contents: write
+concurrency:
+  group: edgeiq-data-writers
+  cancel-in-progress: false
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -16,8 +19,9 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python scripts/update_dashboard.py
       - run: |
-          git config user.name "nfl-dashboard-bot"
+          git config user.name "edgeiq-nfl-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/dashboard.json data/news.json
           git diff --cached --quiet || git commit -m "data: refresh NFL terminal"
+          git pull --rebase origin main
           git push
