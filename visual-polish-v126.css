@@ -1,0 +1,65 @@
+/* EDGEiQ NFL v12.6 — CSS-only visual restoration. No runtime behaviour. */
+:root{--edge-panel:#08131c;--edge-panel-2:#0a1822;--edge-border:#1c3546;--edge-border-hi:#2a5066;--edge-text:#eef6fa;--edge-muted:#7f96a6;--edge-green:#7debb2;--edge-blue:#78bfff;--edge-amber:#ffd36d}
+
+/* Command game board */
+#view-command .game-list-panel{background:linear-gradient(180deg,#09151e 0%,#071019 100%);border-color:#1a3343}
+#terminalGameList .terminal-row{position:relative;border-left:2px solid transparent;transition:border-color .12s ease,background-color .12s ease,transform .12s ease}
+#terminalGameList .terminal-row:hover{background:#0b1a24;border-left-color:#2b536a}
+#terminalGameList .terminal-row.selected{background:linear-gradient(90deg,rgba(34,91,118,.24),rgba(8,18,26,.2));border-left-color:#72c7f2;box-shadow:inset 0 0 0 1px rgba(65,125,156,.12)}
+#terminalGameList .terminal-row.selected:before{content:'OPEN';position:absolute;right:10px;top:7px;color:#77c9ef;font:900 7px var(--mono);letter-spacing:.08em}
+#terminalGameList .game-name{min-width:0}
+#terminalGameList .game-name>.matchup-logo-pair{padding:3px 5px;border:1px solid #173344;border-radius:5px;background:#07131b}
+#terminalGameList .metric b{font-variant-numeric:tabular-nums}
+
+/* Game cards */
+#gamesMatrix .software-card{border-color:#1a3343;background:linear-gradient(180deg,#0a1721,#08121a);transition:transform .12s ease,border-color .12s ease,box-shadow .12s ease}
+#gamesMatrix .software-card:hover{transform:translateY(-1px);border-color:#2d5369;box-shadow:0 10px 28px rgba(0,0,0,.18)}
+#gamesMatrix .software-card h3{color:#f1f7fa}
+#gamesMatrix .software-card .matchup-logo-pair{padding:4px 6px;border:1px solid #1d3a4c;border-radius:5px;background:#07121a}
+
+/* Home visual hierarchy */
+#homeDashboard .home-featured{border-color:#21475d;background:radial-gradient(circle at 15% 20%,rgba(36,99,130,.16),transparent 34%),linear-gradient(180deg,#0a1923,#08131b)}
+#homeDashboard .home-featured .matchup-logo-pair.featured{padding:7px 9px;border:1px solid #244b61;border-radius:7px;background:#07131b;box-shadow:0 8px 24px rgba(0,0,0,.16)}
+#homeDashboard .home-card{border-color:#183343}
+#homeDashboard .home-edge,#homeDashboard .home-mover,#homeDashboard .home-attention{transition:background-color .12s ease,border-color .12s ease}
+#homeDashboard .home-edge:hover,#homeDashboard .home-mover:hover,#homeDashboard .home-attention:hover{background:#0b1a24;border-color:#294c60}
+
+/* Inspector becomes the primary game-control surface */
+#gameInspector .inspector-hero{position:relative;overflow:hidden;background:radial-gradient(circle at 50% -30%,rgba(45,115,150,.18),transparent 50%),linear-gradient(180deg,#0b1923,#08121a)}
+#gameInspector .inspector-hero:after{content:'';position:absolute;left:0;right:0;bottom:0;height:1px;background:linear-gradient(90deg,transparent,#31566d,transparent)}
+#gameInspector .inspector-matchup{justify-content:center;margin-top:4px;margin-bottom:18px}
+#gameInspector .inspector-matchup>span:not(.team-chip){color:#526b7b;font:900 11px var(--mono)}
+#gameInspector .team-chip.team-chip-rich{background:linear-gradient(180deg,#0b1a25,#08151e);border-color:#23475d;box-shadow:0 8px 24px rgba(0,0,0,.12)}
+#gameInspector .team-chip.team-chip-rich:hover{border-color:#315e77}
+#gameInspector .model-banner{margin-top:4px}
+#gameInspector .model-box{position:relative;overflow:hidden}
+#gameInspector .model-box:after{content:'';position:absolute;left:0;right:0;bottom:0;height:2px;background:#163749}
+#gameInspector .model-box:first-child:after{background:#4ab88a}
+#gameInspector .model-box:nth-child(2):after{background:#497da0}
+#gameInspector .model-box:nth-child(3):after{background:#b88b3e}
+#gameInspector .model-box:nth-child(4):after{background:#8d68b1}
+#gameInspector .section-block{padding-top:2px}
+#gameInspector .section-block h3{display:flex;align-items:center;gap:9px;text-transform:uppercase;font:900 10px var(--mono);letter-spacing:.07em;color:#a8bdca}
+#gameInspector .section-block h3:before{content:'';display:block;width:14px;height:2px;background:#31566d}
+#gameInspector .info-card{transition:border-color .12s ease,background-color .12s ease}
+#gameInspector .info-card:hover{border-color:#254b61;background:#0a1822}
+#gameInspector .section-block:nth-of-type(2) .info-card{background:linear-gradient(180deg,#0a1922,#08131b)}
+#gameInspector .section-block:nth-of-type(2) .info-card:nth-child(1),#gameInspector .section-block:nth-of-type(2) .info-card:nth-child(4){border-color:#24513f}
+#gameInspector .section-block:nth-of-type(2) .info-card:nth-child(2),#gameInspector .section-block:nth-of-type(2) .info-card:nth-child(5){border-color:#23455a}
+#gameInspector .section-block:nth-of-type(2) .info-card:nth-child(3),#gameInspector .section-block:nth-of-type(2) .info-card:nth-child(6){border-color:#5a4720}
+#gameInspector .section-block:nth-of-type(2) .info-card:nth-child(3) b,#gameInspector .section-block:nth-of-type(2) .info-card:nth-child(6) b{color:#ffd36d}
+#gameInspector .intel-row{transition:border-color .12s ease,background-color .12s ease}
+#gameInspector .intel-row:hover{border-color:#274b60;background:#091923}
+
+/* Tables / operational views */
+#view-market .table-panel,#view-injuries .table-panel,#view-performance .table-panel{border-color:#1a3343;background:#08131b}
+#view-market tbody tr,#view-injuries tbody tr,#view-performance tbody tr{transition:background-color .1s ease}
+#view-market tbody tr:hover,#view-injuries tbody tr:hover,#view-performance tbody tr:hover{background:#0a1923}
+#marketRows td:first-child,#injuryRows td:first-child{font-weight:800;color:#dce8ef}
+#injuryRows .edge-team-logo.personnel{padding:2px;border-radius:4px;background:#0a1720}
+
+/* Standings */
+#standingsGrid .edge-team-logo.standing{padding:2px;border-radius:4px;background:#09161f}
+
+/* Small screens */
+@media(max-width:760px){#terminalGameList .terminal-row.selected:before{display:none}#gameInspector .inspector-matchup{justify-content:stretch}#gameInspector .team-chip.team-chip-rich{flex:1}.matchup-logo-pair.featured{padding:5px 7px!important}}
