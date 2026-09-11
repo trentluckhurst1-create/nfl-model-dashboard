@@ -3,7 +3,7 @@ from datetime import datetime, timezone
 import json, requests, xml.etree.ElementTree as ET, re, html
 
 ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/'data'; MODEL=DATA/'model_snapshot.json'; OUT=DATA/'dashboard.json'; NEWS=DATA/'news.json'; CHANGES=DATA/'changes.json'
-HEAD={'User-Agent':'Mozilla/5.0 (compatible; EDGEiQ-NFL/2.1)'}
+HEAD={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/152 Safari/537.36','Accept':'application/json,text/plain,*/*','Referer':'https://www.espn.com/'}
 TEAM={"Arizona Cardinals":"ARI","Atlanta Falcons":"ATL","Baltimore Ravens":"BAL","Buffalo Bills":"BUF","Carolina Panthers":"CAR","Chicago Bears":"CHI","Cincinnati Bengals":"CIN","Cleveland Browns":"CLE","Dallas Cowboys":"DAL","Denver Broncos":"DEN","Detroit Lions":"DET","Green Bay Packers":"GB","Houston Texans":"HOU","Indianapolis Colts":"IND","Jacksonville Jaguars":"JAX","Kansas City Chiefs":"KC","Las Vegas Raiders":"LV","Los Angeles Chargers":"LAC","Los Angeles Rams":"LA","Miami Dolphins":"MIA","Minnesota Vikings":"MIN","New England Patriots":"NE","New Orleans Saints":"NO","New York Giants":"NYG","New York Jets":"NYJ","Philadelphia Eagles":"PHI","Pittsburgh Steelers":"PIT","San Francisco 49ers":"SF","Seattle Seahawks":"SEA","Tampa Bay Buccaneers":"TB","Tennessee Titans":"TEN","Washington Commanders":"WAS"}
 ABBR_ALIAS={'LAR':'LA','WSH':'WAS','JAC':'JAX'}
 ALIASES={k:[k,k.split()[-1]] for k in TEAM}; ALIASES.update({'San Francisco 49ers':['49ers','Niners','San Francisco'],'Los Angeles Rams':['Rams'],'Los Angeles Chargers':['Chargers'],'New England Patriots':['Patriots'],'Seattle Seahawks':['Seahawks'],'Las Vegas Raiders':['Raiders'],'Tampa Bay Buccaneers':['Buccaneers','Bucs'],'Kansas City Chiefs':['Chiefs'],'Green Bay Packers':['Packers'],'New York Jets':['Jets'],'New York Giants':['Giants']})
@@ -16,6 +16,38 @@ def code(t):
 
 def get_json(url):
     r=requests.get(url,timeout=30,headers=HEAD); r.raise_for_status(); return r.json()
+
+def find_events(obj):
+    if isinstance(obj,dict):
+        ev=obj.get('events')
+        if isinstance(ev,list) and ev and isinstance(ev[0],dict) and ('competitions' in ev[0] or 'date' in ev[0]): return ev
+        for k in ('content','scoreboard','gamepackageJSON','sports'):
+            if k in obj:
+                found=find_events(obj[k])
+                if found: return found
+        for v in obj.values():
+            found=find_events(v)
+            if found: return found
+    elif isinstance(obj,list):
+        for v in obj:
+            found=find_events(v)
+            if found: return found
+    return []
+
+def get_scoreboard(season,week):
+    urls=[
+        ('ESPN_SITE',f'https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates={season}&seasontype=2&week={week}'),
+        ('ESPN_CDN','https://cdn.espn.com/core/nfl/scoreboard?xhr=1&limit=50'),
+        ('ESPN_CDN_SCHEDULE',f'https://cdn.espn.com/core/nfl/schedule?xhr=1&year={season}&week={week}')
+    ]
+    errs=[]
+    for source,url in urls:
+        try:
+            data=get_json(url); events=find_events(data)
+            if events: return {'events':events},source
+            errs.append(f'{source}: no events')
+        except Exception as e: errs.append(f'{source}: {type(e).__name__} {e}')
+    raise RuntimeError(' | '.join(errs))
 
 def parse_stats(sm):
     out={}
@@ -44,7 +76,7 @@ def parse_players(sm):
 
 def fetch_week(model,old):
     season=int(model.get('season',2026)); week=int(model.get('week',1)); now=datetime.now(timezone.utc).isoformat()
-    data=get_json(f'https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates={season}&seasontype=2&week={week}')
+    data,score_source=get_scoreboard(season,week)
     wanted={(g['away'],g['home']):g['game_id'] for g in model.get('games',[])}; scores=[]; records={}; meta={}; rich={}
     for event in data.get('events',[]):
         comp=(event.get('competitions') or [{}])[0]; teams={}; competitors=comp.get('competitors') or []
@@ -62,7 +94,7 @@ def fetch_week(model,old):
         if pid: poss=next((v['code'] for v in teams.values() if v['id']==pid),'')
         broadcasts=[]
         for b in comp.get('broadcasts') or []: broadcasts.extend(b.get('names') or [])
-        item={'game_id':gid,'espn_event_id':str(event.get('id') or ''),'away':pair[0],'home':pair[1],'away_score':teams['away']['score'],'home_score':teams['home']['score'],'state':state,'detail':st.get('shortDetail') or st.get('description') or '','clock':status.get('displayClock') or '','period':status.get('period') or 0,'down_distance':sit.get('downDistanceText') or '','possession':poss,'last_play':(sit.get('lastPlay') or {}).get('text') or '','commence_utc':event.get('date'),'network':', '.join(dict.fromkeys(broadcasts)),'venue':(comp.get('venue') or {}).get('fullName') or '','source':'ESPN_SCOREBOARD','updated_at_utc':now}
+        item={'game_id':gid,'espn_event_id':str(event.get('id') or ''),'away':pair[0],'home':pair[1],'away_score':teams['away']['score'],'home_score':teams['home']['score'],'state':state,'detail':st.get('shortDetail') or st.get('description') or '','clock':status.get('displayClock') or '','period':status.get('period') or 0,'down_distance':sit.get('downDistanceText') or '','possession':poss,'last_play':(sit.get('lastPlay') or {}).get('text') or '','commence_utc':event.get('date'),'network':', '.join(dict.fromkeys(broadcasts)),'venue':(comp.get('venue') or {}).get('fullName') or '','source':score_source,'updated_at_utc':now}
         scores.append(item); meta[gid]={k:item[k] for k in ['commence_utc','network','venue','espn_event_id']}
         if state in {'LIVE','FINAL'} and event.get('id'):
             try:
@@ -72,8 +104,8 @@ def fetch_week(model,old):
                 rich[gid]={'source':'ESPN_GAME_SUMMARY','updated_at_utc':now,'team_stats':parse_stats(sm),'player_stats':parse_players(sm),'recent_plays':plays}
             except Exception:
                 if gid in (old.get('live_stats') or {}): rich[gid]=old['live_stats'][gid]
-    if not scores: raise RuntimeError('ESPN scoreboard returned no matching Week games')
-    return scores,records,meta,rich,now
+    if not scores: raise RuntimeError(f'{score_source} returned no matching Week games')
+    return scores,records,meta,rich,now,score_source
 
 def clean_text(s): return re.sub(r'\s+',' ',re.sub('<[^>]+>',' ',html.unescape(s or ''))).strip()
 def category(t,s=''):
@@ -92,7 +124,7 @@ def fetch_news():
     items=[]
     for src in TRUSTED:
         try:
-            root=ET.fromstring(requests.get(src['url'],timeout=25,headers=HEAD).content)
+            rr=requests.get(src['url'],timeout=25,headers=HEAD); rr.raise_for_status(); root=ET.fromstring(rr.content)
             for x in root.findall('.//item')[:30]:
                 t=clean_text(x.findtext('title')); u=(x.findtext('link') or '').strip(); d=clean_text(x.findtext('description')); p=(x.findtext('pubDate') or '').strip()
                 if t and u and not promo(t+' '+d): items.append({'title':t,'url':u,'summary':d[:420],'published':p,'source':src['name'],'source_type':'publisher','trust':src['tier'],'category':category(t,d),'teams':teams_for(t+' '+d)})
@@ -121,14 +153,14 @@ def build_changes(old,new,oldnews,newnews,prior,now):
 
 def main():
     model=json.loads(MODEL.read_text()); old=json.loads(OUT.read_text()) if OUT.exists() else {}; oldnews=json.loads(NEWS.read_text()) if NEWS.exists() else {}; prior=json.loads(CHANGES.read_text()) if CHANGES.exists() else {'items':[]}
-    checked=datetime.now(timezone.utc).isoformat(); score_ok=True
-    try: scores,records,meta,rich,source_ts=fetch_week(model,old)
+    checked=datetime.now(timezone.utc).isoformat(); score_ok=True; score_source=old.get('score_source','ESPN_SCOREBOARD')
+    try: scores,records,meta,rich,source_ts,score_source=fetch_week(model,old)
     except Exception as e:
         print('scoreboard refresh failed:',e); score_ok=False; scores=old.get('scores',[]); records=old.get('records',{}); meta=old.get('game_meta',{}); rich=old.get('live_stats',{}); source_ts=old.get('updated_at_utc')
-    payload={'updated_at_utc':source_ts,'checked_at_utc':checked,'feed_health':{'scoreboard_ok':score_ok,'checked_at_utc':checked},'season':int(model.get('season',2026)),'week':int(model.get('week',1)),'score_source':'ESPN_SCOREBOARD','scores':scores,'records':records,'game_meta':meta,'live_stats':rich,'injuries':old.get('injuries',[])}
+    payload={'updated_at_utc':source_ts,'checked_at_utc':checked,'feed_health':{'scoreboard_ok':score_ok,'checked_at_utc':checked,'source':score_source},'season':int(model.get('season',2026)),'week':int(model.get('week',1)),'score_source':score_source,'scores':scores,'records':records,'game_meta':meta,'live_stats':rich,'injuries':old.get('injuries',[])}
     if not scores: raise RuntimeError('No scoreboard state available')
     fresh=fetch_news(); news_ok=bool(fresh); news_ts=checked if news_ok else oldnews.get('updated_at_utc'); news={'updated_at_utc':news_ts,'checked_at_utc':checked,'policy':'CURATED_TRUSTED_SOURCES_ONLY','items':fresh or oldnews.get('items',[]),'reporters':REPORTERS}
     changes=build_changes(old,payload,oldnews,news,prior,checked)
     OUT.write_text(json.dumps(payload,indent=2)); NEWS.write_text(json.dumps(news,indent=2)); CHANGES.write_text(json.dumps(changes,indent=2))
-    print(f"ops refresh scoreboard_ok={score_ok} games={len(scores)} news_ok={news_ok} changes={len(changes['items'])}")
+    print(f"ops refresh scoreboard_ok={score_ok} source={score_source} games={len(scores)} news_ok={news_ok} changes={len(changes['items'])}")
 if __name__=='__main__': main()
