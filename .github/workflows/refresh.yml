@@ -5,6 +5,7 @@ on:
     paths:
       - '.github/workflows/refresh.yml'
       - 'scripts/update_dashboard.py'
+      - 'scripts/update_h2h_market.py'
   schedule:
     - cron: "*/5 * * * *"
 permissions:
@@ -27,12 +28,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Refresh published operations data
-        run: python scripts/update_dashboard.py
+        run: |
+          python scripts/update_dashboard.py
+          python scripts/update_h2h_market.py
       - name: Publish refreshed data
         run: |
           git config user.name "edgeiq-nfl-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/dashboard.json data/news.json data/changes.json
+          git add data/dashboard.json data/news.json data/changes.json data/h2h_market.json
           if git diff --cached --quiet; then
             echo "No published-data changes"
             exit 0
