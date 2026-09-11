@@ -1,0 +1,58 @@
+(()=>{
+  const S={model:null,market:{},changes:{items:[]},dash:null,current:null,loading:false};
+  const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const fmtTs=ts=>{if(!ts)return'—';try{return new Date(ts).toLocaleString(undefined,{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});}catch{return ts}};
+  const add=(arr,ts,type,title,detail,rank=0)=>{if(ts)arr.push({ts,type,title,detail,rank});};
+  async function load(){
+    if(S.loading||S.model)return; S.loading=true;
+    const bust='?t='+Date.now();
+    try{
+      const [m,h,c,d]=await Promise.all([
+        fetch('data/model_snapshot.json'+bust).then(r=>r.json()),
+        fetch('data/market_history.json'+bust).then(r=>r.json()),
+        fetch('data/changes.json'+bust).then(r=>r.json()),
+        fetch('data/dashboard.json'+bust).then(r=>r.json())
+      ]);
+      S.model=m;S.market=h||{};S.changes=c||{items:[]};S.dash=d||{};
+    }catch(e){console.warn('EDGEiQ Decision Ledger load failed',e)}finally{S.loading=false;render();}
+  }
+  function score(id){return (S.dash?.scores||S.dash?.games||[]).find(x=>x.game_id===id)||null;}
+  function game(id){return S.model?.games?.find(x=>x.game_id===id)||null;}
+  function selected(){
+    if(S.current)return S.current;
+    const u=new URLSearchParams(location.search).get('game'); if(u)return u;
+    return document.querySelector('.terminal-row.selected')?.dataset?.game||null;
+  }
+  function events(id){
+    const g=game(id); if(!g)return[]; const out=[];
+    add(out,S.model.generated_at_utc,'MODEL',g.locked?'008A MODEL LOCK':'008A SNAPSHOT',`${g.our_line||'—'} · ${g.status||'CURRENT'} · market input: NO`,10);
+    const hist=S.market?.[id]||[]; let prev=null;
+    hist.forEach((x,i)=>{
+      const disp=x.display||'—';
+      if(i===0||disp!==prev) add(out,x.ts,'MARKET',i===0?'MARKET FIRST CAPTURE':'MARKET MOVED',`${disp}${x.books!=null?` · ${x.books} books`:''}`,20);
+      prev=disp;
+    });
+    (S.changes?.items||[]).filter(x=>x.game_id===id).forEach(x=>add(out,x.ts,'OPS','OPERATIONAL UPDATE',x.detail||x.title||'',30));
+    const s=score(id);
+    if(s?.commence_utc) add(out,s.commence_utc,'GAME','KICKOFF',`${g.away} @ ${g.home}`,40);
+    if(s?.state==='FINAL'){
+      const finalTs=S.dash?.updated_at_utc||S.dash?.checked_at_utc||S.changes?.updated_at_utc;
+      add(out,finalTs,'FINAL','FINAL RESULT',`${s.away||g.away} ${s.away_score} – ${s.home_score} ${s.home||g.home}`,50);
+    }
+    return out.sort((a,b)=>new Date(a.ts)-new Date(b.ts)||a.rank-b.rank);
+  }
+  function render(){
+    const id=selected(),host=document.querySelector('#gameInspector');
+    if(!id||!host||host.classList.contains('hidden'))return;
+    const g=game(id); if(!g)return;
+    let box=host.querySelector('.edgeiq-decision-ledger');
+    if(!box){box=document.createElement('section');box.className='edgeiq-decision-ledger';const hero=host.querySelector('.inspector-hero');hero?.insertAdjacentElement('afterend',box);if(!hero)host.prepend(box);}
+    const ev=events(id);
+    box.innerHTML=`<div class="dl-head"><div><span class="dl-kicker">EDGEiQ / DECISION LEDGER</span><h3>Immutable Game Record</h3></div><span class="dl-state ${g.locked?'locked':''}">${g.locked?'MODEL LOCKED':'CURRENT SNAPSHOT'}</span></div><div class="dl-summary"><div><span>008A FAIR</span><b>${esc(g.our_line||'—')}</b></div><div><span>MODEL SIDE</span><b>${esc(g.model_side||'—')}</b></div><div><span>EDGE</span><b>${g.edge==null?'—':Number(g.edge).toFixed(2)+' pts'}</b></div><div><span>POST-RESULT REWRITE</span><b>NEVER</b></div></div><div class="dl-timeline">${ev.map((e,i)=>`<div class="dl-item ${e.type.toLowerCase()}"><div class="dl-marker"></div><div class="dl-time">${esc(fmtTs(e.ts))}</div><div class="dl-event"><strong>${esc(e.title)}</strong><span>${esc(e.detail)}</span></div></div>`).join('')||'<div class="dl-empty">No ledger events published yet.</div>'}</div><div class="dl-foot">Chronological record only · market, news, live and result data never rewrite frozen 008A.</div>`;
+  }
+  document.addEventListener('click',e=>{const x=e.target.closest('[data-game]');if(x?.dataset?.game){S.current=x.dataset.game;setTimeout(()=>{load();render()},60)}} ,true);
+  new MutationObserver(()=>render()).observe(document.body,{subtree:true,childList:true,attributes:true,attributeFilter:['class']});
+  window.addEventListener('edgeiq:context',()=>render());
+  setInterval(render,5000);
+  load();
+})();
