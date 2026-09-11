@@ -1,43 +1,69 @@
 from pathlib import Path
-from datetime import datetime,timezone
-import json,requests,xml.etree.ElementTree as ET,re,html
+from datetime import datetime, timezone
+import json, requests, xml.etree.ElementTree as ET, re, html
 
-ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/'data'; MODEL=DATA/'model_snapshot.json'; OUT=DATA/'dashboard.json'; NEWS=DATA/'news.json'
+ROOT = Path(__file__).resolve().parents[1]
+DATA = ROOT / 'data'
+MODEL = DATA / 'model_snapshot.json'
+OUT = DATA / 'dashboard.json'
+NEWS = DATA / 'news.json'
+HEAD = {'User-Agent':'Mozilla/5.0 (compatible; EDGEiQ-NFL/1.0)'}
 TEAM={"Arizona Cardinals":"ARI","Atlanta Falcons":"ATL","Baltimore Ravens":"BAL","Buffalo Bills":"BUF","Carolina Panthers":"CAR","Chicago Bears":"CHI","Cincinnati Bengals":"CIN","Cleveland Browns":"CLE","Dallas Cowboys":"DAL","Denver Broncos":"DEN","Detroit Lions":"DET","Green Bay Packers":"GB","Houston Texans":"HOU","Indianapolis Colts":"IND","Jacksonville Jaguars":"JAX","Kansas City Chiefs":"KC","Las Vegas Raiders":"LV","Los Angeles Chargers":"LAC","Los Angeles Rams":"LA","Miami Dolphins":"MIA","Minnesota Vikings":"MIN","New England Patriots":"NE","New Orleans Saints":"NO","New York Giants":"NYG","New York Jets":"NYJ","Philadelphia Eagles":"PHI","Pittsburgh Steelers":"PIT","San Francisco 49ers":"SF","Seattle Seahawks":"SEA","Tampa Bay Buccaneers":"TB","Tennessee Titans":"TEN","Washington Commanders":"WAS"}
-ALIASES={k:[k,k.split()[-1]] for k in TEAM}; ALIASES.update({'San Francisco 49ers':['49ers','Niners','San Francisco'],'Los Angeles Rams':['Rams'],'Los Angeles Chargers':['Chargers'],'New England Patriots':['Patriots'],'Seattle Seahawks':['Seahawks'],'Las Vegas Raiders':['Raiders'],'Tampa Bay Buccaneers':['Buccaneers','Bucs'],'Kansas City Chiefs':['Chiefs'],'Green Bay Packers':['Packers'],'New York Jets':['Jets'],'New York Giants':['Giants']})
-HEAD={'User-Agent':'Mozilla/5.0 (compatible; NFLModelTerminal/1.0)'}
+ALIASES={k:[k,k.split()[-1]] for k in TEAM}
+ALIASES.update({'San Francisco 49ers':['49ers','Niners','San Francisco'],'Los Angeles Rams':['Rams'],'Los Angeles Chargers':['Chargers'],'New England Patriots':['Patriots'],'Seattle Seahawks':['Seahawks'],'Las Vegas Raiders':['Raiders'],'Tampa Bay Buccaneers':['Buccaneers','Bucs'],'Kansas City Chiefs':['Chiefs'],'Green Bay Packers':['Packers'],'New York Jets':['Jets'],'New York Giants':['Giants']})
 TRUSTED_SOURCES=[{'name':'ESPN NFL','url':'https://www.espn.com/espn/rss/nfl/news','tier':'NETWORK'},{'name':'CBS Sports NFL','url':'https://www.cbssports.com/rss/headlines/nfl/','tier':'NETWORK'}]
 REPORTERS=[{'name':'Ian Rapoport','org':'NFL Network','handle':'@RapSheet','profile':'https://x.com/RapSheet','tier':'INSIDER'},{'name':'Adam Schefter','org':'ESPN','handle':'@AdamSchefter','profile':'https://x.com/AdamSchefter','tier':'INSIDER'},{'name':'Tom Pelissero','org':'NFL Network','handle':'@TomPelissero','profile':'https://x.com/TomPelissero','tier':'INSIDER'},{'name':'Mike Garafolo','org':'NFL Network','handle':'@MikeGarafolo','profile':'https://x.com/MikeGarafolo','tier':'INSIDER'}]
+
 def fetch_week(model):
-    try:r=requests.get('https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=2026&seasontype=2&week=1',timeout=30,headers=HEAD);r.raise_for_status();d=r.json()
-    except Exception as e:print('scoreboard refresh failed:',e);return [],{},{}
-    wanted={(g['away'],g['home']):g['game_id'] for g in model['games']};out=[];records={};meta={}
-    for e in d.get('events',[]):
-        c=(e.get('competitions') or [{}])[0];t={}
-        for x in c.get('competitors',[]):
-            code=TEAM.get(x.get('team',{}).get('displayName'))
-            if not code:continue
-            t[x.get('homeAway')]=(code,x.get('score'));recs=x.get('records') or [];overall=next((z.get('summary') for z in recs if z.get('type')=='total'),None) or (recs[0].get('summary') if recs else None)
-            if overall:records[code]=overall
-        if 'away' not in t or 'home' not in t:continue
-        pair=(t['away'][0],t['home'][0]);gid=wanted.get(pair)
-        if not gid:continue
-        st=e.get('status',{}).get('type',{});state='FINAL' if st.get('completed') else ('LIVE' if st.get('state')=='in' else 'SCHEDULED');broadcasts=[]
-        for b in c.get('broadcasts') or []:broadcasts.extend(b.get('names') or [])
-        item={'game_id':gid,'away':pair[0],'home':pair[1],'away_score':int(t['away'][1] or 0),'home_score':int(t['home'][1] or 0),'state':state,'detail':st.get('shortDetail') or st.get('description') or '','commence_utc':e.get('date'),'network':', '.join(dict.fromkeys(broadcasts)) if broadcasts else '','venue':(c.get('venue') or {}).get('fullName') or ''};out.append(item);meta[gid]={k:item[k] for k in ['commence_utc','network','venue']}
+    season=int(model.get('season',2026));week=int(model.get('week',1))
+    try:
+        r=requests.get(f'https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates={season}&seasontype=2&week={week}',timeout=30,headers=HEAD)
+        r.raise_for_status();data=r.json()
+    except Exception as exc:
+        print('scoreboard refresh failed:',exc);return [],{},{}
+    wanted={(g['away'],g['home']):g['game_id'] for g in model.get('games',[])}
+    out=[];records={};meta={};now=datetime.now(timezone.utc).isoformat()
+    for event in data.get('events',[]):
+        comp=(event.get('competitions') or [{}])[0];teams={};competitors=comp.get('competitors') or []
+        for x in competitors:
+            code=TEAM.get((x.get('team') or {}).get('displayName'))
+            if not code: continue
+            teams[x.get('homeAway')]=(code,int(x.get('score') or 0))
+            recs=x.get('records') or []
+            overall=next((z.get('summary') for z in recs if z.get('type')=='total'),None) or (recs[0].get('summary') if recs else None)
+            if overall: records[code]=overall
+        if 'away' not in teams or 'home' not in teams: continue
+        pair=(teams['away'][0],teams['home'][0]);gid=wanted.get(pair)
+        if not gid: continue
+        status=event.get('status') or {};st=status.get('type') or {}
+        state='FINAL' if st.get('completed') else ('LIVE' if st.get('state')=='in' else 'SCHEDULED')
+        broadcasts=[]
+        for b in comp.get('broadcasts') or []: broadcasts.extend(b.get('names') or [])
+        situation=comp.get('situation') or {};possession=None;poss_id=situation.get('possession')
+        if poss_id:
+            for x in competitors:
+                if str((x.get('team') or {}).get('id'))==str(poss_id):
+                    possession=TEAM.get((x.get('team') or {}).get('displayName'));break
+        last_play=situation.get('lastPlay') or {}
+        item={'game_id':gid,'away':pair[0],'home':pair[1],'away_score':teams['away'][1],'home_score':teams['home'][1],'state':state,'detail':st.get('shortDetail') or st.get('description') or '','clock':status.get('displayClock') or '','period':status.get('period') or 0,'down_distance':situation.get('downDistanceText') or '','possession':possession,'last_play':last_play.get('text') or '','commence_utc':event.get('date'),'network':', '.join(dict.fromkeys(broadcasts)) if broadcasts else '','venue':(comp.get('venue') or {}).get('fullName') or '','source':'ESPN_SCOREBOARD','updated_at_utc':now}
+        out.append(item);meta[gid]={k:item[k] for k in ['commence_utc','network','venue']}
     return out,records,meta
+
 def clean_text(s):
     s=re.sub('<[^>]+>',' ',html.unescape(s or ''));return re.sub(r'\s+',' ',s).strip()
+
 def category(title,summary=''):
     s=(title+' '+summary).lower()
-    if any(k in s for k in ['injur','questionable','doubtful','ruled out','practice','surgery','mri','concussion']):return 'injury'
-    if any(k in s for k in ['sign','trade','waiv','release','contract','extension','roster','activated','reserve']):return 'transaction'
+    if any(k in s for k in ['injur','questionable','doubtful','ruled out','practice','surgery','mri','concussion']): return 'injury'
+    if any(k in s for k in ['sign','trade','waiv','release','contract','extension','roster','activated','reserve']): return 'transaction'
     return 'game'
+
 def teams_for(text):
     s=text.lower();found=[]
     for full,code in TEAM.items():
-        if any(re.search(r'\b'+re.escape(a.lower())+r'\b',s) for a in ALIASES.get(full,[full])):found.append(code)
+        if any(re.search(r'\b'+re.escape(a.lower())+r'\b',s) for a in ALIASES.get(full,[full])): found.append(code)
     return sorted(set(found))
+
 def fetch_news():
     items=[]
     for src in TRUSTED_SOURCES:
@@ -46,14 +72,23 @@ def fetch_news():
             for x in root.findall('.//item')[:20]:
                 title=clean_text(x.findtext('title'));link=(x.findtext('link') or '').strip();desc=clean_text(x.findtext('description'));pub=(x.findtext('pubDate') or '').strip()
                 if title and link:
-                    txt=title+' '+desc;items.append({'title':title,'url':link,'summary':desc[:420],'published':pub,'source':src['name'],'source_type':'publisher','trust':src['tier'],'category':category(title,desc),'teams':teams_for(txt)})
-        except Exception as e:print('news refresh failed:',src['url'],e)
+                    items.append({'title':title,'url':link,'summary':desc[:420],'published':pub,'source':src['name'],'source_type':'publisher','trust':src['tier'],'category':category(title,desc),'teams':teams_for(title+' '+desc)})
+        except Exception as exc: print('news refresh failed:',src['url'],exc)
     seen=set();clean=[]
     for x in items:
-        k=re.sub(r'\W+',' ',x['title'].lower()).strip()
-        if k in seen:continue
-        seen.add(k);clean.append(x)
+        key=re.sub(r'\W+',' ',x['title'].lower()).strip()
+        if key in seen: continue
+        seen.add(key);clean.append(x)
     return clean[:40]
+
 def main():
-    model=json.loads(MODEL.read_text(encoding='utf-8'));old=json.loads(OUT.read_text(encoding='utf-8')) if OUT.exists() else {};scores,records,game_meta=fetch_week(model);now=datetime.now(timezone.utc).isoformat();payload={'updated_at_utc':now,'season':2026,'week':1,'scores':scores or old.get('scores',[]),'records':records or old.get('records',{}),'game_meta':game_meta or old.get('game_meta',{}),'injuries':old.get('injuries',[])};OUT.write_text(json.dumps(payload,indent=2),encoding='utf-8');fresh=fetch_news();oldnews=json.loads(NEWS.read_text(encoding='utf-8')) if NEWS.exists() else {};NEWS.write_text(json.dumps({'updated_at_utc':now,'policy':'CURATED_TRUSTED_SOURCES_ONLY','items':fresh or oldnews.get('items',[]),'reporters':REPORTERS,'publisher_watch':[{'name':'NFL.com','url':'https://www.nfl.com/news/','tier':'OFFICIAL'},{'name':'ESPN NFL','url':'https://www.espn.com/nfl/','tier':'NETWORK'},{'name':'FOX Sports NFL','url':'https://www.foxsports.com/nfl','tier':'NETWORK'},{'name':'CBS Sports NFL','url':'https://www.cbssports.com/nfl/','tier':'NETWORK'}]},indent=2),encoding='utf-8');print(f'dashboard refreshed: scores={len(payload["scores"])} records={len(payload["records"])} news={len(fresh)}')
-if __name__=='__main__':main()
+    model=json.loads(MODEL.read_text(encoding='utf-8'));old=json.loads(OUT.read_text(encoding='utf-8')) if OUT.exists() else {}
+    scores,records,game_meta=fetch_week(model);now=datetime.now(timezone.utc).isoformat()
+    payload={'updated_at_utc':now,'season':int(model.get('season',2026)),'week':int(model.get('week',1)),'score_source':'ESPN_SCOREBOARD','scores':scores or old.get('scores',[]),'records':records or old.get('records',{}),'game_meta':game_meta or old.get('game_meta',{}),'injuries':old.get('injuries',[])}
+    if not payload['scores']: raise RuntimeError('No matching scoreboard rows and no prior scoreboard state; refusing empty dashboard')
+    OUT.write_text(json.dumps(payload,indent=2),encoding='utf-8')
+    fresh=fetch_news();oldnews=json.loads(NEWS.read_text(encoding='utf-8')) if NEWS.exists() else {}
+    NEWS.write_text(json.dumps({'updated_at_utc':now,'policy':'CURATED_TRUSTED_SOURCES_ONLY','items':fresh or oldnews.get('items',[]),'reporters':REPORTERS,'publisher_watch':[{'name':'NFL.com','url':'https://www.nfl.com/news/','tier':'OFFICIAL'},{'name':'ESPN NFL','url':'https://www.espn.com/nfl/','tier':'NETWORK'},{'name':'FOX Sports NFL','url':'https://www.foxsports.com/nfl','tier':'NETWORK'},{'name':'CBS Sports NFL','url':'https://www.cbssports.com/nfl/','tier':'NETWORK'}]},indent=2),encoding='utf-8')
+    print(f'dashboard refreshed: scores={len(payload["scores"])} records={len(payload["records"])} news={len(fresh)}')
+
+if __name__=='__main__': main()
