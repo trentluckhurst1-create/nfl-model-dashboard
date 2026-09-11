@@ -20,6 +20,6 @@ function openGame(id){if(!id)return;renderView('command');stableInspector(id);se
 function go(view){renderView(view);setUrl(view,null)}
 document.addEventListener('click',e=>{const nav=e.target.closest('[data-view],[data-view-jump]');if(nav){const view=nav.dataset.view||nav.dataset.viewJump;if(VIEWS.includes(view)){e.preventDefault();e.stopImmediatePropagation();go(view);return}}const game=e.target.closest('[data-game]');if(game){e.preventDefault();e.stopImmediatePropagation();openGame(game.dataset.game)}},true);
 window.addEventListener('popstate',()=>{const q=new URLSearchParams(location.search),view=q.get('view')||'home',game=q.get('game');renderView(view);if(game)setTimeout(()=>stableInspector(game),0)});
-function boot(){const q=new URLSearchParams(location.search),game=q.get('game'),view=game?'command':(q.get('view')||'home');renderView(view);if(game){let tries=0;const retry=()=>{if(stableInspector(game)||++tries>20)return;setTimeout(retry,100)};retry()}const ver=qs('.version');if(ver)ver.textContent='EDGEiQ NFL · v12.1 STABLE';}
+function boot(){const q=new URLSearchParams(location.search),game=q.get('game'),view=game?'command':(q.get('view')||'home');renderView(view);if(game){let tries=0;const retry=()=>{if(stableInspector(game)||++tries>20)return;setTimeout(retry,100)};retry()}const ver=qs('.version');if(ver)ver.textContent='EDGEiQ NFL · v12.2 STABLE';}
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',boot,{once:true});else boot();
 })();
