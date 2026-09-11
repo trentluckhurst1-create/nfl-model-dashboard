@@ -1,8 +1,6 @@
-name: Refresh NFL Live Scores
+name: Refresh NFL Live Scores (Manual Fallback)
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/5 * * * *"
 permissions:
   contents: write
 concurrency:
@@ -11,8 +9,11 @@ concurrency:
 jobs:
   live-scores:
     runs-on: ubuntu-latest
+    timeout-minutes: 4
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -22,6 +23,10 @@ jobs:
           git config user.name "edgeiq-nfl-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/dashboard.json
-          git diff --cached --quiet || git commit -m "data: refresh live scoreboard"
+          if git diff --cached --quiet; then
+            echo "No scoreboard changes"
+            exit 0
+          fi
+          git commit -m "data: manual live-score fallback refresh"
           git pull --rebase origin main
           git push
