@@ -1,27 +1,35 @@
 name: Refresh EDGEiQ NFL Operations
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/refresh.yml'
+      - 'scripts/update_dashboard.py'
   schedule:
     - cron: "*/5 * * * *"
 permissions:
   contents: write
 concurrency:
-  group: edgeiq-data-writers
-  cancel-in-progress: false
+  group: edgeiq-operations-refresh
+  cancel-in-progress: true
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 4
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install -r requirements.txt
-      - run: python scripts/update_dashboard.py
-      - run: |
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Refresh published operations data
+        run: python scripts/update_dashboard.py
+      - name: Publish refreshed data
+        run: |
           git config user.name "edgeiq-nfl-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/dashboard.json data/news.json data/changes.json
@@ -30,5 +38,12 @@ jobs:
             exit 0
           fi
           git commit -m "data: refresh EDGEiQ NFL operations"
-          git pull --rebase origin main
-          git push
+          for attempt in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Publish attempt $attempt failed; retrying"
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 3))
+          done
+          exit 1
