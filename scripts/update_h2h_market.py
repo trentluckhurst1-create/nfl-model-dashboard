@@ -49,28 +49,43 @@ def american_value(v):
     if v is None: return None
     s=str(v).strip().replace('$','').replace(',','')
     if s.upper() in {'EVEN','EV','EVENS'}: return 100
-    try:
-        n=float(s)
-    except Exception:
-        return None
+    try: n=float(s)
+    except Exception: return None
     if abs(n)<100: return None
     return int(round(n))
 
 def decimal_from_american(a):
     if a is None: return None
-    return round(1 + (100/a if a>0 else 100/abs(a)), 3) if a<0 else round(1+a/100,3)
+    return round(1+100/abs(a),3) if a<0 else round(1+a/100,3)
 
-def parse_odds(comp):
-    odds=comp.get('odds') or []
-    for row in odds:
-        away=row.get('awayTeamOdds') or row.get('awayOdds') or {}
-        home=row.get('homeTeamOdds') or row.get('homeOdds') or {}
-        aa=american_value(away); ha=american_value(home)
-        if aa is None or ha is None:
-            continue
-        provider=(row.get('provider') or {})
-        provider_name=provider.get('name') or provider.get('displayName') or row.get('providerName') or 'ESPN odds feed'
-        return {'provider':provider_name,'away_american':aa,'home_american':ha,'away_decimal':decimal_from_american(aa),'home_decimal':decimal_from_american(ha)}
+def price_from_row(row):
+    if not isinstance(row,dict): return None
+    away=row.get('awayTeamOdds') or row.get('awayOdds') or row.get('away') or {}
+    home=row.get('homeTeamOdds') or row.get('homeOdds') or row.get('home') or {}
+    aa=american_value(away); ha=american_value(home)
+    if aa is None or ha is None: return None
+    provider=row.get('provider') or {}
+    if isinstance(provider,dict): provider_name=provider.get('name') or provider.get('displayName')
+    else: provider_name=str(provider)
+    provider_name=provider_name or row.get('providerName') or 'ESPN odds feed'
+    return {'provider':provider_name,'away_american':aa,'home_american':ha,'away_decimal':decimal_from_american(aa),'home_decimal':decimal_from_american(ha)}
+
+def find_price(obj):
+    if isinstance(obj,dict):
+        odds=obj.get('odds')
+        if isinstance(odds,list):
+            for row in odds:
+                p=price_from_row(row)
+                if p: return p
+        p=price_from_row(obj)
+        if p: return p
+        for v in obj.values():
+            p=find_price(v)
+            if p: return p
+    elif isinstance(obj,list):
+        for v in obj:
+            p=find_price(v)
+            if p: return p
     return None
 
 def get_events(season,week):
@@ -87,6 +102,19 @@ def get_events(season,week):
         except Exception as e: errors.append(f'{source}: {type(e).__name__}')
     raise RuntimeError(' | '.join(errors))
 
+def fetch_game_price(event_id):
+    if not event_id: return None,None
+    urls=[
+      ('ESPN_CDN_GAME',f'https://cdn.espn.com/core/nfl/game?xhr=1&gameId={event_id}'),
+      ('ESPN_CORE_ODDS',f'https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/{event_id}/competitions/{event_id}/odds')]
+    for source,url in urls:
+        try:
+            p=find_price(get_json(url))
+            if p: return p,source
+        except Exception:
+            pass
+    return None,None
+
 def main():
     model=json.loads(MODEL.read_text())
     old=json.loads(OUT.read_text()) if OUT.exists() else {'games':{}}
@@ -101,9 +129,11 @@ def main():
         if 'away' not in pair or 'home' not in pair: continue
         gid=wanted.get((pair['away'],pair['home']))
         if not gid: continue
-        price=parse_odds(comp)
+        price=find_price(comp); price_source=source
+        if not price:
+            price,price_source=fetch_game_price(str(event.get('id') or ''))
         if not price: continue
-        price.update({'game_id':gid,'away':pair['away'],'home':pair['home'],'source':source,'checked_at_utc':now})
+        price.update({'game_id':gid,'away':pair['away'],'home':pair['home'],'source':price_source,'checked_at_utc':now})
         games[gid]=price; found+=1
     payload={'updated_at_utc':now,'source':source,'games':games,'fresh_prices_found':found}
     OUT.write_text(json.dumps(payload,indent=2))
