@@ -2,42 +2,18 @@
 'use strict';
 const VIEWS=['home','command','games','market','injuries','news','performance','standings','model'];
 const TITLES={home:['EDGEiQ NFL / HOME','NFL Intelligence Home'],command:['EDGEiQ NFL / COMMAND','NFL Command Centre'],games:['EDGEiQ NFL / GAMES','Week 1 Games'],market:['EDGEiQ NFL / MARKET','Market Monitor'],injuries:['EDGEiQ NFL / PERSONNEL','Personnel Centre'],news:['EDGEiQ NFL / INTELLIGENCE','Intelligence Desk'],performance:['EDGEiQ NFL / PERFORMANCE','Performance'],standings:['EDGEiQ NFL / STANDINGS','Standings'],model:['EDGEiQ NFL / MODEL','Model Console']};
-const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
-function renderView(view){
-  if(!VIEWS.includes(view))view='home';
-  $$('.view').forEach(el=>el.classList.toggle('active',el.id===`view-${view}`));
-  $$('.side-nav [data-view]').forEach(el=>el.classList.toggle('active',el.dataset.view===view));
-  const t=TITLES[view]||TITLES.home;
-  if($('#viewEyebrow'))$('#viewEyebrow').textContent=t[0];
-  if($('#viewTitle'))$('#viewTitle').textContent=t[1];
-  document.title=`EDGEiQ NFL · ${t[1]}`;
-  const fn={home:'renderHome',command:'renderCommand',games:'renderGames',market:'renderMarket',injuries:'renderInjuries',news:'renderNews',performance:'renderPerformance',standings:'renderStandings'}[view];
-  if(fn&&typeof window[fn]==='function'){try{window[fn]()}catch(e){console.warn('EDGEiQ view render failed',view,e)}}
-  return view;
-}
-function setUrl(view,game){
-  const u=new URL(location.href);u.search='';u.searchParams.set('view',view);if(game)u.searchParams.set('game',game);history.pushState({view,game},'',u.pathname+'?'+u.searchParams.toString());
-}
-function openGame(id){
-  if(!id)return;
-  renderView('command');
-  if(typeof window.selectGame==='function')window.selectGame(id);
-  else if(typeof selectGame==='function')selectGame(id);
-  setUrl('command',id);
-}
+const qs=s=>document.querySelector(s),qsa=s=>[...document.querySelectorAll(s)];
+const safe=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function renderView(view){if(!VIEWS.includes(view))view='home';qsa('.view').forEach(el=>el.classList.toggle('active',el.id===`view-${view}`));qsa('.side-nav [data-view]').forEach(el=>el.classList.toggle('active',el.dataset.view===view));const t=TITLES[view]||TITLES.home;if(qs('#viewEyebrow'))qs('#viewEyebrow').textContent=t[0];if(qs('#viewTitle'))qs('#viewTitle').textContent=t[1];document.title=`EDGEiQ NFL · ${t[1]}`;const fn={home:'renderHome',command:'renderCommand',games:'renderGames',market:'renderMarket',injuries:'renderInjuries',news:'renderNews',performance:'renderPerformance',standings:'renderStandings'}[view];if(fn&&typeof window[fn]==='function'){try{window[fn]()}catch(e){console.warn('EDGEiQ view render failed',view,e)}}return view}
+function setUrl(view,game){const u=new URL(location.href);u.search='';u.searchParams.set('view',view);if(game)u.searchParams.set('game',game);history.pushState({view,game},'',u.pathname+'?'+u.searchParams.toString())}
+function findGame(id){try{return (model?.games||[]).find(g=>g.game_id===id)||null}catch(_){return null}}
+function findScore(id){try{return (live?.scores||[]).find(s=>s.game_id===id)||null}catch(_){return null}}
+function marketFor(g){try{const h=marketHistory?.[g.game_id]||[];return h.length?(h[h.length-1].display||g.market||'—'):(g.market||'—')}catch(_){return g.market||'—'}}
+function stableInspector(id){const g=findGame(id),empty=qs('#inspectorEmpty'),ins=qs('#gameInspector');if(!g||!ins)return false;const s=findScore(id),m=marketFor(g);if(empty)empty.style.display='none';ins.classList.remove('hidden');ins.style.display='block';ins.innerHTML=`<div class="inspector-hero"><div class="inspector-kicker"><span>${safe(s?.state||'PREGAME')}</span><span class="badge ${s?.state==='FINAL'?'lock':''}">${safe(g.locked?'008A LOCKED':'CURRENT')}</span></div><div class="inspector-matchup"><div class="team-chip"><span class="team-logo">${safe(g.away)}</span>${safe(g.away)}</div><span>@</span><div class="team-chip"><span class="team-logo">${safe(g.home)}</span>${safe(g.home)}</div></div><div class="model-banner"><div class="model-box"><span>008A FAIR</span><b>${safe(g.our_line||'—')}</b></div><div class="model-box"><span>MARKET</span><b>${safe(m)}</b></div><div class="model-box"><span>EDGE</span><b>${g.edge==null?'—':Number(g.edge).toFixed(2)}</b></div><div class="model-box"><span>MODEL SIDE</span><b>${safe(g.model_side||'—')}</b></div></div></div><div class="inspector-content"><div class="section-block"><h3>Game state</h3><div class="info-grid"><div class="info-card"><span>Status</span><b>${safe(s?.detail||s?.state||'Scheduled')}</b></div><div class="info-card"><span>Score</span><b>${s?`${safe(s.away||g.away)} ${safe(s.away_score??'—')} · ${safe(s.home||g.home)} ${safe(s.home_score??'—')}`:'—'}</b></div><div class="info-card"><span>Model record</span><b>${g.locked?'IMMUTABLE':'CURRENT'}</b></div><div class="info-card"><span>Post-result rewrite</span><b>NEVER</b></div></div></div><div class="section-block"><h3>Stable inspector</h3><p class="muted">Direct deterministic render. No observer-driven game modules are active.</p></div></div>`;qsa('.terminal-row').forEach(r=>r.classList.toggle('selected',r.dataset.game===id));return true}
+function openGame(id){if(!id)return;renderView('command');stableInspector(id);setUrl('command',id)}
 function go(view){renderView(view);setUrl(view,null)}
-document.addEventListener('click',e=>{
-  const nav=e.target.closest('[data-view],[data-view-jump]');
-  if(nav){const view=nav.dataset.view||nav.dataset.viewJump;if(VIEWS.includes(view)){e.preventDefault();e.stopPropagation();go(view);return}}
-  const game=e.target.closest('[data-game]');
-  if(game){e.preventDefault();e.stopPropagation();openGame(game.dataset.game)}
-},true);
-window.addEventListener('popstate',()=>{const q=new URLSearchParams(location.search),view=q.get('view')||'home',game=q.get('game');renderView(view);if(game&&typeof window.selectGame==='function')window.selectGame(game)});
-function boot(){
-  const q=new URLSearchParams(location.search),game=q.get('game'),view=game?'command':(q.get('view')||'home');
-  renderView(view);
-  if(game&&typeof window.selectGame==='function')window.selectGame(game);
-  const ver=document.querySelector('.version');if(ver)ver.textContent='EDGEiQ NFL · v11.9 STABLE';
-}
+document.addEventListener('click',e=>{const nav=e.target.closest('[data-view],[data-view-jump]');if(nav){const view=nav.dataset.view||nav.dataset.viewJump;if(VIEWS.includes(view)){e.preventDefault();e.stopImmediatePropagation();go(view);return}}const game=e.target.closest('[data-game]');if(game){e.preventDefault();e.stopImmediatePropagation();openGame(game.dataset.game)}},true);
+window.addEventListener('popstate',()=>{const q=new URLSearchParams(location.search),view=q.get('view')||'home',game=q.get('game');renderView(view);if(game)setTimeout(()=>stableInspector(game),0)});
+function boot(){const q=new URLSearchParams(location.search),game=q.get('game'),view=game?'command':(q.get('view')||'home');renderView(view);if(game){let tries=0;const retry=()=>{if(stableInspector(game)||++tries>20)return;setTimeout(retry,100)};retry()}const ver=qs('.version');if(ver)ver.textContent='EDGEiQ NFL · v12.0 STABLE';}
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',boot,{once:true});else boot();
 })();
