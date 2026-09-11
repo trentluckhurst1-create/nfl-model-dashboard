@@ -1,7 +1,7 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "status": "SOURCE_UNAVAILABLE",
-  "updated_at_utc": "2026-09-10T23:23:06.673909+00:00",
+  "updated_at_utc": "2026-09-11T01:26:41.247882+00:00",
   "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
   "coverage": {
     "rosters": 0,
@@ -15,238 +15,326 @@
   },
   "errors": [
     "ARI:roster:HTTPError",
-    "ARI:depth:HTTPError",
+    "ARI:depth:EMPTY",
     "ATL:roster:HTTPError",
-    "ATL:depth:HTTPError",
+    "ATL:depth:EMPTY",
     "BAL:roster:HTTPError",
-    "BAL:depth:HTTPError",
+    "BAL:depth:EMPTY",
     "BUF:roster:HTTPError",
-    "BUF:depth:HTTPError",
+    "BUF:depth:EMPTY",
     "CAR:roster:HTTPError",
-    "CAR:depth:HTTPError",
+    "CAR:depth:EMPTY",
     "CHI:roster:HTTPError",
-    "CHI:depth:HTTPError",
+    "CHI:depth:EMPTY",
     "CIN:roster:HTTPError",
-    "CIN:depth:HTTPError",
+    "CIN:depth:EMPTY",
     "CLE:roster:HTTPError",
-    "CLE:depth:HTTPError",
+    "CLE:depth:EMPTY",
     "DAL:roster:HTTPError",
-    "DAL:depth:HTTPError",
+    "DAL:depth:EMPTY",
     "DEN:roster:HTTPError",
-    "DEN:depth:HTTPError",
+    "DEN:depth:EMPTY",
     "DET:roster:HTTPError",
-    "DET:depth:HTTPError",
+    "DET:depth:EMPTY",
     "GB:roster:HTTPError",
-    "GB:depth:HTTPError",
+    "GB:depth:EMPTY",
     "HOU:roster:HTTPError",
-    "HOU:depth:HTTPError",
+    "HOU:depth:EMPTY",
     "IND:roster:HTTPError",
-    "IND:depth:HTTPError",
+    "IND:depth:EMPTY",
     "JAX:roster:HTTPError",
-    "JAX:depth:HTTPError",
+    "JAX:depth:EMPTY",
     "KC:roster:HTTPError",
-    "KC:depth:HTTPError",
+    "KC:depth:EMPTY",
     "LAC:roster:HTTPError",
-    "LAC:depth:HTTPError",
+    "LAC:depth:EMPTY",
     "LA:roster:HTTPError",
-    "LA:depth:HTTPError",
+    "LA:depth:EMPTY",
     "LV:roster:HTTPError",
-    "LV:depth:HTTPError",
+    "LV:depth:EMPTY",
     "MIA:roster:HTTPError",
-    "MIA:depth:HTTPError"
+    "MIA:depth:EMPTY",
+    "MIN:roster:HTTPError",
+    "MIN:depth:EMPTY",
+    "NE:roster:HTTPError",
+    "NE:depth:EMPTY",
+    "NO:roster:HTTPError",
+    "NO:depth:EMPTY",
+    "NYG:roster:HTTPError",
+    "NYG:depth:EMPTY",
+    "NYJ:roster:HTTPError",
+    "NYJ:depth:EMPTY",
+    "PHI:roster:HTTPError",
+    "PHI:depth:EMPTY",
+    "PIT:roster:HTTPError",
+    "PIT:depth:EMPTY",
+    "SEA:roster:HTTPError",
+    "SEA:depth:EMPTY",
+    "SF:roster:HTTPError",
+    "SF:depth:EMPTY",
+    "TB:roster:HTTPError",
+    "TB:depth:EMPTY",
+    "TEN:roster:HTTPError",
+    "TEN:depth:EMPTY",
+    "WAS:roster:HTTPError",
+    "WAS:depth:EMPTY"
   ],
   "teams": {
     "ARI": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/22/depthcharts"
     },
     "ATL": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/1/depthcharts"
     },
     "BAL": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/33/depthcharts"
     },
     "BUF": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/2/depthcharts"
     },
     "CAR": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/29/depthcharts"
     },
     "CHI": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/3/depthcharts"
     },
     "CIN": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/4/depthcharts"
     },
     "CLE": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/5/depthcharts"
     },
     "DAL": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/6/depthcharts"
     },
     "DEN": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/7/depthcharts"
     },
     "DET": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/8/depthcharts"
     },
     "GB": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/9/depthcharts"
     },
     "HOU": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/34/depthcharts"
     },
     "IND": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/11/depthcharts"
     },
     "JAX": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/30/depthcharts"
     },
     "KC": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/12/depthcharts"
     },
     "LAC": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/24/depthcharts"
     },
     "LA": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/14/depthcharts"
     },
     "LV": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/13/depthcharts"
     },
     "MIA": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/15/depthcharts"
     },
     "MIN": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/16/depthcharts"
     },
     "NE": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/17/depthcharts"
     },
     "NO": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/18/depthcharts"
     },
     "NYG": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/19/depthcharts"
     },
     "NYJ": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/20/depthcharts"
     },
     "PHI": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/21/depthcharts"
     },
     "PIT": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/23/depthcharts"
     },
     "SEA": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/26/depthcharts"
     },
     "SF": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/25/depthcharts"
     },
     "TB": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/27/depthcharts"
     },
     "TEN": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/10/depthcharts"
     },
     "WAS": {
-      "as_of": "2026-09-10T23:23:06.673909+00:00",
+      "as_of": "2026-09-11T01:26:41.247882+00:00",
       "roster": [],
       "depth_chart": {},
-      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS"
+      "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
+      "roster_endpoint": null,
+      "depth_endpoint": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2026/teams/28/depthcharts"
     }
   }
 }
