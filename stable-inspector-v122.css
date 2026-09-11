@@ -1,0 +1,28 @@
+#view-command .inspector-panel{background:#081119;border-color:#1d3242;overflow:auto}
+#gameInspector{min-height:100%;background:linear-gradient(180deg,#08121a 0%,#071019 100%)}
+#gameInspector .inspector-hero{padding:18px 20px 16px;border-bottom:1px solid #1b3140;background:linear-gradient(180deg,#0b1721,#08121a)}
+#gameInspector .inspector-kicker{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:14px;color:#8ca3b4;font:800 9px var(--mono);letter-spacing:.08em;text-transform:uppercase}
+#gameInspector .inspector-matchup{display:flex;align-items:center;gap:14px;margin:0 0 16px;font:900 15px var(--mono)}
+#gameInspector .team-chip{display:flex;align-items:center;gap:8px;font-weight:900}
+#gameInspector .team-logo{width:34px;height:34px;border-radius:4px;background:#0d1b27;border:1px solid #2b4b61;color:#dceaf3;display:grid;place-items:center;font:900 10px var(--mono)}
+#gameInspector .model-banner{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
+#gameInspector .model-box{min-height:78px;padding:12px 13px;border:1px solid #1f3a4d;background:#091722;border-radius:5px}
+#gameInspector .model-box span{display:block;color:#8ca4b5;font:800 9px var(--mono);letter-spacing:.06em;text-transform:uppercase;margin-bottom:7px}
+#gameInspector .model-box b{display:block;color:#f2f7fa;font:900 19px var(--mono);line-height:1.05}
+#gameInspector .model-box small{display:block;margin-top:6px;color:#6f8797;font:700 8px var(--mono)}
+#gameInspector .inspector-content{padding:18px 20px 26px}
+#gameInspector .section-block{margin:0 0 18px;padding:0;border:0;background:transparent}
+#gameInspector .section-block h3{margin:0 0 10px;color:#e9f2f7;font-size:13px;font-weight:800;letter-spacing:.01em}
+#gameInspector .info-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
+#gameInspector .info-card{min-height:72px;padding:11px 12px;border:1px solid #1a3344;background:#09141d;border-radius:4px}
+#gameInspector .info-card span{display:block;margin-bottom:7px;color:#819aab;font:800 9px var(--mono);letter-spacing:.04em;text-transform:uppercase;line-height:1.25}
+#gameInspector .info-card b{display:block;color:#f0f6f9;font:900 14px var(--mono);line-height:1.3;overflow-wrap:anywhere}
+#gameInspector .info-card small{display:block;margin-top:5px;color:#708897;font:700 8px var(--mono);line-height:1.35}
+#gameInspector .section-block:nth-of-type(2) .info-card:nth-child(1) b,#gameInspector .section-block:nth-of-type(2) .info-card:nth-child(2) b{font-size:18px;color:#7debb2}
+#gameInspector .section-block:nth-of-type(2) .info-card:nth-child(4) b{color:#d1a7ff}
+#gameInspector .section-block:nth-of-type(3) .info-card:nth-child(4) b{color:#7debb2}
+#gameInspector .badge{padding:4px 7px;border-radius:3px}
+#gameInspector .badge.lock{color:#7debb2;border-color:#285542;background:#0b2119}
+#gameInspector .muted{color:#728999!important;line-height:1.5}
+@media(max-width:1100px){#gameInspector .model-banner,#gameInspector .info-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){#gameInspector .model-banner,#gameInspector .info-grid{grid-template-columns:1fr}#gameInspector .inspector-hero,#gameInspector .inspector-content{padding-left:12px;padding-right:12px}}
