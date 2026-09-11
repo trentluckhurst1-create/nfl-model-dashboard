@@ -24,5 +24,17 @@
 #gameInspector .badge{padding:4px 7px;border-radius:3px}
 #gameInspector .badge.lock{color:#7debb2;border-color:#285542;background:#0b2119}
 #gameInspector .muted{color:#728999!important;line-height:1.5}
+#gameInspector .intel-summary{margin-bottom:10px}
+#gameInspector .intel-stack{display:grid;gap:7px}
+#gameInspector .intel-row{padding:11px 12px;border:1px solid #1a3344;background:#08131b;border-radius:4px}
+#gameInspector .intel-row b{display:block;color:#edf5f8;font-size:11px;line-height:1.35;margin:5px 0 0}
+#gameInspector .intel-row p{margin:5px 0 0;color:#8298a7;font-size:9px;line-height:1.45}
+#gameInspector .intel-meta{display:flex;align-items:center;gap:7px;flex-wrap:wrap;color:#708796;font:800 8px var(--mono);letter-spacing:.04em;text-transform:uppercase}
+#gameInspector .intel-priority{padding:3px 6px;border:1px solid #365162;border-radius:3px}
+#gameInspector .intel-priority.high,#gameInspector .intel-high{color:#ff877f!important;border-color:#713631;background:#24110f}
+#gameInspector .intel-priority.medium,#gameInspector .intel-medium{color:#ffd36d!important;border-color:#67551f;background:#201a08}
+#gameInspector .intel-priority.low,#gameInspector .intel-low{color:#7debb2!important;border-color:#285542;background:#0b2119}
+#gameInspector .intel-clear{color:#7debb2!important}
+#gameInspector .intel-note{margin:9px 0 0;color:#667e8d;font:700 8px var(--mono);line-height:1.45}
 @media(max-width:1100px){#gameInspector .model-banner,#gameInspector .info-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:760px){#gameInspector .model-banner,#gameInspector .info-grid{grid-template-columns:1fr}#gameInspector .inspector-hero,#gameInspector .inspector-content{padding-left:12px;padding-right:12px}}
