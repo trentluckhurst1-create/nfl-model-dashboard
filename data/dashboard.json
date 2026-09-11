@@ -1,5 +1,10 @@
 {
   "updated_at_utc": "2026-09-11T01:05:35.372536+00:00",
+  "checked_at_utc": "2026-09-11T04:03:21.896050+00:00",
+  "feed_health": {
+    "scoreboard_ok": false,
+    "checked_at_utc": "2026-09-11T04:03:21.896050+00:00"
+  },
   "season": 2026,
   "week": 1,
   "score_source": "ESPN_SCOREBOARD",
@@ -15,6 +20,7 @@
   ],
   "records": {},
   "game_meta": {},
+  "live_stats": {},
   "injuries": [
     {
       "team": "LA",
