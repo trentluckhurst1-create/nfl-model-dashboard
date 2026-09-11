@@ -1,48 +1,8 @@
-/* EDGEiQ NFL v8.3 — customer-facing mockup system */
-:root{--e83-blue:#159cff;--e83-cyan:#39c8ff;--e83-panel:#071b29;--e83-panel2:#0a2233;--e83-line:#15577d;--e83-text:#f7fbff;--e83-muted:#89a7ba}
-html[data-edgeiq-ui="v83"] .app-shell{grid-template-columns:220px 1fr!important}
-html[data-edgeiq-ui="v83"] .sidebar{width:220px!important;background:linear-gradient(180deg,#021827 0%,#02111c 62%,#020d16 100%)!important;border-right:1px solid #0e5278!important}
-html[data-edgeiq-ui="v83"] .app-main{grid-column:2!important}
-html[data-edgeiq-ui="v83"] .app-id{height:205px!important;padding:10px 8px 14px!important;background:radial-gradient(circle at 50% 27%,rgba(28,171,255,.22),transparent 64%)!important;border-bottom:1px solid #0e537b!important;display:grid!important;place-items:center!important}
-html[data-edgeiq-ui="v83"] .app-id .edgeiq-app-logo{width:205px!important;height:184px!important;object-fit:contain!important;filter:drop-shadow(0 0 24px rgba(21,156,255,.28))!important}
-html[data-edgeiq-ui="v83"] .side-nav{padding:10px 7px!important;gap:5px!important}
-html[data-edgeiq-ui="v83"] .side-nav button{height:50px!important;font-size:12px!important;border-radius:6px!important}
-html[data-edgeiq-ui="v83"] .side-bottom{padding:14px 16px!important}.side-bottom .model-state{display:none!important}
-html[data-edgeiq-ui="v83"] .v83-brand-foot{display:grid;gap:7px;color:#8eafc3;font-size:10px}.v83-brand-foot strong{font-size:13px;color:#eaf8ff}.v83-brand-foot .live{color:#4ce39c}.v83-brand-foot .season{color:#3bc5ff;font-weight:800}.v83-brand-foot small{color:#7394aa}
-html[data-edgeiq-ui="v83"] .context-rail{left:220px!important}
-html[data-edgeiq-ui="v83"] #edgeiqV7{left:220px!important}
-html[data-edgeiq-ui="v83"] #edgeiqV7 .v7-footer{left:220px!important}
-/* Customer command centre: remove internal ops/debug blocks */
-html[data-edgeiq-ui="v83"] #view-command>.view-head{display:none!important}
-html[data-edgeiq-ui="v83"] #view-command>#statStrip{display:none!important}
-html[data-edgeiq-ui="v83"] #view-command .right-rail{display:none!important}
-html[data-edgeiq-ui="v83"] #view-command .workspace-grid{grid-template-columns:minmax(390px,.78fr) minmax(650px,1.55fr)!important;gap:12px!important;min-height:calc(100vh - 235px)!important}
-html[data-edgeiq-ui="v83"] #view-command .game-list-panel,html[data-edgeiq-ui="v83"] #view-command .inspector-panel{border:1px solid #14577d!important;border-radius:8px!important;background:linear-gradient(180deg,#071e2d,#04131e)!important}
-html[data-edgeiq-ui="v83"] #view-command .inspector-panel{min-height:620px!important}
-/* Keep the shared premium visual language consistent across customer tabs */
-html[data-edgeiq-ui="v83"] .view-head{background:linear-gradient(135deg,#09283c,#061a28 70%)!important;border-color:#15597e!important;box-shadow:0 14px 34px rgba(0,0,0,.2)!important}
-html[data-edgeiq-ui="v83"] .panel,html[data-edgeiq-ui="v83"] .software-card,html[data-edgeiq-ui="v83"] .division-card,html[data-edgeiq-ui="v83"] .news-card,html[data-edgeiq-ui="v83"] .v82-module{background:linear-gradient(150deg,#082131,#051620)!important;border-color:#145474!important}
-html[data-edgeiq-ui="v83"] .stat{background:linear-gradient(180deg,#0a2637,#061824)!important;border-color:#155574!important}
-html[data-edgeiq-ui="v83"] .panel-head{background:#0a2636!important;border-bottom-color:#15506f!important}
-html[data-edgeiq-ui="v83"] .v82-ribbon{display:none!important}
-html[data-edgeiq-ui="v83"] .v8-seasonbar{left:auto!important;border-bottom-color:#135879!important;background:#031522!important}
-html[data-edgeiq-ui="v83"] .v8-weekbadge{background:linear-gradient(180deg,#0b4770,#082c47)!important;border-color:#1884bc!important}
-html[data-edgeiq-ui="v83"] .v8-tick{background:linear-gradient(180deg,#08273a,#051a28)!important;border-color:#154d6e!important}
-html[data-edgeiq-ui="v83"] .v8-tick:hover,html[data-edgeiq-ui="v83"] .v8-tick.active{border-color:#2cbcff!important;background:#0b3550!important}
-html[data-edgeiq-ui="v83"] table{background:#061925!important}html[data-edgeiq-ui="v83"] th{background:#0a2637!important}
-/* Game centre mockup fidelity */
-html[data-edgeiq-ui="v83"] #edgeiqV7{background:radial-gradient(circle at 50% -10%,#123a54 0,#061a28 31%,#03101a 73%)!important}
-html[data-edgeiq-ui="v83"] #edgeiqV7 .v7-top{border-bottom-color:#145c83!important}
-html[data-edgeiq-ui="v83"] #edgeiqV7 .v7-bar{height:74px!important}
-html[data-edgeiq-ui="v83"] #edgeiqV7 .v7-brand img{width:118px!important;height:70px!important;object-fit:contain!important;filter:drop-shadow(0 0 12px rgba(21,156,255,.2))}
-html[data-edgeiq-ui="v83"] #edgeiqV7 .v7-title b{font-size:27px!important}
-html[data-edgeiq-ui="v83"] #edgeiqV7 .v7-hero{grid-template-columns:1fr 390px 1fr!important;padding:26px 28px 22px!important;border-bottom:1px solid #155879!important}
-html[data-edgeiq-ui="v83"] #edgeiqV7 .v7-team img{width:145px!important;height:145px!important}
-html[data-edgeiq-ui="v83"] #edgeiqV7 .v7-team h2{font-size:38px!important}
-html[data-edgeiq-ui="v83"] #edgeiqV7 .v7-strip{gap:9px!important}
-html[data-edgeiq-ui="v83"] #edgeiqV7 .v7-metric{border:1px solid #15597a!important;border-radius:7px!important;box-shadow:0 10px 24px rgba(0,0,0,.17)!important}
-html[data-edgeiq-ui="v83"] #edgeiqV7 .v7-card{border:1px solid #145778!important;border-radius:7px!important;box-shadow:0 10px 24px rgba(0,0,0,.16)!important}
-/* Customer clean-up: don't surface internal governance language outside Model */
-html[data-edgeiq-ui="v83"] #view-market .v82-module:first-child,html[data-edgeiq-ui="v83"] #view-performance .v82-module:last-child,html[data-edgeiq-ui="v83"] #view-injuries .v82-module:nth-child(2){display:none!important}
-@media(max-width:1250px){html[data-edgeiq-ui="v83"] .app-shell{grid-template-columns:180px 1fr!important}html[data-edgeiq-ui="v83"] .sidebar{width:180px!important}html[data-edgeiq-ui="v83"] .app-id{height:170px!important}html[data-edgeiq-ui="v83"] .app-id .edgeiq-app-logo{width:170px!important;height:150px!important}html[data-edgeiq-ui="v83"] .context-rail,html[data-edgeiq-ui="v83"] #edgeiqV7 .v7-footer{left:180px!important}html[data-edgeiq-ui="v83"] #edgeiqV7{left:180px!important}}
-@media(max-width:900px){html[data-edgeiq-ui="v83"] #view-command .workspace-grid{grid-template-columns:1fr!important}html[data-edgeiq-ui="v83"] .app-id{height:98px!important}html[data-edgeiq-ui="v83"] .app-id .edgeiq-app-logo{height:88px!important}}
+/* EDGEiQ NFL v8.4 — customer-first hard overrides. Loaded by existing v83 href so change is immediate after deploy. */
+:root{--e84-blue:#159cff;--e84-cyan:#38c7ff;--e84-bg:#02101a;--e84-panel:#071c2a;--e84-line:#14577d;--e84-text:#f7fbff;--e84-muted:#87a8bc}
+.app-shell{grid-template-columns:250px 1fr!important}.sidebar{width:250px!important;background:linear-gradient(180deg,#021927 0,#02111b 65%,#010b12 100%)!important;border-right:1px solid #0f547d!important}.app-main{grid-column:2!important}.app-id{height:240px!important;min-height:240px!important;padding:8px 10px 14px!important;display:grid!important;place-items:center!important;background:radial-gradient(circle at 50% 35%,rgba(22,162,255,.25),transparent 64%)!important;border-bottom:1px solid #0f557d!important}.app-id .edgeiq-app-logo{width:238px!important;height:218px!important;max-width:none!important;object-fit:contain!important;filter:drop-shadow(0 0 28px rgba(21,156,255,.36))!important}.app-id>div{display:none!important}.side-nav{padding:10px 8px!important}.side-nav button{height:52px!important;font-size:13px!important}.side-bottom{padding:16px 18px!important}.side-bottom .model-state{display:none!important}.version{font-size:10px!important;color:#40c8ff!important}.context-rail{left:250px!important}
+#view-command>.view-head,#view-command>#statStrip,#view-command .right-rail{display:none!important}#view-command .workspace-grid{grid-template-columns:minmax(390px,.72fr) minmax(700px,1.48fr)!important;gap:12px!important;min-height:calc(100vh - 190px)!important}#view-command .game-list-panel,#view-command .inspector-panel{border:1px solid #14577d!important;border-radius:10px!important;background:linear-gradient(180deg,#082130,#05151f)!important;box-shadow:0 14px 36px rgba(0,0,0,.22)!important}#view-command .inspector-panel{min-height:690px!important}
+.view-head{border:1px solid #14577d!important;border-radius:10px!important;background:linear-gradient(135deg,#0a2a3e,#061925 72%)!important;box-shadow:0 14px 36px rgba(0,0,0,.2)!important}.panel,.software-card,.division-card,.news-card,.v82-module{border-color:#145474!important;background:linear-gradient(150deg,#082130,#05151f)!important}.panel-head{background:#092638!important;border-bottom-color:#15506f!important}.stat{border-color:#155574!important;background:linear-gradient(180deg,#0a2637,#061824)!important}.v82-ribbon{display:none!important}.v8-seasonbar{border-bottom:1px solid #14577d!important;background:#031522!important}.v8-weekbadge{background:linear-gradient(180deg,#0d4c75,#08304a)!important;border-color:#1c8dc8!important}.v8-tick{background:linear-gradient(180deg,#08273a,#051a28)!important;border-color:#154d6e!important}.v8-tick:hover,.v8-tick.active{border-color:#2cbcff!important;background:#0b3550!important}
+#edgeiqV7{left:250px!important;background:radial-gradient(circle at 50% -10%,#123a54 0,#061a28 31%,#03101a 73%)!important}#edgeiqV7 .v7-footer{left:250px!important}.v7-brand img{width:132px!important;height:78px!important;object-fit:contain!important}.v7-title b{font-size:28px!important}.v7-hero{grid-template-columns:1fr 420px 1fr!important}.v7-team img{width:154px!important;height:154px!important}.v7-team h2{font-size:40px!important}
+#view-market .v82-module:first-child,#view-performance .v82-module:last-child,#view-injuries .v82-module:nth-child(2){display:none!important}
+@media(max-width:1280px){.app-shell{grid-template-columns:205px 1fr!important}.sidebar{width:205px!important}.app-id{height:195px!important;min-height:195px!important}.app-id .edgeiq-app-logo{width:195px!important;height:178px!important}.context-rail,#edgeiqV7 .v7-footer{left:205px!important}#edgeiqV7{left:205px!important}#view-command .workspace-grid{grid-template-columns:350px 1fr!important}}@media(max-width:920px){.app-shell{grid-template-columns:82px 1fr!important}.sidebar{width:82px!important}.app-id{height:105px!important;min-height:105px!important}.app-id .edgeiq-app-logo{width:78px!important;height:92px!important}.context-rail,#edgeiqV7 .v7-footer{left:82px!important}#edgeiqV7{left:82px!important}.side-nav button{font-size:0!important;justify-content:center!important}#view-command .workspace-grid{grid-template-columns:1fr!important}}
