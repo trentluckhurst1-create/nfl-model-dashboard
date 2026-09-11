@@ -1,6 +1,6 @@
 (()=>{
   const S={model:null,market:{},changes:{items:[]},dash:null,current:null,loading:false};
-  const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot',"'":'&#39;'}[c]));
   const fmtTs=ts=>{if(!ts)return'—';try{return new Date(ts).toLocaleString(undefined,{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});}catch{return ts}};
   const add=(arr,ts,type,title,detail,rank=0)=>{if(ts)arr.push({ts,type,title,detail,rank});};
   async function load(){
@@ -43,15 +43,33 @@
   }
   function render(){
     const id=selected(),host=document.querySelector('#gameInspector');
-    if(!id||!host||host.classList.contains('hidden'))return;
+    if(!id||!host||host.classList.contains('hidden')||!S.model)return;
     const g=game(id); if(!g)return;
     let box=host.querySelector('.edgeiq-decision-ledger');
-    if(!box){box=document.createElement('section');box.className='edgeiq-decision-ledger';const hero=host.querySelector('.inspector-hero');hero?.insertAdjacentElement('afterend',box);if(!hero)host.prepend(box);}
+    if(!box){
+      box=document.createElement('section');
+      box.className='edgeiq-decision-ledger';
+      const hero=host.querySelector('.inspector-hero');
+      hero?.insertAdjacentElement('afterend',box);
+      if(!hero)host.prepend(box);
+    }
     const ev=events(id);
-    box.innerHTML=`<div class="dl-head"><div><span class="dl-kicker">EDGEiQ / DECISION LEDGER</span><h3>Immutable Game Record</h3></div><span class="dl-state ${g.locked?'locked':''}">${g.locked?'MODEL LOCKED':'CURRENT SNAPSHOT'}</span></div><div class="dl-summary"><div><span>008A FAIR</span><b>${esc(g.our_line||'—')}</b></div><div><span>MODEL SIDE</span><b>${esc(g.model_side||'—')}</b></div><div><span>EDGE</span><b>${g.edge==null?'—':Number(g.edge).toFixed(2)+' pts'}</b></div><div><span>POST-RESULT REWRITE</span><b>NEVER</b></div></div><div class="dl-timeline">${ev.map((e,i)=>`<div class="dl-item ${e.type.toLowerCase()}"><div class="dl-marker"></div><div class="dl-time">${esc(fmtTs(e.ts))}</div><div class="dl-event"><strong>${esc(e.title)}</strong><span>${esc(e.detail)}</span></div></div>`).join('')||'<div class="dl-empty">No ledger events published yet.</div>'}</div><div class="dl-foot">Chronological record only · market, news, live and result data never rewrite frozen 008A.</div>`;
+    const html=`<div class="dl-head"><div><span class="dl-kicker">EDGEiQ / DECISION LEDGER</span><h3>Immutable Game Record</h3></div><span class="dl-state ${g.locked?'locked':''}">${g.locked?'MODEL LOCKED':'CURRENT SNAPSHOT'}</span></div><div class="dl-summary"><div><span>008A FAIR</span><b>${esc(g.our_line||'—')}</b></div><div><span>MODEL SIDE</span><b>${esc(g.model_side||'—')}</b></div><div><span>EDGE</span><b>${g.edge==null?'—':Number(g.edge).toFixed(2)+' pts'}</b></div><div><span>POST-RESULT REWRITE</span><b>NEVER</b></div></div><div class="dl-timeline">${ev.map(e=>`<div class="dl-item ${e.type.toLowerCase()}"><div class="dl-marker"></div><div class="dl-time">${esc(fmtTs(e.ts))}</div><div class="dl-event"><strong>${esc(e.title)}</strong><span>${esc(e.detail)}</span></div></div>`).join('')||'<div class="dl-empty">No ledger events published yet.</div>'}</div><div class="dl-foot">Chronological record only · market, news, live and result data never rewrite frozen 008A.</div>`;
+    if(box.dataset.renderKey===html)return;
+    box.dataset.renderKey=html;
+    box.innerHTML=html;
   }
-  document.addEventListener('click',e=>{const x=e.target.closest('[data-game]');if(x?.dataset?.game){S.current=x.dataset.game;setTimeout(()=>{load();render()},60)}} ,true);
-  new MutationObserver(()=>render()).observe(document.body,{subtree:true,childList:true,attributes:true,attributeFilter:['class']});
+  document.addEventListener('click',e=>{
+    const x=e.target.closest('[data-game]');
+    if(x?.dataset?.game){S.current=x.dataset.game;setTimeout(()=>{load();render()},60)}
+  },true);
+  let queued=false;
+  const observer=new MutationObserver(()=>{
+    if(queued)return;
+    queued=true;
+    requestAnimationFrame(()=>{queued=false;render();});
+  });
+  observer.observe(document.body,{subtree:true,childList:true,attributes:true,attributeFilter:['class']});
   window.addEventListener('edgeiq:context',()=>render());
   setInterval(render,5000);
   load();
