@@ -1,0 +1,23 @@
+:root{--text:#eef5fa;--muted:#93a9b8;--blue:#62cfff;--green:#59e6a7;--yellow:#ffd766;--red:#ff9191;--line:#243746;--line2:#355064}
+body{color:var(--text)}
+/* Core navigation and chrome */
+.side-nav button{color:#a7bac7;font-weight:700}.side-nav button:hover{color:#fff}.side-nav button.active{color:#fff}.app-id span,.model-state small,.crumb span,.sync,.game-name small,.muted,.metric span,.stat span,.context-rail,.ws-empty,.ws-head-metrics em,.ws-score span,.ws-muted,.ws-event time,.ws-team-meta,.ws-person>b{color:#93a9b8}.version{color:#8398a7}.label,.rail-action{color:#69cefa}.segmented button,.news-filter,.inspector-tabs button,.ws-layout-tools button{color:#9db1be}.segmented button.active,.news-filter.active{color:#031019}.context-rail b,.ws-head-metrics strong,.ws-event a,.ws-event b,.ws-team-kpis strong{color:#f0f6fa}
+/* Tables and dense data */
+th{color:#a8bac6;font-size:8px;font-weight:800;letter-spacing:.04em}td{color:#e4edf3;font-size:9px}.badge{color:#c4d3dc}.ws-pane>header{color:#aec0ca;font-size:8px}.ws-pane>header i{color:#6fbadf}.ws-action{color:#b6c6d0}.ws-team-title span{color:#c0d0d9}.ws-team-kpis em{color:#93a9b8;font-size:7px}.ws-event{font-size:8px}.ws-person{font-size:8px}
+/* Home */
+.home-hero p{color:#a2b5c1}.home-system span,.home-metrics span,.hf-model span,.home-card header span{color:#8fa8b7;font-size:8px}.home-system small,.home-attention span small,.home-mover span small,.home-edge span small,.home-injury small,.home-news-row small{color:#8fa7b5}.home-news-row p{color:#a3b5c0}.home-empty{color:#9aafbb}.home-control span{color:#a1b4bf}.home-tag{color:#7ad7ff}.home-tag.alert{color:#ffaaaa}.home-edge em{color:#ffdc73}.home-injury strong{color:#ff9c9c}.home-injury em{color:#a9bdc8}
+/* Sunday command */
+.hs-top p,.hs-next p{color:#9fb4c0}.hs-game-head time{color:#8eabba;font-size:8px}.hs-score small{color:#c4d6df}.hs-score i{color:#7894a4}.hs-situation small{color:#9aafbb;font-size:8px}.hs-model span,.hs-count span,.hs-next-model span{color:#94adbb;font-size:8px}.hs-change-strip>strong{color:#91adbb;font-size:8px}.hs-change-strip button small{color:#91a9b6;font-size:8px}.hs-next h2 i{color:#87a2b1}.hs-empty{color:#9bb0bc}
+/* Home operations ledger */
+.ho-kick time{color:#91aabc}.ho-kick span small,.ho-change span small{color:#94aebb}.home-changes header>small,.ho-change time{color:#88a3b3}.ho-change i{color:#7bd6ff}.ho-change i.game{color:#66e8ad}.ho-change i.news{color:#ffdb70}
+/* Game inspector */
+.ci-line-head{color:#6fcdf5;font-size:8px}.ci-drive>span{color:#62cfff}.ci-drive>small{color:#9db2bf}.ci-player-row span,.ci-dna-group span{color:#a5b8c3}.ci-flow-labels{color:#c1d1d9}.ci-external{color:#8faabb;font-size:8px}.ci-dna-summary span{color:#91adbb;font-size:8px}.ci-player-cat h4,.ci-dna-group h4{color:#69cefa}
+/* Matchup intelligence */
+.mi-hero p,.mi-callout p,.mi-group>p,.mi-method span{color:#a4b7c2}.mi-side small,.mi-row>span small,.mi-group-head span{color:#91a9b6}.mi-counts span,.mi-side span,.mi-callout span,.mi-group-head h4,.mi-method b{color:#70d2fb}.mi-badge{color:#b4c4cd}.mi-badge.aligned{color:#69eab0}.mi-badge.counter{color:#ffd08a}.mi-badge.neutral{color:#b3c3cb}
+/* Game Pulse / live-stat modules */
+.gp-sub,.gp-meta,.gp-small,.ls-muted,.ls-meta{color:#9eb2be!important}.gp-label,.ls-label{color:#70cff7!important}
+/* Status colours */
+.healthy,.hot{color:#65eab0!important}.signal{color:#ffda70!important}.out{color:#ff9696!important}.live-ops-state{color:#9fb2be}.live-ops-state.healthy{color:#63e8ad}.live-ops-state.stale{color:#ffda70}
+/* Minimum readability for tiny operational labels */
+.home-kicker,.hs-kicker,.hf-match span,.home-attention i,.home-news-row a,.home-card header button,.home-featured>button,.hs-live-dot,.hs-open,.ci-dna-summary span,.ci-external,.mi-row>span small,.mi-badge,.mi-method b,.mi-method span{font-size:max(8px,inherit)}
+@media(max-width:700px){.side-nav button{color:#c2d0d8}.context-rail{color:#a8bac5}}
