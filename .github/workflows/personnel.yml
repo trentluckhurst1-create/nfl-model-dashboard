@@ -6,8 +6,8 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: edgeiq-nfl-personnel
-  cancel-in-progress: true
+  group: edgeiq-data-writers
+  cancel-in-progress: false
 jobs:
   personnel:
     runs-on: ubuntu-latest
