@@ -1,0 +1,25 @@
+(()=>{
+'use strict';
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function game(id){try{return (model?.games||[]).find(g=>g.game_id===id)||null}catch(_){return null}}
+function score(id){try{return (live?.scores||[]).find(s=>s.game_id===id)||null}catch(_){return null}}
+function history(id){try{return marketHistory?.[id]||[]}catch(_){return []}}
+function rawHomeMargin(g){const m=String(g?.our_line||'').match(/^\s*([A-Z]{2,3})\s*([+-])\s*(\d+(?:\.\d+)?)\s*$/);if(!m)return null;const mag=Number(m[3]),fav=m[1],favMargin=m[2]==='-'?mag:-mag;return fav===g.home?favMargin:-favMargin}
+function marketHomeMargin(x){const n=Number(x?.market_internal);return Number.isFinite(n)?n:null}
+function signLabel(n,home,away){if(n>0)return home;if(n<0)return away;return 'PICK'}
+function auditMarkup(g){const s=score(g.game_id);if(!s||s.state!=='FINAL')return `<div class="section-block postgame-audit" id="edgePostgameAudit"><div class="audit-head"><div><span>OUTCOME DISCIPLINE</span><h3>Postgame Audit</h3></div><b class="audit-pending">PENDING FINAL</b></div><p class="muted">Evaluation will activate only after an official final score is published. The frozen 008A opinion will not be rewritten.</p></div>`;
+const away=Number(s.away_score),home=Number(s.home_score),actual=Number.isFinite(home)&&Number.isFinite(away)?home-away:null,modelMargin=rawHomeMargin(g),valid=history(g.game_id).map(x=>({...x,hm:marketHomeMargin(x)})).filter(x=>x.hm!==null),latest=valid[valid.length-1],marketMargin=latest?.hm??null;
+const modelErr=actual!==null&&modelMargin!==null?Math.abs(actual-modelMargin):null,marketErr=actual!==null&&marketMargin!==null?Math.abs(actual-marketMargin):null,delta=modelErr!==null&&marketErr!==null?marketErr-modelErr:null;
+const actualWinner=actual===null?'—':signLabel(actual,g.home,g.away),modelWinner=modelMargin===null?'—':signLabel(modelMargin,g.home,g.away),direction=modelMargin===null||actual===null?'—':modelWinner===actualWinner?'CORRECT':'INCORRECT';
+let verdict='AUDIT ONLY',cls='neutral';if(delta!==null){if(delta>.05){verdict='MODEL CLOSER';cls='good'}else if(delta<-.05){verdict='MARKET CLOSER';cls='warn'}else{verdict='EQUAL';cls='neutral'}}
+const finalText=`${s.away||g.away} ${s.away_score} · ${s.home||g.home} ${s.home_score}`;
+return `<div class="section-block postgame-audit" id="edgePostgameAudit"><div class="audit-head"><div><span>OUTCOME DISCIPLINE</span><h3>Postgame Audit</h3></div><b class="audit-verdict ${cls}">${esc(verdict)}</b></div><div class="info-grid audit-grid"><div class="info-card"><span>FINAL</span><b>${esc(finalText)}</b><small class="muted">actual home margin ${actual===null?'—':`${actual>=0?'+':''}${actual.toFixed(1)}`}</small></div><div class="info-card"><span>008A MARGIN ERROR</span><b>${modelErr===null?'—':`${modelErr.toFixed(1)} pts`}</b><small class="muted">frozen pregame estimate vs result</small></div><div class="info-card"><span>LATEST MARKET ERROR</span><b>${marketErr===null?'—':`${marketErr.toFixed(1)} pts`}</b><small class="muted">verified latest spread vs result</small></div><div class="info-card"><span>ACCURACY DELTA</span><b>${delta===null?'—':`${delta>=0?'+':''}${delta.toFixed(1)} pts`}</b><small class="muted">positive = 008A closer than market</small></div><div class="info-card"><span>WINNER DIRECTION</span><b>${esc(direction)}</b><small class="muted">008A ${esc(modelWinner)} · actual ${esc(actualWinner)}</small></div><div class="info-card"><span>RECORD STATE</span><b>IMMUTABLE</b><small class="muted">post-result rewrite: NEVER</small></div></div><p class="audit-note">This is an outcome audit, not a model adjustment. One game is evidence for the record only; it does not validate or invalidate the architecture by itself.</p></div>`}
+function render(){const q=new URLSearchParams(location.search),id=q.get('game')||document.querySelector('.terminal-row.selected[data-game]')?.dataset.game;if(!id)return;const g=game(id),content=document.querySelector('#gameInspector .inspector-content');if(!g||!content)return;document.getElementById('edgePostgameAudit')?.remove();const ledger=document.getElementById('edgeDecisionLedger');if(ledger)ledger.insertAdjacentHTML('beforebegin',auditMarkup(g));else content.insertAdjacentHTML('beforeend',auditMarkup(g));}
+function afterRender(){queueMicrotask(render)}
+document.addEventListener('click',e=>{if(e.target.closest('[data-game]'))afterRender()},true);
+window.addEventListener('popstate',afterRender);
+document.addEventListener('edgeiq:core-ready',afterRender);
+document.addEventListener('nflops:information-refresh',afterRender);
+function boot(){afterRender();queueMicrotask(()=>{const v=document.querySelector('.version');if(v)v.textContent='EDGEiQ NFL · v13.0 STABLE'})}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',boot,{once:true});else boot();
+})();
