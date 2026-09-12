@@ -1,7 +1,19 @@
 {
-  "updated_at_utc": "2026-09-12T21:38:59.490262+00:00",
-  "checked_at_utc": "2026-09-12T21:38:59.490262+00:00",
-  "policy": "CURATED_TRUSTED_SOURCES_ONLY",
+  "updated_at_utc": "2026-09-12T21:42:45.702281+00:00",
+  "checked_at_utc": "2026-09-12T21:42:45.702281+00:00",
+  "policy": "CURATED_NETWORK_SOURCES_ONLY",
+  "model_input": false,
+  "sources": {
+    "ESPN NFL": {
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError"
+    },
+    "CBS Sports NFL": {
+      "ok": true,
+      "items": 31
+    }
+  },
   "items": [
     {
       "title": "Tucker Kraft, Michael Mayer join highest-paid tight ends with contract extensions",
@@ -67,20 +79,6 @@
       "teams": [
         "GB",
         "MIN"
-      ]
-    },
-    {
-      "title": "Week 1 NFL odds, picks, predictions: Computer model backs Eagles and Jaguars",
-      "url": "https://www.cbssports.com/betting/news/week-1-nfl-2026-odds-top-picks-spreads-lines-predictions-betting-guide/",
-      "summary": "SportsLine's advanced model has simulated every game in the Week 1 NFL schedule 10,000 times and locked in its NFL best bets today",
-      "published": "Sat, 12 Sep 2026 14:10:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX",
-        "PHI"
       ]
     },
     {
@@ -271,22 +269,6 @@
       ]
     },
     {
-      "title": "Week 1 NFL picks, predictions for Kalshi, Polymarket, ProphetX: Vikings-Packers, Cowboys-Giants markets",
-      "url": "https://www.cbssports.com/prediction/news/week-1-nfl-picks-predictions-kalshi-polymarket-prophetx-vikings-packers-cowboys-giants-markets/",
-      "summary": "SportsLine's advanced model has locked in its Week 1 NFL predictions from 10,000 simulations",
-      "published": "Fri, 11 Sep 2026 15:41:00 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "GB",
-        "MIN",
-        "NYG"
-      ]
-    },
-    {
       "title": "Do the Dolphins have the worst roster in NFL history? A look at their cap space, signings, depth, experience",
       "url": "https://www.cbssports.com/nfl/news/dolphins-roster-dead-cap-space-nfl-worst/",
       "summary": "A look at what makes this Dolphins team so alarming",
@@ -318,17 +300,6 @@
       "url": "https://www.cbssports.com/nfl/news/week-1s-most-underrated-games-dolphins-raiders/",
       "summary": "A look at some of the less talked about games you should be watching to kick off the 2026 season",
       "published": "Fri, 11 Sep 2026 15:17:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "CFL odds, picks, predictions: Edmonton vs. Calgary included in expert's best bets for Week 15",
-      "url": "https://www.cbssports.com/betting/news/cfl-odds-picks-predictions-edmonton-vs-calgary-included-in-experts-best-bets-for-week-15/",
-      "summary": "SportsLine football expert Emory Hunt lines up his best bets for Week 15 of the 2026 CFL season",
-      "published": "Fri, 11 Sep 2026 15:03:42 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -390,29 +361,87 @@
         "LA",
         "SF"
       ]
+    },
+    {
+      "title": "Sean McVay defends Rams' travel schedule following ugly loss to 49ers in Australia",
+      "url": "https://www.cbssports.com/nfl/news/sean-mcvay-rams-travel-schedule-49ers-australia/",
+      "summary": "McVay says the 49ers were the No. 1 reason why his team fell to 0-1",
+      "published": "Fri, 11 Sep 2026 14:43:02 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Where to watch Colts vs. Ravens: TV channel, live stream, prediction, pick, odds, spread",
+      "url": "https://www.cbssports.com/nfl/news/where-to-watch-colts-vs-ravens-stream-picks-odds/",
+      "summary": "Lamar Jackson and Daniel Jones look to bounce back from injury-plagued seasons",
+      "published": "Fri, 11 Sep 2026 12:12:21 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "IND"
+      ]
+    },
+    {
+      "title": "NFL Week 1 best bets: Big days for star running backs, plus what to expect in Patrick Mahomes' return",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-1-best-bets-patrick-mahomes-saquon-barkley/",
+      "summary": "Plus, picks for all 16 games as the 2026 season begins",
+      "published": "Fri, 11 Sep 2026 12:09:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Patriots' A.J. Brown believed to have suffered high ankle sprain, expected to miss four weeks",
+      "url": "https://www.cbssports.com/nfl/news/patriots-a-j-brown-injures-ankle-ruled-out/",
+      "summary": "Brown will have an MRI today to determine the severity of the injury",
+      "published": "Thu, 10 Sep 2026 23:58:23 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "49ers vs. Rams odds, predictions, picks, best bets: Betting preview for 2026 NFL Australia Game",
+      "url": "https://www.cbssports.com/betting/news/49ers-rams-odds-predictions-picks-best-bets-betting-preview-for-2026-nfl-australia-game/",
+      "summary": "Best bets and betting preview for 49ers vs. Rams on Thursday in Australia",
+      "published": "Thu, 10 Sep 2026 23:38:56 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Previewing Rams vs. 49ers: Prediction as NFC west rivals clash in NFL Australia Game",
+      "url": "https://www.cbssports.com/nfl/news/rams-vs-49ers-preview-prediction-australia-where-to-watch/",
+      "summary": "The NFL is headed Down Under for an NFC West showdown",
+      "published": "Thu, 10 Sep 2026 23:35:37 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "SF"
+      ]
     }
   ],
-  "reporters": [
-    {
-      "name": "Ian Rapoport",
-      "org": "NFL Network",
-      "handle": "@RapSheet",
-      "profile": "https://x.com/RapSheet",
-      "tier": "INSIDER"
-    },
-    {
-      "name": "Adam Schefter",
-      "org": "ESPN",
-      "handle": "@AdamSchefter",
-      "profile": "https://x.com/AdamSchefter",
-      "tier": "INSIDER"
-    },
-    {
-      "name": "Tom Pelissero",
-      "org": "NFL Network",
-      "handle": "@TomPelissero",
-      "profile": "https://x.com/TomPelissero",
-      "tier": "INSIDER"
-    }
-  ]
+  "reporters": []
 }
