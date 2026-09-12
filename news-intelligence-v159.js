@@ -1,0 +1,12 @@
+(()=>{
+'use strict';
+const STOP=new Set('the a an and or but for to of in on at with from by as is are was were be been being after before into over about nfl football sports report reports reported says said update updates latest week'.split(' '));
+const MATERIAL=/injur|questionable|doubtful|ruled out|inactive|will not play|injured reserve|\bir\b|acl|achilles|concussion|quarterback|\bqb\b|starter|trade|traded|signed|released|fired|benched|weather|wind|rain|snow/i;
+function norm(s){return String(s||'').toLowerCase().replace(/[^a-z0-9\s]/g,' ').replace(/\s+/g,' ').trim()}
+function tokens(x){return new Set(norm(`${x.title||''} ${x.summary||''}`).split(' ').filter(w=>w.length>2&&!STOP.has(w)))}
+function sim(a,b){const A=tokens(a),B=tokens(b);if(!A.size||!B.size)return 0;let i=0;for(const x of A)if(B.has(x))i++;return i/Math.min(A.size,B.size)}
+function sameTeams(a,b){const A=new Set(a.teams||[]),B=new Set(b.teams||[]);if(!A.size||!B.size)return true;for(const x of A)if(B.has(x))return true;return false}
+function clusters(items){const out=[];for(const x of [...items].sort((a,b)=>Date.parse(b.published||0)-Date.parse(a.published||0))){let c=out.find(c=>sameTeams(c.items[0],x)&&sim(c.items[0],x)>=.48);if(c)c.items.push(x);else out.push({items:[x]})}return out.map(c=>{const sources=[...new Set(c.items.map(x=>x.source).filter(Boolean))];return{...c,sources,count:sources.length,material:c.items.some(x=>MATERIAL.test(`${x.category||''} ${x.title||''} ${x.summary||''}`))}})}
+function apply(){const W=window.EDGEiQNews;if(!W?.items)return;const cs=clusters(W.items);const map=new Map();for(const c of cs)for(const x of c.items)map.set(x.url||x.title,c);W.items=W.items.map(x=>{const c=map.get(x.url||x.title);return{...x,corroboration:c?.count||1,corroborated_sources:c?.sources||[],operational_corroboration:!!(c&&c.count>=2&&c.material)}});W.corroboration={clusters:cs.length,corroborated:cs.filter(c=>c.count>=2).length,material_corroborated:cs.filter(c=>c.count>=2&&c.material).length,policy:'OPERATIONAL_ATTENTION_ONLY',model_input:false};document.dispatchEvent(new CustomEvent('edgeiq:news-corroborated',{detail:W.corroboration}))}
+document.addEventListener('edgeiq:news-loaded',apply);document.addEventListener('nflops:information-refresh',()=>queueMicrotask(apply));
+})();
