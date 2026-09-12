@@ -52,15 +52,16 @@ def fetch():
                 t=clean(x.get('headline') or x.get('title'))
                 s=clean(x.get('description') or x.get('summary') or x.get('story'))
                 u=extract_url(x); p=x.get('published') or x.get('lastModified') or x.get('date') or ''
-                blob=f'{t} {s} {u}'.lower()
                 if not t or not u: continue
-                # The sport=football fallback can include college; keep only obvious NFL/league items where metadata exists.
+                # ESPN Now can ignore its league filter and return a general sports stream.
+                # Require the canonical ESPN NFL URL path so non-NFL stories never enter EDGEiQ.
+                if '/nfl/' not in u.lower(): continue
                 cats=json.dumps(x.get('categories') or x.get('category') or '').lower()
                 if 'college' in cats or 'ncaaf' in cats: continue
                 out.append({'title':t,'url':u,'summary':s[:420],'published':p,'source':'ESPN NFL','source_type':'publisher','trust':'NETWORK','category':category(t,s),'teams':teams_for(t+' '+s)})
             if out: return out
         except Exception as e: last=e
-    raise last or RuntimeError('No ESPN news returned')
+    raise last or RuntimeError('No ESPN NFL news returned')
 
 def main():
     data=json.loads(NEWS.read_text()) if NEWS.exists() else {'items':[],'sources':{}}
@@ -72,11 +73,11 @@ def main():
             if not k or k in seen: continue
             seen.add(k); merged.append(x)
         data['items']=merged[:80]
-        data.setdefault('sources',{})['ESPN NFL']={'ok':True,'items':len(espn),'feed':'ESPN_NOW_API'}
+        data.setdefault('sources',{})['ESPN NFL']={'ok':True,'items':len(espn),'feed':'ESPN_NOW_API_NFL_FILTERED'}
         data['checked_at_utc']=datetime.now(timezone.utc).isoformat(); data['updated_at_utc']=data['checked_at_utc']; data['model_input']=False
         NEWS.write_text(json.dumps(data,indent=2)); print(f'ESPN_NEWS=OK items={len(espn)}')
     except Exception as e:
-        data.setdefault('sources',{})['ESPN NFL']={'ok':False,'items':0,'error':type(e).__name__,'feed':'ESPN_NOW_API'}
+        data.setdefault('sources',{})['ESPN NFL']={'ok':False,'items':0,'error':type(e).__name__,'feed':'ESPN_NOW_API_NFL_FILTERED'}
         data['checked_at_utc']=datetime.now(timezone.utc).isoformat(); NEWS.write_text(json.dumps(data,indent=2)); print(f'ESPN_NEWS=UNAVAILABLE {type(e).__name__}')
 
 if __name__=='__main__': main()
