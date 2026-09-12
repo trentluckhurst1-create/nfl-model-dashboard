@@ -1,0 +1,72 @@
+/* EDGEiQ NFL v15.8 — UNIFIED TYPOGRAPHY SYSTEM
+   One scale across Home, Command, Games, Teams, Market, Personnel,
+   Intelligence, Performance, Standings and Model. Loaded last. */
+:root{
+  --ui-xs:10px;
+  --ui-sm:11px;
+  --ui-body:13px;
+  --ui-md:14px;
+  --ui-lg:16px;
+  --ui-title:19px;
+  --ui-hero:22px;
+  --ui-kpi:17px;
+  --ui-text:#eef4f8;
+  --ui-muted:#9fb0bd;
+  --ui-soft:#8298a7;
+}
+html,body{font-size:var(--ui-body)!important;line-height:1.48!important;letter-spacing:0!important}
+body{--text:var(--ui-text)!important;--muted:var(--ui-muted)!important}
+button,input,select,textarea{font-size:inherit!important}
+
+/* APP CHROME */
+.app-shell{grid-template-columns:196px 1fr!important}.sidebar{width:196px!important}.context-rail{left:196px!important}
+.app-id{height:52px!important;padding:0 12px!important}.command-bar{height:54px!important;padding:0 13px!important}.workspace{padding:8px!important}
+.side-nav button{height:34px!important;font-size:12px!important;padding:0 9px!important;color:#b6c3ce!important;letter-spacing:.02em!important}.side-nav button span{font-size:13px!important;width:17px!important}.side-nav button.active{color:#fff!important}
+.crumb span,.label{font-size:var(--ui-xs)!important;line-height:1.25!important}.crumb strong{font-size:18px!important;line-height:1.2!important}.search{height:31px!important}.search input{font-size:12px!important}.week-select,.sync{height:31px!important;font-size:10px!important}.version{font-size:9px!important}.context-rail{height:28px!important;font-size:10px!important}.live-ops-state{height:31px!important;font-size:10px!important}
+.view-head{height:44px!important}.view-head h1{font-size:var(--ui-title)!important}.panel-head{min-height:40px!important;padding:7px 9px!important}.panel-head h2{font-size:15px!important}
+.segmented button,.news-filter,.rail-action{font-size:var(--ui-xs)!important;padding:5px 8px!important}.badge{font-size:var(--ui-xs)!important;padding:3px 6px!important}
+
+/* UNIVERSAL TABLE + KPI SCALE — MARKET, PERSONNEL, PERFORMANCE, STANDINGS, MODEL */
+.stat{padding:8px 9px!important}.stat span{font-size:var(--ui-xs)!important;color:var(--ui-muted)!important}.stat b{font-size:var(--ui-kpi)!important;line-height:1.2!important}
+table{font-size:var(--ui-body)!important}th{font-size:var(--ui-xs)!important;padding:8px 9px!important;color:#aebdca!important;line-height:1.3!important}td{font-size:var(--ui-body)!important;padding:7px 9px!important;line-height:1.4!important}
+.console-row,.division-row,.system-row,.quick-row{font-size:var(--ui-body)!important;padding:8px 9px!important;line-height:1.4!important}.console-row span,.division-row span,.system-row span,.quick-row span{font-size:var(--ui-sm)!important}.console-row b,.division-row b,.system-row b,.quick-row b{font-size:var(--ui-body)!important}
+.software-card,.division-card,.news-card{font-size:var(--ui-body)!important;padding:9px!important}.software-card span,.division-card span,.news-card span,.software-card small,.division-card small,.news-card small{font-size:var(--ui-sm)!important;line-height:1.4!important}.software-card b,.software-card strong,.division-card b,.division-card strong,.news-card b,.news-card strong{font-size:var(--ui-md)!important;line-height:1.3!important}
+
+/* HOME */
+.home-shell{font-size:var(--ui-body)!important;padding:8px!important}.home-hero{padding:15px 17px!important}.home-kicker,.home-system span,.home-metrics span,.hf-model span,.home-card header span,.home-tag,.home-news-row small,.home-news-row a,.home-attention i{font-size:var(--ui-xs)!important;line-height:1.35!important}.home-hero h1{font-size:var(--ui-hero)!important;line-height:1.18!important}.home-hero p,.home-news-row p,.home-control,.home-empty{font-size:var(--ui-body)!important;line-height:1.5!important}.home-system b{font-size:var(--ui-md)!important}.home-system small,.home-attention span small,.home-mover span small,.home-edge span small,.home-injury small{font-size:var(--ui-sm)!important;line-height:1.4!important}.home-metrics b{font-size:var(--ui-kpi)!important}.hf-state{font-size:var(--ui-sm)!important}.hf-match span{font-size:var(--ui-xs)!important}.hf-match h2{font-size:17px!important}.hf-match strong{font-size:17px!important}.hf-model b{font-size:var(--ui-md)!important}.home-featured>button,.home-card header button{font-size:var(--ui-xs)!important}.home-card h3{font-size:15px!important}.home-news-row h4{font-size:var(--ui-body)!important;line-height:1.35!important}.home-attention,.home-mover,.home-edge,.home-injury{font-size:var(--ui-body)!important}.home-mover>strong,.home-edge strong{font-size:var(--ui-md)!important}.home-edge em,.home-injury strong,.home-injury em,.home-control b{font-size:var(--ui-sm)!important}
+
+/* HOME — WEEK PULSE */
+.week-pulse{font-size:var(--ui-body)!important}.week-pulse-head span,.week-pulse-queue header span,.week-pulse-stats span,.pulse-state,.week-pulse-policy{font-size:var(--ui-xs)!important}.week-pulse-head h2{font-size:17px!important}.week-pulse-head p{font-size:var(--ui-body)!important}.week-pulse-head>b{font-size:var(--ui-xs)!important}.week-pulse-stats strong{font-size:var(--ui-kpi)!important}.week-pulse-stats small,.week-pulse-queue header small,.week-pulse-queue button em,.week-pulse-queue button small{font-size:var(--ui-sm)!important}.week-pulse-queue button,.week-pulse-queue button b{font-size:var(--ui-body)!important}
+
+/* COMMAND — GAME LIST */
+.terminal-row{min-height:48px!important;padding:8px 9px!important;gap:6px!important}.game-name{font-size:var(--ui-md)!important;line-height:1.35!important}.game-name small{font-size:var(--ui-sm)!important;color:var(--ui-muted)!important}.metric span{font-size:var(--ui-xs)!important;color:var(--ui-muted)!important}.metric b{font-size:var(--ui-md)!important}.empty-state p{font-size:var(--ui-body)!important}
+
+/* COMMAND — INSPECTOR + ALL DECISION/AUDIT MODULES */
+#gameInspector{font-size:var(--ui-body)!important}#gameInspector .inspector-hero,#gameInspector .inspector-content{padding:14px 16px!important}#gameInspector .inspector-kicker{font-size:var(--ui-xs)!important}#gameInspector .inspector-matchup{font-size:var(--ui-lg)!important}#gameInspector .team-logo{font-size:var(--ui-xs)!important}#gameInspector .model-box,#gameInspector .info-card{padding:10px 11px!important}#gameInspector .model-box span,#gameInspector .info-card span{font-size:var(--ui-xs)!important}#gameInspector .model-box b{font-size:18px!important}#gameInspector .model-box small,#gameInspector .info-card small{font-size:var(--ui-sm)!important}#gameInspector .section-block h3{font-size:15px!important}#gameInspector .info-card b,#gameInspector .section-block:nth-of-type(2) .info-card:nth-child(1) b,#gameInspector .section-block:nth-of-type(2) .info-card:nth-child(2) b{font-size:var(--ui-md)!important}#gameInspector .intel-row b{font-size:var(--ui-body)!important}#gameInspector .intel-row p{font-size:12px!important}#gameInspector .intel-meta{font-size:var(--ui-xs)!important}#gameInspector .intel-note{font-size:var(--ui-sm)!important}.inspector-tabs button{font-size:var(--ui-sm)!important;padding:8px 10px!important}
+.decision-brief,.decision-ledger,.postgame-audit,[class*="convergence"]{font-size:var(--ui-body)!important}.decision-brief h3,.decision-ledger h3,.postgame-audit h3,[class*="convergence"] h3{font-size:15px!important}.decision-brief span,.decision-ledger span,.postgame-audit span,[class*="convergence"] span{font-size:var(--ui-xs)!important}.decision-brief small,.decision-ledger small,.postgame-audit small,[class*="convergence"] small{font-size:var(--ui-sm)!important}.decision-brief strong,.decision-ledger strong,.postgame-audit strong,[class*="convergence"] strong{font-size:var(--ui-md)!important}.decision-flag{font-size:var(--ui-xs)!important}.decision-brief-summary{font-size:var(--ui-body)!important}.decision-brief-policy{font-size:var(--ui-xs)!important}
+
+/* GAMES */
+#gamesMatrix{font-size:var(--ui-body)!important}#gamesMatrix .software-card{padding:10px!important}#gamesMatrix .software-card h2,#gamesMatrix .software-card h3{font-size:15px!important}#gamesMatrix .software-card p{font-size:var(--ui-body)!important;line-height:1.45!important}#gamesMatrix .software-card span,#gamesMatrix .software-card small{font-size:var(--ui-sm)!important}#gamesMatrix .software-card b,#gamesMatrix .software-card strong{font-size:var(--ui-md)!important}#gamesMatrix .software-card-metrics span{font-size:var(--ui-xs)!important}#gamesMatrix .software-card-metrics b{font-size:var(--ui-md)!important}
+
+/* TEAMS — DIRECTORY + EVERY TEAM SUBMODULE */
+.team-directory,.team-page{font-size:var(--ui-body)!important}.team-directory h1,.team-page h1{font-size:21px!important;line-height:1.2!important}.team-directory h2,.team-page h2{font-size:16px!important;line-height:1.25!important}.team-directory h3,.team-page h3{font-size:14px!important;line-height:1.3!important}.team-directory p,.team-page p{font-size:var(--ui-body)!important;line-height:1.48!important}.team-directory small,.team-page small{font-size:var(--ui-sm)!important;line-height:1.4!important}.team-directory span,.team-page span{font-size:var(--ui-sm)!important}.team-directory button,.team-page button{font-size:var(--ui-body)!important}.team-directory b,.team-directory strong,.team-directory em,.team-page b,.team-page strong,.team-page em{font-size:var(--ui-body)!important}.team-directory-head span,.team-page-hero span,.team-panel header span,.team-page-metrics span,.team-games small,.team-news-panel article>div span,.team-news-panel article>div small,.team-profile-row span,.team-edge-kpi span,.team-edge-panel header span,.team-edge-policy{font-size:var(--ui-xs)!important}.team-directory-card b,.team-personnel-row b,.team-news-panel h3,.team-profile-row b{font-size:var(--ui-body)!important}.team-directory-card small,.team-personnel-row small,.team-news-panel p,.team-profile-policy,.team-empty{font-size:var(--ui-sm)!important}.team-directory-card em,.team-games strong,.team-games em,.team-personnel-row>strong{font-size:var(--ui-sm)!important}.team-back{font-size:var(--ui-sm)!important}.team-page-record b{font-size:20px!important}.team-page-metrics b{font-size:var(--ui-kpi)!important}.team-edge-head h3{font-size:16px!important}.team-edge-head span,.team-edge-head small,.team-edge-row small{font-size:var(--ui-sm)!important}.team-edge-kpi b,.team-edge-row strong{font-size:var(--ui-md)!important}.team-edge-row b,.team-edge-row em{font-size:var(--ui-body)!important}
+
+/* INTELLIGENCE — ESPN/CBS/FOX WIRE */
+.xwire,.xwire-home{font-size:var(--ui-body)!important}.xwire-head span,.xwire-head small,.xwire-status,.xwire-summary span,.xwire-meta,.xwire-priority,.xwire-tag,.xwire-teams,.xwire-policy,.xwire-trustline span,.xwire-trustline b{font-size:var(--ui-xs)!important}.xwire-head h3{font-size:16px!important}.xwire-summary b{font-size:var(--ui-kpi)!important}.xwire-item{padding:11px 12px!important}.xwire-item p{font-size:var(--ui-body)!important;line-height:1.5!important}.xwire-home-head>div span,.xwire-home-head>span,.xwire-home-head small,.xwire-home-item>div span,.xwire-home-item>div small,.xwire-home-item>strong{font-size:var(--ui-xs)!important}.xwire-home-item>div b{font-size:var(--ui-body)!important}.xwire-home-item p{font-size:12px!important;line-height:1.45!important}.xwire-home-item{padding:10px 11px!important}
+
+/* PERFORMANCE — AGGREGATE AUDIT */
+.audit-summary{font-size:var(--ui-body)!important}.audit-summary-head span,.audit-summary-stats span,.audit-summary-policy,.audit-summary-list em{font-size:var(--ui-xs)!important}.audit-summary-head h2{font-size:16px!important}.audit-summary-head p,.audit-summary-stats small,.audit-summary-list small{font-size:var(--ui-sm)!important}.audit-summary-head>b{font-size:var(--ui-xs)!important}.audit-summary-stats strong{font-size:var(--ui-kpi)!important}.audit-summary-list b,.audit-summary-list strong{font-size:var(--ui-body)!important}
+
+/* STANDINGS */
+#view-standings .division-card{font-size:var(--ui-body)!important}#view-standings .division-card h2,#view-standings .division-card h3{font-size:15px!important}#view-standings .division-card span,#view-standings .division-card small{font-size:var(--ui-sm)!important}#view-standings .division-card b,#view-standings .division-card strong{font-size:var(--ui-body)!important}
+
+/* MODEL */
+#view-model{font-size:var(--ui-body)!important}#view-model .console-row{font-size:var(--ui-body)!important}#view-model .console-row span{font-size:var(--ui-sm)!important}#view-model .console-row b{font-size:var(--ui-body)!important}
+
+/* WORKSTATION / LEGACY STABLE SURFACES */
+.game-workstation{font-size:var(--ui-body)!important}.ws-head>div:first-child span,.ws-head-metrics em,.ws-layout-tools button,.ws-pane>header,.ws-score span,.ws-muted,.ws-event,.ws-team-meta,.ws-team-kpis em,.ws-person{font-size:var(--ui-xs)!important}.ws-head>div:first-child b{font-size:var(--ui-lg)!important}.ws-head-metrics strong,.ws-score b{font-size:var(--ui-md)!important}.ws-kv,.ws-row,.ws-tape,.ws-action{font-size:var(--ui-sm)!important;line-height:1.45!important}.ws-team-title span{font-size:var(--ui-sm)!important}.ws-team-title b{font-size:var(--ui-md)!important}.ws-team-kpis strong{font-size:var(--ui-body)!important}.ws-pane>header{height:28px!important}.ws-pane-body{height:calc(100% - 28px)!important}
+
+/* RESPONSIVE — preserve the same hierarchy instead of inventing new sizes */
+@media(max-width:1300px){.software-grid,.division-grid{grid-template-columns:repeat(3,1fr)!important}}
+@media(max-width:980px){.app-shell{grid-template-columns:52px 1fr!important}.sidebar{width:52px!important}.context-rail{left:52px!important}.side-nav button{font-size:0!important}.side-nav button span{font-size:14px!important}.software-grid,.division-grid,.news-feed{grid-template-columns:repeat(2,1fr)!important}}
+@media(max-width:680px){html,body{font-size:13px!important}.context-rail{left:0!important}.software-grid,.division-grid,.news-feed{grid-template-columns:1fr!important}.side-nav button{height:44px!important}th{font-size:10px!important}td{font-size:12px!important}}
