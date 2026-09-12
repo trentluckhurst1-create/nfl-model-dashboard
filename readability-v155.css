@@ -1,0 +1,151 @@
+/* EDGEiQ NFL v15.5 — global readability pass
+   Presentation only. No model, market, scoring, audit or data semantics change. */
+:root{
+  --text:#f1f5f9;
+  --muted:#9aabba;
+  --line:#243442;
+  --line2:#365064;
+}
+html,body{
+  font-size:13px;
+  line-height:1.45;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+body{color:var(--text)}
+
+/* Make secondary copy readable without flattening the hierarchy. */
+.muted,
+small,
+.game-name small,
+.model-state small,
+.metric span,
+.ws-muted,
+.ws-score span,
+.context-rail,
+.xwire-summary-text{
+  color:#9aabba;
+}
+
+/* Global UI labels: preserve compact software feel, remove micro-text. */
+.label,
+.crumb span,
+.stat span,
+.metric span,
+th,
+.badge,
+.rail-action,
+.context-rail,
+.version,
+.sync,
+.segmented button,
+.news-filter,
+.ws-pane>header,
+.ws-head>div:first-child span,
+.ws-head-metrics em,
+.ws-layout-tools button,
+.ws-score span,
+.ws-muted,
+.ws-kv,
+.ws-row,
+.ws-tape,
+.ws-action,
+.ws-event,
+.ws-person,
+.ws-team-meta,
+.ws-team-kpis em{
+  font-size:9px;
+  line-height:1.35;
+}
+
+/* Core navigation and controls. */
+.side-nav button{font-size:11px;font-weight:650;letter-spacing:.045em;color:#a7b6c4}
+.side-nav button.active{color:#fff}
+.crumb strong{font-size:15px;line-height:1.25}
+.search input{font-size:12px}
+.week-select{font-size:11px;font-weight:700}
+.live-ops-state{font-size:9px!important;line-height:1.25}
+.v83-brand-foot small{font-size:9px!important;line-height:1.35!important;color:#91a4b5!important}
+.v83-brand-foot .season,.v83-brand-foot .live{font-size:9px!important}
+.version{color:#708395}
+
+/* Page headings and section hierarchy. */
+.view-head h1{font-size:19px;line-height:1.2}
+.panel-head h2{font-size:14px;line-height:1.25}
+h1,h2,h3,h4{letter-spacing:-.01em}
+h3{line-height:1.3}
+.section-block h3{font-size:14px!important}
+
+/* Cards, metrics and inspector. */
+.game-name{font-size:12px;line-height:1.35}
+.metric b{font-size:12px}
+.model-box,.info-card{padding:9px}
+.model-box span,.info-card span{line-height:1.35}
+.model-box b{font-size:16px;line-height:1.25;margin-top:2px}
+.info-card b{line-height:1.3}
+.inspector-content p,.inspector-content small{line-height:1.5}
+.inspector-tabs button{font-size:10px}
+
+/* Tables are a core working surface — prioritise legibility. */
+table{font-size:11px}
+th{font-size:9px;color:#a4b4c2;letter-spacing:.045em;padding:9px 9px}
+td{font-size:10.5px;line-height:1.4;padding:8px 9px;color:#e9eff5}
+
+/* News / intelligence. */
+.news-card{padding:11px}
+.news-card h3,.news-card b{line-height:1.35}
+.news-card p,.news-card small{line-height:1.5}
+.xwire-item p,.xwire-home-item p{line-height:1.45!important}
+.xwire-meta,.xwire-teams,.xwire-policy,.xwire-trustline,.xwire-home-head small{font-size:9px!important;line-height:1.4!important}
+.xwire-summary span,.xwire-priority,.xwire-tag{font-size:9px!important}
+.xwire-summary b{font-size:15px!important}
+
+/* Team intelligence modules — many were intentionally ultra-compact. */
+#teamHub small,
+#teamHub em,
+#teamHub .team-edge-policy,
+#teamHub [class*="policy"],
+#teamHub [class*="meta"],
+#teamHub [class*="eyebrow"]{
+  font-size:9px;
+  line-height:1.45;
+}
+#teamHub p{line-height:1.5}
+#teamHub h3{line-height:1.3}
+#teamHub [class*="row"]{line-height:1.4}
+
+/* Home modules and operational summaries. */
+#homeDashboard small,#homeDashboard p{line-height:1.5}
+#homeDashboard [class*="label"],
+#homeDashboard [class*="eyebrow"],
+#homeDashboard [class*="meta"]{font-size:9px;line-height:1.4}
+
+/* Increase separation slightly so dense information is easier to scan. */
+.terminal-row{padding:8px 9px;min-height:48px}
+.console-row,.division-row,.system-row,.quick-row{padding:8px 9px;line-height:1.4}
+.software-card,.division-card{padding:10px}
+.panel-head{padding:7px 9px}
+
+/* Keep desktop density but avoid unreadably tiny workstation text. */
+.ws-pane-body{line-height:1.4}
+.ws-team-title span{font-size:9px}
+.ws-team-kpis strong{font-size:10px}
+.ws-person{font-size:9px}
+
+/* Keyboard focus clarity. */
+button:focus-visible,a:focus-visible,input:focus-visible{
+  outline:2px solid #65b5ff;
+  outline-offset:2px;
+}
+
+@media(max-width:980px){
+  html,body{font-size:13px}
+  .side-nav button span{font-size:14px}
+}
+@media(max-width:680px){
+  html,body{font-size:14px}
+  td{font-size:11px}
+  th{font-size:9.5px}
+  .model-box b{font-size:15px}
+  .xwire-meta,.xwire-teams,.xwire-policy{font-size:9.5px!important}
+}
