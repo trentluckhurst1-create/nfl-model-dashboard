@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-12T21:45:46.938891+00:00",
-  "checked_at_utc": "2026-09-12T21:45:46.938891+00:00",
+  "updated_at_utc": "2026-09-12T21:48:19.929691+00:00",
+  "checked_at_utc": "2026-09-12T21:48:19.929691+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
@@ -12,6 +12,10 @@
     "CBS Sports NFL": {
       "ok": true,
       "items": 31
+    },
+    "FOX Sports NFL": {
+      "ok": false,
+      "items": 0
     }
   },
   "items": [
