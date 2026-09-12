@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "updated_at_utc": null,
+  "status": "AWAITING_X_BEARER_TOKEN",
+  "source": "X_API_V2",
+  "policy": "CURATED_TRUSTED_REPORTERS_ONLY",
+  "model_input": false,
+  "trusted_accounts": {
+    "AdamSchefter": "Adam Schefter",
+    "RapSheet": "Ian Rapoport",
+    "TomPelissero": "Tom Pelissero",
+    "MikeGarafolo": "Mike Garafolo",
+    "AlbertBreer": "Albert Breer",
+    "FieldYates": "Field Yates"
+  },
+  "items": []
+}
