@@ -5,6 +5,7 @@ on:
     paths:
       - '.github/workflows/refresh.yml'
       - 'scripts/update_dashboard.py'
+      - 'scripts/update_espn_news.py'
       - 'scripts/update_h2h_market.py'
   schedule:
     - cron: "*/5 * * * *"
@@ -30,6 +31,7 @@ jobs:
       - name: Refresh published operations data
         run: |
           python scripts/update_dashboard.py
+          python scripts/update_espn_news.py
           python scripts/update_h2h_market.py
       - name: Publish refreshed data
         run: |
