@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-12T21:52:42.941922+00:00",
-  "checked_at_utc": "2026-09-12T21:52:42.941922+00:00",
+  "updated_at_utc": "2026-09-12T23:20:15.753739+00:00",
+  "checked_at_utc": "2026-09-12T23:20:41.033944+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -14,273 +14,13 @@
       "items": 31
     },
     "FOX Sports NFL": {
-      "ok": true,
-      "items": 21,
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout",
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
-    {
-      "title": "Packers Reportedly Sign TE Tucker Kraft To Mammoth Extension",
-      "url": "https://www.foxsports.com/stories/nfl/tucker-kraft-packers-extension-raiders-sign-michael-mayer",
-      "summary": "The Green Bay Packers have reportedly extended tight end Tucker Kraft on a $75 million deal.",
-      "published": "Sat, 12 Sep 2026 11:38:14 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "GB"
-      ]
-    },
-    {
-      "title": "NFL Catchup: Who's In, Who's Out For Sunday; Kyle Shanahan Reportedly Gets Extension",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-friday-injury-news-kyle-shanahan-extension",
-      "summary": "Here's the latest NFL news from the Friday ahead of Week 1's Sunday slate, headlined by the latest injury news.",
-      "published": "Fri, 11 Sep 2026 19:04:02 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL, College Football Odds: Best Bets For Bama-UK, Packers-Vikings",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-college-football-odds-best-bets-bama-uk-packers-vikings",
-      "summary": "Both football seasons have begun, meaning Sammy P has wagers to share for the NFL and the college ranks. Dive in.",
-      "published": "Fri, 11 Sep 2026 18:59:43 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Bears Reportedly Extend Starting RB D'Andre Swift On 3-Year Deal",
-      "url": "https://www.foxsports.com/stories/nfl/dandre-swift-bears-extension-chicago-running-backs",
-      "summary": "The Chicago Bears have reportedly signed starting running back D'Andre Swift to a three-year extension.",
-      "published": "Fri, 11 Sep 2026 16:09:54 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "This Year's Breakout Star Will Be ... Tyler Shough? Why Scouts, Execs Like Saints QB",
-      "url": "https://www.foxsports.com/stories/nfl/years-breakout-star-will-tyler-shough-why-scouts-execs-like-saints-qb",
-      "summary": "Who'll will be a breakout star in 2026? Execs and scouts pointed to Tyler Shough and a pair of Bears standouts.",
-      "published": "Fri, 11 Sep 2026 15:40:10 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CHI",
-        "NO"
-      ]
-    },
-    {
-      "title": "NFL DFS Week 1: Best Picks, Lineup Advice and Value Plays",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-daily-fantasy-football-week-1-picks-dfs-plays-values",
-      "summary": "Top NFL DFS picks for Week 1, including value plays, lineup strategy and sleepers to target for your daily fantasy roster this week.",
-      "published": "Fri, 11 Sep 2026 14:44:50 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Chris 'The Bear' Fallica's College Football Week 2 Expert Picks, Best Bets",
-      "url": "https://www.foxsports.com/stories/nfl/chris-the-bear-fallicas-college-football-week-2-expert-picks-best-bets",
-      "summary": "\"The Bear\" is back with his expert picks and best bets. Check out what he's wagering for Week 2 of the college football season.",
-      "published": "Fri, 11 Sep 2026 14:40:41 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL MVP Best Bet: Why Patrick Mahomes Is Most Valuable Wager",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-mvp-best-bet-why-patrick-mahomes-most-valuable-wager",
-      "summary": "According to Will Hill, it could be the right time at the right value to bet Patrick Mahomes to win NFL MVP.",
-      "published": "Fri, 11 Sep 2026 13:23:57 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Patriots Reportedly Placing A.J. Brown On Injured Reserve With Ankle Injury",
-      "url": "https://www.foxsports.com/stories/nfl/patriots-aj-brown-injured-reserve",
-      "summary": "The New England Patriots are reportedly placing star wide receiver A.J. Brown on injured reserve with a high-ankle sprain.",
-      "published": "Fri, 11 Sep 2026 13:22:42 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Myles Garrett Reflects On 'Worst Version' Of Himself In Rams Debut",
-      "url": "https://www.foxsports.com/stories/nfl/myles-garrett-postgame-quotes-49ers-rams-australia-game",
-      "summary": "Myles Garrett called his debut game with the Los Angeles Rams the \"worst version\" of himself that he's \"put out\" on the field.",
-      "published": "Fri, 11 Sep 2026 10:50:42 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "Rams Coach Sean McVay Brutally Honest About 'Humbling' Loss To 49ers",
-      "url": "https://www.foxsports.com/stories/nfl/sean-mcvay-postgame-quotes-49ers-rams-australia-game",
-      "summary": "Los Angeles Rams head coach Sean McVay called the team's Week 1 loss to the San Francisco 49ers \"a humbling day.\"",
-      "published": "Fri, 11 Sep 2026 10:14:00 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "SF"
-      ]
-    },
-    {
-      "title": "2026 NFL DPOY Odds: Myles Garrett Favored To Repeat",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
-      "summary": "Check out how the latest odds to win the 2026 NFL Defensive Player of the Year award.",
-      "published": "Fri, 11 Sep 2026 10:08:21 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Odds Week 1: Lines, Spreads, Results For All 16 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-1-lines-spreads-all-16-games",
-      "summary": "Check out the early odds, spreads and totals for all 16 Week 1 games.",
-      "published": "Fri, 11 Sep 2026 09:58:29 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Coaching Hot Seat Rankings: Who's Feeling The Most Heat Before Week 1?",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-coaching-hot-seat-rankings-whos-feeling-most-heat-before-week-1",
-      "summary": "These seven coaches' seats are the hottest heading into the 2026 season.",
-      "published": "Fri, 11 Sep 2026 08:00:44 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 1 Betting Report: Books Expecting Big Action On Cowboys, Bengals",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-1-betting-report-books-expecting-big-action-cowboys-bengals",
-      "summary": "Also, the public is not sold on Kansas City. That and more from Patrick Everson.",
-      "published": "Fri, 11 Sep 2026 01:16:55 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "DAL"
-      ]
-    },
-    {
-      "title": "2026 Super Bowl Odds: Rams Slip After Blowout Loss To 49ers",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "summary": "The Rams entered Week 1 as heavy Super Bowl favorites, but a blowout loss to the 49ers has shifted their odds.",
-      "published": "Thu, 10 Sep 2026 23:59:27 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "SF"
-      ]
-    },
-    {
-      "title": "Jalen Hurts And Jayden Daniels Enter Pivotal Seasons Ahead Of Week 1 Clash",
-      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-jayden-daniels-enter-pivotal-seasons-ahead-week-1-clash",
-      "summary": "Here's why this the 2026 regular season is so critical for Commanders QB Jayden Daniels and Eagles QB Jalen Hurts.",
-      "published": "Thu, 10 Sep 2026 23:40:18 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "PHI",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Just Like He Drew It Up: Drew Lock Shows He Can Be Capable Fill-In For Sam Darnold",
-      "url": "https://www.foxsports.com/stories/nfl/drew-lock-chasing-second-nfl-chapter-replacing-injured-sam-darnold",
-      "summary": "Drew Lock was ready to replace Sam Darnold on Wednesday and moving forward thanks to his preparation of drawing up plays.",
-      "published": "Thu, 10 Sep 2026 23:23:59 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Patriots WR A.J. Brown Reportedly Set To Miss At Least 4 Weeks Due To Ankle Injury",
-      "url": "https://www.foxsports.com/stories/nfl/patriots-wr-a-j-brown-injury-timeline-update",
-      "summary": "The New England Patriots will be without their prized offseason acquisition for the next month.",
-      "published": "Thu, 10 Sep 2026 20:30:02 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "NFL Catchup: Tua Tagovailoa Injures Oblique; Latest On Sam Darnold, A.J. Brown",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-tua-tagovailoa-injures-oblique-latest-sam-darnold-a-j-brown",
-      "summary": "Here's the latest from around the NFL on Thursday.",
-      "published": "Thu, 10 Sep 2026 19:52:33 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "Sam Darnold Injury Updates: What We Know About Seahawks QB's Hip Issue",
-      "url": "https://www.foxsports.com/stories/nfl/sam-darnold-injury-updates-seahawks-patriots-finish",
-      "summary": "The Seattle Seahawks have reportedly avoided a worst-case scenario with QB Sam Darnold, who suffered a hip injury in Week 1.",
-      "published": "Thu, 10 Sep 2026 19:19:00 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SEA"
-      ]
-    },
     {
       "title": "Falcons QB Rush still slated to start despite back spasms",
       "url": "https://www.espn.com/nfl/story/_/id/49918004/falcons-qb-rush-slated-start-back-spasms",
@@ -306,20 +46,6 @@
       "category": "transaction",
       "teams": [
         "HOU"
-      ]
-    },
-    {
-      "title": "Chiefs set to use undrafted rookie with LT Josh Simmons out",
-      "url": "https://www.espn.com/nfl/story/_/id/49917622/chiefs-set-use-undrafted-rookie-lt-josh-simmons-out",
-      "summary": "Chiefs left tackle Josh Simmons is out for Monday's season opener against the Broncos, with Kansas City expected to turn to undrafted rookie Kahlil Benson to help protect returning quarterback Patrick Mahomes.",
-      "published": "2026-09-12T20:17:49Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "DEN",
-        "KC"
       ]
     },
     {
