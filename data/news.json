@@ -1,13 +1,13 @@
 {
-  "updated_at_utc": "2026-09-12T21:48:19.929691+00:00",
-  "checked_at_utc": "2026-09-12T21:48:19.929691+00:00",
+  "updated_at_utc": "2026-09-12T21:52:03.215495+00:00",
+  "checked_at_utc": "2026-09-12T21:52:03.215495+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 27,
-      "feed": "ESPN_NOW_API"
+      "items": 3,
+      "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
@@ -19,116 +19,6 @@
     }
   },
   "items": [
-    {
-      "title": "Experts' picks: Who will win the US Open men's title?",
-      "url": "https://www.espn.com/tennis/story/_/id/49909252/us-open-2026-mens-final-ben-shelton-alexander-sasha-zverev",
-      "summary": "History is on the line as Ben Shelton battles Alexander Zverev in the US Open final. Can Shelton end a 23-year drought? Our experts break it down.",
-      "published": "2026-09-12T21:45:02Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Chris Kreider, 35, lands 1-year deal with Montreal Canadiens",
-      "url": "https://www.espn.com/nhl/story/_/id/49919075/chris-kreider-35-lands-1-year-deal-montreal-canadiens",
-      "summary": "Veteran forward Chris Kreider, 35, who has 348 goals and 632 points in his career, agreed to terms on a contract for this season with the Montreal Canadiens Saturday after mutually terminating his previous deal with the Anaheim Ducks earlier in the week.",
-      "published": "2026-09-12T21:42:16Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Premier League VAR review: Was Sunderland's penalty legit vs. Arsenal?",
-      "url": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-      "summary": "VAR often causes Premier League controversy, but how are decisions made and are they correct? Our resident ref, Andy Davies, explains all.",
-      "published": "2026-09-12T21:39:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Arsenal ratings: Guimaraes 8/10, Raya 9/10 in win at Sunderland",
-      "url": "https://www.espn.com/soccer/story/_/id/49914694/arsenal-bruno-guimaraes-david-raya-player-ratings-mikel-arteta-premier-league",
-      "summary": "Bruno Guimaraes and David Raya were instrumental as Arsenal fought off Sunderland's aggressive effort to pick up a big win in Saturday's late Premier League game.",
-      "published": "2026-09-12T21:18:48Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Mbapp\u00e9 stars as Real Madrid see off Rayo Vallecano",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401882880",
-      "summary": "Kylian Mbapp\u00e9 continued his hot start to the season, with two goals and an assist as Real Madrid got back to winning ways in LaLiga with a 4-1 victory over Rayo Vallecano on Saturday.",
-      "published": "2026-09-12T21:16:00Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Bruno Guimar\u00e3es scores stunner as Arsenal overcome Sunderland",
-      "url": "http://www.espn.com/soccer/report/_/gameId/401878779",
-      "summary": "Bruno Guimar\u00e3es and Bukayo Saka helped maintain Arsenal's perfect start in the Premier League with a 2-0 win over Sunderland.",
-      "published": "2026-09-12T21:08:00Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Sunderland 0-2 Arsenal: Guimar\u00e3es stunner helps Gunners to fourth win after Raya saves penalty - as it happened",
-      "url": "https://www.espn.com/soccer/story/_/id/49915845/sunderland-arsenal-live-premier-league-updates-commentary-score-result",
-      "summary": "Arsenal have beaten Sunderland 2-0 at the Stadium of Light to make it four wins from four in their title defence.",
-      "published": "2026-09-12T21:36:17Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Premier League recap: Arsenal get big win at Sunderland, Spurs still winless",
-      "url": "https://www.espn.com/soccer/story/_/id/49894589/premier-league-live-updates-chelsea-hull-city-tottenham-everton-sunderland-arsenal-real-madrid-ac-milan",
-      "summary": "What a Saturday! Defending champs Arsenal dug deep to win 2-0 at Sunderland, Tottenham's search for a win -- and a goal -- continues as they drew 0-0 vs. Everton, and Chelsea had to settle for a 2-2 draw vs. Hull.",
-      "published": "2026-09-12T21:05:30Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Hao-Yu Lee doubles and triples in 7-run 8th as Tigers rally past Rockies 11-7",
-      "url": "http://www.espn.com/mlb/recap?gameId=401816905",
-      "summary": "\u2014 Hao-Yu Lee doubled and tripled in a seven-run eighth inning as the Detroit Tigers rallied for a 11-7 win over the Colorado Rockies on Saturday.",
-      "published": "2026-09-12T20:44:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Francisco Lindor hits leadoff homer and grand slam as Mets pound Gerrit Cole and rout Yankees 12-2",
-      "url": "http://www.espn.com/mlb/recap?gameId=401816909",
-      "summary": "\u2014 Francisco Lindor hit a leadoff homer and added a grand slam in the eighth inning as the New York Mets chased Gerrit Cole early and pounded the crosstown Yankees 12-2 on Saturday.",
-      "published": "2026-09-12T20:29:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
     {
       "title": "Falcons QB Rush still slated to start despite back spasms",
       "url": "https://www.espn.com/nfl/story/_/id/49918004/falcons-qb-rush-slated-start-back-spasms",
@@ -157,61 +47,6 @@
       ]
     },
     {
-      "title": "Leeds United vs. Newcastle United: TV channel, how to watch in UK, kick-off time, live stream, team news, referee, predicted line-ups",
-      "url": "https://www.espn.com/soccer/story/_/id/49916515/leeds-united-newcastle-united-2026-27-premier-league-tv-channel-how-watch-kick-live-stream-referee-injury-predicted-lineups",
-      "summary": "Everything you need to know ahead of the Premier League clash between Ipswich Town and Liverpool.",
-      "published": "2026-09-12T20:05:55Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Shane Lowry one-putts way to four-shot lead in Irish Open",
-      "url": "https://www.espn.com/golf/story/_/id/49917707/shane-lowry-one-putts-way-four-shot-lead-irish-open",
-      "summary": "Shane Lowry thrilled his home crowd Saturday in the Irish Open by one-putting every green on the back nine for a 5-under 65, and a four-shot lead going into the final round.",
-      "published": "2026-09-12T20:11:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Fantasy baseball lineup Sunday advice: Justin Wrobleski, Noah Cameron stand out as streamers",
-      "url": "https://www.espn.com/fantasy/baseball/story/_/id/49914578/fantasy-baseball-pitcher-rankings-lineup-advice-tips-mlb-daily-notes-september-13-games",
-      "summary": "Everything you need to know to set your fantasy baseball lineups for Sunday's MLB action.",
-      "published": "2026-09-12T20:00:42Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "U.S. tops Spain to reach FIBA World Cup final against France",
-      "url": "https://www.espn.com/wnba/story/_/id/49917631/us-tops-spain-reach-fiba-world-cup-final-france",
-      "summary": "Breanna Stewart scored 16 points and Kahleah Copper added 13 to help the U.S. beat Spain 76-66 on Saturday, advancing to the championship game of the women's FIBA World Cup.",
-      "published": "2026-09-12T20:21:39Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Winless Tottenham lack confidence and physical conditioning - Roberto De Zerbi",
-      "url": "https://www.espn.com/soccer/story/_/id/49917628/winless-tottenham-lack-confidence-physical-conditioning-roberto-de-zerbi",
-      "summary": "Roberto de Zerbi has admitted Tottenham lack \"physical condition\" and \"confidence\" but insisted they can overcome their slow start to the season.",
-      "published": "2026-09-12T20:21:37Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Chiefs set to use undrafted rookie with LT Josh Simmons out",
       "url": "https://www.espn.com/nfl/story/_/id/49917622/chiefs-set-use-undrafted-rookie-lt-josh-simmons-out",
       "summary": "Chiefs left tackle Josh Simmons is out for Monday's season opener against the Broncos, with Kansas City expected to turn to undrafted rookie Kahlil Benson to help protect returning quarterback Patrick Mahomes.",
@@ -224,107 +59,6 @@
         "DEN",
         "KC"
       ]
-    },
-    {
-      "title": "Ottneil Baartman injury concern for South Africa",
-      "url": "https://www.espn.com/cricket/story/_/id/49917515/ottneil-baartman-injury-concern-south-africa-australia-odis",
-      "summary": "Seamer only bowled five overs and did not bat in second innings of Dolphins' four-day series defeat",
-      "published": "2026-09-12T19:49:59Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIA"
-      ]
-    },
-    {
-      "title": "Pulisic gets assist for Milan in 1st game since World Cup",
-      "url": "https://www.espn.com/soccer/story/_/id/49917361/christian-pulisic-assist-ac-milan-usa-world-cup-serie-lazio",
-      "summary": "Christian Pulisic marked his first appearance since the 2026 World Cup with an assist to help AC Milan rally to claim a 2-2 draw at Lazio on Saturday.",
-      "published": "2026-09-12T21:04:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Fenerbahce coach returns to work after resignation confusion",
-      "url": "https://www.espn.com/soccer/story/_/id/49916991/fenerbahce-coach-ismail-kartal-resignation-return",
-      "summary": "Fenerbahce coach Ismail Kartal returned to his duties on Saturday, contradicting media reports from the day before suggesting his resignation was final.",
-      "published": "2026-09-12T19:35:35Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Jefferson-Wooden, Bednarek capture Ultimate Championship wins",
-      "url": "https://www.espn.com/olympics/story/_/id/49917226/jefferson-wooden-bednarek-capture-ultimate-championship-wins",
-      "summary": "Melissa Jefferson-Wooden ran a world-leading 10.62 seconds in the 100 meters at the Ultimate Championship on Saturday.",
-      "published": "2026-09-12T21:18:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Dodgers' Freeman in lineup after missing 2 games with knee issue",
-      "url": "https://www.espn.com/mlb/story/_/id/49917208/dodgers-freeman-lineup-missing-2-games-knee-issue",
-      "summary": "Freddie Freeman returned to the Los Angeles Dodgers' lineup on Saturday after a right knee issue had sidelined him the previous two games.",
-      "published": "2026-09-12T19:42:53Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Keely Hodgkinson settles for second as Audrey Werro wins Ultimate Championship 800m",
-      "url": "https://www.espn.com/athletics/story/_/id/49916775/keely-hodgkinson-second-audrey-werro-wins-ultimate-championship-800m",
-      "summary": "Keely Hodgkinson settled for second in a hotly-anticipated women's 800 metres World Athletics Ultimate Championship final won by her Swiss nemesis Audrey Werro.",
-      "published": "2026-09-12T19:04:01Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Sunderland vs. Arsenal: TV channel, how to watch in UK, kick-off time, live stream, team news, referee, predicted line-ups",
-      "url": "https://www.espn.com/soccer/story/_/id/49901124/sunderland-vs-arsenal-2026-27-premier-league-tv-channel-how-watch-kick-live-stream-referee-injury-predicted-lineups",
-      "summary": "Everything you need to know ahead of the Premier League clash between Sunderland and Arsenal.",
-      "published": "2026-09-12T18:58:06Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Tottenham 0-0 Everton: Premier League reaction as Roberto De Zerbi's side remain winless",
-      "url": "https://www.espn.com/soccer/story/_/id/49914456/tottenham-everton-live-premier-league-score-result-commentary",
-      "summary": "Tottenham Hotspur are still searching for their first win and goal of the season after being held to a goalless draw to Everton.",
-      "published": "2026-09-12T19:00:10Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Cubs activate Edward Cabrera from IL, move him to bullpen",
-      "url": "https://www.espn.com/mlb/story/_/id/49916510/cubs-activate-edward-cabrera-il-move-bullpen",
-      "summary": "The Cubs have reinstated Edward Cabrera from the 15-day injured list, with manager Craig Counsell moving the right-hander to the bullpen for now.",
-      "published": "2026-09-12T19:09:33Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
     },
     {
       "title": "Tucker Kraft, Michael Mayer join highest-paid tight ends with contract extensions",
