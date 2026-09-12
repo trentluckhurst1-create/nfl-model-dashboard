@@ -8,6 +8,8 @@ TEAM={"Arizona Cardinals":"ARI","Atlanta Falcons":"ATL","Baltimore Ravens":"BAL"
 ABBR_ALIAS={'LAR':'LA','WSH':'WAS','JAC':'JAX'}
 ALIASES={k:[k,k.split()[-1]] for k in TEAM}; ALIASES.update({'San Francisco 49ers':['49ers','Niners','San Francisco'],'Los Angeles Rams':['Rams'],'Los Angeles Chargers':['Chargers'],'New England Patriots':['Patriots'],'Seattle Seahawks':['Seahawks'],'Las Vegas Raiders':['Raiders'],'Tampa Bay Buccaneers':['Buccaneers','Bucs'],'Kansas City Chiefs':['Chiefs'],'Green Bay Packers':['Packers'],'New York Jets':['Jets'],'New York Giants':['Giants']})
 CBS_RSS='https://www.cbssports.com/rss/headlines/nfl/'
+FOX_RSS='https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQa0NBh0IYQ2&aggregateId=7f7f7f7f-7f7f-7f7f-7f7f-7f7f7f7f7f7f'
+FOX_RSS_FALLBACK='https://www.foxsports.com/rss-feeds'
 ESPN_NEWS='https://site.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=40'
 REPORTERS=[]
 
@@ -36,11 +38,7 @@ def find_events(obj):
     return []
 
 def get_scoreboard(season,week):
-    urls=[
-        ('ESPN_SITE',f'https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates={season}&seasontype=2&week={week}'),
-        ('ESPN_CDN','https://cdn.espn.com/core/nfl/scoreboard?xhr=1&limit=50'),
-        ('ESPN_CDN_SCHEDULE',f'https://cdn.espn.com/core/nfl/schedule?xhr=1&year={season}&week={week}')
-    ]
+    urls=[('ESPN_SITE',f'https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates={season}&seasontype=2&week={week}'),('ESPN_CDN','https://cdn.espn.com/core/nfl/scoreboard?xhr=1&limit=50'),('ESPN_CDN_SCHEDULE',f'https://cdn.espn.com/core/nfl/schedule?xhr=1&year={season}&week={week}')]
     errs=[]
     for source,url in urls:
         try:
@@ -76,8 +74,7 @@ def parse_players(sm):
     return out
 
 def fetch_week(model,old):
-    season=int(model.get('season',2026)); week=int(model.get('week',1)); now=datetime.now(timezone.utc).isoformat()
-    data,score_source=get_scoreboard(season,week)
+    season=int(model.get('season',2026)); week=int(model.get('week',1)); now=datetime.now(timezone.utc).isoformat(); data,score_source=get_scoreboard(season,week)
     wanted={(g['away'],g['home']):g['game_id'] for g in model.get('games',[])}; scores=[]; records={}; meta={}; rich={}
     for event in data.get('events',[]):
         comp=(event.get('competitions') or [{}])[0]; teams={}; competitors=comp.get('competitors') or []
@@ -99,8 +96,7 @@ def fetch_week(model,old):
         scores.append(item); meta[gid]={k:item[k] for k in ['commence_utc','network','venue','espn_event_id']}
         if state in {'LIVE','FINAL'} and event.get('id'):
             try:
-                sm=get_json(f"https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event={event['id']}")
-                plays=[]
+                sm=get_json(f"https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary?event={event['id']}"); plays=[]
                 for p in (sm.get('plays') or [])[-80:]: plays.append({'period':(p.get('period') or {}).get('number'),'clock':(p.get('clock') or {}).get('displayValue'),'text':p.get('text') or p.get('shortText') or '','scoring':bool(p.get('scoringPlay')),'away_score':p.get('awayScore'),'home_score':p.get('homeScore')})
                 rich[gid]={'source':'ESPN_GAME_SUMMARY','updated_at_utc':now,'team_stats':parse_stats(sm),'player_stats':parse_players(sm),'recent_plays':plays}
             except Exception:
@@ -125,9 +121,7 @@ def promo(x): return re.search(r'promo code|bonus bets|sportsbook promos|sign up
 def espn_items():
     data=get_json(ESPN_NEWS); out=[]
     for x in (data.get('articles') or [])[:40]:
-        t=clean_text(x.get('headline') or x.get('title') or '')
-        d=clean_text(x.get('description') or x.get('story') or '')
-        links=x.get('links') or {}; web=links.get('web') or {}; u=(web.get('href') or '') if isinstance(web,dict) else ''
+        t=clean_text(x.get('headline') or x.get('title') or ''); d=clean_text(x.get('description') or x.get('story') or ''); links=x.get('links') or {}; web=links.get('web') or {}; u=(web.get('href') or '') if isinstance(web,dict) else ''
         if not u:
             for l in x.get('links') or [] if isinstance(x.get('links'),list) else []:
                 if isinstance(l,dict) and l.get('href'): u=l['href']; break
@@ -135,16 +129,21 @@ def espn_items():
         if t and u and not promo(t+' '+d): out.append({'title':t,'url':u,'summary':d[:420],'published':p,'source':'ESPN NFL','source_type':'publisher','trust':'NETWORK','category':category(t,d),'teams':teams_for(t+' '+d)})
     return out
 
-def cbs_items():
-    rr=requests.get(CBS_RSS,timeout=25,headers=HEAD); rr.raise_for_status(); root=ET.fromstring(rr.content); out=[]
-    for x in root.findall('.//item')[:40]:
+def rss_items(url,source):
+    rr=requests.get(url,timeout=25,headers=HEAD); rr.raise_for_status(); root=ET.fromstring(rr.content); out=[]
+    for x in root.findall('.//item')[:50]:
         t=clean_text(x.findtext('title')); u=(x.findtext('link') or '').strip(); d=clean_text(x.findtext('description')); p=(x.findtext('pubDate') or '').strip()
-        if t and u and not promo(t+' '+d): out.append({'title':t,'url':u,'summary':d[:420],'published':p,'source':'CBS Sports NFL','source_type':'publisher','trust':'NETWORK','category':category(t,d),'teams':teams_for(t+' '+d)})
+        if t and u and not promo(t+' '+d): out.append({'title':t,'url':u,'summary':d[:420],'published':p,'source':source,'source_type':'publisher','trust':'NETWORK','category':category(t,d),'teams':teams_for(t+' '+d)})
     return out
+
+def cbs_items(): return rss_items(CBS_RSS,'CBS Sports NFL')
+def fox_items():
+    # FOX officially exposes NFL RSS. If its optimized endpoint changes, fail closed and preserve other publishers.
+    return rss_items(FOX_RSS,'FOX Sports NFL')
 
 def fetch_news():
     items=[]; source_status={}
-    for name,fn in [('ESPN NFL',espn_items),('CBS Sports NFL',cbs_items)]:
+    for name,fn in [('ESPN NFL',espn_items),('CBS Sports NFL',cbs_items),('FOX Sports NFL',fox_items)]:
         try:
             got=fn(); items.extend(got); source_status[name]={'ok':bool(got),'items':len(got)}
         except Exception as e:
@@ -153,7 +152,7 @@ def fetch_news():
     for x in items:
         k=re.sub(r'\W+',' ',x['title'].lower()).strip()
         if k not in seen: seen.add(k); out.append(x)
-    return out[:70],source_status
+    return out[:90],source_status
 
 def build_changes(old,new,oldnews,newnews,prior,now):
     fresh=[]; om={x.get('game_id'):x for x in old.get('scores',[])}
@@ -162,7 +161,7 @@ def build_changes(old,new,oldnews,newnews,prior,now):
         if p.get('state')!=s.get('state') or p.get('away_score')!=s.get('away_score') or p.get('home_score')!=s.get('home_score'):
             fresh.append({'ts':now,'type':'GAME','game_id':s.get('game_id'),'title':f"{s.get('away')} @ {s.get('home')}",'detail':f"{s.get('state')} · {s.get('away')} {s.get('away_score')} – {s.get('home_score')} {s.get('home')}"})
     old_titles={x.get('title') for x in oldnews.get('items',[])}
-    for n in newnews.get('items',[])[:20]:
+    for n in newnews.get('items',[])[:25]:
         if n.get('title') not in old_titles: fresh.append({'ts':now,'type':'NEWS','title':n.get('title'),'detail':n.get('summary','')[:180],'teams':n.get('teams',[]),'url':n.get('url'),'source':n.get('source')})
     items=fresh+(prior.get('items',[]) if prior else []); seen=set(); out=[]
     for x in items:
@@ -172,15 +171,14 @@ def build_changes(old,new,oldnews,newnews,prior,now):
     return {'updated_at_utc':now,'items':out[:120]}
 
 def main():
-    model=json.loads(MODEL.read_text()); old=json.loads(OUT.read_text()) if OUT.exists() else {}; oldnews=json.loads(NEWS.read_text()) if NEWS.exists() else {}; prior=json.loads(CHANGES.read_text()) if CHANGES.exists() else {'items':[]}
-    checked=datetime.now(timezone.utc).isoformat(); score_ok=True; score_source=old.get('score_source','ESPN_SCOREBOARD')
+    model=json.loads(MODEL.read_text()); old=json.loads(OUT.read_text()) if OUT.exists() else {}; oldnews=json.loads(NEWS.read_text()) if NEWS.exists() else {}; prior=json.loads(CHANGES.read_text()) if CHANGES.exists() else {'items':[]}; checked=datetime.now(timezone.utc).isoformat(); score_ok=True; score_source=old.get('score_source','ESPN_SCOREBOARD')
     try: scores,records,meta,rich,source_ts,score_source=fetch_week(model,old)
     except Exception as e:
         print('scoreboard refresh failed:',e); score_ok=False; scores=old.get('scores',[]); records=old.get('records',{}); meta=old.get('game_meta',{}); rich=old.get('live_stats',{}); source_ts=old.get('updated_at_utc')
     payload={'updated_at_utc':source_ts,'checked_at_utc':checked,'feed_health':{'scoreboard_ok':score_ok,'checked_at_utc':checked,'source':score_source},'season':int(model.get('season',2026)),'week':int(model.get('week',1)),'score_source':score_source,'scores':scores,'records':records,'game_meta':meta,'live_stats':rich,'injuries':old.get('injuries',[])}
     if not scores: raise RuntimeError('No scoreboard state available')
-    fresh,source_status=fetch_news(); news_ok=bool(fresh); news_ts=checked if news_ok else oldnews.get('updated_at_utc'); news={'updated_at_utc':news_ts,'checked_at_utc':checked,'policy':'CURATED_NETWORK_SOURCES_ONLY','model_input':False,'sources':source_status,'items':fresh or oldnews.get('items',[]),'reporters':REPORTERS}
-    changes=build_changes(old,payload,oldnews,news,prior,checked)
+    fresh,source_status=fetch_news(); news_ok=bool(fresh); news_ts=checked if news_ok else oldnews.get('updated_at_utc'); news={'updated_at_utc':news_ts,'checked_at_utc':checked,'policy':'CURATED_NETWORK_SOURCES_ONLY','model_input':False,'sources':source_status,'items':fresh or oldnews.get('items',[]),'reporters':REPORTERS}; changes=build_changes(old,payload,oldnews,news,prior,checked)
     OUT.write_text(json.dumps(payload,indent=2)); NEWS.write_text(json.dumps(news,indent=2)); CHANGES.write_text(json.dumps(changes,indent=2))
-    print(f"ops refresh scoreboard_ok={score_ok} source={score_source} games={len(scores)} news_ok={news_ok} espn={source_status.get('ESPN NFL',{}).get('items',0)} cbs={source_status.get('CBS Sports NFL',{}).get('items',0)} changes={len(changes['items'])}")
+    print(f"ops refresh scoreboard_ok={score_ok} source={score_source} games={len(scores)} news_ok={news_ok} espn={source_status.get('ESPN NFL',{}).get('items',0)} cbs={source_status.get('CBS Sports NFL',{}).get('items',0)} fox={source_status.get('FOX Sports NFL',{}).get('items',0)}")
+
 if __name__=='__main__': main()
