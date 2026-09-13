@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-13T18:48:36.851878+00:00",
-  "checked_at_utc": "2026-09-13T18:48:36.851878+00:00",
+  "updated_at_utc": "2026-09-13T21:09:42.996747+00:00",
+  "checked_at_utc": "2026-09-13T21:09:42.996747+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 10,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,93 +15,178 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 7,
+      "items": 2,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Terry Bradshaw Names The Only Under-Pressure QB He Trusts To Win A Super Bowl",
-      "url": "https://www.foxsports.com/stories/nfl/terry-bradshaw-names-under-pressure-qb-win-super-bowl",
-      "summary": "FOX Sports NFL analyst Terry Bradshaw reveals the one QB under the most pressure who he believes could win the Super Bowl this season.",
-      "published": "Sun, 13 Sep 2026 13:17:00 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Jay Glazer Provides Update On Seahawks QB Sam Darnold's Injury And Timeline",
-      "url": "https://www.foxsports.com/stories/nfl/seahawks-qb-sam-darnold-injury-timetable-jay-glazer",
-      "summary": "FOX Sports' Jay Glazer drills down on the nature of Seahawks QB Sam Darnold's opening-night injury and his timeline to return.",
-      "published": "Sun, 13 Sep 2026 12:53:32 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SEA"
-      ]
-    },
-    {
-      "title": "Myles Garrett Goes On IR After Knee Surgery: What Does It Mean For Rams?",
-      "url": "https://www.foxsports.com/stories/nfl/rams-myles-garrett-surgery-injury-update",
-      "summary": "Three days after their season-opening loss to the San Francisco 49ers, the Los Angeles Rams took another hit on Sunday.",
-      "published": "Sun, 13 Sep 2026 12:42:51 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA",
-        "SF"
-      ]
-    },
-    {
-      "title": "Why Patrick Mahomes, Chiefs' Response To Disappointing 2025 Is Top Storyline In 2026",
-      "url": "https://www.foxsports.com/stories/nfl/charles-woodsons-week-1-storylines-expectations-kansas-city-chiefs",
-      "summary": "FOX NFL Kickoff's Charles Woodson shared his Week 1 storyline, highlight how the Kansas City Chiefs will respond this season after last season's underwhelming end.",
-      "published": "Sun, 13 Sep 2026 12:29:22 -0400",
+      "title": "Kyler Murray Departs First Vikings Start After Taking Hit To head",
+      "url": "https://www.foxsports.com/stories/nfl/kyler-murray-departs-first-vikings-start-after-taking-hit-head",
+      "summary": "Kyler Murray's debut with the Minnesota Vikings might have come to an abrupt end on Sunday.",
+      "published": "Sun, 13 Sep 2026 17:08:45 -0400",
       "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "KC"
+        "MIN"
       ]
     },
     {
-      "title": "Jay Glazer Highlights Two Key Eagles And Chiefs Veterans Ready To Shine In 2026",
-      "url": "https://www.foxsports.com/stories/nfl/jay-glazer-offseason-changes-eagles-chiefs-jalen-hurts-travis-kelce",
-      "summary": "FOX Sports insider Jay Glazer breaks down two key Super Bowl-champion players who made offseason changes for the new season.",
-      "published": "Sun, 13 Sep 2026 12:23:06 -0400",
+      "title": "Deshaun Watson Struggles Mightily, Jaguars Blow Out Browns In Week 1",
+      "url": "https://www.foxsports.com/stories/nfl/deshaun-watson-browns-offense-struggle-34-10-loss-jaguars",
+      "summary": "Deshaun Watson struggled in his 2026 debut as the Cleveland Browns were blown out in Week 1.",
+      "published": "Sun, 13 Sep 2026 16:06:58 -0400",
       "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "KC",
-        "PHI"
+        "CLE",
+        "JAX"
       ]
     },
     {
-      "title": "2026 NFL Odds Week 1: Lines, Spreads, Results For All 16 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-1-lines-spreads-all-16-games",
-      "summary": "Check out the early odds, spreads and totals for all 16 Week 1 games.",
-      "published": "Sun, 13 Sep 2026 11:03:19 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Lions escape with 31-30 win over Saints in OT after Kellen Moore chooses to go for 2 and the win",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872923",
+      "summary": "\u2014 Tyler Shough threw an incomplete pass in the end zone on a 2-point conversion attempt, allowing the Detroit Lions to escape with a 31-30 win in overtime over the New Orleans Saints on Sunday.",
+      "published": "2026-09-13T21:01:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "NO"
+      ]
+    },
+    {
+      "title": "Caleb Williams and Bears trounce Panthers 59-37 in highest-scoring season opener in NFL history",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872661",
+      "summary": "\u2014 Caleb Williams threw for 269 yards and two touchdowns and ran for 65 yards and two more scores as the Chicago Bears defeated the Carolina Panthers 59-37 on Sunday in the highest-scoring season opener in NFL history.",
+      "published": "2026-09-13T20:59:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "CHI"
+      ]
+    },
+    {
+      "title": "NFL Week 1: Takeaways, questions, fantasy spin for Sunday games",
+      "url": "https://www.espn.com/nfl/story/_/id/49871987/week-1-sunday-games-takeaways-questions-2026",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 1.",
+      "published": "2026-09-13T21:02:46Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "How to Watch Cowboys vs. Giants: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-dallas-cowboys-vs-new-york-giants-tv-channel-live-stream-september-13-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 1 Dallas Cowboys and New York Giants game.",
-      "published": "Sun, 13 Sep 2026 07:50:48 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Josh Allen connects with Joshua Palmer for a late TD and Bills beat Texans 36-31 in wild opener",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872660",
+      "summary": "\u2014 Josh Allen threw a 34-yard touchdown pass to Joshua Palmer with 1:36 remaining to lift the Buffalo Bills to a 36-31 win over the Houston Texans in a back-and-forth season opener on Sunday.",
+      "published": "2026-09-13T20:41:29Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "HOU"
+      ]
+    },
+    {
+      "title": "Bengals force 4 turnovers, Burrow throws for TD in 33-27 win over the Buccaneers",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872925",
+      "summary": "\u2014 The Bengals' new-look defense forced four turnovers \u2014 including its first fumble recovery for a TD since 2022 \u2014 Joe Burrow passed for 254 yards and a touchdown and Cincinnati defeated the Tampa Bay Buccaneers 33-27 Sunday.",
+      "published": "2026-09-13T20:34:31Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "TB"
+      ]
+    },
+    {
+      "title": "Breece Hall powers Jets past Titans 23-10 in a dominant season opener against their former coach",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872924",
+      "summary": "\u2014 Breece Hall ran for 102 yards and a touchdown, Geno Smith threw for 215 yards in his Jets return and the New York Jets defeated Tennessee 23-10 on Sunday in the season opener to spoil Titans coach Robert Saleh's debut against his former team.",
+      "published": "2026-09-13T20:28:32Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYJ",
+        "TEN"
+      ]
+    },
+    {
+      "title": "T.J. Watt's late pick-6 pushes sluggish Steelers past injury-laden Falcons 20-13",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872658",
+      "summary": "\u2014 T.J. Watt jumped in front of a pass from Cooper Rush and returned it 35 yards for a touchdown to break open a tight game as the Pittsburgh Steelers",
+      "published": "2026-09-13T20:28:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Derrick Henry's rushes for 3 TDs and Lamar Jackson lights up the Colts in the Ravens' 41-23 win",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872659",
+      "summary": "\u2014 Derrick Henry ran for three touchdowns to move into third on the NFL's career list, Lamar Jackson threw for 324 yards and a TD and rushed for a score, and the Baltimore Ravens beat the Indianapolis Colts 41-23 on Sunday.",
+      "published": "2026-09-13T20:27:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "IND"
+      ]
+    },
+    {
+      "title": "Week 1 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/49881465/week-1-highlights-best-plays-touchdowns-2026",
+      "summary": "Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.",
+      "published": "2026-09-13T20:12:48Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Trevor Lawrence throws 4 TD passes as the Jaguars rout the Browns 34-10 in season opener",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872922",
+      "summary": "\u2014 Trevor Lawrence threw for 245 yards and four touchdowns, opening the season much like he closed last year, and the Jacksonville Jaguars dominated rebuilding Cleveland 34-10 on Sunday to spoil the debut of new Browns coach Todd Monken.",
+      "published": "2026-09-13T19:54:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "JAX"
+      ]
+    },
+    {
+      "title": "Giants vs. Cowboys picks, NFL predictions: Best bets, betting preview for Sunday Night Football",
+      "url": "https://www.cbssports.com/betting/news/giants-cowboys-picks-nfl-predictions-best-bets-betting-preview-sunday-night-football/",
+      "summary": "Best bets and betting preview for Cowboys vs. Giants on Sunday Night Football",
+      "published": "Sun, 13 Sep 2026 20:20:02 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -111,35 +196,39 @@
       ]
     },
     {
-      "title": "NFL Week 1's best arrivals, led by Jalen Hurts and Kyler Murray",
-      "url": "https://www.espn.com/nfl/story/_/id/49895823/nfl-week-1-fashionable-arrivals",
-      "summary": "From Spiderman to a Navy nod, players around the NFL brought the heat ahead of their Week 1 matchups.",
-      "published": "2026-09-13T18:48:15Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Ravens' Henry passes Allen for third all-time in rushing TDs",
-      "url": "https://www.espn.com/nfl/story/_/id/49930434/ravens-henry-passes-allen-third-all-rushing-tds",
-      "summary": "Ravens running back Derrick Henry moved into third place on the NFL's all-time rushing touchdowns list by scoring twice Sunday.",
-      "published": "2026-09-13T18:44:47Z",
-      "source": "ESPN NFL",
+      "title": "LOOK: Derrick Henry makes NFL history during Ravens' Week 1 showdown vs. Colts",
+      "url": "https://www.cbssports.com/nfl/news/derrick-henry-makes-nfl-history-ravens-week-1-vs-colts/",
+      "summary": "Henry reached a major milestone after two first-half scores in Week 1",
+      "published": "Sun, 13 Sep 2026 19:49:04 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL"
+        "BAL",
+        "IND"
       ]
     },
     {
-      "title": "Week 1 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/49881465/week-1-highlights-best-plays-touchdowns-2026",
-      "summary": "Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.",
-      "published": "2026-09-13T18:00:25Z",
-      "source": "ESPN NFL",
+      "title": "Giants vs. Cowboys: NFC East rivals square off on 'Sunday Night Football' in John Harbaugh's debut",
+      "url": "https://www.cbssports.com/nfl/news/giants-vs-cowboys-prediction-pick-odds-where-to-watch/",
+      "summary": "The league kicks off the first Sunday night of the season with a familiar matchup that now has plenty of new faces",
+      "published": "Sun, 13 Sep 2026 18:56:34 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "NYG"
+      ]
+    },
+    {
+      "title": "How to bet on 2026 NFL Week 1: Betting guide, odds, trends, game previews, schedule, promos, more offers",
+      "url": "https://www.cbssports.com/betting/news/how-to-bet-on-2026-nfl-week-1-betting-guide-odds-trends-game-previews-schedule-promos-more-offers/",
+      "summary": "Our NFL betting guide tells you where to bet on NFL Week 1, while providing odds, betting trends, schedule, promo offers, and more",
+      "published": "Sun, 13 Sep 2026 18:45:45 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -383,20 +472,6 @@
       ]
     },
     {
-      "title": "Giants vs. Cowboys: NFC East rivals square off on 'Sunday Night Football' in John Harbaugh's debut",
-      "url": "https://www.cbssports.com/nfl/news/giants-vs-cowboys-prediction-pick-odds-where-to-watch/",
-      "summary": "The league kicks off the first Sunday night of the season with a familiar matchup that now has plenty of new faces",
-      "published": "Sun, 13 Sep 2026 00:41:07 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "NYG"
-      ]
-    },
-    {
       "title": "NFL Week 1 picks: Experts face off Bills at Texans, Packers-Vikings and more",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-1-picks-experts-face-off/",
       "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
@@ -475,47 +550,6 @@
       "category": "game",
       "teams": [
         "CHI"
-      ]
-    },
-    {
-      "title": "NFL Week 1 picks and score predictions: Broncos edge Chiefs, Raiders over Dolphins",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-1-picks-and-predictions-chiefs-seahawks-patriots/",
-      "summary": "Here's your weekly dose of John Breech's NFL picks for every game as Seattle hosts a Super Bowl rematch and Patrick Mahomes returns from injury",
-      "published": "Fri, 11 Sep 2026 18:31:13 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN",
-        "KC",
-        "LV",
-        "MIA"
-      ]
-    },
-    {
-      "title": "Agent's Take: Jayden Daniels, C.J. Stroud and other quarterbacks who are at a crossroads entering 2026 season",
-      "url": "https://www.cbssports.com/nfl/news/jayden-daniels-c-j-stroud-quarterbacks-at-crossroads-2026-nfl-season/",
-      "summary": "From looming contract decisions for C.J. Stroud to career crossroads for Deshaun Watson and Kyler Murray, several starting passers face pivotal campaigns in 2026.",
-      "published": "Fri, 11 Sep 2026 18:04:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Falcons rule out Tua Tagovailoa against Steelers, Cooper Rush to start at quarterback",
-      "url": "https://www.cbssports.com/nfl/news/falcons-rule-out-tua-tagovailoa-vs-steelers-cooper-rush-to-start/",
-      "summary": "Tagovailoa suffered an oblique injury in practice Thursday",
-      "published": "Fri, 11 Sep 2026 18:07:49 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "PIT"
       ]
     }
   ],
