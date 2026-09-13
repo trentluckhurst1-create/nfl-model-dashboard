@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-09-13T12:03:44.118539+00:00",
+  "updated_at_utc": "2026-09-13T16:12:15.922302+00:00",
   "source": "ESPN_CDN",
   "games": {
     "2026_01_NE_SEA": {
@@ -12,7 +12,7 @@
       "away": "NE",
       "home": "SEA",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_SF_LA": {
       "provider": "DraftKings",
@@ -24,7 +24,7 @@
       "away": "SF",
       "home": "LA",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_TB_CIN": {
       "provider": "DraftKings",
@@ -36,7 +36,7 @@
       "away": "TB",
       "home": "CIN",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_NO_DET": {
       "provider": "DraftKings",
@@ -48,7 +48,7 @@
       "away": "NO",
       "home": "DET",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_NYJ_TEN": {
       "provider": "DraftKings",
@@ -60,43 +60,43 @@
       "away": "NYJ",
       "home": "TEN",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_BAL_IND": {
       "provider": "DraftKings",
-      "away_american": -175,
-      "home_american": 145,
-      "away_decimal": 1.571,
-      "home_decimal": 2.45,
+      "away_american": -148,
+      "home_american": 124,
+      "away_decimal": 1.676,
+      "home_decimal": 2.24,
       "game_id": "2026_01_BAL_IND",
       "away": "BAL",
       "home": "IND",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_ATL_PIT": {
       "provider": "DraftKings",
-      "away_american": 235,
-      "home_american": -290,
-      "away_decimal": 3.35,
-      "home_decimal": 1.345,
+      "away_american": 240,
+      "home_american": -298,
+      "away_decimal": 3.4,
+      "home_decimal": 1.336,
       "game_id": "2026_01_ATL_PIT",
       "away": "ATL",
       "home": "PIT",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_CHI_CAR": {
       "provider": "DraftKings",
-      "away_american": -175,
-      "home_american": 145,
-      "away_decimal": 1.571,
-      "home_decimal": 2.45,
+      "away_american": -166,
+      "home_american": 140,
+      "away_decimal": 1.602,
+      "home_decimal": 2.4,
       "game_id": "2026_01_CHI_CAR",
       "away": "CHI",
       "home": "CAR",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_CLE_JAX": {
       "provider": "DraftKings",
@@ -108,7 +108,7 @@
       "away": "CLE",
       "home": "JAX",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_BUF_HOU": {
       "provider": "DraftKings",
@@ -120,19 +120,19 @@
       "away": "BUF",
       "home": "HOU",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_MIA_LV": {
       "provider": "DraftKings",
-      "away_american": 145,
-      "home_american": -175,
-      "away_decimal": 2.45,
-      "home_decimal": 1.571,
+      "away_american": 142,
+      "home_american": -170,
+      "away_decimal": 2.42,
+      "home_decimal": 1.588,
       "game_id": "2026_01_MIA_LV",
       "away": "MIA",
       "home": "LV",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_GB_MIN": {
       "provider": "DraftKings",
@@ -144,43 +144,43 @@
       "away": "GB",
       "home": "MIN",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_WAS_PHI": {
       "provider": "DraftKings",
-      "away_american": 200,
-      "home_american": -245,
-      "away_decimal": 3.0,
-      "home_decimal": 1.408,
+      "away_american": 215,
+      "home_american": -265,
+      "away_decimal": 3.15,
+      "home_decimal": 1.377,
       "game_id": "2026_01_WAS_PHI",
       "away": "WAS",
       "home": "PHI",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_ARI_LAC": {
       "provider": "DraftKings",
-      "away_american": 390,
-      "home_american": -520,
-      "away_decimal": 4.9,
-      "home_decimal": 1.192,
+      "away_american": 380,
+      "home_american": -500,
+      "away_decimal": 4.8,
+      "home_decimal": 1.2,
       "game_id": "2026_01_ARI_LAC",
       "away": "ARI",
       "home": "LAC",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_DAL_NYG": {
       "provider": "DraftKings",
-      "away_american": -162,
-      "home_american": 136,
-      "away_decimal": 1.617,
-      "home_decimal": 2.36,
+      "away_american": -166,
+      "home_american": 140,
+      "away_decimal": 1.602,
+      "home_decimal": 2.4,
       "game_id": "2026_01_DAL_NYG",
       "away": "DAL",
       "home": "NYG",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     },
     "2026_01_DEN_KC": {
       "provider": "DraftKings",
@@ -192,7 +192,7 @@
       "away": "DEN",
       "home": "KC",
       "source": "ESPN_CDN_GAME",
-      "checked_at_utc": "2026-09-13T12:03:44.118539+00:00"
+      "checked_at_utc": "2026-09-13T16:12:15.922302+00:00"
     }
   },
   "fresh_prices_found": 16
