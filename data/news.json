@@ -1,25 +1,93 @@
 {
-  "updated_at_utc": "2026-09-13T01:12:54.722992+00:00",
-  "checked_at_utc": "2026-09-13T01:12:54.722992+00:00",
+  "updated_at_utc": "2026-09-13T06:16:00.927757+00:00",
+  "checked_at_utc": "2026-09-13T06:16:00.927757+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
-      "ok": true,
-      "items": 2,
+      "ok": false,
+      "items": 0,
+      "error": "RuntimeError",
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 29
+      "items": 30
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 21,
+      "items": 22,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Lions vs. Saints Prediction, Odds, Pick For NFL Week 1",
+      "url": "https://www.foxsports.com/stories/nfl/lions-vs-saints-prediction-odds-pick-nfl-week-1",
+      "summary": "Get the latest odds, prediction and pick for the Week 1 Lions vs. Saints game, as well as information on how to watch.",
+      "published": "Sun, 13 Sep 2026 01:00:37 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "NO"
+      ]
+    },
+    {
+      "title": "Bears vs. Panthers Prediction, Odds, Pick For NFL Week 1",
+      "url": "https://www.foxsports.com/stories/nfl/bears-vs-panthers-prediction-odds-pick-nfl-week-1",
+      "summary": "Get the latest odds, prediction and pick for the Week 1 Bears vs. Panthers game, as well as information on how to watch.",
+      "published": "Sun, 13 Sep 2026 01:00:28 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "CHI"
+      ]
+    },
+    {
+      "title": "Falcons vs. Steelers Prediction, Odds, Pick For NFL Week 1",
+      "url": "https://www.foxsports.com/stories/nfl/falcons-vs-steelers-prediction-odds-pick-nfl-week-1",
+      "summary": "Get the latest odds, prediction and pick for the Week 1 Falcons vs. Steelers game, as well as information on how to watch.",
+      "published": "Sun, 13 Sep 2026 01:00:09 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Bengals vs. Buccaneers Prediction, Odds, Pick For NFL Week 1",
+      "url": "https://www.foxsports.com/stories/nfl/bengals-vs-buccaneers-prediction-odds-pick-nfl-week-1",
+      "summary": "Get the latest odds, prediction and pick for the Week 1 Bengals vs. Buccaneers game, as well as information on how to watch.",
+      "published": "Sun, 13 Sep 2026 01:00:01 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "TB"
+      ]
+    },
+    {
+      "title": "4 Takeaways From Texas' Comeback Win Over Ohio State \u2014 With An NFL Draft Twist",
+      "url": "https://www.foxsports.com/stories/college-football/texas-ohio-state-nfl-draft-jeremiah-smith-arch-manning-cam-coleman-julian-sayin",
+      "summary": "FOX Sports' Rob Rang offers four takeaways from Texas' win over Ohio State, highlighting the strengths, player comps and projected draft grades of four superstars.",
+      "published": "Sun, 13 Sep 2026 00:15:44 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "C.J. Stroud, Texans Reportedly Delaying Contract Extension Talks Until Next Year",
       "url": "https://www.foxsports.com/stories/nfl/cj-stroud-texans-contract-extension-details-update",
@@ -233,79 +301,41 @@
       ]
     },
     {
-      "title": "Jalen Hurts And Jayden Daniels Enter Pivotal Seasons Ahead Of Week 1 Clash",
-      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-jayden-daniels-enter-pivotal-seasons-ahead-week-1-clash",
-      "summary": "Here's why this the 2026 regular season is so critical for Commanders QB Jayden Daniels and Eagles QB Jalen Hurts.",
-      "published": "Thu, 10 Sep 2026 23:40:18 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "PHI",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Just Like He Drew It Up: Drew Lock Shows He Can Be Capable Fill-In For Sam Darnold",
-      "url": "https://www.foxsports.com/stories/nfl/drew-lock-chasing-second-nfl-chapter-replacing-injured-sam-darnold",
-      "summary": "Drew Lock was ready to replace Sam Darnold on Wednesday and moving forward thanks to his preparation of drawing up plays.",
-      "published": "Thu, 10 Sep 2026 23:23:59 -0400",
-      "source": "FOX Sports NFL",
+      "title": "NFL anytime TD best bets: Our favorite picks for Week 1, including Emeka Egbuka",
+      "url": "https://www.cbssports.com/nfl/news/nfl-anytime-td-best-bets-week-1/",
+      "summary": "Five anytime touchdown bets to consider for Week 1",
+      "published": "Sun, 13 Sep 2026 03:00:56 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Patriots WR A.J. Brown Reportedly Set To Miss At Least 4 Weeks Due To Ankle Injury",
-      "url": "https://www.foxsports.com/stories/nfl/patriots-wr-a-j-brown-injury-timeline-update",
-      "summary": "The New England Patriots will be without their prized offseason acquisition for the next month.",
-      "published": "Thu, 10 Sep 2026 20:30:02 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "NFL Catchup: Tua Tagovailoa Injures Oblique; Latest On Sam Darnold, A.J. Brown",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-tua-tagovailoa-injures-oblique-latest-sam-darnold-a-j-brown",
-      "summary": "Here's the latest from around the NFL on Thursday.",
-      "published": "Thu, 10 Sep 2026 19:52:33 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 1 uniforms: Vikings rocking throwbacks, Bengals go orange",
-      "url": "https://www.espn.com/nfl/story/_/id/49852219/nfl-week-1-uniforms",
-      "summary": "The NFL is back, and so are the uniform combinations. Here's a look at what each team is wearing in Week 1.",
-      "published": "2026-09-13T00:29:19Z",
-      "source": "ESPN NFL",
+      "title": "Last minute best bets for NFL Week 1: Three underdogs are live, including C.J. Stroud and the Texans",
+      "url": "https://www.cbssports.com/nfl/news/last-minute-best-bets-for-nfl-week-1/",
+      "summary": "Need some last-second help filling your bets for the first Sunday of the season? We've got you covered",
+      "published": "Sun, 13 Sep 2026 02:00:53 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CIN",
-        "MIN"
+        "HOU"
       ]
     },
     {
-      "title": "Source: Jaguars, Parker Washington unlikely to agree to deal",
-      "url": "https://www.espn.com/nfl/story/_/id/49920927/source-jaguars-parker-washington-unlikely-agree-deal",
-      "summary": "The Jaguars and Parker Washington are unlikely to agree to a contract extension before the start of the season, a source told NFL Network.",
-      "published": "2026-09-13T00:04:31Z",
-      "source": "ESPN NFL",
+      "title": "Giants vs. Cowboys: NFC East rivals square off on 'Sunday Night Football' in John Harbaugh's debut",
+      "url": "https://www.cbssports.com/nfl/news/giants-vs-cowboys-prediction-pick-odds-where-to-watch/",
+      "summary": "The league kicks off the first Sunday night of the season with a familiar matchup that now has plenty of new faces",
+      "published": "Sun, 13 Sep 2026 00:41:07 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "game",
       "teams": [
-        "JAX"
+        "DAL",
+        "NYG"
       ]
     },
     {
@@ -677,34 +707,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "Malik Nabers injury status: Giants WR plays coy about Week 1 vs. Cowboys: 'I can't put my career at risk'",
-      "url": "https://www.cbssports.com/nfl/news/malik-nabers-injury-update-giants-cowboys/",
-      "summary": "If Nabers plays in the season opener, it would be his first game action since September 2025",
-      "published": "Thu, 10 Sep 2026 21:41:41 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DAL",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Tua Tagovailoa day-to-day with oblique strain, status uncertain for Week 1: Who's up next for Falcons?",
-      "url": "https://www.cbssports.com/nfl/news/tua-tagovailoa-appears-to-suffer-injury-whos-next-michael-penix/",
-      "summary": "A look at the Falcons' depth chart if the top two QBs are unavailable against the Steelers",
-      "published": "Thu, 10 Sep 2026 22:57:20 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "PIT"
-      ]
     }
   ],
   "reporters": []
