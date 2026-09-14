@@ -1,6 +1,36 @@
 {
-  "updated_at_utc": "2026-09-14T01:07:22.002176+00:00",
+  "updated_at_utc": "2026-09-14T06:15:51.538829+00:00",
   "items": [
+    {
+      "ts": "2026-09-14T06:15:51.538829+00:00",
+      "type": "GAME",
+      "game_id": "2026_01_DAL_NYG",
+      "title": "DAL @ NYG",
+      "detail": "FINAL \u00b7 DAL 20 \u2013 28 NYG"
+    },
+    {
+      "ts": "2026-09-14T06:15:51.538829+00:00",
+      "type": "NEWS",
+      "title": "Vikings' stunning win over Packers ends with final score that's never happened before in NFL history",
+      "detail": "Ladies and gentlemen, we have a scorigami!",
+      "teams": [
+        "GB",
+        "MIN"
+      ],
+      "url": "https://www.cbssports.com/nfl/news/scorigami-vikings-packers-nfl-history/",
+      "source": "CBS Sports NFL"
+    },
+    {
+      "ts": "2026-09-14T06:15:51.538829+00:00",
+      "type": "NEWS",
+      "title": "Titans' fresh start produces one of their most embarrassing losses yet",
+      "detail": "Tennessee changed its coach, roster, logo and uniforms, but a 23-10 loss to New York exposed familiar problems across every phase of the game",
+      "teams": [
+        "TEN"
+      ],
+      "url": "https://www.cbssports.com/nfl/news/titans-loss-to-jets-cam-ward-robert-saleh/",
+      "source": "CBS Sports NFL"
+    },
     {
       "ts": "2026-09-14T01:07:22.002176+00:00",
       "type": "GAME",
