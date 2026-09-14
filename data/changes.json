@@ -1,6 +1,18 @@
 {
-  "updated_at_utc": "2026-09-14T18:33:23.228132+00:00",
+  "updated_at_utc": "2026-09-14T22:01:06.460959+00:00",
   "items": [
+    {
+      "ts": "2026-09-14T22:01:06.460959+00:00",
+      "type": "NEWS",
+      "title": "John Harbaugh effect: Five reasons Giants are different under Super Bowl winning coach",
+      "detail": "New York looked like a whole new version of itself in Sunday's win over the Cowboys",
+      "teams": [
+        "DAL",
+        "NYG"
+      ],
+      "url": "https://www.cbssports.com/nfl/news/john-harbaugh-effect-five-reasons-new-york-giants-are-different/",
+      "source": "CBS Sports NFL"
+    },
     {
       "ts": "2026-09-14T18:33:23.228132+00:00",
       "type": "NEWS",
@@ -1163,13 +1175,6 @@
       "game_id": "2026_01_ARI_LAC",
       "title": "ARI @ LAC",
       "detail": "SCHEDULED \u00b7 ARI 0 \u2013 0 LAC"
-    },
-    {
-      "ts": "2026-09-11T04:05:25.192068+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_DAL_NYG",
-      "title": "DAL @ NYG",
-      "detail": "SCHEDULED \u00b7 DAL 0 \u2013 0 NYG"
     }
   ]
 }

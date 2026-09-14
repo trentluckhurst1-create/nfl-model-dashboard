@@ -1,25 +1,96 @@
 {
-  "updated_at_utc": "2026-09-14T18:33:25.550587+00:00",
-  "checked_at_utc": "2026-09-14T18:33:25.550587+00:00",
+  "updated_at_utc": "2026-09-14T22:01:11.638785+00:00",
+  "checked_at_utc": "2026-09-14T22:01:11.638785+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 7,
+      "items": 15,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 28
+      "items": 29
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 17,
+      "items": 22,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "2026 NFL DROY Odds: Sonny Styles Surges After Impressive Debut",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-defensive-rookie-year-odds",
+      "summary": "David Bailey remains the Defensive Rookie of the Year favorite, but one former Ohio State star is rising after an impressive debut. See the odds.",
+      "published": "Mon, 14 Sep 2026 17:36:07 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Kyler Murray\u2019s Availability For Week 2 Uncertain As QB Enters Concussion Protocol",
+      "url": "https://www.foxsports.com/stories/nfl/kyler-murrays-availability-week-2-uncertain-qb-enters-concussion-protocol",
+      "summary": "Minnesota Vikings quarterback Kyler Murray began the week in the NFL concussion protocol in continuing his recovery from an illegal hit to the head that forced him out of his first game with the team in the first quarter.",
+      "published": "Mon, 14 Sep 2026 17:35:10 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "2026 NFL Defense Rankings: Team Pass and Rush Stats",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defense-rankings-team-pass-rush-stats",
+      "summary": "See where every NFL team ranks on defense through Week 1 2026. Total, passing, rushing, scoring, red zone, and third down rankings.",
+      "published": "Mon, 14 Sep 2026 16:39:41 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Big Bets Report: Bettor Takes Home $2.1 Million After Texas' Comeback Win",
+      "url": "https://www.foxsports.com/stories/nfl/big-bets-report-bettor-takes-home-2-1-million-after-texas-comeback-win",
+      "summary": "One bettor nearly doubled their $1.2 million bet in an epic sweat during Ohio State-Texas. That and so much more from Patrick Everson.",
+      "published": "Mon, 14 Sep 2026 15:41:08 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL Offensive Rookie Of The Year Odds: Love Favored, Price Surges",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-offensive-rookie-year-odds",
+      "summary": "Jeremiyah Love remains the Offensive Rookie of the Year favorite after Week 1 but a new name is surging up the oddsboard. See the latest.",
+      "published": "Mon, 14 Sep 2026 15:39:37 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Deshaun Watson To Start Week 2 For Browns After Coaches Saw 'Good Things' On Film",
+      "url": "https://www.foxsports.com/stories/nfl/deshaun-watson-cleveland-browns-todd-monken-qb-week-2",
+      "summary": "Deshaun Watson\u2019s struggles won\u2019t cost him his starting job. Well, at least not yet. Despite a blowout loss to the Jacksonville Jaguars, the Cleveland Browns are sticking with their QB1.",
+      "published": "Mon, 14 Sep 2026 15:39:30 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CLE",
+        "JAX"
+      ]
+    },
     {
       "title": "Sean McVay: Myles Garrett's Week 1 Play Made Knee Surgery The Obvious Answer",
       "url": "https://www.foxsports.com/stories/nfl/los-angeles-rams-myles-garrett-knee-surgery-49ers",
@@ -232,24 +303,157 @@
       ]
     },
     {
-      "title": "Philly Gets Victory, But Was It Impressive? 3 Takeaways From Eagles Win vs. Commanders",
-      "url": "https://www.foxsports.com/stories/nfl/washington-commanders-vs-philadelphia-eagles-takeaways-september-13",
-      "summary": "Here's what we learned from the Week 1 matchup between the Commanders and Eagles on Sunday.",
-      "published": "Sun, 13 Sep 2026 20:11:32 -0400",
-      "source": "FOX Sports NFL",
+      "title": "New York Jets, Giants both start 1-0 for first time since 2009",
+      "url": "https://www.espn.com/nfl/story/_/id/49942835/new-york-jets-giants-start-1-0-record-first-2009",
+      "summary": "The summer of New York is gaining strength as the Jets and Giants both started off their respective NFL seasons hot.",
+      "published": "2026-09-14T21:56:02Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "PHI",
-        "WAS"
+        "NYG",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Chargers WR Ladd McConkey day-to-day with rib injury",
+      "url": "https://www.espn.com/nfl/story/_/id/49943416/chargers-wr-ladd-mcconkey-day-day-rib-injury",
+      "summary": "Chargers coach Jim Harbaugh said Monday that wide receiver Ladd McConkey has a rib injury and is considered day-to-day.",
+      "published": "2026-09-14T21:45:50Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
+      "title": "Giants' Harbaugh admits tackling Nabers to relax WR's injury fears",
+      "url": "https://www.espn.com/nfl/story/_/id/49943099/giants-harbaugh-tackled-nabers-relax-wideout-injury-fears",
+      "summary": "Giants coach John Harbaugh says tackling star receiver Malik Nabers was \"all in fun\" and was an effort to help the wideout move beyond his injury fears.",
+      "published": "2026-09-14T21:39:20Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Raiders call Brock Bowers day-to-day ahead of Chargers game",
+      "url": "https://www.espn.com/nfl/story/_/id/49943075/brock-bowers-working-tail-rejoin-raiders-coach-says",
+      "summary": "Raiders coach Klint Kubiak said star tight end Brock Bowers is day-to-day after missing the team's Week 1 win over the Miami Dolphins because of a meniscus trim procedure he had last week.",
+      "published": "2026-09-14T21:31:56Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LAC",
+        "LV",
+        "MIA"
+      ]
+    },
+    {
+      "title": "Ravens' Flowers day-to-day, Lane to be out longer, Minter says",
+      "url": "https://www.espn.com/nfl/story/_/id/49942967/ravens-flowers-day-day-lane-longer-minter-says",
+      "summary": "Ravens receiver Zay Flowers is considered day-to-day while receiver Ja'Kobi Lane could be out for a longer period with a wrist injury, coach Jesse Minter said.",
+      "published": "2026-09-14T21:15:00Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Steelers' McCarthy noncommittal on timeline for Porter's return",
+      "url": "https://www.espn.com/nfl/story/_/id/49942949/steelers-mccarthy-noncommittal-line-porter-return",
+      "summary": "Steelers coach Mike McCarthy was noncommittal on the cornerback's timeline to return to game action.",
+      "published": "2026-09-14T21:26:59Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Falcons' Da'Shawn Hand needs quad surgery, likely out for '26",
+      "url": "https://www.espn.com/nfl/story/_/id/49942820/falcons-dashawn-hand-needs-quad-surgery-likely-26",
+      "summary": "Falcons defensive tackle Da'Shawn Hand has a quad injury that will require what is expected to be season-ending surgery.",
+      "published": "2026-09-14T20:37:47Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL"
+      ]
+    },
+    {
+      "title": "Dave Canales: Panthers need to 'play way better football'",
+      "url": "https://www.espn.com/nfl/story/_/id/49942333/dave-canales-carolina-panthers-defense-need-play-way-better-football-week-1-loss-bears",
+      "summary": "After watching film, the coach said Carolina needed to play smarter and Derrick Brown reminded everyone that it's just one game.",
+      "published": "2026-09-14T20:55:50Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR"
+      ]
+    },
+    {
+      "title": "Vikings' O'Connell doesn't fault Packers for hit on QB Murray",
+      "url": "https://www.espn.com/nfl/story/_/id/49942479/vikings-oconnell-fault-packers-hit-qb-murray",
+      "summary": "The hit that caused Vikings quarterback Kyler Murray's concussion was a \"violent, physical play\" but was not objectionable, coach Kevin O'Connell said Monday.",
+      "published": "2026-09-14T20:13:25Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "GB",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Texans LB Henry To'oTo'o to miss some time with shoulder injury",
+      "url": "https://www.espn.com/nfl/story/_/id/49942037/texans-lb-henry-tootoo-miss-some-shoulder-injury",
+      "summary": "Texans starting LB Henry To'oTo'o suffered a shoulder injury in Sunday's season opener and will miss some time, coach DeMeco Ryans said Monday.",
+      "published": "2026-09-14T19:16:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "HOU"
+      ]
+    },
+    {
+      "title": "QB Malik Willis takes blame for five-sack Dolphins debut",
+      "url": "https://www.espn.com/nfl/story/_/id/49941591/qb-malik-willis-takes-blame-five-sack-dolphins-debut-vs-raiders",
+      "summary": "Dolphins coach Jeff Hafley said Willis still has his 'total confidence and faith' after a rough debut for Miami.",
+      "published": "2026-09-14T18:51:15Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA"
       ]
     },
     {
       "title": "Coach Monken expects to stick with Watson as Browns' QB1 in Week 2",
       "url": "https://www.espn.com/nfl/story/_/id/49941705/coach-monken-expects-stick-watson-browns-qb1-week-2",
       "summary": "Browns coach Todd Monken said Monday that he expects Deshaun Watson to remain as the team's starting quarterback this Sunday at the Buccaneers.",
-      "published": "2026-09-14T18:26:30Z",
+      "published": "2026-09-14T19:20:49Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -295,41 +499,32 @@
       ]
     },
     {
-      "title": "Rams' McVay: Won't have timeline on Garrett until after surgery",
-      "url": "https://www.espn.com/nfl/story/_/id/49941221/rams-mcvay-line-garrett-surgery",
-      "summary": "While the thought was Myles Garrett could play through his knee injury, it became clear after the Rams' Week 1 loss that he needed to have surgery, coach Sean McVay said.",
-      "published": "2026-09-14T18:20:05Z",
-      "source": "ESPN NFL",
+      "title": "Chiefs vs. Broncos: Division rivals Patrick Mahomes, Bo Nix make their return in Monday night matchup",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-vs-broncos-where-to-watch-odds-prediction/",
+      "summary": "Patrick Mahomes and Bo Nix return from major injuries in an AFC West showdown",
+      "published": "Mon, 14 Sep 2026 21:45:54 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "LA"
+        "DEN",
+        "KC"
       ]
     },
     {
-      "title": "Lamar Jackson looks like old self in Ravens' new offense",
-      "url": "https://www.espn.com/nfl/story/_/id/49940318/lamar-jackson-looks-old-self-baltimore-ravens-new-offense-vs-colts",
-      "summary": "In his first season with new OC Declan Doyle, Jackson has embraced changes to how he played football for most of his life.",
-      "published": "2026-09-14T16:01:18Z",
-      "source": "ESPN NFL",
+      "title": "John Harbaugh effect: Five reasons Giants are different under Super Bowl winning coach",
+      "url": "https://www.cbssports.com/nfl/news/john-harbaugh-effect-five-reasons-new-york-giants-are-different/",
+      "summary": "New York looked like a whole new version of itself in Sunday's win over the Cowboys",
+      "published": "Mon, 14 Sep 2026 20:08:46 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL"
+        "DAL",
+        "NYG"
       ]
-    },
-    {
-      "title": "How active NFL players continue to redefine all-time sack list",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
-      "published": "2026-09-14T14:35:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "NFL Week 1 overreactions: Bears to score most and allow most points in NFL? Lamar Jackson for MVP?",
@@ -342,20 +537,6 @@
       "category": "game",
       "teams": [
         "CHI"
-      ]
-    },
-    {
-      "title": "Chiefs vs. Broncos: Division rivals Patrick Mahomes, Bo Nix make their return in Monday night matchup",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-vs-broncos-where-to-watch-odds-prediction/",
-      "summary": "Patrick Mahomes and Bo Nix return from major injuries in an AFC West showdown",
-      "published": "Mon, 14 Sep 2026 17:53:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN",
-        "KC"
       ]
     },
     {
@@ -424,20 +605,6 @@
       "category": "injury",
       "teams": [
         "NO"
-      ]
-    },
-    {
-      "title": "Chiefs vs. Broncos odds, picks, predictions: Betting preview, best bets for Monday Night Football, NFL Week 1",
-      "url": "https://www.cbssports.com/betting/news/chiefs-broncos-odds-picks-predictions-betting-preview-best-bets-monday-night-football-nfl/",
-      "summary": "Best bets and betting preview for Broncos vs. Chiefs on Monday Night Football",
-      "published": "Mon, 14 Sep 2026 13:45:40 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "KC"
       ]
     },
     {
@@ -707,6 +874,19 @@
       "category": "injury",
       "teams": [
         "SF"
+      ]
+    },
+    {
+      "title": "Browns vs. Jags game to see temperatures up to 105 degrees: Will extreme heat play a factor in Jacksonville?",
+      "url": "https://www.cbssports.com/nfl/news/browns-vs-jags-forecast-to-see-temperatures-up-to-105-degrees/",
+      "summary": "It's a hot one as Cleveland and Jacksonville kick off their season in Florida",
+      "published": "Sun, 13 Sep 2026 17:07:54 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE"
       ]
     }
   ],
