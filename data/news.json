@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-13T23:10:53.360664+00:00",
-  "checked_at_utc": "2026-09-13T23:10:53.360664+00:00",
+  "updated_at_utc": "2026-09-14T01:07:27.066108+00:00",
+  "checked_at_utc": "2026-09-14T01:07:27.066108+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 16,
+      "items": 24,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -20,6 +20,20 @@
     }
   },
   "items": [
+    {
+      "title": "Philly Gets Victory, But Was It Impressive? 3 Takeaways From Eagles Win vs. Commanders",
+      "url": "https://www.foxsports.com/stories/nfl/washington-commanders-vs-philadelphia-eagles-takeaways-september-13",
+      "summary": "Here's what we learned from the Week 1 matchup between the Commanders and Eagles on Sunday.",
+      "published": "Sun, 13 Sep 2026 20:11:32 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI",
+        "WAS"
+      ]
+    },
     {
       "title": "Tom Brady Shows Off Offensive Play Sheet From Super Bowl LI Win Over Falcons",
       "url": "https://www.foxsports.com/stories/nfl/tom-brady-details-what-nfl-offensive-playcall-sheet-looks-like",
@@ -47,24 +61,194 @@
       ]
     },
     {
-      "title": "Deshaun Watson Struggles Mightily, Jaguars Blow Out Browns In Week 1",
-      "url": "https://www.foxsports.com/stories/nfl/deshaun-watson-browns-offense-struggle-34-10-loss-jaguars",
-      "summary": "Deshaun Watson struggled in his 2026 debut as the Cleveland Browns were blown out in Week 1.",
-      "published": "Sun, 13 Sep 2026 16:06:58 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Week 1 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/49881465/week-1-highlights-best-plays-touchdowns-2026",
+      "summary": "Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.",
+      "published": "2026-09-14T01:01:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Bears offense makes statement with 'amazing' 59-point opener",
+      "url": "https://www.espn.com/nfl/story/_/id/49935313/bears-call-59-point-opener-amazing-offense-makes-statement",
+      "summary": "The Bears walked away from their opener with a historic 59-37 win over the Panthers, one that saw them score the fourth-most points in a game in franchise history and saw the teams combine for 96 points, most ever in a season opener.",
+      "published": "2026-09-14T01:01:43Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CLE",
-        "JAX"
+        "CAR",
+        "CHI"
+      ]
+    },
+    {
+      "title": "Joey Porter Jr. trade fits: Which NFL teams could target CB?",
+      "url": "https://www.espn.com/nfl/story/_/id/49935198/joey-porter-jr-trade-fits-steelers",
+      "summary": "Joey Porter Jr. is open to a trade. We look at five teams that could trade for the star Steelers CB.",
+      "published": "2026-09-14T00:48:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "NFL Week 1: Takeaways, questions, fantasy spin for Sunday games",
+      "url": "https://www.espn.com/nfl/story/_/id/49871987/week-1-sunday-games-takeaways-questions-2026",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 1.",
+      "published": "2026-09-14T01:03:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Key NFL Week 1 stats on Bears, Bills, Texans, Bucs, Cardinals",
+      "url": "https://www.espn.com/nfl/story/_/id/49881588/week-1-five-key-stats-numbers-solak",
+      "summary": "We found six of the coolest advanced stats to come out of Sunday's games, from the Bears' electric day on offense to Baker Mayfield's struggles pushing the ball downfield.",
+      "published": "2026-09-14T00:50:06Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "BUF",
+        "CHI",
+        "HOU",
+        "TB"
+      ]
+    },
+    {
+      "title": "Vikings close with 29 straight points to beat rival Packers as Wentz replaces injured Murray",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872927",
+      "summary": "\u2014 Carson Wentz came in after Kyler Murray's first-quarter concussion in his Minnesota debut and led a spirited comeback against the rival Green Bay...",
+      "published": "2026-09-14T00:11:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "GB",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Saints irked by overturned defensive TD in OT loss to Lions",
+      "url": "https://www.espn.com/nfl/story/_/id/49934999/saints-irked-overturned-defensive-td-ot-loss-lions",
+      "summary": "In New Orleans' wild 31-30 overtime loss to the Detroit Lions on Sunday afternoon at Ford Field, there was a controversial overturned defensive touchdown that Saints coach Kellen Moore labeled \"a little bit of a challenging circumstance.\"",
+      "published": "2026-09-14T00:37:59Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "NO"
+      ]
+    },
+    {
+      "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
+      "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
+      "summary": "The Steelers QB, who is entering his 22nd season in the league, is chasing records, and ESPN will be chronicling his \"last rodeo.\"",
+      "published": "2026-09-14T00:31:12Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Judging the biggest overreactions to NFL Week 1 games",
+      "url": "https://www.espn.com/nfl/story/_/id/49881129/week-1-overreactions-2026-graziano-lamar-jackson-bears-bryce-young-cj-stroud",
+      "summary": "Is Jackson going to reset the market? What's up in L.A.? And which Class of 2023 QB will be extended first? We sized up potential Week 1 overreactions.",
+      "published": "2026-09-14T00:18:14Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Jalen Hurts throws 3 TD passes and Eagles stuff Commanders' late 2-point try for 24-22 win",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872929",
+      "summary": "\u2014 Jalen Hurts threw for 203 yards and three touchdowns, and the Eagles' Moro Ojomo stuffed the Commanders' attempt at a tying 2-point conversion with 1:01 remaining as Philadelphia squeaked past Washington 24-22 on Sunday.",
+      "published": "2026-09-13T23:54:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Kirk Cousins hits 301 career TD passes as Raiders open the season with a 27-13 win over Dolphins",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872928",
+      "summary": "\u2014 Kirk Cousins became the 15th quarterback to throw at least 300 touchdown passes in his career after tossing three on Sunday to lead the Las Vegas Raiders to a 27-13 season-opening victory over...",
+      "published": "2026-09-13T23:46:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "LV",
+        "MIA"
+      ]
+    },
+    {
+      "title": "Cardinals beat Chargers 26-14 as Mike LaFleur wins his head coaching debut",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872926",
+      "summary": "\u2014 Coming off an injury-riddled three-win season and with a new coaching staff, the Arizona Cardinals were the NFL's biggest underdog going into Week 1.",
+      "published": "2026-09-13T23:44:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ARI",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Who keeps the ball? Trevor Lawrence's 100th TD is rookie's first catch",
+      "url": "https://www.espn.com/nfl/story/_/id/49933848/trevor-lawrence-100th-career-nfl-touchdown-rookie-josh-cameron-jaguars",
+      "summary": "Trevor Lawrence's 100th NFL touchdown pass went to rookie wide receiver Josh Cameron, who hauled it in for his first NFL catch.",
+      "published": "2026-09-13T23:53:42Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Jahmyr Gibbs happy to help Lions, not worried about workload",
+      "url": "https://www.espn.com/nfl/story/_/id/49934534/jahmyr-gibbs-happy-help-lions-not-worried-workload",
+      "summary": "After a career-high 29 carries for 156 rushing yards and two touchdowns -- to go with five receptions for 30 receiving yards -- Lions running back Jahmyr Gibbs said he felt \"fine\" physically after Sunday's opener.",
+      "published": "2026-09-14T00:06:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET"
       ]
     },
     {
       "title": "Giants WR Malik Nabers (knee) active for opener vs. Cowboys",
       "url": "https://www.espn.com/nfl/story/_/id/49934374/giants-wr-malik-nabers-knee-active-opener-vs-cowboys",
-      "summary": "New York Giants standout wide receiver Malik Nabers is making his return from a torn ACL in Sunday night's season opener vs. the Cowboys.",
-      "published": "2026-09-13T23:10:32Z",
+      "summary": "New York Giants standout wide receiver Malik Nabers is making his return from a torn ACL in Sunday night's season opener versus the Cowboys.",
+      "published": "2026-09-13T23:40:20Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -78,7 +262,7 @@
       "title": "Colts QB Jones 'not good enough' in return from Achilles' injury",
       "url": "https://www.espn.com/nfl/story/_/id/49934256/colts-qb-jones-not-good-enough-return-achilles",
       "summary": "Jones successfully made his return to game action from an Achilles' injury against the Baltimore Ravens on Sunday -- a remarkable 280 days after his injury -- in an unremarkable 41-23 loss.",
-      "published": "2026-09-13T23:10:12Z",
+      "published": "2026-09-13T23:11:55Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -89,10 +273,10 @@
       ]
     },
     {
-      "title": "Geno Smith praised for \"quarterback efficiency' in Jets re-debut",
+      "title": "Geno Smith praised for 'quarterback efficiency' in Jets re-debut",
       "url": "https://www.espn.com/nfl/story/_/id/49934280/geno-smith-praised-quarterback-efficiency-jets-re-debut",
-      "summary": "Quarterback Geno Smith made his re-debut with the Jets on Sunday -- 3,612 days after his previous start, and helped New York defeat the Titans.",
-      "published": "2026-09-13T23:06:49Z",
+      "summary": "Quarterback Geno Smith made his re-debut with the Jets on Sunday -- 3,612 days after his previous start -- and helped New York defeat the Titans.",
+      "published": "2026-09-13T23:47:44Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -106,7 +290,7 @@
       "title": "Lawrence, Bengals' other defensive additions key win vs. Bucs",
       "url": "https://www.espn.com/nfl/story/_/id/49934248/lawrence-bengals-other-defensive-additions-key-win-vs-bucs",
       "summary": "The Bengals forced four turnovers and scored one defensive touchdown in Sunday's win over the Buccaneers.",
-      "published": "2026-09-13T23:01:34Z",
+      "published": "2026-09-13T23:44:53Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -120,7 +304,7 @@
       "title": "McCarthy gets game ball from Rodgers after Steelers' win",
       "url": "https://www.espn.com/nfl/story/_/id/49933990/mccarthy-gets-game-ball-rodgers-steelers-win",
       "summary": "Steelers quarterback Aaron Rodgers gave coach Mike McCarthy a game ball after the Steelers' victory Sunday.",
-      "published": "2026-09-13T23:02:10Z",
+      "published": "2026-09-13T23:13:54Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -133,7 +317,7 @@
       "title": "Josh Allen, Bills use big plays to score big win vs. Texans",
       "url": "https://www.espn.com/nfl/story/_/id/49933980/josh-allen-bills-use-big-plays-score-big-win-vs-texans",
       "summary": "In a house of Bills horrors -- they hadn't won in Houston since '06 -- vs. a team that battered him last season, Josh Allen uncorked a whopper of an offensive performance as Buffalo outlasted Houston 36-31, giving Joe Brady his first victory as coach.",
-      "published": "2026-09-13T22:42:48Z",
+      "published": "2026-09-13T23:42:03Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -142,17 +326,6 @@
         "BUF",
         "HOU"
       ]
-    },
-    {
-      "title": "Week 1 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/49881465/week-1-highlights-best-plays-touchdowns-2026",
-      "summary": "Check out the best of the best from Week 1 around the NFL, including highlight-reel touchdowns and must-see plays.",
-      "published": "2026-09-13T22:21:05Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "Todd Monken: Browns' big loss not just about Deshaun Watson",
@@ -185,7 +358,7 @@
       "title": "Fans boo Titans in coach Saleh's debut as QB Ward struggles",
       "url": "https://www.espn.com/nfl/story/_/id/49933417/fans-boo-titans-coach-saleh-debut-qb-ward-struggles",
       "summary": "The Titans suffered a 23-10 loss to Robert Saleh's former team, the Jets, while quarterback Cam Ward had a tough outing, completing 19 of 32 attempts for 140 yards and one touchdown.",
-      "published": "2026-09-13T22:36:34Z",
+      "published": "2026-09-13T23:16:15Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -207,76 +380,23 @@
       "teams": []
     },
     {
-      "title": "NFL Week 1: Takeaways, questions, fantasy spin for Sunday games",
-      "url": "https://www.espn.com/nfl/story/_/id/49871987/week-1-sunday-games-takeaways-questions-2026",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 1.",
-      "published": "2026-09-13T22:59:17Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "QB Kyler Murray suffers concussion in Vikings debut",
-      "url": "https://www.espn.com/nfl/story/_/id/49932635/vikings-qb-kyler-murray-leaves-game-taking-hard-hit",
-      "summary": "Vikings quarterback Kyler Murray suffered a concussion after taking a hard hit in his Minnesota debut.",
-      "published": "2026-09-13T22:05:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "Lions escape with 31-30 win over Saints in OT after Kellen Moore chooses to go for 2 and the win",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872923",
-      "summary": "\u2014 The Detroit Lions felt fortunate to escape with a 31-30 victory in overtime over New Orleans on Sunday for at least a few reasons.",
-      "published": "2026-09-13T21:01:34Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 1 overreactions: Bears to score most and allow most points in NFL? Lamar Jackson for MVP?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-1-overreactions-bears-lamar-jackson-mvp/",
+      "summary": "Plus, was DJ Moore the best offseason addition in the NFL?",
+      "published": "Mon, 14 Sep 2026 00:32:44 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET",
-        "NO"
-      ]
-    },
-    {
-      "title": "Caleb Williams and Bears trounce Panthers 59-37 in highest-scoring season opener in NFL history",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872661",
-      "summary": "\u2014 Ben Johnson said he slept well Saturday night at the Bears' team hotel, sensing that quarterback Caleb Williams was more than ready for the season opener.",
-      "published": "2026-09-13T20:59:28Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CAR",
         "CHI"
-      ]
-    },
-    {
-      "title": "Josh Allen connects with Joshua Palmer for a late TD and Bills beat Texans 36-31 in wild opener",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872660",
-      "summary": "\u2014 Josh Allen didn\u2019t wait for the question he knew was coming on Sunday after finally leading the Buffalo Bills to a road win over the Houston Texans in a season-opening thriller.",
-      "published": "2026-09-13T20:41:29Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "HOU"
       ]
     },
     {
       "title": "Giants vs. Cowboys picks, NFL predictions: Best bets, odds, betting preview for Sunday Night Football",
       "url": "https://www.cbssports.com/betting/news/giants-cowboys-picks-nfl-predictions-best-bets-odds-betting-preview-sunday-night-football/",
       "summary": "Best bets and betting preview for Cowboys vs. Giants on Sunday Night Football",
-      "published": "Sun, 13 Sep 2026 23:03:30 +0000",
+      "published": "Mon, 14 Sep 2026 00:07:44 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -284,6 +404,20 @@
       "teams": [
         "DAL",
         "NYG"
+      ]
+    },
+    {
+      "title": "NFL Week 1 winners, losers: Deshaun Watson disastrous in Browns offense, Bears light up scoreboard",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-1-winners-losers-deshaun-watson/",
+      "summary": "Caleb Williams accounted for four touchdowns as Chicago made an emphatic statement, while Watson could already be running out of time in Cleveland",
+      "published": "Mon, 14 Sep 2026 00:00:35 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "CLE"
       ]
     },
     {
@@ -304,7 +438,7 @@
       "title": "NFL Week 1 grades for all 32 teams: Ravens roll to an 'A-,' Bills earn high mark for win over Texans",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-1-grades-for-all-32-teams-ravens-roll-bills-earn-high-mark/",
       "summary": "Here are the Week 1 grades for every team so far",
-      "published": "Sun, 13 Sep 2026 22:51:27 +0000",
+      "published": "Mon, 14 Sep 2026 00:32:21 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -313,19 +447,6 @@
         "BAL",
         "BUF",
         "HOU"
-      ]
-    },
-    {
-      "title": "NFL Week 1 overreactions: Bears to score most and allow most points in NFL? Lamar Jackson for MVP?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-1-overreactions-bears-lamar-jackson-mvp/",
-      "summary": "Plus, was DJ Moore the best offseason addition in the NFL?",
-      "published": "Sun, 13 Sep 2026 22:18:21 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
       ]
     },
     {
@@ -598,20 +719,6 @@
       "teams": [
         "CLE",
         "JAX"
-      ]
-    },
-    {
-      "title": "Colts vs. Ravens: Lamar Jackson and Daniel Jones lead teams in Week 1 matchup",
-      "url": "https://www.cbssports.com/nfl/news/where-to-watch-colts-vs-ravens-stream-picks-odds/",
-      "summary": "Lamar Jackson and Daniel Jones look to bounce back from injury-plagued seasons",
-      "published": "Sun, 13 Sep 2026 13:01:00 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "IND"
       ]
     }
   ],

@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-09-13T23:10:50.537433+00:00",
-  "checked_at_utc": "2026-09-13T23:10:50.537415+00:00",
+  "updated_at_utc": "2026-09-14T01:07:22.002192+00:00",
+  "checked_at_utc": "2026-09-14T01:07:22.002176+00:00",
   "feed_health": {
     "scoreboard_ok": true,
-    "checked_at_utc": "2026-09-13T23:10:50.537415+00:00",
+    "checked_at_utc": "2026-09-14T01:07:22.002176+00:00",
     "source": "ESPN_CDN"
   },
   "season": 2026,
@@ -11,84 +11,24 @@
   "score_source": "ESPN_CDN",
   "scores": [
     {
-      "game_id": "2026_01_MIA_LV",
-      "espn_event_id": "401872928",
-      "away": "MIA",
-      "home": "LV",
-      "away_score": 13,
-      "home_score": 27,
+      "game_id": "2026_01_DAL_NYG",
+      "espn_event_id": "401872930",
+      "away": "DAL",
+      "home": "NYG",
+      "away_score": 0,
+      "home_score": 7,
       "state": "LIVE",
-      "detail": "6:57 - 4th",
-      "clock": "6:57",
-      "period": 4,
-      "down_distance": "4th & 12 at LV 22",
-      "possession": "LV",
-      "last_play": " (Shotgun) K.Cousins up the middle to LV 22 for -3 yards (M.Herring).",
-      "commence_utc": "2026-09-13T20:25Z",
-      "network": "FOX",
-      "venue": "Allegiant Stadium",
+      "detail": "14:13 - 2nd",
+      "clock": "14:13",
+      "period": 2,
+      "down_distance": "3rd & 2 at NYG 44",
+      "possession": "NYG",
+      "last_play": " (Shotgun) J.Dart pass short right to M.Nabers to NYG 44 for 7 yards (C.Downs).",
+      "commence_utc": "2026-09-14T00:20Z",
+      "network": "NBC",
+      "venue": "MetLife Stadium",
       "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
-    },
-    {
-      "game_id": "2026_01_GB_MIN",
-      "espn_event_id": "401872927",
-      "away": "GB",
-      "home": "MIN",
-      "away_score": 22,
-      "home_score": 17,
-      "state": "LIVE",
-      "detail": "10:01 - 4th",
-      "clock": "10:01",
-      "period": 4,
-      "down_distance": "2nd & 5 at MIN 44",
-      "possession": "MIN",
-      "last_play": " J.Mason up the middle to MIN 44 for 5 yards (Z.Franklin).",
-      "commence_utc": "2026-09-13T20:25Z",
-      "network": "CBS",
-      "venue": "U.S. Bank Stadium",
-      "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
-    },
-    {
-      "game_id": "2026_01_WAS_PHI",
-      "espn_event_id": "401872929",
-      "away": "WAS",
-      "home": "PHI",
-      "away_score": 16,
-      "home_score": 17,
-      "state": "LIVE",
-      "detail": "9:59 - 4th",
-      "clock": "9:59",
-      "period": 4,
-      "down_distance": "1st & 10 at PHI 26",
-      "possession": "",
-      "last_play": "D.Stevens kicks 64 yards from WAS 35 to PHI 1. W.Shipley to PHI 26 for 25 yards (J.Jean-Baptiste).",
-      "commence_utc": "2026-09-13T20:25Z",
-      "network": "FOX",
-      "venue": "Lincoln Financial Field",
-      "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
-    },
-    {
-      "game_id": "2026_01_ARI_LAC",
-      "espn_event_id": "401872926",
-      "away": "ARI",
-      "home": "LAC",
-      "away_score": 23,
-      "home_score": 14,
-      "state": "LIVE",
-      "detail": "4:44 - 4th",
-      "clock": "4:44",
-      "period": 4,
-      "down_distance": "1st & 10 at LAC 20",
-      "possession": "LAC",
-      "last_play": "B.Gillikin punts 61 yards to end zone, Center-C.Kreiter, Touchback.",
-      "commence_utc": "2026-09-13T20:25Z",
-      "network": "CBS",
-      "venue": "SoFi Stadium",
-      "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
     },
     {
       "game_id": "2026_01_TB_CIN",
@@ -108,7 +48,7 @@
       "network": "FOX",
       "venue": "Paycor Stadium",
       "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
     },
     {
       "game_id": "2026_01_NO_DET",
@@ -128,7 +68,7 @@
       "network": "FOX",
       "venue": "Ford Field",
       "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
     },
     {
       "game_id": "2026_01_NYJ_TEN",
@@ -148,7 +88,7 @@
       "network": "CBS",
       "venue": "Nissan Stadium",
       "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
     },
     {
       "game_id": "2026_01_BAL_IND",
@@ -168,7 +108,7 @@
       "network": "CBS",
       "venue": "Lucas Oil Stadium",
       "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
     },
     {
       "game_id": "2026_01_ATL_PIT",
@@ -188,7 +128,7 @@
       "network": "FOX",
       "venue": "Acrisure Stadium",
       "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
     },
     {
       "game_id": "2026_01_CHI_CAR",
@@ -208,7 +148,7 @@
       "network": "FOX",
       "venue": "Bank of America Stadium",
       "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
     },
     {
       "game_id": "2026_01_CLE_JAX",
@@ -228,7 +168,7 @@
       "network": "CBS",
       "venue": "EverBank Stadium",
       "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
     },
     {
       "game_id": "2026_01_BUF_HOU",
@@ -248,27 +188,87 @@
       "network": "CBS",
       "venue": "Reliant Stadium",
       "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
     },
     {
-      "game_id": "2026_01_DAL_NYG",
-      "espn_event_id": "401872930",
-      "away": "DAL",
-      "home": "NYG",
-      "away_score": 0,
-      "home_score": 0,
-      "state": "SCHEDULED",
-      "detail": "9/13 - 8:20 PM EDT",
+      "game_id": "2026_01_MIA_LV",
+      "espn_event_id": "401872928",
+      "away": "MIA",
+      "home": "LV",
+      "away_score": 13,
+      "home_score": 27,
+      "state": "FINAL",
+      "detail": "Final",
       "clock": "0:00",
-      "period": 0,
+      "period": 4,
       "down_distance": "",
       "possession": "",
       "last_play": "",
-      "commence_utc": "2026-09-14T00:20Z",
-      "network": "NBC",
-      "venue": "MetLife Stadium",
+      "commence_utc": "2026-09-13T20:25Z",
+      "network": "FOX",
+      "venue": "Allegiant Stadium",
       "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
+    },
+    {
+      "game_id": "2026_01_GB_MIN",
+      "espn_event_id": "401872927",
+      "away": "GB",
+      "home": "MIN",
+      "away_score": 22,
+      "home_score": 39,
+      "state": "FINAL",
+      "detail": "Final",
+      "clock": "0:00",
+      "period": 4,
+      "down_distance": "",
+      "possession": "",
+      "last_play": "",
+      "commence_utc": "2026-09-13T20:25Z",
+      "network": "CBS",
+      "venue": "U.S. Bank Stadium",
+      "source": "ESPN_CDN",
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
+    },
+    {
+      "game_id": "2026_01_WAS_PHI",
+      "espn_event_id": "401872929",
+      "away": "WAS",
+      "home": "PHI",
+      "away_score": 22,
+      "home_score": 24,
+      "state": "FINAL",
+      "detail": "Final",
+      "clock": "0:00",
+      "period": 4,
+      "down_distance": "",
+      "possession": "",
+      "last_play": "",
+      "commence_utc": "2026-09-13T20:25Z",
+      "network": "FOX",
+      "venue": "Lincoln Financial Field",
+      "source": "ESPN_CDN",
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
+    },
+    {
+      "game_id": "2026_01_ARI_LAC",
+      "espn_event_id": "401872926",
+      "away": "ARI",
+      "home": "LAC",
+      "away_score": 26,
+      "home_score": 14,
+      "state": "FINAL",
+      "detail": "Final",
+      "clock": "0:00",
+      "period": 4,
+      "down_distance": "",
+      "possession": "",
+      "last_play": "",
+      "commence_utc": "2026-09-13T20:25Z",
+      "network": "CBS",
+      "venue": "SoFi Stadium",
+      "source": "ESPN_CDN",
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
     },
     {
       "game_id": "2026_01_NE_SEA",
@@ -288,7 +288,7 @@
       "network": "NBC",
       "venue": "Lumen Field",
       "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
     },
     {
       "game_id": "2026_01_SF_LA",
@@ -308,7 +308,7 @@
       "network": "Netflix",
       "venue": "Melbourne Cricket Ground",
       "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
     },
     {
       "game_id": "2026_01_DEN_KC",
@@ -328,18 +328,12 @@
       "network": "ESPN, ABC",
       "venue": "Arrowhead Stadium",
       "source": "ESPN_CDN",
-      "updated_at_utc": "2026-09-13T23:10:50.537433+00:00"
+      "updated_at_utc": "2026-09-14T01:07:22.002192+00:00"
     }
   ],
   "records": {
-    "LV": "0-0",
-    "MIA": "0-0",
-    "MIN": "0-0",
-    "GB": "0-0",
-    "PHI": "0-0",
-    "WAS": "0-0",
-    "LAC": "0-0",
-    "ARI": "0-0",
+    "NYG": "0-0",
+    "DAL": "0-0",
     "CIN": "1-0",
     "TB": "0-1",
     "DET": "1-0",
@@ -356,8 +350,14 @@
     "CLE": "0-1",
     "HOU": "0-1",
     "BUF": "1-0",
-    "NYG": "0-0",
-    "DAL": "0-0",
+    "LV": "1-0",
+    "MIA": "0-1",
+    "MIN": "1-0",
+    "GB": "0-1",
+    "PHI": "1-0",
+    "WAS": "0-1",
+    "LAC": "0-1",
+    "ARI": "1-0",
     "SEA": "1-0",
     "NE": "0-1",
     "LA": "0-1",
@@ -366,29 +366,11 @@
     "DEN": "0-0"
   },
   "game_meta": {
-    "2026_01_MIA_LV": {
-      "commence_utc": "2026-09-13T20:25Z",
-      "network": "FOX",
-      "venue": "Allegiant Stadium",
-      "espn_event_id": "401872928"
-    },
-    "2026_01_GB_MIN": {
-      "commence_utc": "2026-09-13T20:25Z",
-      "network": "CBS",
-      "venue": "U.S. Bank Stadium",
-      "espn_event_id": "401872927"
-    },
-    "2026_01_WAS_PHI": {
-      "commence_utc": "2026-09-13T20:25Z",
-      "network": "FOX",
-      "venue": "Lincoln Financial Field",
-      "espn_event_id": "401872929"
-    },
-    "2026_01_ARI_LAC": {
-      "commence_utc": "2026-09-13T20:25Z",
-      "network": "CBS",
-      "venue": "SoFi Stadium",
-      "espn_event_id": "401872926"
+    "2026_01_DAL_NYG": {
+      "commence_utc": "2026-09-14T00:20Z",
+      "network": "NBC",
+      "venue": "MetLife Stadium",
+      "espn_event_id": "401872930"
     },
     "2026_01_TB_CIN": {
       "commence_utc": "2026-09-13T17:00Z",
@@ -438,11 +420,29 @@
       "venue": "Reliant Stadium",
       "espn_event_id": "401872660"
     },
-    "2026_01_DAL_NYG": {
-      "commence_utc": "2026-09-14T00:20Z",
-      "network": "NBC",
-      "venue": "MetLife Stadium",
-      "espn_event_id": "401872930"
+    "2026_01_MIA_LV": {
+      "commence_utc": "2026-09-13T20:25Z",
+      "network": "FOX",
+      "venue": "Allegiant Stadium",
+      "espn_event_id": "401872928"
+    },
+    "2026_01_GB_MIN": {
+      "commence_utc": "2026-09-13T20:25Z",
+      "network": "CBS",
+      "venue": "U.S. Bank Stadium",
+      "espn_event_id": "401872927"
+    },
+    "2026_01_WAS_PHI": {
+      "commence_utc": "2026-09-13T20:25Z",
+      "network": "FOX",
+      "venue": "Lincoln Financial Field",
+      "espn_event_id": "401872929"
+    },
+    "2026_01_ARI_LAC": {
+      "commence_utc": "2026-09-13T20:25Z",
+      "network": "CBS",
+      "venue": "SoFi Stadium",
+      "espn_event_id": "401872926"
     },
     "2026_01_NE_SEA": {
       "commence_utc": "2026-09-10T00:20Z",
