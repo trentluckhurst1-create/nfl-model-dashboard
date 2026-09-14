@@ -1,79 +1,466 @@
 {
-  "updated_at_utc": "2026-09-14T13:01:18.315318+00:00",
-  "checked_at_utc": "2026-09-14T13:01:43.519632+00:00",
+  "updated_at_utc": "2026-09-14T18:33:25.550587+00:00",
+  "checked_at_utc": "2026-09-14T18:33:25.550587+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 4,
+      "items": 7,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 26
+      "items": 28
     },
     "FOX Sports NFL": {
-      "ok": false,
-      "items": 0,
-      "error": "ReadTimeout",
+      "ok": true,
+      "items": 17,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "NFL Week 1 offense explosion: Bears, Ravens, Bills, Jaguars",
-      "url": "https://www.espn.com/nfl/story/_/id/49930014/week-1-offenses-bears-ravens-bills-jaguars-barnwell",
-      "summary": "Chicago (59), Baltimore (41), Buffalo (36) and Jacksonville (34) were among 10 teams that scored 30-plus points Sunday. What happened, and can it continue?",
-      "published": "2026-09-14T12:53:01Z",
-      "source": "ESPN NFL",
+      "title": "Sean McVay: Myles Garrett's Week 1 Play Made Knee Surgery The Obvious Answer",
+      "url": "https://www.foxsports.com/stories/nfl/los-angeles-rams-myles-garrett-knee-surgery-49ers",
+      "summary": "The Rams spent training camp trying to manage Myles Garrett\u2019s knee injury, and actual game action proved it was time to go under the knife.",
+      "published": "Mon, 14 Sep 2026 13:45:30 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 2: Lines, Spreads, Results For All 16 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-2-lines-spreads-results-all-16-games",
+      "summary": "Check out the early odds, spreads and totals for all 16 Week 2 games.",
+      "published": "Mon, 14 Sep 2026 13:37:18 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2027 NFL Draft No. 1 Pick Odds: Manning Favored; Could Smith Challenge?",
+      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
+      "summary": "Could the nation's top skill player challenge Arch Manning for No. 1 in the 2027 NFL Draft? See the latest odds.",
+      "published": "Mon, 14 Sep 2026 13:24:32 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Offenses Combine For One Of Highest-Scoring Opening Weeks In History",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-offenses-combine-one-highest-scoring-opening-weeks-history",
+      "summary": "NFL offenses didn\u2019t need any time to shake off the rust during Week 1.",
+      "published": "Mon, 14 Sep 2026 12:44:03 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL, CFB Weekend Betting Recap: Bettors Enjoy 'Champagne-Popping' Sunday",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-cfb-weekend-betting-recap-bettors-enjoy-champagne-popping-sunday",
+      "summary": "It was a celebratory NFL Week 1 for bettors across the nation. Patrick Everson recaps the NFL and CFB betting weekend.",
+      "published": "Mon, 14 Sep 2026 11:18:38 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Monday Morning NFL Top 10 Rankings: A New No. 1 Emerges From Week 1",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-top-10-rankings-week-1-monday-morning",
+      "summary": "It's a new NFL season, but the list of Super Bowl contenders might be very similar to last year's.",
+      "published": "Mon, 14 Sep 2026 10:10:07 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "The Eagles' New Offense Unleashes Jalen Hurts; Ben Johnson Delivers On The Hype",
+      "url": "https://www.foxsports.com/stories/nfl/eagles-set-up-jalen-hurts-succeed-again-ben-johnson-living-up-hype",
+      "summary": "Philly finally set up its QB to succeed, while the Bears' offense looks like the NFL's best. Plus, Tom Brady reveals a piece of NFL history.",
+      "published": "Mon, 14 Sep 2026 09:10:34 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI",
+        "PHI"
+      ]
+    },
+    {
+      "title": "How to Watch Broncos vs Chiefs: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-denver-broncos-vs-kansas-city-chiefs-tv-channel-live-stream-september-14-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 1 Denver Broncos and Kansas City Chiefs game.",
+      "published": "Mon, 14 Sep 2026 07:55:22 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "KC"
+      ]
+    },
+    {
+      "title": "2026 Super Bowl Odds: Ravens Slide Into Second; Rams Remain Favored",
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "summary": "The Rams got some bad news about their star defender, while the Ravens and Bills impressed in Week 1. See the latest SB odds.",
+      "published": "Sun, 13 Sep 2026 23:55:20 -0400",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
         "BAL",
         "BUF",
-        "CHI",
-        "JAX"
+        "LA"
       ]
     },
     {
-      "title": "Inside Patrick Mahomes' remarkable return from knee injury",
-      "url": "https://www.espn.com/nfl/story/_/id/49894461/patrick-mahomes-chiefs-return-knee-injury-nfl-week-1",
-      "summary": "Exactly 274 days ago, Mahomes, after suffering the most significant injury of his career, vowed to be back for Week 1. Here's how he did it.",
-      "published": "2026-09-14T10:00:03Z",
-      "source": "ESPN NFL",
+      "title": "Myles Away: Browns Struggles Show More Than Just Problems With Deshaun Watson",
+      "url": "https://www.foxsports.com/stories/nfl/myles-away-browns-struggles-show-more-than-just-problems-deshaun-watson",
+      "summary": "The Browns took a lopsided loss to open the 2026 season, but there's much more to fix than just finding a better quarterback.",
+      "published": "Sun, 13 Sep 2026 23:52:27 -0400",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
+      "category": "qb",
+      "teams": [
+        "CLE"
+      ]
     },
     {
-      "title": "Broncos using the same formula as the 2015 Super Bowl team?",
-      "url": "https://www.espn.com/nfl/story/_/id/49905620/2026-denver-broncos-similar-2015-super-bowl-champs-culture-defense-close-wins",
-      "summary": "The 2015 Broncos used a united front office, shutdown defense and clutch play to win Super Bowl 50. And the 2026 Broncos have a similar makeup -- and goal.",
-      "published": "2026-09-14T12:02:18Z",
-      "source": "ESPN NFL",
+      "title": "New York Delivers Giant Performance: 3 Takeaways From Cowboys' Season-Opening Loss",
+      "url": "https://www.foxsports.com/stories/nfl/dallas-cowboys-vs-new-york-giants-takeaways-september-13",
+      "summary": "The Giants dominated the Cowboys to close the Sunday slate of Week 1. Here's what we took away.",
+      "published": "Sun, 13 Sep 2026 23:35:55 -0400",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DEN"
+        "DAL",
+        "NYG"
       ]
     },
     {
-      "title": "Is Jaguars QB Trevor Lawrence's hot start sustainable?",
-      "url": "https://www.espn.com/nfl/story/_/id/49936943/jacksonville-jaguars-qb-trevor-lawrence-browns-week-1",
-      "summary": "Jacksonville's QB looked dominant vs. the Browns in Week 1. Can he shake his career September woes as tough matchups loom?",
-      "published": "2026-09-14T10:00:02Z",
+      "title": "NFL Fallout Week 1: The Bears Got The Gusto To Be The Best Offense In Football",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-fallout-week-1-bears-got-gusto-best-offense-football",
+      "summary": "The Bears and the Bengals made statements. The Rams and the Steelers caused concern. Here are Ralph Vacchiano's top takeaways from Week 1.",
+      "published": "Sun, 13 Sep 2026 22:06:03 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "CIN",
+        "LA",
+        "PIT"
+      ]
+    },
+    {
+      "title": "NFL Catchup: Ravens WRs, Kyler Murray Injured; Bills, Jets Epic Postgame Speeches",
+      "url": "https://www.foxsports.com/stories/nfl/news-moments-from-nfl-week-1-ravens-wr-ruled-out-early",
+      "summary": "Here's everything that happened during Week 1 of the NFL season.",
+      "published": "Sun, 13 Sep 2026 21:53:09 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "BUF",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Jayden Daniels Takes Blame For Stefon Diggs' Penalty In Commanders' Loss",
+      "url": "https://www.foxsports.com/stories/nfl/jayden-daniels-takes-blame-stefon-diggs-penalty-commanders-loss",
+      "summary": "Washington quarterback Jayden Daniels took accountability for Stefon Diggs' costly penalty after the Commanders' 24-22 loss to the Eagles.",
+      "published": "Sun, 13 Sep 2026 21:47:11 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PHI",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Tom Brady Questions Commanders Failed 2-Point Playcall In Loss To Eagles",
+      "url": "https://www.foxsports.com/stories/nfl/brady-commanders-2-point-conversion",
+      "summary": "When asked about the Commanders' decision to go for two late, Tom Brady didn't hold back on his opinion, questioning the play call that came up empty and ultimately lost the game for Washington.",
+      "published": "Sun, 13 Sep 2026 21:41:06 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Zack Baun & Eagles Defense Already In Midseason Form, Earning LFG Player Of The Game",
+      "url": "https://www.foxsports.com/stories/nfl/zack-baun-eagles-defense-already-midseason-form-earning-lfg-player-game",
+      "summary": "Zack Baun continued to be a model of reliability for the Eagles in their victory over the Commanders on Sunday.",
+      "published": "Sun, 13 Sep 2026 21:38:34 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Philly Gets Victory, But Was It Impressive? 3 Takeaways From Eagles Win vs. Commanders",
+      "url": "https://www.foxsports.com/stories/nfl/washington-commanders-vs-philadelphia-eagles-takeaways-september-13",
+      "summary": "Here's what we learned from the Week 1 matchup between the Commanders and Eagles on Sunday.",
+      "published": "Sun, 13 Sep 2026 20:11:32 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Coach Monken expects to stick with Watson as Browns' QB1 in Week 2",
+      "url": "https://www.espn.com/nfl/story/_/id/49941705/coach-monken-expects-stick-watson-browns-qb1-week-2",
+      "summary": "Browns coach Todd Monken said Monday that he expects Deshaun Watson to remain as the team's starting quarterback this Sunday at the Buccaneers.",
+      "published": "2026-09-14T18:26:30Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": [
         "CLE",
-        "JAX"
+        "TB"
       ]
+    },
+    {
+      "title": "ManningCast 2026 schedule: How to watch MNF games and guests",
+      "url": "https://www.espn.com/nfl/story/_/id/34636537/maningcast-schedule-monday-night-football-guests-mnf",
+      "summary": "Monday Night Football with Eli and Peyton Manning is back. Here's the 2026 game lineup, special guests and more.",
+      "published": "2026-09-14T18:21:53Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL depth charts for all 32 teams for 2026 season",
+      "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
+      "summary": "Here are the latest NFL depth charts for all 32 teams.",
+      "published": "2026-09-14T17:17:15Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
+      "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
+      "summary": "The Steelers QB, who is entering his 22nd season in the league, is chasing records, and ESPN will be chronicling his \"last rodeo.\"",
+      "published": "2026-09-14T16:38:43Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Rams' McVay: Won't have timeline on Garrett until after surgery",
+      "url": "https://www.espn.com/nfl/story/_/id/49941221/rams-mcvay-line-garrett-surgery",
+      "summary": "While the thought was Myles Garrett could play through his knee injury, it became clear after the Rams' Week 1 loss that he needed to have surgery, coach Sean McVay said.",
+      "published": "2026-09-14T18:20:05Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "Lamar Jackson looks like old self in Ravens' new offense",
+      "url": "https://www.espn.com/nfl/story/_/id/49940318/lamar-jackson-looks-old-self-baltimore-ravens-new-offense-vs-colts",
+      "summary": "In his first season with new OC Declan Doyle, Jackson has embraced changes to how he played football for most of his life.",
+      "published": "2026-09-14T16:01:18Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
+      "published": "2026-09-14T14:35:46Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 1 overreactions: Bears to score most and allow most points in NFL? Lamar Jackson for MVP?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-1-overreactions-bears-lamar-jackson-mvp/",
+      "summary": "Plus, was DJ Moore the best offseason addition in the NFL?",
+      "published": "Mon, 14 Sep 2026 17:57:07 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Chiefs vs. Broncos: Division rivals Patrick Mahomes, Bo Nix make their return in Monday night matchup",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-vs-broncos-where-to-watch-odds-prediction/",
+      "summary": "Patrick Mahomes and Bo Nix return from major injuries in an AFC West showdown",
+      "published": "Mon, 14 Sep 2026 17:53:23 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DEN",
+        "KC"
+      ]
+    },
+    {
+      "title": "NFL Week 1 winners and losers, plus grades for every team and Broncos-Chiefs predictions for Monday night",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-1-winners-and-losers-plus-grades-for-every-team-and-broncos-chiefs-predictions-for-monday-night/",
+      "summary": "Here's everything you need to know about the NFL for Sept. 14",
+      "published": "Mon, 14 Sep 2026 16:59:13 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "KC"
+      ]
+    },
+    {
+      "title": "Points, points, points: Sunday was the highest-scoring NFL Week 1 of all time",
+      "url": "https://www.cbssports.com/nfl/news/sunday-was-the-highest-scoring-nfl-week-1-of-all-time/",
+      "summary": "Teams averaged a record 53.3 points per game across the league, highlighted by the Bears piling up 59 points in a historic shootout with the Panthers",
+      "published": "Mon, 14 Sep 2026 16:39:56 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "CHI"
+      ]
+    },
+    {
+      "title": "Cowboys' new defense flops vs. Giants: Why Christian Parker, other additions have work cut out for them",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-new-defense-giants-christian-parker/",
+      "summary": "Dallas had the worst defensive success rate of any team Sunday",
+      "published": "Mon, 14 Sep 2026 15:30:18 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "NYG"
+      ]
+    },
+    {
+      "title": "How John Harbaugh helped Malik Nabers get over mental hurdle in return from knee injury",
+      "url": "https://www.cbssports.com/nfl/news/how-john-harbaugh-helped-malik-nabers-in-return/",
+      "summary": "The first-year Giants coach took an unorthodox approach in preparing his star receiver for Week 1",
+      "published": "Mon, 14 Sep 2026 15:07:34 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Saints' Chris Olave explains why he wears a Guardian Cap, what it means for his family",
+      "url": "https://www.cbssports.com/nfl/news/saints-chris-olave-explains-why-he-wears-a-guardian-cap/",
+      "summary": "After suffering four concussions in his first 39 games, Olave chose the protective helmet cover to 'live regular life after football'",
+      "published": "Mon, 14 Sep 2026 14:39:07 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NO"
+      ]
+    },
+    {
+      "title": "Chiefs vs. Broncos odds, picks, predictions: Betting preview, best bets for Monday Night Football, NFL Week 1",
+      "url": "https://www.cbssports.com/betting/news/chiefs-broncos-odds-picks-predictions-betting-preview-best-bets-monday-night-football-nfl/",
+      "summary": "Best bets and betting preview for Broncos vs. Chiefs on Monday Night Football",
+      "published": "Mon, 14 Sep 2026 13:45:40 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "KC"
+      ]
+    },
+    {
+      "title": "2027 NFL Draft: Dante Moore's early struggles and why history tells us to watch Drew Mestemaker",
+      "url": "https://www.cbssports.com/nfl/draft/news/2027-nfl-draft-dante-moores-early-struggles-drew-mestemaker/",
+      "summary": "Our model was higher on Mestemaker, more cautious on Moore, and their Week 2 matchup gave us our first real test",
+      "published": "Mon, 14 Sep 2026 18:23:28 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Unpacking NFL's epic Week 1; College football rankings after Texas stunner over Ohio State",
+      "url": "https://www.cbssports.com/nfl/news/unpacking-nfls-epic-week-1-college-football-rankings-after-texas-stunner-over-ohio-state/",
+      "summary": "Plus fresh MLB Power Rankings as the postseason picture begins to take shape",
+      "published": "Mon, 14 Sep 2026 13:05:57 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
     },
     {
       "title": "2027 NFL Mock Draft: #MarchtoArch begins in earnest for tanking team as 3 QBs go in first 5 picks",
@@ -100,20 +487,6 @@
       "category": "game",
       "teams": [
         "BUF"
-      ]
-    },
-    {
-      "title": "Chiefs vs. Broncos: Division rivals Patrick Mahomes, Bo Nix make their return in Monday night matchup",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-vs-broncos-where-to-watch-odds-prediction/",
-      "summary": "Patrick Mahomes and Bo Nix return from major injuries in an AFC West showdown",
-      "published": "Mon, 14 Sep 2026 11:41:49 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN",
-        "KC"
       ]
     },
     {
@@ -149,7 +522,7 @@
       "title": "NFL Week 1 grades for all 32 teams: Ravens roll to an 'A-,' Bills earn high mark for win over Texans",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-1-grades-for-all-32-teams-ravens-roll-bills-earn-high-mark/",
       "summary": "Here are the Week 1 grades for every team so far",
-      "published": "Mon, 14 Sep 2026 03:44:57 +0000",
+      "published": "Mon, 14 Sep 2026 13:16:54 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -185,19 +558,6 @@
       "category": "transaction",
       "teams": [
         "TEN"
-      ]
-    },
-    {
-      "title": "NFL Week 1 overreactions: Bears to score most and allow most points in NFL? Lamar Jackson for MVP?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-1-overreactions-bears-lamar-jackson-mvp/",
-      "summary": "Plus, was DJ Moore the best offseason addition in the NFL?",
-      "published": "Mon, 14 Sep 2026 00:32:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
       ]
     },
     {
@@ -347,91 +707,6 @@
       "category": "injury",
       "teams": [
         "SF"
-      ]
-    },
-    {
-      "title": "Browns vs. Jags game to see temperatures up to 105 degrees: Will extreme heat play a factor in Jacksonville?",
-      "url": "https://www.cbssports.com/nfl/news/browns-vs-jags-forecast-to-see-temperatures-up-to-105-degrees/",
-      "summary": "It's a hot one as Cleveland and Jacksonville kick off their season in Florida",
-      "published": "Sun, 13 Sep 2026 17:07:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE"
-      ]
-    },
-    {
-      "title": "Cardinals vs. Chargers: Justin Herbert debuts new-look offense under Mike McDaniel for Los Angeles",
-      "url": "https://www.cbssports.com/nfl/news/cardinals-vs-chargers-where-to-watch-prediction-odds/",
-      "summary": "Everything you need to know before Week 1's matchup, including storylines, predictions, and more",
-      "published": "Sun, 13 Sep 2026 17:00:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Packers vs. Vikings: Kyler Murray opens Minnesota career in NFC North showdown",
-      "url": "https://www.cbssports.com/nfl/news/packers-vs-vikings-how-to-watch-preview-prediction/",
-      "summary": "A wide-open division race kicks off in Week 1",
-      "published": "Sun, 13 Sep 2026 17:01:00 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Bills vs. Texans: Houston seeks fifth consecutive home win over Josh Allen in 2026 season opener",
-      "url": "https://www.cbssports.com/nfl/news/bills-vs-texans-how-to-watch-preview-prediction/",
-      "summary": "Buffalo has to buck a recent trend in order to start the season in the win column",
-      "published": "Sun, 13 Sep 2026 16:35:12 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "HOU"
-      ]
-    },
-    {
-      "title": "Myles Garrett to undergo arthroscopic surgery on knee, Rams EDGE to land on injured reserve, per report",
-      "url": "https://www.cbssports.com/nfl/news/rams-myles-garrett-to-undergo-arthroscopic-knee-surgery/",
-      "summary": "Garrett was limited in his Rams debut in Week 1 vs. 49ers",
-      "published": "Sun, 13 Sep 2026 16:02:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA",
-        "SF"
-      ]
-    },
-    {
-      "title": "Will Brinson's NFL Week 1 predictions and picks: Best bets, player props, anytime TD scorers for Sunday",
-      "url": "https://www.cbssports.com/betting/news/will-brinsons-nfl-week-1-predictions-and-picks-best-bets-player-props-anytime-td-scorers-for-sunday/",
-      "summary": "Backing home underdogs like the Colts and Texans offers strong Week 1 value, while Jalen Hurts and the Eagles are primed to cover against the Commanders",
-      "published": "Sun, 13 Sep 2026 15:40:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND",
-        "PHI",
-        "WAS"
       ]
     }
   ],
