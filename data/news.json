@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-09-15T05:15:03.259891+00:00",
-  "checked_at_utc": "2026-09-15T05:15:03.259891+00:00",
+  "updated_at_utc": "2026-09-15T10:09:48.944160+00:00",
+  "checked_at_utc": "2026-09-15T10:09:48.944160+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 12,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 27
+      "items": 29
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,19 @@
     }
   },
   "items": [
+    {
+      "title": "NFL Catchup: Kyler Murray In Concussion Protocol; Eagles Place Landon Dickerson On IR",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-eagles-lose-dickerson-ir-murrays-status-unsure-week-2",
+      "summary": "Here's the latest from around the NFL on Monday.",
+      "published": "Tue, 15 Sep 2026 01:40:18 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PHI"
+      ]
+    },
     {
       "title": "2026 NFL MVP Odds: Josh Allen Favored; Caleb Williams Rises",
       "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
@@ -32,7 +45,7 @@
       "teams": []
     },
     {
-      "title": "2026 Super Bowl Odds: Ravens, Chief Climb After Dominant Wins; Rams Favored",
+      "title": "2026 Super Bowl Odds: Ravens, Chiefs Climb After Dominant Wins; Rams Favored",
       "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
       "summary": "The Chiefs are climbing after a dominant Week 1 win, but the Rams remain atop the Super Bowl oddsboard. See the latest odds.",
       "published": "Tue, 15 Sep 2026 00:17:30 -0400",
@@ -311,59 +324,25 @@
       ]
     },
     {
-      "title": "Myles Away: Browns Struggles Show More Than Just Problems With Deshaun Watson",
-      "url": "https://www.foxsports.com/stories/nfl/myles-away-browns-struggles-show-more-than-just-problems-deshaun-watson",
-      "summary": "The Browns took a lopsided loss to open the 2026 season, but there's much more to fix than just finding a better quarterback.",
-      "published": "Sun, 13 Sep 2026 23:52:27 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CLE"
-      ]
-    },
-    {
-      "title": "Inside Patrick Mahomes' remarkable return from knee injury",
-      "url": "https://www.espn.com/nfl/story/_/id/49894461/patrick-mahomes-chiefs-return-knee-injury-nfl-week-1",
-      "summary": "On Dec. 14, Mahomes, after suffering the most significant injury of his career, vowed to be back for Week 1. Here's how he did it.",
-      "published": "2026-09-15T04:29:49Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "Who are the winningest NFL coaches of all time?",
-      "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
-      "summary": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-      "published": "2026-09-15T03:49:10Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Kenneth Walker III's dazzling debut leads Chiefs over Broncos",
-      "url": "https://www.espn.com/nfl/story/_/id/49944600/2026-nfl-week-1-kansas-city-chiefs-denver-broncos-kenneth-walker-patrick-mahomes",
-      "summary": "Making his Chiefs debut, Kenneth Walker III powered Patrick Mahomes and the Chiefs past the Broncos on \"Monday Night Football.\"",
-      "published": "2026-09-15T04:37:24Z",
+      "title": "Best and worst NFL teams' travel: 49ers, Seahawks, Steelers divulge it all",
+      "url": "https://www.espn.com/nfl/story/_/id/49941730/best-worst-nfl-team-travel-nflpa-survey-49ers-seahawks-steelers-rams-patriots-saints",
+      "summary": "ESPN spoke with several players and team executives about team travel and the feedback that serves as the basis for the latest NFLPA survey grades.",
+      "published": "2026-09-15T10:00:02Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DEN",
-        "KC"
+        "PIT",
+        "SEA",
+        "SF"
       ]
     },
     {
-      "title": "Walker runs all over Denver, Mahomes looks healthy as Chiefs beat up Broncos 31-10",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872931",
-      "summary": "\u2014 So many people seemed to be focused on Chiefs quarterback Patrick Mahomes, and how the two-time MVP's surgically repaired left...",
-      "published": "2026-09-15T03:25:27Z",
+      "title": "Kenneth Walker III, Patrick Mahomes lead Chiefs' win vs. Broncos",
+      "url": "https://www.espn.com/nfl/story/_/id/49947028/kenneth-walker-iii-patrick-mahomes-power-chiefs-win-vs-broncos",
+      "summary": "Quarterback Patrick Mahomes, making his return from a torn ACL, and running back Kenneth Walker III, making his Chiefs debut, powered Kansas City to a season-opening blowout win over Denver.",
+      "published": "2026-09-15T06:50:08Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -374,109 +353,17 @@
       ]
     },
     {
-      "title": "Chiefs' Travis Kelce now No. 2 among TEs in receiving yards",
-      "url": "https://www.espn.com/nfl/story/_/id/49946051/chiefs-travis-kelce-now-no-2-tes-receiving-yards",
-      "summary": "Travis Kelce reached another milestone Monday night against the Broncos, passing Jason Witten to move into second all time in receiving yards for a tight end.",
-      "published": "2026-09-15T03:31:00Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "KC"
-      ]
-    },
-    {
-      "title": "Taylor Swift, Tom Cruise share suite at Broncos-Chiefs",
-      "url": "https://www.espn.com/nfl/story/_/id/49945403/taylor-swift-tom-cruise-travis-kelce-kansas-city-chiefs-denver-broncos",
-      "summary": "The pop star and actor sat side by side while supporting Swift's husband and Kansas City Chiefs tight end, Travis Kelce.",
-      "published": "2026-09-15T02:29:23Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "KC"
-      ]
-    },
-    {
-      "title": "Seahawks say Sam Darnold has 'unique soft-tissue' injury",
-      "url": "https://www.espn.com/nfl/story/_/id/49944756/seahawks-say-sam-darnold-unique-soft-tissue-injury",
-      "summary": "Seahawks QB Sam Darnold is dealing with what the team described as a \"very unique soft-tissue\" injury that is not expected to sideline him long term.",
-      "published": "2026-09-15T01:29:36Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SEA"
-      ]
-    },
-    {
-      "title": "Sources: Drew Brees mulled playing for Broncos in AFC title game",
-      "url": "https://www.espn.com/nfl/story/_/id/49927602/sources-drew-brees-mulled-playing-broncos-afc-title-game",
-      "summary": "Broncos assistant coaches had discussions with Drew Brees about the former star QB coming out of retirement to play for Denver in last season's AFC Championship Game, sources told ESPN.",
-      "published": "2026-09-15T00:07:11Z",
+      "title": "Bo Nix, Broncos drop opener after 'pretty pitiful' effort",
+      "url": "https://www.espn.com/nfl/story/_/id/49947012/bo-nix-broncos-drop-opener-pretty-pitiful-effort",
+      "summary": "Denver quarterback Bo Nix, when asked to sum up the Broncos' 31-10 season-opening loss to the Kansas City Chiefs on Monday, labeled the effort 'pretty pitiful' after an offseason of optimism placed them among Super Bowl favorites.",
+      "published": "2026-09-15T06:29:25Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": [
-        "DEN"
-      ]
-    },
-    {
-      "title": "Eagles placing LG Landon Dickerson (knee) on injured reserve",
-      "url": "https://www.espn.com/nfl/story/_/id/49944451/philadelphia-eagles-placing-guard-landon-dickerson-injured-reserve",
-      "summary": "The Eagles are placing left guard Landon Dickerson on injured reserve because of a knee injury, a source told ESPN's Adam Schefter, meaning he will miss at least the next four games.",
-      "published": "2026-09-15T00:17:10Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "Cowboys' Overshown, Hooker to miss time with injuries, coach says",
-      "url": "https://www.espn.com/nfl/story/_/id/49943877/cowboys-overshown-hooker-miss-injuries-coach-says",
-      "summary": "The Cowboys will likely be without starting linebacker DeMarvion Overshown and safety Malik Hooker for the next two games, according to coach Brian Schottenheimer.",
-      "published": "2026-09-14T22:39:39Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Source: Lions' Pacheco to miss 12 weeks after back surgery",
-      "url": "https://www.espn.com/nfl/story/_/id/49943755/source-lions-pacheco-significant-back-surgery",
-      "summary": "Lions running back Isiah Pacheco is expected to miss 12 weeks after recently undergoing back surgery, a source told the NFL Network's Ian Rapoport.",
-      "published": "2026-09-14T22:47:36Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "Patriots' Kraft says Macklemore performance would cross line",
-      "url": "https://www.espn.com/nfl/story/_/id/49943754/patriots-kraft-says-macklemore-performance-cross-line",
-      "summary": "Robert Kraft said he had Macklemore removed as an opening act for Ed Sheeran's shows at Gillette Stadium due in part to a \"history of antisemitic rhetoric and imagery that we believe has been deeply offensive and hurtful to the Jewish community.\"",
-      "published": "2026-09-14T23:47:08Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE"
+        "DEN",
+        "KC"
       ]
     },
     {
@@ -844,6 +731,33 @@
       "teams": [
         "CAR",
         "CHI"
+      ]
+    },
+    {
+      "title": "Deshaun Watson struggles in return as Browns leave Week 2 starting QB under evaluation",
+      "url": "https://www.cbssports.com/nfl/news/deshaun-browns-qb-todd-monken/",
+      "summary": "Monken defended Watson following Cleveland's 34-10 loss but said the Browns will \"evaluate everything\" before facing Tampa Bay",
+      "published": "Sun, 13 Sep 2026 21:21:27 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CLE"
+      ]
+    },
+    {
+      "title": "LOOK: Derrick Henry makes NFL history during Ravens' Week 1 showdown vs. Colts",
+      "url": "https://www.cbssports.com/nfl/news/derrick-henry-makes-nfl-history-ravens-week-1-vs-colts/",
+      "summary": "Henry reached a major milestone after two first-half scores in Week 1",
+      "published": "Sun, 13 Sep 2026 19:49:04 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "IND"
       ]
     }
   ],
