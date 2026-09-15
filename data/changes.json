@@ -1,6 +1,37 @@
 {
-  "updated_at_utc": "2026-09-15T00:30:41.137184+00:00",
+  "updated_at_utc": "2026-09-15T05:15:01.110773+00:00",
   "items": [
+    {
+      "ts": "2026-09-15T05:15:01.110773+00:00",
+      "type": "GAME",
+      "game_id": "2026_01_DEN_KC",
+      "title": "DEN @ KC",
+      "detail": "FINAL \u00b7 DEN 10 \u2013 31 KC"
+    },
+    {
+      "ts": "2026-09-15T05:15:01.110773+00:00",
+      "type": "NEWS",
+      "title": "NFL Week 1 grades for all 32 teams: Chiefs earn an 'A' for destroying Broncos, Ravens roll to an 'A-'",
+      "detail": "Here are the Week 1 grades for every team so far",
+      "teams": [
+        "BAL",
+        "DEN",
+        "KC"
+      ],
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-1-grades-for-all-32-teams-ravens-roll-bills-earn-high-mark/",
+      "source": "CBS Sports NFL"
+    },
+    {
+      "ts": "2026-09-15T05:15:01.110773+00:00",
+      "type": "NEWS",
+      "title": "Broncos tried to lure Drew Brees out of retirement for AFC Championship after Bo Nix injury, per report",
+      "detail": "Brees reportedly gave serious consideration to joining Denver for its Super Bowl bid",
+      "teams": [
+        "DEN"
+      ],
+      "url": "https://www.cbssports.com/nfl/news/broncos-drew-brees-comeback-bo-nix/",
+      "source": "CBS Sports NFL"
+    },
     {
       "ts": "2026-09-15T00:30:41.137184+00:00",
       "type": "GAME",
@@ -1163,27 +1194,6 @@
       "game_id": "2026_01_CHI_CAR",
       "title": "CHI @ CAR",
       "detail": "SCHEDULED \u00b7 CHI 0 \u2013 0 CAR"
-    },
-    {
-      "ts": "2026-09-11T04:05:25.192068+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_CLE_JAX",
-      "title": "CLE @ JAX",
-      "detail": "SCHEDULED \u00b7 CLE 0 \u2013 0 JAX"
-    },
-    {
-      "ts": "2026-09-11T04:05:25.192068+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_BUF_HOU",
-      "title": "BUF @ HOU",
-      "detail": "SCHEDULED \u00b7 BUF 0 \u2013 0 HOU"
-    },
-    {
-      "ts": "2026-09-11T04:05:25.192068+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_MIA_LV",
-      "title": "MIA @ LV",
-      "detail": "SCHEDULED \u00b7 MIA 0 \u2013 0 LV"
     }
   ]
 }
