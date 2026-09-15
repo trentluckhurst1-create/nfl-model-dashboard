@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-09-15T10:09:48.944160+00:00",
-  "checked_at_utc": "2026-09-15T10:09:48.944160+00:00",
+  "updated_at_utc": "2026-09-15T15:01:11.716864+00:00",
+  "checked_at_utc": "2026-09-15T15:01:11.716864+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 29
+      "items": 28
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -324,47 +324,114 @@
       ]
     },
     {
-      "title": "Best and worst NFL teams' travel: 49ers, Seahawks, Steelers divulge it all",
-      "url": "https://www.espn.com/nfl/story/_/id/49941730/best-worst-nfl-team-travel-nflpa-survey-49ers-seahawks-steelers-rams-patriots-saints",
-      "summary": "ESPN spoke with several players and team executives about team travel and the feedback that serves as the basis for the latest NFLPA survey grades.",
-      "published": "2026-09-15T10:00:02Z",
+      "title": "Sources: Jets rookie WR Omar Cooper (ankle) week-to-week",
+      "url": "https://www.espn.com/nfl/story/_/id/49949341/sources-jets-rookie-wr-omar-cooper-ankle-week-week",
+      "summary": "Jets rookie wide receiver Omar Cooper Jr., who left New York's 23-10 Week 1 victory over the Tennessee Titans in the first quarter, suffered an ankle sprain and the MRI showed some positive news, sources told NFL Network's Ian Rapoport.",
+      "published": "2026-09-15T14:44:42Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYJ",
+        "TEN"
+      ]
+    },
+    {
+      "title": "2026 NFL pass rush, run stop, blocking win rate rankings",
+      "url": "https://www.espn.com/nfl/story/_/id/49742016/2026-win-rates-team-player-rankings-pass-rush-run-stop-blocking",
+      "summary": "Our win rate metrics stack the NFL's top teams and players in run blocking, run stopping, pass protection and pass rushing.",
+      "published": "2026-09-15T14:21:20Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Prisco's NFL Week 2 Power Rankings: Rams and Cowboys get a wake-up call, 49ers on the rise",
+      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-2-power-rankings/",
+      "summary": "Pete Prisco shares his Week 2 Power Rankings, including the Bears, Giants and Cardinals moving up",
+      "published": "Tue, 15 Sep 2026 14:26:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": [
-        "PIT",
-        "SEA",
+        "ARI",
+        "CHI",
+        "DAL",
+        "LA",
+        "NYG",
         "SF"
       ]
     },
     {
-      "title": "Kenneth Walker III, Patrick Mahomes lead Chiefs' win vs. Broncos",
-      "url": "https://www.espn.com/nfl/story/_/id/49947028/kenneth-walker-iii-patrick-mahomes-power-chiefs-win-vs-broncos",
-      "summary": "Quarterback Patrick Mahomes, making his return from a torn ACL, and running back Kenneth Walker III, making his Chiefs debut, powered Kansas City to a season-opening blowout win over Denver.",
-      "published": "2026-09-15T06:50:08Z",
-      "source": "ESPN NFL",
+      "title": "Kenneth Walker III and Chiefs run roughshod over Broncos; Michigan climbs CFB Power Rankings",
+      "url": "https://www.cbssports.com/nfl/news/kenneth-walker-chiefs-broncos-michigan-power-rankings/",
+      "summary": "Plus, what the 2027 NFL Draft could look like after Week 1",
+      "published": "Tue, 15 Sep 2026 12:55:54 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": [
         "DEN",
         "KC"
       ]
     },
     {
-      "title": "Bo Nix, Broncos drop opener after 'pretty pitiful' effort",
-      "url": "https://www.espn.com/nfl/story/_/id/49947012/bo-nix-broncos-drop-opener-pretty-pitiful-effort",
-      "summary": "Denver quarterback Bo Nix, when asked to sum up the Broncos' 31-10 season-opening loss to the Kansas City Chiefs on Monday, labeled the effort 'pretty pitiful' after an offseason of optimism placed them among Super Bowl favorites.",
-      "published": "2026-09-15T06:29:25Z",
-      "source": "ESPN NFL",
+      "title": "Six lessons learned from Week 1: Caleb Williams is taking another leap, don't forget about Trevor Lawrence",
+      "url": "https://www.cbssports.com/nfl/news/six-lessons-learned-from-nfl-week-1/",
+      "summary": "Plus, Kenneth Walker III might just be the answer to the Chiefs' biggest problem",
+      "published": "Tue, 15 Sep 2026 12:42:18 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "NFL Week 2 picks and score predictions: Bills top Lions in Thursday shootout, Seahawks suffer shocking loss",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-picks-score-predictions/",
+      "summary": "Here's your weekly dose of John Breech's NFL picks",
+      "published": "Tue, 15 Sep 2026 12:27:17 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "DET",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Chiefs vs. Broncos overreactions: Should Sean Payton reclaim play-calling duties? Patrick Mahomes fully back?",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-vs-broncos-overreactions-sean-payton-patrick-mahomes/",
+      "summary": "Are these storylines from Kansas City's 'Monday Night Football' win over Denver valid or mere overreactions?",
+      "published": "Tue, 15 Sep 2026 11:43:57 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": [
         "DEN",
         "KC"
       ]
+    },
+    {
+      "title": "These five rookies balled out in their NFL debuts, but is their early success sustainable?",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-rookies-week-1-standouts/",
+      "summary": "A closer look at snap counts, pressure rates, usage and other underlying numbers helps separate potentially sustainable rookie performances from one-game outliers",
+      "published": "Tue, 15 Sep 2026 11:32:19 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
     },
     {
       "title": "NFL Week 1 grades for all 32 teams: Chiefs earn an 'A' for destroying Broncos, Ravens roll to an 'A-'",
@@ -661,103 +728,6 @@
       "teams": [
         "CHI",
         "CLE"
-      ]
-    },
-    {
-      "title": "Giants vs. Cowboys: NFC East rivals square off on 'Sunday Night Football' in John Harbaugh's debut",
-      "url": "https://www.cbssports.com/nfl/news/giants-vs-cowboys-prediction-pick-odds-where-to-watch/",
-      "summary": "The league kicks off the first Sunday night of the season with a familiar matchup that now has plenty of new faces",
-      "published": "Sun, 13 Sep 2026 23:01:08 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Vikings rule out QB Kyler Murray with a concussion in Minnesota debut vs. Packers",
-      "url": "https://www.cbssports.com/nfl/news/vikings-rule-out-qb-kyler-murray-with-a-concussion-vs-packers/",
-      "summary": "Murray's debut ends early with him being ruled out after a late hit in the first quarter",
-      "published": "Sun, 13 Sep 2026 21:37:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "GB",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Bills vs. Texans takeaways: Josh Allen overcomes Houston defense in potential AFC championship preview",
-      "url": "https://www.cbssports.com/nfl/news/bills-texans-josh-allen-c-j-stroud/",
-      "summary": "Buffalo earned a dramatic 36-31 victory as Allen finally overcame his struggles in Houston and the Bills' defense delivered when it mattered most",
-      "published": "Sun, 13 Sep 2026 21:32:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "HOU"
-      ]
-    },
-    {
-      "title": "Steelers offense struggles vs. Falcons: Who's to blame, what needs fixing",
-      "url": "https://www.cbssports.com/nfl/news/steelers-offense-struggles-vs-falcons-whos-to-blame-what-needs-fixing/",
-      "summary": "Aaron Rodgers and Pittsburgh gained just 264 yards in a 20-13 win",
-      "published": "Sun, 13 Sep 2026 21:40:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Bears' wild win over Panthers ends with final score that's never happened before in NFL history",
-      "url": "https://www.cbssports.com/nfl/news/bears-panthers-final-score-scorigami/",
-      "summary": "Ladies and gentlemen, we have a scorigami!",
-      "published": "Sun, 13 Sep 2026 21:31:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "CHI"
-      ]
-    },
-    {
-      "title": "Deshaun Watson struggles in return as Browns leave Week 2 starting QB under evaluation",
-      "url": "https://www.cbssports.com/nfl/news/deshaun-browns-qb-todd-monken/",
-      "summary": "Monken defended Watson following Cleveland's 34-10 loss but said the Browns will \"evaluate everything\" before facing Tampa Bay",
-      "published": "Sun, 13 Sep 2026 21:21:27 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CLE"
-      ]
-    },
-    {
-      "title": "LOOK: Derrick Henry makes NFL history during Ravens' Week 1 showdown vs. Colts",
-      "url": "https://www.cbssports.com/nfl/news/derrick-henry-makes-nfl-history-ravens-week-1-vs-colts/",
-      "summary": "Henry reached a major milestone after two first-half scores in Week 1",
-      "published": "Sun, 13 Sep 2026 19:49:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "IND"
       ]
     }
   ],

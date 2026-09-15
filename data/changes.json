@@ -1,6 +1,79 @@
 {
-  "updated_at_utc": "2026-09-15T10:09:45.468962+00:00",
+  "updated_at_utc": "2026-09-15T15:01:08.386056+00:00",
   "items": [
+    {
+      "ts": "2026-09-15T15:01:08.386056+00:00",
+      "type": "NEWS",
+      "title": "Prisco's NFL Week 2 Power Rankings: Rams and Cowboys get a wake-up call, 49ers on the rise",
+      "detail": "Pete Prisco shares his Week 2 Power Rankings, including the Bears, Giants and Cardinals moving up",
+      "teams": [
+        "ARI",
+        "CHI",
+        "DAL",
+        "LA",
+        "NYG",
+        "SF"
+      ],
+      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-2-power-rankings/",
+      "source": "CBS Sports NFL"
+    },
+    {
+      "ts": "2026-09-15T15:01:08.386056+00:00",
+      "type": "NEWS",
+      "title": "Kenneth Walker III and Chiefs run roughshod over Broncos; Michigan climbs CFB Power Rankings",
+      "detail": "Plus, what the 2027 NFL Draft could look like after Week 1",
+      "teams": [
+        "DEN",
+        "KC"
+      ],
+      "url": "https://www.cbssports.com/nfl/news/kenneth-walker-chiefs-broncos-michigan-power-rankings/",
+      "source": "CBS Sports NFL"
+    },
+    {
+      "ts": "2026-09-15T15:01:08.386056+00:00",
+      "type": "NEWS",
+      "title": "Six lessons learned from Week 1: Caleb Williams is taking another leap, don't forget about Trevor Lawrence",
+      "detail": "Plus, Kenneth Walker III might just be the answer to the Chiefs' biggest problem",
+      "teams": [
+        "KC"
+      ],
+      "url": "https://www.cbssports.com/nfl/news/six-lessons-learned-from-nfl-week-1/",
+      "source": "CBS Sports NFL"
+    },
+    {
+      "ts": "2026-09-15T15:01:08.386056+00:00",
+      "type": "NEWS",
+      "title": "NFL Week 2 picks and score predictions: Bills top Lions in Thursday shootout, Seahawks suffer shocking loss",
+      "detail": "Here's your weekly dose of John Breech's NFL picks",
+      "teams": [
+        "BUF",
+        "DET",
+        "SEA"
+      ],
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-picks-score-predictions/",
+      "source": "CBS Sports NFL"
+    },
+    {
+      "ts": "2026-09-15T15:01:08.386056+00:00",
+      "type": "NEWS",
+      "title": "Chiefs vs. Broncos overreactions: Should Sean Payton reclaim play-calling duties? Patrick Mahomes fully back?",
+      "detail": "Are these storylines from Kansas City's 'Monday Night Football' win over Denver valid or mere overreactions?",
+      "teams": [
+        "DEN",
+        "KC"
+      ],
+      "url": "https://www.cbssports.com/nfl/news/chiefs-vs-broncos-overreactions-sean-payton-patrick-mahomes/",
+      "source": "CBS Sports NFL"
+    },
+    {
+      "ts": "2026-09-15T15:01:08.386056+00:00",
+      "type": "NEWS",
+      "title": "These five rookies balled out in their NFL debuts, but is their early success sustainable?",
+      "detail": "A closer look at snap counts, pressure rates, usage and other underlying numbers helps separate potentially sustainable rookie performances from one-game outliers",
+      "teams": [],
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-rookies-week-1-standouts/",
+      "source": "CBS Sports NFL"
+    },
     {
       "ts": "2026-09-15T05:15:01.110773+00:00",
       "type": "GAME",
@@ -1152,48 +1225,6 @@
       "game_id": "2026_01_SF_LA",
       "title": "SF @ LA",
       "detail": "FINAL \u00b7 SF 27 \u2013 7 LA"
-    },
-    {
-      "ts": "2026-09-11T04:05:25.192068+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_TB_CIN",
-      "title": "TB @ CIN",
-      "detail": "SCHEDULED \u00b7 TB 0 \u2013 0 CIN"
-    },
-    {
-      "ts": "2026-09-11T04:05:25.192068+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_NO_DET",
-      "title": "NO @ DET",
-      "detail": "SCHEDULED \u00b7 NO 0 \u2013 0 DET"
-    },
-    {
-      "ts": "2026-09-11T04:05:25.192068+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_NYJ_TEN",
-      "title": "NYJ @ TEN",
-      "detail": "SCHEDULED \u00b7 NYJ 0 \u2013 0 TEN"
-    },
-    {
-      "ts": "2026-09-11T04:05:25.192068+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_BAL_IND",
-      "title": "BAL @ IND",
-      "detail": "SCHEDULED \u00b7 BAL 0 \u2013 0 IND"
-    },
-    {
-      "ts": "2026-09-11T04:05:25.192068+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_ATL_PIT",
-      "title": "ATL @ PIT",
-      "detail": "SCHEDULED \u00b7 ATL 0 \u2013 0 PIT"
-    },
-    {
-      "ts": "2026-09-11T04:05:25.192068+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_CHI_CAR",
-      "title": "CHI @ CAR",
-      "detail": "SCHEDULED \u00b7 CHI 0 \u2013 0 CAR"
     }
   ]
 }
