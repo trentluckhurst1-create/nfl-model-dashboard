@@ -1,6 +1,36 @@
 {
-  "updated_at_utc": "2026-09-14T22:01:06.460959+00:00",
+  "updated_at_utc": "2026-09-15T00:30:41.137184+00:00",
   "items": [
+    {
+      "ts": "2026-09-15T00:30:41.137184+00:00",
+      "type": "GAME",
+      "game_id": "2026_01_DEN_KC",
+      "title": "DEN @ KC",
+      "detail": "LIVE \u00b7 DEN 0 \u2013 7 KC"
+    },
+    {
+      "ts": "2026-09-15T00:30:41.137184+00:00",
+      "type": "NEWS",
+      "title": "Lions' Isiah Pacheco undergoes back surgery, expected to miss significant time",
+      "detail": "Pacheco reportedly faces a 12-week recovery and could return in December",
+      "teams": [
+        "DET"
+      ],
+      "url": "https://www.cbssports.com/nfl/news/isiah-pacheco-injury-update-lions/",
+      "source": "CBS Sports NFL"
+    },
+    {
+      "ts": "2026-09-15T00:30:41.137184+00:00",
+      "type": "NEWS",
+      "title": "Broncos vs. Chiefs odds, picks, predictions: Betting preview, best bets for Monday Night Football, NFL Week 1",
+      "detail": "Best bets and betting preview for Chiefs vs. Broncos on Monday Night Football",
+      "teams": [
+        "DEN",
+        "KC"
+      ],
+      "url": "https://www.cbssports.com/betting/news/broncos-chiefs-odds-picks-predictions-betting-preview-best-bets-monday-night-football-nfl/",
+      "source": "CBS Sports NFL"
+    },
     {
       "ts": "2026-09-14T22:01:06.460959+00:00",
       "type": "NEWS",
@@ -1154,27 +1184,6 @@
       "game_id": "2026_01_MIA_LV",
       "title": "MIA @ LV",
       "detail": "SCHEDULED \u00b7 MIA 0 \u2013 0 LV"
-    },
-    {
-      "ts": "2026-09-11T04:05:25.192068+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_GB_MIN",
-      "title": "GB @ MIN",
-      "detail": "SCHEDULED \u00b7 GB 0 \u2013 0 MIN"
-    },
-    {
-      "ts": "2026-09-11T04:05:25.192068+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_WAS_PHI",
-      "title": "WAS @ PHI",
-      "detail": "SCHEDULED \u00b7 WAS 0 \u2013 0 PHI"
-    },
-    {
-      "ts": "2026-09-11T04:05:25.192068+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_ARI_LAC",
-      "title": "ARI @ LAC",
-      "detail": "SCHEDULED \u00b7 ARI 0 \u2013 0 LAC"
     }
   ]
 }

@@ -1,25 +1,36 @@
 {
-  "updated_at_utc": "2026-09-14T22:01:11.638785+00:00",
-  "checked_at_utc": "2026-09-14T22:01:11.638785+00:00",
+  "updated_at_utc": "2026-09-15T00:30:44.681760+00:00",
+  "checked_at_utc": "2026-09-15T00:30:44.681760+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 15,
+      "items": 18,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 29
+      "items": 27
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 22,
+      "items": 23,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Pair Of NFC North Stars Awarded 'Gronk & Jules' Inaugural Employees Of The Week",
+      "url": "https://www.foxsports.com/stories/nfl/gronk-jules-caleb-williams-jahmyr-gibbs",
+      "summary": "On the latest episode of \"Jules & Gronk,\" Edelman and Gronkowski handed out their \"Employees of the Week\" honors, and each host picked one star from teams in the NFC North.",
+      "published": "Mon, 14 Sep 2026 18:39:15 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "2026 NFL DROY Odds: Sonny Styles Surges After Impressive Debut",
       "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-defensive-rookie-year-odds",
@@ -303,6 +314,84 @@
       ]
     },
     {
+      "title": "Seahawks say Sam Darnold has 'unique soft-tissue' injury",
+      "url": "https://www.espn.com/nfl/story/_/id/49944756/seahawks-say-sam-darnold-unique-soft-tissue-injury",
+      "summary": "Seahawks QB Sam Darnold is dealing with what the team described as a \"very unique soft-tissue\" injury that is not expected to sideline him long term.",
+      "published": "2026-09-15T00:17:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SEA"
+      ]
+    },
+    {
+      "title": "Sources: Drew Brees mulled playing for Broncos in AFC title game",
+      "url": "https://www.espn.com/nfl/story/_/id/49927602/sources-drew-brees-mulled-playing-broncos-afc-title-game",
+      "summary": "Broncos assistant coaches had discussions with Drew Brees about the former star QB coming out of retirement to play for Denver in last season's AFC Championship Game, sources told ESPN.",
+      "published": "2026-09-15T00:07:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "DEN"
+      ]
+    },
+    {
+      "title": "Eagles placing LG Landon Dickerson (knee) on injured reserve",
+      "url": "https://www.espn.com/nfl/story/_/id/49944451/philadelphia-eagles-placing-guard-landon-dickerson-injured-reserve",
+      "summary": "The Eagles are placing left guard Landon Dickerson on injured reserve because of a knee injury, a source told ESPN's Adam Schefter, meaning he will miss at least the next four games.",
+      "published": "2026-09-15T00:17:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Cowboys' Overshown, Hooker to miss time with injuries, coach says",
+      "url": "https://www.espn.com/nfl/story/_/id/49943877/cowboys-overshown-hooker-miss-injuries-coach-says",
+      "summary": "The Cowboys will likely be without starting linebacker DeMarvion Overshown and safety Malik Hooker for the next two games, according to coach Brian Schottenheimer.",
+      "published": "2026-09-14T22:39:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Source: Lions' Pacheco to miss 12 weeks after back surgery",
+      "url": "https://www.espn.com/nfl/story/_/id/49943755/source-lions-pacheco-significant-back-surgery",
+      "summary": "Lions running back Isiah Pacheco is expected to miss 12 weeks after recently undergoing back surgery, a source told the NFL Network's Ian Rapoport.",
+      "published": "2026-09-14T22:47:36Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "Patriots' Kraft says Macklemore performance would cross line",
+      "url": "https://www.espn.com/nfl/story/_/id/49943754/patriots-kraft-says-macklemore-performance-cross-line",
+      "summary": "Robert Kraft said he had Macklemore removed as an opening act for Ed Sheeran's shows at Gillette Stadium due in part to a \"history of antisemitic rhetoric and imagery that we believe has been deeply offensive and hurtful to the Jewish community.\"",
+      "published": "2026-09-14T23:47:08Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
       "title": "New York Jets, Giants both start 1-0 for first time since 2009",
       "url": "https://www.espn.com/nfl/story/_/id/49942835/new-york-jets-giants-start-1-0-record-first-2009",
       "summary": "The summer of New York is gaining strength as the Jets and Giants both started off their respective NFL seasons hot.",
@@ -320,7 +409,7 @@
       "title": "Chargers WR Ladd McConkey day-to-day with rib injury",
       "url": "https://www.espn.com/nfl/story/_/id/49943416/chargers-wr-ladd-mcconkey-day-day-rib-injury",
       "summary": "Chargers coach Jim Harbaugh said Monday that wide receiver Ladd McConkey has a rib injury and is considered day-to-day.",
-      "published": "2026-09-14T21:45:50Z",
+      "published": "2026-09-14T22:19:10Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -464,49 +553,41 @@
       ]
     },
     {
-      "title": "ManningCast 2026 schedule: How to watch MNF games and guests",
-      "url": "https://www.espn.com/nfl/story/_/id/34636537/maningcast-schedule-monday-night-football-guests-mnf",
-      "summary": "Monday Night Football with Eli and Peyton Manning is back. Here's the 2026 game lineup, special guests and more.",
-      "published": "2026-09-14T18:21:53Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL depth charts for all 32 teams for 2026 season",
-      "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
-      "summary": "Here are the latest NFL depth charts for all 32 teams.",
-      "published": "2026-09-14T17:17:15Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
-      "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
-      "summary": "The Steelers QB, who is entering his 22nd season in the league, is chasing records, and ESPN will be chronicling his \"last rodeo.\"",
-      "published": "2026-09-14T16:38:43Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
       "title": "Chiefs vs. Broncos: Division rivals Patrick Mahomes, Bo Nix make their return in Monday night matchup",
       "url": "https://www.cbssports.com/nfl/news/chiefs-vs-broncos-where-to-watch-odds-prediction/",
       "summary": "Patrick Mahomes and Bo Nix return from major injuries in an AFC West showdown",
-      "published": "Mon, 14 Sep 2026 21:45:54 +0000",
+      "published": "Mon, 14 Sep 2026 23:14:12 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
+      "teams": [
+        "DEN",
+        "KC"
+      ]
+    },
+    {
+      "title": "Lions' Isiah Pacheco undergoes back surgery, expected to miss significant time",
+      "url": "https://www.cbssports.com/nfl/news/isiah-pacheco-injury-update-lions/",
+      "summary": "Pacheco reportedly faces a 12-week recovery and could return in December",
+      "published": "Mon, 14 Sep 2026 22:59:58 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "Broncos vs. Chiefs odds, picks, predictions: Betting preview, best bets for Monday Night Football, NFL Week 1",
+      "url": "https://www.cbssports.com/betting/news/broncos-chiefs-odds-picks-predictions-betting-preview-best-bets-monday-night-football-nfl/",
+      "summary": "Best bets and betting preview for Chiefs vs. Broncos on Monday Night Football",
+      "published": "Mon, 14 Sep 2026 22:11:20 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": [
         "DEN",
         "KC"
@@ -834,57 +915,6 @@
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
-      "teams": [
-        "CLE"
-      ]
-    },
-    {
-      "title": "LOOK: Derrick Henry makes NFL history during Ravens' Week 1 showdown vs. Colts",
-      "url": "https://www.cbssports.com/nfl/news/derrick-henry-makes-nfl-history-ravens-week-1-vs-colts/",
-      "summary": "Henry reached a major milestone after two first-half scores in Week 1",
-      "published": "Sun, 13 Sep 2026 19:49:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "IND"
-      ]
-    },
-    {
-      "title": "How to bet on 2026 NFL Week 1: Betting guide, odds, trends, game previews, schedule, promos, more offers",
-      "url": "https://www.cbssports.com/betting/news/how-to-bet-on-2026-nfl-week-1-betting-guide-odds-trends-game-previews-schedule-promos-more-offers/",
-      "summary": "Our NFL betting guide tells you where to bet on NFL Week 1, while providing odds, betting trends, schedule, promo offers, and more",
-      "published": "Sun, 13 Sep 2026 18:45:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "49ers rookie De'Zhaun Stribling to miss at least a month with ankle injury",
-      "url": "https://www.cbssports.com/nfl/news/dezhaun-stribling-injury-update-ankle/",
-      "summary": "The No. 33 overall pick built considerable preseason momentum, but an extended absence could derail his Offensive Rookie of the Year campaign",
-      "published": "Sun, 13 Sep 2026 17:46:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Browns vs. Jags game to see temperatures up to 105 degrees: Will extreme heat play a factor in Jacksonville?",
-      "url": "https://www.cbssports.com/nfl/news/browns-vs-jags-forecast-to-see-temperatures-up-to-105-degrees/",
-      "summary": "It's a hot one as Cleveland and Jacksonville kick off their season in Florida",
-      "published": "Sun, 13 Sep 2026 17:07:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
       "teams": [
         "CLE"
       ]
