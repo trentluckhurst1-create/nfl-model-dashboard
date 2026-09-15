@@ -1,333 +1,31 @@
 {
-  "updated_at_utc": "2026-09-15T15:01:11.716864+00:00",
-  "checked_at_utc": "2026-09-15T15:01:11.716864+00:00",
+  "updated_at_utc": "2026-09-15T18:54:24.745945+00:00",
+  "checked_at_utc": "2026-09-15T18:54:49.946044+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 28
+      "items": 29
     },
     "FOX Sports NFL": {
-      "ok": true,
-      "items": 25,
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout",
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "NFL Catchup: Kyler Murray In Concussion Protocol; Eagles Place Landon Dickerson On IR",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-eagles-lose-dickerson-ir-murrays-status-unsure-week-2",
-      "summary": "Here's the latest from around the NFL on Monday.",
-      "published": "Tue, 15 Sep 2026 01:40:18 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "2026 NFL MVP Odds: Josh Allen Favored; Caleb Williams Rises",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
-      "summary": "After a close race last season, who is the early favorite to win the 2026 NFL MVP? See the odds.",
-      "published": "Tue, 15 Sep 2026 00:45:30 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 Super Bowl Odds: Ravens, Chiefs Climb After Dominant Wins; Rams Favored",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "summary": "The Chiefs are climbing after a dominant Week 1 win, but the Rams remain atop the Super Bowl oddsboard. See the latest odds.",
-      "published": "Tue, 15 Sep 2026 00:17:30 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "KC",
-        "LA"
-      ]
-    },
-    {
-      "title": "2026 NFL Power Rankings Week 2: Which Teams Suffered The Worst Opening Losses?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-2-which-teams-suffered-worst-opening-losses",
-      "summary": "Ralph Vacchiano updates the NFL hierarchy after each week of the 2026 season.",
-      "published": "Mon, 14 Sep 2026 23:53:36 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 1 Defining Stats: Record-Setting Scoring, Historic Performances",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-1-defining-stats-record-setting-scoring-historic-performances",
-      "summary": "From record-setting scoring across the league to historic performances from the NFL\u2019s biggest stars, check out the defining stats from Week 1.",
-      "published": "Mon, 14 Sep 2026 23:52:07 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 1 All-Stars: Josh Allen Or Caleb Williams At QB? Which RBs Make The Team?",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-1-all-stars-josh-allen-caleb-williams-qb-which-rbs-make-team",
-      "summary": "Week 1 set a scoring record, making it even tougher to pick the best of the best this week. Here are our Week 1 All-Stars.",
-      "published": "Mon, 14 Sep 2026 23:38:26 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Best And Worst: From The Vikings' Pressure Cooker To The Rams\u2019 Head-Scratcher",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-1-superlatives-cowboys-defense-vikings-defense-sean-mcvay-drake-maye",
-      "summary": "The opening week of the NFL season delivered stunning upsets and crushing heartbreaks. We drill down to pick the best and worst of Week 1.",
-      "published": "Mon, 14 Sep 2026 23:25:52 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Patrick Mahomes Gets Win In Return: 3 Takeaways As Chiefs Beat Broncos",
-      "url": "https://www.foxsports.com/stories/nfl/patrick-mahomes-gets-win-return-3-takeaways-chiefs-beat-broncos",
-      "summary": "The Kansas City Chiefs celebrated Patrick Mahomes' return with a win over the Denver Broncos on Monday night.",
-      "published": "Mon, 14 Sep 2026 23:15:01 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "KC"
-      ]
-    },
-    {
-      "title": "The Week 1 Plays That Stood Out, From Josh Allen's Heroics To Kyle Monangai's TD",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-1-best-plays-josh-allen-kyle-monangai",
-      "summary": "This week, we\u2019ll look at Josh Allen\u2019s game-winner in Houston, Washington\u2019s failed two-point conversion in Philadelphia, and the biggest play of Chicago\u2019s 59-point outburst.",
-      "published": "Mon, 14 Sep 2026 23:13:48 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Jalen Hurts Shared What He And Tom Brady Talked About Before Facing Commanders",
-      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-shares-advice-he-got-from-tom-brady-before-win-over-commanders",
-      "summary": "Jalen Hurts delivered another signature Week 1 performance for the Philadelphia Eagles, and he credited part of it to a conversation with Tom Brady before kickoff.",
-      "published": "Mon, 14 Sep 2026 21:33:57 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "PHI",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Pair Of NFC North Stars Awarded 'Gronk & Jules' Inaugural Employees Of The Week",
-      "url": "https://www.foxsports.com/stories/nfl/gronk-jules-caleb-williams-jahmyr-gibbs",
-      "summary": "On the latest episode of \"Jules & Gronk,\" Edelman and Gronkowski handed out their \"Employees of the Week\" honors, and each host picked one star from teams in the NFC North.",
-      "published": "Mon, 14 Sep 2026 18:39:15 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL DROY Odds: Sonny Styles Surges After Impressive Debut",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-defensive-rookie-year-odds",
-      "summary": "David Bailey remains the Defensive Rookie of the Year favorite, but one former Ohio State star is rising after an impressive debut. See the odds.",
-      "published": "Mon, 14 Sep 2026 17:36:07 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Kyler Murray\u2019s Availability For Week 2 Uncertain As QB Enters Concussion Protocol",
-      "url": "https://www.foxsports.com/stories/nfl/kyler-murrays-availability-week-2-uncertain-qb-enters-concussion-protocol",
-      "summary": "Minnesota Vikings quarterback Kyler Murray began the week in the NFL concussion protocol in continuing his recovery from an illegal hit to the head that forced him out of his first game with the team in the first quarter.",
-      "published": "Mon, 14 Sep 2026 17:35:10 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "2026 NFL Defense Rankings: Team Pass and Rush Stats",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defense-rankings-team-pass-rush-stats",
-      "summary": "See where every NFL team ranks on defense through Week 1 2026. Total, passing, rushing, scoring, red zone, and third down rankings.",
-      "published": "Mon, 14 Sep 2026 16:39:41 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Big Bets Report: Bettor Takes Home $2.1 Million After Texas' Comeback Win",
-      "url": "https://www.foxsports.com/stories/nfl/big-bets-report-bettor-takes-home-2-1-million-after-texas-comeback-win",
-      "summary": "One bettor nearly doubled their $1.2 million bet in an epic sweat during Ohio State-Texas. That and so much more from Patrick Everson.",
-      "published": "Mon, 14 Sep 2026 15:41:08 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL OROY Odds: Love Favored, Price Surges",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-offensive-rookie-year-odds",
-      "summary": "Jeremiyah Love remains the Offensive Rookie of the Year favorite after Week 1 but a new name is surging up the oddsboard. See the latest.",
-      "published": "Mon, 14 Sep 2026 15:39:37 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Deshaun Watson To Start Week 2 For Browns After Coaches Saw 'Good Things' On Film",
-      "url": "https://www.foxsports.com/stories/nfl/deshaun-watson-cleveland-browns-todd-monken-qb-week-2",
-      "summary": "Deshaun Watson\u2019s struggles won\u2019t cost him his starting job. Well, at least not yet. Despite a blowout loss to the Jacksonville Jaguars, the Cleveland Browns are sticking with their QB1.",
-      "published": "Mon, 14 Sep 2026 15:39:30 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CLE",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Sean McVay: Myles Garrett's Week 1 Play Made Knee Surgery The Obvious Answer",
-      "url": "https://www.foxsports.com/stories/nfl/los-angeles-rams-myles-garrett-knee-surgery-49ers",
-      "summary": "The Rams spent training camp trying to manage Myles Garrett\u2019s knee injury, and actual game action proved it was time to go under the knife.",
-      "published": "Mon, 14 Sep 2026 13:45:30 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 2: Lines, Spreads, Results For All 16 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-2-lines-spreads-results-all-16-games",
-      "summary": "Check out the early odds, spreads and totals for all 16 Week 2 games.",
-      "published": "Mon, 14 Sep 2026 13:37:18 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2027 NFL Draft No. 1 Pick Odds: Manning Favored; Could Smith Challenge?",
-      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
-      "summary": "Could the nation's top skill player challenge Arch Manning for No. 1 in the 2027 NFL Draft? See the latest odds.",
-      "published": "Mon, 14 Sep 2026 13:24:32 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Offenses Combine For One Of Highest-Scoring Opening Weeks In History",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-offenses-combine-one-highest-scoring-opening-weeks-history",
-      "summary": "NFL offenses didn\u2019t need any time to shake off the rust during Week 1.",
-      "published": "Mon, 14 Sep 2026 12:44:03 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL, CFB Weekend Betting Recap: Bettors Enjoy 'Champagne-Popping' Sunday",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-cfb-weekend-betting-recap-bettors-enjoy-champagne-popping-sunday",
-      "summary": "It was a celebratory NFL Week 1 for bettors across the nation. Patrick Everson recaps the NFL and CFB betting weekend.",
-      "published": "Mon, 14 Sep 2026 11:18:38 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Monday Morning NFL Top 10 Rankings: A New No. 1 Emerges From Week 1",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-top-10-rankings-week-1-monday-morning",
-      "summary": "It's a new NFL season, but the list of Super Bowl contenders might be very similar to last year's.",
-      "published": "Mon, 14 Sep 2026 10:10:07 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "The Eagles' New Offense Unleashes Jalen Hurts; Ben Johnson Delivers On The Hype",
-      "url": "https://www.foxsports.com/stories/nfl/eagles-set-up-jalen-hurts-succeed-again-ben-johnson-living-up-hype",
-      "summary": "Philly finally set up its QB to succeed, while the Bears' offense looks like the NFL's best. Plus, Tom Brady reveals a piece of NFL history.",
-      "published": "Mon, 14 Sep 2026 09:10:34 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CHI",
-        "PHI"
-      ]
-    },
-    {
-      "title": "How to Watch Broncos vs Chiefs: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-denver-broncos-vs-kansas-city-chiefs-tv-channel-live-stream-september-14-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 1 Denver Broncos and Kansas City Chiefs game.",
-      "published": "Mon, 14 Sep 2026 07:55:22 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "KC"
-      ]
-    },
-    {
       "title": "Sources: Jets rookie WR Omar Cooper (ankle) week-to-week",
       "url": "https://www.espn.com/nfl/story/_/id/49949341/sources-jets-rookie-wr-omar-cooper-ankle-week-week",
       "summary": "Jets rookie wide receiver Omar Cooper Jr., who left New York's 23-10 Week 1 victory over the Tennessee Titans in the first quarter, suffered an ankle sprain and the MRI showed some positive news, sources told NFL Network's Ian Rapoport.",
-      "published": "2026-09-15T14:44:42Z",
+      "published": "2026-09-15T15:11:29Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -338,21 +36,34 @@
       ]
     },
     {
-      "title": "2026 NFL pass rush, run stop, blocking win rate rankings",
-      "url": "https://www.espn.com/nfl/story/_/id/49742016/2026-win-rates-team-player-rankings-pass-rush-run-stop-blocking",
-      "summary": "Our win rate metrics stack the NFL's top teams and players in run blocking, run stopping, pass protection and pass rushing.",
-      "published": "2026-09-15T14:21:20Z",
-      "source": "ESPN NFL",
+      "title": "Mike Tomlin invokes infamous 'Browns is the Browns' line after Cleveland loss, Todd Monken responds",
+      "url": "https://www.cbssports.com/nfl/news/browns-todd-monken-mike-tomlin/",
+      "summary": "Tomlin used his NBC debut to take a familiar shot at his former AFC North rival, prompting new Browns coach Todd Monken to push back",
+      "published": "Tue, 15 Sep 2026 16:01:41 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
+      "teams": [
+        "CLE"
+      ]
+    },
+    {
+      "title": "2026 NFL Week 2 injury panic meter: Myles Garrett, A.J. Brown, Sam Darnold sidelined with lower body issues",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-2-injury-panic-meter-myles-garrett-a-j-brown-sam-darnold/",
+      "summary": "Gauging the outlook for some of the league's biggest Week 1 injuries",
+      "published": "Tue, 15 Sep 2026 15:59:23 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
       "teams": []
     },
     {
       "title": "Prisco's NFL Week 2 Power Rankings: Rams and Cowboys get a wake-up call, 49ers on the rise",
       "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-2-power-rankings/",
       "summary": "Pete Prisco shares his Week 2 Power Rankings, including the Bears, Giants and Cardinals moving up",
-      "published": "Tue, 15 Sep 2026 14:26:38 +0000",
+      "published": "Tue, 15 Sep 2026 16:19:27 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -714,20 +425,6 @@
       "teams": [
         "DAL",
         "NYG"
-      ]
-    },
-    {
-      "title": "NFL Week 1 winners, losers: Deshaun Watson disastrous in Browns offense, Bears light up scoreboard",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-1-winners-losers-deshaun-watson/",
-      "summary": "Caleb Williams accounted for four touchdowns as Chicago made an emphatic statement, while Watson could already be running out of time in Cleveland",
-      "published": "Mon, 14 Sep 2026 00:00:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "CLE"
       ]
     }
   ],
