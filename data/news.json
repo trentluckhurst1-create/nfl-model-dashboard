@@ -1,25 +1,39 @@
 {
-  "updated_at_utc": "2026-09-15T21:56:03.388776+00:00",
-  "checked_at_utc": "2026-09-15T21:56:03.388776+00:00",
+  "updated_at_utc": "2026-09-16T00:03:46.675844+00:00",
+  "checked_at_utc": "2026-09-16T00:03:46.675844+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 7,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 29
+      "items": 30
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 17,
+      "items": 18,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Favorite 'Dogs: Back UNC At Clemson; Jets Over Packers",
+      "url": "https://www.foxsports.com/stories/nfl/will-hill-favorite-underdogs-cfb-week-3-nfl-week-2-2026",
+      "summary": "Will Hill is backing \"Chapel Bill\" to lead his Tar Heels over the Tigers and the Jets to pull the upset over the Packers. Here's why.",
+      "published": "Tue, 15 Sep 2026 19:04:13 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "NYJ"
+      ]
+    },
     {
       "title": "Upon Further Review: The Chiefs' Jumbo Commitment To Run Game Pays Dividends",
       "url": "https://www.foxsports.com/stories/nfl/upon-further-review-chiefs-jumbo-commitment-run-game-pays-dividends",
@@ -245,6 +259,32 @@
       ]
     },
     {
+      "title": "Tisch Blodgett: Transfer of Giants ownership shares 'done'",
+      "url": "https://www.espn.com/nfl/story/_/id/49952859/tisch-blodgett-transfer-giants-ownership-shares-done",
+      "summary": "The transfer of shares from New York Giants co-owners Steve, Laurie and Jonathan Tisch to their children's trusts is \"done,\" Carolyn Tisch Blodgett told Front Office Sports at an event in New York on Tuesday.",
+      "published": "2026-09-16T00:00:17Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "49ers find needed balance in run game with McCaffrey, Black",
+      "url": "https://www.espn.com/nfl/story/_/id/49935565/san-francisco-49ers-christian-mccaffrey-kaelon-black-running-back-balance",
+      "summary": "McCaffrey had four fewer carries in Week 1 than Black, San Francisco's rookie RB2. What should we expect from this backfield going forward?",
+      "published": "2026-09-15T22:18:45Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
       "title": "Ravens cut kicker Moody after Loop's strong season opener",
       "url": "https://www.espn.com/nfl/story/_/id/49952085/ravens-cut-kicker-moody-loop-strong-season-opener",
       "summary": "The Ravens released Jake Moody from the practice squad after an impressive performance from kicker Tyler Loop in Sunday's season opener.",
@@ -261,7 +301,7 @@
       "title": "Panthers waive WR Horn, sign LB Dodson from practice squad",
       "url": "https://www.espn.com/nfl/story/_/id/49952014/panthers-waive-wr-horn-sign-lb-dodson-practice-squad",
       "summary": "The Panthers waived receiver Jimmy Horn Jr. on Tuesday and signed Tyrel Dodson from the practice squad.",
-      "published": "2026-09-15T21:16:53Z",
+      "published": "2026-09-15T21:59:10Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -684,6 +724,19 @@
       "teams": [
         "GB",
         "MIN"
+      ]
+    },
+    {
+      "title": "Titans' fresh start produces one of their most embarrassing losses yet",
+      "url": "https://www.cbssports.com/nfl/news/titans-loss-to-jets-cam-ward-robert-saleh/",
+      "summary": "Tennessee changed its coach, roster, logo and uniforms, but a 23-10 loss to New York exposed familiar problems across every phase of the game",
+      "published": "Mon, 14 Sep 2026 02:54:24 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "TEN"
       ]
     }
   ],
