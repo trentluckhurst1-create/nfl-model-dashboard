@@ -1,25 +1,75 @@
 {
-  "updated_at_utc": "2026-09-16T14:20:44.946733+00:00",
-  "checked_at_utc": "2026-09-16T14:20:44.946733+00:00",
+  "updated_at_utc": "2026-09-16T18:16:10.781894+00:00",
+  "checked_at_utc": "2026-09-16T18:16:10.781894+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 1,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 29
+      "items": 30
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 20,
+      "items": 19,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "2026 NFL Odds: Which Betting Streaks Will Continue?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-which-betting-streaks-will-continue",
+      "summary": "There are a few team betting streaks \u2014 good ones and bad ones \u2014 that are taking place in the NFL right now. Check 'em out.",
+      "published": "Wed, 16 Sep 2026 13:21:12 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "West Coast Read: Can Sean McVay Turn Rams' Nightmare Into Expected Dream Team?",
+      "url": "https://www.foxsports.com/stories/nfl/sean-mcvay-rams-dream-team",
+      "summary": "Will the Rams get back on track? Why are the Seahawks bullish on Drew Lock? We examine in the latest West Coast Read.",
+      "published": "Wed, 16 Sep 2026 12:16:34 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "SEA"
+      ]
+    },
+    {
+      "title": "QB Notebook: Lamar Jackson Primed For An MVP Season; What To Make Of Justin Herbert",
+      "url": "https://www.foxsports.com/stories/nfl/qb-notebook-lamar-jackson-primed-mvp-run-justin-herbert",
+      "summary": "The Ravens have finally put their star QB in an offense that maximizes his ability. Will the Chargers do the same for Justin Herbert?",
+      "published": "Wed, 16 Sep 2026 10:52:18 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL",
+        "LAC"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 2: Lines, Spreads, Results For All 16 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-2-lines-spreads-results-all-16-games",
+      "summary": "Check out the early odds, spreads and totals for all 16 Week 2 games.",
+      "published": "Wed, 16 Sep 2026 10:41:55 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "NFL Catchup: Ben Johnson Explains Bears Scoring Outburst; Latest Injury Updates",
       "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-ben-johnson-explains-bears-scoring-outburst-latest-injury-updates",
@@ -208,81 +258,112 @@
       "teams": []
     },
     {
-      "title": "NFL Week 1 All-Stars: Josh Allen Or Caleb Williams At QB? Which RBs Make The Team?",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-1-all-stars-josh-allen-caleb-williams-qb-which-rbs-make-team",
-      "summary": "Week 1 set a scoring record, making it even tougher to pick the best of the best this week. Here are our Week 1 All-Stars.",
-      "published": "Mon, 14 Sep 2026 23:38:26 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Best And Worst: From The Vikings' Pressure Cooker To The Rams\u2019 Head-Scratcher",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-1-superlatives-cowboys-defense-vikings-defense-sean-mcvay-drake-maye",
-      "summary": "The opening week of the NFL season delivered stunning upsets and crushing heartbreaks. We drill down to pick the best and worst of Week 1.",
-      "published": "Mon, 14 Sep 2026 23:25:52 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Bills set to open new stadium hosting the Lions in a prime-time matchup",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872932",
+      "summary": "\u2014 The new car smell of the Buffalo Bills\u2019 Highmark Stadium has already worn off on Josh Allen a little more than a month since the gleaming $2.1...",
+      "published": "2026-09-16T17:15:30Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LA",
-        "MIN"
+        "BUF",
+        "DET"
       ]
     },
     {
-      "title": "Patrick Mahomes Gets Win In Return: 3 Takeaways As Chiefs Beat Broncos",
-      "url": "https://www.foxsports.com/stories/nfl/patrick-mahomes-gets-win-return-3-takeaways-chiefs-beat-broncos",
-      "summary": "The Kansas City Chiefs celebrated Patrick Mahomes' return with a win over the Denver Broncos on Monday night.",
-      "published": "Mon, 14 Sep 2026 23:15:01 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "KC"
-      ]
-    },
-    {
-      "title": "The Week 1 Plays That Stood Out, From Josh Allen's Heroics To Kyle Monangai's TD",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-1-best-plays-josh-allen-kyle-monangai",
-      "summary": "This week, we\u2019ll look at Josh Allen\u2019s game-winner in Houston, Washington\u2019s failed two-point conversion in Philadelphia, and the biggest play of Chicago\u2019s 59-point outburst.",
-      "published": "Mon, 14 Sep 2026 23:13:48 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Jalen Hurts Shared What He And Tom Brady Talked About Before Facing Commanders",
-      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-shares-advice-he-got-from-tom-brady-before-win-over-commanders",
-      "summary": "Jalen Hurts delivered another signature Week 1 performance for the Philadelphia Eagles, and he credited part of it to a conversation with Tom Brady before kickoff.",
-      "published": "Mon, 14 Sep 2026 21:33:57 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "PHI",
-        "WAS"
-      ]
-    },
-    {
-      "title": "NFL Week 2 latest intel, buzz questions, news, fantasy tips",
-      "url": "https://www.espn.com/nfl/story/_/id/49941231/week-2-buzz-fantasy-predictions-graziano-fowler-2026",
-      "summary": "What's the latest for three teams dealing with QB injuries? What are we hearing on the Rams and Chargers after bad losses? And which Week 1 debuts stood out?",
-      "published": "2026-09-16T12:59:55Z",
+      "title": "Falcons QB unclear with injured Cooper Rush, Tua Tagovailoa",
+      "url": "https://www.espn.com/nfl/story/_/id/49957850/falcons-qb-uncertain-injured-cooper-rush-tua-tagovailoa",
+      "summary": "Falcons coach Kevin Stefanski said he's \"not ruling anybody out\" when it comes to which QB is starting against the Panthers on Sunday.",
+      "published": "2026-09-16T17:32:30Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "LA",
-        "LAC"
+        "ATL",
+        "CAR"
+      ]
+    },
+    {
+      "title": "Browns QB Watson: Focus on winning, not job security",
+      "url": "https://www.espn.com/nfl/story/_/id/49957751/focus-wins-not-keeping-job-fan-reception",
+      "summary": "Browns quarterback Deshaun Watson said Wednesday that his focus is on getting a win in Week 2, not his job security or the potential fan reception awaiting him in the team's home opener in Week 3.",
+      "published": "2026-09-16T17:15:46Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CLE"
+      ]
+    },
+    {
+      "title": "Week 2 NFL betting promos: Get almost $5,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/week-2-nfl-betting-promos-get-almost-5000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 2 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Wed, 16 Sep 2026 18:00:31 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Ranking 5 NFL teams that need a win the most in Week 2, including the Cowboys and Patriots",
+      "url": "https://www.cbssports.com/nfl/news/ranking-5-nfl-teams-need-a-win-the-most-in-week-2/",
+      "summary": "It's already a make-or-break week for some of these NFL teams",
+      "published": "Wed, 16 Sep 2026 17:15:33 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "NE"
+      ]
+    },
+    {
+      "title": "How Tom Brady made Joe Thomas cry and why Browns legend turned down chance to play with Peyton Manning",
+      "url": "https://www.cbssports.com/nfl/news/tom-brady-browns-joe-thomas-peyton-manning/",
+      "summary": "The Hall of Fame left tackle relished his football home in Cleveland, but he eventually realized his impact couldn't save the Browns",
+      "published": "Wed, 16 Sep 2026 17:17:21 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE"
+      ]
+    },
+    {
+      "title": "Can Derrick Henry break NFL rushing record? All-time leader Emmitt Smith thinks so",
+      "url": "https://www.cbssports.com/nfl/news/can-derrick-henry-break-nfl-rushing-record-emmitt-smith/",
+      "summary": "Henry sits at No. 10 on the all-time rushing list and still has some work to do to break Smith's record",
+      "published": "Wed, 16 Sep 2026 16:59:13 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Prisco's Week 2 NFL picks: Bills beat Lions in shootout; Chargers, Patriots, Cowboys bounce back",
+      "url": "https://www.cbssports.com/nfl/news/priscos-week-2-nfl-picks/",
+      "summary": "Pete Prisco reveals all of his Week 2 picks, including the Jaguars handing the Broncos another loss",
+      "published": "Wed, 16 Sep 2026 15:05:00 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "DAL",
+        "DEN",
+        "DET",
+        "JAX",
+        "LAC",
+        "NE"
       ]
     },
     {
@@ -351,7 +432,7 @@
       "title": "Predicting the entire NFL playoff bracket after Week 1, including a surprise Super Bowl winner",
       "url": "https://www.cbssports.com/nfl/news/2026-nfl-playoff-predictions-week-1-super-bowl/",
       "summary": "A wild opening week reshaped our projected playoff bracket, with the Patriots missing out",
-      "published": "Wed, 16 Sep 2026 13:07:09 +0000",
+      "published": "Wed, 16 Sep 2026 17:31:52 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -617,57 +698,6 @@
         "CAR",
         "CHI"
       ]
-    },
-    {
-      "title": "Cowboys' new defense flops vs. Giants: Why Christian Parker, other additions have work cut out for them",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-new-defense-giants-christian-parker/",
-      "summary": "Dallas had the worst defensive success rate of any team Sunday",
-      "published": "Mon, 14 Sep 2026 15:30:18 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "NYG"
-      ]
-    },
-    {
-      "title": "How John Harbaugh helped Malik Nabers get over mental hurdle in return from knee injury",
-      "url": "https://www.cbssports.com/nfl/news/how-john-harbaugh-helped-malik-nabers-in-return/",
-      "summary": "The first-year Giants coach took an unorthodox approach in preparing his star receiver for Week 1",
-      "published": "Mon, 14 Sep 2026 15:07:34 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Saints' Chris Olave explains why he wears a Guardian Cap, what it means for his family",
-      "url": "https://www.cbssports.com/nfl/news/saints-chris-olave-explains-why-he-wears-a-guardian-cap/",
-      "summary": "After suffering four concussions in his first 39 games, Olave chose the protective helmet cover to 'live regular life after football'",
-      "published": "Mon, 14 Sep 2026 14:39:07 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NO"
-      ]
-    },
-    {
-      "title": "2027 NFL Draft: Dante Moore's early struggles and why history tells us to watch Drew Mestemaker",
-      "url": "https://www.cbssports.com/nfl/draft/news/2027-nfl-draft-dante-moores-early-struggles-drew-mestemaker/",
-      "summary": "Our model was higher on Mestemaker, more cautious on Moore, and their Week 2 matchup gave us our first real test",
-      "published": "Mon, 14 Sep 2026 18:23:28 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     }
   ],
   "reporters": []
