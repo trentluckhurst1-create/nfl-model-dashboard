@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-16T21:25:00.064282+00:00",
-  "checked_at_utc": "2026-09-16T21:25:00.064282+00:00",
+  "updated_at_utc": "2026-09-16T23:44:34.882265+00:00",
+  "checked_at_utc": "2026-09-16T23:45:00.056981+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 8,
+      "items": 9,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -14,236 +14,72 @@
       "items": 30
     },
     "FOX Sports NFL": {
-      "ok": true,
-      "items": 17,
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout",
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "NFL Week 1 Surprises & Shocks: Our Biggest Stunners From The Opening Week",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-1-surprises-shocks-our-biggest-stunners-from-opening-week",
-      "summary": "From the Cardinals' upset of the Chargers to the impressive QB and WR performances, here are our biggest surprises from Week 1.",
-      "published": "Wed, 16 Sep 2026 16:44:01 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Texans' C.J. Stroud dismisses Andre Johnson criticism",
+      "url": "https://www.espn.com/nfl/story/_/id/49960907/texans-cj-stroud-dismisses-andre-johnson-criticism",
+      "summary": "C.J. Stroud took the high road when asked Wednesday about comments Andre Johnson made questioning the quarterback's body language.",
+      "published": "2026-09-16T23:43:29Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": [
-        "ARI",
-        "LAC"
+        "HOU"
       ]
     },
     {
-      "title": "Seahawks Coach Mike Macdonald Declares QB Sam Darnold Week 2 Status",
-      "url": "https://www.foxsports.com/stories/nfl/sam-darnold-injury-update-seahawks-cardinals-news",
-      "summary": "Seattle Seahawks head coach Mike Macdonald ruled out quarterback Sam Darnold (glute) for their Week 2 road game against the Arizona Cardinals.",
-      "published": "Wed, 16 Sep 2026 15:30:43 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ARI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "49ers WR De\u2019Zhaun Stribling Undergoes Ankle Surgery, Could Miss Up To 10 Weeks",
-      "url": "https://www.foxsports.com/stories/nfl/49ers-wr-dezhaun-stribling-injured-reserve-ankle",
-      "summary": "The San Francisco 49ers are officially placing wide receiver De'Zhaun Stribling on injured reserve with an ankle injury.",
-      "published": "Wed, 16 Sep 2026 14:51:33 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Colts WR Keenan Allen Formally Charged With Two Misdemeanors After August Arrest",
-      "url": "https://www.foxsports.com/stories/nfl/colts-wr-keenan-allen-formally-charged-two-misdemeanors-after-august-arrest",
-      "summary": "Indianapolis Colts receiver Keenan Allen will face two misdemeanor charges in his alleged drunken driving incident, according to court records.",
-      "published": "Wed, 16 Sep 2026 14:35:00 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds: Which Betting Streaks Will Continue?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-which-betting-streaks-will-continue",
-      "summary": "There are a few team betting streaks \u2014 good ones and bad ones \u2014 that are taking place in the NFL right now. Check 'em out.",
-      "published": "Wed, 16 Sep 2026 13:21:12 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "West Coast Read: Can Sean McVay Turn Rams' Nightmare Into Expected Dream Team?",
-      "url": "https://www.foxsports.com/stories/nfl/sean-mcvay-rams-dream-team",
-      "summary": "Will the Rams get back on track? Why are the Seahawks bullish on Drew Lock? We examine in the latest West Coast Read.",
-      "published": "Wed, 16 Sep 2026 12:16:34 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "SEA"
-      ]
-    },
-    {
-      "title": "QB Notebook: Lamar Jackson Primed For An MVP Season; What To Make Of Justin Herbert",
-      "url": "https://www.foxsports.com/stories/nfl/qb-notebook-lamar-jackson-primed-mvp-run-justin-herbert",
-      "summary": "The Ravens have finally put their star QB in an offense that maximizes his ability. Will the Chargers do the same for Justin Herbert?",
-      "published": "Wed, 16 Sep 2026 10:52:18 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Bears anticipate 'great challenge' vs. Brian Flores' Vikings defense",
+      "url": "https://www.espn.com/nfl/story/_/id/49960740/bears-caleb-williams-prepare-great-challenge-facing-brian-flores-led-vikings-defense",
+      "summary": "\"Coach [Ben Johnson] calls this 'mental war' when you go against versus him, and that's what it is,\" Bears QB Caleb Williams said of facing a Brian Flores-led defense, which Chicago will do Sunday against Minnesota.",
+      "published": "2026-09-16T23:21:54Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
-      "teams": [
-        "BAL",
-        "LAC"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 2: Lines, Spreads, Results For All 16 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-2-lines-spreads-results-all-16-games",
-      "summary": "Check out the early odds, spreads and totals for all 16 Week 2 games.",
-      "published": "Wed, 16 Sep 2026 10:41:55 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Catchup: Ben Johnson Explains Bears Scoring Outburst; Latest Injury Updates",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-ben-johnson-explains-bears-scoring-outburst-latest-injury-updates",
-      "summary": "Here's the latest from around the NFL.",
-      "published": "Tue, 15 Sep 2026 22:58:45 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Mahomes Mountain Week 2: 'The Prince Who Was Promised' Claims The Top Spot",
-      "url": "https://www.foxsports.com/stories/nfl/mahomes-mountain-week-2-the-prince-who-promised-claims-top-spot",
-      "summary": "In the words of Nick Wright, the \u201cprince who was promised\" is at the top of Mahomes Mountain. However, Patrick Mahomes isn't that prince.",
-      "published": "Tue, 15 Sep 2026 21:17:09 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Ravens WR Ja\u2019Kobi Lane Reportedly Set To Undergo Surgery For Fractured Wrist",
-      "url": "https://www.foxsports.com/stories/nfl/ravens-wr-jakobi-lane-reportedly-set-undergo-surgery-fractured-wrist",
-      "summary": "Baltimore Ravens rookie wide receiver Ja'Kobi Lane is expected to be sidelined for a month after undergoing surgery on his fractured wrist.",
-      "published": "Tue, 15 Sep 2026 19:57:07 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "Favorite 'Dogs: Back UNC At Clemson; Jets Over Packers",
-      "url": "https://www.foxsports.com/stories/nfl/will-hill-favorite-underdogs-cfb-week-3-nfl-week-2-2026",
-      "summary": "Will Hill is backing \"Chapel Bill\" to lead his Tar Heels over the Tigers and the Jets to pull the upset over the Packers. Here's why.",
-      "published": "Tue, 15 Sep 2026 19:04:13 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Upon Further Review: The Chiefs' Jumbo Commitment To Run Game Pays Dividends",
-      "url": "https://www.foxsports.com/stories/nfl/upon-further-review-chiefs-jumbo-commitment-run-game-pays-dividends",
-      "summary": "Kansas City made a resounding return to the NFL's top tier Monday night, with new running back Kenneth Walker leading the way.",
-      "published": "Tue, 15 Sep 2026 17:33:21 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC"
-      ]
-    },
-    {
-      "title": "Chiefs Back, Bears Climb, Rams Out? The NFL's Best Teams Heading Into Week 2",
-      "url": "https://www.foxsports.com/stories/nfl/chiefs-bills-bears-nfls-best-teams-heading-week-2",
-      "summary": "Week 1 is complete, and so is the first updated \"Herd Hierarchy\" of the 2026 season.",
-      "published": "Tue, 15 Sep 2026 15:01:31 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
       "teams": [
         "CHI",
-        "KC",
-        "LA"
+        "MIN"
       ]
     },
     {
-      "title": "QB Stock Market Week 2: Why Caleb Williams' Ceiling Is Best QB On The Planet",
-      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-2-why-caleb-williams-ceiling-best-qb-planet",
-      "summary": "Has Caleb Williams taken a leap? Has Drake Maye regressed? Here are Henry McKenna's latest QB rankings.",
-      "published": "Tue, 15 Sep 2026 14:48:39 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Buccaneers' Zampese says Browns messed up by trading Mayfield",
+      "url": "https://www.espn.com/nfl/story/_/id/49960637/buccaneers-zampese-says-browns-messed-trading-mayfield",
+      "summary": "Buccaneers assistant coach Ken Zampease, who was Baker Mayfield's QB coach with the Browns in 2018, says Cleveland messed up by trading the QB.",
+      "published": "2026-09-16T23:43:54Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
-      "summary": "The Bills and Ravens appear to be in midseason form, while a few other teams ... do not. See the latest playoff odds after Week 1.",
-      "published": "Tue, 15 Sep 2026 12:43:37 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
       "teams": [
-        "BAL",
-        "BUF"
+        "CLE",
+        "TB"
       ]
     },
     {
-      "title": "Josh Allen Leads The Charge As Multiple NFL Players Push For All-Grass Fields",
-      "url": "https://www.foxsports.com/stories/nfl/josh-allen-leads-charge-multiple-nfl-players-push-all-grass-fields",
-      "summary": "There's little debate when it comes to NFL players' preference for playing on grass versus artificial surfaces.",
-      "published": "Tue, 15 Sep 2026 12:18:22 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Saints' Alvin Kamara practices in full, 'in a great place'",
+      "url": "https://www.espn.com/nfl/story/_/id/49960481/saints-alvin-kamara-practices-full-great-place",
+      "summary": "Saints coach Kellen Moore said he \"feels good\" about Alvin Kamara's chance of playing Sunday. The veteran RB was a full participant in Wednesday's practice.",
+      "published": "2026-09-16T22:31:50Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
+      "category": "injury",
+      "teams": [
+        "NO"
+      ]
     },
     {
-      "title": "Penix Jr. 'close' to return, still mum on Week 2 status",
+      "title": "Falcons' Penix 'close' to return, still mum on Week 2 status",
       "url": "https://www.espn.com/nfl/story/_/id/49960213/penix-jr-close-return-mum-week-2-status",
       "summary": "Falcons QB Michael Penix Jr. didn't rule out playing against the Panthers on Sunday but cautioned he needed to clear some benchmarks before deciding.",
-      "published": "2026-09-16T21:16:01Z",
+      "published": "2026-09-16T22:13:10Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -257,7 +93,7 @@
       "title": "49ers' De'Zhaun Stribling has surgery, to miss about 10 weeks",
       "url": "https://www.espn.com/nfl/story/_/id/49960208/49ers-dezhaun-stribling-surgery-miss-10-weeks",
       "summary": "49ers receiver De'Zhaun Stribling had surgery on his ankle and is expected to miss about 10 weeks, while tight end Jake Tonges has been ruled out for the season.",
-      "published": "2026-09-16T21:13:54Z",
+      "published": "2026-09-16T21:45:20Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -269,8 +105,8 @@
     {
       "title": "Bengals' Burrow: 'Ridiculous' that tight back would keep me out",
       "url": "https://www.espn.com/nfl/story/_/id/49960153/bengals-joe-burrow-says-expects-play-tight-back",
-      "summary": "Bengals quarterback Joe Burrow said Wednesday he is dealing with back tightness but expects to play Sunday at the Houston Texans.",
-      "published": "2026-09-16T21:08:59Z",
+      "summary": "Bengals quarterback Joe Burrow said Wednesday that he is dealing with back tightness but expects to play Sunday at the Houston Texans.",
+      "published": "2026-09-16T21:35:42Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -308,57 +144,16 @@
       ]
     },
     {
-      "title": "Seahawks rule QB Sam Darnold (glute) out vs. Cardinals",
-      "url": "https://www.espn.com/nfl/story/_/id/49959236/seahawks-rule-qb-sam-darnold-glute-vs-cardinals",
-      "summary": "The Seahawks ruled out QB Sam Darnold for Sunday's game against the Cardinals due to the glute injury he suffered in Wednesday's season-opening win.",
-      "published": "2026-09-16T20:06:10Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ARI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Vikings RB Jordan Mason put on IR after having surgery on thumb",
-      "url": "https://www.espn.com/nfl/story/_/id/49959077/vikings-rb-jordan-mason-put-ir-having-surgery-thumb",
-      "summary": "Vikings running back Jordan Mason was placed on injured reserve Wednesday after undergoing surgery to repair a fractured thumb.",
-      "published": "2026-09-16T19:34:55Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "Smith: Ravens' Henry has stamina to break NFL rushing record",
-      "url": "https://www.espn.com/nfl/story/_/id/49958693/ravens-henry-stamina-break-nfl-rushing-record",
-      "summary": "Emmitt Smith acknowledged this week that Ravens running back Derrick Henry could surpass him as the league's rushing king.",
-      "published": "2026-09-16T18:47:28Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "NFL Week 2 injury report: Lions down two starting offensive lineman vs. Bills, including Blake Miller",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-injury-report-lions-down-two-offensive-lineman-bills/",
-      "summary": "Here's how each team is doing on the injury front as they gear up for Week 2",
-      "published": "Wed, 16 Sep 2026 21:00:04 +0000",
+      "title": "Seahawks rule out Sam Darnold for Week 2, but potential timetable for return emerges",
+      "url": "https://www.cbssports.com/nfl/news/seattle-seahawks-rule-out-sam-darnold-for-week-2/",
+      "summary": "Seattle reportedly has no plans to place its starting quarterback on injured reserve",
+      "published": "Wed, 16 Sep 2026 21:33:36 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "BUF",
-        "DET"
+        "SEA"
       ]
     },
     {
