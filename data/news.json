@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-16T09:32:52.239442+00:00",
-  "checked_at_utc": "2026-09-16T09:32:52.239442+00:00",
+  "updated_at_utc": "2026-09-16T14:20:44.946733+00:00",
+  "checked_at_utc": "2026-09-16T14:20:44.946733+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
@@ -11,7 +11,7 @@
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 31
+      "items": 29
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -272,16 +272,92 @@
       ]
     },
     {
-      "title": "Could David Montgomery be key to unlock Texans' offense?",
-      "url": "https://www.espn.com/nfl/story/_/id/49949962/houston-texans-david-montgomery-rb-three-touchdowns-debut",
-      "summary": "Houston scored its most points in a season opener since coach DeMeco Ryans took over.",
-      "published": "2026-09-15T20:35:46Z",
+      "title": "NFL Week 2 latest intel, buzz questions, news, fantasy tips",
+      "url": "https://www.espn.com/nfl/story/_/id/49941231/week-2-buzz-fantasy-predictions-graziano-fowler-2026",
+      "summary": "What's the latest for three teams dealing with QB injuries? What are we hearing on the Rams and Chargers after bad losses? And which Week 1 debuts stood out?",
+      "published": "2026-09-16T12:59:55Z",
       "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Week 2 NFL QB Power Rankings: Josh Allen, Lamar Jackson rise to the top; Drake Maye, Matthew Stafford tumble",
+      "url": "https://www.cbssports.com/nfl/news/week-2-nfl-qb-power-rankings-josh-allen-lamar-jackson-rise-drake-maye-down/",
+      "summary": "Evaluating the NFL's 32 starting quarterbacks ahead of the second week of the 2026 regular season",
+      "published": "Wed, 16 Sep 2026 13:48:17 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 2 odds, picks: Jets continue to stay frisky, while Baker Mayfield torches former Browns team",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-odds-picks-jets-browns/",
+      "summary": "Tyler Sullivan picks every game on the Week 2 schedule, plus five locks against the spread",
+      "published": "Wed, 16 Sep 2026 13:20:40 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "HOU"
+        "CLE",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Cowboys' Caleb Downs explains why historically bad Week 1 defense is 'very fixable'",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-defense-caleb-downs/",
+      "summary": "Dallas produced one of the NFL's worst defensive performances since the start of 2025, but its first-round rookie says the mistakes are correctable",
+      "published": "Wed, 16 Sep 2026 13:35:05 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "NFL Week 2 picks, fantasy advice; inside Lane Kiffin's anticipated return to Ole Miss; golf's best of 2026",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-picks-fantasy-advice-inside-lane-kiffins-anticipated-return-to-ole-miss-golfs-best-of-2026/",
+      "summary": "Plus Pete Prisco's newest batch of NFL Power Rankings",
+      "published": "Wed, 16 Sep 2026 12:55:48 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Ranking the five best 2026 NFL Draft classes after Week 1: Chiefs rookies shine brightest",
+      "url": "https://www.cbssports.com/nfl/news/ranking-the-five-best-2026-nfl-draft-classes-after-week-1-chiefs-rookies-shine-brightest/",
+      "summary": "These five teams' rookies produced the most during Week 1 of the NFL season",
+      "published": "Wed, 16 Sep 2026 12:26:37 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "Predicting the entire NFL playoff bracket after Week 1, including a surprise Super Bowl winner",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-playoff-predictions-week-1-super-bowl/",
+      "summary": "A wild opening week reshaped our projected playoff bracket, with the Patriots missing out",
+      "published": "Wed, 16 Sep 2026 13:07:09 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE"
       ]
     },
     {
@@ -592,114 +668,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "Unpacking NFL's epic Week 1; College football rankings after Texas stunner over Ohio State",
-      "url": "https://www.cbssports.com/nfl/news/unpacking-nfls-epic-week-1-college-football-rankings-after-texas-stunner-over-ohio-state/",
-      "summary": "Plus fresh MLB Power Rankings as the postseason picture begins to take shape",
-      "published": "Mon, 14 Sep 2026 13:05:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2027 NFL Mock Draft: #MarchtoArch begins in earnest for tanking team as 3 QBs go in first 5 picks",
-      "url": "https://www.cbssports.com/nfl/draft/news/2027-nfl-mock-draft-five-quarterbacks/",
-      "summary": "Five quarterbacks hear their names called in the opening round, while the Jets hold three first-round selections and the Browns make two picks based on current Super Bowl odds",
-      "published": "Wed, 16 Sep 2026 01:39:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CLE",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Bills might have re-unlocked Josh Allen, and that makes Buffalo's offense all the more dangerous",
-      "url": "https://www.cbssports.com/nfl/news/bills-re-unlocked-josh-allen-buffalo-offense-all-the-more-dangerous/",
-      "summary": "Allen had five completions of 30-plus yards, his most in a game in his career",
-      "published": "Mon, 14 Sep 2026 12:10:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF"
-      ]
-    },
-    {
-      "title": "Cover 32: Bengals see early returns from big offseason investment, plus game balls, biggest gaffes from Week 1",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-1-storylines-game-balls-biggest-gaffes/",
-      "summary": "Tyler Sullivan dives into all the biggest items from Week 1 in the NFL, including Josh Allen ending his road woes against the Texans",
-      "published": "Mon, 14 Sep 2026 11:25:13 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "HOU"
-      ]
-    },
-    {
-      "title": "2026 NFL Week 2 early odds: Bills favored over Lions as Buffalo opens new stadium, Eagles road favorites",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-2-early-odds-bills-eagles/",
-      "summary": "Here's a look at the lines for Week 2 in the NFL as we continue the start of the 2026 season",
-      "published": "Mon, 14 Sep 2026 11:17:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "DET",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Vikings' stunning win over Packers ends with final score that's never happened before in NFL history",
-      "url": "https://www.cbssports.com/nfl/news/scorigami-vikings-packers-nfl-history/",
-      "summary": "Ladies and gentlemen, we have a scorigami!",
-      "published": "Mon, 14 Sep 2026 02:06:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Titans' fresh start produces one of their most embarrassing losses yet",
-      "url": "https://www.cbssports.com/nfl/news/titans-loss-to-jets-cam-ward-robert-saleh/",
-      "summary": "Tennessee changed its coach, roster, logo and uniforms, but a 23-10 loss to New York exposed familiar problems across every phase of the game",
-      "published": "Mon, 14 Sep 2026 02:54:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "TEN"
-      ]
-    },
-    {
-      "title": "Giants vs. Cowboys picks, NFL predictions: Best bets, odds, betting preview for Sunday Night Football",
-      "url": "https://www.cbssports.com/betting/news/giants-cowboys-picks-nfl-predictions-best-bets-odds-betting-preview-sunday-night-football/",
-      "summary": "Best bets and betting preview for Cowboys vs. Giants on Sunday Night Football",
-      "published": "Mon, 14 Sep 2026 00:07:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "NYG"
-      ]
     }
   ],
   "reporters": []
