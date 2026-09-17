@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-17T17:04:49.480585+00:00",
-  "checked_at_utc": "2026-09-17T17:04:49.480585+00:00",
+  "updated_at_utc": "2026-09-17T20:17:51.178938+00:00",
+  "checked_at_utc": "2026-09-17T20:17:51.178938+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 4,
+      "items": 9,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -21,15 +21,42 @@
   },
   "items": [
     {
+      "title": "Who Is Drew Lock? 5 Things To Know About Seahawks QB Starting For Sam Darnold",
+      "url": "https://www.foxsports.com/stories/nfl/drew-lock-sam-darnold-injury-seahawks-cardinals",
+      "summary": "With Sam Darnold injured, the Seahawks are starting Drew Lock at QB against the Cardinals. Here are five things to know about Lock.",
+      "published": "Thu, 17 Sep 2026 15:30:18 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ARI",
+        "SEA"
+      ]
+    },
+    {
       "title": "2026 NFL Week 2 Picks: Best Bets For Every Game \u2014 Will's Wagers",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-2-picks-best-bets-every-game-wills-wagers",
       "summary": "Will Hill is back with his best wager for EVERY single NFL Week 2 contest. Dive in.",
-      "published": "Thu, 17 Sep 2026 12:57:13 -0400",
+      "published": "Thu, 17 Sep 2026 15:25:49 -0400",
       "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
+    },
+    {
+      "title": "Sammy\u2019s Sportsbook Whispers: Is Chicago No Longer Your Average Bears?",
+      "url": "https://www.foxsports.com/stories/nfl/sammys-sportsbook-whispers-chicago-no-longer-your-average-bears",
+      "summary": "Are Da Bears for real? Depends on who you're asking. Sammy P shares the latest whispers from the football world.",
+      "published": "Thu, 17 Sep 2026 13:53:29 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
     },
     {
       "title": "NFL Group Chat Fact Or Fiction: Giants Legit? Rams Not? Jalen Hurts For MVP?",
@@ -227,28 +254,118 @@
       ]
     },
     {
-      "title": "Colts WR Keenan Allen Formally Charged With Two Misdemeanors After August Arrest",
-      "url": "https://www.foxsports.com/stories/nfl/colts-wr-keenan-allen-formally-charged-two-misdemeanors-after-august-arrest",
-      "summary": "Indianapolis Colts receiver Keenan Allen will face two misdemeanor charges in his alleged drunken driving incident, according to court records.",
-      "published": "Wed, 16 Sep 2026 14:35:00 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Will Anderson calls Texans\u2019 loss to Bills a 'wake-up call' for the defense ahead of Bengals visit",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872934",
+      "summary": "\u2014 Houston Texans defensive end Will Anderson said giving up 36 points in a season-opening loss to the Bills wasn\u2019t a reason to get mad but instead should be a catalyst to improve.",
+      "published": "2026-09-17T19:59:27Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "IND"
+        "BUF",
+        "CIN",
+        "HOU"
       ]
     },
     {
-      "title": "2026 NFL Odds: Which Betting Streaks Will Continue?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-which-betting-streaks-will-continue",
-      "summary": "There are a few team betting streaks \u2014 good ones and bad ones \u2014 that are taking place in the NFL right now. Check 'em out.",
-      "published": "Wed, 16 Sep 2026 13:21:12 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Falcons are looking for better defensive plan against Panthers QB Bryce Young in NFC South showdown",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872933",
+      "summary": "\u2014 The NFC South suffered the indignity of having four teams finish with losing...",
+      "published": "2026-09-17T19:28:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ATL",
+        "CAR"
+      ]
+    },
+    {
+      "title": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
+      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms",
+      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
+      "published": "2026-09-17T19:25:22Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "BAL",
+        "LA"
+      ]
+    },
+    {
+      "title": "Colts brace for a new-look Chiefs attack after Kenneth Walker III\u2019s 173-yard opener against Denver",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872945",
+      "summary": "\u2014 The Indianapolis Colts had a chance to watch the Kansas City Chiefs open the season with a rout of the Denver Broncos on TV on Monday night, and they came away having learned the same lesson as most everybody else who watched the game.",
+      "published": "2026-09-17T18:57:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "IND",
+        "KC"
+      ]
+    },
+    {
+      "title": "Ben Johnson and Brian Flores face off again as the Bears take on the Vikings in Week 2",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872937",
+      "summary": "\u2014 It's a stressful week for Chicago Bears coach Ben Johnson. Same for Minnesota Vikings defensive coordinator Brian Flores.",
+      "published": "2026-09-17T18:31:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Patriots' TreVeyon Henderson says he's 'ready to go' for Week 2",
+      "url": "https://www.espn.com/nfl/story/_/id/49966375/patriots-treveyon-henderson-says-ready-go-week-2",
+      "summary": "Patriots running back TreVeyon Henderson said Thursday he's \"ready to go\" for Sunday's game against the Steelers after missing New England's opener with an ankle injury.",
+      "published": "2026-09-17T18:25:53Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Packers on a 6-game skid going back to last season and face a Jets squad looking for a 2-0 start",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872936",
+      "summary": "\u2014 It has been quite a while since Jordan Love and the Green Bay Packers walked off the field with a victory.",
+      "published": "2026-09-17T17:53:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "The 49ers return from dominating win in Australia to take on the Dolphins in home opener",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872942",
+      "summary": "\u2014 The scenario to start the season for the San Francisco 49ers couldn't have been much more challenging.",
+      "published": "2026-09-17T17:30:49Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA",
+        "SF"
+      ]
     },
     {
       "title": "A gritty opener, a missing Pro Bowler and a road test in Tennessee for the Eagles",
@@ -264,45 +381,79 @@
       ]
     },
     {
-      "title": "Bills open Highmark Stadium, looking to be latest with notable arena debut",
-      "url": "https://www.espn.com/nfl/story/_/id/49953191/nfl-new-stadiums-debut-notable-games",
-      "summary": "As Buffalo opens its new stadium, here's a look back at notable opening games at NFL teams' active stadiums.",
-      "published": "2026-09-17T13:02:32Z",
-      "source": "ESPN NFL",
+      "title": "Previewing Lions vs. Bills: High-powered offenses kick off Week 2 as Buffalo unveils new stadium",
+      "url": "https://www.cbssports.com/nfl/news/previewing-prediction-lions-bills-nfl-week-2-thursday/",
+      "summary": "Josh Allen and Jahmyr Gibbs headline an explosive Thursday night showdown as Buffalo opens the new Highmark Stadium against Detroit's banged-up front line",
+      "published": "Thu, 17 Sep 2026 20:00:56 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BUF"
+        "BUF",
+        "DET"
       ]
     },
     {
-      "title": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
-      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
-      "published": "2026-09-17T13:04:48Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "LA"
-      ]
-    },
-    {
-      "title": "Source: Texans' Nico Collins (hamstring) uncertain for Week 2",
-      "url": "https://www.espn.com/nfl/story/_/id/49964107/source-texans-nico-collins-hamstring-uncertain-week-2",
-      "summary": "Texans star wide receiver Nico Collins suffered a hamstring injury during Wednesday's practice and is uncertain to play in Week 2 against the Bengals, a source told ESPN.",
-      "published": "2026-09-17T13:16:44Z",
-      "source": "ESPN NFL",
+      "title": "Zay Flowers injury: Who will step up if Ravens star WR misses Week 2 matchup against Saints?",
+      "url": "https://www.cbssports.com/nfl/news/zay-flowers-injury-who-will-step-up-baltimore-ravens-new-orleans-saints/",
+      "summary": "Flowers did not participate in Baltimore's first two practices this week",
+      "published": "Thu, 17 Sep 2026 19:09:27 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "CIN",
-        "HOU"
+        "BAL",
+        "NO"
       ]
+    },
+    {
+      "title": "Pro Football Hall of Fame cuts Super Bowl-winning coach and 24 others from selection committee, per report",
+      "url": "https://www.cbssports.com/nfl/news/pro-football-hall-of-fame-selection-committee/",
+      "summary": "The committee is being reduced from 50 members down to 28, leaving Dan Fouts and James Lofton as the only enshrinees remaining on the voting panel",
+      "published": "Thu, 17 Sep 2026 18:42:25 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Lions-Bills predictions for Thursday, plus NFL Week 2 picks for all 16 games and ranking each starting QB",
+      "url": "https://www.cbssports.com/nfl/news/lions-bills-predictions-for-thursday-plus-nfl-week-2-picks-for-all-16-games-and-ranking-each-starting-qb/",
+      "summary": "Here's everything you need to know about the NFL for Sept. 17",
+      "published": "Thu, 17 Sep 2026 16:56:08 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BUF",
+        "DET"
+      ]
+    },
+    {
+      "title": "Russell Wilson: Lamar Jackson could end his career as best dynamic QB of all time",
+      "url": "https://www.cbssports.com/nfl/news/russell-wilson-lamar-jackson-could-be-best-dynamic-qb-of-all-time/",
+      "summary": "On CBS Sports' 'Set Hut,' Wilson made his case for why Jackson could pass Michael Vick in that conversation",
+      "published": "Thu, 17 Sep 2026 17:07:56 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Russell Wilson explains why Joe Burrow could leave Cincinnati, find another place to win",
+      "url": "https://www.cbssports.com/nfl/news/russell-wilson-explains-why-joe-burrow-could-leave-cincinnati-bengals/",
+      "summary": "On CBS Sports' 'Set Hut,' Wilson said Burrow's competitive nature may propel him to find a new place to play",
+      "published": "Thu, 17 Sep 2026 16:51:06 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
     },
     {
       "title": "Chiefs' Travis Kelce admits he got away with obvious penalty on key play during Week 1 win over Broncos",
@@ -358,20 +509,6 @@
       "url": "https://www.cbssports.com/nfl/news/lions-vs-bills-2026-a-battle-of-teams-who-blew-super-bowl-window/",
       "summary": "Two of the league's most successful yet snake-bitten teams square off in Week 2 on \"Thursday Night Football\"",
       "published": "Thu, 17 Sep 2026 13:33:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "DET"
-      ]
-    },
-    {
-      "title": "Previewing Lions vs. Bills: High-powered offenses kick off Week 2 as Buffalo unveils new stadium",
-      "url": "https://www.cbssports.com/nfl/news/previewing-prediction-lions-bills-nfl-week-2-thursday/",
-      "summary": "Josh Allen and Jahmyr Gibbs headline an explosive Thursday night showdown as Buffalo opens the new Highmark Stadium against Detroit's banged-up front line",
-      "published": "Thu, 17 Sep 2026 13:01:44 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -634,70 +771,6 @@
       "teams": [
         "CLE",
         "NYJ"
-      ]
-    },
-    {
-      "title": "Cowboys' Caleb Downs explains why historically bad Week 1 defense is 'very fixable'",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-defense-caleb-downs/",
-      "summary": "Dallas produced one of the NFL's worst defensive performances since the start of 2025, but its first-round rookie says the mistakes are correctable",
-      "published": "Wed, 16 Sep 2026 13:35:05 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "NFL Week 2 picks, fantasy advice; inside Lane Kiffin's anticipated return to Ole Miss; golf's best of 2026",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-picks-fantasy-advice-inside-lane-kiffins-anticipated-return-to-ole-miss-golfs-best-of-2026/",
-      "summary": "Plus Pete Prisco's newest batch of NFL Power Rankings",
-      "published": "Wed, 16 Sep 2026 12:55:48 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Ranking the five best 2026 NFL Draft classes after Week 1: Chiefs rookies shine brightest",
-      "url": "https://www.cbssports.com/nfl/news/ranking-the-five-best-2026-nfl-draft-classes-after-week-1-chiefs-rookies-shine-brightest/",
-      "summary": "These five teams' rookies produced the most during Week 1 of the NFL season",
-      "published": "Wed, 16 Sep 2026 12:26:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC"
-      ]
-    },
-    {
-      "title": "Predicting the entire NFL playoff bracket after Week 1, including a surprise Super Bowl winner",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-playoff-predictions-week-1-super-bowl/",
-      "summary": "A wild opening week reshaped our projected playoff bracket, with the Patriots missing out",
-      "published": "Wed, 16 Sep 2026 17:31:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Super Bowl stock report for Week 2: 49ers are healthy and formidable, Chargers dig deeper hole",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-super-bowl-stock-report-49ers/",
-      "summary": "We assess the NFL title race after Week 1 and identify three upcoming games that could reshape the Super Bowl picture",
-      "published": "Tue, 15 Sep 2026 19:42:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC",
-        "SF"
       ]
     }
   ],
