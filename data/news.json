@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-17T06:45:50.927460+00:00",
-  "checked_at_utc": "2026-09-17T06:45:50.927460+00:00",
+  "updated_at_utc": "2026-09-17T12:12:53.040400+00:00",
+  "checked_at_utc": "2026-09-17T12:12:53.040400+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -251,29 +251,60 @@
       ]
     },
     {
-      "title": "Browns-Buccaneers matchup Sunday is more than just Baker Mayfield facing his old team",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872935",
-      "summary": "\u2014 Baker Mayfield has become the leader and face of the franchise the Cleveland Browns hoped for when they drafted him No. 1 overall in 2018.",
-      "published": "2026-09-17T04:43:26Z",
+      "title": "Why NFL offenses are going under center more often in 2026",
+      "url": "https://www.espn.com/nfl/story/_/id/49956804/offense-center-passing-game-commanders-ravens-eagles-chiefs-giants-raiders",
+      "summary": "Teams such as the Commanders, Eagles, Ravens, Chiefs, Giants and Raiders are going under center more -- and out of the shotgun less and less. Will this trend stick?",
+      "published": "2026-09-17T10:50:24Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CLE",
-        "TB"
+        "BAL",
+        "KC",
+        "LV",
+        "NYG",
+        "PHI",
+        "WAS"
       ]
     },
     {
-      "title": "Kyrie offers to pay Al-Shaair's fine for tribute to Hind Rajab",
-      "url": "https://www.espn.com/nfl/story/_/id/49961834/kyrie-offers-pay-al-shaair-fine-tribute-hind-rajab",
-      "summary": "Kyrie Irving offered to pay Texans LB Azeez Al-Shaair's $11,941 fine for having the name of a Palestinian girl killed in Gaza in 2024 written on his eye black during a game.",
-      "published": "2026-09-17T02:38:35Z",
-      "source": "ESPN NFL",
+      "title": "It wouldn't shock me IF ... NFL Week 2: Jets finally snap historic streak, Deshaun Watson benched",
+      "url": "https://www.cbssports.com/nfl/news/predicting-nfl-week-2-storylines-jets-finally-snap-historic-streak/",
+      "summary": "Don't be surprised if we see these storylines develop over the course of Week 2",
+      "published": "Thu, 17 Sep 2026 12:03:01 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Upset alert for NFL Week 2? Why these 5 favorites could easily drop their matchup, including the Ravens",
+      "url": "https://www.cbssports.com/nfl/news/upset-alert-nfl-week-2-odds-picks/",
+      "summary": "Green Bay and Houston are also on upset alert",
+      "published": "Thu, 17 Sep 2026 11:54:04 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Defense panic levels for Super Bowl contenders: Why Texans and Cowboys should not worry yet",
+      "url": "https://www.cbssports.com/nfl/news/nfl-defense-panic-meter-super-bowl-contenders/",
+      "summary": "It's only Week 2, but I'm here to tell you if you should be worried or not about your team's defense",
+      "published": "Thu, 17 Sep 2026 11:47:36 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
         "HOU"
       ]
     },
@@ -659,47 +690,6 @@
       "category": "injury",
       "teams": [
         "DEN"
-      ]
-    },
-    {
-      "title": "Chiefs vs. Broncos: Division rivals Patrick Mahomes, Bo Nix make their return in Monday night matchup",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-vs-broncos-where-to-watch-odds-prediction/",
-      "summary": "Patrick Mahomes and Bo Nix return from major injuries in an AFC West showdown",
-      "published": "Mon, 14 Sep 2026 23:14:12 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN",
-        "KC"
-      ]
-    },
-    {
-      "title": "Lions' Isiah Pacheco undergoes back surgery, expected to miss significant time",
-      "url": "https://www.cbssports.com/nfl/news/isiah-pacheco-injury-update-lions/",
-      "summary": "Pacheco reportedly faces a 12-week recovery and could return in December",
-      "published": "Mon, 14 Sep 2026 22:59:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "Broncos vs. Chiefs odds, picks, predictions: Betting preview, best bets for Monday Night Football, NFL Week 1",
-      "url": "https://www.cbssports.com/betting/news/broncos-chiefs-odds-picks-predictions-betting-preview-best-bets-monday-night-football-nfl/",
-      "summary": "Best bets and betting preview for Chiefs vs. Broncos on Monday Night Football",
-      "published": "Mon, 14 Sep 2026 22:11:20 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "KC"
       ]
     }
   ],
