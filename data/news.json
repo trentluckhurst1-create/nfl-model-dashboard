@@ -1,25 +1,38 @@
 {
-  "updated_at_utc": "2026-09-17T22:54:47.252770+00:00",
-  "checked_at_utc": "2026-09-17T22:54:47.252770+00:00",
+  "updated_at_utc": "2026-09-18T01:04:59.183368+00:00",
+  "checked_at_utc": "2026-09-18T01:04:59.183368+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 16,
+      "items": 15,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 28
+      "items": 26
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 18,
+      "items": 14,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Sammy\u2019s Sportsbook Whispers: Is Chicago No Longer Your Average Bears?",
+      "url": "https://www.foxsports.com/stories/nfl/sammys-sportsbook-whispers-chicago-no-longer-your-average-bears",
+      "summary": "Are Da Bears for real? Depends on who you're asking. Sammy P shares the latest whispers from the football world.",
+      "published": "Thu, 17 Sep 2026 19:51:14 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
     {
       "title": "2026 NFL Week 2 Best Bets, Expert Picks: Back Commanders To Cover At Cowboys",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-2-best-bets-expert-picks-back-commanders-cover-cowboys",
@@ -83,19 +96,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "Sammy\u2019s Sportsbook Whispers: Is Chicago No Longer Your Average Bears?",
-      "url": "https://www.foxsports.com/stories/nfl/sammys-sportsbook-whispers-chicago-no-longer-your-average-bears",
-      "summary": "Are Da Bears for real? Depends on who you're asking. Sammy P shares the latest whispers from the football world.",
-      "published": "Thu, 17 Sep 2026 13:53:29 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
-      ]
     },
     {
       "title": "NFL Group Chat Fact Or Fiction: Giants Legit? Rams Not? Jalen Hurts For MVP?",
@@ -203,53 +203,59 @@
       ]
     },
     {
-      "title": "NFL Awards Ballot: Trevor Lawrence Keeps Good Vibes Going, Making Him Early MVP Candidate",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-awards-ballot-trevor-lawrence-mvp-leaders",
-      "summary": "Trevor Lawrence's play has the Jacksonville Jaguars looking like a serious Super Bowl contender, he's now an early MVP candidate.",
-      "published": "Wed, 16 Sep 2026 21:37:27 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Live results, best moments and analysis from Bills-Lions",
+      "url": "https://www.espn.com/nfl/story/_/id/49951448/buffalo-bills-detroit-lions-live-results-analysis-best-moments-highmark-stadium",
+      "summary": "The Buffalo Bills host the Detroit Lions in their first game at their new home, Highmark Stadium. Here are all the highlights from Bills vs. Lions in Buffalo.",
+      "published": "2026-09-18T00:51:20Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "JAX"
+        "BUF",
+        "DET"
       ]
     },
     {
-      "title": "Roll The Tape: Who Will Win The Ben Johnson-Brian Flores Chess Match?",
-      "url": "https://www.foxsports.com/stories/nfl/roll-tape-who-has-advantage-ben-johnson-brian-flores-chess-match",
-      "summary": "After diving into the All-22 coaches' film from Week 1, Bucky Brooks examines five new developments to watch.",
-      "published": "Wed, 16 Sep 2026 20:45:30 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Which Overreactions Are Legit? Why Execs, Scouts Are Out On Chargers, But High on Rams",
-      "url": "https://www.foxsports.com/stories/nfl/which-overreactions-legit-why-execs-scouts-out-chargers-high-rams",
-      "summary": "One NFL scout tells us that the Chargers' Week 1 performance might just be who they are, while other sources say the Rams should be OK.",
-      "published": "Wed, 16 Sep 2026 20:30:55 -0400",
-      "source": "FOX Sports NFL",
+      "title": "After a poor 2025 at home, the Ravens try to turn the page when they host New Orleans",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872938",
+      "summary": "Jesse Minter wasn't even with the Ravens last season, but the new coach seems to have a healthy grasp of how 2025 went so badly wrong for Baltimore.",
+      "published": "2026-09-17T23:19:26Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LA",
-        "LAC"
+        "BAL"
       ]
     },
     {
-      "title": "NFL Week 2 Betting Report: Public Fixated On Influx Of Scoring",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-2-betting-report-public-fixated-influx-scoring",
-      "summary": "After several teams scored big in Week 1, the betting masses are expecting \u2014 and hoping for \u2014 the same in Week 2. Patrick Everson reports.",
-      "published": "Wed, 16 Sep 2026 20:04:33 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Eagles' Jalen Carter to wear cast on injured wrist vs. Titans",
+      "url": "https://www.espn.com/nfl/story/_/id/49968365/eagles-jalen-carter-wear-cast-injured-right-wrist-week-2-game-titans",
+      "summary": "Eagles defensive tackle Jalen Carter expects to wear a cast on his injured right wrist for Sunday's Week 2 matchup against the Titans.",
+      "published": "2026-09-17T23:38:17Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
+      "category": "injury",
+      "teams": [
+        "PHI",
+        "TEN"
+      ]
+    },
+    {
+      "title": "Bills' top DT Ed Oliver inactive after injuring hip in warmups",
+      "url": "https://www.espn.com/nfl/story/_/id/49968285/bills-top-dt-ed-oliver-inactive-injuring-hip-warmups",
+      "summary": "The Buffalo Bills' standout defensive tackle Ed Oliver was a surprise inactive for Thursday night's game against the Detroit Lions.",
+      "published": "2026-09-17T23:56:59Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BUF",
+        "DET"
+      ]
     },
     {
       "title": "There's sudden urgency for old NFC East rivals as Commanders visit Cowboys following opening losses",
@@ -266,24 +272,10 @@
       ]
     },
     {
-      "title": "Live results, best moments and analysis from Bills-Lions",
-      "url": "https://www.espn.com/nfl/story/_/id/49951448/buffalo-bills-detroit-lions-live-results-analysis-best-moments-highmark-stadium",
-      "summary": "The Buffalo Bills host the Detroit Lions in their first game at their new home, Highmark Stadium. Here are all the highlights from Bills vs. Lions in Buffalo.",
-      "published": "2026-09-17T22:39:16Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "DET"
-      ]
-    },
-    {
       "title": "Bo Nix, Broncos 'not freaking out' after mistake-filled loss to Chiefs",
       "url": "https://www.espn.com/nfl/story/_/id/49968173/bo-nix-broncos-not-freaking-mistake-filled-loss-chiefs",
       "summary": "Denver Broncos quarterback Bo Nix said the mistakes were clear to see from Monday night's loss in Kansas City, but \"we're not freaking out'' as the team prepares for Sunday's home opener against the Jacksonville Jaguars.",
-      "published": "2026-09-17T22:45:31Z",
+      "published": "2026-09-17T23:10:12Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -297,8 +289,8 @@
     {
       "title": "McVay: Rams 'hopeful' Donald will play against Giants on MNF",
       "url": "https://www.espn.com/nfl/story/_/id/49968127/mcvay-rams-hopeful-donald-play-giants-mnf",
-      "summary": "Rams defensive tackle Aaron Donald will practice in full on Thursday and the team is \"hopeful\" he will play on Monday night against the Giants, coach Sean McVay said.",
-      "published": "2026-09-17T22:28:13Z",
+      "summary": "Rams defensive tackle Aaron Donald will practice in full Thursday and the team is \"hopeful\" he will play Monday night against the Giants, coach Sean McVay said.",
+      "published": "2026-09-17T23:33:25Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -420,60 +412,57 @@
       ]
     },
     {
-      "title": "Falcons are looking for better defensive plan against Panthers QB Bryce Young in NFC South showdown",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872933",
-      "summary": "\u2014 The NFC South suffered the indignity of having four teams finish with losing...",
-      "published": "2026-09-17T19:28:39Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ATL",
-        "CAR"
-      ]
-    },
-    {
-      "title": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
-      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
-      "published": "2026-09-17T20:35:19Z",
-      "source": "ESPN NFL",
+      "title": "Bills vs. Lions betting guide: Odds, picks, anytime TD scorers for NFL Week 2 Thursday Night Football game",
+      "url": "https://www.cbssports.com/betting/news/bills-vs-lions-betting-guide-odds-picks-anytime-td-scorers-for-nfl-week-2-thursday-night-football-game/",
+      "summary": "Buffalo opens its new stadium in a high-powered Thursday night clash with Detroit featuring a massive 54.5-point total, player props for Josh Allen and Jahmyr Gibbs, and a first-half betting angle",
+      "published": "Thu, 17 Sep 2026 23:15:42 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL",
-        "LA"
+        "BUF",
+        "DET"
       ]
     },
     {
-      "title": "Colts brace for a new-look Chiefs attack after Kenneth Walker III\u2019s 173-yard opener against Denver",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872945",
-      "summary": "\u2014 The Indianapolis Colts had a chance to watch the Kansas City Chiefs open the season with a rout of the Denver Broncos on TV on Monday night, and they came away having learned the same lesson as most everybody else who watched the game.",
-      "published": "2026-09-17T18:57:30Z",
-      "source": "ESPN NFL",
+      "title": "Seahawks' Mike Macdonald describes mental health struggles during first season in Seattle",
+      "url": "https://www.cbssports.com/nfl/news/seahawks-mike-macdonald-describes-extremely-difficult-first-season/",
+      "summary": "Macdonald opened up about 'extremely difficult' first season in Seattle",
+      "published": "Thu, 17 Sep 2026 23:01:15 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DEN",
-        "IND",
-        "KC"
+        "SEA"
       ]
     },
     {
-      "title": "Ben Johnson and Brian Flores face off again as the Bears take on the Vikings in Week 2",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872937",
-      "summary": "\u2014 It's a stressful week for Chicago Bears coach Ben Johnson. Same for Minnesota Vikings defensive coordinator Brian Flores.",
-      "published": "2026-09-17T18:31:26Z",
-      "source": "ESPN NFL",
+      "title": "Lions vs. Bills odds, predictions, NFL picks, best bets: Betting preview for Thursday Night Football",
+      "url": "https://www.cbssports.com/betting/news/lions-bills-odds-predictions-nfl-picks-best-bets-betting-preview-thursday-night-football/",
+      "summary": "Best bets and betting preview for Lions vs. Bills on Thursday Night Football",
+      "published": "Thu, 17 Sep 2026 22:59:16 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CHI",
-        "MIN"
+        "BUF",
+        "DET"
+      ]
+    },
+    {
+      "title": "Cowboys' recipe for success in Week 2? Start fast and make a splash to help struggling defense",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-offense-looks-to-start-fast-week-2-vs-commanders/",
+      "summary": "After defensive struggles severely limited possessions in Week 1, Dallas is prioritizing explosive plays from CeeDee Lamb and George Pickens to maximize every drive against Washington",
+      "published": "Thu, 17 Sep 2026 22:49:09 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
       ]
     },
     {
@@ -761,85 +750,6 @@
       "trust": "NETWORK",
       "category": "injury",
       "teams": []
-    },
-    {
-      "title": "Joe Burrow injury watch: Why Bengals QB was limited in practice and what it means for Week 2 vs. Texans",
-      "url": "https://www.cbssports.com/nfl/news/joe-burrow-injury-watch-nfl-week-2/",
-      "summary": "The Cincinnati quarterback brushed off back tightness that limited his practice time Wednesday, making it clear he expects to suit up Sunday against the Texans",
-      "published": "Thu, 17 Sep 2026 13:45:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CIN",
-        "HOU"
-      ]
-    },
-    {
-      "title": "Buccaneers' Baker Mayfield surprisingly not carrying vengeful spirit into Week 2 showdown with Browns",
-      "url": "https://www.cbssports.com/nfl/news/buccaneers-baker-mayfield-surprisingly-not-carrying-vengeful-spirit-into-week-2-showdown-with-browns/",
-      "summary": "Mayfield once said he had Week 2 circled, but had a different demeanor on Wednesday in addressing the franchise that cast him aside",
-      "published": "Wed, 16 Sep 2026 19:49:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "TB"
-      ]
-    },
-    {
-      "title": "Vikings place Jordan Mason on injured reserve due to thumb fracture: Who's up next",
-      "url": "https://www.cbssports.com/nfl/news/vikings-jordan-mason-on-injured-reserve-thumb-fracture-whos-up-next/",
-      "summary": "Minnesota added some pieces to its RB room recently, but Mason will be required to miss the next four games at minimum",
-      "published": "Wed, 16 Sep 2026 19:36:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "Agent's Take: 2026 ultimate 53-man roster that's the best team money can buy",
-      "url": "https://www.cbssports.com/nfl/news/agents-take-2026-ultimate-53-man-roster/",
-      "summary": "A look at our ultimate 53-man roster, with salary cap and draft restrictions taken into account",
-      "published": "Thu, 17 Sep 2026 15:08:16 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Ranking 5 NFL teams that need a win the most in Week 2, including the Cowboys and Patriots",
-      "url": "https://www.cbssports.com/nfl/news/ranking-5-nfl-teams-need-a-win-the-most-in-week-2/",
-      "summary": "It's already a make-or-break week for some of these NFL teams",
-      "published": "Wed, 16 Sep 2026 17:15:33 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "NE"
-      ]
-    },
-    {
-      "title": "How Tom Brady made Joe Thomas cry and why Browns legend turned down chance to play with Peyton Manning",
-      "url": "https://www.cbssports.com/nfl/news/tom-brady-browns-joe-thomas-peyton-manning/",
-      "summary": "The Hall of Fame left tackle relished his football home in Cleveland, but he eventually realized his impact couldn't save the Browns",
-      "published": "Wed, 16 Sep 2026 17:17:21 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE"
-      ]
     }
   ],
   "reporters": []
