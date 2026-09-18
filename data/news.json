@@ -1,25 +1,39 @@
 {
-  "updated_at_utc": "2026-09-18T20:18:12.375777+00:00",
-  "checked_at_utc": "2026-09-18T20:18:12.375777+00:00",
+  "updated_at_utc": "2026-09-18T22:40:33.101621+00:00",
+  "checked_at_utc": "2026-09-18T22:40:33.101621+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 8,
+      "items": 11,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 29
+      "items": 30
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 17,
+      "items": 16,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "2026 NFL, College Football Odds: Best Bets For LSU-Ole Miss, Eagles-Titans",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-college-football-odds-best-bets-lsu-ole-miss-eagles-titans",
+      "summary": "Sammy P shares his best NFL and college football bets for the weekend, including what should be a testy LSU-Ole Miss showdown.",
+      "published": "Fri, 18 Sep 2026 18:05:55 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI",
+        "TEN"
+      ]
+    },
     {
       "title": "Commanders vs. Cowboys: 5 Things To Know About This Historic NFC East Rivalry",
       "url": "https://www.foxsports.com/stories/nfl/cowboys-commanders-rivalry-nfc-east-history",
@@ -217,38 +231,106 @@
       ]
     },
     {
-      "title": "2026 NFL Week 2 Best Bets, Expert Picks: Back Commanders To Cover At Cowboys",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-2-best-bets-expert-picks-back-commanders-cover-cowboys",
-      "summary": "Geoff Schwartz is back with his NFL Week 2 wagers, including his bet on the NFC East showdown between the Commanders and Cowboys.",
-      "published": "Thu, 17 Sep 2026 18:29:39 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Broncos rule out WR Marvin Mims Jr. (foot) for Sunday",
+      "url": "https://www.espn.com/nfl/story/_/id/49975308/broncos-rule-wr-marvin-mims-jr-foot-sunday",
+      "summary": "Denver Broncos wide receiver Marvin Mims Jr. will miss Sunday's game against the Jacksonville Jaguars.",
+      "published": "2026-09-18T22:40:13Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL",
-        "WAS"
+        "DEN",
+        "JAX"
       ]
     },
     {
-      "title": "Can The Bears Actually Break The NFL Scoring Record? This Weekend Will Be Very Telling",
-      "url": "https://www.foxsports.com/stories/nfl/bears-offense-ben-johnson-scoring-record-brian-flores-vikings-defense",
-      "summary": "The Bears were stole headlines with their Week 1 performance. Week 2 against the Vikings will present a tougher test.",
-      "published": "Thu, 17 Sep 2026 18:13:34 -0400",
-      "source": "FOX Sports NFL",
+      "title": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
+      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms",
+      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
+      "published": "2026-09-18T21:14:48Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CHI",
-        "MIN"
+        "BAL",
+        "LA"
+      ]
+    },
+    {
+      "title": "Texans rule WR Nico Collins out vs. Bengals with hamstring injury",
+      "url": "https://www.espn.com/nfl/story/_/id/49975040/texans-rule-wr-nico-collins-vs-bengals-hamstring-injury",
+      "summary": "The Texans have ruled star wide receiver Nico Collins out for Sunday's matchup against the Bengals due to a hamstring injury.",
+      "published": "2026-09-18T22:11:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CIN",
+        "HOU"
+      ]
+    },
+    {
+      "title": "Bills to take time with Ed Oliver, DJ Moore injuries",
+      "url": "https://www.espn.com/nfl/story/_/id/49975029/bills-take-ed-oliver-dj-moore-injuries",
+      "summary": "A long week will give more time for Bills defensive lineman Ed Oliver (hip) and wide receiver DJ Moore (shoulder) to get healthy following Thursday's injuries.",
+      "published": "2026-09-18T21:46:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BUF"
+      ]
+    },
+    {
+      "title": "FBI case against fake 49ers player adds more alleged victims",
+      "url": "https://www.espn.com/nfl/story/_/id/49975015/fbi-case-fake-49ers-player-adds-more-alleged-victims",
+      "summary": "The FBI has identified 35 additional women who say they were defrauded by Daejon Love and Taylor Chan, bringing the total number of alleged victims in a case that included Love impersonating as a 49ers player to more than 60.",
+      "published": "2026-09-18T22:10:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "Ravens' Zay Flowers doubtful vs. Saints; Nnamdi Madubuike out",
+      "url": "https://www.espn.com/nfl/story/_/id/49974738/ravens-zay-flowers-doubtful-vs-saints-nnamdi-madubuike-out",
+      "summary": "Ravens receiver Zay Flowers is doubtful for Sunday's game vs. the Saints after he aggravated a left hamstring injury and missed the majority of practices this week.",
+      "published": "2026-09-18T21:19:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "NO"
+      ]
+    },
+    {
+      "title": "Raiders listing TE Brock Bowers as doubtful vs. Chargers",
+      "url": "https://www.espn.com/nfl/story/_/id/49974690/raiders-listing-te-brock-bowers-doubtful-vs-chargers",
+      "summary": "Brock Bowers is doubtful to play against the Chargers, though the Raiders will see how the tight end feels pregame before making a final decision.",
+      "published": "2026-09-18T20:51:42Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LAC",
+        "LV"
       ]
     },
     {
       "title": "Joey Porter Jr. out again for Steelers; WR Pittman questionable",
       "url": "https://www.espn.com/nfl/story/_/id/49974647/joey-porter-jr-again-steelers-wr-pittman-questionable",
       "summary": "The Steelers will be without top cornerback Joey Porter Jr. again amid their contentious contract negotiation. Wide receiver Michael Pittman Jr. (foot) and offensive tackle Troy Fautanu (ankle) are questionable to play.",
-      "published": "2026-09-18T20:03:26Z",
+      "published": "2026-09-18T20:26:04Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -289,7 +371,7 @@
       "title": "QB Burrow good to go, DE Stewart set for Bengals debut vs. Texans",
       "url": "https://www.espn.com/nfl/story/_/id/49974212/qb-burrow-good-go-de-stewart-set-bengals-debut-vs-texans",
       "summary": "Bengals QB Joe Burrow (back) was a full participant at Friday's practice and is set to start in Sunday's road affair against the Texans.",
-      "published": "2026-09-18T18:33:00Z",
+      "published": "2026-09-18T21:16:18Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -300,57 +382,30 @@
       ]
     },
     {
-      "title": "Commanders rule out Frankie Luvu, Chig Okonkwo vs. Cowboys",
-      "url": "https://www.espn.com/nfl/story/_/id/49974048/commanders-rule-frankie-luvu-chig-okonkwo-vs-cowboys",
-      "summary": "The Commanders have ruled out linebacker Frankie Luvu, and tight end Chig Okonkwo for Sunday's road game against Dallas, coach Dan Quinn said.",
-      "published": "2026-09-18T17:30:56Z",
-      "source": "ESPN NFL",
+      "title": "Texans rule out two-time Pro Bowl WR Nico Collins for Week 2 vs. Bengals",
+      "url": "https://www.cbssports.com/nfl/news/nico-collins-hamstring-injury-status-unclear-for-week-2-per-report/",
+      "summary": "Collins had seven catches and a touchdown in Week 1, but he suffered a hamstring injury during Wednesday's practice",
+      "published": "Fri, 18 Sep 2026 20:59:48 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "DAL",
-        "WAS"
+        "CIN",
+        "HOU"
       ]
     },
     {
-      "title": "With Penix not ready, Rush getting second start for Falcons",
-      "url": "https://www.espn.com/nfl/story/_/id/49974012/qb-cooper-rush-getting-second-start-falcons-sources-say",
-      "summary": "The Falcons will start quarterback Cooper Rush for the second straight week, coach Kevin Stefanski said Friday.",
-      "published": "2026-09-18T17:57:49Z",
-      "source": "ESPN NFL",
+      "title": "Here's what Tom Cruise and Taylor Swift talked about at the Chiefs' NFL opener",
+      "url": "https://www.cbssports.com/nfl/news/tom-cruise-taylor-swift-chiefs/",
+      "summary": "Cruise attended his first NFL game in many years, and described the experience and discussions with Taylor Swift",
+      "published": "Fri, 18 Sep 2026 20:47:04 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": [
-        "ATL"
-      ]
-    },
-    {
-      "title": "Stephon Gilmore, '19 NFL DPOY, retiring as member of the Patriots",
-      "url": "https://www.espn.com/nfl/story/_/id/49973986/stephon-gilmore-19-nfl-dpoy-retiring-member-patriots",
-      "summary": "Stephon Gilmore, a two-time All-Pro cornerback and the NFL's 2019 Defensive Player of the Year, is signing a one-day contract in New England to retire as a member of the Patriots,",
-      "published": "2026-09-18T17:49:44Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Mired in historic interception drought, Jets rule out Fitzpatrick",
-      "url": "https://www.espn.com/nfl/story/_/id/49973798/mired-historic-interception-drought-jets-rule-fitzpatrick",
-      "summary": "The Jets, mired in the longest interception drought in NFL history, will be without their most accomplished interceptor Sunday against the Packers as former All-Pro safety Minkah Fitzpatrick was ruled out with a groin injury.",
-      "published": "2026-09-18T16:32:20Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "GB",
-        "NYJ"
+        "KC"
       ]
     },
     {
@@ -733,20 +788,6 @@
       "category": "game",
       "teams": [
         "DAL"
-      ]
-    },
-    {
-      "title": "Previewing Lions vs. Bills: High-powered offenses kick off Week 2 as Buffalo unveils new stadium",
-      "url": "https://www.cbssports.com/nfl/news/previewing-prediction-lions-bills-nfl-week-2-thursday/",
-      "summary": "Josh Allen and Jahmyr Gibbs headline an explosive Thursday night showdown as Buffalo opens the new Highmark Stadium against Detroit's banged-up front line",
-      "published": "Thu, 17 Sep 2026 22:28:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "DET"
       ]
     }
   ],
