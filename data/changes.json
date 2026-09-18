@@ -1,6 +1,29 @@
 {
-  "updated_at_utc": "2026-09-18T17:52:32.460947+00:00",
+  "updated_at_utc": "2026-09-18T20:18:10.653443+00:00",
   "items": [
+    {
+      "ts": "2026-09-18T20:18:10.653443+00:00",
+      "type": "NEWS",
+      "title": "Vikings rule out Kyler Murray for Week 2 vs. Bears, Carson Wentz to start",
+      "detail": "Murray remains in concussion protocol after his anticipated Vikings debut lasted less than one quarter",
+      "teams": [
+        "CHI",
+        "MIN"
+      ],
+      "url": "https://www.cbssports.com/nfl/news/kyler-murray-injury-vikings-qb-carson-wentz/",
+      "source": "CBS Sports NFL"
+    },
+    {
+      "ts": "2026-09-18T20:18:10.653443+00:00",
+      "type": "NEWS",
+      "title": "Why Cowboys need to sign free agent Bobby Wagner to fix defensive woes, communication",
+      "detail": "Dallas rookie Jaishawn Barham is poised to fill in at the middle linebacker role with DeMarvion Overshown sidelined. But Wagner is the veteran presence they need",
+      "teams": [
+        "DAL"
+      ],
+      "url": "https://www.cbssports.com/nfl/news/why-dallas-cowboys-need-free-agent-bobby-wagner/",
+      "source": "CBS Sports NFL"
+    },
     {
       "ts": "2026-09-18T17:52:32.460947+00:00",
       "type": "NEWS",
@@ -1280,20 +1303,6 @@
       "game_id": "2026_01_WAS_PHI",
       "title": "WAS @ PHI",
       "detail": "LIVE \u00b7 WAS 3 \u2013 7 PHI"
-    },
-    {
-      "ts": "2026-09-13T21:09:38.815500+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_ARI_LAC",
-      "title": "ARI @ LAC",
-      "detail": "LIVE \u00b7 ARI 7 \u2013 7 LAC"
-    },
-    {
-      "ts": "2026-09-13T21:09:38.815500+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_TB_CIN",
-      "title": "TB @ CIN",
-      "detail": "FINAL \u00b7 TB 27 \u2013 33 CIN"
     }
   ]
 }

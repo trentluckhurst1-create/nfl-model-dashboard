@@ -1,25 +1,53 @@
 {
-  "updated_at_utc": "2026-09-18T17:52:35.852000+00:00",
-  "checked_at_utc": "2026-09-18T17:52:35.852000+00:00",
+  "updated_at_utc": "2026-09-18T20:18:12.375777+00:00",
+  "checked_at_utc": "2026-09-18T20:18:12.375777+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 8,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 28
+      "items": 29
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 16,
+      "items": 17,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Commanders vs. Cowboys: 5 Things To Know About This Historic NFC East Rivalry",
+      "url": "https://www.foxsports.com/stories/nfl/cowboys-commanders-rivalry-nfc-east-history",
+      "summary": "Few NFL rivalries have been more intense than that of the Cowboys and Commanders. Here are five things to know about their storied history.",
+      "published": "Fri, 18 Sep 2026 15:45:24 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Vikings Name Starting QB For Week 2 vs. Bears With Kyler Murray Injured",
+      "url": "https://www.foxsports.com/stories/nfl/kyler-murray-injury-update-carson-wentz-stats-vikings-qbs",
+      "summary": "The Minnesota Vikings are starting Carson Wentz at quarterback in Week 2 with Kyler Murray still recovering from a concussion.",
+      "published": "Fri, 18 Sep 2026 15:14:13 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "MIN"
+      ]
+    },
     {
       "title": "2026 NFL Odds: Are Buccaneers Best Bet To Win NFC South?",
       "url": "https://www.foxsports.com/stories/nfl/tampa-bay-buccaneers-baker-mayfield-nfc-south-best-bet",
@@ -217,15 +245,59 @@
       ]
     },
     {
-      "title": "NFL Says Harris, Wright Ineligible In 2026 After Attempt To Play For LSU",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-zxavian-harris-daequan-wright-ineligible-2026-lsu",
-      "summary": "The NFL has sent a memo to each of its teams saying undrafted free agents Zxavian Harris and Dae\u2019Quan Wright are not eligible to join any NFL teams after attempting to return to college.",
-      "published": "Thu, 17 Sep 2026 16:26:27 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Joey Porter Jr. out again for Steelers; WR Pittman questionable",
+      "url": "https://www.espn.com/nfl/story/_/id/49974647/joey-porter-jr-again-steelers-wr-pittman-questionable",
+      "summary": "The Steelers will be without top cornerback Joey Porter Jr. again amid their contentious contract negotiation. Wide receiver Michael Pittman Jr. (foot) and offensive tackle Troy Fautanu (ankle) are questionable to play.",
+      "published": "2026-09-18T20:03:26Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
+      "category": "injury",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Dolphins' Chop Robinson has concussion, out vs. 49ers",
+      "url": "https://www.espn.com/nfl/story/_/id/49974508/dolphins-chop-robinson-concussion-vs-49ers",
+      "summary": "Dolphins defensive end Chop Robinson will not play Sunday against the 49ers after suffering a concussion during Wednesday's practice, coach Jeff Hafley said.",
+      "published": "2026-09-18T19:47:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Vikings to start QB Wentz vs. Bears with Murray still on the mend",
+      "url": "https://www.espn.com/nfl/story/_/id/49974401/vikings-start-qb-wentz-vs-bears-murray-mend",
+      "summary": "Carson Wentz will be the Vikings' starting quarterback Sunday against the Bears while Kyler Murray continues to work his way back after suffering a concussion in the season opener.",
+      "published": "2026-09-18T20:06:43Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "MIN"
+      ]
+    },
+    {
+      "title": "QB Burrow good to go, DE Stewart set for Bengals debut vs. Texans",
+      "url": "https://www.espn.com/nfl/story/_/id/49974212/qb-burrow-good-go-de-stewart-set-bengals-debut-vs-texans",
+      "summary": "Bengals QB Joe Burrow (back) was a full participant at Friday's practice and is set to start in Sunday's road affair against the Texans.",
+      "published": "2026-09-18T18:33:00Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CIN",
+        "HOU"
+      ]
     },
     {
       "title": "Commanders rule out Frankie Luvu, Chig Okonkwo vs. Cowboys",
@@ -242,10 +314,10 @@
       ]
     },
     {
-      "title": "QB Cooper Rush getting second start for Falcons",
+      "title": "With Penix not ready, Rush getting second start for Falcons",
       "url": "https://www.espn.com/nfl/story/_/id/49974012/qb-cooper-rush-getting-second-start-falcons-sources-say",
       "summary": "The Falcons will start quarterback Cooper Rush for the second straight week, coach Kevin Stefanski said Friday.",
-      "published": "2026-09-18T17:44:46Z",
+      "published": "2026-09-18T17:57:49Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -282,17 +354,44 @@
       ]
     },
     {
-      "title": "Sean McVay hoping Rams don't get another Australia game",
-      "url": "https://www.espn.com/nfl/story/_/id/49973062/sean-mcvay-hoping-rams-get-another-australia-game",
-      "summary": "Rams coach Sean McVay is hoping to brush off his team's lackluster season-opening loss to the 49ers by not thinking about Australia -- for a very long time.",
-      "published": "2026-09-18T16:23:48Z",
-      "source": "ESPN NFL",
+      "title": "Joey Porter Jr. best trade fits: Why Cowboys make sense, two NFC North teams could be in line to make offer",
+      "url": "https://www.cbssports.com/nfl/news/joey-porter-jr-best-trade-fits-why-cowboys-make-sense-chargers-bills/",
+      "summary": "Five possible mock trade fits for Porter, who is still at odds with the Steelers and is out for Week 2",
+      "published": "Fri, 18 Sep 2026 20:04:18 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "transaction",
       "teams": [
-        "LA",
-        "SF"
+        "DAL",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Vikings rule out Kyler Murray for Week 2 vs. Bears, Carson Wentz to start",
+      "url": "https://www.cbssports.com/nfl/news/kyler-murray-injury-vikings-qb-carson-wentz/",
+      "summary": "Murray remains in concussion protocol after his anticipated Vikings debut lasted less than one quarter",
+      "published": "Fri, 18 Sep 2026 19:31:42 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Why Cowboys need to sign free agent Bobby Wagner to fix defensive woes, communication",
+      "url": "https://www.cbssports.com/nfl/news/why-dallas-cowboys-need-free-agent-bobby-wagner/",
+      "summary": "Dallas rookie Jaishawn Barham is poised to fill in at the middle linebacker role with DeMarvion Overshown sidelined. But Wagner is the veteran presence they need",
+      "published": "Fri, 18 Sep 2026 18:00:56 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DAL"
       ]
     },
     {
@@ -307,20 +406,6 @@
       "teams": [
         "ATL",
         "CAR"
-      ]
-    },
-    {
-      "title": "Joey Porter Jr. best trade fits: Why Cowboys make sense, two NFC North teams could be in line to make offer",
-      "url": "https://www.cbssports.com/nfl/news/joey-porter-jr-best-trade-fits-why-cowboys-make-sense-chargers-bills/",
-      "summary": "Five possible mock trade fits for Porter, who is still at odds with the Steelers",
-      "published": "Fri, 18 Sep 2026 17:19:20 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL",
-        "PIT"
       ]
     },
     {
@@ -662,19 +747,6 @@
       "teams": [
         "BUF",
         "DET"
-      ]
-    },
-    {
-      "title": "Former Giants DC Wink Martindale takes veiled jab at Brian Daboll over Jaxson Dart, Cam Ward",
-      "url": "https://www.cbssports.com/nfl/news/former-giants-dc-wink-martindale-takes-veiled-jab-at-brian-daboll/",
-      "summary": "The development of Dart and Ward seems to be trending in opposite directions after their coaching changes",
-      "published": "Thu, 17 Sep 2026 21:01:39 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG"
       ]
     }
   ],
