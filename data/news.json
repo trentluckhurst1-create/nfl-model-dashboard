@@ -1,21 +1,21 @@
 {
-  "updated_at_utc": "2026-09-18T22:40:33.101621+00:00",
-  "checked_at_utc": "2026-09-18T22:40:33.101621+00:00",
+  "updated_at_utc": "2026-09-19T00:39:25.363260+00:00",
+  "checked_at_utc": "2026-09-19T00:39:25.363260+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 11,
+      "items": 8,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 30
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 16,
+      "items": 15,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
@@ -218,16 +218,17 @@
       ]
     },
     {
-      "title": "Sammy\u2019s Sportsbook Whispers: Is Chicago No Longer Your Average Bears?",
-      "url": "https://www.foxsports.com/stories/nfl/sammys-sportsbook-whispers-chicago-no-longer-your-average-bears",
-      "summary": "Are Da Bears for real? Depends on who you're asking. Sammy P shares the latest whispers from the football world.",
-      "published": "Thu, 17 Sep 2026 19:51:14 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Rams' Donald plans to play vs. Giants; Nacua (hip) misses practice",
+      "url": "https://www.espn.com/nfl/story/_/id/49975442/rams-donald-plans-play-vs-giants-nacua-hip-misses-practice",
+      "summary": "Rams DT Aaron Donald said Friday \"the plan\" is to play Monday night against the Giants, while WR Puka Nacua did not practice on Friday with a hip issue.",
+      "published": "2026-09-18T23:14:57Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "injury",
       "teams": [
-        "CHI"
+        "LA",
+        "NYG"
       ]
     },
     {
@@ -327,58 +328,27 @@
       ]
     },
     {
-      "title": "Joey Porter Jr. out again for Steelers; WR Pittman questionable",
-      "url": "https://www.espn.com/nfl/story/_/id/49974647/joey-porter-jr-again-steelers-wr-pittman-questionable",
-      "summary": "The Steelers will be without top cornerback Joey Porter Jr. again amid their contentious contract negotiation. Wide receiver Michael Pittman Jr. (foot) and offensive tackle Troy Fautanu (ankle) are questionable to play.",
-      "published": "2026-09-18T20:26:04Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 2 injury report: Joe Burrow questionable, Brock Bowers doubtful, Kyler Murray out",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-injury-report-joe-burrow/",
+      "summary": "Joe Burrow appears to be trending toward playing, but Brock Bowers and Zay Flowers face uncertain outlooks while several starting quarterbacks have been ruled out",
+      "published": "Fri, 18 Sep 2026 23:00:49 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
-      "teams": [
-        "PIT"
-      ]
+      "teams": []
     },
     {
-      "title": "Dolphins' Chop Robinson has concussion, out vs. 49ers",
-      "url": "https://www.espn.com/nfl/story/_/id/49974508/dolphins-chop-robinson-concussion-vs-49ers",
-      "summary": "Dolphins defensive end Chop Robinson will not play Sunday against the 49ers after suffering a concussion during Wednesday's practice, coach Jeff Hafley said.",
-      "published": "2026-09-18T19:47:27Z",
-      "source": "ESPN NFL",
+      "title": "Bengals star Joe Burrow listed as questionable: Here's what Zac Taylor said about Week 2 status",
+      "url": "https://www.cbssports.com/nfl/news/joe-burrow-injury-update-bengals-qb-questionable/",
+      "summary": "Why the Bengals' QB was listed as questionable for Week 2",
+      "published": "Fri, 18 Sep 2026 22:40:03 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "MIA",
-        "SF"
-      ]
-    },
-    {
-      "title": "Vikings to start QB Wentz vs. Bears with Murray still on the mend",
-      "url": "https://www.espn.com/nfl/story/_/id/49974401/vikings-start-qb-wentz-vs-bears-murray-mend",
-      "summary": "Carson Wentz will be the Vikings' starting quarterback Sunday against the Bears while Kyler Murray continues to work his way back after suffering a concussion in the season opener.",
-      "published": "2026-09-18T20:06:43Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "MIN"
-      ]
-    },
-    {
-      "title": "QB Burrow good to go, DE Stewart set for Bengals debut vs. Texans",
-      "url": "https://www.espn.com/nfl/story/_/id/49974212/qb-burrow-good-go-de-stewart-set-bengals-debut-vs-texans",
-      "summary": "Bengals QB Joe Burrow (back) was a full participant at Friday's practice and is set to start in Sunday's road affair against the Texans.",
-      "published": "2026-09-18T21:16:18Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CIN",
-        "HOU"
+        "CIN"
       ]
     },
     {
