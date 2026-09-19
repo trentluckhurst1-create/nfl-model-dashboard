@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-19T05:05:50.773350+00:00",
-  "checked_at_utc": "2026-09-19T05:05:50.773350+00:00",
+  "updated_at_utc": "2026-09-19T09:27:42.698797+00:00",
+  "checked_at_utc": "2026-09-19T09:27:42.698797+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 21,
+      "items": 18,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -509,44 +509,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "Saints QB Tyler Shough expects less jitters vs. Ravens",
-      "url": "https://www.espn.com/nfl/story/_/id/49967346/new-orleans-saints-quarterback-tyler-shough-expects-less-jitters-baltimore-ravens",
-      "summary": "The 26-year-old starter is the first to say he and his New Orleans team will fight through the adversity.",
-      "published": "2026-09-18T10:00:13Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "NO"
-      ]
-    },
-    {
-      "title": "NFL Week 2 picks, predictions, schedule, odds, fantasy tips",
-      "url": "https://www.espn.com/nfl/story/_/id/49957149/week-2-picks-predictions-schedule-fantasy-odds-2026",
-      "summary": "Minnesota vs. Chicago? Trevor Lawrence vs. Bo Nix? There are more games left in Week 2, and we have picks, predictions, key stats, watchability ratings and more.",
-      "published": "2026-09-18T17:06:02Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Career-defining season for Vikings coach Kevin O'Connell?",
-      "url": "https://www.espn.com/nfl/story/_/id/49964734/nfl-minnesota-vikings-kevin-oconnell-kyler-murray-jj-mccarthy",
-      "summary": "O'Connell has had tremendous regular-season success, but is this the season it extends into the playoffs?",
-      "published": "2026-09-18T11:28:24Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN"
-      ]
     },
     {
       "title": "NFL Week 2 injury report: Joe Burrow questionable, Brock Bowers doubtful, Kyler Murray out",
