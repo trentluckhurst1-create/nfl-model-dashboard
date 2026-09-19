@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-19T00:39:25.363260+00:00",
-  "checked_at_utc": "2026-09-19T00:39:25.363260+00:00",
+  "updated_at_utc": "2026-09-19T05:05:50.773350+00:00",
+  "checked_at_utc": "2026-09-19T05:05:50.773350+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 8,
+      "items": 21,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,60 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 15,
+      "items": 19,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Aaron Donald Expects To Play In Rams' In Home Opener vs. Giants On Monday",
+      "url": "https://www.foxsports.com/stories/nfl/aaron-donald-expects-play-rams-home-opener-vs-giants-monday",
+      "summary": "Aaron Donald expects to play for the Los Angeles Rams in their home opener against the New York Giants on Monday night.",
+      "published": "Fri, 18 Sep 2026 23:57:52 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "NYG"
+      ]
+    },
+    {
+      "title": "2026 NFL Coach Of The Year Odds: Harbaugh, Minter Leading The Pack",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-coach-of-the-year-odds",
+      "summary": "Can John Harbaugh turn around the Giants? Check out the latest NFL Coach of the Year odds.",
+      "published": "Fri, 18 Sep 2026 21:31:06 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "2026 NFL OPOY Odds: Gibbs Favored; Walker III Skyrockets",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
+      "summary": "Check out the latest odds to win the 2026 NFL Offensive Player of the Year award, with a few star running backs topping the board.",
+      "published": "Fri, 18 Sep 2026 21:22:27 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL DPOY Odds: Hutchinson Favored After Garrett Injury",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
+      "summary": "Check out how the latest odds to win the 2026 NFL Defensive Player of the Year award.",
+      "published": "Fri, 18 Sep 2026 20:57:41 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
     {
       "title": "2026 NFL, College Football Odds: Best Bets For LSU-Ole Miss, Eagles-Titans",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-college-football-odds-best-bets-lsu-ole-miss-eagles-titans",
@@ -290,7 +339,7 @@
       "title": "FBI case against fake 49ers player adds more alleged victims",
       "url": "https://www.espn.com/nfl/story/_/id/49975015/fbi-case-fake-49ers-player-adds-more-alleged-victims",
       "summary": "The FBI has identified 35 additional women who say they were defrauded by Daejon Love and Taylor Chan, bringing the total number of alleged victims in a case that included Love impersonating as a 49ers player to more than 60.",
-      "published": "2026-09-18T22:10:01Z",
+      "published": "2026-09-19T02:51:33Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -325,6 +374,178 @@
       "teams": [
         "LAC",
         "LV"
+      ]
+    },
+    {
+      "title": "Joey Porter Jr. out again for Steelers; WR Pittman questionable",
+      "url": "https://www.espn.com/nfl/story/_/id/49974647/joey-porter-jr-again-steelers-wr-pittman-questionable",
+      "summary": "The Steelers will be without top cornerback Joey Porter Jr. again amid their contentious contract negotiation. Wide receiver Michael Pittman Jr. (foot) and offensive tackle Troy Fautanu (ankle) are questionable to play.",
+      "published": "2026-09-18T20:26:04Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Dolphins' Chop Robinson has concussion, out vs. 49ers",
+      "url": "https://www.espn.com/nfl/story/_/id/49974508/dolphins-chop-robinson-concussion-vs-49ers",
+      "summary": "Dolphins defensive end Chop Robinson will not play Sunday against the 49ers after suffering a concussion during Wednesday's practice, coach Jeff Hafley said.",
+      "published": "2026-09-18T19:47:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Vikings to start QB Wentz vs. Bears with Murray still on the mend",
+      "url": "https://www.espn.com/nfl/story/_/id/49974401/vikings-start-qb-wentz-vs-bears-murray-mend",
+      "summary": "Carson Wentz will be the Vikings' starting quarterback Sunday against the Bears while Kyler Murray continues to work his way back after suffering a concussion in the season opener.",
+      "published": "2026-09-18T20:06:43Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "MIN"
+      ]
+    },
+    {
+      "title": "QB Burrow good to go, DE Stewart set for Bengals debut vs. Texans",
+      "url": "https://www.espn.com/nfl/story/_/id/49974212/qb-burrow-good-go-de-stewart-set-bengals-debut-vs-texans",
+      "summary": "Bengals QB Joe Burrow (back) was a full participant at Friday's practice and is set to start in Sunday's road affair against the Texans.",
+      "published": "2026-09-18T21:16:18Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CIN",
+        "HOU"
+      ]
+    },
+    {
+      "title": "Commanders rule out Frankie Luvu, Chig Okonkwo vs. Cowboys",
+      "url": "https://www.espn.com/nfl/story/_/id/49974048/commanders-rule-frankie-luvu-chig-okonkwo-vs-cowboys",
+      "summary": "The Commanders have ruled out linebacker Frankie Luvu, and tight end Chig Okonkwo for Sunday's road game against Dallas, coach Dan Quinn said.",
+      "published": "2026-09-18T17:30:56Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DAL",
+        "WAS"
+      ]
+    },
+    {
+      "title": "With Penix not ready, Rush getting second start for Falcons",
+      "url": "https://www.espn.com/nfl/story/_/id/49974012/qb-cooper-rush-getting-second-start-falcons-sources-say",
+      "summary": "The Falcons will start quarterback Cooper Rush for the second straight week, coach Kevin Stefanski said Friday.",
+      "published": "2026-09-18T17:57:49Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ATL"
+      ]
+    },
+    {
+      "title": "Stephon Gilmore, '19 NFL DPOY, retires as member of the Patriots",
+      "url": "https://www.espn.com/nfl/story/_/id/49973986/stephon-gilmore-19-nfl-dpoy-retiring-member-patriots",
+      "summary": "Stephon Gilmore, a two-time All-Pro cornerback and the NFL's 2019 Defensive Player of the Year, signed a one-day contract in New England on Friday to retire as a member of the Patriots,",
+      "published": "2026-09-18T21:13:51Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "Mired in historic interception drought, Jets rule out Fitzpatrick",
+      "url": "https://www.espn.com/nfl/story/_/id/49973798/mired-historic-interception-drought-jets-rule-fitzpatrick",
+      "summary": "The Jets, mired in the longest interception drought in NFL history, will be without their most accomplished interceptor Sunday against the Packers as former All-Pro safety Minkah Fitzpatrick was ruled out with a groin injury.",
+      "published": "2026-09-18T16:32:20Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "GB",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Sean McVay hoping Rams don't get another Australia game",
+      "url": "https://www.espn.com/nfl/story/_/id/49973062/sean-mcvay-hoping-rams-get-another-australia-game",
+      "summary": "Rams coach Sean McVay is hoping to brush off his team's lackluster season-opening loss to the 49ers by not thinking about Australia -- for a very long time.",
+      "published": "2026-09-18T16:23:48Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "SF"
+      ]
+    },
+    {
+      "title": "NFL depth charts for all 32 teams for 2026 season",
+      "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
+      "summary": "Here are the latest NFL depth charts for all 32 teams.",
+      "published": "2026-09-18T11:42:31Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Saints QB Tyler Shough expects less jitters vs. Ravens",
+      "url": "https://www.espn.com/nfl/story/_/id/49967346/new-orleans-saints-quarterback-tyler-shough-expects-less-jitters-baltimore-ravens",
+      "summary": "The 26-year-old starter is the first to say he and his New Orleans team will fight through the adversity.",
+      "published": "2026-09-18T10:00:13Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL",
+        "NO"
+      ]
+    },
+    {
+      "title": "NFL Week 2 picks, predictions, schedule, odds, fantasy tips",
+      "url": "https://www.espn.com/nfl/story/_/id/49957149/week-2-picks-predictions-schedule-fantasy-odds-2026",
+      "summary": "Minnesota vs. Chicago? Trevor Lawrence vs. Bo Nix? There are more games left in Week 2, and we have picks, predictions, key stats, watchability ratings and more.",
+      "published": "2026-09-18T17:06:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Career-defining season for Vikings coach Kevin O'Connell?",
+      "url": "https://www.espn.com/nfl/story/_/id/49964734/nfl-minnesota-vikings-kevin-oconnell-kyler-murray-jj-mccarthy",
+      "summary": "O'Connell has had tremendous regular-season success, but is this the season it extends into the playoffs?",
+      "published": "2026-09-18T11:28:24Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN"
       ]
     },
     {
