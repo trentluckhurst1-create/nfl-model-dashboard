@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-09-19T13:20:13.104523+00:00",
-  "checked_at_utc": "2026-09-19T13:20:13.104523+00:00",
+  "updated_at_utc": "2026-09-19T16:36:16.253044+00:00",
+  "checked_at_utc": "2026-09-19T16:36:16.253044+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 7,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 33
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -270,7 +270,7 @@
       "title": "NFL Week 2 predictions: Upsets, fantasy sleepers, stat lines",
       "url": "https://www.espn.com/nfl/story/_/id/49951327/week-2-predictions-upsets-fantasy-sleepers-stats-2026",
       "summary": "Will Ashton Jeanty pile up the scrimmage yards? Could the Bengals upset the Texans? And can George Pickens find the end zone?",
-      "published": "2026-09-19T10:38:55Z",
+      "published": "2026-09-19T16:16:31Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -294,71 +294,56 @@
       ]
     },
     {
-      "title": "How the 49ers are readjusting after weeklong Australia trip",
-      "url": "https://www.espn.com/nfl/story/_/id/49964673/san-francisco-49ers-melbourne-australia-trip-recovery",
-      "summary": "On their 16-hour flight home from Australia, the 49ers chose sleep over celebration. That kick-started a long week of getting back into routine.",
-      "published": "2026-09-19T10:00:31Z",
-      "source": "ESPN NFL",
+      "title": "Week 2 NFL betting promos: Get nearly $4,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/week-2-nfl-betting-promos-get-nearly-4000-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 2 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Sat, 19 Sep 2026 15:24:49 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Bengals vs. Texans: How to watch as Houston attempts to avoid starting 0-2",
+      "url": "https://www.cbssports.com/nfl/news/bengals-vs-texans-how-to-watch-prediction-preview/",
+      "summary": "Everything you need to know to tune into this AFC matchup",
+      "published": "Sat, 19 Sep 2026 14:37:48 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
       "teams": [
-        "SF"
+        "CIN",
+        "HOU"
       ]
     },
     {
-      "title": "First impressions of Raiders' defense under Rob Leonard",
-      "url": "https://www.espn.com/nfl/story/_/id/49968528/las-vegas-raiders-defense-coordinator-rob-leonard-first-impressions",
-      "summary": "After a Week 1 win, players praised how the new DC called the defense against Miami.",
-      "published": "2026-09-19T10:00:22Z",
-      "source": "ESPN NFL",
+      "title": "Chiefs vs. Colts: How to watch, stream 'Sunday Night Football,' plus odds and prediction",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-vs-colts-how-to-watch-tv-channel-live-stream-nfl-start-time-odds/",
+      "summary": "Patrick Mahomes and the Chiefs host the Colts on Sunday night; here is how to watch the game, along with the latest odds and our prediction",
+      "published": "Sat, 19 Sep 2026 14:25:24 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LV"
+        "IND",
+        "KC"
       ]
     },
     {
-      "title": "Dolphins not discouraged by Chris Johnson's rough stat sheet",
-      "url": "https://www.espn.com/nfl/story/_/id/49975714/miami-dophins-chris-johnson-rookie-outlook",
-      "summary": "Coach Jeff Hafley found positives for first-round cornerback Chris Johnson despite a hard day at the office.",
-      "published": "2026-09-19T10:00:21Z",
-      "source": "ESPN NFL",
+      "title": "Steelers vs. Patriots: How to watch Maye vs. Rodgers in New England, prediction",
+      "url": "https://www.cbssports.com/nfl/news/steelers-vs-patriots-how-to-watch-maye-vs-rodgers/",
+      "summary": "The Steelers are hoping to get off to a 2-0 start, while the Patriots remain in search of their first win",
+      "published": "Sat, 19 Sep 2026 14:10:09 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "MIA"
-      ]
-    },
-    {
-      "title": "Week 2 fix for Cowboys' D vs. Commanders: Communication",
-      "url": "https://www.espn.com/nfl/story/_/id/49972793/nfl-dallas-cowboys-defense-christian-paker-schottenheimer-commanders",
-      "summary": "The Week 1 loss to the Giants was an inauspicious start for new coordinator Christian Parker's defense.",
-      "published": "2026-09-19T10:00:28Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Cam Skattebo reclaims role as Giants' feature back",
-      "url": "https://www.espn.com/nfl/story/_/id/49972451/cam-skattebo-reclaims-role-new-york-giants-feature-running-back-injury-recovery",
-      "summary": "Just like that, it's business as usual for the bruising running back as he dominated the field in Week 1 against the Cowboys.",
-      "published": "2026-09-19T10:00:11Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "NYG"
+        "NE",
+        "PIT"
       ]
     },
     {
@@ -519,17 +504,6 @@
       ]
     },
     {
-      "title": "Week 2 NFL betting promos: Get nearly $4,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-2-nfl-betting-promos-get-nearly-4000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 2 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Fri, 18 Sep 2026 15:00:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Aaron Donald return: Cam Skattebo issues blunt message to Rams star defender ahead of 'MNF' matchup",
       "url": "https://www.cbssports.com/nfl/news/aaron-donald-return-cam-skattebo-issues-message-to-rams/",
       "summary": "Skattebo told the Rams star to be ready and praised Donald, who is set to make his re-debut with the Rams in Week 2 after coming out of retirement",
@@ -567,6 +541,20 @@
       "category": "game",
       "teams": [
         "BUF"
+      ]
+    },
+    {
+      "title": "Jaguars vs. Broncos: Jacksonville aims for 10th consecutive regular-season win",
+      "url": "https://www.cbssports.com/nfl/news/how-to-watch-jaguars-vs-broncos-preview-prediction/",
+      "summary": "Denver must bounce back from its Week 1 struggles in order to contain the scalding-hot Jaguars",
+      "published": "Sat, 19 Sep 2026 13:56:19 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "JAX"
       ]
     },
     {
@@ -749,47 +737,6 @@
         "LAC",
         "NE",
         "NYG"
-      ]
-    },
-    {
-      "title": "Bills vs. Lions betting guide: Odds, picks, anytime TD scorers for NFL Week 2 Thursday Night Football game",
-      "url": "https://www.cbssports.com/betting/news/bills-vs-lions-betting-guide-odds-picks-anytime-td-scorers-for-nfl-week-2-thursday-night-football-game/",
-      "summary": "Buffalo opens its new stadium in a high-powered Thursday night clash with Detroit featuring a massive 54.5-point total, player props for Josh Allen and Jahmyr Gibbs, and a first-half betting angle",
-      "published": "Thu, 17 Sep 2026 23:15:42 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "DET"
-      ]
-    },
-    {
-      "title": "Seahawks' Mike Macdonald describes mental health struggles during first season in Seattle",
-      "url": "https://www.cbssports.com/nfl/news/seahawks-mike-macdonald-describes-extremely-difficult-first-season/",
-      "summary": "Macdonald opened up about 'extremely difficult' first season in Seattle",
-      "published": "Thu, 17 Sep 2026 23:01:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SEA"
-      ]
-    },
-    {
-      "title": "Lions vs. Bills odds, predictions, NFL picks, best bets: Betting preview for Thursday Night Football",
-      "url": "https://www.cbssports.com/betting/news/lions-bills-odds-predictions-nfl-picks-best-bets-betting-preview-thursday-night-football/",
-      "summary": "Best bets and betting preview for Lions vs. Bills on Thursday Night Football",
-      "published": "Thu, 17 Sep 2026 22:59:16 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "DET"
       ]
     }
   ],
