@@ -1,6 +1,27 @@
 {
-  "updated_at_utc": "2026-09-19T18:54:20.227425+00:00",
+  "updated_at_utc": "2026-09-19T21:18:51.212116+00:00",
   "items": [
+    {
+      "ts": "2026-09-19T21:18:51.212116+00:00",
+      "type": "NEWS",
+      "title": "Aaron Donald returning for Rams' Week 2 matchup with Giants, Sean McVay confirms",
+      "detail": "Donald will make his season debut Monday night, giving Los Angeles a major reinforcement along its defensive front",
+      "teams": [
+        "LA",
+        "NYG"
+      ],
+      "url": "https://www.cbssports.com/nfl/news/aaron-donald-rams-giants/",
+      "source": "CBS Sports NFL"
+    },
+    {
+      "ts": "2026-09-19T21:18:51.212116+00:00",
+      "type": "NEWS",
+      "title": "NFL Week 2 injury report: Puka Nacua, Joe Burrow questionable, Zay Flowers, Michael Pittman, Kyler Murray out",
+      "detail": "Joe Burrow appears to be trending toward playing, but Brock Bowers and Zay Flowers face uncertain outlooks while several starting quarterbacks have been ruled out",
+      "teams": [],
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-injury-report-joe-burrow/",
+      "source": "CBS Sports NFL"
+    },
     {
       "ts": "2026-09-19T18:54:20.227425+00:00",
       "type": "NEWS",
@@ -1295,20 +1316,6 @@
       "game_id": "2026_01_MIA_LV",
       "title": "MIA @ LV",
       "detail": "LIVE \u00b7 MIA 13 \u2013 27 LV"
-    },
-    {
-      "ts": "2026-09-13T23:10:50.537415+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_GB_MIN",
-      "title": "GB @ MIN",
-      "detail": "LIVE \u00b7 GB 22 \u2013 17 MIN"
-    },
-    {
-      "ts": "2026-09-13T23:10:50.537415+00:00",
-      "type": "GAME",
-      "game_id": "2026_01_WAS_PHI",
-      "title": "WAS @ PHI",
-      "detail": "LIVE \u00b7 WAS 16 \u2013 17 PHI"
     }
   ]
 }

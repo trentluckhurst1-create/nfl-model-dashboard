@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-19T18:54:22.618928+00:00",
-  "checked_at_utc": "2026-09-19T18:54:22.618928+00:00",
+  "updated_at_utc": "2026-09-19T21:18:53.157389+00:00",
+  "checked_at_utc": "2026-09-19T21:18:53.157389+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -267,37 +267,63 @@
       ]
     },
     {
-      "title": "Steelers rule out WR Pittman Jr. vs. Patriots with foot injury",
-      "url": "https://www.espn.com/nfl/story/_/id/49980918/steelers-rule-wr-pittman-jr-vs-patriots-foot-injury",
-      "summary": "The Steelers will be without another starter for their Week 2 game against the Patriots after downgrading wide receiver Michael Pittman Jr. to out with a foot injury.",
-      "published": "2026-09-19T18:23:36Z",
+      "title": "Ravens' Zay Flowers downgraded to out because of hamstring injury",
+      "url": "https://www.espn.com/nfl/story/_/id/49982377/ravens-zay-flowers-downgraded-hamstring-injury",
+      "summary": "The Baltimore Ravens downgraded Pro Bowl wide receiver Zay Flowers to out for Sunday's game against the New Orleans Saints.",
+      "published": "2026-09-19T21:10:46Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "NE",
-        "PIT"
+        "BAL",
+        "NO"
       ]
     },
     {
-      "title": "Source: Jets rookie WR Cooper Jr. put on IR with sprained ankle",
-      "url": "https://www.espn.com/nfl/story/_/id/49980661/source-jets-rookie-wr-cooper-jr-put-ir-sprained-ankle",
-      "summary": "Jets rookie wide receiver Omar Cooper Jr., one of the team's three first-round picks, has been placed on injured reserve with a sprained ankle, a source told NFL Network's Ian Rapoport.",
-      "published": "2026-09-19T17:46:25Z",
+      "title": "NFL changes rules governing videoboard displays during kicks",
+      "url": "https://www.espn.com/nfl/story/_/id/49979831/nfl-changes-rules-governing-video-board-displays-kicks",
+      "summary": "The NFL has modified what can be shown on videoboards during field goal and extra point attempts, an alteration coming in the wake of a viral social media post from a former analytics coach.",
+      "published": "2026-09-19T20:56:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Rams' Puka Nacua again misses practice, questionable for MNF",
+      "url": "https://www.espn.com/nfl/story/_/id/49981547/rams-puka-nacua-again-misses-practice-questionable-mnf",
+      "summary": "Rams receiver Puka Nacua will not practice for the second day in a row and will be listed as questionable for Monday night's game against the Giants.",
+      "published": "2026-09-19T20:27:40Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "NYJ"
+        "LA",
+        "NYG"
       ]
     },
     {
-      "title": "NFL Week 2 injury report: Joe Burrow questionable, Michael Pittman out, Kyler Murray out",
+      "title": "Aaron Donald returning for Rams' Week 2 matchup with Giants, Sean McVay confirms",
+      "url": "https://www.cbssports.com/nfl/news/aaron-donald-rams-giants/",
+      "summary": "Donald will make his season debut Monday night, giving Los Angeles a major reinforcement along its defensive front",
+      "published": "Sat, 19 Sep 2026 19:36:00 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "NYG"
+      ]
+    },
+    {
+      "title": "NFL Week 2 injury report: Puka Nacua, Joe Burrow questionable, Zay Flowers, Michael Pittman, Kyler Murray out",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-2-injury-report-joe-burrow/",
       "summary": "Joe Burrow appears to be trending toward playing, but Brock Bowers and Zay Flowers face uncertain outlooks while several starting quarterbacks have been ruled out",
-      "published": "Sat, 19 Sep 2026 18:30:17 +0000",
+      "published": "Sat, 19 Sep 2026 21:08:49 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -696,22 +722,6 @@
       "teams": [
         "BUF",
         "DET"
-      ]
-    },
-    {
-      "title": "Rams, Packers, Chargers, Patriots: Which Week 1 losses should scare us most?",
-      "url": "https://www.cbssports.com/nfl/news/rams-packers-chargers-patriots-week-1-losses-that-scare-us-most/",
-      "summary": "We went back to 2015 to see which Week 1 problems were hardest for preseason contenders to overcome",
-      "published": "Fri, 18 Sep 2026 16:15:06 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "LA",
-        "LAC",
-        "NE"
       ]
     }
   ],
