@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-19T21:18:53.157389+00:00",
-  "checked_at_utc": "2026-09-19T21:18:53.157389+00:00",
+  "updated_at_utc": "2026-09-19T23:15:35.646563+00:00",
+  "checked_at_utc": "2026-09-19T23:15:35.646563+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
@@ -15,11 +15,22 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 19,
+      "items": 20,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "NFL Deals Stefon Diggs, Jahmyr Gibbs First 5-Figure Fines Of 2026 Season",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-announces-first-fines-2026-season-including-stefon-diggs-jahmyr-gibbs",
+      "summary": "The NFL announced its first set of fines for the 2026 season, and they are not small.",
+      "published": "Sat, 19 Sep 2026 18:51:40 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "Aaron Donald Expects To Play In Rams' In Home Opener vs. Giants On Monday",
       "url": "https://www.foxsports.com/stories/nfl/aaron-donald-expects-play-rams-home-opener-vs-giants-monday",
@@ -267,10 +278,24 @@
       ]
     },
     {
+      "title": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
+      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms",
+      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
+      "published": "2026-09-19T22:59:37Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "LA"
+      ]
+    },
+    {
       "title": "Ravens' Zay Flowers downgraded to out because of hamstring injury",
       "url": "https://www.espn.com/nfl/story/_/id/49982377/ravens-zay-flowers-downgraded-hamstring-injury",
       "summary": "The Baltimore Ravens downgraded Pro Bowl wide receiver Zay Flowers to out for Sunday's game against the New Orleans Saints.",
-      "published": "2026-09-19T21:10:46Z",
+      "published": "2026-09-19T21:53:31Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -284,26 +309,12 @@
       "title": "NFL changes rules governing videoboard displays during kicks",
       "url": "https://www.espn.com/nfl/story/_/id/49979831/nfl-changes-rules-governing-video-board-displays-kicks",
       "summary": "The NFL has modified what can be shown on videoboards during field goal and extra point attempts, an alteration coming in the wake of a viral social media post from a former analytics coach.",
-      "published": "2026-09-19T20:56:01Z",
+      "published": "2026-09-19T21:35:07Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "Rams' Puka Nacua again misses practice, questionable for MNF",
-      "url": "https://www.espn.com/nfl/story/_/id/49981547/rams-puka-nacua-again-misses-practice-questionable-mnf",
-      "summary": "Rams receiver Puka Nacua will not practice for the second day in a row and will be listed as questionable for Monday night's game against the Giants.",
-      "published": "2026-09-19T20:27:40Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA",
-        "NYG"
-      ]
     },
     {
       "title": "Aaron Donald returning for Rams' Week 2 matchup with Giants, Sean McVay confirms",
