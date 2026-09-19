@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-19T16:36:16.253044+00:00",
-  "checked_at_utc": "2026-09-19T16:36:16.253044+00:00",
+  "updated_at_utc": "2026-09-19T18:54:22.618928+00:00",
+  "checked_at_utc": "2026-09-19T18:54:22.618928+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
@@ -11,7 +11,7 @@
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -267,31 +267,66 @@
       ]
     },
     {
-      "title": "NFL Week 2 predictions: Upsets, fantasy sleepers, stat lines",
-      "url": "https://www.espn.com/nfl/story/_/id/49951327/week-2-predictions-upsets-fantasy-sleepers-stats-2026",
-      "summary": "Will Ashton Jeanty pile up the scrimmage yards? Could the Bengals upset the Texans? And can George Pickens find the end zone?",
-      "published": "2026-09-19T16:16:31Z",
+      "title": "Steelers rule out WR Pittman Jr. vs. Patriots with foot injury",
+      "url": "https://www.espn.com/nfl/story/_/id/49980918/steelers-rule-wr-pittman-jr-vs-patriots-foot-injury",
+      "summary": "The Steelers will be without another starter for their Week 2 game against the Patriots after downgrading wide receiver Michael Pittman Jr. to out with a foot injury.",
+      "published": "2026-09-19T18:23:36Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "injury",
       "teams": [
-        "CIN",
-        "HOU"
+        "NE",
+        "PIT"
       ]
     },
     {
-      "title": "Eagles' new perspective for '26: Don't 'let anyone steal our joy'",
-      "url": "https://www.espn.com/nfl/story/_/id/49972586/philadelphia-eagles-new-perspective-2026-let-anyone-steal-our-joy-saquon-barkley",
-      "summary": "It's no coincidence the mood inside Philly's locker room was at its most sullen in 2023 and '25, two seasons following Super Bowl runs.",
-      "published": "2026-09-19T10:00:11Z",
+      "title": "Source: Jets rookie WR Cooper Jr. put on IR with sprained ankle",
+      "url": "https://www.espn.com/nfl/story/_/id/49980661/source-jets-rookie-wr-cooper-jr-put-ir-sprained-ankle",
+      "summary": "Jets rookie wide receiver Omar Cooper Jr., one of the team's three first-round picks, has been placed on injured reserve with a sprained ankle, a source told NFL Network's Ian Rapoport.",
+      "published": "2026-09-19T17:46:25Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "injury",
       "teams": [
-        "PHI"
+        "NYJ"
       ]
+    },
+    {
+      "title": "NFL Week 2 injury report: Joe Burrow questionable, Michael Pittman out, Kyler Murray out",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-injury-report-joe-burrow/",
+      "summary": "Joe Burrow appears to be trending toward playing, but Brock Bowers and Zay Flowers face uncertain outlooks while several starting quarterbacks have been ruled out",
+      "published": "Sat, 19 Sep 2026 18:30:17 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "Jets rookie Omar Cooper Jr. headed to injured reserve, will miss at least four games",
+      "url": "https://www.cbssports.com/nfl/news/jets-omar-cooper-injured-reserve/",
+      "summary": "Cooper suffered the injury during the first half of New York's Week 1 victory over Tennessee",
+      "published": "Sat, 19 Sep 2026 17:30:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "2026 Week 2 NFL picks, predictions, player props at NFL sportsbooks like DraftKings, FanDuel, BetMGM",
+      "url": "https://www.cbssports.com/betting/news/2026-week-2-nfl-picks-predictions-player-props-nfl-sportsbooks-draftkings-fanduel-betmgm/",
+      "summary": "Bet on Week 2 NFL player props at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
+      "published": "Sat, 19 Sep 2026 17:05:31 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
     },
     {
       "title": "Week 2 NFL betting promos: Get nearly $4,000 in bonuses from top online betting apps, sportsbooks",
@@ -308,7 +343,7 @@
       "title": "Bengals vs. Texans: How to watch as Houston attempts to avoid starting 0-2",
       "url": "https://www.cbssports.com/nfl/news/bengals-vs-texans-how-to-watch-prediction-preview/",
       "summary": "Everything you need to know to tune into this AFC matchup",
-      "published": "Sat, 19 Sep 2026 14:37:48 +0000",
+      "published": "Sat, 19 Sep 2026 18:17:12 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -322,7 +357,7 @@
       "title": "Chiefs vs. Colts: How to watch, stream 'Sunday Night Football,' plus odds and prediction",
       "url": "https://www.cbssports.com/nfl/news/chiefs-vs-colts-how-to-watch-tv-channel-live-stream-nfl-start-time-odds/",
       "summary": "Patrick Mahomes and the Chiefs host the Colts on Sunday night; here is how to watch the game, along with the latest odds and our prediction",
-      "published": "Sat, 19 Sep 2026 14:25:24 +0000",
+      "published": "Sat, 19 Sep 2026 18:18:58 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -336,7 +371,7 @@
       "title": "Steelers vs. Patriots: How to watch Maye vs. Rodgers in New England, prediction",
       "url": "https://www.cbssports.com/nfl/news/steelers-vs-patriots-how-to-watch-maye-vs-rodgers/",
       "summary": "The Steelers are hoping to get off to a 2-0 start, while the Patriots remain in search of their first win",
-      "published": "Sat, 19 Sep 2026 14:10:09 +0000",
+      "published": "Sat, 19 Sep 2026 18:20:40 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -355,17 +390,6 @@
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 2 injury report: Joe Burrow questionable, Brock Bowers doubtful, Kyler Murray out",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-injury-report-joe-burrow/",
-      "summary": "Joe Burrow appears to be trending toward playing, but Brock Bowers and Zay Flowers face uncertain outlooks while several starting quarterbacks have been ruled out",
-      "published": "Fri, 18 Sep 2026 23:00:49 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
       "teams": []
     },
     {
@@ -547,7 +571,7 @@
       "title": "Jaguars vs. Broncos: Jacksonville aims for 10th consecutive regular-season win",
       "url": "https://www.cbssports.com/nfl/news/how-to-watch-jaguars-vs-broncos-preview-prediction/",
       "summary": "Denver must bounce back from its Week 1 struggles in order to contain the scalding-hot Jaguars",
-      "published": "Sat, 19 Sep 2026 13:56:19 +0000",
+      "published": "Sat, 19 Sep 2026 18:20:00 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -688,55 +712,6 @@
         "LA",
         "LAC",
         "NE"
-      ]
-    },
-    {
-      "title": "Lions' loss to Bills has panic level high after another poor performance by defense",
-      "url": "https://www.cbssports.com/nfl/news/lions-loss-bills-poor-defense/",
-      "summary": "Detroit has yielded 30 and 41 points in back-to-back games",
-      "published": "Fri, 18 Sep 2026 05:24:27 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "DET"
-      ]
-    },
-    {
-      "title": "NFL Week 2 picks: Our experts face off on Giants at Rams, Bengals vs. Texans and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-picks-lions-bills-bengals-texans/",
-      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
-      "published": "Fri, 18 Sep 2026 04:00:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "HOU",
-        "LA",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Prisco's Week 2 NFL picks: Rams rout Giants; Chargers, Patriots, Cowboys bounce back",
-      "url": "https://www.cbssports.com/nfl/news/priscos-week-2-nfl-picks/",
-      "summary": "Pete Prisco reveals all of his Week 2 picks, including the Jaguars handing the Broncos another loss",
-      "published": "Fri, 18 Sep 2026 03:58:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "DEN",
-        "JAX",
-        "LA",
-        "LAC",
-        "NE",
-        "NYG"
       ]
     }
   ],
