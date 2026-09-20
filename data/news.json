@@ -1,25 +1,221 @@
 {
-  "updated_at_utc": "2026-09-20T11:44:22.207535+00:00",
-  "checked_at_utc": "2026-09-20T11:44:22.207535+00:00",
+  "updated_at_utc": "2026-09-20T14:54:58.437720+00:00",
+  "checked_at_utc": "2026-09-20T14:54:58.437720+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 7,
+      "items": 9,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 28
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 21,
+      "items": 25,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "How to Watch Colts vs. Chiefs: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-colts-vs-chiefs-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 Indianapolis Colts and Kansas City Chiefs game.",
+      "published": "Sun, 20 Sep 2026 08:11:07 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "KC"
+      ]
+    },
+    {
+      "title": "How to Watch Raiders vs. Chargers: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-raiders-vs-chargers-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 Las Vegas Raiders and Los Angeles Chargers game.",
+      "published": "Sun, 20 Sep 2026 08:10:50 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LAC",
+        "LV"
+      ]
+    },
+    {
+      "title": "How to Watch Commanders vs. Cowboys: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-commanders-vs-cowboys-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 Washington Commanders and Dallas Cowboys game.",
+      "published": "Sun, 20 Sep 2026 08:08:24 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "WAS"
+      ]
+    },
+    {
+      "title": "How to Watch Dolphins vs. 49ers: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-dolphins-vs-49ers-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 Miami Dolphins and San Francisco 49ers game.",
+      "published": "Sun, 20 Sep 2026 08:08:08 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA",
+        "SF"
+      ]
+    },
+    {
+      "title": "How to Watch Packers vs. Jets: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-packers-vs-jets-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 Green Bay Packers and New York Jets game.",
+      "published": "Sun, 20 Sep 2026 08:06:56 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "How to Watch Panthers vs. Falcons: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-panthers-vs-falcons-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 Carolina Panthers and Atlanta Falcons game.",
+      "published": "Sun, 20 Sep 2026 08:06:19 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "CAR"
+      ]
+    },
+    {
+      "title": "How to Watch Eagles vs. Titans: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-eagles-vs-titans-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 Philadelphia Eagles and Tennessee Titans game.",
+      "published": "Sun, 20 Sep 2026 08:05:51 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI",
+        "TEN"
+      ]
+    },
+    {
+      "title": "How to Watch Browns vs. Buccaneers: TV Channel Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-browns-vs-buccaneers-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 Cleveland Browns and Tampa Bay Buccaneers game.",
+      "published": "Sun, 20 Sep 2026 08:02:43 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "TB"
+      ]
+    },
+    {
+      "title": "How to Watch Jaguars vs. Broncos: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-jaguars-vs-broncos-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 Jaguars and Broncos game.",
+      "published": "Sun, 20 Sep 2026 08:01:50 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "JAX"
+      ]
+    },
+    {
+      "title": "How to Watch Bengals vs. Texans: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-bengals-vs-texans-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 Cincinnati Bengals and Houston Texans game.",
+      "published": "Sun, 20 Sep 2026 07:59:24 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "HOU"
+      ]
+    },
+    {
+      "title": "How to Watch Saints vs. Ravens: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-saints-vs-ravens-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 Saints and Ravens game.",
+      "published": "Sun, 20 Sep 2026 07:58:17 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "NO"
+      ]
+    },
+    {
+      "title": "How to Watch Steelers vs. Patriots: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-patriots-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 Pittsburgh Steelers and New England Patriots game.",
+      "published": "Sun, 20 Sep 2026 07:57:38 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "How to Watch Seahawks vs. Cardinals: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-seahawks-vs-cardinals-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 Seattle Seahawks and Arizona Cardinals game.",
+      "published": "Sun, 20 Sep 2026 07:57:00 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "How to Watch Vikings vs. Bears: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-vikings-vs-bears-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 Minnesota Vikings and Chicago Bears game.",
+      "published": "Sun, 20 Sep 2026 07:54:30 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "MIN"
+      ]
+    },
     {
       "title": "Seahawks vs. Cardinals Prediction, Odds, Pick For NFL Week 2",
       "url": "https://www.foxsports.com/stories/nfl/seahawks-vs-cardinals-prediction-odds-pick-nfl-week-2",
@@ -165,140 +361,34 @@
       ]
     },
     {
-      "title": "Commanders vs. Cowboys: 5 Things To Know About This Historic NFC East Rivalry",
-      "url": "https://www.foxsports.com/stories/nfl/cowboys-commanders-rivalry-nfc-east-history",
-      "summary": "Few NFL rivalries have been more intense than that of the Cowboys and Commanders. Here are five things to know about their storied history.",
-      "published": "Fri, 18 Sep 2026 15:45:24 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Vikings Name Starting QB For Week 2 vs. Bears With Kyler Murray Injured",
-      "url": "https://www.foxsports.com/stories/nfl/kyler-murray-injury-update-carson-wentz-stats-vikings-qbs",
-      "summary": "The Minnesota Vikings are starting Carson Wentz at quarterback in Week 2 with Kyler Murray still recovering from a concussion.",
-      "published": "Fri, 18 Sep 2026 15:14:13 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "MIN"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds: Are Buccaneers Best Bet To Win NFC South?",
-      "url": "https://www.foxsports.com/stories/nfl/tampa-bay-buccaneers-baker-mayfield-nfc-south-best-bet",
-      "summary": "There's \"tremendous value\" in wagering Tampa Bay to win the NFC South. Will Hill explains why.",
-      "published": "Fri, 18 Sep 2026 12:06:44 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "TB"
-      ]
-    },
-    {
-      "title": "Coaches Searching For Answers On Why NFL Saw Record Scoring Numbers In Week 1",
-      "url": "https://www.foxsports.com/stories/nfl/coaches-searching-answers-why-nfl-saw-record-scoring-numbers-week-1",
-      "summary": "Why did NFL teams score so many points in Week 1? We asked a few coordinators for their best guess as to why it happened.",
-      "published": "Fri, 18 Sep 2026 11:10:33 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Week 2 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/49984903/week-2-highlights-best-plays-touchdowns-2026",
+      "summary": "Check out the best of the best from Week 2 around the NFL, including highlight-reel touchdowns and must-see plays.",
+      "published": "2026-09-20T14:48:04Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Dallas' Week 1 Defensive Disaster Proved The Cowboys Are Still Missing Micah Parsons",
-      "url": "https://www.foxsports.com/stories/nfl/dallas-defensive-disaster-proved-boys-still-missing-micah-parsons",
-      "summary": "The Cowboys' defensive meltdown against the Giants was a sign that they need a big-time play-maker like the one they traded to Green Bay one year ago.",
-      "published": "Fri, 18 Sep 2026 11:06:04 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Ravens DC: Why Saints QB Tyler Shough Is 'A Poor Man's Josh Allen' In Good Way",
-      "url": "https://www.foxsports.com/stories/nfl/tyler-shough-josh-allen-comp-saints-ravens",
-      "summary": "Ravens defensive coordinator Anthony Weaver explained why he views Saints QB Tyler Shough as \"a poor man's Josh Allen\" in a good way.",
-      "published": "Fri, 18 Sep 2026 10:48:49 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "NO"
-      ]
-    },
-    {
-      "title": "Aidan Hutchinson, Jack Campbell Rip Lions' 'Terrible' Defense After Loss To Bills",
-      "url": "https://www.foxsports.com/stories/nfl/aidan-hutchinson-jack-campbell-comments-lions-bills",
-      "summary": "Detroit stars Aidan Hutchinson and Jack Campbell ripped the Lions' performance after the defense gave up 446 total yards vs. Buffalo.",
-      "published": "Fri, 18 Sep 2026 10:05:54 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Broncos remain confident in OC Davis Webb as playcaller",
+      "url": "https://www.espn.com/nfl/story/_/id/49985471/source-broncos-confident-davis-webb-playcaller",
+      "summary": "The Broncos maintain a \"high level of confidence and comfort\" in Davis Webb as their offensive playcaller, a team source told ESPN.",
+      "published": "2026-09-20T13:42:32Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BUF",
-        "DET"
+        "DEN"
       ]
-    },
-    {
-      "title": "2026 Super Bowl Odds: Bills Closing In On Rams",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "summary": "The Bills are climbing after an impressive Week 2 win. Can they overtake the Rams early in the season?",
-      "published": "Fri, 18 Sep 2026 09:48:08 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
-      "title": "2026 NFL MVP Odds: Josh Allen Strengthens Grip As Favorite",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
-      "summary": "Josh Allen has made his mark on the early MVP race after a historic start to his 2026 campaign. See the latest odds.",
-      "published": "Fri, 18 Sep 2026 00:07:49 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Catchup: Aaron Donald's Return; Kyler Murray, Ladd McConkey Injury Updates",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-aaron-donalds-return-kyler-murray-ladd-mcconkey-injury-updates",
-      "summary": "Here's what happened around the NFL on Thursday.",
-      "published": "Thu, 17 Sep 2026 23:57:26 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
     },
     {
       "title": "Sources: Steelers eye Week 3 return for CB Joey Porter Jr.",
       "url": "https://www.espn.com/nfl/story/_/id/49982020/sources-steelers-eye-potential-week-3-joey-porter-jr",
       "summary": "The Steelers are planning for Joey Porter Jr. to potentially return for their Week 3 game against the Bengals, sources told ESPN.",
-      "published": "2026-09-20T11:31:24Z",
+      "published": "2026-09-20T14:50:56Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -311,8 +401,8 @@
     {
       "title": "Sources: Colts' Keenan Allen faces minimum 3-game suspension",
       "url": "https://www.espn.com/nfl/story/_/id/49983528/sources-colts-keenan-allen-faces-minimum-3-game-suspension",
-      "summary": "Colts wide receiver Keenan Allen, who was formally charged last week with two misdemeanor offenses stemming from his drunk-driving arrest in downtown Indianapolis last month, is facing a minimum three-game suspension, sources told ESPN.",
-      "published": "2026-09-20T11:33:21Z",
+      "summary": "Colts wide receiver Keenan Allen, who was formally charged last week with two misdemeanor offenses stemming from his drunken driving arrest in downtown Indianapolis last month, is facing a minimum three-game suspension, sources told ESPN.",
+      "published": "2026-09-20T12:33:56Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -324,8 +414,8 @@
     {
       "title": "Browns expected to evaluate QB situation ahead of Week 3",
       "url": "https://www.espn.com/nfl/story/_/id/49985301/browns-expected-evaluate-qb-situation-ahead-week-3",
-      "summary": "The Browns are expected to evaluate their QB situation after their Week 2 game against the Buccaneers.",
-      "published": "2026-09-20T10:30:29Z",
+      "summary": "The Browns are expected to evaluate their quarterback situation after their Week 2 game against the Buccaneers.",
+      "published": "2026-09-20T12:39:49Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -339,7 +429,7 @@
       "title": "What to expect from Patriots QB Drake Maye vs. the Steelers",
       "url": "https://www.espn.com/nfl/story/_/id/49976142/new-england-patriots-drake-maye-week-2",
       "summary": "New England wants Maye to be patient but aggressive. Can he have success against the daunting Pittsburgh defense?",
-      "published": "2026-09-20T10:00:02Z",
+      "published": "2026-09-20T13:26:15Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -376,8 +466,8 @@
     {
       "title": "Sources: Falcons QB Michael Penix Jr. could play in Week 3",
       "url": "https://www.espn.com/nfl/story/_/id/49985117/sources-falcons-qb-michael-penix-jr-play-week-3",
-      "summary": "Falcons QB Michael Penix Jr. is nearing a return and could make his 2026 debut on Thursday night against the Packers, sources told ESPN.",
-      "published": "2026-09-20T10:00:20Z",
+      "summary": "Falcons quarterback Michael Penix Jr. is nearing a return and could make his 2026 debut Thursday night against the Packers, sources told ESPN.",
+      "published": "2026-09-20T12:21:38Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -385,6 +475,69 @@
       "teams": [
         "ATL",
         "GB"
+      ]
+    },
+    {
+      "title": "2026 Week 2 NFL picks, predictions, player props at NFL sportsbooks like DraftKings, BetMGM, FanDuel",
+      "url": "https://www.cbssports.com/betting/news/2026-week-2-nfl-picks-predictions-player-props-nfl-sportsbooks-draftkings-betmgm-fanduel/",
+      "summary": "Bet on Week 2 NFL player props at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
+      "published": "Sun, 20 Sep 2026 14:19:28 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Browns to reevaluate QB situation after Week 2, opening door for potential Shedeur Sanders start, per report",
+      "url": "https://www.cbssports.com/nfl/news/browns-qb-deshaun-watson-shedeur-sanders/",
+      "summary": "A shaky Week 2 performance against Tampa Bay could push Todd Monken to bench Deshaun Watson",
+      "published": "Sun, 20 Sep 2026 14:29:02 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CLE"
+      ]
+    },
+    {
+      "title": "Week 2 NFL betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/week-2-nfl-betting-promos-get-almost-4000-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 2 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Sun, 20 Sep 2026 13:53:30 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Packers vs. Jets picks, odds, prediction: Betting preview, start time and more for NFL Week 2 matchup",
+      "url": "https://www.cbssports.com/betting/news/packers-vs-jets-picks-odds-prediction-betting-preview-start-time-and-more-for-nfl-week-2-matchup/",
+      "summary": "The Packers look to rebound from a disappointing loss when they visit the Jets in Week 2, but is Gang Green no longer a pushover? We break down everything bettors need to know",
+      "published": "Sun, 20 Sep 2026 12:30:42 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Steelers vs. Patriots picks, odds, prediction: Betting preview, start time and more for NFL Week 2 matchup",
+      "url": "https://www.cbssports.com/betting/news/steelers-vs-patriots-picks-odds-prediction-betting-preview-start-time-and-more-for-nfl-week-2-matchup/",
+      "summary": "A pair of AFC playoff hopefuls square off Sunday as the Patriots host the Steelers, and we have all the information you need to get ready",
+      "published": "Sun, 20 Sep 2026 12:10:30 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE",
+        "PIT"
       ]
     },
     {
@@ -466,28 +619,6 @@
       "teams": [
         "NYJ"
       ]
-    },
-    {
-      "title": "2026 Week 2 NFL picks, predictions, player props at NFL sportsbooks like DraftKings, FanDuel, BetMGM",
-      "url": "https://www.cbssports.com/betting/news/2026-week-2-nfl-picks-predictions-player-props-nfl-sportsbooks-draftkings-fanduel-betmgm/",
-      "summary": "Bet on Week 2 NFL player props at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
-      "published": "Sat, 19 Sep 2026 17:05:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 2 NFL betting promos: Get nearly $4,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-2-nfl-betting-promos-get-nearly-4000-bonuses-from-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 2 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Sat, 19 Sep 2026 15:24:49 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "Bengals vs. Texans: How to watch as Houston attempts to avoid starting 0-2",
@@ -715,95 +846,6 @@
       "category": "game",
       "teams": [
         "BUF"
-      ]
-    },
-    {
-      "title": "Jaguars vs. Broncos: Jacksonville aims for 10th consecutive regular-season win",
-      "url": "https://www.cbssports.com/nfl/news/how-to-watch-jaguars-vs-broncos-preview-prediction/",
-      "summary": "Denver must bounce back from its Week 1 struggles in order to contain the scalding-hot Jaguars",
-      "published": "Sat, 19 Sep 2026 18:20:00 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Is Derrick Henry the best RB of all-time? Where he stands among NFL's top-10 running backs",
-      "url": "https://www.cbssports.com/nfl/news/where-derrick-henry-currently-ranks-among-the-nfl-running-backs/",
-      "summary": "Henry's career matches up with the best players ever at his position",
-      "published": "Fri, 18 Sep 2026 13:57:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "With Browns QB situation in the gutter, ex-Baker Mayfield on deck, what is their plan?",
-      "url": "https://www.cbssports.com/nfl/news/what-is-browns-qb-plan-deshaun-watson-baker-mayfield/",
-      "summary": "Cleveland is in the final year of the albatross that is Deshaun Watson's five-year, fully-guaranteed $230 million contract",
-      "published": "Fri, 18 Sep 2026 13:50:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "CLE"
-      ]
-    },
-    {
-      "title": "NFL Week 2 odds, picks, best bets: Eagles take over Nashville, while Baker Mayfield wins big in revenge game",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-odds-picks-best-bets-dajani/",
-      "summary": "Jordan Dajani gives his picks for Week 2 of the 2026 NFL season",
-      "published": "Fri, 18 Sep 2026 13:43:49 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "Will Brinson's NFL Week 2 predictions and picks: Best bets, player props, anytime TD scorers for Sunday",
-      "url": "https://www.cbssports.com/betting/news/will-brinsons-nfl-week-2-predictions-and-picks-best-bets-player-props-anytime-td-scorers-for-sunday/",
-      "summary": "Throw out what happened in the opening slate and capitalize on early overreactions with top spread picks and bounce-back opportunities for Week 2",
-      "published": "Fri, 18 Sep 2026 15:31:11 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 2's most underrated games: Why you should watch these three under-the-radar games",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-2s-three-most-underrated-games-patriots-steelers/",
-      "summary": "Here are three games to pay close attention to this week",
-      "published": "Fri, 18 Sep 2026 13:29:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 2 2026 bold predictions: Giants to upset Rams, tanking Dolphins cover against 49ers",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-2026-bold-predictions-giants-rams-dolphins-49ers/",
-      "summary": "From Los Angeles starting 0-2 to Bryce Young being held in check, here are five bold predictions for the NFL's Week 2 slate",
-      "published": "Fri, 18 Sep 2026 16:30:07 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "LA",
-        "MIA",
-        "NYG",
-        "SF"
       ]
     }
   ],
