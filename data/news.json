@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-19T23:15:35.646563+00:00",
-  "checked_at_utc": "2026-09-19T23:15:35.646563+00:00",
+  "updated_at_utc": "2026-09-20T01:17:29.667153+00:00",
+  "checked_at_utc": "2026-09-20T01:17:29.667153+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -292,31 +292,6 @@
       ]
     },
     {
-      "title": "Ravens' Zay Flowers downgraded to out because of hamstring injury",
-      "url": "https://www.espn.com/nfl/story/_/id/49982377/ravens-zay-flowers-downgraded-hamstring-injury",
-      "summary": "The Baltimore Ravens downgraded Pro Bowl wide receiver Zay Flowers to out for Sunday's game against the New Orleans Saints.",
-      "published": "2026-09-19T21:53:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "NO"
-      ]
-    },
-    {
-      "title": "NFL changes rules governing videoboard displays during kicks",
-      "url": "https://www.espn.com/nfl/story/_/id/49979831/nfl-changes-rules-governing-video-board-displays-kicks",
-      "summary": "The NFL has modified what can be shown on videoboards during field goal and extra point attempts, an alteration coming in the wake of a viral social media post from a former analytics coach.",
-      "published": "2026-09-19T21:35:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Aaron Donald returning for Rams' Week 2 matchup with Giants, Sean McVay confirms",
       "url": "https://www.cbssports.com/nfl/news/aaron-donald-rams-giants/",
       "summary": "Donald will make his season debut Monday night, giving Los Angeles a major reinforcement along its defensive front",
@@ -433,7 +408,7 @@
       "title": "Bengals star Joe Burrow listed as questionable: Here's what Zac Taylor said about Week 2 status",
       "url": "https://www.cbssports.com/nfl/news/joe-burrow-injury-update-bengals-qb-questionable/",
       "summary": "Why the Bengals' QB was listed as questionable for Week 2",
-      "published": "Fri, 18 Sep 2026 22:40:03 +0000",
+      "published": "Sun, 20 Sep 2026 00:03:32 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
