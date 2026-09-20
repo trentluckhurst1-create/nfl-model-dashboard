@@ -1,17 +1,18 @@
 {
-  "updated_at_utc": "2026-09-20T01:17:29.667153+00:00",
-  "checked_at_utc": "2026-09-20T01:17:29.667153+00:00",
+  "updated_at_utc": "2026-09-20T06:26:29.961252+00:00",
+  "checked_at_utc": "2026-09-20T06:26:29.961252+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
-      "ok": true,
-      "items": 1,
+      "ok": false,
+      "items": 0,
+      "error": "RuntimeError",
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 33
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -278,17 +279,31 @@
       ]
     },
     {
-      "title": "NFL Week 2 uniforms: Rams debut 'Classic Sol,' Ravens go all-white",
-      "url": "https://www.espn.com/nfl/story/_/id/49954179/nfl-week-2-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 2, led by a new alternate look from the Los Angeles Rams.",
-      "published": "2026-09-19T22:59:37Z",
-      "source": "ESPN NFL",
+      "title": "Last minute best bets for NFL Week 2: Patriots bounce back vs. Steelers, Eagles cover as road favorites",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-best-bets-picks/",
+      "summary": "Need some last-second help filling your bets for Week 2? We've got you covered",
+      "published": "Sun, 20 Sep 2026 01:01:05 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL",
-        "LA"
+        "NE",
+        "PHI",
+        "PIT"
+      ]
+    },
+    {
+      "title": "NFL Week 2 touchdown best bets: Our favorite picks to score, including 49ers' Kaelon Black",
+      "url": "https://www.cbssports.com/nfl/news/nfl-anytime-td-best-bets-week-2/",
+      "summary": "These five players could capitalize on their matchups and find the end zone during Sunday's NFL action",
+      "published": "Sun, 20 Sep 2026 01:00:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF"
       ]
     },
     {
@@ -691,20 +706,6 @@
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
-      "teams": [
-        "BUF",
-        "DET"
-      ]
-    },
-    {
-      "title": "D.J. Moore injury: Bills wideout suffers AC Joint injury in win vs. Lions, Week 3 status in doubt",
-      "url": "https://www.cbssports.com/nfl/news/d-j-moore-injury-bills-wideout-shoulder-injury/",
-      "summary": "The injury occurred during the second quarter of Buffalo's home opener",
-      "published": "Fri, 18 Sep 2026 12:30:17 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
       "teams": [
         "BUF",
         "DET"
