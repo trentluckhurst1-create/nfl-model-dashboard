@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-20T20:44:47.178099+00:00",
-  "checked_at_utc": "2026-09-20T20:44:47.178099+00:00",
+  "updated_at_utc": "2026-09-20T22:43:49.681100+00:00",
+  "checked_at_utc": "2026-09-20T22:44:14.936704+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 9,
+      "items": 21,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -14,71 +14,205 @@
       "items": 27
     },
     "FOX Sports NFL": {
-      "ok": true,
-      "items": 4,
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout",
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Caleb Williams Injury Leads To Bears Loss: 3 Takeaways From Huge Vikings Win",
-      "url": "https://www.foxsports.com/stories/nfl/caleb-williams-injury-leads-bears-loss-3-takeaways-from-huge-vikings-win",
-      "summary": "The Vikings beat the Bears on Sunday as quarterback Caleb Williams suffered a hamstring injury.",
-      "published": "Sun, 20 Sep 2026 16:17:32 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Cowboys' TD record: I caught a TD pass from Dak Prescott",
+      "url": "https://www.espn.com/nfl/story/_/id/49940226/nfl-dallas-cowboys-dak-prescott-tony-romo-touchdowns-passes-all-record",
+      "summary": "Prescott matched Tony Romo in the record book, so we sought the best moments from those who are helping him make history.",
+      "published": "2026-09-20T22:36:41Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Deshaun Watson outplays Baker Mayfield, leading the Browns to a 23-19 win over the Buccaneers",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872935",
+      "summary": "\u2014 Deshaun Watson earned at least a few more starts for the Cleveland Browns.",
+      "published": "2026-09-20T22:30:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "TB"
+      ]
+    },
+    {
+      "title": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
+      "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
+      "published": "2026-09-20T22:36:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "McCarthy takes blame for Steelers' offensive struggles in loss",
+      "url": "https://www.espn.com/nfl/story/_/id/49993456/mccarthy-takes-blame-steelers-offensive-struggles-loss",
+      "summary": "Steelers coach Mike McCarthy shouldered the blame Sunday in the wake of his offense's clunky, uninspired performance in a loss to the Patriots.",
+      "published": "2026-09-20T22:25:59Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Commanders QB Jayden Daniels suffers elbow injury against Cowboys",
+      "url": "https://www.espn.com/nfl/story/_/id/49993422/commanders-qb-jayden-daniels-suffers-elbow-injury-cowboys",
+      "summary": "Commanders quarterback Jayden Daniels was carted off the field in Sunday's game against the Cowboys after suffering an injured left elbow on the final play of the first half.",
+      "published": "2026-09-20T22:40:07Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "CHI",
-        "MIN"
+        "DAL",
+        "WAS"
       ]
     },
     {
-      "title": "Bears QB Caleb Williams Exits With Hamstring Injury Against Vikings",
-      "url": "https://www.foxsports.com/stories/nfl/bears-qb-caleb-williams-exits-apparent-lower-leg-injury-against-vikings",
-      "summary": "Caleb Williams left the Bears' game with an apparent leg injury after an incredible start to the 2026 season.",
-      "published": "Sun, 20 Sep 2026 15:44:22 -0400",
-      "source": "FOX Sports NFL",
+      "title": "QB Kyler Murray (concussion) expected to return for Week 3",
+      "url": "https://www.espn.com/nfl/story/_/id/49993300/qb-kyler-murray-concussion-expected-return-week-3",
+      "summary": "The Vikings should have QB Kyler Murray available to them next week. Murray is expected to clear concussion protocol \"pretty early in the week,\" coach Kevin O'Connell said.",
+      "published": "2026-09-20T22:09:52Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "CHI",
         "MIN"
       ]
     },
     {
-      "title": "Packers WR Jayden Reed Carted Off The Field Against The Jets",
-      "url": "https://www.foxsports.com/stories/nfl/jayden-reed-carted-off-field-against-jets",
-      "summary": "Green Bay Packers wide receiver Jayden Reed suffered a head injury following a helmet-to-helmet hit.",
-      "published": "Sun, 20 Sep 2026 13:31:43 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Eagles' Broadway jab at Titans leads NFL Week 2 trolls",
+      "url": "https://www.espn.com/nfl/story/_/id/49993163/nfl-week-2-2026-trolls",
+      "summary": "Teams across the NFL came with petty postgame energy after wins in Week 2, led by the Philadelphia Eagles.",
+      "published": "2026-09-20T22:40:58Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI",
+        "TEN"
+      ]
+    },
+    {
+      "title": "49ers lose another WR as Demarcus Robinson suffers ankle injury",
+      "url": "https://www.espn.com/nfl/story/_/id/49993177/49ers-lose-another-wr-demarcus-robinson-suffers-ankle-injury",
+      "summary": "Demarcus Robinson departed late in the second quarter of Sunday's matchup with the Miami Dolphins.",
+      "published": "2026-09-20T22:33:45Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
+      "teams": [
+        "MIA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Falcons' Kevin Stefanski: Too soon to make Week 3 QB call",
+      "url": "https://www.espn.com/nfl/story/_/id/49993161/falcons-kevin-stefanski-too-soon-make-week-3-qb-call",
+      "summary": "Falcons coach Kevin Stefanski would not say who would be the team's starter in Week 3 against the Packers on \"Thursday Night Football\" after Cooper Rush struggled again Sunday.",
+      "published": "2026-09-20T22:04:49Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ATL",
+        "GB"
+      ]
+    },
+    {
+      "title": "Panthers in awe of LB Devin Lloyd's 'dominant' game",
+      "url": "https://www.espn.com/nfl/story/_/id/49993101/panthers-awe-llyod-dominant-takeover-vs-falcons",
+      "summary": "Devin Lloyd finished Sunday's win over the Falcons with two interceptions, including one for a pick-six, nine total tackles, a sack and three pass breakups.",
+      "published": "2026-09-20T22:32:41Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "CAR"
+      ]
+    },
+    {
+      "title": "Falcons' Drake London gets into verbal confrontation with fan",
+      "url": "https://www.espn.com/nfl/story/_/id/49992893/falcons-drake-london-gets-verbal-confrontation-fan",
+      "summary": "Falcons wide receiver Drake London got into a verbal confrontation with someone in the crowd during his team's 34-3 loss to the Panthers on Sunday.",
+      "published": "2026-09-20T22:38:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "CAR"
+      ]
+    },
+    {
+      "title": "Week 2 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/49984903/week-2-highlights-best-plays-touchdowns-2026",
+      "summary": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
+      "published": "2026-09-20T21:25:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Chargers TE David Njoku leaves game with knee injury",
+      "url": "https://www.espn.com/nfl/story/_/id/49992624/chargers-te-david-njoku-leaves-game-knee-injury",
+      "summary": "Chargers tight end David Njoku exited Sunday's game against the Raiders in the second quarter on a medical cart with an injury to his right knee.",
+      "published": "2026-09-20T22:31:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LAC",
+        "LV"
+      ]
+    },
+    {
+      "title": "Trey Smack\u2019s OT kick lifts the Packers past the Jets, ending a 6-game skid",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872936",
+      "summary": "\u2014 Jordan Love and the Green Bay Packers were down 10 points in the fourth quarter, piling penalties and staring at a seventh consecutive loss.",
+      "published": "2026-09-20T21:00:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": [
         "GB",
         "NYJ"
       ]
     },
     {
-      "title": "Jay Glazer: Seahawks QB Sam Darnold Could Be Back Sooner Rather Than Later",
-      "url": "https://www.foxsports.com/stories/nfl/jay-glazer-updates-seahawks-qb-sam-darnold-status",
-      "summary": "On \"FOX NFL Sunday,\" insider Jay Glazer reported that the Seahawks' team doctors are encouraged by QB1 Sam Darnold's progress.",
-      "published": "Sun, 20 Sep 2026 13:13:36 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "SEA"
-      ]
-    },
-    {
       "title": "Ja'Marr Chase scores 2 TDs on passes from Joe Burrow to lead the Bengals past the Texans 20-6",
       "url": "http://www.espn.com/nfl/recap?gameId=401872934",
-      "summary": "\u2014 Joe Burrow threw two touchdown passes to Ja\u2019Marr Chase to lead the Cincinnati Bengals to a 20-6 win over the Houston Texans on Sunday.",
+      "summary": "\u2014 Ja'Marr Chase reminded everyone of just how good he can be on Sunday after the five-time Pro Bowler was a non-factor in Cincinnati's season-opening win.",
       "published": "2026-09-20T20:32:36Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
@@ -90,20 +224,9 @@
       ]
     },
     {
-      "title": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
-      "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
-      "published": "2026-09-20T20:31:24Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Jalen Hurts hits Darius Cooper for TD with 9 seconds left to lift the Eagles past the Titans 24-20",
       "url": "http://www.espn.com/nfl/recap?gameId=401872939",
-      "summary": "\u2014 Jalen Hurts threw a 3-yard touchdown pass to Darius Cooper with 9 seconds left, and the",
+      "summary": "\u2014 Philadelphia coach Nick Sirianni had only one thought with his offense on the field on a day so hot he needed intravenous fluids to cool off.",
       "published": "2026-09-20T20:18:31Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
@@ -117,7 +240,7 @@
     {
       "title": "Young throws 3 TD passes, including 2 to Waller, as Panthers dominate short-handed Falcons 34-3",
       "url": "http://www.espn.com/nfl/recap?gameId=401872933",
-      "summary": "\u2014 Bryce Young threw for 287 yards and three touchdowns, including two to Darren Waller, Carolina's Devin Lloyd returned one of his two interceptions for a touchdown and the...",
+      "summary": "\u2014 In his previous visit to Atlanta, Bryce Young commanded the spotlight.",
       "published": "2026-09-20T20:16:30Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
@@ -131,7 +254,7 @@
     {
       "title": "Rodgers and Turner help the Vikings shut down the Bears for a 9-3 win in the rain",
       "url": "http://www.espn.com/nfl/recap?gameId=401872937",
-      "summary": "\u2014 Isaiah Rodgers recovered a fumble and blocked a late field-goal attempt, and the Minnesota Vikings shut down Caleb Williams and the Chicago Bears for a 9-3 victory on a rainy Sunday.",
+      "summary": "\u2014 Dallas Turner threw Tyson Bagent to the ground, then took off down the field in celebration. It rained on his parade, for sure, but that was just fine with him.",
       "published": "2026-09-20T20:15:32Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
@@ -145,7 +268,7 @@
     {
       "title": "TreVeyon Henderson runs for a TD and the Patriots pummel Aaron Rodgers in a 20-3 win over Steelers",
       "url": "http://www.espn.com/nfl/recap?gameId=401872946",
-      "summary": "\u2014 TreVeyon Henderson ran for a 39-yard touchdown in his season debut, Eli Ponder added a 19-yard fumble recovery for a score and the New England Patriots\u2019 defense smothered Aaron Rodgers on the way to a 20-3 victory over the Pittsburgh Steelers on...",
+      "summary": "\u2014 The New England Patriots have yet to find much of the offensive rhythm that propelled their Super Bowl run last season. The defense was there to pick up the pieces against the",
       "published": "2026-09-20T20:14:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
@@ -157,20 +280,9 @@
       ]
     },
     {
-      "title": "Week 2 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/49984903/week-2-highlights-best-plays-touchdowns-2026",
-      "summary": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
-      "published": "2026-09-20T20:14:48Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Tyler Shough and the Saints produce two big drives at the end to topple the Ravens 24-17",
       "url": "http://www.espn.com/nfl/recap?gameId=401872938",
-      "summary": "\u2014 Tyler Shough scored on a fourth-down sneak with 1:28 remaining, and the New Orleans Saints rallied to a 24-17 win over the Baltimore Ravens on Sunday.",
+      "summary": "\u2014 Twice in a row, Tyler Shough disappeared into a pile of bodies at the goal line with the game tied late in the fourth quarter.",
       "published": "2026-09-20T20:11:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
@@ -182,10 +294,10 @@
       ]
     },
     {
-      "title": "Bears' Caleb Williams leaves on cart after falling on scramble",
+      "title": "Bears' Caleb Williams leaves on cart after injuring hamstring",
       "url": "https://www.espn.com/nfl/story/_/id/49991729/bears-caleb-williams-leaves-cart-falling-scramble",
       "summary": "Bears quarterback Caleb Williams exited Sunday's game against the Minnesota Vikings with a right hamstring injury.",
-      "published": "2026-09-20T20:21:12Z",
+      "published": "2026-09-20T21:25:52Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -193,6 +305,62 @@
       "teams": [
         "CHI",
         "MIN"
+      ]
+    },
+    {
+      "title": "NFL Week 2 grades for all 32 teams: Saints earn an 'A' for stunning Ravens, Steelers get low mark",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-grades-saints-ravens-steelers/",
+      "summary": "Your weekly NFL grades are here",
+      "published": "Sun, 20 Sep 2026 21:51:25 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "NO",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Chiefs vs. Colts: How to watch, TV, streaming 'Sunday Night Football,' plus odds and prediction",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-vs-colts-how-to-watch-tv-channel-live-stream-nfl-start-time-odds/",
+      "summary": "Patrick Mahomes and the Chiefs host the Colts on Sunday night; here is how to watch the game, along with the latest odds and our prediction",
+      "published": "Sun, 20 Sep 2026 21:16:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "KC"
+      ]
+    },
+    {
+      "title": "Chiefs vs. Colts picks, prediction, player props: Expert's best bets for Sunday Night Football in NFL Week 2",
+      "url": "https://www.cbssports.com/betting/news/chiefs-vs-colts-picks-prediction-player-props-experts-best-bets-for-sunday-night-football-in-nfl-week-2/",
+      "summary": "Patrick Mahomes in prime time at home laying less than a touchdown anchors our best bets, plus top prop targets for Xavier Worthy and Tyler Warren",
+      "published": "Sun, 20 Sep 2026 20:57:07 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "KC"
+      ]
+    },
+    {
+      "title": "LOOK: Ja'Marr Chase makes absurd TD catch that could be best grab you'll see all season",
+      "url": "https://www.cbssports.com/nfl/news/look-jamarr-chase-makes-absurd-td-catch-vs-texans/",
+      "summary": "The Bengals wideout adjusted in mid-air against former LSU teammate Derek Stingley Jr. and dragged his toes in bounds to break a scoreless tie in Houston",
+      "published": "Sun, 20 Sep 2026 20:51:36 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN"
       ]
     },
     {
@@ -220,19 +388,6 @@
       "category": "injury",
       "teams": [
         "NO"
-      ]
-    },
-    {
-      "title": "LOOK: Ja'Marr Chase makes absurd TD catch that could be best grab you'll see all season",
-      "url": "https://www.cbssports.com/nfl/news/look-jamarr-chase-makes-absurd-td-catch-vs-texans/",
-      "summary": "The Bengals wideout adjusted in mid-air against former LSU teammate Derek Stingley Jr. and dragged his toes in bounds to break a scoreless tie in Houston",
-      "published": "Sun, 20 Sep 2026 18:58:18 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN"
       ]
     },
     {
@@ -501,20 +656,6 @@
       ]
     },
     {
-      "title": "Chiefs vs. Colts: How to watch, stream 'Sunday Night Football,' plus odds and prediction",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-vs-colts-how-to-watch-tv-channel-live-stream-nfl-start-time-odds/",
-      "summary": "Patrick Mahomes and the Chiefs host the Colts on Sunday night; here is how to watch the game, along with the latest odds and our prediction",
-      "published": "Sat, 19 Sep 2026 18:18:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "KC"
-      ]
-    },
-    {
       "title": "Steelers vs. Patriots: How to watch Maye vs. Rodgers in New England, prediction",
       "url": "https://www.cbssports.com/nfl/news/steelers-vs-patriots-how-to-watch-maye-vs-rodgers/",
       "summary": "The Steelers are hoping to get off to a 2-0 start, while the Patriots remain in search of their first win",
@@ -526,31 +667,6 @@
       "teams": [
         "NE",
         "PIT"
-      ]
-    },
-    {
-      "title": "No, Pack, no: Missing Micah Parsons, Green Bay ties grim NFL record -- and may currently be NFC's worst team",
-      "url": "https://www.cbssports.com/nfl/news/packers-without-micah-parsons-worst-team-in-nfc/",
-      "summary": "Parsons' absence can't be the only excuse, which is why Matt LaFleur should be on a warming seat",
-      "published": "Sat, 19 Sep 2026 13:07:33 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Texans rule out two-time Pro Bowl WR Nico Collins for Week 2 vs. Bengals",
-      "url": "https://www.cbssports.com/nfl/news/nico-collins-hamstring-injury-status-unclear-for-week-2-per-report/",
-      "summary": "Collins had seven catches and a touchdown in Week 1, but he suffered a hamstring injury during Wednesday's practice",
-      "published": "Fri, 18 Sep 2026 20:59:48 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CIN",
-        "HOU"
       ]
     }
   ],
