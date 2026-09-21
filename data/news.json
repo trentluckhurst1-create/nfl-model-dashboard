@@ -1,25 +1,101 @@
 {
-  "updated_at_utc": "2026-09-21T16:58:22.532183+00:00",
-  "checked_at_utc": "2026-09-21T16:58:22.532183+00:00",
+  "updated_at_utc": "2026-09-21T20:57:46.032442+00:00",
+  "checked_at_utc": "2026-09-21T20:57:46.032442+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 12,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 29
+      "items": 30
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 16,
+      "items": 20,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Aaron Glenn Has No Regrets After Jets' OT Collapse vs. Packers: 'Not One Bit'",
+      "url": "https://www.foxsports.com/stories/nfl/aaron-glenn-has-no-regrets-after-jets-ot-collapse-vs-packers-not-one-bit",
+      "summary": "Aaron Glenn is sticking by the late-game decisions that helped contribute to the New York Jets' frustrating loss to the Green Bay Packers.",
+      "published": "Mon, 21 Sep 2026 16:38:58 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "2026 NFL DROY Odds: David Bailey Strengthens Grip as Favorite",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-defensive-rookie-year-odds",
+      "summary": "David Bailey\u2019s dominant start to his rookie campaign has extended his lead as the favorite. See the latest Defensive Rookie of the Year odds.",
+      "published": "Mon, 21 Sep 2026 15:22:43 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Vikings QB Kyler Murray Clears Concussion Protocol; Expected To Start vs. Buccaneers",
+      "url": "https://www.foxsports.com/stories/nfl/vikings-qb-kyler-murray-clears-concussion-protocol-expected-start-vs-buccaneers",
+      "summary": "Minnesota Vikings quarterback Kyler Murray has cleared concussion protocol and will start against the Tampa Bay Buccaneers.",
+      "published": "Mon, 21 Sep 2026 14:55:55 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN",
+        "TB"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 3: Lines, Spreads For All 16 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-3-lines-spreads-results-all-16-games",
+      "summary": "Check out the odds for every NFL Week 3 contest.",
+      "published": "Mon, 21 Sep 2026 14:33:13 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Christian McCaffrey Joins Elite Company With Touchdown No. 100",
+      "url": "https://www.foxsports.com/stories/nfl/christian-mccaffrey-joins-elite-company-with-his-100th-career-touchdown",
+      "summary": "Christian McCaffrey put himself in some elite company with his pair of touchdowns against the Miami Dolphins in Week 3.",
+      "published": "Mon, 21 Sep 2026 14:13:24 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA"
+      ]
+    },
+    {
+      "title": "Why This Could Be The Year Of John Harbaugh And The New York Giants",
+      "url": "https://www.foxsports.com/stories/nfl/why-could-year-john-harbaugh-new-york-giants",
+      "summary": "Could this be the year the New York Giants make a Super Bowl run? FOX's Michael Strahan argues why the Giants could be poised for success.",
+      "published": "Mon, 21 Sep 2026 13:07:29 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
     {
       "title": "Bears' Caleb Williams Reportedly Avoided Major Injury To Hamstring, Could Play Week 3",
       "url": "https://www.foxsports.com/stories/nfl/caleb-williams-bears-hamstring-injury-update",
@@ -177,17 +253,6 @@
       ]
     },
     {
-      "title": "2026 NFL Odds Week 3: Lines, Spreads, Results For All 16 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-3-lines-spreads-results-all-16-games",
-      "summary": "Check out the odds for every NFL Week 3 contest.",
-      "published": "Mon, 21 Sep 2026 00:02:51 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "NFL Fallout Week 2: Justin Herbert Is Overrated, And Now He's Hurting The Chargers",
       "url": "https://www.foxsports.com/stories/nfl/nfl-fallout-week-2-justin-herbert-overrated-now-hes-hurting-chargers",
       "summary": "Justin Herbert is no prototype. Dan Quinn's Commanders tenure is probably over. Here are Ralph Vacchiano's top takeaways from Week 2.",
@@ -215,30 +280,139 @@
       ]
     },
     {
-      "title": "Commanders QB Jayden Daniels Suffers Gruesome Elbow Injury vs. Cowboys",
-      "url": "https://www.foxsports.com/stories/nfl/commanders-qb-jayden-daniels-elbow-injury-update-cowboys",
-      "summary": "Quarterback Jayden Daniels was carted off the field after he suffered a gruesome injury to his left elbow.",
-      "published": "Sun, 20 Sep 2026 20:13:48 -0400",
-      "source": "FOX Sports NFL",
+      "title": "NFL: 'No concerns' over field conditions in Rio for Cowboys-Ravens",
+      "url": "https://www.espn.com/nfl/story/_/id/50000433/nfl-no-concerns-field-conditions-rio-cowboys-ravens",
+      "summary": "NFL field director Nick Pappas said there are \"no concerns right now\" over the field conditions for Sunday's game between the Cowboys and Ravens in Rio de Janeiro.",
+      "published": "2026-09-21T20:48:15Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
       "teams": [
-        "DAL",
-        "WAS"
+        "BAL",
+        "DAL"
       ]
     },
     {
-      "title": "Bears' Johnson: QB Williams week-to-week, likely to miss time",
-      "url": "https://www.espn.com/nfl/story/_/id/49999247/bears-johnson-qb-williams-week-week-likely-miss",
-      "summary": "Bears coach Ben Johnson said Monday on ESPN 1000 that quarterback Caleb Williams' right hamstring injury \"sounds like it's going to be a week-to-week deal for him.\"",
-      "published": "2026-09-21T16:53:07Z",
+      "title": "Falcons to start QB Michael Penix on Thursday vs. Packers",
+      "url": "https://www.espn.com/nfl/story/_/id/50000410/falcons-start-qb-michael-penix-thursday-vs-packers",
+      "summary": "Falcons quarterback Michael Penix Jr. will make his season debut this Thursday night when he starts against the Packers, the team announced Monday.",
+      "published": "2026-09-21T20:57:13Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ATL",
+        "GB"
+      ]
+    },
+    {
+      "title": "Packers WR Reed sustained back, not neck injury, source says",
+      "url": "https://www.espn.com/nfl/story/_/id/50000310/packers-wr-reed-sustained-back-not-neck-injury-source-says",
+      "summary": "Packers receiver Jayden Reed actually sustained a back injury - and not a neck injury as originally thought - in Sunday's game against the Jets and was expected to return to Green Bay on Monday, a sourced told ESPN's Adam Schefter.",
+      "published": "2026-09-21T20:35:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "CHI"
+        "GB",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Jayden Daniels to see specialists before Commanders form plan",
+      "url": "https://www.espn.com/nfl/story/_/id/50000044/jayden-daniels-see-specialists-commanders-form-plan",
+      "summary": "The Commanders have not established a timeline for star quarterback Jayden Daniels to return from a dislocated left elbow.",
+      "published": "2026-09-21T20:50:43Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "WAS"
+      ]
+    },
+    {
+      "title": "Vikings' Murray clears concussion protocol, will start vs. Bucs",
+      "url": "https://www.espn.com/nfl/story/_/id/49999840/vikings-murray-clears-concussion-protocol-start-vs-bucs",
+      "summary": "Vikings quarterback Kyler Murray has cleared the concussion protocol and will start Sunday's game at the Buccaneers, coach Kevin O'Connell announced Monday.",
+      "published": "2026-09-21T20:22:50Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN",
+        "TB"
+      ]
+    },
+    {
+      "title": "Saints LT Kelvin Banks to have ankle surgery, out indefinitely",
+      "url": "https://www.espn.com/nfl/story/_/id/49999712/sources-saints-lt-banks-ankle-surgery-indefinitely",
+      "summary": "Saints left tackle Kelvin Banks Jr. is out indefinitely with a high ankle sprain and needs surgery, coach Kellen Moore said Monday.",
+      "published": "2026-09-21T19:22:29Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NO"
+      ]
+    },
+    {
+      "title": "J.K. Dobbins, RJ Harvey injured; Broncos' run game in question",
+      "url": "https://www.espn.com/nfl/story/_/id/49999460/jk-dobbins-rj-harvey-injured-broncos-run-game-question",
+      "summary": "With injuries to J.K. Dobbins and RJ Harvey, the Denver Broncos are looking at the week ahead before determining which running back will be ready for Sunday night's game against the Los Angeles Rams.",
+      "published": "2026-09-21T18:47:54Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DEN",
+        "LA"
+      ]
+    },
+    {
+      "title": "Lions lose DB Avonte Maddox for season; Dan Campbell defends DC",
+      "url": "https://www.espn.com/nfl/story/_/id/49999325/lions-lose-db-avonte-maddox-season-dan-campbell-defends-dc",
+      "summary": "The embattled Lions defense has lost defensive back Avonte Maddox for the season, while coach Dan Campbell is defending second-year defensive coordinator Kelvin Sheppard.",
+      "published": "2026-09-21T18:02:18Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "Sauce Gardner's journey with Colts is stuck in a 9-game rut",
+      "url": "https://www.espn.com/nfl/story/_/id/49999315/sauce-gardner-journey-colts-stuck-9-game-rut",
+      "summary": "The Colts are off to an 0-2 start, which doesn't bode well for the front office and doesn't sit well with the players.",
+      "published": "2026-09-21T18:06:42Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "Bears' Johnson: Williams week-to-week, but not ruled out for MNF",
+      "url": "https://www.espn.com/nfl/story/_/id/49999247/bears-johnson-qb-williams-week-week-likely-miss",
+      "summary": "Bears quarterback Caleb Williams is considered \"week-to-week\" with a right hamstring injury he sustained in a 9-3 loss to the Vikings, coach Ben Johnson said Monday afternoon.",
+      "published": "2026-09-21T20:54:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "MIN"
       ]
     },
     {
@@ -259,12 +433,134 @@
       "title": "How active NFL players continue to redefine all-time sack list",
       "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
       "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
-      "published": "2026-09-21T15:13:16Z",
+      "published": "2026-09-21T17:10:23Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
+    },
+    {
+      "title": "Jayden Daniels injury: Commanders QB examining options, Marcus Mariota to start Week 3",
+      "url": "https://www.cbssports.com/nfl/news/jayden-daniels-injury-commanders-qb-examining-options/",
+      "summary": "Daniels to get opinions from multiple experts",
+      "published": "Mon, 21 Sep 2026 20:51:54 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "WAS"
+      ]
+    },
+    {
+      "title": "How Chiefs' Kahlil Benson went from undrafted rookie to starting LT protecting Patrick Mahomes' blindside",
+      "url": "https://www.cbssports.com/nfl/news/how-rookie-kahlil-benson-became-chiefs-lt-patrick-mahomes/",
+      "summary": "The undrafted rookie switched sides to protect Patrick Mahomes' blindside and has not allowed a sack through his first two NFL career starts",
+      "published": "Mon, 21 Sep 2026 19:29:28 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "Vikings' Kyler Murray clears concussion protocol, named starter for Week 3 vs. Buccaneers",
+      "url": "https://www.cbssports.com/nfl/news/vikings-kyler-murray-clears-concussion-protocol-starter-for-week-3/",
+      "summary": "Murray went down with a concussion in the season opener, and Carson Wentz stepped in, helping the Vikings start 2-0",
+      "published": "Mon, 21 Sep 2026 18:56:40 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN",
+        "TB"
+      ]
+    },
+    {
+      "title": "Saints left tackle Kelvin Banks Jr. suffers severe high ankle sprain, reportedly will have surgery",
+      "url": "https://www.cbssports.com/nfl/news/saints-kelvin-banks-jr-suffers-ankle-injury/",
+      "summary": "Banks went down awkwardly after a sack",
+      "published": "Mon, 21 Sep 2026 18:18:36 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NO"
+      ]
+    },
+    {
+      "title": "Aaron Rodgers makes eye-opening comment on Mike McCarthy's play-calling, Steelers' execution issues",
+      "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-addresses-mike-mccarthys-playcalls-steelers-execution-issues/",
+      "summary": "Pittsburgh has managed just one touchdown through two games",
+      "published": "Mon, 21 Sep 2026 19:58:36 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "NFL Week 2 winners and losers, plus Caleb Williams injury details and Rams-Giants predictions for Monday night",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-winners-losers-plus-caleb-williams-injury-details-rams-giants-picks/",
+      "summary": "Here's everything you need to know about the NFL for Sept. 21",
+      "published": "Mon, 21 Sep 2026 18:03:33 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Is Puka Nacua playing on 'MNF?' A look at the Rams WR's status against Giants",
+      "url": "https://www.cbssports.com/nfl/news/is-puka-nacua-playing-on-mnf-rams-wrs-status-against-giants/",
+      "summary": "Nacua did not practice on Friday or Saturday ahead of Monday's matchup in Los Angeles",
+      "published": "Mon, 21 Sep 2026 17:23:03 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Caleb Williams, Jayden Daniels injured in Week 2: What's the outlook for Bears, Commanders signal callers?",
+      "url": "https://www.cbssports.com/nfl/news/caleb-williams-jayden-daniels-injured-week-2-outlook/",
+      "summary": "Williams hurt his hamstring on a run; Daniels dislocated his elbow after an awkward fall",
+      "published": "Mon, 21 Sep 2026 16:55:41 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Caleb Williams injury update: Bears QB reportedly avoids major hamstring injury, has shot to play in Week 3",
+      "url": "https://www.cbssports.com/nfl/news/caleb-williams-hamstring-injury-bears/",
+      "summary": "Williams reportedly is not expected to miss much time and could play against the Eagles",
+      "published": "Mon, 21 Sep 2026 16:52:22 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "PHI"
+      ]
     },
     {
       "title": "Ranking 5 worst losses in Week 2: Falcons, Buccaneers and Commanders all in the running",
@@ -328,7 +624,7 @@
       "title": "Giants vs. Rams picks, prediction, player props: Expert's best bets for Monday Night Football in NFL Week 2",
       "url": "https://www.cbssports.com/betting/news/giants-vs-rams-picks-prediction-player-props-experts-best-bets-for-monday-night-football-in-nfl-week-2/",
       "summary": "Target the Rams to rebound against the Giants at SoFi Stadium, plus best bets for Malik Nabers, Blake Corum and top anytime touchdown options",
-      "published": "Mon, 21 Sep 2026 14:18:56 +0000",
+      "published": "Mon, 21 Sep 2026 18:26:50 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -383,7 +679,7 @@
       "title": "Chargers' worst-case scenario has come to life with nowhere for Justin Herbert, Jim Harbaugh to hide",
       "url": "https://www.cbssports.com/nfl/news/chargers-worst-case-scenario-has-come-to-life-justin-herbert-jim-harbaugh/",
       "summary": "Mike McDaniel's hyped offense is a mess, and the defense is getting shredded",
-      "published": "Mon, 21 Sep 2026 13:05:32 +0000",
+      "published": "Mon, 21 Sep 2026 19:27:53 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -554,115 +850,6 @@
       "category": "game",
       "teams": [
         "GB"
-      ]
-    },
-    {
-      "title": "Buccaneers vs. Browns score: Cleveland completes Week 2 upset after two-hour weather delay",
-      "url": "https://www.cbssports.com/nfl/news/buccaneers-vs-browns-week-2-game-delayed-due-to-inclement-weather/",
-      "summary": "Lightning near Raymond James Stadium halted the contest for more than two hours with two minutes remaining in the game",
-      "published": "Sun, 20 Sep 2026 22:46:28 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "TB"
-      ]
-    },
-    {
-      "title": "Chiefs vs. Colts: How to watch, TV, streaming 'Sunday Night Football,' plus odds and prediction",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-vs-colts-how-to-watch-tv-channel-live-stream-nfl-start-time-odds/",
-      "summary": "Patrick Mahomes and the Chiefs host the Colts on Sunday night; here is how to watch the game, along with the latest odds and our prediction",
-      "published": "Sun, 20 Sep 2026 21:16:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "KC"
-      ]
-    },
-    {
-      "title": "Chiefs vs. Colts picks, prediction, player props: Expert's best bets for Sunday Night Football in NFL Week 2",
-      "url": "https://www.cbssports.com/betting/news/chiefs-vs-colts-picks-prediction-player-props-experts-best-bets-for-sunday-night-football-in-nfl-week-2/",
-      "summary": "Patrick Mahomes in prime time at home laying less than a touchdown anchors our best bets, plus top prop targets for Xavier Worthy and Tyler Warren",
-      "published": "Sun, 20 Sep 2026 20:57:07 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "KC"
-      ]
-    },
-    {
-      "title": "LOOK: Ja'Marr Chase makes absurd TD catch that could be best grab you'll see all season",
-      "url": "https://www.cbssports.com/nfl/news/look-jamarr-chase-makes-absurd-td-catch-vs-texans/",
-      "summary": "The Bengals wideout adjusted in mid-air against former LSU teammate Derek Stingley Jr. and dragged his toes in bounds to break a scoreless tie in Houston",
-      "published": "Sun, 20 Sep 2026 20:51:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN"
-      ]
-    },
-    {
-      "title": "Bears QB Caleb Williams exits vs. Vikings after suffering non-contact hamstring injury",
-      "url": "https://www.cbssports.com/nfl/news/caleb-williams-injury-updates-bears-qb/",
-      "summary": "The Bears quarterback went down untouched while rolling to his left and appeared to be in significant pain as trainers helped him off the field",
-      "published": "Sun, 20 Sep 2026 20:33:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Saints left tackle Kelvin Banks Jr. suffers ankle injury: New Orleans loses 2025 No. 9 overall pick",
-      "url": "https://www.cbssports.com/nfl/news/saints-kelvin-banks-jr-suffers-ankle-injury/",
-      "summary": "Banks went down awkwardly after a sack",
-      "published": "Sun, 20 Sep 2026 20:43:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NO"
-      ]
-    },
-    {
-      "title": "Eagles' Saquon Barkley (stinger) returns after halftime vs. Titans, Dallas Goedert questionable",
-      "url": "https://www.cbssports.com/nfl/news/eagles-saquon-barkley-exits-game-vs-titans-questionable-to-return/",
-      "summary": "Tank Bigsby took over as Philadelphia's top running back after Barkley suffered a stinger on the first offensive play",
-      "published": "Sun, 20 Sep 2026 18:40:16 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PHI",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Joey Porter Jr. cleared of back injury; Steelers have not received any trade offers for CB",
-      "url": "https://www.cbssports.com/nfl/news/joey-porter-jr-cleared-of-back-injury-steelers-not-received-trade-offers/",
-      "summary": "Pittsburgh is also not actively shopping Porter, who is missing his second straight game",
-      "published": "Sun, 20 Sep 2026 18:22:46 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PIT"
       ]
     }
   ],
