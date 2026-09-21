@@ -1,25 +1,99 @@
 {
-  "updated_at_utc": "2026-09-21T10:59:16.262919+00:00",
-  "checked_at_utc": "2026-09-21T10:59:16.262919+00:00",
+  "updated_at_utc": "2026-09-21T16:58:22.532183+00:00",
+  "checked_at_utc": "2026-09-21T16:58:22.532183+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 6,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 27
+      "items": 29
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 13,
+      "items": 16,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Bears' Caleb Williams Reportedly Avoided Major Injury To Hamstring, Could Play Week 3",
+      "url": "https://www.foxsports.com/stories/nfl/caleb-williams-bears-hamstring-injury-update",
+      "summary": "The Chicago Bears might not be without Caleb Williams for long, if it all.",
+      "published": "Mon, 21 Sep 2026 12:12:53 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "NFL, CFB Weekend Betting Recap: 'It Was An Extremely Rough Week For Bettors'",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-college-football-weekend-betting-recap-extremely-rough-week-bettors",
+      "summary": "Upset victories and low-scoring games doomed the public in NFL Week 2. Patrick Everson breaks it down.",
+      "published": "Mon, 21 Sep 2026 11:57:09 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL OROY Odds: Love Favored; Boston Rises After Big Week 2",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-offensive-rookie-year-odds",
+      "summary": "Jeremiyah Love remains the Offensive Rookie of the Year favorite after Week 1 but a new name is surging up the oddsboard. See the latest.",
+      "published": "Mon, 21 Sep 2026 10:17:13 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Monday Morning NFL Top 10 Rankings: Multiple Potential AFC Contenders Make Big Leaps",
+      "url": "https://www.foxsports.com/stories/nfl/monday-morning-nfl-top-10-rankings",
+      "summary": "Coming out of Sunday's Week 2 slate, here are Bucky Brooks' top-10 teams in the NFL.",
+      "published": "Mon, 21 Sep 2026 08:59:54 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "The Bears Are A Two-Faced Squad; Despite Win, Patriots QB Drake Maye Is Regressing",
+      "url": "https://www.foxsports.com/stories/nfl/bears-two-faced-squad-despite-patriots-qb-drake-maye-regressing",
+      "summary": "Week 2 showed that Chicago's offense might drive Ben Johnson nuts, and that the Patriots must figure out how to get their MVP candidate back.",
+      "published": "Mon, 21 Sep 2026 08:53:29 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI",
+        "NE"
+      ]
+    },
+    {
+      "title": "How to Watch Giants vs. Rams: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-giants-vs-rams-tv-channel-live-stream-2026-week-2",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 2 New York Giants and Los Angeles Rams game.",
+      "published": "Mon, 21 Sep 2026 08:46:00 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "NYG"
+      ]
+    },
     {
       "title": "Why Replay Overturned Colts' Fumble Call vs. Chiefs In Overtime",
       "url": "https://www.foxsports.com/stories/nfl/why-replay-overturned-colts-fumble-call-vs-chiefs-overtime",
@@ -155,11 +229,65 @@
       ]
     },
     {
-      "title": "Jalen Hurts Claps Back At Jeffery Simmons Following Eagles Win Over Titans",
-      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-claps-back-jeffery-simmons-following-eagles-win-over-titans",
-      "summary": "Jalen Hurts made it clear to Jeffery Simmons that he remembered his remark about him following Philadelphia's victory on Sunday.",
-      "published": "Sun, 20 Sep 2026 19:39:46 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Bears' Johnson: QB Williams week-to-week, likely to miss time",
+      "url": "https://www.espn.com/nfl/story/_/id/49999247/bears-johnson-qb-williams-week-week-likely-miss",
+      "summary": "Bears coach Ben Johnson said Monday on ESPN 1000 that quarterback Caleb Williams' right hamstring injury \"sounds like it's going to be a week-to-week deal for him.\"",
+      "published": "2026-09-21T16:53:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Jackson, Ravens face questions after frustrating loss to Saints",
+      "url": "https://www.espn.com/nfl/story/_/id/49998478/lamar-jackson-baltimore-ravens-face-questions-frustrating-loss-new-orleans-saints-week-2",
+      "summary": "Here are the major questions facing the Ravens' offense from Sunday's loss.",
+      "published": "2026-09-21T16:10:57Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "NO"
+      ]
+    },
+    {
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
+      "published": "2026-09-21T15:13:16Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Ranking 5 worst losses in Week 2: Falcons, Buccaneers and Commanders all in the running",
+      "url": "https://www.cbssports.com/nfl/news/ranking-week-2s-5-worst-losses-falcons-buccaneers-commanders/",
+      "summary": "Aaron Rodgers and the Steelers sputtered in New England, while Jayden Daniels suffered another major injury setback as ugly Sunday performances piled up across the league",
+      "published": "Mon, 21 Sep 2026 16:07:55 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "PIT",
+        "TB",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Eagles lineman calls for change after 157-degree Titans turf melts players' cleats",
+      "url": "https://www.cbssports.com/nfl/news/eagles-titans-nashville-heat/",
+      "summary": "The turf at Nissan Stadium reportedly reached 157 degrees, and Nick Siriani needed an IV",
+      "published": "Mon, 21 Sep 2026 16:01:48 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -169,106 +297,129 @@
       ]
     },
     {
-      "title": "Cowboys Dominate As Commanders Lose QB: 3 Takeaways From Dallas' Win",
-      "url": "https://www.foxsports.com/stories/nfl/cowboys-dominate-commanders-lose-qb-3-takeaways-from-dallas-win",
-      "summary": "The Cowboys got their first win of the season in dominant fashion on Sunday against the Commanders.",
-      "published": "Sun, 20 Sep 2026 19:38:53 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Rams vs. Giants NFL betting promos: Get almost $3,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/rams-giants-nfl-betting-promos-get-almost-3000-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 2 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Mon, 21 Sep 2026 15:46:33 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL",
-        "WAS"
+        "LA",
+        "NYG"
       ]
     },
     {
-      "title": "Why Officiating Expert Disagreed With Commanders' Disallowed TD vs. Cowboys",
-      "url": "https://www.foxsports.com/stories/nfl/why-officiating-expert-disagreed-commanders-disallowed-td-vs-cowboys",
-      "summary": "FOX Sports' rules analyst Dean Blandino joined the broadcast to share why the Commanders' apparent third-quarter touchdown was ruled incomplete.",
-      "published": "Sun, 20 Sep 2026 19:14:39 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Falcons' Drake London gets into heated exchange with fan during blowout loss to Panthers",
+      "url": "https://www.cbssports.com/nfl/news/falcons-drake-london-gets-into-heated-exchange-with-panthers-fan/",
+      "summary": "London said the person said personal things to him as Atlanta fell 0-2 on the season",
+      "published": "Mon, 21 Sep 2026 15:33:24 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL",
-        "WAS"
+        "ATL",
+        "CAR"
       ]
     },
     {
-      "title": "Miami Dolphins end road trip with more lessons than wins",
-      "url": "https://www.espn.com/nfl/story/_/id/49995991/miami-dolphins-end-road-trip-more-lessons-wins",
-      "summary": "Miami's players, coaches say takeaways from 49ers blowout will be building blocks for the rest of the season.",
-      "published": "2026-09-21T10:58:05Z",
-      "source": "ESPN NFL",
+      "title": "Giants vs. Rams picks, prediction, player props: Expert's best bets for Monday Night Football in NFL Week 2",
+      "url": "https://www.cbssports.com/betting/news/giants-vs-rams-picks-prediction-player-props-experts-best-bets-for-monday-night-football-in-nfl-week-2/",
+      "summary": "Target the Rams to rebound against the Giants at SoFi Stadium, plus best bets for Malik Nabers, Blake Corum and top anytime touchdown options",
+      "published": "Mon, 21 Sep 2026 14:18:56 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "MIA",
-        "SF"
+        "LA",
+        "NYG"
       ]
     },
     {
-      "title": "Van Ness' breakout game saves Packers in OT win vs. Jets",
-      "url": "https://www.espn.com/nfl/story/_/id/49993378/nfl-green-bay-packers-lukas-van-ness-micah-parsons-jets",
-      "summary": "Packers hope it's a sign of things to come as Micah Parsons nears his return from a torn ACL.",
-      "published": "2026-09-21T10:00:06Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "GB",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Donald in, Garrett out: How will Rams defense look with huge addition (and subtraction)?",
-      "url": "https://www.espn.com/nfl/story/_/id/49991306/los-angeles-rams-aaron-donald-myles-garrett-defense-week-2",
-      "summary": "Despite the defensive tackle returning from retirement, L.A. has never doubted that he could still make an impact.",
-      "published": "2026-09-21T10:00:01Z",
-      "source": "ESPN NFL",
+      "title": "Deshaun Watson responds to critics after win over Buccaneers: 'Monken said what he said'",
+      "url": "https://www.cbssports.com/nfl/news/deshaun-watson-browns-quiet-critics-after-win-over-buccaneers/",
+      "summary": "Watson enjoyed his highest passer rating in a game since September 2023, despite ongoing criticisms",
+      "published": "Mon, 21 Sep 2026 16:17:08 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LA"
+        "TB"
       ]
     },
     {
-      "title": "Jaxson Dart's coming at you from all angles",
-      "url": "https://www.espn.com/nfl/story/_/id/49991429/new-york-giants-jaxson-dart-coming-all-angles-exceptional-arm-talent",
-      "summary": "Dart's ability to throw from different angles gives him a chance to be not just a quarterback who makes special throws but a special quarterback.",
-      "published": "2026-09-21T10:00:04Z",
-      "source": "ESPN NFL",
+      "title": "Browns' Deshaun Watson-led win over Bucs was the worst thing for Cleveland in 2026",
+      "url": "https://www.cbssports.com/nfl/news/browns-deshaun-watson-win-over-bucs-was-the-worst-thing-for-cleveland/",
+      "summary": "Watson's victory robs the Browns of seeing what they have in their young quarterbacks before a QB decision in 2027",
+      "published": "Mon, 21 Sep 2026 14:33:24 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
-      "teams": []
+      "teams": [
+        "CLE",
+        "TB"
+      ]
     },
     {
-      "title": "2027 NFL draft order projections for Round 1, top pick, more",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-09-21T10:00:40Z",
-      "source": "ESPN NFL",
+      "title": "Giants vs. Rams odds, predictions, NFL picks, best bets: Betting preview for Monday Night Football",
+      "url": "https://www.cbssports.com/betting/news/giants-rams-odds-predictions-nfl-picks-best-bets-betting-preview-for-monday-night-football/",
+      "summary": "Best bets and betting preview for Giants vs. Rams on Monday Night Football",
+      "published": "Mon, 21 Sep 2026 13:47:11 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "LA",
+        "NYG"
+      ]
     },
     {
-      "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances",
-      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
-      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
-      "published": "2026-09-21T10:00:15Z",
-      "source": "ESPN NFL",
+      "title": "Chargers' worst-case scenario has come to life with nowhere for Justin Herbert, Jim Harbaugh to hide",
+      "url": "https://www.cbssports.com/nfl/news/chargers-worst-case-scenario-has-come-to-life-justin-herbert-jim-harbaugh/",
+      "summary": "Mike McDaniel's hyped offense is a mess, and the defense is getting shredded",
+      "published": "Mon, 21 Sep 2026 13:05:32 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
+      "title": "Bears, Commanders await severity of QB injuries; Ole Miss passes LSU in CFP race",
+      "url": "https://www.cbssports.com/nfl/news/bears-commanders-await-severity-of-qb-injuries-ole-miss-passes-lsu-in-cfp-race/",
+      "summary": "Plus MLB Power Rankings entering the regular season's final week",
+      "published": "Mon, 21 Sep 2026 12:50:39 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "WAS"
+      ]
+    },
+    {
+      "title": "2026 NFL Week 3 early odds: Eagles road favorites vs. Bears after Caleb Williams injury; Broncos home dogs",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-3-early-odds/",
+      "summary": "Here's a look at the lines for Week 3 in the NFL as we continue the start of the 2026 season",
+      "published": "Mon, 21 Sep 2026 11:55:58 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "DEN",
+        "PHI"
+      ]
     },
     {
       "title": "Cover 32: Steelers offense is broken under Aaron Rodgers, plus games balls, biggest gaffes from Week 2",
@@ -512,127 +663,6 @@
       "category": "injury",
       "teams": [
         "PIT"
-      ]
-    },
-    {
-      "title": "Packers' Jayden Reed carted off after taking hit vs. Jets, ruled out",
-      "url": "https://www.cbssports.com/nfl/news/jayden-reed-injury-update-packers-jets/",
-      "summary": "The Packers receiver caught a short pass from Jordan Love before taking a high hit and being ruled out",
-      "published": "Sun, 20 Sep 2026 17:42:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "GB",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Cowboys-Ravens field conditions draw concern ahead of historic NFL game in Rio",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-ravens-brazil-nfl-field/",
-      "summary": "Soccer players have criticized the playing surface at Maracan\u00e3 Stadium, which will host the NFL's first game in Rio de Janeiro",
-      "published": "Sun, 20 Sep 2026 17:22:33 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "DAL"
-      ]
-    },
-    {
-      "title": "Former Giants GM and Ring of Honor inductee Ernie Accorsi dies at 84",
-      "url": "https://www.cbssports.com/nfl/news/former-giants-gm-ernie-accorsi-dies-at-84/",
-      "summary": "Accorsi helped bring Eli Manning to New York and was inducted into the Giants Ring of Honor in 2016",
-      "published": "Sun, 20 Sep 2026 17:33:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Week 2 NFL betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-2-nfl-betting-promos-get-almost-4000-bonuses-from-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 2 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Sun, 20 Sep 2026 16:40:56 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Steelers vs. Patriots picks, odds: Betting preview, prediction, start time and more for NFL Week 2 showdown",
-      "url": "https://www.cbssports.com/betting/news/steelers-vs-patriots-picks-odds-betting-preview-prediction-start-time-and-more-for-nfl-week-2-showdown/",
-      "summary": "A pair of AFC playoff hopefuls square off as the Patriots host the Steelers on Sunday, and we have all the NFL betting tips you need",
-      "published": "Sun, 20 Sep 2026 16:01:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Packers vs. Jets picks, odds, prediction: Start time, betting preview and more for matchup in NFL Week 2",
-      "url": "https://www.cbssports.com/betting/news/packers-vs-jets-picks-odds-prediction-start-time-betting-preview-and-more-for-matchup-in-nfl-week-2/",
-      "summary": "The Packers look to rebound from a disappointing loss when they visit the Jets, but is Gang Green no longer a pushover? We break down everything bettors need to know",
-      "published": "Sun, 20 Sep 2026 16:00:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Bengals star Joe Burrow will play against Texans: Here's what Zac Taylor said about Week 2 status",
-      "url": "https://www.cbssports.com/nfl/news/joe-burrow-injury-update-bengals-qb-questionable/",
-      "summary": "Why the Bengals' QB was listed as questionable for Week 2",
-      "published": "Sun, 20 Sep 2026 15:40:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CIN",
-        "HOU"
-      ]
-    },
-    {
-      "title": "Vikings vs. Bears odds, picks, predictions, betting preview, advice, tips for NFL Week 2 matchup",
-      "url": "https://www.cbssports.com/betting/news/vikings-bears-odds-picks-predictions-betting-preview-advice-tips-nfl-week-2-matchup/",
-      "summary": "The Vikings visit the Bears in a matchup of 1-0 NFC North rivals for Week 2 of the NFL season",
-      "published": "Sun, 20 Sep 2026 15:07:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Colts WR Keenan Allen reportedly faces minimum three-game suspension after arrest",
-      "url": "https://www.cbssports.com/nfl/news/colts-wr-keenan-allen-nfl-suspension/",
-      "summary": "The Colts receiver reportedly registered a blood-alcohol level nearly three times the legal limit",
-      "published": "Sun, 20 Sep 2026 15:02:18 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND"
       ]
     }
   ],
