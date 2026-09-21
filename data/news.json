@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-21T05:24:58.066202+00:00",
-  "checked_at_utc": "2026-09-21T05:24:58.066202+00:00",
+  "updated_at_utc": "2026-09-21T10:59:16.262919+00:00",
+  "checked_at_utc": "2026-09-21T10:59:16.262919+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 18,
+      "items": 6,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,25 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 12,
+      "items": 13,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Why Replay Overturned Colts' Fumble Call vs. Chiefs In Overtime",
+      "url": "https://www.foxsports.com/stories/nfl/why-replay-overturned-colts-fumble-call-vs-chiefs-overtime",
+      "summary": "A replay review kept the Indianapolis Colts' overtime possession alive against the Kansas City Chiefs on Sunday night when it overturned the call that Laquon Treadwell had fumbled.",
+      "published": "Mon, 21 Sep 2026 02:37:24 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "KC"
+      ]
+    },
     {
       "title": "Overreaction Monday: Are The Cowboys Really Back? Are The Chargers Finished?",
       "url": "https://www.foxsports.com/stories/nfl/overreaction-monday-cowboys-really-back-chargers-finished",
@@ -183,166 +197,62 @@
       ]
     },
     {
-      "title": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
-      "url": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 2.",
-      "published": "2026-09-21T04:56:08Z",
+      "title": "Miami Dolphins end road trip with more lessons than wins",
+      "url": "https://www.espn.com/nfl/story/_/id/49995991/miami-dolphins-end-road-trip-more-lessons-wins",
+      "summary": "Miami's players, coaches say takeaways from 49ers blowout will be building blocks for the rest of the season.",
+      "published": "2026-09-21T10:58:05Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Mahomes and Walker shine, Butker hits winning 40-yarder as Chiefs beat Colts 33-30 in OT",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872945",
-      "summary": "\u2014 The Kansas City Chiefs thought they had beaten the Indianapolis Colts on a bizarre fumble in overtime Sunday night.",
-      "published": "2026-09-21T04:07:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "KC"
-      ]
-    },
-    {
-      "title": "Week 2 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/49984903/week-2-highlights-best-plays-touchdowns-2026",
-      "summary": "Check out top Week 2 plays, with Dak Prescott, Jacoby Brissett and Justin Herbert in action.",
-      "published": "2026-09-21T04:04:09Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Who are the winningest NFL coaches of all time?",
-      "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
-      "summary": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-      "published": "2026-09-21T03:57:51Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Lock, Smith-Njigba have Seahawks 2-0 with Darnold ahead of schedule",
-      "url": "https://www.espn.com/nfl/story/_/id/49995944/drew-lock-jaxon-smith-njigba-seahawks-2-0-sam-darnold-ahead-schedule",
-      "summary": "Seahawks coach Mike Macdonald said QB Sam Darnold could return to practice this week and did not rule out the possibility of him playing next Sunday. In the meantime, backup Drew Lock has Seattle 2-0, with plenty of help from receiver Jaxon Smith-Njigba.",
-      "published": "2026-09-21T03:57:03Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SEA"
-      ]
-    },
-    {
-      "title": "Harbaugh 'not deterred' as loss drops Chargers to unexpected 0-2",
-      "url": "https://www.espn.com/nfl/story/_/id/49995835/harbaugh-not-deterred-loss-drops-chargers-unexpected-0-2",
-      "summary": "The Chargers remain adamant that their struggles this season don't reflect who they really are.",
-      "published": "2026-09-21T03:28:13Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "Kirk Cousins' 'phenomenal' play has new-look Raiders at 2-0",
-      "url": "https://www.espn.com/nfl/story/_/id/49995676/kirk-cousins-phenomenal-play-new-look-raiders-2-0",
-      "summary": "Kirk Cousins has done more than just help the Raiders transition through a rebuilding process after two games, leading Las Vegas to its first 2-0 record since 2021.",
-      "published": "2026-09-21T03:12:03Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LV"
-      ]
-    },
-    {
-      "title": "QB Baker Mayfield says Bucs need to 'fight our way out' of 0-2 start",
-      "url": "https://www.espn.com/nfl/story/_/id/49995560/qb-baker-mayfield-says-bucs-need-fight-our-way-0-2-start",
-      "summary": "Buccaneers quarterback Baker Mayfield admitted to being \"pretty shocked\" the Bucs are 0-2 for the first time since he has been their quarterback and the first time since 2014 after losing to his former team, the Browns, 23-19.",
-      "published": "2026-09-21T03:05:25Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CLE",
-        "TB"
-      ]
-    },
-    {
-      "title": "Nashville turf temp of 157 F melts cleats, sends Sirianni for IV",
-      "url": "https://www.espn.com/nfl/story/_/id/49995389/turf-temps-157-f-nashville-melts-cleats",
-      "summary": "Players' cleats were melting and Eagles coach Nick Sirianni needed an IV as a result of extreme heat conditions at Nissan Stadium during Sunday's game between Philadelphia and the Tennessee Titans, a 24-20 win for the Eagles.",
-      "published": "2026-09-21T03:39:32Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PHI",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Brock Purdy keeps 49ers rolling with 'MVP' game vs. Dolphins",
-      "url": "https://www.espn.com/nfl/story/_/id/49995421/brock-purdy-keeps-49ers-rolling-mvp-game-vs-dolphins",
-      "summary": "Brock Purdy authored a near-perfect game at quarterback in the 49ers' 35-13 win over the rebuilding Dolphins, ending the day with a 99.7 QBR.",
-      "published": "2026-09-21T02:29:36Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
       "teams": [
         "MIA",
         "SF"
       ]
     },
     {
-      "title": "Colts' Alec Pierce hurts heel vs. Chiefs; X-rays negative",
-      "url": "https://www.espn.com/nfl/story/_/id/49995377/colts-rule-alec-pierce-left-heel-injury-vs-chiefs",
-      "summary": "Colts wide receiver Alec Pierce was ruled out of Sunday night's game against the Kansas City Chiefs after suffering a left heel injury with 1:45 left in the first quarter.",
-      "published": "2026-09-21T04:57:41Z",
+      "title": "Van Ness' breakout game saves Packers in OT win vs. Jets",
+      "url": "https://www.espn.com/nfl/story/_/id/49993378/nfl-green-bay-packers-lukas-van-ness-micah-parsons-jets",
+      "summary": "Packers hope it's a sign of things to come as Micah Parsons nears his return from a torn ACL.",
+      "published": "2026-09-21T10:00:06Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "transaction",
       "teams": [
-        "IND",
-        "KC"
+        "GB",
+        "NYJ"
       ]
     },
     {
-      "title": "Eagles' Broadway jab at Titans leads NFL Week 2 trolls",
-      "url": "https://www.espn.com/nfl/story/_/id/49993163/nfl-week-2-2026-trolls",
-      "summary": "Teams across the NFL came with petty postgame energy after wins in Week 2, led by the Philadelphia Eagles.",
-      "published": "2026-09-21T01:21:54Z",
+      "title": "Donald in, Garrett out: How will Rams defense look with huge addition (and subtraction)?",
+      "url": "https://www.espn.com/nfl/story/_/id/49991306/los-angeles-rams-aaron-donald-myles-garrett-defense-week-2",
+      "summary": "Despite the defensive tackle returning from retirement, L.A. has never doubted that he could still make an impact.",
+      "published": "2026-09-21T10:00:01Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "PHI",
-        "TEN"
+        "LA"
       ]
     },
     {
-      "title": "NFL Week 2's best arrivals, led by Travis Kelce and Patrick Mahomes",
-      "url": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals",
-      "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
-      "published": "2026-09-21T01:17:18Z",
+      "title": "Jaxson Dart's coming at you from all angles",
+      "url": "https://www.espn.com/nfl/story/_/id/49991429/new-york-giants-jaxson-dart-coming-all-angles-exceptional-arm-talent",
+      "summary": "Dart's ability to throw from different angles gives him a chance to be not just a quarterback who makes special throws but a special quarterback.",
+      "published": "2026-09-21T10:00:04Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "2027 NFL draft order projections for Round 1, top pick, more",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-09-21T10:00:40Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -350,72 +260,15 @@
       "teams": []
     },
     {
-      "title": "Deshaun Watson makes case in Browns win with job on line",
-      "url": "https://www.espn.com/nfl/story/_/id/49994580/deshaun-watson-browns-win-job",
-      "summary": "With rumblings about his starting job being on the line, quarterback Deshaun Watson responded with maybe his best game as a Cleveland Brown.",
-      "published": "2026-09-21T01:30:08Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CLE"
-      ]
-    },
-    {
-      "title": "DeMeco Ryans urges Texans to 'dig deep' after 0-2 start",
-      "url": "https://www.espn.com/nfl/story/_/id/49994608/demeco-ryans-urges-texans-dig-deep-0-2-start",
-      "summary": "Coach DeMeco Ryans challenged his Texans after they fell to 0-2 on Sunday, asking them: If you call yourselves playmakers, where are the plays?",
-      "published": "2026-09-21T02:01:17Z",
+      "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances",
+      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+      "published": "2026-09-21T10:00:15Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": [
-        "HOU"
-      ]
-    },
-    {
-      "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
-      "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
-      "summary": "The Steelers QB, who is entering his 22nd season in the league, is chasing records, and ESPN will be chronicling his \"last rodeo.\"",
-      "published": "2026-09-21T01:11:23Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "NFL Week 2 eye-popping stats from Eagles, Pats, Jets, Bears",
-      "url": "https://www.espn.com/nfl/story/_/id/49990404/week-2-five-key-stats-numbers-solak",
-      "summary": "We found six of the coolest advanced stats to come out of Sunday's games -- from third-down completions to matchup route stats.",
-      "published": "2026-09-21T02:20:50Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "NYJ",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Dak Prescott breaks Tony Romo's Cowboys passing TDs record",
-      "url": "https://www.espn.com/nfl/story/_/id/49994493/dak-prescott-breaks-tony-romo-cowboys-passing-tds-record",
-      "summary": "Dak Prescott became the Cowboys' all-time leader in touchdown passes in Sunday's win over the Commanders, surpassing Tony Romo with 249 in his career.",
-      "published": "2026-09-21T02:34:49Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "WAS"
-      ]
+      "teams": []
     },
     {
       "title": "Cover 32: Steelers offense is broken under Aaron Rodgers, plus games balls, biggest gaffes from Week 2",
