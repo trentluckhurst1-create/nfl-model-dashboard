@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-21T20:57:46.032442+00:00",
-  "checked_at_utc": "2026-09-21T20:57:46.032442+00:00",
+  "updated_at_utc": "2026-09-21T23:59:46.963878+00:00",
+  "checked_at_utc": "2026-09-21T23:59:46.963878+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 12,
+      "items": 15,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,74 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 20,
+      "items": 24,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Eagles Reportedly Set To Bring Back TE Zach Ertz After Dallas Goedert Injury",
+      "url": "https://www.foxsports.com/stories/nfl/eagles-reportedly-set-bring-back-zach-ertz-after-dallas-goedert-injury",
+      "summary": "The Philadelphia Eagles have already pivoted after their most recent injury news, and it's led to a homecoming.",
+      "published": "Mon, 21 Sep 2026 19:11:54 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Big Bets Report: Bettor Loses $1 Million After Bills Bury Lions",
+      "url": "https://www.foxsports.com/stories/nfl/big-bets-report-bettor-loses-1-million-after-bills-bury-lions",
+      "summary": "A week after winning seven figures, one bettor had a million-dollar meltdown. Patrick Everson breaks down the weekend's big bets.",
+      "published": "Mon, 21 Sep 2026 17:53:41 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "DET"
+      ]
+    },
+    {
+      "title": "Why Bryce Young Has Impressed Gronk and Jules: 'Really Fun To Watch'",
+      "url": "https://www.foxsports.com/stories/nfl/bryce-young-jaxon-smith-njigba-named-gronk-jules-week-2-employees-week",
+      "summary": "Bryce Young and Jaxon Smith-Njigba each accounted for three touchdowns in Week 2, and Julian Edelman and Rob Gronkowski picked them as their Employees of the Week.",
+      "published": "Mon, 21 Sep 2026 17:34:22 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Offseason Predictions: Where Colin Cowherd Was Right And Wrong",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-offseason-predictions-where-colin-cowherd-right-wrong",
+      "summary": "Colin Cowherd reacts to NFL Week 2 and explains what he got right and wrong this week.",
+      "published": "Mon, 21 Sep 2026 17:02:19 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Falcons Name Michael Penix Jr. Starting Quarterback In Week 3 vs. Packers",
+      "url": "https://www.foxsports.com/stories/nfl/falcons-name-michael-penix-jr-starting-quarterback-week-3-vs-packers",
+      "summary": "Michael Penix Jr. will start at quarterback for the Falcons on Thursday night against the Green Bay Packers, the team announced Monday.",
+      "published": "Mon, 21 Sep 2026 16:57:00 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ATL",
+        "GB"
+      ]
+    },
     {
       "title": "Aaron Glenn Has No Regrets After Jets' OT Collapse vs. Packers: 'Not One Bit'",
       "url": "https://www.foxsports.com/stories/nfl/aaron-glenn-has-no-regrets-after-jets-ot-collapse-vs-packers-not-one-bit",
@@ -267,23 +330,114 @@
       ]
     },
     {
-      "title": "Dak Prescott's Record-Setting Day In Cowboys Victory Earns Him LFG Player Of The Game",
-      "url": "https://www.foxsports.com/stories/nfl/dak-prescotts-record-setting-day-cowboys-victory-earns-him-lfg-player-game",
-      "summary": "Dak Prescott set the Cowboys' franchise record for the most touchdown passes in franchise history on Sunday.",
-      "published": "Sun, 20 Sep 2026 21:13:04 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Seahawks plan to have Sam Darnold back at practice Wednesday",
+      "url": "https://www.espn.com/nfl/story/_/id/50001287/seahawks-plan-sam-darnold-back-practice-wednesday",
+      "summary": "Coach Mike Macdonald also said \"there is a chance\" that quarterback Sam Darnold will play this week at Washington.",
+      "published": "2026-09-21T23:51:42Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SEA"
+      ]
+    },
+    {
+      "title": "NFL Week 2's best arrivals, led by Aaron Donald and Jaxson Dart",
+      "url": "https://www.espn.com/nfl/story/_/id/49961538/nfl-week-2-fashionable-arrivals",
+      "summary": "Rounding up the top pregame and tunnel arrivals from around the league.",
+      "published": "2026-09-21T23:51:15Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Rams WR Puka Nacua (hip) inactive for MNF vs. Giants",
+      "url": "https://www.espn.com/nfl/story/_/id/50001094/rams-wr-puka-nacua-hip-inactive-mnf-vs-giants",
+      "summary": "Los Angeles Rams wide receiver Puka Nacua will not be active for Monday night's game against the New York Giants.",
+      "published": "2026-09-21T23:49:40Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL"
+        "LA",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Cardinals CB Will Johnson (neck) could miss rest of season",
+      "url": "https://www.espn.com/nfl/story/_/id/50001072/cardinals-cb-johnson-miss-rest-season-neck-injury",
+      "summary": "Cardinals starting cornerback Will Johnson could miss the rest of the regular season after suffering a neck injury against the Seahawks on Sunday.",
+      "published": "2026-09-21T23:17:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ARI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Chargers placing TEs David Njoku, Charlie Kolar on IR",
+      "url": "https://www.espn.com/nfl/story/_/id/50000682/chargers-placing-tes-david-njoku-charlie-kolar-ir",
+      "summary": "The Chargers are placing tight ends David Njoku and Charlie Kolar on injured reserve, coach Jim Harbaugh announced Monday.",
+      "published": "2026-09-21T22:54:12Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
+      "title": "Sources: Eagles reuniting with Ertz as Goedert has MCL sprain",
+      "url": "https://www.espn.com/nfl/story/_/id/50000641/sources-eagles-te-dallas-goedert-mcl-sprain",
+      "summary": "The Eagles are signing tight end Zach Ertz to their practice squad after the injury to starter Dallas Goedert and other injuries at the position.",
+      "published": "2026-09-21T23:43:33Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Sources: Colts WR Alec Pierce seeking second opinion on heel",
+      "url": "https://www.espn.com/nfl/story/_/id/50000605/colts-wr-alec-pierce-seeking-second-opinion-heel",
+      "summary": "Colts WR Alec Pierce is seeking a second opinion on his left heel injury, sources told ESPN's Jeremy Fowler on Monday.",
+      "published": "2026-09-21T23:15:22Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "What's next for Jayden Daniels, Commanders after elbow injury?",
+      "url": "https://www.espn.com/nfl/story/_/id/50000042/washington-commanders-jayden-daniels-dislocated-elbow-injury-cowboys",
+      "summary": "Experts weigh in on Daniels' latest injury and what it means for him, the Commanders and their collective futures.",
+      "published": "2026-09-21T23:35:37Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "WAS"
       ]
     },
     {
       "title": "NFL: 'No concerns' over field conditions in Rio for Cowboys-Ravens",
       "url": "https://www.espn.com/nfl/story/_/id/50000433/nfl-no-concerns-field-conditions-rio-cowboys-ravens",
       "summary": "NFL field director Nick Pappas said there are \"no concerns right now\" over the field conditions for Sunday's game between the Cowboys and Ravens in Rio de Janeiro.",
-      "published": "2026-09-21T20:48:15Z",
+      "published": "2026-09-21T21:22:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -296,8 +450,8 @@
     {
       "title": "Falcons to start QB Michael Penix on Thursday vs. Packers",
       "url": "https://www.espn.com/nfl/story/_/id/50000410/falcons-start-qb-michael-penix-thursday-vs-packers",
-      "summary": "Falcons quarterback Michael Penix Jr. will make his season debut this Thursday night when he starts against the Packers, the team announced Monday.",
-      "published": "2026-09-21T20:57:13Z",
+      "summary": "Quarterback Michael Penix Jr. will make his season debut this Thursday night when he starts against the Packers, the Falcons announced Monday.",
+      "published": "2026-09-21T21:07:21Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -308,10 +462,10 @@
       ]
     },
     {
-      "title": "Packers WR Reed sustained back, not neck injury, source says",
+      "title": "Packers WR Reed sustained back (not neck) injury, source says",
       "url": "https://www.espn.com/nfl/story/_/id/50000310/packers-wr-reed-sustained-back-not-neck-injury-source-says",
-      "summary": "Packers receiver Jayden Reed actually sustained a back injury - and not a neck injury as originally thought - in Sunday's game against the Jets and was expected to return to Green Bay on Monday, a sourced told ESPN's Adam Schefter.",
-      "published": "2026-09-21T20:35:27Z",
+      "summary": "Packers receiver Jayden Reed actually sustained a back injury -- and not a neck injury as originally thought -- in Sunday's game against the Jets and was expected to return to Green Bay on Monday, a sourced told ESPN's Adam Schefter.",
+      "published": "2026-09-21T21:19:44Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -325,7 +479,7 @@
       "title": "Jayden Daniels to see specialists before Commanders form plan",
       "url": "https://www.espn.com/nfl/story/_/id/50000044/jayden-daniels-see-specialists-commanders-form-plan",
       "summary": "The Commanders have not established a timeline for star quarterback Jayden Daniels to return from a dislocated left elbow.",
-      "published": "2026-09-21T20:50:43Z",
+      "published": "2026-09-21T23:33:26Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -376,69 +530,100 @@
       ]
     },
     {
-      "title": "Lions lose DB Avonte Maddox for season; Dan Campbell defends DC",
-      "url": "https://www.espn.com/nfl/story/_/id/49999325/lions-lose-db-avonte-maddox-season-dan-campbell-defends-dc",
-      "summary": "The embattled Lions defense has lost defensive back Avonte Maddox for the season, while coach Dan Campbell is defending second-year defensive coordinator Kelvin Sheppard.",
-      "published": "2026-09-21T18:02:18Z",
-      "source": "ESPN NFL",
+      "title": "Rams vs. Giants preview: Aaron Donald makes return for Los Angeles on 'MNF'",
+      "url": "https://www.cbssports.com/nfl/news/giants-vs-rams-how-to-watch-prediction-preview/",
+      "summary": "Plus, how to watch the game and a prediction for the Monday night matchup",
+      "published": "Mon, 21 Sep 2026 23:49:03 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET"
+        "LA",
+        "NYG"
       ]
     },
     {
-      "title": "Sauce Gardner's journey with Colts is stuck in a 9-game rut",
-      "url": "https://www.espn.com/nfl/story/_/id/49999315/sauce-gardner-journey-colts-stuck-9-game-rut",
-      "summary": "The Colts are off to an 0-2 start, which doesn't bode well for the front office and doesn't sit well with the players.",
-      "published": "2026-09-21T18:06:42Z",
-      "source": "ESPN NFL",
+      "title": "Giants vs. Rams picks, prediction, player props: Expert's best bets for Monday Night Football in NFL Week 2",
+      "url": "https://www.cbssports.com/betting/news/giants-rams-picks-prediction-player-props-experts-best-bets-monday-night-football-nfl-week-2/",
+      "summary": "Target the Rams to rebound against the Giants at SoFi Stadium, plus best bets for Malik Nabers, Blake Corum and top anytime touchdown options",
+      "published": "Mon, 21 Sep 2026 23:07:44 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "IND"
+        "LA",
+        "NYG"
       ]
     },
     {
-      "title": "Bears' Johnson: Williams week-to-week, but not ruled out for MNF",
-      "url": "https://www.espn.com/nfl/story/_/id/49999247/bears-johnson-qb-williams-week-week-likely-miss",
-      "summary": "Bears quarterback Caleb Williams is considered \"week-to-week\" with a right hamstring injury he sustained in a 9-3 loss to the Vikings, coach Ben Johnson said Monday afternoon.",
-      "published": "2026-09-21T20:54:11Z",
-      "source": "ESPN NFL",
+      "title": "Eagles bringing back franchise legend Zach Ertz after Dallas Goedert injury",
+      "url": "https://www.cbssports.com/nfl/news/eagles-zach-ertz-practice-squad/",
+      "summary": "Ertz returns to the franchise that drafted him, with Dallas Goedert expected to miss action",
+      "published": "Mon, 21 Sep 2026 23:01:13 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "CHI",
-        "MIN"
+        "PHI"
       ]
     },
     {
-      "title": "Jackson, Ravens face questions after frustrating loss to Saints",
-      "url": "https://www.espn.com/nfl/story/_/id/49998478/lamar-jackson-baltimore-ravens-face-questions-frustrating-loss-new-orleans-saints-week-2",
-      "summary": "Here are the major questions facing the Ravens' offense from Sunday's loss.",
-      "published": "2026-09-21T16:10:57Z",
-      "source": "ESPN NFL",
+      "title": "Is Puka Nacua playing on 'MNF?' A look at the Rams WR's status against Giants",
+      "url": "https://www.cbssports.com/nfl/news/is-puka-nacua-playing-on-mnf-rams-wrs-status-against-giants/",
+      "summary": "Nacua did not practice on Friday or Saturday ahead of Monday's matchup in Los Angeles and was officially ruled inactive",
+      "published": "Mon, 21 Sep 2026 22:46:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Giants vs. Rams odds, predictions, NFL picks, best bets: Betting preview for Monday Night Football",
+      "url": "https://www.cbssports.com/betting/news/giants-rams-odds-predictions-nfl-picks-best-bets-betting-preview-monday-night-football/",
+      "summary": "Best bets and betting preview for Giants vs. Rams on Monday Night Football",
+      "published": "Mon, 21 Sep 2026 22:08:44 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL",
-        "NO"
+        "LA",
+        "NYG"
       ]
     },
     {
-      "title": "How active NFL players continue to redefine all-time sack list",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces seven active players making their moves among the greats.",
-      "published": "2026-09-21T17:10:23Z",
-      "source": "ESPN NFL",
+      "title": "Falcons announce starting QB for Week 3: Michael Penix gets call against Packers",
+      "url": "https://www.cbssports.com/nfl/news/falcons-announce-starting-qb-week-3-michael-penix-packers/",
+      "summary": "Thursday night will mark Penix's first game in 10 months",
+      "published": "Mon, 21 Sep 2026 21:07:41 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
+      "category": "qb",
+      "teams": [
+        "ATL",
+        "GB"
+      ]
+    },
+    {
+      "title": "Joey Porter contract: Steelers cornerback rejected lucrative contract extension, per report",
+      "url": "https://www.cbssports.com/nfl/news/joey-porter-contract-steelers-cornerback-rejected-contract-extension/",
+      "summary": "Porter did not play in Pittsburgh's first two games and has been at odds with the Steelers since the offseason",
+      "published": "Mon, 21 Sep 2026 20:58:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PIT"
+      ]
     },
     {
       "title": "Jayden Daniels injury: Commanders QB examining options, Marcus Mariota to start Week 3",
@@ -497,7 +682,7 @@
       "title": "Aaron Rodgers makes eye-opening comment on Mike McCarthy's play-calling, Steelers' execution issues",
       "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-addresses-mike-mccarthys-playcalls-steelers-execution-issues/",
       "summary": "Pittsburgh has managed just one touchdown through two games",
-      "published": "Mon, 21 Sep 2026 19:58:36 +0000",
+      "published": "Mon, 21 Sep 2026 23:30:32 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -511,20 +696,6 @@
       "url": "https://www.cbssports.com/nfl/news/nfl-week-2-winners-losers-plus-caleb-williams-injury-details-rams-giants-picks/",
       "summary": "Here's everything you need to know about the NFL for Sept. 21",
       "published": "Mon, 21 Sep 2026 18:03:33 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Is Puka Nacua playing on 'MNF?' A look at the Rams WR's status against Giants",
-      "url": "https://www.cbssports.com/nfl/news/is-puka-nacua-playing-on-mnf-rams-wrs-status-against-giants/",
-      "summary": "Nacua did not practice on Friday or Saturday ahead of Monday's matchup in Los Angeles",
-      "published": "Mon, 21 Sep 2026 17:23:03 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -621,20 +792,6 @@
       ]
     },
     {
-      "title": "Giants vs. Rams picks, prediction, player props: Expert's best bets for Monday Night Football in NFL Week 2",
-      "url": "https://www.cbssports.com/betting/news/giants-vs-rams-picks-prediction-player-props-experts-best-bets-for-monday-night-football-in-nfl-week-2/",
-      "summary": "Target the Rams to rebound against the Giants at SoFi Stadium, plus best bets for Malik Nabers, Blake Corum and top anytime touchdown options",
-      "published": "Mon, 21 Sep 2026 18:26:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "NYG"
-      ]
-    },
-    {
       "title": "Deshaun Watson responds to critics after win over Buccaneers: 'Monken said what he said'",
       "url": "https://www.cbssports.com/nfl/news/deshaun-watson-browns-quiet-critics-after-win-over-buccaneers/",
       "summary": "Watson enjoyed his highest passer rating in a game since September 2023, despite ongoing criticisms",
@@ -659,20 +816,6 @@
       "teams": [
         "CLE",
         "TB"
-      ]
-    },
-    {
-      "title": "Giants vs. Rams odds, predictions, NFL picks, best bets: Betting preview for Monday Night Football",
-      "url": "https://www.cbssports.com/betting/news/giants-rams-odds-predictions-nfl-picks-best-bets-betting-preview-for-monday-night-football/",
-      "summary": "Best bets and betting preview for Giants vs. Rams on Monday Night Football",
-      "published": "Mon, 21 Sep 2026 13:47:11 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "NYG"
       ]
     },
     {
@@ -796,60 +939,6 @@
       "category": "game",
       "teams": [
         "KC"
-      ]
-    },
-    {
-      "title": "NFL Week 2 winners, losers: Bengals put everything together while Bears, Commanders QBs sustain injuries",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-winners-losers-bengals-bears/",
-      "summary": "Cincinnati's defensive effort and two costly injuries are among this week's highlights and lowlights",
-      "published": "Sun, 20 Sep 2026 23:43:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "CIN",
-        "WAS"
-      ]
-    },
-    {
-      "title": "NFL Week 2 overreactions: Tyler Shough the answer in New Orleans? Vikings NFC North favorites?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-overreactions-tyler-shough-vikings/",
-      "summary": "Plus, will Drake Maye's turnovers continue to be an issue?",
-      "published": "Mon, 21 Sep 2026 00:52:56 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "Dak Prescott surpasses Tony Romo atop Cowboys' all-time passing touchdown list, aims to 'double' top mark",
-      "url": "https://www.cbssports.com/nfl/news/dak-prescott-tony-romo-cowboys-all-time-passing-touchdown-list/",
-      "summary": "Prescott entered Sunday just three behind his Dallas predecessor",
-      "published": "Mon, 21 Sep 2026 02:13:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Packers' Matt LaFleur should be feeling some heat amid sloppiness, ugly 1-1 start",
-      "url": "https://www.cbssports.com/nfl/news/packers-matt-lefleur-should-be-feeling-heat-amid-ugly-1-1-start/",
-      "summary": "Despite being extended this offseason, LaFleur deserves some scrutiny for eye-popping, poor play",
-      "published": "Sun, 20 Sep 2026 22:56:07 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB"
       ]
     }
   ],
