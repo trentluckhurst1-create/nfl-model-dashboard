@@ -1,25 +1,50 @@
 {
-  "updated_at_utc": "2026-09-22T21:15:00.685936+00:00",
-  "checked_at_utc": "2026-09-22T21:15:00.685936+00:00",
+  "updated_at_utc": "2026-09-22T23:38:15.222775+00:00",
+  "checked_at_utc": "2026-09-22T23:38:15.222775+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 7,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 31
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 21,
+      "items": 20,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Mahomes Mountain Week 3: Josh Allen Takes Over The Top Spot",
+      "url": "https://www.foxsports.com/stories/nfl/mahomes-mountain-week-3-josh-allen-takes-over-top-spot",
+      "summary": "Nick Wright's quarterback mountain has a new occupant at the top.",
+      "published": "Tue, 22 Sep 2026 19:15:13 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Herd Hierarchy: Are The Bills The NFL's Best Team, Or Do Seahawks Remain No. 1?",
+      "url": "https://www.foxsports.com/stories/nfl/herd-hierarchy-bills-nfls-best-team-do-seahawks-remain-no-1",
+      "summary": "Colin Cowherd revealed his Herd Hierarchy rankings heading into Week 3.",
+      "published": "Tue, 22 Sep 2026 19:08:20 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "SEA"
+      ]
+    },
     {
       "title": "Tom Brady Explains How Eliminating Negative Plays Elevated Josh Allen\u2019s Game",
       "url": "https://www.foxsports.com/stories/nfl/tom-brady-colin-cowherd-josh-allen-buffalo-bills-the-herd",
@@ -249,48 +274,23 @@
       "teams": []
     },
     {
-      "title": "Giants QB Jaxson Dart Injures Knee On Opening Drive Against Rams",
-      "url": "https://www.foxsports.com/stories/nfl/jaxson-dart-knee-injury-updates-giants-rams",
-      "summary": "The New York Giants' season might have been altered on their opening drive against the Los Angeles Rams on Monday night.",
-      "published": "Mon, 21 Sep 2026 21:59:49 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Source: Niners signing veteran receiver Cooks to practice squad",
+      "url": "https://www.espn.com/nfl/story/_/id/50008765/niners-signing-veteran-receiver-cooks-practice-squad",
+      "summary": "The Niners are signing free agent wideout Brandin Cooks to their practice squad, a source told ESPN on Tuesday.",
+      "published": "2026-09-22T22:59:09Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "LA",
-        "NYG"
-      ]
-    },
-    {
-      "title": "The Week 2 Plays That Stood Out: Jalen Hurts Delivers Late; Ja'Marr Chase Did What?!",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-2-plays-stood-out-jalen-hurts-patrick-mahomes-jamarr-chase",
-      "summary": "Here are the plays that shaped the Sunday slate of NFL Week 2.",
-      "published": "Mon, 21 Sep 2026 21:50:46 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Eagles Reportedly Set To Bring Back TE Zach Ertz After Dallas Goedert Injury",
-      "url": "https://www.foxsports.com/stories/nfl/eagles-reportedly-set-bring-back-zach-ertz-after-dallas-goedert-injury",
-      "summary": "The Philadelphia Eagles have already pivoted after their most recent injury news, and it's led to a homecoming.",
-      "published": "Mon, 21 Sep 2026 19:11:54 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PHI"
+        "SF"
       ]
     },
     {
       "title": "Macdonald says Broncos' Payton accused Seahawks of cheating",
       "url": "https://www.espn.com/nfl/story/_/id/50007939/macdonald-says-broncos-payton-accused-seahawks-cheating-2024",
-      "summary": "Seahawks coach Mike Macdonald says the Broncos wrongfully accused Seattle of a Spygate-like cheating scandal in 2024. Denver coach Sean Payton ultimately \"backed off\" after the Seahawks threatened a lawsuit if they went public with the allegation.",
-      "published": "2026-09-22T20:39:41Z",
+      "summary": "Seahawks coach Mike Macdonald says the Broncos wrongfully accused Seattle of a Spygate-like cheating scandal in 2024. Denver coach Sean Payton ultimately \"backed off\" after the Seahawks threatened a lawsuit if the Broncos went public with the allegation.",
+      "published": "2026-09-22T22:10:49Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -314,69 +314,16 @@
       ]
     },
     {
-      "title": "Sources: Giants QB Jaxson Dart out for extended period",
-      "url": "https://www.espn.com/nfl/story/_/id/50007211/sources-giants-qb-jaxson-dart-extended-period",
-      "summary": "Jaxson Dart's knee injury is more severe than originally anticipated, and the Giants QB could miss the rest of the season, sources told NFL Network's Ian Rapoport and Mike Garafolo.",
-      "published": "2026-09-22T20:39:34Z",
-      "source": "ESPN NFL",
+      "title": "Resetting expectations for these six NFL teams with injured quarterbacks: Giants eyeing draft again",
+      "url": "https://www.cbssports.com/nfl/news/resetting-expectations-nfl-teams-injured-quarterbacks/",
+      "summary": "Success looks different for each of the squads that saw their starters go down early in the season",
+      "published": "Tue, 22 Sep 2026 23:01:14 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
         "NYG"
-      ]
-    },
-    {
-      "title": "Sources: Bagent has concussion, leaving Bears' QB situation unclear",
-      "url": "https://www.espn.com/nfl/story/_/id/50007133/bagent-concussion-leaving-bears-qb-situation-muddled",
-      "summary": "Bears quarterback Tyson Bagent is in the NFL's concussion protocol, sources told NFL Network's Ian Rapoport on Tuesday.",
-      "published": "2026-09-22T19:55:23Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Jets sign ex-Titans QB Will Levis, release Bailey Zappe",
-      "url": "https://www.espn.com/nfl/story/_/id/50007034/jets-sign-qb-levis-release-bailey-zappe",
-      "summary": "The Jets have signed former Titans starting QB Will Levis to their practice squad and have released Bailey Zappe.",
-      "published": "2026-09-22T20:45:34Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYJ",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Sources: Pro Bowler Kenny Moore II to boost Eagles' DB group",
-      "url": "https://www.espn.com/nfl/story/_/id/50006942/sources-pro-bowler-kenny-moore-ii-boost-eagles-db-group",
-      "summary": "With a defensive back group dealing with injuries, the Eagles are expected to sign Pro Bowler Kenny Moore II to the practice squad, sources said.",
-      "published": "2026-09-22T18:24:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "Falcons place cornerback A.J. Terrell on IR with groin injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50006619/falcons-place-cornerback-aj-terrell-ir-groin-injury",
-      "summary": "The Falcons placed star cornerback A.J. Terrell on injured reserve Tuesday with a groin injury, the team announced.",
-      "published": "2026-09-22T17:41:24Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL"
       ]
     },
     {
