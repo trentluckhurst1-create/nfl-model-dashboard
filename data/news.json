@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-09-23T06:47:36.137342+00:00",
-  "checked_at_utc": "2026-09-23T06:47:36.137342+00:00",
+  "updated_at_utc": "2026-09-23T12:19:53.146767+00:00",
+  "checked_at_utc": "2026-09-23T12:19:53.146767+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 1,
+      "items": 6,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 33
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -272,16 +272,114 @@
       "teams": []
     },
     {
-      "title": "Woman says she reported alleged 49ers impersonator to team in December",
-      "url": "https://www.espn.com/nfl/story/_/id/50009432/woman-says-reported-alleged-49ers-impersonator-team-december",
-      "summary": "A woman who says she is a victim in the FBI's fraud case against Daejon Love said she sent a \"complaint/concern\" to the Niners in December 2025, eight months before Love was arrested and charged with wire fraud and conspiracy to commit wire fraud.",
-      "published": "2026-09-23T01:17:41Z",
+      "title": "Sources: Panthers RB Jonathon Brooks set for surgery, IR move",
+      "url": "https://www.espn.com/nfl/story/_/id/50012387/sources-panthers-rb-jonathon-brooks-set-surgery-ir-move",
+      "summary": "Panthers running back Jonathon Brooks is expected to undergo surgery to repair a core muscle injury and is set to miss at least six weeks, sources told NFL Network.",
+      "published": "2026-09-23T12:12:57Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CAR"
+      ]
+    },
+    {
+      "title": "NFL Week 3 latest intel, buzz questions, news, fantasy tips",
+      "url": "https://www.espn.com/nfl/story/_/id/50005797/week-3-buzz-fantasy-predictions-graziano-fowler-2026",
+      "summary": "What now for the Giants with Jaxson Dart out? What's the buzz on Patrick Mahomes through two games? Are running back depth charts firming up in Tampa and Carolina?",
+      "published": "2026-09-23T10:24:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Why Aaron Glenn is encouraged by the Jets' progress",
+      "url": "https://www.espn.com/nfl/story/_/id/49999959/new-york-jets-progress-top-defense-aaron-glenn-encouraged",
+      "summary": "New York is an overtime loss away from being undefeated after allowing the fewest yards through two weeks.",
+      "published": "2026-09-23T12:11:25Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Cowboys' CeeDee Lamb, George Pickens playing with 'no egos'",
+      "url": "https://www.espn.com/nfl/story/_/id/50005134/nfl-dallas-cowboys-ceedee-lamb-george-pickens",
+      "summary": "Lamb and Pickens believe their off-field connection is helping their on-field production.",
+      "published": "2026-09-23T10:00:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Evaluating surprise early-season trends for 32 NFL teams",
+      "url": "https://www.espn.com/nfl/story/_/id/49998629/evaluating-32-nfl-team-surprise-trends-2026-first-two-weeks-real-mirage",
+      "summary": "T.J. Watt is dominant again? The Packers can't run the ball? Drew Lock is fourth in QBR? Let's figure out which early stats and trends have staying power and which are a mirage.",
+      "published": "2026-09-23T10:35:15Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "Why 49ers' Brock Purdy looks poised for his best season yet",
+      "url": "https://www.espn.com/nfl/story/_/id/50005196/san-francisco-49ers-brock-purdy-2026-season-hot-start-expectations",
+      "summary": "Purdy is dominating through two weeks of the 2026 season despite many injuries at wide receiver. And it all started in training camp.",
+      "published": "2026-09-23T10:00:04Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
         "SF"
+      ]
+    },
+    {
+      "title": "Super Bowl stock report for Week 3: Bengals are total package, Chargers' season over before it started",
+      "url": "https://www.cbssports.com/nfl/news/super-bowl-stock-report-nfl-week-3/",
+      "summary": "We assess the NFL title race after Week 2 and identify four upcoming games that could reshape the Super Bowl picture",
+      "published": "Wed, 23 Sep 2026 10:00:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Prisco's Week 3 NFL picks: Browns upset Panthers, Giants rally behind Jameis Winston",
+      "url": "https://www.cbssports.com/nfl/news/priscos-week-3-nfl-picks-browns-upset-panthers-giants-rally-behind-jameis-winston/",
+      "summary": "Pete Prisco reveals all of his Week 3 picks, including Jaguars over Patriots and Bucs over Vikings",
+      "published": "Wed, 23 Sep 2026 11:27:28 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "CLE",
+        "JAX",
+        "MIN",
+        "NE",
+        "NYG",
+        "TB"
       ]
     },
     {
@@ -702,19 +800,6 @@
       "category": "transaction",
       "teams": [
         "PIT"
-      ]
-    },
-    {
-      "title": "Jayden Daniels injury: Commanders QB examining options, Marcus Mariota to start Week 3",
-      "url": "https://www.cbssports.com/nfl/news/jayden-daniels-injury-commanders-qb-examining-options/",
-      "summary": "Daniels to get opinions from multiple experts",
-      "published": "Mon, 21 Sep 2026 20:51:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "WAS"
       ]
     }
   ],
