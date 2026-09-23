@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-22T23:38:15.222775+00:00",
-  "checked_at_utc": "2026-09-22T23:38:15.222775+00:00",
+  "updated_at_utc": "2026-09-23T01:47:56.858270+00:00",
+  "checked_at_utc": "2026-09-23T01:47:56.858270+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -20,6 +20,54 @@
     }
   },
   "items": [
+    {
+      "title": "NFL Catchup: Jaxson Dart Facing Extended Absence, Bears' Tyson Bagent In Protocol",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-jaxson-darts-knee-injury-worse-than-first-believed-out-extended-time",
+      "summary": "Here's the latest from around the NFL on Tuesday.",
+      "published": "Tue, 22 Sep 2026 21:24:15 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Let Caleb Williams Cry. His Authenticity And Sensitivity Make Him A Superstar.",
+      "url": "https://www.foxsports.com/stories/nfl/let-caleb-williams-cry-his-authenticity-sensitivity-make-him-superstar",
+      "summary": "Caleb Williams has brought in a new set of emotions into the NFL, and you shouldn't have a problem with it.",
+      "published": "Tue, 22 Sep 2026 21:17:28 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "QB Notebook: Aaron Rodgers Failing Beyond Physical Ability; Relax, Baker Mayfield",
+      "url": "https://www.foxsports.com/stories/nfl/qb-notebook-aaron-rodgers-failing-beyond-physical-ability-relax-baker-mayfield",
+      "summary": "In this week's QB Notebook, we diagnose what's wrong with Aaron Rodgers, Bo Nix and Baker Mayfield while we make a prediction for Drew Lock.",
+      "published": "Tue, 22 Sep 2026 21:16:05 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Why The Giants Should Ride The Jameis Winston Wave Until Jaxson Dart Returns",
+      "url": "https://www.foxsports.com/stories/nfl/why-giants-should-ride-jameis-winston-wave-until-jaxson-dart-returns",
+      "summary": "With Jaxson Dart potentially out for the season, the Giants have a big decision to make at QB. Ralph Vacchiano makes the case for sticking with Jameis Winston.",
+      "published": "Tue, 22 Sep 2026 20:57:45 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
     {
       "title": "Mahomes Mountain Week 3: Josh Allen Takes Over The Top Spot",
       "url": "https://www.foxsports.com/stories/nfl/mahomes-mountain-week-3-josh-allen-takes-over-top-spot",
@@ -224,54 +272,17 @@
       "teams": []
     },
     {
-      "title": "2026 NFL Power Rankings Week 3: Are The Chiefs Back? Are The Bucs Broken?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-3-chiefs-back-bucs-broken",
-      "summary": "Are the Chiefs back? They're one of a few teams on the rise after Week 2.",
-      "published": "Mon, 21 Sep 2026 23:30:21 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Woman says she reported alleged 49ers impersonator to team in December",
+      "url": "https://www.espn.com/nfl/story/_/id/50009432/woman-says-reported-alleged-49ers-impersonator-team-december",
+      "summary": "A woman who says she is a victim in the FBI's fraud case against Daejon Love said she sent a \"complaint/concern\" to the Niners in December 2025, eight months before Love was arrested and charged with wire fraud and conspiracy to commit wire fraud.",
+      "published": "2026-09-23T01:17:41Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "KC",
-        "TB"
+        "SF"
       ]
-    },
-    {
-      "title": "NFL Week 2 All-Stars: A Clear Early MVP Frontrunner Has Emerged",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-2-all-stars-clear-early-mvp-frontrunner-has-emerged",
-      "summary": "We offer up the NFL's best from Week 2, with a familiar face leading the way after five total touchdowns in an impressive home opener.",
-      "published": "Mon, 21 Sep 2026 23:25:37 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Davante Adams Dominates The Giants: 3 Takeaways From The Rams' Win",
-      "url": "https://www.foxsports.com/stories/nfl/giants-lose-game-qb-3-takeaways-from-rams-win",
-      "summary": "Davante Adams scored two touchdowns and powered the Rams offense in a win over the Giants on Monday night.",
-      "published": "Mon, 21 Sep 2026 23:14:56 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "NYG"
-      ]
-    },
-    {
-      "title": "NFL Catchup: Caleb Williams Avoids Major Injury; Latest On Other QB Ailments",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-caleb-williams-jaxson-dart-jayden-daniels-kyler-murray-injury-updates",
-      "summary": "Here's the latest from around the NFL on Monday.",
-      "published": "Mon, 21 Sep 2026 23:08:28 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
     },
     {
       "title": "Source: Niners signing veteran receiver Cooks to practice squad",
@@ -284,33 +295,6 @@
       "category": "injury",
       "teams": [
         "SF"
-      ]
-    },
-    {
-      "title": "Macdonald says Broncos' Payton accused Seahawks of cheating",
-      "url": "https://www.espn.com/nfl/story/_/id/50007939/macdonald-says-broncos-payton-accused-seahawks-cheating-2024",
-      "summary": "Seahawks coach Mike Macdonald says the Broncos wrongfully accused Seattle of a Spygate-like cheating scandal in 2024. Denver coach Sean Payton ultimately \"backed off\" after the Seahawks threatened a lawsuit if the Broncos went public with the allegation.",
-      "published": "2026-09-22T22:10:49Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Packers lose RT Zach Bako-Bewele to season-ending surgery",
-      "url": "https://www.espn.com/nfl/story/_/id/50007652/packers-lose-rt-zach-bako-bewele-season-ending-surgery",
-      "summary": "Packers RT Zach Bako-Bewele, considered the team's best offensive lineman, is set to undergo knee surgery that will sideline him for 8-10 months.",
-      "published": "2026-09-22T20:36:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "GB"
       ]
     },
     {
