@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-23T17:17:36.107478+00:00",
-  "checked_at_utc": "2026-09-23T17:17:36.107478+00:00",
+  "updated_at_utc": "2026-09-23T20:31:07.716586+00:00",
+  "checked_at_utc": "2026-09-23T20:31:07.716586+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 9,
+      "items": 15,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,175 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 20,
+      "items": 22,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "49ers Almost Drafted Cam Skattebo? Robert Saleh Says Kyle Shanahan 'Loved Him\u2019",
+      "url": "https://www.foxsports.com/stories/nfl/robert-saleh-cam-skattebo-draft-story-giants-titans-49ers",
+      "summary": "Titans coach Robert Saleh revealed a fascinating draft nugget regarding the 49ers and Giants running back Cam Skattebo.",
+      "published": "Wed, 23 Sep 2026 16:26:17 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "SF",
+        "TEN"
+      ]
+    },
+    {
+      "title": "England Star Harry Kane To 'Seriously' Explore Future In Both MLS And NFL",
+      "url": "https://www.foxsports.com/stories/soccer/england-star-harry-kane-seriously-explore-future-both-mls-nfl",
+      "summary": "England soccer great Harry Kane\u2019s long-held hope of being a kicker in the NFL took clearer shape Wednesday, when he floated the idea of combining the goal with also joining a Major League Soccer club.",
+      "published": "Wed, 23 Sep 2026 16:24:45 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2027 NFL Draft No. 1 Pick Odds: Manning Favored; Chambliss Skyrockets",
+      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
+      "summary": "Could Trinidad Chambliss challenge Arch Manning for the No. 1 pick in the 2027 NFL Draft? See the latest odds.",
+      "published": "Wed, 23 Sep 2026 16:14:52 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Case Keenum Practices For Bears Amid Caleb Williams, Tyson Bagent Uncertainty",
+      "url": "https://www.foxsports.com/stories/nfl/case-keenum-caleb-williams-tyson-bagent-injury-update-bears-quarterbacks",
+      "summary": "It looks as if Case Keenum is going to start at quarterback for the Chicago Bears on Monday night against the Philadelphia Eagles.",
+      "published": "Wed, 23 Sep 2026 15:22:22 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "PHI"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 3: Lines, Spreads For All 16 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-3-lines-spreads-results-all-16-games",
+      "summary": "Check out the odds for every NFL Week 3 contest.",
+      "published": "Wed, 23 Sep 2026 15:12:35 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "West Coast Read: Time To End Justin Herbert-Mike McDaniel Marriage? Brock Purdy's MVP Start",
+      "url": "https://www.foxsports.com/stories/nfl/justin-herbert-mike-mcdaniel-chargers-brock-purdy-49ers-mvp",
+      "summary": "One longtime NFL scout tells us it's already time for the Chargers to fire OC Mike McDaniel, while we assess Brock Purdy's start to the season.",
+      "published": "Wed, 23 Sep 2026 14:55:40 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
+      "title": "2026 NFL Coach Of The Year Odds: Kellen Moore Favored, Klint Kubiak Surges",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-coach-of-the-year-odds",
+      "summary": "Kellen Moore led the Saints to a road upset, while Klint Kubiak has the Raiders 2-0. See the latest Coach of the Year odds.",
+      "published": "Wed, 23 Sep 2026 14:37:12 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV",
+        "NO"
+      ]
+    },
+    {
+      "title": "Favorite 'Dogs: Back Ole Miss Over Florida; Jets Over Lions",
+      "url": "https://www.foxsports.com/stories/college-football/favorite-dogs-back-ole-miss-over-florida-jets-over-lions",
+      "summary": "Will Hill is backing Ole Miss to get past another SEC foe, and he's putting his money on the underdog Jets again.",
+      "published": "Wed, 23 Sep 2026 14:28:48 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Roll The Tape: How To Fix Justin Herbert; How Kenneth Walker Fixed KC's Offense",
+      "url": "https://www.foxsports.com/stories/nfl/roll-tape-how-fix-justin-herbert-how-kenneth-walker-has-fixed-kcs-offense",
+      "summary": "After diving into the All-22 coaches' film from Week 2, Bucky Brooks examines four new developments to watch.",
+      "published": "Wed, 23 Sep 2026 14:17:56 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "The Arizona Cardinals Could Eventually Explore Trading Marvin Harrison Jr.",
+      "url": "https://www.foxsports.com/stories/nfl/arizona-cardinals-marvin-harrison-jr-trade-rumors",
+      "summary": "When the Arizona Cardinals drafted Marvin Harrison Jr., he was viewed as a generational talent coming out of Ohio State. Instead, his tenure has been defined far more by frustration than flashes of stardom.",
+      "published": "Wed, 23 Sep 2026 14:14:26 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI"
+      ]
+    },
+    {
+      "title": "Colts WR Alec Pierce Placed On Injured Reserve Following Heel Injury",
+      "url": "https://www.foxsports.com/stories/nfl/indianapolis-colts-alec-pierce-heel-ankle-injury",
+      "summary": "The Indianapolis Colts are placing receiver Alec Pierce on the injured reserve list, three days after he hopped off the field at Kansas City with an injury.",
+      "published": "Wed, 23 Sep 2026 14:06:19 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "2026 NFL DPOY Odds: Will Anderson Jr. Favored; T.J. Watt, Maxx Crosby Surge",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
+      "summary": "Check out how the latest odds to win the 2026 NFL Defensive Player of the Year award.",
+      "published": "Wed, 23 Sep 2026 14:03:50 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "With Jaxson Dart Out For The Year, Giants Should Ride The Jameis Winston Wave",
+      "url": "https://www.foxsports.com/stories/nfl/why-giants-should-ride-jameis-winston-wave-until-jaxson-dart-returns",
+      "summary": "With Jaxson Dart out for the season, the Giants have a big decision to make at QB. Ralph Vacchiano makes the case for sticking with Jameis Winston.",
+      "published": "Wed, 23 Sep 2026 13:22:23 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
     {
       "title": "Giants QB Jaxson Dart To Undergo Knee Surgery, Miss Rest Of 2026 Season",
       "url": "https://www.foxsports.com/stories/nfl/new-york-giants-qb-jaxson-dart-knee-surgery-2026-season",
@@ -94,19 +258,6 @@
       "teams": []
     },
     {
-      "title": "Why The Giants Should Ride The Jameis Winston Wave Until Jaxson Dart Returns",
-      "url": "https://www.foxsports.com/stories/nfl/why-giants-should-ride-jameis-winston-wave-until-jaxson-dart-returns",
-      "summary": "With Jaxson Dart potentially out for the season, the Giants have a big decision to make at QB. Ralph Vacchiano makes the case for sticking with Jameis Winston.",
-      "published": "Tue, 22 Sep 2026 20:57:45 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
       "title": "Mahomes Mountain Week 3: Josh Allen Takes Over The Top Spot",
       "url": "https://www.foxsports.com/stories/nfl/mahomes-mountain-week-3-josh-allen-takes-over-top-spot",
       "summary": "Nick Wright's quarterback mountain has a new occupant at the top.",
@@ -143,136 +294,117 @@
       "teams": []
     },
     {
-      "title": "Giants QB Jaxson Dart's MRI Reportedly Reveals Worse Knee Injury, Season In Doubt",
-      "url": "https://www.foxsports.com/stories/nfl/jaxson-dart-giants-knee-injury-update",
-      "summary": "The news on Jaxson Dart just got significantly worse.",
-      "published": "Tue, 22 Sep 2026 15:33:09 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Bears Backup QB Tyson Bagent Reportedly In Concussion Protocol",
-      "url": "https://www.foxsports.com/stories/nfl/chicago-bears-qb-injuries-tyson-bagent-concussion-protocol",
-      "summary": "Chicago Bears backup quarterback Tyson Bagent is in the NFL's concussion protocol, according to NFL Network.",
-      "published": "Tue, 22 Sep 2026 14:50:21 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Eagles Reportedly Sign Former Pro Bowl CB Kenny Moore II To Practice Squad",
-      "url": "https://www.foxsports.com/stories/nfl/philadelphia-eagles-sign-cornerback-kenny-moore-indianapolis-colts",
-      "summary": "After being released by the Indianapolis Colts earlier this offseason, veteran cornerback Kenny Moore II has officially found a new home with the Philadelphia Eagles.",
-      "published": "Tue, 22 Sep 2026 14:31:07 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "IND",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Upon Further Review: Bengals Have Flipped The Script With Upgraded Defense",
-      "url": "https://www.foxsports.com/stories/nfl/upon-further-review-bengals-have-flipped-script-upgraded-defense",
-      "summary": "The Bengals revamped their defense this season, and DC Al Golden tells us how star DT Dexter Lawrence has been a difference maker.",
-      "published": "Tue, 22 Sep 2026 14:21:32 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Seahawks' Macdonald apologizes to Broncos' Payton for comments",
+      "url": "https://www.espn.com/nfl/story/_/id/50015234/seahawks-macdonald-apologizes-broncos-payton-comments",
+      "summary": "Seahawks coach Mike Macdonald said Wednesday he called Broncos coach Sean Payton and apologized for comments he made in a published video that went viral Tuesday.",
+      "published": "2026-09-23T20:25:47Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
+      "teams": [
+        "DEN",
+        "SEA"
+      ]
+    },
+    {
+      "title": "In reversal, Chargers not placing Charlie Kolar (forearm) on IR",
+      "url": "https://www.espn.com/nfl/story/_/id/50014963/in-reversal-chargers-not-placing-tight-end-charlie-kolar-injured-reserve",
+      "summary": "In a surprising reversal, the Chargers are not placing tight end Charlie Kolar on injured reserve after he injured his left forearm in Sunday's game.",
+      "published": "2026-09-23T19:54:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
+      "title": "Vikings RB Aaron Jones working through knee injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50014807/vikings-rb-aaron-jones-working-knee-injury",
+      "summary": "The Vikings' offensive backfield is in flux this week as starter Aaron Jones Sr. works through a knee injury and backup Jordan Mason remains on injured reserve.",
+      "published": "2026-09-23T20:11:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "Bills' T.J. Sanders out indefinitely after having appendectomy",
+      "url": "https://www.espn.com/nfl/story/_/id/50014666/bills-tj-sanders-indefinitely-having-appendectomy",
+      "summary": "Bills defensive lineman T.J. Sanders is out indefinitely after having an appendectomy, coach Joe Brady said on Wednesday.",
+      "published": "2026-09-23T19:03:43Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF"
+      ]
+    },
+    {
+      "title": "Lamar Jackson, Ravens not focusing on field conditions in Rio",
+      "url": "https://www.espn.com/nfl/story/_/id/50014538/lamar-jackson-ravens-not-focusing-field-conditions-rio",
+      "summary": "A day before the Ravens travel to Brazil to play the Cowboys, quarterback Lamar Jackson said he isn't focusing on the condition of the field at Maracan\u00e3 Stadium.",
+      "published": "2026-09-23T20:22:15Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Jets starting DT David Onyemata undergoes core muscle surgery",
+      "url": "https://www.espn.com/nfl/story/_/id/50014396/jets-starting-dt-david-onyemata-undergoes-core-muscle-surgery",
+      "summary": "Jets defensive tackle David Onyemata, a starter in the base defense, underwent core-muscle surgery and will be sidelined for several weeks.",
+      "published": "2026-09-23T18:19:14Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Sources: Bengals' Andrei Iosivas expected to miss 4-6 weeks",
+      "url": "https://www.espn.com/nfl/story/_/id/50014294/sources-bengals-andrei-iosivas-expected-miss-4-6-weeks",
+      "summary": "Bengals wide receiver Andrei Iosivas is expected to miss four to six weeks because of a thumb injury, sources told ESPN.",
+      "published": "2026-09-23T18:13:47Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
       "teams": [
         "CIN"
       ]
     },
     {
-      "title": "2026 NFL Odds Week 3: Lines, Spreads For All 16 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-3-lines-spreads-results-all-16-games",
-      "summary": "Check out the odds for every NFL Week 3 contest.",
-      "published": "Tue, 22 Sep 2026 13:59:19 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL OPOY Odds: Gibbs Favored; Walker III Skyrockets After Historic Start",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
-      "summary": "Check out the latest odds to win the 2026 NFL Offensive Player of the Year award after Week 2, with a few star running backs topping the board.",
-      "published": "Tue, 22 Sep 2026 13:53:27 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Former Titans QB Will Levis Reportedly Signs With AFC East Team",
-      "url": "https://www.foxsports.com/stories/nfl/jets-sign-will-levis-titans-draft-picks",
-      "summary": "Former Tennessee Titans quarterback and 2023 second-round pick Will Levis has reportedly joined the New York Jets' practice squad.",
-      "published": "Tue, 22 Sep 2026 13:18:16 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYJ",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Zach Ertz Talks Being 'Honored' By Eagles Reunion",
-      "url": "https://www.foxsports.com/stories/nfl/eagles-zach-ertz-return-philadelphia-tight-ends",
-      "summary": "Tight end Zach Ertz explained what being back with the Philadelphia Eagles means to him and his family.",
-      "published": "Tue, 22 Sep 2026 11:46:42 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Falcons hoping Penix's return sparks their offense as they visit the Packers",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872948",
+      "summary": "\u2014 Michael Penix Jr.'s return comes at a time when the",
+      "published": "2026-09-23T17:34:27Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "QB Stock Market Week 3: Patrick Mahomes Is Back. Has Bryce Young Finally Arrived?",
-      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-3-patrick-mahomes-back-has-bryce-young-finally-arrived",
-      "summary": "Patrick Mahomes deserves an apology. Jordan Love and Justin Herbert need interventions. Here are Henry McKenna's latest QB rankings.",
-      "published": "Tue, 22 Sep 2026 11:25:25 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Seahawks Coach Mike Macdonald Provides Sam Darnold Injury Update",
-      "url": "https://www.foxsports.com/stories/nfl/sam-darnold-injury-update-seahawks-schedule",
-      "summary": "Seahawks coach Mike Macdonald expects Sam Darnold to return to practice this week, but the quarterback\u2019s status for Week 3 is uncertain.",
-      "published": "Tue, 22 Sep 2026 09:25:21 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SEA"
+        "ATL",
+        "GB"
       ]
     },
     {
       "title": "Former NFL star Antonio Brown to accept plea deal, avoid prison",
       "url": "https://www.espn.com/nfl/story/_/id/50014068/former-nfl-star-antonio-brown-accept-plea-deal-avoid-prison",
       "summary": "Former NFL star Antonio Brown will accept a plea deal in his second-degree attempted murder case, resulting in probation, his attorney said.",
-      "published": "2026-09-23T17:09:42Z",
+      "published": "2026-09-23T18:13:07Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -320,7 +452,7 @@
       "title": "Sources: Jaxson Dart to have season-ending knee surgery",
       "url": "https://www.espn.com/nfl/story/_/id/50013861/sources-jaxson-dart-season-ending-knee-surgery",
       "summary": "Giants quarterback Jaxson Dart is expected to have season-ending knee surgery, sources told NFL Network.",
-      "published": "2026-09-23T17:00:12Z",
+      "published": "2026-09-23T18:15:32Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -333,7 +465,7 @@
       "title": "Steichen defends Colts' handling of WR Pierce's heel injury",
       "url": "https://www.espn.com/nfl/story/_/id/50013827/colts-placing-top-wr-alec-pierce-heel-ir",
       "summary": "The Colts are placing wide receiver Alec Pierce on injured reserve, giving him time to rehab his heel injury, coach Shane Steichen said Wednesday.",
-      "published": "2026-09-23T17:04:40Z",
+      "published": "2026-09-23T18:58:28Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -357,34 +489,73 @@
       ]
     },
     {
-      "title": "NFL Week 3 latest intel, buzz questions, news, fantasy tips",
-      "url": "https://www.espn.com/nfl/story/_/id/50005797/week-3-buzz-fantasy-predictions-graziano-fowler-2026",
-      "summary": "What now for the Giants with Jaxson Dart out? What's the buzz on Patrick Mahomes through two games? Are running back depth charts firming up in Tampa and Carolina?",
-      "published": "2026-09-23T14:01:02Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 3 injury report: Packers offensive line in trouble; Michael Penix Jr. set to take over Falcons QB job",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-injury-report-packers-offensive-line/",
+      "summary": "Caleb Williams, Jayden Daniels and Jaxson Dart are among the quarterbacks sidelined as we track every practice update across the league",
+      "published": "Wed, 23 Sep 2026 20:19:32 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "GB"
+      ]
+    },
+    {
+      "title": "Five QB trades the Giants could make with Jaxson Dart out for season, including two with ties to John Harbaugh",
+      "url": "https://www.cbssports.com/nfl/news/giants-qb-trade-rumors-jaxson-dart-injury/",
+      "summary": "New York is turning to Jameis Winston for now, but several mobile quarterbacks and familiar faces could emerge as trade targets if the veteran struggles",
+      "published": "Wed, 23 Sep 2026 19:22:15 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
       "teams": [
         "NYG"
       ]
     },
     {
-      "title": "NFL depth charts for all 32 teams for 2026 season",
-      "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
-      "summary": "Here are the latest NFL depth charts for all 32 teams.",
-      "published": "2026-09-23T12:46:24Z",
-      "source": "ESPN NFL",
+      "title": "Tale of the Tape: Jayden Maiava, Dante Moore clash in battle of star QBs in NFL Draft when USC faces Oregon",
+      "url": "https://www.cbssports.com/college-football/news/jayden-maiava-dante-moore-nfl-draft-usc-oregon-tale-of-the-tape/",
+      "summary": "Two projected first-round NFL Draft picks will take the field when the No. 12 Trojans take on the No. 20 Ducks",
+      "published": "Wed, 23 Sep 2026 18:46:15 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
+      "title": "Ben Johnson is facing challenge he's never encountered in coaching career as Bears prepare for Eagles",
+      "url": "https://www.cbssports.com/nfl/news/ben-johnson-qb-challenge-never-encountered-in-coaching-career-bears/",
+      "summary": "With Caleb Williams out and Tyson Bagent in concussion protocol, Ben Johnson could turn to a 38-year-old signal-caller",
+      "published": "Wed, 23 Sep 2026 18:20:11 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Agent's Take: 2026 contract-year players to watch -- will Puka Nacua become NFL's highest-paid wide receiver?",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-contract-year-players-to-watch-puka-nacua/",
+      "summary": "Baker Mayfield and Jonathan Taylor secured extensions ahead of the season, but George Pickens, Kyler Murray and others have plenty riding on 2026",
+      "published": "Wed, 23 Sep 2026 17:45:24 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
       "title": "No first-year coach has won the Super Bowl in 37 years. Can Jesse Minter, steadfast and steady, change that?",
       "url": "https://www.cbssports.com/nfl/news/jesse-minter-coach-profile-ravens-background-history/",
       "summary": "Minter has transformed defenses everywhere he's gone; now he's trying to get the Ravens over the hump",
-      "published": "Wed, 23 Sep 2026 17:12:37 +0000",
+      "published": "Wed, 23 Sep 2026 17:26:17 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -431,17 +602,6 @@
       "teams": [
         "SF"
       ]
-    },
-    {
-      "title": "Tale of the Tape: Jayden Maiava, Dante Moore clash in battle of star QBs in NFL Draft when USC faces Oregon",
-      "url": "https://www.cbssports.com/college-football/news/jayden-maiava-dante-moore-nfl-draft-usc-oregon-tale-of-the-tape/",
-      "summary": "Two projected first-round NFL Draft picks will take the field when the No. 12 Trojans take on the No. 20 Ducks",
-      "published": "Wed, 23 Sep 2026 16:07:08 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "Week 3 NFL betting promos: Get almost $3,000 in bonuses from top online betting apps, sportsbooks",
@@ -569,7 +729,7 @@
       "title": "Predicting full 14-team NFL playoff bracket entering Week 3, including history-making Super Bowl",
       "url": "https://www.cbssports.com/nfl/news/nfl-playoff-predictions-2026-super-bowl-week-3/",
       "summary": "The early postseason forecast includes several surprises, from two winless AFC South teams getting in to Carolina winning its division with a losing record",
-      "published": "Wed, 23 Sep 2026 11:56:51 +0000",
+      "published": "Wed, 23 Sep 2026 18:23:30 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -750,59 +910,6 @@
       "category": "injury",
       "teams": [
         "NYG"
-      ]
-    },
-    {
-      "title": "Lessons learned from Week 2: Vikings, Packers have breakout stars; Bengals have NFL's most-improved unit",
-      "url": "https://www.cbssports.com/nfl/news/six-lessons-learned-from-nfl-week-2/",
-      "summary": "Lukas Van Ness and Dallas Turner are wreaking havoc on opposing offenses",
-      "published": "Tue, 22 Sep 2026 14:39:08 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "GB",
-        "MIN"
-      ]
-    },
-    {
-      "title": "2026 NFL Week 3 injury panic meter: Jaxson Dart, Caleb Williams, Jayden Daniels go down in losses",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-3-injury-panic-meter-jaxson-dart-caleb-williams-jayden-daniels/",
-      "summary": "Projecting the outlook for some of the league's biggest Week 2 injuries",
-      "published": "Tue, 22 Sep 2026 18:46:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "Winless Chargers have made unwanted history, face season-defining NFL Week 3 game at Bills on Sunday",
-      "url": "https://www.cbssports.com/betting/news/winless-chargers-have-made-unwanted-history-face-season-defining-nfl-week-3-game-at-bills-on-sunday/",
-      "summary": "The 0-2 Chargers face what seems like a must-win game Sunday in Buffalo",
-      "published": "Tue, 22 Sep 2026 13:33:11 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Sean McVay rips himself for Rams' Week 1 Australia travel plans: 'Sometimes you have a dumbass coach'",
-      "url": "https://www.cbssports.com/nfl/news/sean-mcvay-rams-week-1-australia-travel-plans/",
-      "summary": "McVay's team bounced back in a big way on Monday night",
-      "published": "Tue, 22 Sep 2026 13:29:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA"
       ]
     }
   ],
