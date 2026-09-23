@@ -1,25 +1,52 @@
 {
-  "updated_at_utc": "2026-09-23T20:31:07.716586+00:00",
-  "checked_at_utc": "2026-09-23T20:31:07.716586+00:00",
+  "updated_at_utc": "2026-09-23T23:06:19.093501+00:00",
+  "checked_at_utc": "2026-09-23T23:06:19.093501+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 15,
+      "items": 10,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 33
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 22,
+      "items": 23,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Tom Brady's NFL Power Rankings: Which QBs Other Than Josh Allen Have Impressed The GOAT?",
+      "url": "https://www.foxsports.com/stories/nfl/tom-bradys-nfl-power-rankings-which-qbs-other-than-josh-allen-have-impressed-goat",
+      "summary": "Josh Allen is playing \"very dangerous football,\" according to Tom Brady. But is that enough for the Bills to unseat the Seahawks in the GOAT's top 10?",
+      "published": "Wed, 23 Sep 2026 18:51:36 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Sammy P Sportsbook Whispers: Ole Miss Should Beware Of The Swamp",
+      "url": "https://www.foxsports.com/stories/college-football/sammy-p-sportsbook-whispers-ole-miss-florida",
+      "summary": "Ole Miss should beware of the improved Gators and the NFL should note that the Chiefs are back in business. Here are Sammy P's latest sportsbook whispers.",
+      "published": "Wed, 23 Sep 2026 17:26:26 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC"
+      ]
+    },
     {
       "title": "49ers Almost Drafted Cam Skattebo? Robert Saleh Says Kyle Shanahan 'Loved Him\u2019",
       "url": "https://www.foxsports.com/stories/nfl/robert-saleh-cam-skattebo-draft-story-giants-titans-49ers",
@@ -283,21 +310,90 @@
       ]
     },
     {
-      "title": "Tom Brady Explains How Eliminating Negative Plays Elevated Josh Allen\u2019s Game",
-      "url": "https://www.foxsports.com/stories/nfl/tom-brady-colin-cowherd-josh-allen-buffalo-bills-the-herd",
-      "summary": "Speaking with Colin Cowherd on \u201cThe Herd,\" seven-time Super Bowl champion Tom Brady broke down Josh Allen\u2019s development.",
-      "published": "Tue, 22 Sep 2026 16:13:44 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Broncos RB Coleman doesn't practice; Dobbins, Harvey limited",
+      "url": "https://www.espn.com/nfl/story/_/id/50016115/broncos-running-backs-jk-dobbins-rj-harvey-limited-practice-jonah-coleman-does-not-practice",
+      "summary": "Broncos running backs J.K. Dobbins and RJ Harvey were limited in practice Wednesday, and Jonah Coleman did not practice. Nevertheless, coach Sean Payton said he thinks \"we're going to be all right\" at the position Sunday against the Rams.",
+      "published": "2026-09-23T23:05:53Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DEN",
+        "LA"
+      ]
+    },
+    {
+      "title": "McVay says Nacua's injury not 'long-term' concern, but Rams being cautious",
+      "url": "https://www.espn.com/nfl/story/_/id/50016014/mcvay-says-nacua-injury-not-long-term-concern-rams-being-cautious",
+      "summary": "Rams coach Sean McVay said receiver Puka Nacua does not have a hernia, but the team will \"err on the side of caution\" with the injury.",
+      "published": "2026-09-23T22:50:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "49ers place starting DT C.J. West on IR due to knee injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50015866/49ers-place-starting-dt-cj-west-ir-due-knee-injury",
+      "summary": "49ers defensive tackle C.J. West, who is going to miss at least a chunk of the season with a bone chip in his knee that will require surgery, was placed on injured reserve Wednesday.",
+      "published": "2026-09-23T22:50:18Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "Commanders say clip didn't reflect team response to Daniels injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50015858/commanders-respond-viral-video-clip-reject-notion-abandoned-injured-jayden-daniels",
+      "summary": "After a short video clip showed a number of Commanders walking past Jayden Daniels as he was being helped by medical personnel Sunday, many players fired back at the takes being spouted on social media, emphasizing, \"It's bulls--- what people are saying.\"",
+      "published": "2026-09-23T22:21:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "WAS"
+      ]
+    },
+    {
+      "title": "How Chiefs TE Travis Kelce turned wedding shape into football shape",
+      "url": "https://www.espn.com/nfl/story/_/id/50015353/how-chiefs-te-travis-kelce-wedding-taylor-swift-football-shape",
+      "summary": "Kelce, who leads the NFL in YAC, has had an average route speed of 11.56 mph, the fastest he's been since 2022.",
+      "published": "2026-09-23T21:44:41Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "Seahawks' Darnold 'on a good track' to play vs. Commanders",
+      "url": "https://www.espn.com/nfl/story/_/id/50015681/seahawks-darnold-good-track-play-vs-commanders",
+      "summary": "Seahawks quarterback Sam Darnold is \"on a good track\" to play Sunday against the Commanders, coach Mike Macdonald said Wednesday.",
+      "published": "2026-09-23T22:20:24Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "SEA",
+        "WAS"
+      ]
     },
     {
       "title": "Seahawks' Macdonald apologizes to Broncos' Payton for comments",
       "url": "https://www.espn.com/nfl/story/_/id/50015234/seahawks-macdonald-apologizes-broncos-payton-comments",
       "summary": "Seahawks coach Mike Macdonald said Wednesday he called Broncos coach Sean Payton and apologized for comments he made in a published video that went viral Tuesday.",
-      "published": "2026-09-23T20:25:47Z",
+      "published": "2026-09-23T22:40:56Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -347,172 +443,43 @@
       ]
     },
     {
-      "title": "Lamar Jackson, Ravens not focusing on field conditions in Rio",
-      "url": "https://www.espn.com/nfl/story/_/id/50014538/lamar-jackson-ravens-not-focusing-field-conditions-rio",
-      "summary": "A day before the Ravens travel to Brazil to play the Cowboys, quarterback Lamar Jackson said he isn't focusing on the condition of the field at Maracan\u00e3 Stadium.",
-      "published": "2026-09-23T20:22:15Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "DAL"
-      ]
-    },
-    {
-      "title": "Jets starting DT David Onyemata undergoes core muscle surgery",
-      "url": "https://www.espn.com/nfl/story/_/id/50014396/jets-starting-dt-david-onyemata-undergoes-core-muscle-surgery",
-      "summary": "Jets defensive tackle David Onyemata, a starter in the base defense, underwent core-muscle surgery and will be sidelined for several weeks.",
-      "published": "2026-09-23T18:19:14Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Sources: Bengals' Andrei Iosivas expected to miss 4-6 weeks",
-      "url": "https://www.espn.com/nfl/story/_/id/50014294/sources-bengals-andrei-iosivas-expected-miss-4-6-weeks",
-      "summary": "Bengals wide receiver Andrei Iosivas is expected to miss four to six weeks because of a thumb injury, sources told ESPN.",
-      "published": "2026-09-23T18:13:47Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CIN"
-      ]
-    },
-    {
-      "title": "Falcons hoping Penix's return sparks their offense as they visit the Packers",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872948",
-      "summary": "\u2014 Michael Penix Jr.'s return comes at a time when the",
-      "published": "2026-09-23T17:34:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "GB"
-      ]
-    },
-    {
-      "title": "Former NFL star Antonio Brown to accept plea deal, avoid prison",
-      "url": "https://www.espn.com/nfl/story/_/id/50014068/former-nfl-star-antonio-brown-accept-plea-deal-avoid-prison",
-      "summary": "Former NFL star Antonio Brown will accept a plea deal in his second-degree attempted murder case, resulting in probation, his attorney said.",
-      "published": "2026-09-23T18:13:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Browns QB Deshaun Watson 'ready for support' from home crowd",
-      "url": "https://www.espn.com/nfl/story/_/id/50013971/browns-qb-deshaun-watson-ready-support-home-crowd",
-      "summary": "In his first home game since being booed in the preseason, Browns QB Deshaun Watson said Wednesday he's \"ready for support.\"",
-      "published": "2026-09-23T17:16:11Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CLE"
-      ]
-    },
-    {
-      "title": "With Jaxson Dart out, what's next for Giants, Jameis Winston?",
-      "url": "https://www.espn.com/nfl/story/_/id/50007961/new-york-giants-jaxson-dart-season-ending-injury-mean-jameis-winston",
-      "summary": "New York fans just don't seem to be allowed nice things these days. Our insiders get into the implications of Dart's injury and its effect on the Giants going forward.",
-      "published": "2026-09-23T16:49:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances",
-      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
-      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
-      "published": "2026-09-23T17:01:36Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Sources: Jaxson Dart to have season-ending knee surgery",
-      "url": "https://www.espn.com/nfl/story/_/id/50013861/sources-jaxson-dart-season-ending-knee-surgery",
-      "summary": "Giants quarterback Jaxson Dart is expected to have season-ending knee surgery, sources told NFL Network.",
-      "published": "2026-09-23T18:15:32Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Steichen defends Colts' handling of WR Pierce's heel injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50013827/colts-placing-top-wr-alec-pierce-heel-ir",
-      "summary": "The Colts are placing wide receiver Alec Pierce on injured reserve, giving him time to rehab his heel injury, coach Shane Steichen said Wednesday.",
-      "published": "2026-09-23T18:58:28Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "Jaguars hope to get Hunter more involved in offense vs. Patriots",
-      "url": "https://www.espn.com/nfl/story/_/id/50013680/jaguars-hope-get-hunter-more-involved-offense-vs-patriots",
-      "summary": "Travis Hunter may see an increased role on offense for the Jaguars on Sunday against the Patriots.",
-      "published": "2026-09-23T16:34:19Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX",
-        "NE"
-      ]
-    },
-    {
-      "title": "NFL Week 3 injury report: Packers offensive line in trouble; Michael Penix Jr. set to take over Falcons QB job",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-injury-report-packers-offensive-line/",
-      "summary": "Caleb Williams, Jayden Daniels and Jaxson Dart are among the quarterbacks sidelined as we track every practice update across the league",
-      "published": "Wed, 23 Sep 2026 20:19:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "GB"
-      ]
-    },
-    {
       "title": "Five QB trades the Giants could make with Jaxson Dart out for season, including two with ties to John Harbaugh",
       "url": "https://www.cbssports.com/nfl/news/giants-qb-trade-rumors-jaxson-dart-injury/",
       "summary": "New York is turning to Jameis Winston for now, but several mobile quarterbacks and familiar faces could emerge as trade targets if the veteran struggles",
-      "published": "Wed, 23 Sep 2026 19:22:15 +0000",
+      "published": "Wed, 23 Sep 2026 21:39:26 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
         "NYG"
+      ]
+    },
+    {
+      "title": "Giants' Jaxson Dart to undergo knee surgery that will end his 2026 season",
+      "url": "https://www.cbssports.com/nfl/news/jaxson-dart-knee-surgery-end-giants-qbs-2026-season/",
+      "summary": "Dart's ACL is intact, but his season is over",
+      "published": "Wed, 23 Sep 2026 21:23:32 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "NFL Week 3 injury report: Packers offensive line in trouble; Michael Penix Jr. set to take over Falcons QB job",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-injury-report-packers-offensive-line/",
+      "summary": "Caleb Williams, Jayden Daniels and Jaxson Dart are among the quarterbacks sidelined as we track every practice update across the league",
+      "published": "Wed, 23 Sep 2026 22:32:17 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "GB"
       ]
     },
     {
@@ -575,19 +542,6 @@
       "category": "injury",
       "teams": [
         "IND"
-      ]
-    },
-    {
-      "title": "Giants' Jaxson Dart expected to undergo knee surgery that will end his 2026 season, per report",
-      "url": "https://www.cbssports.com/nfl/news/jaxson-dart-knee-surgery-end-giants-qbs-2026-season/",
-      "summary": "Dart's ACL is intact, but his season is expected to be over",
-      "published": "Wed, 23 Sep 2026 16:30:40 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYG"
       ]
     },
     {
@@ -702,7 +656,7 @@
       "title": "NFL Week 3 picks, odds: Josh Allen furthers Chargers free fall, Saints stay hot in home opener",
       "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-3-picks-odds-predictions/",
       "summary": "Tyler Sullivan picks every agme on the Week 3 schedule, plus five locks against the spread",
-      "published": "Wed, 23 Sep 2026 12:54:25 +0000",
+      "published": "Wed, 23 Sep 2026 21:11:37 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -754,7 +708,7 @@
       "title": "Prisco's Week 3 NFL picks: Browns upset Panthers, Giants rally behind Jameis Winston",
       "url": "https://www.cbssports.com/nfl/news/priscos-week-3-nfl-picks-browns-upset-panthers-giants-rally-behind-jameis-winston/",
       "summary": "Pete Prisco reveals all of his Week 3 picks, including Jaguars over Patriots and Bucs over Vikings",
-      "published": "Wed, 23 Sep 2026 11:27:28 +0000",
+      "published": "Wed, 23 Sep 2026 21:11:24 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -910,6 +864,21 @@
       "category": "injury",
       "teams": [
         "NYG"
+      ]
+    },
+    {
+      "title": "Lessons learned from Week 2: Vikings, Packers have breakout stars; Bengals have NFL's most-improved unit",
+      "url": "https://www.cbssports.com/nfl/news/six-lessons-learned-from-nfl-week-2/",
+      "summary": "Lukas Van Ness and Dallas Turner are wreaking havoc on opposing offenses",
+      "published": "Tue, 22 Sep 2026 14:39:08 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "GB",
+        "MIN"
       ]
     }
   ],
