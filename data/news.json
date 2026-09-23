@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-23T01:47:56.858270+00:00",
-  "checked_at_utc": "2026-09-23T01:47:56.858270+00:00",
+  "updated_at_utc": "2026-09-23T06:47:36.137342+00:00",
+  "checked_at_utc": "2026-09-23T06:47:36.137342+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -285,19 +285,6 @@
       ]
     },
     {
-      "title": "Source: Niners signing veteran receiver Cooks to practice squad",
-      "url": "https://www.espn.com/nfl/story/_/id/50008765/niners-signing-veteran-receiver-cooks-practice-squad",
-      "summary": "The Niners are signing free agent wideout Brandin Cooks to their practice squad, a source told ESPN on Tuesday.",
-      "published": "2026-09-22T22:59:09Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
       "title": "Resetting expectations for these six NFL teams with injured quarterbacks: Giants eyeing draft again",
       "url": "https://www.cbssports.com/nfl/news/resetting-expectations-nfl-teams-injured-quarterbacks/",
       "summary": "Success looks different for each of the squads that saw their starters go down early in the season",
@@ -517,7 +504,7 @@
       "title": "NFL Week 3 picks and score predictions: Two undefeated teams go down, Broncos edge Rams in thriller",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-3-picks-score-predictions/",
       "summary": "Here's your weekly dose of John Breech's NFL picks",
-      "published": "Tue, 22 Sep 2026 16:41:05 +0000",
+      "published": "Wed, 23 Sep 2026 02:15:11 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
