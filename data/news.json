@@ -1,25 +1,75 @@
 {
-  "updated_at_utc": "2026-09-23T23:06:19.093501+00:00",
-  "checked_at_utc": "2026-09-23T23:06:19.093501+00:00",
+  "updated_at_utc": "2026-09-24T01:21:32.613334+00:00",
+  "checked_at_utc": "2026-09-24T01:21:32.613334+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 10,
+      "items": 8,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 34
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 23,
+      "items": 25,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "NFL Awards Ballot: After Winning Super Bowl MVP, Kenneth Walker Has Become A Top RB",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-awards-ballot-after-winning-super-bowl-mvp-kenneth-walker-has-become-top-rb",
+      "summary": "The reigning Super Bowl MVP has been as good as advertised, but the Chiefs need to guard against overusing the Michigan State product.",
+      "published": "Wed, 23 Sep 2026 20:48:42 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "NFL Week 3 Betting Report: Bettors Taking Note Of The Buffalo Bills",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-3-betting-report-bettors-taking-note-buffalo-bills",
+      "summary": "The public is riding with the Bills again, so now the books will need the Bolts. Patrick Everson breaks down the NFL midweek betting action.",
+      "published": "Wed, 23 Sep 2026 20:27:16 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF"
+      ]
+    },
+    {
+      "title": "When The Coach Asks The Questions: Marcus Freeman Interviews Jadarian Price",
+      "url": "https://www.foxsports.com/stories/nfl/when-coach-asks-questions-marcus-freeman-interviews-jadarian-price",
+      "summary": "Here is Marcus Freeman\u2019s one-on-one interview with Jadarian Price.",
+      "published": "Wed, 23 Sep 2026 19:38:44 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "John Harbaugh: Giants Keeping All Options Open At QB To Replace Injured Jaxson Dart",
+      "url": "https://www.foxsports.com/stories/nfl/john-harbaugh-keeping-all-options-open-qb-replace-injured-jaxson-dart",
+      "summary": "With quarterback Jaxson Dart sidelined for the remainder of the season due to a knee injury, New York Giants head coach John Harbaugh made it clear that the team is looking for help.",
+      "published": "Wed, 23 Sep 2026 19:08:07 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYG"
+      ]
+    },
     {
       "title": "Tom Brady's NFL Power Rankings: Which QBs Other Than Josh Allen Have Impressed The GOAT?",
       "url": "https://www.foxsports.com/stories/nfl/tom-bradys-nfl-power-rankings-which-qbs-other-than-josh-allen-have-impressed-goat",
@@ -285,35 +335,36 @@
       "teams": []
     },
     {
-      "title": "Mahomes Mountain Week 3: Josh Allen Takes Over The Top Spot",
-      "url": "https://www.foxsports.com/stories/nfl/mahomes-mountain-week-3-josh-allen-takes-over-top-spot",
-      "summary": "Nick Wright's quarterback mountain has a new occupant at the top.",
-      "published": "Tue, 22 Sep 2026 19:15:13 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Herd Hierarchy: Are The Bills The NFL's Best Team, Or Do Seahawks Remain No. 1?",
-      "url": "https://www.foxsports.com/stories/nfl/herd-hierarchy-bills-nfls-best-team-do-seahawks-remain-no-1",
-      "summary": "Colin Cowherd revealed his Herd Hierarchy rankings heading into Week 3.",
-      "published": "Tue, 22 Sep 2026 19:08:20 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Herbert shuts down leadership questions amid Chargers' 0-2 start",
+      "url": "https://www.espn.com/nfl/story/_/id/50016633/herbert-shuts-leadership-questions-amid-chargers-0-2-start",
+      "summary": "Justin Herbert was uncharacteristically fiery when asked Wednesday about increased vocal leadership on the Chargers amid the team's 0-2 start.",
+      "published": "2026-09-24T01:08:05Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BUF",
-        "SEA"
+        "LAC"
+      ]
+    },
+    {
+      "title": "Veteran Case Keenum practices Wednesday, ready to start if called",
+      "url": "https://www.espn.com/nfl/story/_/id/50016448/veteran-case-keenum-practices-wed-ready-start-called",
+      "summary": "Bears veteran QB Case Keenum could be in line to start his first regular-season game since 2023. \"If my name's called, I'm excited to be out there,\" he said.",
+      "published": "2026-09-23T23:55:53Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI"
       ]
     },
     {
       "title": "Broncos RB Coleman doesn't practice; Dobbins, Harvey limited",
       "url": "https://www.espn.com/nfl/story/_/id/50016115/broncos-running-backs-jk-dobbins-rj-harvey-limited-practice-jonah-coleman-does-not-practice",
       "summary": "Broncos running backs J.K. Dobbins and RJ Harvey were limited in practice Wednesday, and Jonah Coleman did not practice. Nevertheless, coach Sean Payton said he thinks \"we're going to be all right\" at the position Sunday against the Rams.",
-      "published": "2026-09-23T23:05:53Z",
+      "published": "2026-09-23T23:14:22Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -366,7 +417,7 @@
       "title": "How Chiefs TE Travis Kelce turned wedding shape into football shape",
       "url": "https://www.espn.com/nfl/story/_/id/50015353/how-chiefs-te-travis-kelce-wedding-taylor-swift-football-shape",
       "summary": "Kelce, who leads the NFL in YAC, has had an average route speed of 11.56 mph, the fastest he's been since 2022.",
-      "published": "2026-09-23T21:44:41Z",
+      "published": "2026-09-24T00:06:52Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -379,7 +430,7 @@
       "title": "Seahawks' Darnold 'on a good track' to play vs. Commanders",
       "url": "https://www.espn.com/nfl/story/_/id/50015681/seahawks-darnold-good-track-play-vs-commanders",
       "summary": "Seahawks quarterback Sam Darnold is \"on a good track\" to play Sunday against the Commanders, coach Mike Macdonald said Wednesday.",
-      "published": "2026-09-23T22:20:24Z",
+      "published": "2026-09-23T23:18:29Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -390,56 +441,28 @@
       ]
     },
     {
-      "title": "Seahawks' Macdonald apologizes to Broncos' Payton for comments",
-      "url": "https://www.espn.com/nfl/story/_/id/50015234/seahawks-macdonald-apologizes-broncos-payton-comments",
-      "summary": "Seahawks coach Mike Macdonald said Wednesday he called Broncos coach Sean Payton and apologized for comments he made in a published video that went viral Tuesday.",
-      "published": "2026-09-23T22:40:56Z",
-      "source": "ESPN NFL",
+      "title": "What is happening with Marvin Harrison Jr.? Former top 5 pick has disappeared from Arizona offense",
+      "url": "https://www.cbssports.com/nfl/news/cardinals-marvin-harrison-jr-potential-bust/",
+      "summary": "Coming off a down second season, Harrison has been a bust through the first two games, with just one catch",
+      "published": "Thu, 24 Sep 2026 00:32:23 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Ravens' Lamar Jackson comments on Rio field ahead of international game, as conditions draw criticism",
+      "url": "https://www.cbssports.com/nfl/news/ravens-lamar-jackson-comments-rio-field/",
+      "summary": "The first ever Rio De Janeiro game between the Cowboys and Ravens will be broadcast on CBS this Sunday",
+      "published": "Wed, 23 Sep 2026 23:23:36 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DEN",
-        "SEA"
-      ]
-    },
-    {
-      "title": "In reversal, Chargers not placing Charlie Kolar (forearm) on IR",
-      "url": "https://www.espn.com/nfl/story/_/id/50014963/in-reversal-chargers-not-placing-tight-end-charlie-kolar-injured-reserve",
-      "summary": "In a surprising reversal, the Chargers are not placing tight end Charlie Kolar on injured reserve after he injured his left forearm in Sunday's game.",
-      "published": "2026-09-23T19:54:10Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "Vikings RB Aaron Jones working through knee injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50014807/vikings-rb-aaron-jones-working-knee-injury",
-      "summary": "The Vikings' offensive backfield is in flux this week as starter Aaron Jones Sr. works through a knee injury and backup Jordan Mason remains on injured reserve.",
-      "published": "2026-09-23T20:11:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "Bills' T.J. Sanders out indefinitely after having appendectomy",
-      "url": "https://www.espn.com/nfl/story/_/id/50014666/bills-tj-sanders-indefinitely-having-appendectomy",
-      "summary": "Bills defensive lineman T.J. Sanders is out indefinitely after having an appendectomy, coach Joe Brady said on Wednesday.",
-      "published": "2026-09-23T19:03:43Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF"
+        "BAL",
+        "DAL"
       ]
     },
     {
@@ -472,7 +495,7 @@
       "title": "NFL Week 3 injury report: Packers offensive line in trouble; Michael Penix Jr. set to take over Falcons QB job",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-3-injury-report-packers-offensive-line/",
       "summary": "Caleb Williams, Jayden Daniels and Jaxson Dart are among the quarterbacks sidelined as we track every practice update across the league",
-      "published": "Wed, 23 Sep 2026 22:32:17 +0000",
+      "published": "Thu, 24 Sep 2026 00:04:38 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -708,7 +731,7 @@
       "title": "Prisco's Week 3 NFL picks: Browns upset Panthers, Giants rally behind Jameis Winston",
       "url": "https://www.cbssports.com/nfl/news/priscos-week-3-nfl-picks-browns-upset-panthers-giants-rally-behind-jameis-winston/",
       "summary": "Pete Prisco reveals all of his Week 3 picks, including Jaguars over Patriots and Bucs over Vikings",
-      "published": "Wed, 23 Sep 2026 21:11:24 +0000",
+      "published": "Wed, 23 Sep 2026 23:22:57 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -828,17 +851,6 @@
       "teams": [
         "PIT"
       ]
-    },
-    {
-      "title": "What is happening with Marvin Harrison Jr.? Former top 5 pick has disappeared from Arizona offense",
-      "url": "https://www.cbssports.com/nfl/news/cardinals-marvin-harrison-jr-potential-bust/",
-      "summary": "From MaserComing off a down second season, Harrison has been a bust through the first two games, with just one catch",
-      "published": "Wed, 23 Sep 2026 17:00:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "Grading Aaron Donald's return: How did Rams star look in his first game in almost three years?",
