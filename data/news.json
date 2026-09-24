@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-09-24T12:03:10.678189+00:00",
-  "checked_at_utc": "2026-09-24T12:03:10.678189+00:00",
+  "updated_at_utc": "2026-09-24T17:05:01.770890+00:00",
+  "checked_at_utc": "2026-09-24T17:05:01.770890+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 7,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 35
+      "items": 28
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,57 @@
     }
   },
   "items": [
+    {
+      "title": "How People Around NFL Are Reacting To Young QB Injuries: 'Holy S---! What Is Going On?'",
+      "url": "https://www.foxsports.com/stories/nfl/how-people-around-nfl-reacting-young-qb-injuries-holy-s-what-going-on",
+      "summary": "We asked people around the NFL what they thought about those injuries and what future concerns they might have about Caleb Williams, Jayden Daniels and Jaxson Dart.",
+      "published": "Thu, 24 Sep 2026 12:22:43 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "How to Watch Falcons vs. Packers: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-falcons-vs-packers-tv-channel-live-stream-time-2026-week-3",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Atlanta Falcons and Green Bay Packers game.",
+      "published": "Thu, 24 Sep 2026 10:57:15 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "GB"
+      ]
+    },
+    {
+      "title": "NFL Group Chat Fact Or Fiction: Jayden Daniels The New RGIII? Dak Prescott, MVP?",
+      "url": "https://www.foxsports.com/stories/nfl/fact-fiction-jayden-daniels-new-rgiii-dak-prescott-mvp-vikings",
+      "summary": "We dive into your Week 2 hot takes, including a worrying Jayden Daniels comp, Dak Prescott's MVP chances and the Vikings' title prospects.",
+      "published": "Thu, 24 Sep 2026 10:44:49 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "Colts WR Darius Slayton Explains How He, QB Daniel Jones 'See Field Similarly'",
+      "url": "https://www.foxsports.com/stories/nfl/colts-daniel-jones-darius-slayton-history-alec-pierce-injury-update",
+      "summary": "New Colts wide receiver Darius Slayton explained how playing six seasons with quarterback Daniel Jones benefits him.",
+      "published": "Thu, 24 Sep 2026 10:18:02 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "IND"
+      ]
+    },
     {
       "title": "NFL DFS Week 3: Best Picks, Lineup Advice and Value Plays",
       "url": "https://www.foxsports.com/stories/nfl/nfl-dfs-week-3-best-picks-lineup-advice-value-plays",
@@ -285,119 +336,262 @@
       "teams": []
     },
     {
-      "title": "With Jaxson Dart Out For The Year, Giants Should Ride The Jameis Winston Wave",
-      "url": "https://www.foxsports.com/stories/nfl/why-giants-should-ride-jameis-winston-wave-until-jaxson-dart-returns",
-      "summary": "With Jaxson Dart out for the season, the Giants have a big decision to make at QB. Ralph Vacchiano makes the case for sticking with Jameis Winston.",
-      "published": "Wed, 23 Sep 2026 13:22:23 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Giants QB Jaxson Dart To Undergo Knee Surgery, Miss Rest Of 2026 Season",
-      "url": "https://www.foxsports.com/stories/nfl/new-york-giants-qb-jaxson-dart-knee-surgery-2026-season",
-      "summary": "After suffering a knee injury on Monday night against the Los Angeles Rams, New York Giants quarterback Jaxson Dart is expected to miss the rest of the 2026 season.",
-      "published": "Wed, 23 Sep 2026 12:21:00 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Kyler Murray returns for the Vikings against the struggling Buccaneers",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872959",
+      "summary": "\u2014 Kyler Murray has the right opponent to get back on track after a concussion knocked him out of the season opener.",
+      "published": "2026-09-24T16:39:29Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "LA",
+        "MIN",
+        "TB"
+      ]
+    },
+    {
+      "title": "NFL Week 3 uniforms: Colts to wear 'Anvil Strike,' Bills debut 'Nickel City'",
+      "url": "https://www.espn.com/nfl/story/_/id/50008808/nfl-week-3-uniforms",
+      "summary": "Here's a look at what each NFL team is wearing in Week 3, led by the new NFL Rivalries look from the Indianapolis Colts.",
+      "published": "2026-09-24T13:03:22Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "IND"
+      ]
+    },
+    {
+      "title": "Falcons-Packers predictions for Thursday night, plus NFL Week 3 picks and ranking 2-0 teams",
+      "url": "https://www.cbssports.com/nfl/news/falcons-packers-predictions-for-thursday-night-plus-nfl-week-3-picks-and-ranking-2-0-teams/",
+      "summary": "Here's everything you need to know about the NFL for Sept. 24",
+      "published": "Thu, 24 Sep 2026 16:54:39 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "GB"
+      ]
+    },
+    {
+      "title": "Under further review, everyone overreacted to Commanders' response to Jayden Daniels injury",
+      "url": "https://www.cbssports.com/nfl/news/dan-quinn-responds-to-viral-clip-commanders-jayden-daniels/",
+      "summary": "Washington's offensive line drew sharp criticism after walking toward the sideline while the star QB was down, but an 11-second video doesn't tell the whole story",
+      "published": "Thu, 24 Sep 2026 17:00:32 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "WAS"
+      ]
+    },
+    {
+      "title": "Back to the drawing board? Jaguars prepare to boost Travis Hunter's offensive usage after quiet start",
+      "url": "https://www.cbssports.com/nfl/news/jaguars-now-looking-to-get-travis-hunter-more-involved-on-offense/",
+      "summary": "Liam Coen provided some interesting commentary on the two-way player following the Week 2 loss to Denver",
+      "published": "Thu, 24 Sep 2026 16:12:10 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Why a Giants trade for Joe Flacco in wake of Jaxson Dart injury makes sense...and why it doesn't",
+      "url": "https://www.cbssports.com/nfl/news/pros-and-cons-of-giants-trade-bengals-joe-flacco-jaxson-dart/",
+      "summary": "With Jaxson Dart out for the year, New York turns to Jameis Winston, but a reunion between John Harbaugh and his former Super Bowl MVP could make plenty of sense",
+      "published": "Thu, 24 Sep 2026 15:00:02 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
         "NYG"
       ]
     },
     {
-      "title": "Inside The 'Psychological Warfare' When NFL Backups Suddenly Become QB1",
-      "url": "https://www.foxsports.com/stories/nfl/when-backups-become-qb1-carson-wentz-matt-cassel-dan-orlovsky",
-      "summary": "Everyone thinks it's easy to be a backup quarterback. But these NFL journeymen spill the secrets about performing a very difficult job.",
-      "published": "Wed, 23 Sep 2026 10:38:33 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Why the Steelers should blitz Bengals QB Joe Burrow and play man coverage ... seriously",
+      "url": "https://www.cbssports.com/nfl/news/steelers-should-blitz-bengals-qb-joe-burrow/",
+      "summary": "It sounds counterintuitive, but attacking Joe Burrow's Bengals by blitzing and dropping in man is working",
+      "published": "Thu, 24 Sep 2026 14:38:22 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CIN",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Darian Mensah making an early case for No. 1 overall pick, but Miami's schedule complicates the picture",
+      "url": "https://www.cbssports.com/nfl/draft/news/darian-mensah-making-early-case-no-1-overall-pick-miami-hurricanes/",
+      "summary": "The Hurricanes quarterback has been flawless, but his biggest test may not come until November",
+      "published": "Thu, 24 Sep 2026 14:28:05 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": []
     },
     {
-      "title": "Panthers RB Jonathon Brooks Placed On IR, To Undergo Surgery",
-      "url": "https://www.foxsports.com/stories/nfl/carolina-panthers-jonathon-brooks-austin-ekeler-injury-surgery",
-      "summary": "Carolina Panthers running back Jonathon Brooks is set to undergo surgery Wednesday to repair a core muscle injury.",
-      "published": "Wed, 23 Sep 2026 10:01:24 -0400",
-      "source": "FOX Sports NFL",
+      "title": "2026 Week 3 NFL odds, lines, schedule, start times: Picks, predictions for Packers-Falcons, every other game",
+      "url": "https://www.cbssports.com/betting/news/2026-week-3-nfl-odds-lines-schedule-start-times-picks-predictions-packers-falcons-every-other-game/",
+      "summary": "Week 3 features a Thursday night trip to Lambeau, an international Cowboys-Ravens showdown, and two primetime games carrying major quarterback storylines",
+      "published": "Thu, 24 Sep 2026 14:18:36 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "qb",
       "teams": [
-        "CAR"
+        "ATL",
+        "BAL",
+        "DAL",
+        "GB"
       ]
     },
     {
-      "title": "Ranking eight winless NFL teams: Texans, Bucs, others at 0-2",
-      "url": "https://www.espn.com/nfl/story/_/id/50006560/ranking-winless-two-loss-teams-playoffs-barnwell-2026",
-      "summary": "Can the Texans turn it around (again)? Do the Buccaneers, Colts or Chargers have a chance to get right? Is the season already over for the Falcons and Dolphins?",
-      "published": "2026-09-24T10:35:02Z",
-      "source": "ESPN NFL",
+      "title": "Super Bowl champion weighs in on what sets Drake Maye apart, whether easy schedule boosted his success",
+      "url": "https://www.cbssports.com/nfl/news/super-bowl-champion-weighs-in-on-drake-maye/",
+      "summary": "Russell Wilson and Kyle Long weigh in on Drake Maye's performance this year",
+      "published": "Thu, 24 Sep 2026 14:06:23 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Giants' star Cam Skattebo almost became a 49er: 'Kyle [Shanahan] loved him'",
+      "url": "https://www.cbssports.com/nfl/news/giants-star-cam-skattebo-almost-became-49er-kyle-shanahan/",
+      "summary": "San Francisco was apparently ready to pick the hard-running playmaker before New York stepped in",
+      "published": "Thu, 24 Sep 2026 14:00:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "SF"
+      ]
+    },
+    {
+      "title": "Falcons vs. Packers prediction, odds, line: Thursday Night Football picks, betting preview",
+      "url": "https://www.cbssports.com/betting/news/falcons-packers-prediction-odds-line-thursday-night-football-picks-betting-preview/",
+      "summary": "Best bets and betting preview for Falcons vs. Packers on Thursday Night Football",
+      "published": "Thu, 24 Sep 2026 13:56:19 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
         "ATL",
-        "HOU",
-        "IND",
-        "LAC",
-        "MIA",
-        "TB"
+        "GB"
       ]
     },
     {
-      "title": "With Kyler Murray back, will Vikings open up passing attack?",
-      "url": "https://www.espn.com/nfl/story/_/id/50012795/nfl-minnesota-vikings-kyler-murray-justin-jefferson",
-      "summary": "Coach Kevin O'Connell said he is \"still a believer in explosives\" despite a long stretch of tepid air production for Minnesota.",
-      "published": "2026-09-24T10:00:21Z",
-      "source": "ESPN NFL",
+      "title": "Week 3 NFL score predictions, picks, odds: Computer model reveals projections for all 16 games",
+      "url": "https://www.cbssports.com/betting/news/week-3-nfl-score-predictions-picks-odds-computer-model-reveals-projections-all-16-games/",
+      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
+      "published": "Thu, 24 Sep 2026 13:43:27 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 3 NFL betting promos: Claim almost $3,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/week-3-nfl-betting-promos-claim-almost-3000-in-bonuses-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 3 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Thu, 24 Sep 2026 13:39:31 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Ranking NFL's 2-0 teams: Bengals are for real this year, but are Chiefs an imposter?",
+      "url": "https://www.cbssports.com/nfl/news/ranking-nfls-2-0-teams-bengals-chiefs-bills/",
+      "summary": "Not every 2-0 team should be considered equal",
+      "published": "Thu, 24 Sep 2026 13:38:13 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "MIN"
+        "CIN",
+        "KC"
       ]
     },
     {
-      "title": "Why Patriots must be better at managing the clock before halftime",
-      "url": "https://www.espn.com/nfl/story/_/id/50016408/new-england-patriots-clock-management-mike-vrabel",
-      "summary": "After two straight games with questionable decisions before halftime, the Patriots admit they need to improve on possessions late in the second quarter.",
-      "published": "2026-09-24T10:41:46Z",
-      "source": "ESPN NFL",
+      "title": "Packers vs. Falcons odds, picks: Analysis, predictions, player props for Thursday Night Football",
+      "url": "https://www.cbssports.com/betting/news/packers-vs-falcons-odds-picks-analysis-predictions-player-props-for-thursday-night-football/",
+      "summary": "Michael Penix Jr. returns under center to revive Atlanta's offense, creating prime betting value on the spread, and Drake London player props against an injury-hit Green Bay squad",
+      "published": "Thu, 24 Sep 2026 13:28:35 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "NE"
+        "ATL",
+        "GB"
       ]
     },
     {
-      "title": "Denver Broncos to face another MVP QB in Matthew Stafford",
-      "url": "https://www.espn.com/nfl/story/_/id/50014884/denver-broncos-defensive-coordinator-vance-joseph-plays-nfl-mvp-matthew-stafford",
-      "summary": "Sunday marks the 10th time the Broncos have faced an MVP quarterback since Vance Joseph became defensive coordinator in 2023. Can Denver get the best of Stafford?",
-      "published": "2026-09-24T10:00:21Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 3 picks: Our experts face off on Falcons at Packers, Ravens vs. Cowboys and more",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-picks-falcons-at-packers-ravens-vs-cowboys/",
+      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
+      "published": "Thu, 24 Sep 2026 13:28:12 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": [
-        "DEN"
+        "ATL",
+        "BAL",
+        "DAL",
+        "GB"
       ]
     },
     {
-      "title": "Panthers' Bryce Young to Darren Waller has been money in red zone",
-      "url": "https://www.espn.com/nfl/story/_/id/50009540/carolina-panthers-darren-waller-2026-fantasy-outlook",
-      "summary": "The veteran tight end's height, catch radius and history of red zone success make him a tough cover in big moments.",
-      "published": "2026-09-24T10:00:12Z",
-      "source": "ESPN NFL",
+      "title": "Mike Macdonald says Sam Darnold is 'on a good track' to return from his glute injury",
+      "url": "https://www.cbssports.com/nfl/news/mike-macdonald-says-sam-darnold-is-on-a-good-track-to-return-from-his-glute-injury/",
+      "summary": "Darnold has missed most of the season's first two games",
+      "published": "Thu, 24 Sep 2026 13:26:22 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "Previewing 2026 Presidents Cup; NFL Week 3 picks; how can Giants replace Jaxson Dart?",
+      "url": "https://www.cbssports.com/golf/news/previewing-2026-presidents-cup-nfl-week-3-picks-how-can-giants-replace-jaxson-dart/",
+      "summary": "Plus, Shohei Ohtani's return and Aaron Judge's Wild Card status",
+      "published": "Thu, 24 Sep 2026 13:00:03 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Panthers' Bryce Young is off to a hot start in 2026. Is it real or a mirage?",
+      "url": "https://www.cbssports.com/nfl/news/panthers-bryce-young-is-off-to-a-hot-start-in-2026-is-it-real-or-a-mirage/",
+      "summary": "We watched all 80 of Young's dropbacks so far this season to see if Young can continue his hot streak or if this is just an outlier",
+      "published": "Thu, 24 Sep 2026 12:26:56 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -406,29 +600,45 @@
       ]
     },
     {
-      "title": "Meet Cam Achord: The Packers' secret special teams weapon",
-      "url": "https://www.espn.com/nfl/story/_/id/50013943/nfl-green-bay-packers-cam-achord-matt-lafleur-special-teams",
-      "summary": "Part old-school coach, part Gen Z analytics savant, Achord is \"just a ball of energy\" as he aims to fix Green Bay's special teams unit.",
-      "published": "2026-09-24T10:00:05Z",
-      "source": "ESPN NFL",
+      "title": "It wouldn't shock me IF ... NFL Week 3: Aaron Rodgers, Steelers won't find end zone once again",
+      "url": "https://www.cbssports.com/nfl/news/it-wouldnt-shock-me-if-nfl-week-3-aaron-rodgers-steelers/",
+      "summary": "Don't be surprised if we see these storylines develop over the course of Week 3",
+      "published": "Thu, 24 Sep 2026 12:21:43 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "GB"
+        "PIT"
       ]
     },
     {
-      "title": "Baltimore Ravens feel prepared for Rio 'business trip'",
-      "url": "https://www.espn.com/nfl/story/_/id/50015971/baltimore-ravens-prepared-rio-business-trip",
-      "summary": "This is the Ravens' first game in Brazil, but coach Jesse Minter was there last season.",
-      "published": "2026-09-24T10:00:01Z",
-      "source": "ESPN NFL",
+      "title": "The secret weapon behind every 2-0 start: Bills may have a new star, Chiefs unlock deep threat",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-unsung-heroes-secret-weapons/",
+      "summary": "Stars receive most of the credit, but these overlooked players have filled essential roles for the NFL's eight remaining 2-0 teams",
+      "published": "Thu, 24 Sep 2026 12:15:55 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL"
+        "BUF",
+        "KC"
+      ]
+    },
+    {
+      "title": "NFL Week 3 upset alert: Why these five favorites could easily lose, including the Rams",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-2026-upset-picks/",
+      "summary": "After correctly identifying major upsets by the Saints and Bengals last week, we examine five more dangerous underdogs",
+      "published": "Thu, 24 Sep 2026 12:10:31 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "LA",
+        "NO"
       ]
     },
     {
@@ -520,380 +730,6 @@
         "CHI",
         "PHI"
       ]
-    },
-    {
-      "title": "Agent's Take: 2026 contract-year players to watch -- will Puka Nacua become NFL's highest-paid wide receiver?",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-contract-year-players-to-watch-puka-nacua/",
-      "summary": "Baker Mayfield and Jonathan Taylor secured extensions ahead of the season, but George Pickens, Kyler Murray and others have plenty riding on 2026",
-      "published": "Wed, 23 Sep 2026 17:45:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "No first-year coach has won the Super Bowl in 37 years. Can Jesse Minter, steadfast and steady, change that?",
-      "url": "https://www.cbssports.com/nfl/news/jesse-minter-coach-profile-ravens-background-history/",
-      "summary": "Minter has transformed defenses everywhere he's gone; now he's trying to get the Ravens over the hump",
-      "published": "Wed, 23 Sep 2026 17:26:17 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "Colts placing Alec Pierce on IR: Big-play WR aggravated heel injury, hopes to return this year",
-      "url": "https://www.cbssports.com/nfl/news/colts-alec-pierce-ir-heel-injury/",
-      "summary": "Pierce underwent surgery on his left heel this offseason",
-      "published": "Wed, 23 Sep 2026 16:59:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "Alleged Daejon Love victim says she reported scammer to 49ers eight months prior to arrest",
-      "url": "https://www.cbssports.com/nfl/news/daejon-love-arrest-victim-49ers-2026/",
-      "summary": "A 49ers spokesperson declined to comment on the reported message, while the FBI has said the organization has cooperated with its investigation",
-      "published": "Wed, 23 Sep 2026 16:20:48 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Week 3 NFL betting promos: Get almost $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-3-nfl-betting-promos-get-almost-3000-in-bonuses-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 3 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Wed, 23 Sep 2026 15:38:34 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 3 NFL QB Power Rankings: Dak Prescott into top five; Aaron Rodgers continues to tank",
-      "url": "https://www.cbssports.com/nfl/news/week-3-nfl-qb-power-rankings-dak-prescott-aaron-rodgers/",
-      "summary": "Evaluating the NFL's 32 starting quarterbacks ahead of the third week of the 2026 regular season",
-      "published": "Wed, 23 Sep 2026 14:26:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Panic meter for every 0-2 team: Texans have been here before, Commanders on downward spiral",
-      "url": "https://www.cbssports.com/nfl/news/nfl-panic-meter-week-3-2026/",
-      "summary": "Washington's nightmare start and Jayden Daniels' elbow injury send the Commanders to the top of our panic rankings",
-      "published": "Wed, 23 Sep 2026 13:48:12 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "HOU",
-        "WAS"
-      ]
-    },
-    {
-      "title": "2026 Week 3 NFL odds, lines, schedule, start times: Picks, predictions for Falcons-Packers, every other game",
-      "url": "https://www.cbssports.com/betting/news/2026-week-3-nfl-odds-lines-schedule-start-times-picks-predictions-falcons-packers-every-other-game/",
-      "summary": "Week 3 features a Thursday night trip to Lambeau, an international Cowboys-Ravens showdown, and two primetime games carrying major quarterback storylines",
-      "published": "Wed, 23 Sep 2026 13:44:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ATL",
-        "BAL",
-        "DAL",
-        "GB"
-      ]
-    },
-    {
-      "title": "Week 3 NFL betting odds, lines, totals, spreads, for all 16 games, including Ravens-Cowboys, Rams-Broncos",
-      "url": "https://www.cbssports.com/betting/news/week-3-nfl-odds-betting-lines-totals-spreads/",
-      "summary": "The Week 3 NFL schedule features 16 games, starting with Packers vs. Falcons on Thursday Night Football",
-      "published": "Wed, 23 Sep 2026 13:18:29 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ATL",
-        "BAL",
-        "DAL",
-        "DEN",
-        "GB",
-        "LA"
-      ]
-    },
-    {
-      "title": "Ranking MVP candidates after Week 2: Josh Allen takes early lead, but a RB not too far behind",
-      "url": "https://www.cbssports.com/nfl/news/ranking-mvp-candidates-after-week-2-josh-allen-kenneth-walker/",
-      "summary": "Evaluating 10 players who have made a case for early MVP consideration",
-      "published": "Wed, 23 Sep 2026 13:21:56 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Panic level for Giants, Bears amid rash of QB injuries; MLB postseason scenarios as Rays clinch AL East",
-      "url": "https://www.cbssports.com/nfl/news/panic-level-for-giants-bears-amid-rash-of-qb-injuries-mlb-postseason-scenarios-as-rays-clinch-al-east/",
-      "summary": "Plus Pete Prisco's Week 3 NFL Power Rankings",
-      "published": "Wed, 23 Sep 2026 13:02:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "NYG"
-      ]
-    },
-    {
-      "title": "NFL Week 3 picks, odds: Josh Allen furthers Chargers free fall, Saints stay hot in home opener",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-3-picks-odds-predictions/",
-      "summary": "Tyler Sullivan picks every agme on the Week 3 schedule, plus five locks against the spread",
-      "published": "Wed, 23 Sep 2026 21:11:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC",
-        "NO"
-      ]
-    },
-    {
-      "title": "Panthers RB Jonathon Brooks headed to IR, Austin Ekeler scheduled for workout",
-      "url": "https://www.cbssports.com/nfl/news/jonathon-brooks-injury-panthers-austin-ekeler/",
-      "summary": "Brooks has played in just five games over the last three seasons and will miss another six weeks with core muscle surgery",
-      "published": "Wed, 23 Sep 2026 12:34:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CAR"
-      ]
-    },
-    {
-      "title": "Predicting full 14-team NFL playoff bracket entering Week 3, including history-making Super Bowl",
-      "url": "https://www.cbssports.com/nfl/news/nfl-playoff-predictions-2026-super-bowl-week-3/",
-      "summary": "The early postseason forecast includes several surprises, from two winless AFC South teams getting in to Carolina winning its division with a losing record",
-      "published": "Wed, 23 Sep 2026 18:23:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Super Bowl stock report for Week 3: Bengals are total package, Chargers' season over before it started",
-      "url": "https://www.cbssports.com/nfl/news/super-bowl-stock-report-nfl-week-3/",
-      "summary": "We assess the NFL title race after Week 2 and identify four upcoming games that could reshape the Super Bowl picture",
-      "published": "Wed, 23 Sep 2026 10:00:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Prisco's Week 3 NFL picks: Browns upset Panthers, Giants rally behind Jameis Winston",
-      "url": "https://www.cbssports.com/nfl/news/priscos-week-3-nfl-picks-browns-upset-panthers-giants-rally-behind-jameis-winston/",
-      "summary": "Pete Prisco reveals all of his Week 3 picks, including Jaguars over Patriots and Bucs over Vikings",
-      "published": "Wed, 23 Sep 2026 23:22:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "CLE",
-        "JAX",
-        "MIN",
-        "NE",
-        "NYG",
-        "TB"
-      ]
-    },
-    {
-      "title": "Resetting expectations for these six NFL teams with injured quarterbacks: Giants eyeing draft again",
-      "url": "https://www.cbssports.com/nfl/news/resetting-expectations-nfl-teams-injured-quarterbacks/",
-      "summary": "Success looks different for each of the squads that saw their starters go down early in the season",
-      "published": "Tue, 22 Sep 2026 23:01:14 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Another post-Eli Manning nightmare for Giants and their fans as Jaxson Dart feared done for season",
-      "url": "https://www.cbssports.com/nfl/news/another-post-eli-manning-nightmare-giants-fans-jaxson-dart/",
-      "summary": "New York turns to veteran Jameis Winston after an ESPN report revealed the promising second-year quarterback could miss the remainder of the season with a knee injury",
-      "published": "Tue, 22 Sep 2026 21:07:27 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Broncos' cheating accusation against Seahawks almost led to lawsuit in 2024, according to Mike Macdonald",
-      "url": "https://www.cbssports.com/nfl/news/broncos-cheating-accusation-seahawks-mike-macdonald/",
-      "summary": "This is one of the wildest stories you'll ever hear in the NFL",
-      "published": "Tue, 22 Sep 2026 19:27:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Giants' Jaxson Dart could miss rest of season with knee injury, per report",
-      "url": "https://www.cbssports.com/nfl/news/jaxson-dart-injury-update-giants-qb-knee/",
-      "summary": "Dart grabbed his knee in pain after being hit by two Rams defenders, and the Giants QB did not receive good news following his MRI",
-      "published": "Tue, 22 Sep 2026 19:15:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA",
-        "NYG"
-      ]
-    },
-    {
-      "title": "NFL 2026 backup QB rankings: A look at the five best and worst signal callers",
-      "url": "https://www.cbssports.com/nfl/news/nfl-2026-backup-qb-rankings-five-best-worst/",
-      "summary": "Injuries across the league have exposed a severe shortage of reliable depth as developmental pipelines struggle to produce capable passers",
-      "published": "Tue, 22 Sep 2026 19:14:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "Tyson Bagent in concussion protocol as Bears could be down to third quarterback in Week 3, per report",
-      "url": "https://www.cbssports.com/nfl/news/tyson-bagent-concussion-protocol-bears-eagles/",
-      "summary": "Bagent and Caleb Williams both sustained injuries in the Week 2 loss to the Vikings",
-      "published": "Tue, 22 Sep 2026 18:28:48 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Jets adding a new QB: Titans cast-off Will Levis set to sign with New York's practice squad, per report",
-      "url": "https://www.cbssports.com/nfl/news/jets-signing-will-levis-titans-cast-off/",
-      "summary": "The Jets just added a new face to their QB room",
-      "published": "Tue, 22 Sep 2026 17:55:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYJ",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Three mock trades the Steelers could make to deal disgruntled CB Joey Porter Jr.",
-      "url": "https://www.cbssports.com/nfl/news/joey-porter-jr-contract-three-mock-trades-steelers/",
-      "summary": "Pittsburgh will have options if they decide to deal Porter before the Nov. 10 deadline",
-      "published": "Tue, 22 Sep 2026 17:10:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "Grading Aaron Donald's return: How did Rams star look in his first game in almost three years?",
-      "url": "https://www.cbssports.com/nfl/news/grading-aaron-donalds-return-rams-star-first-game-almost-three-years/",
-      "summary": "Donald's presence made the Rams a more formidable defense on Monday night",
-      "published": "Tue, 22 Sep 2026 16:15:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "The only silver lining to New York Giants' no good, very bad night on 'MNF'",
-      "url": "https://www.cbssports.com/nfl/news/only-silver-lining-to-new-york-giants-no-good-very-bad-night/",
-      "summary": "Jaxson Dart, Malik Nabers, Andrew Thomas and Brian Burns all went down with injuries in a disastrous night at SoFi Stadium",
-      "published": "Tue, 22 Sep 2026 15:06:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Lessons learned from Week 2: Vikings, Packers have breakout stars; Bengals have NFL's most-improved unit",
-      "url": "https://www.cbssports.com/nfl/news/six-lessons-learned-from-nfl-week-2/",
-      "summary": "Lukas Van Ness and Dallas Turner are wreaking havoc on opposing offenses",
-      "published": "Tue, 22 Sep 2026 14:39:08 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "GB",
-        "MIN"
-      ]
-    },
-    {
-      "title": "2026 NFL Week 3 injury panic meter: Jaxson Dart, Caleb Williams, Jayden Daniels go down in losses",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-3-injury-panic-meter-jaxson-dart-caleb-williams-jayden-daniels/",
-      "summary": "Projecting the outlook for some of the league's biggest Week 2 injuries",
-      "published": "Tue, 22 Sep 2026 18:46:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
     }
   ],
   "reporters": []
