@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-24T17:05:01.770890+00:00",
-  "checked_at_utc": "2026-09-24T17:05:01.770890+00:00",
+  "updated_at_utc": "2026-09-24T20:27:19.782222+00:00",
+  "checked_at_utc": "2026-09-24T20:27:19.782222+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 13,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,49 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 25,
+      "items": 21,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Cody White Surprised In Raiders' Win vs. Chargers, But It Wasn't A Shock To Him",
+      "url": "https://www.foxsports.com/stories/nfl/cody-white-surprised-raiders-win-vs-chargers-wasnt-shock-him",
+      "summary": "Cody White was called up from the Raiders' practice squad a day before scoring two TDs, but he was prepared for the moment.",
+      "published": "Thu, 24 Sep 2026 16:00:12 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LAC",
+        "LV"
+      ]
+    },
+    {
+      "title": "Steelers CB Joey Porter Jr. Provides Update On Extension Talks, Back Injury",
+      "url": "https://www.foxsports.com/stories/nfl/joey-porter-jr-contract-update-steelers-injuries",
+      "summary": "Pittsburgh Steelers cornerback Joey Porter Jr. is eager to play this season, though he doesn't know when that will happen.",
+      "published": "Thu, 24 Sep 2026 15:53:00 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "2026 NFL Week 3 Picks: Best Bets For Every Game \u2014 Will's Wagers",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-3-picks-best-bets-every-game-wills-wagers",
+      "summary": "Will Hill is back with his wagers for every NFL Week 3 game. Here's where he's putting his money.",
+      "published": "Thu, 24 Sep 2026 14:11:14 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "How People Around NFL Are Reacting To Young QB Injuries: 'Holy S---! What Is Going On?'",
       "url": "https://www.foxsports.com/stories/nfl/how-people-around-nfl-reacting-young-qb-injuries-holy-s-what-going-on",
@@ -247,38 +285,11 @@
       "teams": []
     },
     {
-      "title": "West Coast Read: Time To End Justin Herbert-Mike McDaniel Marriage? Brock Purdy's MVP Start",
-      "url": "https://www.foxsports.com/stories/nfl/justin-herbert-mike-mcdaniel-chargers-brock-purdy-49ers-mvp",
-      "summary": "One longtime NFL scout tells us it's already time for the Chargers to fire OC Mike McDaniel, while we assess Brock Purdy's start to the season.",
-      "published": "Wed, 23 Sep 2026 14:55:40 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "2026 NFL Coach Of The Year Odds: Kellen Moore Favored, Klint Kubiak Surges",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-coach-of-the-year-odds",
-      "summary": "Kellen Moore led the Saints to a road upset, while Klint Kubiak has the Raiders 2-0. See the latest Coach of the Year odds.",
-      "published": "Wed, 23 Sep 2026 14:37:12 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LV",
-        "NO"
-      ]
-    },
-    {
-      "title": "Favorite 'Dogs: Back Ole Miss Over Florida; Jets Over Lions",
-      "url": "https://www.foxsports.com/stories/college-football/favorite-dogs-back-ole-miss-over-florida-jets-over-lions",
-      "summary": "Will Hill is backing Ole Miss to get past another SEC foe, and he's putting his money on the underdog Jets again.",
-      "published": "Wed, 23 Sep 2026 14:28:48 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Dan Campbell keeps faith Kelvin Sheppard can turn around Lions defense as Jets travel to Detroit",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872954",
+      "summary": "\u2014 Dan Campbell has demoted offensive coordinators during the season in two of his previous five years with the",
+      "published": "2026-09-24T20:19:34Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -288,52 +299,156 @@
       ]
     },
     {
-      "title": "Roll The Tape: How To Fix Justin Herbert; How Kenneth Walker Fixed KC's Offense",
-      "url": "https://www.foxsports.com/stories/nfl/roll-tape-how-fix-justin-herbert-how-kenneth-walker-has-fixed-kcs-offense",
-      "summary": "After diving into the All-22 coaches' film from Week 2, Bucky Brooks examines four new developments to watch.",
-      "published": "Wed, 23 Sep 2026 14:17:56 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "The Arizona Cardinals Could Eventually Explore Trading Marvin Harrison Jr.",
-      "url": "https://www.foxsports.com/stories/nfl/arizona-cardinals-marvin-harrison-jr-trade-rumors",
-      "summary": "When the Arizona Cardinals drafted Marvin Harrison Jr., he was viewed as a generational talent coming out of Ohio State. Instead, his tenure has been defined far more by frustration than flashes of stardom.",
-      "published": "Wed, 23 Sep 2026 14:14:26 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Joey Porter says he'll play for Steelers in '26 but when TBD",
+      "url": "https://www.espn.com/nfl/story/_/id/50022488/joey-porter-says-play-steelers-26-tbd",
+      "summary": "Steelers cornerback Joey Porter Jr. said he is \"definitely\" going to play this season, but the exact date of his return to the field is still up in the air.",
+      "published": "2026-09-24T20:09:29Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ARI"
+        "PIT"
       ]
     },
     {
-      "title": "Colts WR Alec Pierce Placed On Injured Reserve Following Heel Injury",
-      "url": "https://www.foxsports.com/stories/nfl/indianapolis-colts-alec-pierce-heel-ankle-injury",
-      "summary": "The Indianapolis Colts are placing receiver Alec Pierce on the injured reserve list, three days after he hopped off the field at Kansas City with an injury.",
-      "published": "Wed, 23 Sep 2026 14:06:19 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Raiders-Saints matchup features a new generation of NFL coaches in Kubiak and Moore",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872961",
+      "summary": "\u2014 Klint Kubiak and Kellen Moore are the last two offensive coordinators to win Super Bowls.",
+      "published": "2026-09-24T19:52:29Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV",
+        "NO"
+      ]
+    },
+    {
+      "title": "Steelers will try to shrug off their uneven start as Joe Burrow and the unbeaten Bengals visit",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872950",
+      "summary": "\u2014 Aaron Rodgers says he isn't worried about the Pittsburgh Steelers' resolve.",
+      "published": "2026-09-24T19:42:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Chiefs aim to reduce Kenneth Walker's workload 'a little bit'",
+      "url": "https://www.espn.com/nfl/story/_/id/50022275/chiefs-aim-reduce-kenneth-walker-workload-little-bit",
+      "summary": "One of the main objectives for Kansas City Chiefs coach Andy Reid in Sunday's game against the Miami Dolphins is to reduce the workload \"a little bit\" for running back Kenneth Walker III.",
+      "published": "2026-09-24T19:40:18Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "MIA"
+      ]
+    },
+    {
+      "title": "Bears vs. Eagles: Where to watch 'Monday Night Football'",
+      "url": "https://www.espn.com/nfl/story/_/id/50022170/bears-eagles-where-watch-monday-night-football",
+      "summary": "Eagles head to Soldier Field to face an injury-riddled Bears in the third \"Monday Night Football\" game of the 2026 NFL season.",
+      "published": "2026-09-24T20:02:23Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
+        "CHI",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Jaguars expect a favorable response against the Patriots, who are still 'finding ourselves'",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872957",
+      "summary": "\u2014 Trevor Lawrence and the Jacksonville Jaguars are counting on one thing following their worst offensive performance in 11 months: a...",
+      "published": "2026-09-24T19:02:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX",
+        "NE"
+      ]
+    },
+    {
+      "title": "NFL Week 3 uniforms: Colts to wear 'Anvil Strike,' Bills debut 'Nickel City'",
+      "url": "https://www.espn.com/nfl/story/_/id/50008808/nfl-week-3-uniforms",
+      "summary": "Here's a look at what each NFL team is wearing in Week 3, led by the new NFL Rivalries look from the Indianapolis Colts.",
+      "published": "2026-09-24T18:55:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
         "IND"
       ]
     },
     {
-      "title": "2026 NFL DPOY Odds: Will Anderson Jr. Favored; T.J. Watt, Maxx Crosby Surge",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
-      "summary": "Check out how the latest odds to win the 2026 NFL Defensive Player of the Year award.",
-      "published": "Wed, 23 Sep 2026 14:03:50 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Texans and Colts are each trying to avoid 0-3 starts in matchup between struggling AFC South teams",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872951",
+      "summary": "\u2014 Indianapolis Colts coach Shane Steichen and Houston Texans coach DeMeco Ryans understand the urgency of Sunday's early season AFC South matchup.",
+      "published": "2026-09-24T17:36:33Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "HOU",
+        "IND"
+      ]
+    },
+    {
+      "title": "Cowboys look to corral Ravens' Lamar Jackson in Rio as questions about field conditions persist",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872960",
+      "summary": "Kenny Clark is headed back to Brazil, where his Dallas Cowboys face Baltimore two years after the defensive tackle played for the Green Bay Packers on a \u201cmushy\u201d field.",
+      "published": "2026-09-24T17:14:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL",
+        "GB"
+      ]
+    },
+    {
+      "title": "Judge denies request to seal records in Josh Jacobs case",
+      "url": "https://www.espn.com/nfl/story/_/id/50021393/judge-denies-request-seal-records-josh-jacobs-case",
+      "summary": "The judge who presided over the criminal case of Packers RB Josh Jacobs denied a request by the victim to have evidence permanently sealed.",
+      "published": "2026-09-24T17:33:41Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "NFL fines 49ers' Kyle Juszczyk for imitating 'chugging a beer'",
+      "url": "https://www.espn.com/nfl/story/_/id/50021366/nfl-fines-49ers-kyle-juszczyk-imitating-chugging-beer",
+      "summary": "The NFL fined San Francisco 49ers fullback Kyle Juszczyk $14,926 on Thursday for \"engaging in offensive demonstrations.\"",
+      "published": "2026-09-24T19:24:47Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF"
+      ]
     },
     {
       "title": "Kyler Murray returns for the Vikings against the struggling Buccaneers",
@@ -350,17 +465,123 @@
       ]
     },
     {
-      "title": "NFL Week 3 uniforms: Colts to wear 'Anvil Strike,' Bills debut 'Nickel City'",
-      "url": "https://www.espn.com/nfl/story/_/id/50008808/nfl-week-3-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 3, led by the new NFL Rivalries look from the Indianapolis Colts.",
-      "published": "2026-09-24T13:03:22Z",
-      "source": "ESPN NFL",
+      "title": "Previewing Packers vs. Falcons: Atlanta seeks first win of season as Michael Penix Jr. returns on 'TNF'",
+      "url": "https://www.cbssports.com/nfl/news/packers-falcons-preview-prediction-odds-how-to-watch/",
+      "summary": "Michael Penix Jr. makes his season debut for a winless Atlanta offense looking for a spark, while Green Bay tries to overcome a rash of injuries in its home opener",
+      "published": "Thu, 24 Sep 2026 20:00:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "GB"
+      ]
+    },
+    {
+      "title": "Week 3 NFL score predictions, picks, odds: Advanced model reveals projections for all 16 games",
+      "url": "https://www.cbssports.com/betting/news/week-3-nfl-score-predictions-picks-odds-advanced-model-reveals-projections-all-16-games/",
+      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
+      "published": "Thu, 24 Sep 2026 19:39:30 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Steelers' Joey Porter Jr. 'definitely' sees himself playing for Pittsburgh in 2026",
+      "url": "https://www.cbssports.com/nfl/news/steelers-joey-porter-jr-definitely-sees-himself-playing-for-pittsburgh/",
+      "summary": "Porter Jr. is in the final year of his rookie deal in 2026 and fresh off an outstanding 2025 campaign",
+      "published": "Thu, 24 Sep 2026 19:35:33 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BUF",
-        "IND"
+        "PIT"
+      ]
+    },
+    {
+      "title": "LOOK: NFL legend Adam Vinatieri just set a Guinness World Record on top of a mountain in the Swiss Alps",
+      "url": "https://www.cbssports.com/nfl/news/adam-vinatieri-sets-guinness-world-record-swiss-alps/",
+      "summary": "Yup, a Pro Football Hall of Famer now holds a Guinness World Record",
+      "published": "Thu, 24 Sep 2026 19:33:17 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Cardinals' Jacoby Brissett throws Michael Wilson under bus in defense of Marvin Harrison Jr.",
+      "url": "https://www.cbssports.com/nfl/news/cardinals-jacoby-brissett-throws-michael-wilson-under-bus-marvin-harrison-jr/",
+      "summary": "Harrison is off to a puzzling start to the 2026 season, and Wilson has not been particularly impressive, either",
+      "published": "Thu, 24 Sep 2026 19:23:18 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI"
+      ]
+    },
+    {
+      "title": "Week 3 NFL betting odds, lines, totals, spreads, for all 16 games, including Falcons-Packers, Ravens-Cowboys",
+      "url": "https://www.cbssports.com/betting/news/week-3-nfl-odds-betting-lines-spreads-totals/",
+      "summary": "The Week 3 NFL schedule features 16 games, starting with Packers vs. Falcons on Thursday Night Football",
+      "published": "Thu, 24 Sep 2026 18:24:37 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ATL",
+        "BAL",
+        "DAL",
+        "GB"
+      ]
+    },
+    {
+      "title": "Is Malik Nabers playing this week? How his status affects Titans vs. Giants odds",
+      "url": "https://www.cbssports.com/betting/news/malik-nabers-injury-status-titans-giants-odds-nfl-week-3-2026/",
+      "summary": "How Malik Nabers' injury impacts Giants vs. Titans odds for NFL Week 3 on Sunday",
+      "published": "Thu, 24 Sep 2026 18:22:24 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYG",
+        "TEN"
+      ]
+    },
+    {
+      "title": "Cowboys facing unprecedented NFL travel scenario for Week 3 game vs. Ravens in Brazil",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-ravens-facing-unprecedented-nfl-travel-week-3-brazil/",
+      "summary": "No NFL team has ever been asked to do what the Cowboys and Ravens are doing this week",
+      "published": "Thu, 24 Sep 2026 19:50:04 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "49ers' Kyle Juszczyk fined for 'offensive demonstration' in win vs. Dolphins",
+      "url": "https://www.cbssports.com/nfl/news/49ers-kyle-juszczyk-fined-for-offensive-demonstration-in-win-vs-dolphins/",
+      "summary": "Juszczyk was fined $14,926 for celebrating his touchdown reception in a way the NFL deemed offensive",
+      "published": "Thu, 24 Sep 2026 17:24:34 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA",
+        "SF"
       ]
     },
     {
@@ -442,22 +663,6 @@
       "teams": []
     },
     {
-      "title": "2026 Week 3 NFL odds, lines, schedule, start times: Picks, predictions for Packers-Falcons, every other game",
-      "url": "https://www.cbssports.com/betting/news/2026-week-3-nfl-odds-lines-schedule-start-times-picks-predictions-packers-falcons-every-other-game/",
-      "summary": "Week 3 features a Thursday night trip to Lambeau, an international Cowboys-Ravens showdown, and two primetime games carrying major quarterback storylines",
-      "published": "Thu, 24 Sep 2026 14:18:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ATL",
-        "BAL",
-        "DAL",
-        "GB"
-      ]
-    },
-    {
       "title": "Super Bowl champion weighs in on what sets Drake Maye apart, whether easy schedule boosted his success",
       "url": "https://www.cbssports.com/nfl/news/super-bowl-champion-weighs-in-on-drake-maye/",
       "summary": "Russell Wilson and Kyle Long weigh in on Drake Maye's performance this year",
@@ -483,42 +688,6 @@
       ]
     },
     {
-      "title": "Falcons vs. Packers prediction, odds, line: Thursday Night Football picks, betting preview",
-      "url": "https://www.cbssports.com/betting/news/falcons-packers-prediction-odds-line-thursday-night-football-picks-betting-preview/",
-      "summary": "Best bets and betting preview for Falcons vs. Packers on Thursday Night Football",
-      "published": "Thu, 24 Sep 2026 13:56:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "GB"
-      ]
-    },
-    {
-      "title": "Week 3 NFL score predictions, picks, odds: Computer model reveals projections for all 16 games",
-      "url": "https://www.cbssports.com/betting/news/week-3-nfl-score-predictions-picks-odds-computer-model-reveals-projections-all-16-games/",
-      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
-      "published": "Thu, 24 Sep 2026 13:43:27 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 3 NFL betting promos: Claim almost $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-3-nfl-betting-promos-claim-almost-3000-in-bonuses-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 3 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Thu, 24 Sep 2026 13:39:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Ranking NFL's 2-0 teams: Bengals are for real this year, but are Chiefs an imposter?",
       "url": "https://www.cbssports.com/nfl/news/ranking-nfls-2-0-teams-bengals-chiefs-bills/",
       "summary": "Not every 2-0 team should be considered equal",
@@ -530,20 +699,6 @@
       "teams": [
         "CIN",
         "KC"
-      ]
-    },
-    {
-      "title": "Packers vs. Falcons odds, picks: Analysis, predictions, player props for Thursday Night Football",
-      "url": "https://www.cbssports.com/betting/news/packers-vs-falcons-odds-picks-analysis-predictions-player-props-for-thursday-night-football/",
-      "summary": "Michael Penix Jr. returns under center to revive Atlanta's offense, creating prime betting value on the spread, and Drake London player props against an injury-hit Green Bay squad",
-      "published": "Thu, 24 Sep 2026 13:28:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "GB"
       ]
     },
     {
@@ -559,6 +714,20 @@
         "ATL",
         "BAL",
         "DAL",
+        "GB"
+      ]
+    },
+    {
+      "title": "Packers vs. Falcons odds, picks: Analysis, predictions, player props for Thursday Night Football",
+      "url": "https://www.cbssports.com/betting/news/packers-vs-falcons-odds-picks-analysis-predictions-player-props-for-thursday-night-football/",
+      "summary": "Michael Penix Jr. returns under center to revive Atlanta's offense, creating prime betting value on the spread, and Drake London player props against an injury-hit Green Bay squad",
+      "published": "Thu, 24 Sep 2026 18:37:58 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL",
         "GB"
       ]
     },
@@ -664,71 +833,6 @@
       "teams": [
         "BAL",
         "DAL"
-      ]
-    },
-    {
-      "title": "Five QB trades the Giants could make with Jaxson Dart out for season, including two with ties to John Harbaugh",
-      "url": "https://www.cbssports.com/nfl/news/giants-qb-trade-rumors-jaxson-dart-injury/",
-      "summary": "New York is turning to Jameis Winston for now, but several mobile quarterbacks and familiar faces could emerge as trade targets if the veteran struggles",
-      "published": "Wed, 23 Sep 2026 21:39:26 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Giants' Jaxson Dart to undergo knee surgery that will end his 2026 season",
-      "url": "https://www.cbssports.com/nfl/news/jaxson-dart-knee-surgery-end-giants-qbs-2026-season/",
-      "summary": "Dart's ACL is intact, but his season is over",
-      "published": "Wed, 23 Sep 2026 21:23:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "NFL Week 3 injury report: Packers offensive line in trouble; Michael Penix Jr. set to take over Falcons QB job",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-injury-report-packers-offensive-line/",
-      "summary": "Caleb Williams, Jayden Daniels and Jaxson Dart are among the quarterbacks sidelined as we track every practice update across the league",
-      "published": "Thu, 24 Sep 2026 00:04:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "GB"
-      ]
-    },
-    {
-      "title": "Tale of the Tape: Jayden Maiava, Dante Moore clash in battle of star QBs in NFL Draft when USC faces Oregon",
-      "url": "https://www.cbssports.com/college-football/news/jayden-maiava-dante-moore-nfl-draft-usc-oregon-tale-of-the-tape/",
-      "summary": "Two projected first-round NFL Draft picks will take the field when the No. 12 Trojans take on the No. 20 Ducks",
-      "published": "Wed, 23 Sep 2026 18:46:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Ben Johnson is facing challenge he's never encountered in coaching career as Bears prepare for Eagles",
-      "url": "https://www.cbssports.com/nfl/news/ben-johnson-qb-challenge-never-encountered-in-coaching-career-bears/",
-      "summary": "With Caleb Williams out and Tyson Bagent in concussion protocol, Ben Johnson could turn to a 38-year-old signal-caller",
-      "published": "Wed, 23 Sep 2026 18:20:11 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "PHI"
       ]
     }
   ],
