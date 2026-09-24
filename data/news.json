@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-09-24T01:21:32.613334+00:00",
-  "checked_at_utc": "2026-09-24T01:21:32.613334+00:00",
+  "updated_at_utc": "2026-09-24T06:22:45.879827+00:00",
+  "checked_at_utc": "2026-09-24T06:22:45.879827+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 8,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 34
+      "items": 35
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,20 @@
     }
   },
   "items": [
+    {
+      "title": "NFL Catchup: Giants Keeping QB Options Open; Bears Still Unsure On Week 3 Starter",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-giants-keeping-qb-options-open-bears-still-unsure-week-3-starter",
+      "summary": "Here's the latest from around the NFL on Wednesday.",
+      "published": "Thu, 24 Sep 2026 01:32:28 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI",
+        "NYG"
+      ]
+    },
     {
       "title": "NFL Awards Ballot: After Winning Super Bowl MVP, Kenneth Walker Has Become A Top RB",
       "url": "https://www.foxsports.com/stories/nfl/nfl-awards-ballot-after-winning-super-bowl-mvp-kenneth-walker-has-become-top-rb",
@@ -324,120 +338,16 @@
       ]
     },
     {
-      "title": "Let Caleb Williams Cry. His Authenticity And Sensitivity Make Him A Superstar.",
-      "url": "https://www.foxsports.com/stories/nfl/let-caleb-williams-cry-his-authenticity-sensitivity-make-him-superstar",
-      "summary": "Caleb Williams has brought in a new set of emotions into the NFL, and you shouldn't have a problem with it.",
-      "published": "Tue, 22 Sep 2026 21:17:28 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Herbert shuts down leadership questions amid Chargers' 0-2 start",
-      "url": "https://www.espn.com/nfl/story/_/id/50016633/herbert-shuts-leadership-questions-amid-chargers-0-2-start",
-      "summary": "Justin Herbert was uncharacteristically fiery when asked Wednesday about increased vocal leadership on the Chargers amid the team's 0-2 start.",
-      "published": "2026-09-24T01:08:05Z",
+      "title": "Harrison Jr. blocking out noise amid slow start for Cardinals",
+      "url": "https://www.espn.com/nfl/story/_/id/50016849/harrison-jr-blocking-noise-slow-start-cardinals",
+      "summary": "Arizona Cardinals receiver Marvin Harrison Jr. hears and reads what's being said about him after his slow start to his third season, but he remains confident and still has the confidence of his teammates.",
+      "published": "2026-09-24T03:02:12Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "Veteran Case Keenum practices Wednesday, ready to start if called",
-      "url": "https://www.espn.com/nfl/story/_/id/50016448/veteran-case-keenum-practices-wed-ready-start-called",
-      "summary": "Bears veteran QB Case Keenum could be in line to start his first regular-season game since 2023. \"If my name's called, I'm excited to be out there,\" he said.",
-      "published": "2026-09-23T23:55:53Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Broncos RB Coleman doesn't practice; Dobbins, Harvey limited",
-      "url": "https://www.espn.com/nfl/story/_/id/50016115/broncos-running-backs-jk-dobbins-rj-harvey-limited-practice-jonah-coleman-does-not-practice",
-      "summary": "Broncos running backs J.K. Dobbins and RJ Harvey were limited in practice Wednesday, and Jonah Coleman did not practice. Nevertheless, coach Sean Payton said he thinks \"we're going to be all right\" at the position Sunday against the Rams.",
-      "published": "2026-09-23T23:14:22Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN",
-        "LA"
-      ]
-    },
-    {
-      "title": "McVay says Nacua's injury not 'long-term' concern, but Rams being cautious",
-      "url": "https://www.espn.com/nfl/story/_/id/50016014/mcvay-says-nacua-injury-not-long-term-concern-rams-being-cautious",
-      "summary": "Rams coach Sean McVay said receiver Puka Nacua does not have a hernia, but the team will \"err on the side of caution\" with the injury.",
-      "published": "2026-09-23T22:50:11Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "49ers place starting DT C.J. West on IR due to knee injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50015866/49ers-place-starting-dt-cj-west-ir-due-knee-injury",
-      "summary": "49ers defensive tackle C.J. West, who is going to miss at least a chunk of the season with a bone chip in his knee that will require surgery, was placed on injured reserve Wednesday.",
-      "published": "2026-09-23T22:50:18Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Commanders say clip didn't reflect team response to Daniels injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50015858/commanders-respond-viral-video-clip-reject-notion-abandoned-injured-jayden-daniels",
-      "summary": "After a short video clip showed a number of Commanders walking past Jayden Daniels as he was being helped by medical personnel Sunday, many players fired back at the takes being spouted on social media, emphasizing, \"It's bulls--- what people are saying.\"",
-      "published": "2026-09-23T22:21:30Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "WAS"
-      ]
-    },
-    {
-      "title": "How Chiefs TE Travis Kelce turned wedding shape into football shape",
-      "url": "https://www.espn.com/nfl/story/_/id/50015353/how-chiefs-te-travis-kelce-wedding-taylor-swift-football-shape",
-      "summary": "Kelce, who leads the NFL in YAC, has had an average route speed of 11.56 mph, the fastest he's been since 2022.",
-      "published": "2026-09-24T00:06:52Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC"
-      ]
-    },
-    {
-      "title": "Seahawks' Darnold 'on a good track' to play vs. Commanders",
-      "url": "https://www.espn.com/nfl/story/_/id/50015681/seahawks-darnold-good-track-play-vs-commanders",
-      "summary": "Seahawks quarterback Sam Darnold is \"on a good track\" to play Sunday against the Commanders, coach Mike Macdonald said Wednesday.",
-      "published": "2026-09-23T23:18:29Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "SEA",
-        "WAS"
+        "ARI"
       ]
     },
     {
@@ -892,6 +802,17 @@
         "GB",
         "MIN"
       ]
+    },
+    {
+      "title": "2026 NFL Week 3 injury panic meter: Jaxson Dart, Caleb Williams, Jayden Daniels go down in losses",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-3-injury-panic-meter-jaxson-dart-caleb-williams-jayden-daniels/",
+      "summary": "Projecting the outlook for some of the league's biggest Week 2 injuries",
+      "published": "Tue, 22 Sep 2026 18:46:01 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
     }
   ],
   "reporters": []
