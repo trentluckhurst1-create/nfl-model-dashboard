@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-25T06:40:31.353670+00:00",
-  "checked_at_utc": "2026-09-25T06:40:31.353670+00:00",
+  "updated_at_utc": "2026-09-25T12:19:12.162455+00:00",
+  "checked_at_utc": "2026-09-25T12:19:12.162455+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 4,
+      "items": 7,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -286,58 +286,89 @@
       ]
     },
     {
-      "title": "LaFleur at a loss for answers to Packers' offensive woes",
-      "url": "https://www.espn.com/nfl/story/_/id/50025463/lafleur-loss-answers-packers-offensive-woes",
-      "summary": "The Packers are off to their worst start in coach Matt LaFleur's eight seasons after they were booed off Lambeau Field on Thursday night.",
-      "published": "2026-09-25T06:31:44Z",
+      "title": "Predicting the next five Super Bowl champions",
+      "url": "https://www.espn.com/nfl/story/_/id/50022570/next-five-super-bowl-winners-2027-prediction-solak",
+      "summary": "Ben Solak had some fun and did the impossible -- picked Super Bowl winners for the 2026 to 2030 seasons. And there are some surprises ...",
+      "published": "2026-09-25T10:30:26Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Why are the Jaguars using CB/WR Travis Hunter sparingly?",
+      "url": "https://www.espn.com/nfl/story/_/id/50024081/jacksonville-jaguars-week-3-travis-hunter-usage",
+      "summary": "The highly anticipated two-way player is playing half of defensive snaps and has barely been seen on offense. But coach Liam Coen said it's by design.",
+      "published": "2026-09-25T10:00:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
       "teams": [
-        "GB"
+        "JAX"
       ]
     },
     {
-      "title": "Penix's return revives Falcons' attack in rout of Packers",
-      "url": "https://www.espn.com/nfl/story/_/id/50025270/penix-return-revives-falcons-attack-rout-packers",
-      "summary": "In his first game since tearing his ACL last November, Michael Penix Jr. sparked the Falcons by passing for 256 yards with a touchdown in a 35-14 rout of the Packers at Lambeau Field.",
-      "published": "2026-09-25T06:14:39Z",
+      "title": "Texans face troubling trend when they play without Nico Collins",
+      "url": "https://www.espn.com/nfl/story/_/id/50021792/houston-texans-troubling-wr-nico-collins",
+      "summary": "Houston has seen a dip in scoring, and quarterback C.J. Stroud has seen his QBR decrease when targeting others.",
+      "published": "2026-09-25T10:00:08Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "qb",
       "teams": [
-        "ATL",
-        "GB"
+        "HOU"
       ]
     },
     {
-      "title": "Week 3 TNF Falcons at Packers: Highlights, key plays",
-      "url": "https://www.espn.com/nfl/story/_/id/50023086/nfl-thursday-night-football-packers-falcons-jordan-love-michael-penix",
-      "summary": "Check out the biggest touchdowns from the Falcons' big win over the Packers at Lambeau Field.",
-      "published": "2026-09-25T03:43:22Z",
+      "title": "Seahawks encouraged by Jadarian Price leading RB room",
+      "url": "https://www.espn.com/nfl/story/_/id/50024690/seattle-seahawks-running-backs-jadarian-price-rookie",
+      "summary": "Seattle's running back committee has no touchdowns through two weeks, but there's another opportunity this week at Commanders.",
+      "published": "2026-09-25T10:00:14Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL",
-        "GB"
+        "SEA",
+        "WAS"
       ]
     },
     {
-      "title": "Falcons upset Packers in Michael Penix Jr.'s return from ACL",
-      "url": "https://www.espn.com/nfl/story/_/id/50023295/nfl-green-bay-packers-atlanta-falcons-jordan-love-michael-penix",
-      "summary": "Bijan Robinson and Drake London couldn't be stopped, as Atlanta ended Green Bay's streak of 13 straight home-opening wins.",
-      "published": "2026-09-25T04:17:43Z",
+      "title": "NFL Week 3 picks, predictions, schedule, odds, fantasy tips",
+      "url": "https://www.espn.com/nfl/story/_/id/50014420/week-3-picks-predictions-schedule-fantasy-odds-2026",
+      "summary": "Jalen Hurts against Chicago? Aaron Glenn back in Detroit? Dak vs. Lamar? There are 15 more games in Week 3, and we have picks, predictions, key stats and more.",
+      "published": "2026-09-25T11:37:20Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Mike LaFleur's coaching roots fast track to NFL",
+      "url": "https://www.espn.com/nfl/story/_/id/50022961/arizona-cardinals-mike-lafleur-coaching-roots",
+      "summary": "The Shanahan-LaFleur dynamic spreads to Arizona, where new head coach Mike has taken the reins in the desert.",
+      "published": "2026-09-25T10:21:23Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "The Rams are better when both RBs get the ball",
+      "url": "https://www.espn.com/nfl/story/_/id/50020891/los-angeles-rams-blake-corum-kyren-williams-rb-split-carries",
+      "summary": "Through two weeks, Williams and Corum have nearly split the carries exactly.",
+      "published": "2026-09-25T10:00:12Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL",
-        "GB"
+        "LA"
       ]
     },
     {
