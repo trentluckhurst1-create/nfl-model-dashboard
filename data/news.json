@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-24T23:22:16.326568+00:00",
-  "checked_at_utc": "2026-09-24T23:22:16.326568+00:00",
+  "updated_at_utc": "2026-09-25T01:41:35.107799+00:00",
+  "checked_at_utc": "2026-09-25T01:41:35.107799+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
@@ -15,11 +15,38 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 18,
+      "items": 20,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Which 0-2 Team Will Turn It Around? Why We Think The Texans Are Most Likely To Do So",
+      "url": "https://www.foxsports.com/stories/nfl/which-0-2-team-will-turn-around-why-we-think-texans-most-likely-do-so",
+      "summary": "There's a chance your 0-2 team can make the playoffs, but it's pretty slim. So, which 0-2 team is the most likely to beat the odds? We each made our picks, and a common answer emerged.",
+      "published": "Thu, 24 Sep 2026 20:18:47 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU"
+      ]
+    },
+    {
+      "title": "Justin Herbert Isn't Fully To Blame For Chargers' Woes, But He Can Learn From Josh Allen",
+      "url": "https://www.foxsports.com/stories/nfl/justin-herbert-isnt-fully-to-blame-for-chargers-woes-learn-from-josh-allen",
+      "summary": "Justin Herbert enters an uphill battle to keep the Chargers' season alive this weekend against the Bills.",
+      "published": "Thu, 24 Sep 2026 20:05:25 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LAC"
+      ]
+    },
     {
       "title": "2026 NFL Odds Week 3: Lines, Spreads For All 16 Games",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-3-lines-spreads-results-all-16-games",
@@ -245,6 +272,34 @@
       ]
     },
     {
+      "title": "Week 3 TNF Falcons at Packers: Highlights, key plays",
+      "url": "https://www.espn.com/nfl/story/_/id/50023086/nfl-thursday-night-football-packers-falcons-jordan-love-michael-penix",
+      "summary": "Check out the biggest touchdowns as the Packers host the Falcons at Lambeau Field.",
+      "published": "2026-09-25T00:42:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "GB"
+      ]
+    },
+    {
+      "title": "Intrigue surrounds possible reaction by Cleveland fans to Watson as Browns, Panthers look to go 2-1",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872949",
+      "summary": "\u2014 The biggest question going into Sunday's game between the Carolina Panthers and Cleveland Browns may not be about the on-field matchups....",
+      "published": "2026-09-24T23:25:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "CLE"
+      ]
+    },
+    {
       "title": "The fallout from a blowout 2022 loss to the Rams ultimately ushered in a new era for the Broncos",
       "url": "http://www.espn.com/nfl/preview?gameId=401872962",
       "summary": "\u2014 All Courtland Sutton has to do is glance around at practice to fully grasp the level of changes since the last time the Denver Broncos played the...",
@@ -338,7 +393,7 @@
       "title": "Seahawks QB Sam Darnold: 'Striving' to make return Sunday",
       "url": "https://www.espn.com/nfl/story/_/id/50023351/seahawks-qb-sam-darnold-striving-make-return-sunday",
       "summary": "Seahawks quarterback Sam Darnold was limited Wednesday as he returned to practice after missing most of the first two games because of a glute injury.",
-      "published": "2026-09-24T23:13:01Z",
+      "published": "2026-09-25T00:55:20Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -376,30 +431,17 @@
       ]
     },
     {
-      "title": "Dolphins DE Chop Robinson clears concussion protocol",
-      "url": "https://www.espn.com/nfl/story/_/id/50022964/dolphins-de-chop-robinson-clears-concussion-protocol",
-      "summary": "Dolphins defensive end Chop Robinson has cleared the concussion protocol, he told reporters Thursday.",
-      "published": "2026-09-24T21:37:08Z",
-      "source": "ESPN NFL",
+      "title": "Previewing Packers vs. Falcons: Atlanta seeks first win of season as Michael Penix Jr. returns on 'TNF'",
+      "url": "https://www.cbssports.com/nfl/news/packers-falcons-preview-prediction-odds-how-to-watch/",
+      "summary": "Michael Penix Jr. makes his season debut for a winless Atlanta offense looking for a spark, while Green Bay tries to overcome a rash of injuries in its home opener",
+      "published": "Thu, 24 Sep 2026 23:46:28 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "MIA"
-      ]
-    },
-    {
-      "title": "Brian Daboll and the Titans visit the Giants in Jameis Winston's first start in place of Jaxson Dart",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872956",
-      "summary": "\u2014 The quarterback Brian Daboll envisioned would lead the New York Giants back to prominence is out for the rest of the season. And Daboll has not been their coach since getting fired 10...",
-      "published": "2026-09-24T20:37:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NYG",
-        "TEN"
+        "ATL",
+        "GB"
       ]
     },
     {
@@ -422,7 +464,7 @@
       "title": "Packers vs. Falcons odds, picks: Analysis, predictions, player props for Thursday Night Football in Week 3",
       "url": "https://www.cbssports.com/betting/news/packers-vs-falcons-odds-picks-analysis-predictions-player-props-for-thursday-night-football-in-week-3/",
       "summary": "Michael Penix Jr. returns under center to revive Atlanta's offense, creating prime betting value on the spread, and Drake London player props against an injury-hit Green Bay squad",
-      "published": "Thu, 24 Sep 2026 22:45:47 +0000",
+      "published": "Thu, 24 Sep 2026 23:58:58 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -507,20 +549,6 @@
       "category": "transaction",
       "teams": [
         "CLE"
-      ]
-    },
-    {
-      "title": "Previewing Packers vs. Falcons: Atlanta seeks first win of season as Michael Penix Jr. returns on 'TNF'",
-      "url": "https://www.cbssports.com/nfl/news/packers-falcons-preview-prediction-odds-how-to-watch/",
-      "summary": "Michael Penix Jr. makes his season debut for a winless Atlanta offense looking for a spark, while Green Bay tries to overcome a rash of injuries in its home opener",
-      "published": "Thu, 24 Sep 2026 21:59:17 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "GB"
       ]
     },
     {
