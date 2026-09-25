@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-25T01:41:35.107799+00:00",
-  "checked_at_utc": "2026-09-25T01:41:35.107799+00:00",
+  "updated_at_utc": "2026-09-25T06:40:31.353670+00:00",
+  "checked_at_utc": "2026-09-25T06:40:31.353670+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 12,
+      "items": 4,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,38 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 20,
+      "items": 21,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Almost Time To Pack It Up? 3 Takeaways From Falcons' Dominant Win vs. Packers",
+      "url": "https://www.foxsports.com/stories/nfl/falcons-packers-thursday-night-football-takeaways-matt-lafleur-bijan-robinson-michael-penix",
+      "summary": "Matt LaFleur is firmly on the hot seat, and other takeaways from the Falcons' dominating win over the Packers.",
+      "published": "Thu, 24 Sep 2026 23:41:24 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "GB"
+      ]
+    },
+    {
+      "title": "NFL Catchup: Saquon Barkley, DeVonta Smith On Injury Report; Cowboys Down 4 Defenders",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-saquon-barkley-devonta-smith-injury-report-cowboys-down-4-defenders",
+      "summary": "Here's the latest from around the NFL on Thursday.",
+      "published": "Thu, 24 Sep 2026 23:13:29 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DAL"
+      ]
+    },
     {
       "title": "Which 0-2 Team Will Turn It Around? Why We Think The Texans Are Most Likely To Do So",
       "url": "https://www.foxsports.com/stories/nfl/which-0-2-team-will-turn-around-why-we-think-texans-most-likely-do-so",
@@ -259,23 +286,23 @@
       ]
     },
     {
-      "title": "Sammy P Sportsbook Whispers: Ole Miss Should Beware Of The Swamp",
-      "url": "https://www.foxsports.com/stories/college-football/sammy-p-sportsbook-whispers-ole-miss-florida",
-      "summary": "Ole Miss should beware of the improved Gators and the NFL should note that the Chiefs are back in business. Here are Sammy P's latest sportsbook whispers.",
-      "published": "Wed, 23 Sep 2026 17:26:26 -0400",
-      "source": "FOX Sports NFL",
+      "title": "LaFleur at a loss for answers to Packers' offensive woes",
+      "url": "https://www.espn.com/nfl/story/_/id/50025463/lafleur-loss-answers-packers-offensive-woes",
+      "summary": "The Packers are off to their worst start in coach Matt LaFleur's eight seasons after they were booed off Lambeau Field on Thursday night.",
+      "published": "2026-09-25T06:31:44Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "KC"
+        "GB"
       ]
     },
     {
-      "title": "Week 3 TNF Falcons at Packers: Highlights, key plays",
-      "url": "https://www.espn.com/nfl/story/_/id/50023086/nfl-thursday-night-football-packers-falcons-jordan-love-michael-penix",
-      "summary": "Check out the biggest touchdowns as the Packers host the Falcons at Lambeau Field.",
-      "published": "2026-09-25T00:42:39Z",
+      "title": "Penix's return revives Falcons' attack in rout of Packers",
+      "url": "https://www.espn.com/nfl/story/_/id/50025270/penix-return-revives-falcons-attack-rout-packers",
+      "summary": "In his first game since tearing his ACL last November, Michael Penix Jr. sparked the Falcons by passing for 256 yards with a touchdown in a 35-14 rout of the Packers at Lambeau Field.",
+      "published": "2026-09-25T06:14:39Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -286,148 +313,31 @@
       ]
     },
     {
-      "title": "Intrigue surrounds possible reaction by Cleveland fans to Watson as Browns, Panthers look to go 2-1",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872949",
-      "summary": "\u2014 The biggest question going into Sunday's game between the Carolina Panthers and Cleveland Browns may not be about the on-field matchups....",
-      "published": "2026-09-24T23:25:26Z",
+      "title": "Week 3 TNF Falcons at Packers: Highlights, key plays",
+      "url": "https://www.espn.com/nfl/story/_/id/50023086/nfl-thursday-night-football-packers-falcons-jordan-love-michael-penix",
+      "summary": "Check out the biggest touchdowns from the Falcons' big win over the Packers at Lambeau Field.",
+      "published": "2026-09-25T03:43:22Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CAR",
-        "CLE"
+        "ATL",
+        "GB"
       ]
     },
     {
-      "title": "The fallout from a blowout 2022 loss to the Rams ultimately ushered in a new era for the Broncos",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872962",
-      "summary": "\u2014 All Courtland Sutton has to do is glance around at practice to fully grasp the level of changes since the last time the Denver Broncos played the...",
-      "published": "2026-09-24T23:17:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN",
-        "LA"
-      ]
-    },
-    {
-      "title": "Bills coach Brady unsatisfied with 2-0 start as Buffalo prepares to host winless Chargers",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872953",
-      "summary": "\u2014 To hear Joe Brady express his concerns, it would be easy to think the Buffalo Bills opened the season winless instead of 2-0.",
-      "published": "2026-09-24T22:59:27Z",
+      "title": "Falcons upset Packers in Michael Penix Jr.'s return from ACL",
+      "url": "https://www.espn.com/nfl/story/_/id/50023295/nfl-green-bay-packers-atlanta-falcons-jordan-love-michael-penix",
+      "summary": "Bijan Robinson and Drake London couldn't be stopped, as Atlanta ended Green Bay's streak of 13 straight home-opening wins.",
+      "published": "2026-09-25T04:17:43Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BUF",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Goose at Dodger Stadium during Padres-Dodgers recalls past wildlife interruptions",
-      "url": "https://www.espn.com/nfl/story/_/id/28074905/squirrels-cats-dogs-bees-animals-ran-loose-stadiums",
-      "summary": "A goose slid on Dodger Stadium's field during Padres-Dodgers. It's not the first time a creature stole the show at a sporting event.",
-      "published": "2026-09-24T23:00:17Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Vikes' Murray says he recovered 'pretty quickly' from Week 1 concussion",
-      "url": "https://www.espn.com/nfl/story/_/id/50023633/vikes-murray-says-recovered-pretty-quickly-week-1-concussion",
-      "summary": "Vikings quarterback Kyler Murray said he was over the symptoms from his Week 1 concussion \"pretty quickly\" and that being placed in protocol was \"just part of the process.\"",
-      "published": "2026-09-24T23:14:13Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "NFL Week 3's best arrivals, led by Jordan Love",
-      "url": "https://www.espn.com/nfl/story/_/id/50023585/nfl-week-3-fashionable-arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-09-24T23:22:03Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "A young Dolphins secondary braces for Patrick Mahomes as the Chiefs visit",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872952",
-      "summary": "\u2014 The Miami Dolphins were dismantled on defense by Kirk Cousins and Brock Purdy in the first two games of the season.",
-      "published": "2026-09-24T22:44:30Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "MIA"
-      ]
-    },
-    {
-      "title": "Seattle heads back to Washington after routing the Commanders in prime time a season ago",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872955",
-      "summary": "\u2014 If there was one night when it became clear that Washington's 2025 season was going badly awry, it was when Seattle visited on a Sunday night in early November.",
-      "published": "2026-09-24T22:26:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "WAS"
-      ]
-    },
-    {
-      "title": "Seahawks QB Sam Darnold: 'Striving' to make return Sunday",
-      "url": "https://www.espn.com/nfl/story/_/id/50023351/seahawks-qb-sam-darnold-striving-make-return-sunday",
-      "summary": "Seahawks quarterback Sam Darnold was limited Wednesday as he returned to practice after missing most of the first two games because of a glute injury.",
-      "published": "2026-09-25T00:55:20Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SEA"
-      ]
-    },
-    {
-      "title": "Eagles look to add to perfect start by stopping the Bears' rushing attack on Monday night",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872963",
-      "summary": "\u2014 The Chicago Bears made a memorable trip to Philadelphia in November, rushing for 281 yards in an impressive 24-15 victory over the Eagles.",
-      "published": "2026-09-24T21:36:37Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "PHI"
-      ]
-    },
-    {
-      "title": "49ers coach Kyle Shanahan faces another disciple in game against Cardinals coach Mike LaFleur",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872958",
-      "summary": "\u2014 San Francisco 49ers coach Kyle Shanahan said he might appreciate one day how many assistants that used to work under him have become head coaches in the NFL.",
-      "published": "2026-09-24T21:32:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "SF"
+        "ATL",
+        "GB"
       ]
     },
     {
