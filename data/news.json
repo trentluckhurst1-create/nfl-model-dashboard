@@ -1,21 +1,21 @@
 {
-  "updated_at_utc": "2026-09-25T17:20:34.548781+00:00",
-  "checked_at_utc": "2026-09-25T17:20:34.548781+00:00",
+  "updated_at_utc": "2026-09-25T20:35:26.064609+00:00",
+  "checked_at_utc": "2026-09-25T20:35:26.064609+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 7,
+      "items": 9,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 29
+      "items": 30
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 22,
+      "items": 21,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
@@ -286,23 +286,93 @@
       ]
     },
     {
-      "title": "NFL Week 3 Betting Report: Bettors Taking Note Of The Buffalo Bills",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-3-betting-report-bettors-taking-note-buffalo-bills",
-      "summary": "The public is riding with the Bills again, so now the books will need the Bolts. Patrick Everson breaks down the NFL midweek betting action.",
-      "published": "Wed, 23 Sep 2026 20:27:16 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Chiefs CB Mansoor Delane set to play after missing win over Colts",
+      "url": "https://www.espn.com/nfl/story/_/id/50028970/chiefs-cb-mansoor-delane-set-play-missing-colts-win",
+      "summary": "Chiefs coach Andy Reid says rookie cornerback Mansoor Delane, who does not have a designation on the injury report, has a \"good chance\" of playing against the Dolphins.",
+      "published": "2026-09-25T20:28:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "IND",
+        "KC",
+        "MIA"
+      ]
+    },
+    {
+      "title": "Texans WR Nico Collins (hamstring) to miss second straight game",
+      "url": "https://www.espn.com/nfl/story/_/id/50028897/texans-wr-nico-collins-hamstring-miss-second-straight-game",
+      "summary": "The Texans will be without Pro Bowl wideout Nico Collins for the second straight week when they travel to face the Colts.",
+      "published": "2026-09-25T20:32:19Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BUF"
+        "HOU",
+        "IND"
       ]
+    },
+    {
+      "title": "Vikings' Aaron Jones Sr. (knee) cleared to play vs. Buccaneers",
+      "url": "https://www.espn.com/nfl/story/_/id/50028887/vikings-aaron-jones-sr-knee-cleared-play-vs-buccaneers",
+      "summary": "Vikings RB Aaron Jones Sr. has been cleared to start Sunday against the Tampa Bay Buccaneers after leaving Week 2's win over the Bears in a knee brace.",
+      "published": "2026-09-25T20:29:03Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "MIN",
+        "TB"
+      ]
+    },
+    {
+      "title": "Bills mark Keon Coleman, DJ Moore, Ed Oliver as questionable",
+      "url": "https://www.espn.com/nfl/story/_/id/50028662/bills-mark-keon-coleman-dj-moore-ed-oliver-questionable",
+      "summary": "Bills wide receivers Keon Coleman and DJ Moore and defensive lineman Ed Oliver are questionable to play against the Chargers.",
+      "published": "2026-09-25T19:14:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BUF",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Rams targeting Week 4 return for WR Puka Nacua",
+      "url": "https://www.espn.com/nfl/story/_/id/50028567/rams-targeting-week-4-return-wr-puka-nacua",
+      "summary": "The Rams are targeting a Week 4 return for wide receiver Puka Nacua, who is doubtful to play against the Broncos.",
+      "published": "2026-09-25T19:33:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DEN",
+        "LA"
+      ]
+    },
+    {
+      "title": "NFL, NFLPA continue to monitor field conditions in Rio",
+      "url": "https://www.espn.com/nfl/story/_/id/50028554/nfl-nflpa-continue-monitor-field-conditions-rio",
+      "summary": "Field experts for the NFL and the NFL Players Association have been in Brazil for days to monitor the playing surface at Maracan\u00e3 Stadium, NFLPA executive director JC Tretter said in a lengthy statement on Friday.",
+      "published": "2026-09-25T18:53:45Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
     },
     {
       "title": "Nick Chubb retires with Browns ahead of game-day honor",
       "url": "https://www.espn.com/nfl/story/_/id/50028226/nick-chubb-retires-browns-ahead-game-day-honor",
-      "summary": "Nick Chubb returned to Cleveland to officially retire as a member of the Browns, calling it \"better closure\" after his exit following the 2024 season.",
-      "published": "2026-09-25T17:16:14Z",
+      "summary": "Nick Chubb returned to Cleveland to officially retire as a member of the Browns, calling it \"better closure\" after his exit from the team following the 2024 season.",
+      "published": "2026-09-25T17:47:35Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -315,7 +385,7 @@
       "title": "Sources: Giants' Jaxson Dart scheduled for left knee surgery Friday",
       "url": "https://www.espn.com/nfl/story/_/id/50028187/sources-giants-jaxson-dart-scheduled-left-knee-surgery-friday",
       "summary": "Giants quarterback Jaxson Dart is scheduled to undergo surgery Friday on his left knee, sources told ESPN. The belief is it will be a meniscus and MCL repair.",
-      "published": "2026-09-25T17:10:30Z",
+      "published": "2026-09-25T18:43:10Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -328,7 +398,7 @@
       "title": "Panthers scratch LB Devin Lloyd; WRs Coker, Legette questionable",
       "url": "https://www.espn.com/nfl/story/_/id/50028146/panthers-scratch-lb-devin-lloyd-wrs-coker-legette-questionable",
       "summary": "The Panthers will be without starting linebacker Devin Lloyd (calf) against the Browns, while wide receivers Jalen Coker (ankle) and Xavier Legette (knee) have been listed as questionable.",
-      "published": "2026-09-25T17:17:45Z",
+      "published": "2026-09-25T19:28:59Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -339,57 +409,85 @@
       ]
     },
     {
-      "title": "Jets' No. 1 TE Mason Taylor (thumb) out vs. high-scoring Lions",
-      "url": "https://www.espn.com/nfl/story/_/id/50027962/jets-no-1-te-mason-taylor-thumb-vs-high-scoring-lions",
-      "summary": "The Jets will be without No. 1 tight end Mason Taylor (thumb) and safety Minkah Fitzpatrick (groin) when they face the Detroit Lions on Sunday.",
-      "published": "2026-09-25T16:26:49Z",
-      "source": "ESPN NFL",
+      "title": "Why Patriots QB coach uses chicken wings to motivate Drake Maye",
+      "url": "https://www.cbssports.com/nfl/news/patriots-qb-coach-uses-chicken-wings-motivate-drake-maye/",
+      "summary": "There are apparently a lot of similarities between playing QB and eating a chicken wing",
+      "published": "Fri, 25 Sep 2026 20:15:01 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "NFL likely to shut down rulebook loophole Eagles have been exploiting for the past two weeks",
+      "url": "https://www.cbssports.com/nfl/news/nfl-likely-to-shut-down-rulebook-kickoff-loophole-eagles/",
+      "summary": "Philadelphia and other teams have added a 12th man on kickoffs to hold the ball on the ground",
+      "published": "Fri, 25 Sep 2026 20:01:42 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET",
-        "NYJ"
+        "PHI"
       ]
     },
     {
-      "title": "Dolphins' leading receiver Caleb Douglas out vs. Chiefs",
-      "url": "https://www.espn.com/nfl/story/_/id/50027869/dolphins-leading-receiver-caleb-douglas-vs-chiefs",
-      "summary": "Dolphins wide receiver Caleb Douglas will miss Sunday's game against the Chiefs, coach Jeff Hafley said Friday, leaving Miami without its leading receiver for at least this week.",
-      "published": "2026-09-25T16:12:56Z",
-      "source": "ESPN NFL",
+      "title": "NFLPA chief addresses Cowboys-Ravens field concerns in Brazil, questions standards for international games",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-vs-ravens-field-conditions-nfl-brazil-game/",
+      "summary": "JC Tretter expressed concern about the NFL expanding its international slate, among other issues",
+      "published": "Fri, 25 Sep 2026 19:50:27 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "KC",
-        "MIA"
+        "BAL",
+        "DAL"
       ]
     },
     {
-      "title": "Sources: 49ers' Nick Bosa injures calf, to miss multiple weeks",
-      "url": "https://www.espn.com/nfl/story/_/id/50027742/sources-49ers-nick-bosa-injures-calf-miss-multiple-weeks",
-      "summary": "Five-time Pro Bowl defensive end Nick Bosa pulled his calf during practice and is expected to miss a few weeks for the 49ers, sources told ESPN and NFL Network.",
-      "published": "2026-09-25T17:11:40Z",
-      "source": "ESPN NFL",
+      "title": "Giants-Titans weather: MetLife Stadium conditions expected to be rainy and windy for Week 3 game",
+      "url": "https://www.cbssports.com/nfl/news/giants-titans-weather-nasty-conditions-week-3-game/",
+      "summary": "Here's how wind and rain could impact Sunday's game between New York and Tennessee",
+      "published": "Fri, 25 Sep 2026 19:40:52 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "TEN"
+      ]
+    },
+    {
+      "title": "What is Puka Nacua's status for Rams' Week 3 showdown at Broncos?",
+      "url": "https://www.cbssports.com/nfl/news/what-is-puka-nacuas-status-rams-week-3-broncos/",
+      "summary": "Nacua missed Week 2 with a hip injury and is struggling to get healthy",
+      "published": "Fri, 25 Sep 2026 19:16:05 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "SF"
+        "DEN",
+        "LA"
       ]
     },
     {
-      "title": "What's next for Jayden Daniels, Commanders after elbow injury?",
-      "url": "https://www.espn.com/nfl/story/_/id/50000042/washington-commanders-jayden-daniels-dislocated-elbow-injury-cowboys",
-      "summary": "Experts weigh in on Daniels' latest injury and what it means for him, the Commanders and their collective futures.",
-      "published": "2026-09-25T14:57:43Z",
-      "source": "ESPN NFL",
+      "title": "Bengals' Joe Flacco sets record straight on trade rumors to Giants after Jaxson Dart injury",
+      "url": "https://www.cbssports.com/nfl/news/bengals-joe-flacco-trade-rumors-giants/",
+      "summary": "What the veteran backup said about his name being attached to speculation",
+      "published": "Fri, 25 Sep 2026 17:54:09 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "WAS"
+        "CIN",
+        "NYG"
       ]
     },
     {
@@ -541,7 +639,7 @@
       "title": "Will Brinson's NFL Week 3 predictions, picks: Best bets, player props, anytime touchdown scorers for Sunday",
       "url": "https://www.cbssports.com/betting/news/will-brinsons-nfl-week-3-predictions-picks-best-bets-player-props-anytime-touchdown-scorers-for-sunday/",
       "summary": "Backing road favorites, trusting elite defenses to dominate backup quarterbacks and finding value on key underdogs lead this week's top wagers",
-      "published": "Fri, 25 Sep 2026 15:59:58 +0000",
+      "published": "Fri, 25 Sep 2026 18:05:25 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -723,74 +821,6 @@
       "category": "qb",
       "teams": [
         "DAL"
-      ]
-    },
-    {
-      "title": "Previewing Packers vs. Falcons: Atlanta seeks first win of season as Michael Penix Jr. returns on 'TNF'",
-      "url": "https://www.cbssports.com/nfl/news/packers-falcons-preview-prediction-odds-how-to-watch/",
-      "summary": "Michael Penix Jr. makes his season debut for a winless Atlanta offense looking for a spark, while Green Bay tries to overcome a rash of injuries in its home opener",
-      "published": "Thu, 24 Sep 2026 23:46:28 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "GB"
-      ]
-    },
-    {
-      "title": "Packers vs. Falcons odds, picks: Analysis, predictions, player props for Thursday Night Football in Week 3",
-      "url": "https://www.cbssports.com/betting/news/packers-vs-falcons-odds-picks-analysis-predictions-player-props-for-thursday-night-football-in-week-3/",
-      "summary": "Michael Penix Jr. returns under center to revive Atlanta's offense, creating prime betting value on the spread, and Drake London player props against an injury-hit Green Bay squad",
-      "published": "Thu, 24 Sep 2026 23:58:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "GB"
-      ]
-    },
-    {
-      "title": "Packers vs. Falcons prediction, odds, line: Thursday Night Football picks, betting preview",
-      "url": "https://www.cbssports.com/betting/news/packers-falcons-prediction-odds-line-thursday-night-football-picks-betting-preview/",
-      "summary": "Best bets and betting preview for Falcons vs. Packers on Thursday Night Football",
-      "published": "Thu, 24 Sep 2026 22:26:26 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "GB"
-      ]
-    },
-    {
-      "title": "Ja'Marr Chase plans to appeal NFL celebration fine, calls for NFLPA to fight for players' money",
-      "url": "https://www.cbssports.com/nfl/news/bengals-jamarr-chase-nfl-celebration-fine-2026/",
-      "summary": "Chase and Bengals teammate Tee Higgins were among several players punished for celebrations in Week 2",
-      "published": "Thu, 24 Sep 2026 21:29:42 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN"
-      ]
-    },
-    {
-      "title": "Back to the drawing board? Jaguars prepare to boost Travis Hunter's offensive usage after quiet start",
-      "url": "https://www.cbssports.com/nfl/news/jaguars-now-looking-to-get-travis-hunter-more-involved-on-offense/",
-      "summary": "Liam Coen provided some interesting commentary on the two-way player following the Week 2 loss to Denver",
-      "published": "Thu, 24 Sep 2026 21:07:13 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX"
       ]
     }
   ],
