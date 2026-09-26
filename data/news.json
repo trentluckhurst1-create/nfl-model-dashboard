@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-09-26T12:17:48.566595+00:00",
-  "checked_at_utc": "2026-09-26T12:17:48.566595+00:00",
+  "updated_at_utc": "2026-09-26T16:31:42.207251+00:00",
+  "checked_at_utc": "2026-09-26T16:31:42.207251+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 6,
+      "items": 4,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 33
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -218,6 +218,20 @@
       ]
     },
     {
+      "title": "Rio field gets final touches, 'no need to worry' NFL says",
+      "url": "https://www.espn.com/nfl/story/_/id/50033509/rio-field-gets-final-touches-no-need-worry-nfl-says",
+      "summary": "NFL field director Nick Pappas said Saturday that the league has made additional improvements to the Rio field and that \"things check out\" ahead of Sunday's game between the Ravens and Cowboys.",
+      "published": "2026-09-26T15:37:03Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
       "title": "NFL Week 3 predictions: Upsets, fantasy sleepers, stat lines",
       "url": "https://www.espn.com/nfl/story/_/id/50014402/week-3-predictions-upsets-fantasy-sleepers-stats-2026",
       "summary": "Touchdowns for Kenneth Walker III and Xavier Worthy? The Broncos pulling an upset of the Rams? Fantasy value for C.J. Stroud? And a big day from Geno Smith?",
@@ -257,42 +271,81 @@
       "teams": []
     },
     {
-      "title": "Giants' offense about to 'shift' with Jameis Winston",
-      "url": "https://www.espn.com/nfl/story/_/id/50028858/new-york-giants-offense-shift-qb-jameis-winston-jaxson-dart",
-      "summary": "The Giants' offense was starting to take shape with Dart as QB, but now Winston has to take over for the rest of the season.",
-      "published": "2026-09-26T10:00:12Z",
-      "source": "ESPN NFL",
+      "title": "NFL player props Week 3 2026: Best prop picks for Sunday's NFL games include Josh Allen, Patrick Mahomes",
+      "url": "https://www.cbssports.com/betting/news/nfl-player-props-week-3-2026-best-prop-picks-for-sundays-nfl-games-include-josh-allen-patrick-mahomes/",
+      "summary": "Bet on NFL player props Week 3 at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
+      "published": "Sat, 26 Sep 2026 16:25:33 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Deion Sanders puzzled by Travis Hunter's role with Jaguars: 'I have no idea what's going on'",
+      "url": "https://www.cbssports.com/nfl/news/deion-sanders-travis-hunter-role-with-jaguars/",
+      "summary": "The Colorado coach is keeping up with his former player in the NFL",
+      "published": "Sat, 26 Sep 2026 16:13:27 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Is Zay Flowers playing vs. Cowboys in Week 3? Ravens WR could be on pitch count if he suits up, per report",
+      "url": "https://www.cbssports.com/nfl/news/zay-flowers-cowboys-week-3-ravens-wr-status/",
+      "summary": "Flowers is officially listed as questionable due to a hamstring injury",
+      "published": "Sat, 26 Sep 2026 15:57:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Will Brinson's NFL Week 3 best bets: Odds, player props, anytime touchdown scorers for Sunday from expert",
+      "url": "https://www.cbssports.com/betting/news/will-brinsons-nfl-week-3-best-bets-odds-player-props-anytime-touchdown-scorers-for-sunday-from-expert/",
+      "summary": "Backing road favorites, trusting elite defenses to dominate backup quarterbacks and finding value on key underdogs lead this week's top wagers",
+      "published": "Sat, 26 Sep 2026 15:19:00 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Giants quarterback trade rumors: New York has made calls this week with a move possibly imminent",
+      "url": "https://www.cbssports.com/nfl/news/giants-qb-trade-rumors/",
+      "summary": "Jaxson Dart underwent season-ending knee surgery this week",
+      "published": "Sat, 26 Sep 2026 15:03:23 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
       "teams": [
         "NYG"
       ]
     },
     {
-      "title": "'Growing pains': What's going on with the Chargers' offense?",
-      "url": "https://www.espn.com/nfl/story/_/id/50024098/los-angeles-chargers-offense-troubles-jim-harbaugh-mike-mcdaniel",
-      "summary": "Is the Chargers' offense too complicated for the team? What's going wrong with McDaniels' scheme in L.A.",
-      "published": "2026-09-26T10:00:12Z",
-      "source": "ESPN NFL",
+      "title": "Week 3 NFL betting odds, lines, totals, spreads, for all 16 games, including Steelers-Bengals, Ravens-Cowboys",
+      "url": "https://www.cbssports.com/betting/news/week-3-nfl-betting-odds-spreads-lines-totals/",
+      "summary": "The Week 3 NFL schedule features 16 games, including Bengals vs. Steelers and Ravens vs. Cowboys on Sunday",
+      "published": "Sat, 26 Sep 2026 14:49:13 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "How has Nakobe Dean reshaped the Raiders' defense?",
-      "url": "https://www.espn.com/nfl/story/_/id/50017164/las-vegas-raiders-defense-nakobe-dean-2026-season",
-      "summary": "Nakobe Dean has stepped up in a big way to lead the Raiders' defense through two weeks.",
-      "published": "2026-09-26T10:00:02Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LV"
+        "BAL",
+        "CIN",
+        "DAL",
+        "PIT"
       ]
     },
     {
@@ -451,33 +504,6 @@
       ]
     },
     {
-      "title": "Week 3 NFL score predictions, picks, odds: Advanced model reveals projections for every game",
-      "url": "https://www.cbssports.com/betting/news/week-3-nfl-score-predictions-picks-odds-advanced-model-reveals-projections-every-game/",
-      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
-      "published": "Fri, 25 Sep 2026 15:50:33 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 Week 3 NFL odds, lines, start times, schedule: Picks, predictions for Rams-Broncos, every other game",
-      "url": "https://www.cbssports.com/betting/news/2026-week-3-nfl-odds-lines-start-times-schedule-picks-predictions-rams-broncos-every-other-game/",
-      "summary": "Week 3 features an international Cowboys-Ravens showdown and two primetime games carrying major quarterback storylines",
-      "published": "Fri, 25 Sep 2026 15:46:39 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "DAL",
-        "DEN",
-        "LA"
-      ]
-    },
-    {
       "title": "Packers' problems run deep as Matt LaFleur admits offense has lost its identity",
       "url": "https://www.cbssports.com/nfl/news/whats-wrong-packers-2026-matt-lafleur/",
       "summary": "Green Bay's offensive line cannot protect Jordan Love or create running lanes, while poor tackling and costly mistakes have compounded its 1-2 start",
@@ -489,17 +515,6 @@
       "teams": [
         "GB"
       ]
-    },
-    {
-      "title": "Week 3 NFL betting promos: Earn nearly $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-3-nfl-betting-promos-earn-nearly-3000-in-bonuses-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 3 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Fri, 25 Sep 2026 15:27:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "NFL Week 3 picks: Our experts face off on Texans at Colts, Ravens vs. Cowboys and more",
@@ -532,33 +547,6 @@
         "NO",
         "SEA"
       ]
-    },
-    {
-      "title": "Week 3 NFL betting odds, lines, totals, spreads, for all 16 games, including Steelers-Bengals, Ravens-Cowboys",
-      "url": "https://www.cbssports.com/betting/news/week-3-nfl-betting-odds-lines-spreads-totals/",
-      "summary": "The Week 3 NFL schedule features 16 games, including Bengals vs. Steelers and Ravens vs. Cowboys on Sunday",
-      "published": "Fri, 25 Sep 2026 15:12:22 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "CIN",
-        "DAL",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Will Brinson's NFL Week 3 predictions, picks: Best bets, player props, anytime touchdown scorers for Sunday",
-      "url": "https://www.cbssports.com/betting/news/will-brinsons-nfl-week-3-predictions-picks-best-bets-player-props-anytime-touchdown-scorers-for-sunday/",
-      "summary": "Backing road favorites, trusting elite defenses to dominate backup quarterbacks and finding value on key underdogs lead this week's top wagers",
-      "published": "Fri, 25 Sep 2026 18:05:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
     },
     {
       "title": "NFL Week 3's most underrated games: Why you should watch these three under-the-radar contests",
@@ -642,7 +630,7 @@
       "title": "NFL Week 3 odds, best bets, expert picks: Who has edge in Rams-Broncos? Will Texans earn first win?",
       "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-3-picks-odds-rams-broncos/",
       "summary": "Our complete Week 3 betting guide features expert picks for every matchup, including Ravens-Cowboys in Rio de Janeiro",
-      "published": "Fri, 25 Sep 2026 13:45:06 +0000",
+      "published": "Sat, 26 Sep 2026 14:10:20 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
