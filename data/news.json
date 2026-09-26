@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-09-26T16:31:42.207251+00:00",
-  "checked_at_utc": "2026-09-26T16:31:42.207251+00:00",
+  "updated_at_utc": "2026-09-26T19:20:38.118276+00:00",
+  "checked_at_utc": "2026-09-26T19:20:38.118276+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 4,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -218,6 +218,60 @@
       ]
     },
     {
+      "title": "Bears QB Williams out for MNF; backup Bagent back at practice",
+      "url": "https://www.espn.com/nfl/story/_/id/50034949/bears-qb-williams-mnf-backup-bagent-back-practice",
+      "summary": "Bears QB Caleb Williams is out for Monday's game against the Eagles while backup Tyson Bagent returned to the practice field while still in the concussion protocol.",
+      "published": "2026-09-26T19:19:13Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Jets elevate Sterling Shepard with Adonai Mitchell in question",
+      "url": "https://www.espn.com/nfl/story/_/id/50034943/jets-elevate-sterling-shepard-adonai-mitchell-question",
+      "summary": "The Jets promoted veteran Sterling Shepard from the practice squad, as starting WR Adonai Mitchell is questionable with a finger injury, and three other Jets receivers are on injured reserve.",
+      "published": "2026-09-26T19:16:18Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Sources: Packers sign OG Tomlinson off Cowboys' practice squad",
+      "url": "https://www.espn.com/nfl/story/_/id/50034608/sources-packers-sign-og-tomlinson-cowboys-practice-squad",
+      "summary": "The Packers have added some much-needed offensive line help by signing veteran guard Laken Tomlinson off the Cowboys' practice squad, according to the NFL Network's Ian Rapoport and Mike Garafolo.",
+      "published": "2026-09-26T18:52:22Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DAL",
+        "GB"
+      ]
+    },
+    {
+      "title": "Colts officially place WR Alec Pierce on IR with heel issue",
+      "url": "https://www.espn.com/nfl/story/_/id/50034054/colts-officially-place-wr-alec-pierce-ir-heel-issue",
+      "summary": "The Colts officially placed receiver Alec Pierce on injured reserve Saturday, starting the clock on a potential return as he attempts to rehab and rejoin the lineup.",
+      "published": "2026-09-26T16:59:20Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
       "title": "Rio field gets final touches, 'no need to worry' NFL says",
       "url": "https://www.espn.com/nfl/story/_/id/50033509/rio-field-gets-final-touches-no-need-worry-nfl-says",
       "summary": "NFL field director Nick Pappas said Saturday that the league has made additional improvements to the Rio field and that \"things check out\" ahead of Sunday's game between the Ravens and Cowboys.",
@@ -232,43 +286,94 @@
       ]
     },
     {
-      "title": "NFL Week 3 predictions: Upsets, fantasy sleepers, stat lines",
-      "url": "https://www.espn.com/nfl/story/_/id/50014402/week-3-predictions-upsets-fantasy-sleepers-stats-2026",
-      "summary": "Touchdowns for Kenneth Walker III and Xavier Worthy? The Broncos pulling an upset of the Rams? Fantasy value for C.J. Stroud? And a big day from Geno Smith?",
-      "published": "2026-09-26T10:44:29Z",
-      "source": "ESPN NFL",
+      "title": "NFL threatens Texans' Azeez Al-Shaair over messaging: Here's what the rulebook says",
+      "url": "https://www.cbssports.com/nfl/news/nfl-threatens-texans-azeez-al-shaair-over-messaging/",
+      "summary": "The league is annoyed by Al-Shaair using his eye black for political awareness",
+      "published": "Sat, 26 Sep 2026 19:09:54 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
+        "HOU"
+      ]
+    },
+    {
+      "title": "NFL injury report for Week 3: Updates on Caleb Williams, Puka Nacua, Sam Darnold, Nick Bosa, and more",
+      "url": "https://www.cbssports.com/nfl/news/nfl-injury-report-for-week-3/",
+      "summary": "Every team's final injury report and game statuses for Week 3",
+      "published": "Sat, 26 Sep 2026 19:07:00 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "Tyson Bagent returns to practice opening door for Bears QB to possibly start vs. Eagles in Week 3",
+      "url": "https://www.cbssports.com/nfl/news/tyson-bagent-practice-bears-qb-week-3-vs-eagles/",
+      "summary": "If Bagent can't go, Case Keenum would be Chicago's starter",
+      "published": "Sat, 26 Sep 2026 19:04:14 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Week 3 NFL score predictions, picks, odds: Advanced model reveals projections for every game this weekend",
+      "url": "https://www.cbssports.com/betting/news/week-3-nfl-score-predictions-picks-odds-advanced-model-reveals-projections-every-game-this-weekend/",
+      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
+      "published": "Sat, 26 Sep 2026 18:30:58 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 Week 3 NFL odds, lines, start times, schedule: Picks, predictions for Broncos-Rams, every other game",
+      "url": "https://www.cbssports.com/betting/news/2026-week-3-nfl-odds-lines-start-times-schedule-picks-predictions-broncos-rams-every-other-game/",
+      "summary": "Week 3 features an international Cowboys-Ravens showdown and two primetime games carrying major quarterback storylines",
+      "published": "Sat, 26 Sep 2026 18:15:49 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL",
+        "DAL",
         "DEN",
         "LA"
       ]
     },
     {
-      "title": "What to expect from the much-anticipated Giants-Daboll reunion",
-      "url": "https://www.espn.com/nfl/story/_/id/50028799/what-expect-new-york-giants-brian-daboll-tennessee-titans-reunion",
-      "summary": "All eyes will be on former Giants coach Brian Daboll, who returns to New York as the Titans' offensive coordinator.",
-      "published": "2026-09-26T10:00:01Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "TEN"
-      ]
-    },
-    {
-      "title": "The unshakable bond between Aaron Glenn and Dan Campbell",
-      "url": "https://www.espn.com/nfl/story/_/id/50021504/new-york-jets-detroit-lions-dan-campbell-aaron-glenn-coaches-bond",
-      "summary": "Aaron Glenn and Dan Campbell grew up playing and then coaching in the NFL. When Campbell made Glenn his DC, their bond was sealed.",
-      "published": "2026-09-26T10:00:12Z",
-      "source": "ESPN NFL",
+      "title": "Week 3 NFL betting promos: Get nearly $3,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/week-3-nfl-betting-promos-get-nearly-3000-in-bonuses-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 3 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Sat, 26 Sep 2026 17:30:48 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
+    },
+    {
+      "title": "NFL clears the air on field condition concerns for Ravens-Cowboys Week 3 matchup in Brazil",
+      "url": "https://www.cbssports.com/nfl/news/nfl-clears-the-air-on-field-condition-concerns-for-ravens-cowboys-week-3-matchup-in-brazil/",
+      "summary": "Baltimore and Dallas will kick off from Maracana Stadium in Rio de Janeiro, Brazil, Sunday on CBS",
+      "published": "Sat, 26 Sep 2026 16:35:12 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
     },
     {
       "title": "NFL player props Week 3 2026: Best prop picks for Sunday's NFL games include Josh Allen, Patrick Mahomes",
@@ -347,17 +452,6 @@
         "DAL",
         "PIT"
       ]
-    },
-    {
-      "title": "NFL injury report for Week 3: Updates on Puka Nacua, Sam Darnold, Nick Bosa, Joey Porter and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-injury-report-for-week-3/",
-      "summary": "Every team's final injury report and game statuses for Week 3",
-      "published": "Sat, 26 Sep 2026 00:43:29 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
     },
     {
       "title": "NFL Week 3 picks, best bets: Broncos upset Rams, Bills rout Chargers",
@@ -623,105 +717,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "GB"
-      ]
-    },
-    {
-      "title": "NFL Week 3 odds, best bets, expert picks: Who has edge in Rams-Broncos? Will Texans earn first win?",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-3-picks-odds-rams-broncos/",
-      "summary": "Our complete Week 3 betting guide features expert picks for every matchup, including Ravens-Cowboys in Rio de Janeiro",
-      "published": "Sat, 26 Sep 2026 14:10:20 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "DAL",
-        "DEN",
-        "HOU",
-        "LA"
-      ]
-    },
-    {
-      "title": "Packers' Tucker Kraft responds to boos at Lambeau Field: 'It's not going to help us win'",
-      "url": "https://www.cbssports.com/nfl/news/packers-tucker-kraft-responds-to-boos-at-lambeau-field/",
-      "summary": "Kraft didn't appreciate the reception from the home crowd during the team's loss to the Falcons",
-      "published": "Fri, 25 Sep 2026 13:28:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "GB"
-      ]
-    },
-    {
-      "title": "Week 3 2026 bold predictions: Lackluster Steelers force multiple turnovers against Joe Burrow",
-      "url": "https://www.cbssports.com/nfl/news/week-3-2026-nfl-bold-predictions/",
-      "summary": "Plus, Kenneth Walker III goes off against a tanking Dolphins team",
-      "published": "Fri, 25 Sep 2026 13:14:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIA",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Falcons shred Packers in Michael Penix Jr.'s return; MLB and WNBA playoffs take shape",
-      "url": "https://www.cbssports.com/nfl/news/falcons-packers-michael-penix-mlb-wnba-playoffs/",
-      "summary": "Plus picks for every marquee matchup on a loaded college football Week 4 slate",
-      "published": "Fri, 25 Sep 2026 12:45:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "GB"
-      ]
-    },
-    {
-      "title": "Chargers' offense has been abysmal through two weeks. Here's what's fixable and what's frankly not",
-      "url": "https://www.cbssports.com/nfl/news/nfl-2026-how-to-fix-chargers-offense/",
-      "summary": "Two games in, the Chargers' offense has been a disaster. Let's go under the hood and find out what's wrong.",
-      "published": "Fri, 25 Sep 2026 12:20:00 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "Ranking all-time Cowboys quarterbacks: Dak Prescott climbs record book, but two legends remain ahead",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-qb-rankings-2026-dak-prescott/",
-      "summary": "After passing Tony Romo with his 249th touchdown, Prescott stands first in team history in a slew of statistical categories",
-      "published": "Fri, 25 Sep 2026 11:53:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Previewing Packers vs. Falcons: Atlanta seeks first win of season as Michael Penix Jr. returns on 'TNF'",
-      "url": "https://www.cbssports.com/nfl/news/packers-falcons-preview-prediction-odds-how-to-watch/",
-      "summary": "Michael Penix Jr. makes his season debut for a winless Atlanta offense looking for a spark, while Green Bay tries to overcome a rash of injuries in its home opener",
-      "published": "Thu, 24 Sep 2026 23:46:28 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
         "GB"
       ]
     }
