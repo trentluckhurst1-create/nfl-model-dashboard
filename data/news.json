@@ -1,25 +1,38 @@
 {
-  "updated_at_utc": "2026-09-25T23:31:47.156329+00:00",
-  "checked_at_utc": "2026-09-25T23:31:47.156329+00:00",
+  "updated_at_utc": "2026-09-26T01:55:46.587548+00:00",
+  "checked_at_utc": "2026-09-26T01:55:46.587548+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 9,
+      "items": 6,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 30
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 16,
+      "items": 15,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Will Hill's Parlay Of The Week: Ravens In Brazil, Unders In College Football Slate",
+      "url": "https://www.foxsports.com/stories/betting/will-hill-parlay-nfl-college-football-ravens-usc-michigan-oklahoma-iowa",
+      "summary": "Check out Will Hill's five-leg parlay that could win you some extra cash this weekend.",
+      "published": "Fri, 25 Sep 2026 20:44:42 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL"
+      ]
+    },
     {
       "title": "2026 NFL, College Football Odds: Best Bets For Ole Miss-Florida, Chargers-Bills",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-college-football-odds-best-bets-ole-miss-florida-chargers-bills",
@@ -205,28 +218,6 @@
       ]
     },
     {
-      "title": "2026 NFL Week 3 Picks: Best Bets For Every Game \u2014 Will's Wagers",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-3-picks-best-bets-every-game-wills-wagers",
-      "summary": "Will Hill is back with his wagers for every NFL Week 3 game. Here's where he's putting his money.",
-      "published": "Thu, 24 Sep 2026 14:11:14 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "How People Around NFL Are Reacting To Young QB Injuries: 'Holy S---! What Is Going On?'",
-      "url": "https://www.foxsports.com/stories/nfl/how-people-around-nfl-reacting-young-qb-injuries-holy-s-what-going-on",
-      "summary": "We asked people around the NFL what they thought about those injuries and what future concerns they might have about Caleb Williams, Jayden Daniels and Jaxson Dart.",
-      "published": "Thu, 24 Sep 2026 12:22:43 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
       "title": "Eagles' Saquon Barkley to be 'fearless' vs. Bears despite stinger",
       "url": "https://www.espn.com/nfl/story/_/id/50029598/eagles-saquon-barkley-fearless-vs-bears-stinger",
       "summary": "Eagles running back Saquon Barkley plans to play \"fearless\" Monday night against the Chicago Bears as he eyes a return from a stinger injury.",
@@ -244,7 +235,7 @@
       "title": "QB Sam Darnold back Sunday, but Seahawks down two safeties",
       "url": "https://www.espn.com/nfl/story/_/id/50029379/qb-sam-darnold-back-sunday-seahawks-two-safeties",
       "summary": "Seahawks quarterback Sam Darnold will start Sunday, but the defending Super Bowl champions will be without both starting safeties as Julian Love and Ty Okada have been ruled out.",
-      "published": "2026-09-25T22:25:25Z",
+      "published": "2026-09-26T00:40:30Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -312,43 +303,31 @@
       ]
     },
     {
-      "title": "Bills mark Keon Coleman, DJ Moore, Ed Oliver as questionable",
-      "url": "https://www.espn.com/nfl/story/_/id/50028662/bills-mark-keon-coleman-dj-moore-ed-oliver-questionable",
-      "summary": "Bills wide receivers Keon Coleman and DJ Moore and defensive lineman Ed Oliver are questionable to play against the Chargers.",
-      "published": "2026-09-25T19:14:30Z",
-      "source": "ESPN NFL",
+      "title": "NFL injury report for Week 3: Updates on Puka Nacua, Sam Darnold, Nick Bosa, Joey Porter and more",
+      "url": "https://www.cbssports.com/nfl/news/nfl-injury-report-for-week-3/",
+      "summary": "Every team's final injury report and game statuses for Week 3",
+      "published": "Sat, 26 Sep 2026 00:43:29 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
-      "teams": [
-        "BUF",
-        "LAC"
-      ]
+      "teams": []
     },
     {
-      "title": "Rams targeting Week 4 return for WR Puka Nacua",
-      "url": "https://www.espn.com/nfl/story/_/id/50028567/rams-targeting-week-4-return-wr-puka-nacua",
-      "summary": "The Rams are targeting a Week 4 return for wide receiver Puka Nacua, who is doubtful to play against the Broncos.",
-      "published": "2026-09-25T19:33:10Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN",
-        "LA"
-      ]
-    },
-    {
-      "title": "NFL, NFLPA continue to monitor field conditions in Rio",
-      "url": "https://www.espn.com/nfl/story/_/id/50028554/nfl-nflpa-continue-monitor-field-conditions-rio",
-      "summary": "Field experts for the NFL and the NFL Players Association have been in Brazil for days to monitor the playing surface at Maracan\u00e3 Stadium, NFLPA executive director JC Tretter said in a lengthy statement on Friday.",
-      "published": "2026-09-25T18:53:45Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 3 picks, best bets: Broncos upset Rams, Bills rout Chargers",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-picks-odds-best-bets-broncos-will-upset-rams/",
+      "summary": "Jordan Dajani gives his picks for Week 3 of the 2026 NFL season",
+      "published": "Sat, 26 Sep 2026 00:03:58 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "BUF",
+        "DEN",
+        "LA",
+        "LAC"
+      ]
     },
     {
       "title": "Why Patriots QB coach uses chicken wings to motivate Drake Maye",
@@ -640,20 +619,6 @@
       ]
     },
     {
-      "title": "NFL Week 3 ATS picks, odds, best bets: Why the Broncos will upset Rams in primetime",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-picks-odds-best-bets-broncos-will-upset-rams/",
-      "summary": "Jordan Dajani gives his picks for Week 3 of the 2026 NFL season",
-      "published": "Fri, 25 Sep 2026 14:11:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "LA"
-      ]
-    },
-    {
       "title": "Jayden Daniels injury update: Commanders QB will avoid injured reserve after dislocating elbow",
       "url": "https://www.cbssports.com/nfl/news/jayden-daniels-injury-update-commanders-qb-elbow-2026/",
       "summary": "Daniels is considered week-to-week and will miss Sunday's game against the Seahawks, with Marcus Mariota set to start for 0-2 Washington",
@@ -763,6 +728,20 @@
       "category": "qb",
       "teams": [
         "DAL"
+      ]
+    },
+    {
+      "title": "Previewing Packers vs. Falcons: Atlanta seeks first win of season as Michael Penix Jr. returns on 'TNF'",
+      "url": "https://www.cbssports.com/nfl/news/packers-falcons-preview-prediction-odds-how-to-watch/",
+      "summary": "Michael Penix Jr. makes his season debut for a winless Atlanta offense looking for a spark, while Green Bay tries to overcome a rash of injuries in its home opener",
+      "published": "Thu, 24 Sep 2026 23:46:28 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "GB"
       ]
     }
   ],
