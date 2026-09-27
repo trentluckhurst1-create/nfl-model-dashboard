@@ -1,247 +1,43 @@
 {
-  "updated_at_utc": "2026-09-27T19:08:29.086607+00:00",
-  "checked_at_utc": "2026-09-27T19:08:29.086607+00:00",
+  "updated_at_utc": "2026-09-27T22:09:45.539619+00:00",
+  "checked_at_utc": "2026-09-27T22:09:45.539619+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 8,
+      "items": 16,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 22
+      "items": 21
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 18,
+      "items": 2,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Jay Glazer: Giants Plan To Be \u2018Pretty Aggressive\u2019 In Search For QB Upgrade",
-      "url": "https://www.foxsports.com/stories/nfl/jay-glazer-giants-pretty-aggressive-search-qb-upgrade",
-      "summary": "On \u201cFOX NFL Sunday,\" insider Jay Glazer reported on the Giants' QB options, with one former New York signal-caller near the top of the list.",
-      "published": "Sun, 27 Sep 2026 13:14:43 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Case Keenum To Start At QB For Bears Against Eagles Instead Of Tyson Bagent",
-      "url": "https://www.foxsports.com/stories/nfl/case-keenum-start-qb-bears-against-eagles-instead-tyson-bagent",
-      "summary": "Tyson Bagent has fully cleared the league's concussion protocol, but the Chicago Bears won't start him at quarterback on Monday.",
-      "published": "Sun, 27 Sep 2026 13:01:59 -0400",
+      "title": "Dolphins Fear Major Knee Injury For RB De'Von Achane: 'It Does Not Sound Optimistic'",
+      "url": "https://www.foxsports.com/stories/nfl/dolphins-devon-achance-knee-injury-update",
+      "summary": "Miami Dolphins head coach Jeff Hafley delivered a grim update on star running back De'Von Achane's knee injury, saying \"it does not sound optimistic.\"",
+      "published": "Sun, 27 Sep 2026 17:09:18 -0400",
       "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "CHI",
-        "PHI"
-      ]
-    },
-    {
-      "title": "The Two-Way Impact: How Backup QBs Alter Offensive And Defensive Game Plans",
-      "url": "https://www.foxsports.com/stories/nfl/how-qb-changes-alter-offenses-defensive-game-plans",
-      "summary": "On \"FOX NFL Kickoff,\" analysts Charles Woodson and Julian Edelman broke down how a QB change forces both sides of the ball to adjust.",
-      "published": "Sun, 27 Sep 2026 12:33:24 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Odds Week 3: Lines, Spreads, Results For All 16 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-3-lines-spreads-results-all-16-games",
-      "summary": "Check out the odds for every NFL Week 3 contest.",
-      "published": "Sun, 27 Sep 2026 11:09:04 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "How to Watch Rams vs. Broncos: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-rams-vs-broncos-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Los Angeles Rams and Denver Broncos game.",
-      "published": "Sun, 27 Sep 2026 07:51:07 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "LA"
-      ]
-    },
-    {
-      "title": "How to Watch Raiders vs. Saints: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-raiders-vs-saints-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Raiders and Saints game.",
-      "published": "Sun, 27 Sep 2026 07:50:38 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LV",
-        "NO"
-      ]
-    },
-    {
-      "title": "How to Watch Bengals vs. Steelers: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-bengals-vs-steelers-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Cincinnati Bengals and Pittsburgh Steelers game.",
-      "published": "Sun, 27 Sep 2026 07:49:44 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "PIT"
-      ]
-    },
-    {
-      "title": "How to Watch Texans vs. Colts: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-texans-vs-colts-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Texans and Colts game.",
-      "published": "Sun, 27 Sep 2026 07:48:25 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND"
-      ]
-    },
-    {
-      "title": "How to Watch Patriots vs. Jaguars: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-patriots-vs-jaguars-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Patriots and Jaguars game.",
-      "published": "Sun, 27 Sep 2026 07:48:09 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX",
-        "NE"
-      ]
-    },
-    {
-      "title": "How to Watch Titans vs. Giants: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-titans-vs-giants-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Tennessee Titans and New York Giants game.",
-      "published": "Sun, 27 Sep 2026 07:47:53 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "TEN"
-      ]
-    },
-    {
-      "title": "How to Watch Chiefs vs. Dolphins: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-chiefs-vs-dolphins-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Chiefs and Dolphins game.",
-      "published": "Sun, 27 Sep 2026 07:46:54 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
         "MIA"
       ]
     },
     {
-      "title": "How to Watch Ravens vs. Cowboys: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-ravens-vs-cowboys-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Ravens and Cowboys game.",
-      "published": "Sun, 27 Sep 2026 07:45:59 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "DAL"
-      ]
-    },
-    {
-      "title": "How to Watch Vikings vs. Buccaneers: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-vikings-vs-buccaneers-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Minnesota Vikings and Tampa Bay Buccaneers game.",
-      "published": "Sun, 27 Sep 2026 07:45:03 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN",
-        "TB"
-      ]
-    },
-    {
-      "title": "How to Watch Cardinals vs. 49ers: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cardinals-vs-49ers-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Arizona Cardinals and San Francisco 49ers game.",
-      "published": "Sun, 27 Sep 2026 07:44:39 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "SF"
-      ]
-    },
-    {
-      "title": "How to Watch Seahawks vs. Commanders: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-seahawks-vs-commanders-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Seattle Seahawks and Washington Commanders game.",
-      "published": "Sun, 27 Sep 2026 07:43:59 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SEA",
-        "WAS"
-      ]
-    },
-    {
-      "title": "How to Watch Jets vs. Lions: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-jets-vs-lions-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 New York Jets and Detroit Lions game.",
-      "published": "Sun, 27 Sep 2026 07:43:25 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "How to Watch Chargers vs. Bills: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-chargers-vs-bills-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Los Angeles Chargers and Buffalo Bills game.",
-      "published": "Sun, 27 Sep 2026 07:43:00 -0400",
+      "title": "Bills Stay Undefeated While Chargers Look Defeated: 3 Takeaways From Buffalo's Win",
+      "url": "https://www.foxsports.com/stories/nfl/bills-stay-undefeated-while-chargers-look-defeated-3-takeaways-from-buffalos-win",
+      "summary": "The Chargers are 0-3 and the Bills are 3-0 after their Week 3 matchup in Buffalo. Here are the takeaways.",
+      "published": "Sun, 27 Sep 2026 16:35:36 -0400",
       "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -249,20 +45,6 @@
       "teams": [
         "BUF",
         "LAC"
-      ]
-    },
-    {
-      "title": "How to Watch Panthers vs. Browns: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-panthers-vs-browns-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Carolina Panthers and Cleveland Browns game.",
-      "published": "Sun, 27 Sep 2026 07:42:37 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "CLE"
       ]
     },
     {
@@ -279,10 +61,174 @@
       ]
     },
     {
-      "title": "Dolphins RB De'Von Achane suffers knee injury vs. Chiefs",
-      "url": "https://www.espn.com/nfl/story/_/id/50044229/dolphins-rb-devon-achane-suffers-knee-injury-vs-chiefs",
-      "summary": "Dolphins running back De'Von Achane suffered a knee injury in Sunday's game against the Chiefs.",
-      "published": "2026-09-27T18:59:26Z",
+      "title": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more",
+      "summary": "Sunday of Week 3 features 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
+      "published": "2026-09-27T22:09:14Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Travis Hunter happy to help Jags with first NFL interception",
+      "url": "https://www.espn.com/nfl/story/_/id/50046645/travis-hunter-happy-help-jags-first-nfl-interception",
+      "summary": "Jaguars cornerback Travis Hunter finally grabbed his first career NFL interception Sunday.",
+      "published": "2026-09-27T22:06:12Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Drake Maye: Patriots offense, own play 'unacceptable'",
+      "url": "https://www.espn.com/nfl/story/_/id/50046497/drake-maye-patriots-offense-own-play-unacceptable",
+      "summary": "Drake Maye, whose early-season struggles continued with two interceptions and a lost fumble in Sunday's 35-6 blowout loss to the Jaguars, called the offense's performance \"unacceptable\" as he looks within himself for answers.",
+      "published": "2026-09-27T21:55:58Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX",
+        "NE"
+      ]
+    },
+    {
+      "title": "Commanders' jab at Seahawks after upset leads Week 3 trolls",
+      "url": "https://www.espn.com/nfl/story/_/id/50046373/nfl-week-3-trolls-2026",
+      "summary": "The Washington Commanders followed up their upset victory over the Seattle Seahawks with a petty post.",
+      "published": "2026-09-27T21:53:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SEA",
+        "WAS"
+      ]
+    },
+    {
+      "title": "NFL Week 3: Takeaways, questions, fantasy spin for Sunday's games",
+      "url": "https://www.espn.com/nfl/story/_/id/50043408/week-3-sunday-games-takeaways-questions-2026",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 3.",
+      "published": "2026-09-27T22:08:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Buccaneers WR Jalen McMillan suffers knee injury vs. Vikings",
+      "url": "https://www.espn.com/nfl/story/_/id/50045951/buccaneers-wr-jalen-mcmillan-suffers-knee-injury-vs-vikings",
+      "summary": "Buccaneers wide receiver Jalen McMillan suffered a knee injury in the first quarter against the Vikings and has been ruled out.",
+      "published": "2026-09-27T21:29:36Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN",
+        "TB"
+      ]
+    },
+    {
+      "title": "Commanders snap Seattle's 12-game winning streak, beat the Seahawks 33-31",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872955",
+      "summary": "\u2014 Marcus Mariota threw three touchdown passes, and Kain Medrano returned an interception 50 yards for a touchdown to help the Washington Commanders hand Seattle its first loss since November, 33-31 on Sunday.",
+      "published": "2026-09-27T20:53:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SEA",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Colts end 9-game skid with 19-17 victory over Texans as Shrader kicks winner with 16 seconds left",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872951",
+      "summary": "\u2014 The Indianapolis Colts kept talking about turning the page on their season-ending seven-game losing streak that cost them a playoff spot last year.",
+      "published": "2026-09-27T20:49:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "IND"
+      ]
+    },
+    {
+      "title": "Deshaun Watson sparks a late Browns rally, sealing a 21-18 win over the Panthers",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872949",
+      "summary": "\u2014 Deshaun Watson threw two touchdown passes to Harold Fannin Jr., including a 14-yard strike with 1:48 remaining, and the Cleveland Browns rallied for a 21-18 victory over the Carolina Panthers on Sunday.",
+      "published": "2026-09-27T20:43:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "CLE"
+      ]
+    },
+    {
+      "title": "Aaron Rodgers outduels Joe Burrow as the Steelers edge the Bengals 30-27 on a late Boswell kick",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872950",
+      "summary": "\u2014 Aaron Rodgers passed for 292 yards and three touchdowns to outduel Joe Burrow as the Pittsburgh Steelers beat the Cincinnati Bengals 30-27 on Sunday.",
+      "published": "2026-09-27T20:34:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Jahmyr Gibbs' 3rd touchdown with 2:25 left lifts Lions to 31-24 win over Jets",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872954",
+      "summary": "\u2014 Jahmyr Gibbs took a toss sweep to the right, reversed field and raced to the left side of the end zone for a 17-yard touchdown.",
+      "published": "2026-09-27T20:28:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Allen, Bills outlast Chargers 24-16 despite committing 5 turnovers",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872953",
+      "summary": "\u2014 Josh Allen scored two touchdowns rushing and the Buffalo Bills overcame a five-turnover outing to pull out a 24-16 victory over the winless Los Angeles Chargers on Sunday.",
+      "published": "2026-09-27T20:25:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Kenneth Walker III has 2 TDs as Chiefs beat Dolphins 24-10 after De'Von Achane exits with injury",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872952",
+      "summary": "\u2014 Patrick Mahomes arrived in South Florida this weekend and noticed a fun coincidence. He was back in the same hotel room he stayed in when he won his first Super Bowl title.",
+      "published": "2026-09-27T20:14:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -293,84 +239,154 @@
       ]
     },
     {
-      "title": "Ravens WR Flowers will play after having positive Rio workout",
-      "url": "https://www.espn.com/nfl/story/_/id/50044202/ravens-flowers-play-having-positive-rio-workout-source-says",
-      "summary": "Ravens wide receiver Zay Flowers will play Sunday against the Cowboys in Rio de Janeiro after having an encouraging workout before the game, a source told ESPN's Adam Schefter.",
-      "published": "2026-09-27T19:07:55Z",
+      "title": "Lawrence throws 3 TD passes as Jaguars rout Patriots and raise more questions about Maye",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872957",
+      "summary": "\u2014 Jacksonville Jaguars coach Liam Coen spent all week telling his players that what mattered most was how they responded.",
+      "published": "2026-09-27T20:12:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL",
-        "DAL"
+        "JAX",
+        "NE"
       ]
     },
     {
-      "title": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more",
-      "summary": "Sunday of Week 3 will feature 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
-      "published": "2026-09-27T18:50:54Z",
+      "title": "Giants hold on to beat the Titans 12-7 in their first game without quarterback Jaxson Dart",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872956",
+      "summary": "\u2014 Playing their first game without quarterback Jaxson Dart, the New York Giants got just enough from replacement Jameis Winston on offense and another big play from safety Jevon Holland...",
+      "published": "2026-09-27T20:09:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "qb",
       "teams": [
-        "BAL",
-        "DAL"
+        "NYG",
+        "TEN"
       ]
     },
     {
-      "title": "Commanders LB Leo Chenal injured making tackle, carted off",
-      "url": "https://www.espn.com/nfl/story/_/id/50044065/commanders-lb-leo-chenal-injured-making-tackle-carted-off",
-      "summary": "Commanders linebacker Leo Chenal was carted off the field with a neck injury after making a tackle late in the second quarter against the Seahawks.",
-      "published": "2026-09-27T19:01:26Z",
-      "source": "ESPN NFL",
+      "title": "49ers Mike Evans carted to the locker room with injury after taking a hit vs. Cardinals",
+      "url": "https://www.cbssports.com/nfl/news/49ers-mike-evans-suffers-injury-vs-cardinals/",
+      "summary": "Evans, who was already dealing with a hip injury, took a big hit during the second quarter",
+      "published": "Sun, 27 Sep 2026 21:47:22 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "SEA",
-        "WAS"
+        "ARI",
+        "SF"
       ]
     },
     {
-      "title": "Bears QB Bagent clears protocol; Keenum likely to start vs. Eagles",
-      "url": "https://www.espn.com/nfl/story/_/id/50044058/bears-qb-bagent-clears-protocol-keenum-likely-start-vs-eagles",
-      "summary": "The Bears' Tyson Bagent has cleared the concussion protocol, but Case Keenum is expected to start Monday night's game at QB against the Eagles.",
-      "published": "2026-09-27T18:48:31Z",
-      "source": "ESPN NFL",
+      "title": "Jaguars' Trevor Lawrence explains why he took knee at 1-yard line instead of scoring a touchdown",
+      "url": "https://www.cbssports.com/nfl/news/jaguars-trevor-lawrence-explains-why-he-took-knee-1-yard-line/",
+      "summary": "Anytime touchdown bettors for Lawrence may want to look away",
+      "published": "Sun, 27 Sep 2026 21:37:28 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Vikings' Justin Jefferson questionable to return vs. Buccaneers with a knee injury",
+      "url": "https://www.cbssports.com/nfl/news/vikings-justin-jefferson-questionable-to-return-vs-buccaneers-with-a-knee-injury/",
+      "summary": "Jefferson went into the blue medical tent in the first quarter and left the field midway through the second quarter",
+      "published": "Sun, 27 Sep 2026 21:30:21 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "CHI",
-        "PHI"
+        "MIN",
+        "TB"
       ]
     },
     {
-      "title": "NFL Week 3's best arrivals, led by Stefon Diggs",
-      "url": "https://www.espn.com/nfl/story/_/id/50023585/nfl-week-3-fashionable-arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-09-27T17:15:52Z",
-      "source": "ESPN NFL",
+      "title": "Derrick Henry passes Eric Dickerson for ninth on NFL's all-time rushing list",
+      "url": "https://www.cbssports.com/nfl/news/ravens-derrick-henry-eric-dickerson-nfl-rushing-yards/",
+      "summary": "The five-time Pro Bowler added another milestone to his decorated career while scoring two first-half touchdowns against the Cowboys",
+      "published": "Sun, 27 Sep 2026 21:23:10 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "DAL"
+      ]
     },
     {
-      "title": "Jets without WR Adonai Mitchell (finger) vs. Lions",
-      "url": "https://www.espn.com/nfl/story/_/id/50042923/jets-wr-adonai-mitchell-finger-vs-lions",
-      "summary": "Jets wide receiver Adonai Mitchell is inactive Sunday because of a finger injury.",
-      "published": "2026-09-27T16:01:44Z",
-      "source": "ESPN NFL",
+      "title": "Dolphins 'not very optimistic' about De'Von Achane injury after star RB exits Week 3 loss",
+      "url": "https://www.cbssports.com/nfl/news/devon-achane-knee-injury-dolphins-chiefs-2026/",
+      "summary": "Achane suffered the non-contact injury on a first-quarter run and was ruled out after initially being listed as questionable to return",
+      "published": "Sun, 27 Sep 2026 20:52:24 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIA"
+      ]
+    },
+    {
+      "title": "Watch: Deebo Samuel, Mike Evans execute hook and ladder for 82-yard touchdown",
+      "url": "https://www.cbssports.com/nfl/news/deebo-samuel-mike-evans-hook-and-ladder-82-yard-touchdown/",
+      "summary": "A nifty play from the veteran wide receivers put the 49ers on the board first against the Cardinals",
+      "published": "Sun, 27 Sep 2026 20:48:39 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "SF"
+      ]
+    },
+    {
+      "title": "Broncos vs. Rams picks, prediction, player props: Expert's best bets for Sunday Night Football in NFL Week 3",
+      "url": "https://www.cbssports.com/betting/news/broncos-vs-rams-picks-prediction-player-props-experts-best-bets-for-sunday-night-football-in-nfl-week-3/",
+      "summary": "Mile High altitude and a stout Denver defense give the underdog hosts a distinct edge against Los Angeles in a tight prime-time battle",
+      "published": "Sun, 27 Sep 2026 20:08:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "LA"
+      ]
+    },
+    {
+      "title": "Jets' Breece Hall ruled out for game with thigh injury against Lions",
+      "url": "https://www.cbssports.com/nfl/news/breece-hall-injury-update-jets-lions-2026/",
+      "summary": "Hall hit the ground hard on a fourth-quarter run and was ruled out following a sideline evaluation",
+      "published": "Sun, 27 Sep 2026 19:55:36 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
         "DET",
         "NYJ"
+      ]
+    },
+    {
+      "title": "NFL's first 70-yard field goal almost happens: Jaguars' Cam Little barely misses on historic attempt",
+      "url": "https://www.cbssports.com/nfl/news/nfls-first-70-yard-field-goal-almost-hits-jaguars-cam-little/",
+      "summary": "Little came inches away from history in the Jaguars' Week 3 matchup against the Patriots",
+      "published": "Sun, 27 Sep 2026 19:29:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX",
+        "NE"
       ]
     },
     {
@@ -535,145 +551,6 @@
       "teams": [
         "DET",
         "NYJ"
-      ]
-    },
-    {
-      "title": "Week 3 NFL betting promos: Score almost $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-3-nfl-betting-promos-score-almost-3000-in-bonuses-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 3 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Sun, 27 Sep 2026 15:49:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 3 NFL betting odds, lines, totals, spreads, for every game, including Steelers-Bengals, Cowboys-Ravens",
-      "url": "https://www.cbssports.com/betting/news/week-3-nfl-odds-spreads-totals-betting-lines/",
-      "summary": "The Week 3 NFL schedule features 16 games, including Bengals vs. Steelers and Ravens vs. Cowboys on Sunday",
-      "published": "Sun, 27 Sep 2026 15:27:55 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "CIN",
-        "DAL",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Rams vs. Broncos odds, predictions, NFL picks, spread, best bets: Betting preview for Sunday Night Football",
-      "url": "https://www.cbssports.com/betting/news/rams-vs-broncos-odds-predictions-nfl-picks-spread-best-bets-betting-preview-for-sunday-night-football/",
-      "summary": "Best bets and betting preview for Broncos vs. Rams on Sunday Night Football",
-      "published": "Sun, 27 Sep 2026 15:11:26 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "LA"
-      ]
-    },
-    {
-      "title": "Will Brinson's NFL Week 3 best bets: Odds, player props, anytime touchdown scorers from expert on Sunday games",
-      "url": "https://www.cbssports.com/betting/news/will-brinsons-nfl-week-3-best-bets-odds-player-props-anytime-touchdown-scorers-from-expert-on-sunday-games/",
-      "summary": "Backing road favorites, trusting elite defenses to dominate backup quarterbacks and finding value on key underdogs lead this week's top wagers",
-      "published": "Sun, 27 Sep 2026 15:00:56 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Cowboys vs. Ravens odds, picks, prediction, spread, line: NFL in Brazil start time, preview, best bets",
-      "url": "https://www.cbssports.com/betting/news/cowboys-vs-ravens-odds-picks-prediction-spread-line-nfl-in-brazil-start-time-preview-best-bets/",
-      "summary": "Here's everything bettors need to know for when Dak Prescott and the Cowboys take on Lamar Jackson and the Ravens in Rio de Janeiro",
-      "published": "Sun, 27 Sep 2026 18:51:34 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "DAL"
-      ]
-    },
-    {
-      "title": "Commanders' Jayden Daniels expected back within three weeks, per report",
-      "url": "https://www.cbssports.com/nfl/news/commanders-qb-jayden-daniels-expected-back-within-three-weeks/",
-      "summary": "Daniels could miss less time than initially thought",
-      "published": "Sun, 27 Sep 2026 14:52:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "WAS"
-      ]
-    },
-    {
-      "title": "Is Malik Nabers playing today? How his status affects Titans vs. Giants odds",
-      "url": "https://www.cbssports.com/betting/news/malik-nabers-injury-status-giants-titans-odds-nfl-week-3-2026/",
-      "summary": "How Malik Nabers' injury impacts Giants vs. Titans odds for NFL Week 3 on Sunday",
-      "published": "Sun, 27 Sep 2026 14:04:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYG",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Bears' Caleb Williams expected to miss 3-4 weeks with Grade 2 hamstring strain, per report",
-      "url": "https://www.cbssports.com/nfl/news/bears-caleb-williams-expected-to-miss-3-4-weeks/",
-      "summary": "Williams has been ruled out for Monday's showdown against the Eagles",
-      "published": "Sun, 27 Sep 2026 14:21:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Giants quarterback trade rumors: New York making calls with a move possibly imminent",
-      "url": "https://www.cbssports.com/nfl/news/giants-qb-trade-rumors/",
-      "summary": "Jaxson Dart underwent season-ending knee surgery this week",
-      "published": "Sun, 27 Sep 2026 13:53:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Prisco's Week 3 NFL picks: Giants rally behind Jameis Winston, Browns upset Panthers",
-      "url": "https://www.cbssports.com/nfl/news/priscos-week-3-nfl-picks-browns-upset-panthers-giants-rally-behind-jameis-winston/",
-      "summary": "Pete Prisco reveals all of his Week 3 picks, including Jaguars over Patriots and Bucs over Vikings",
-      "published": "Sun, 27 Sep 2026 13:31:20 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "CLE",
-        "JAX",
-        "MIN",
-        "NE",
-        "NYG",
-        "TB"
       ]
     }
   ],
