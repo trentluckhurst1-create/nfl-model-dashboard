@@ -1,27 +1,65 @@
 {
-  "updated_at_utc": "2026-09-27T15:22:51.166752+00:00",
-  "checked_at_utc": "2026-09-27T15:22:51.166752+00:00",
+  "updated_at_utc": "2026-09-27T19:08:29.086607+00:00",
+  "checked_at_utc": "2026-09-27T19:08:29.086607+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 7,
+      "items": 8,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 21
+      "items": 22
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 23,
+      "items": 18,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "2026 NFL Odds Week 3: Lines, Spreads For All 16 Games",
+      "title": "Jay Glazer: Giants Plan To Be \u2018Pretty Aggressive\u2019 In Search For QB Upgrade",
+      "url": "https://www.foxsports.com/stories/nfl/jay-glazer-giants-pretty-aggressive-search-qb-upgrade",
+      "summary": "On \u201cFOX NFL Sunday,\" insider Jay Glazer reported on the Giants' QB options, with one former New York signal-caller near the top of the list.",
+      "published": "Sun, 27 Sep 2026 13:14:43 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Case Keenum To Start At QB For Bears Against Eagles Instead Of Tyson Bagent",
+      "url": "https://www.foxsports.com/stories/nfl/case-keenum-start-qb-bears-against-eagles-instead-tyson-bagent",
+      "summary": "Tyson Bagent has fully cleared the league's concussion protocol, but the Chicago Bears won't start him at quarterback on Monday.",
+      "published": "Sun, 27 Sep 2026 13:01:59 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "PHI"
+      ]
+    },
+    {
+      "title": "The Two-Way Impact: How Backup QBs Alter Offensive And Defensive Game Plans",
+      "url": "https://www.foxsports.com/stories/nfl/how-qb-changes-alter-offenses-defensive-game-plans",
+      "summary": "On \"FOX NFL Kickoff,\" analysts Charles Woodson and Julian Edelman broke down how a QB change forces both sides of the ball to adjust.",
+      "published": "Sun, 27 Sep 2026 12:33:24 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL Odds Week 3: Lines, Spreads, Results For All 16 Games",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-3-lines-spreads-results-all-16-games",
       "summary": "Check out the odds for every NFL Week 3 contest.",
       "published": "Sun, 27 Sep 2026 11:09:04 -0400",
@@ -228,118 +266,6 @@
       ]
     },
     {
-      "title": "Commanders vs. Seahawks Prediction, Odds, Pick For NFL Week 3",
-      "url": "https://www.foxsports.com/stories/nfl/commanders-vs-seahawks-prediction-odds-pick-nfl-week-3",
-      "summary": "Get the latest odds, prediction and pick for the Week 3 Commanders vs. Seahawks game, as well as information on how to watch.",
-      "published": "Sun, 27 Sep 2026 03:43:44 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SEA",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Lions vs. Jets Prediction, Odds, Pick For NFL Week 3",
-      "url": "https://www.foxsports.com/stories/nfl/lions-vs-jets-prediction-odds-pick-nfl-week-3",
-      "summary": "Get the latest odds, prediction and pick for the Week 3 Lions vs. Jets game, as well as information on how to watch.",
-      "published": "Sun, 27 Sep 2026 03:42:55 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Browns vs. Panthers Prediction, Odds, Pick For NFL Week 3",
-      "url": "https://www.foxsports.com/stories/nfl/browns-vs-panthers-prediction-odds-pick-nfl-week-3",
-      "summary": "Get the latest odds, prediction and pick for the Week 3 Panthers vs. Browns game, as well as information on how to watch.",
-      "published": "Sun, 27 Sep 2026 03:40:58 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "CLE"
-      ]
-    },
-    {
-      "title": "Bills vs. Chargers Prediction, Odds, Pick For NFL Week 3",
-      "url": "https://www.foxsports.com/stories/nfl/bills-vs-chargers-prediction-odds-pick-nfl-week-3",
-      "summary": "Get the latest odds, prediction and pick for the Week 3 Bills vs. Chargers game, as well as information on how to watch.",
-      "published": "Sun, 27 Sep 2026 03:39:24 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Will Hill's Parlay Of The Week: Ravens In Brazil, Unders In College Football Slate",
-      "url": "https://www.foxsports.com/stories/betting/will-hill-parlay-nfl-college-football-ravens-usc-michigan-oklahoma-iowa",
-      "summary": "Check out Will Hill's five-leg parlay that could win you some extra cash this weekend.",
-      "published": "Fri, 25 Sep 2026 20:44:42 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "2026 NFL, College Football Odds: Best Bets For Ole Miss-Florida, Chargers-Bills",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-college-football-odds-best-bets-ole-miss-florida-chargers-bills",
-      "summary": "Sammy P is back with his best bets for the weekend, including his pick for Ole Miss-Florida and for the Chargers-Bills showdown.",
-      "published": "Fri, 25 Sep 2026 19:10:41 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LAC"
-      ]
-    },
-    {
-      "title": "2026 NFL Week 3 Best Bets, Expert Picks: Back Tampa Bay To Cover Against Vikings",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-3-best-bets-expert-picks-back-buccaneers-bounce-back",
-      "summary": "Find out why Geoff Schwartz is backing the Bucs to bounce back against the Vikings and why he's taking the Under in the Titans-Giants tilt.",
-      "published": "Fri, 25 Sep 2026 17:23:46 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN",
-        "NYG",
-        "TB",
-        "TEN"
-      ]
-    },
-    {
-      "title": "49ers Reportedly Dealt Another Nick Bosa Injury Blow; Star DE's Injury History",
-      "url": "https://www.foxsports.com/stories/nfl/nick-bosa-injury-history-49ers-schedule",
-      "summary": "San Francisco 49ers star pass rusher Nick Bosa has reportedly suffered a calf injury that will sideline him for multiple weeks.",
-      "published": "Fri, 25 Sep 2026 12:08:24 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
       "title": "Aaron Glenn not buying criticism of Jets' clock management",
       "url": "https://www.espn.com/nfl/story/_/id/50028245/new-jork-jets-clock-management-aaron-glenn",
       "summary": "Aaron Glenn says the clock management is fine and that it's discussed every Thursday and Saturday;",
@@ -353,10 +279,24 @@
       ]
     },
     {
-      "title": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more",
-      "summary": "Sunday of Week 3 will feature 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
-      "published": "2026-09-27T14:00:16Z",
+      "title": "Dolphins RB De'Von Achane suffers knee injury vs. Chiefs",
+      "url": "https://www.espn.com/nfl/story/_/id/50044229/dolphins-rb-devon-achane-suffers-knee-injury-vs-chiefs",
+      "summary": "Dolphins running back De'Von Achane suffered a knee injury in Sunday's game against the Chiefs.",
+      "published": "2026-09-27T18:59:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "KC",
+        "MIA"
+      ]
+    },
+    {
+      "title": "Ravens WR Flowers will play after having positive Rio workout",
+      "url": "https://www.espn.com/nfl/story/_/id/50044202/ravens-flowers-play-having-positive-rio-workout-source-says",
+      "summary": "Ravens wide receiver Zay Flowers will play Sunday against the Cowboys in Rio de Janeiro after having an encouraging workout before the game, a source told ESPN's Adam Schefter.",
+      "published": "2026-09-27T19:07:55Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -367,71 +307,262 @@
       ]
     },
     {
-      "title": "Giants set game plan with Jameis Winston, mull options to add QB",
-      "url": "https://www.espn.com/nfl/story/_/id/50037942/giants-set-gameplan-jameis-winston-mull-options-add-qb",
-      "summary": "The Giants' pursuit of a veteran quarterback will depend on how well Jameis Winston performs against the Titans in Week 3.",
-      "published": "2026-09-27T13:25:19Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NYG",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Sources: Caleb Williams injury considered to have 3-4 week timeline",
-      "url": "https://www.espn.com/nfl/story/_/id/50036929/sources-caleb-williams-injury-considered-3-4-week-line",
-      "summary": "Bears quarterback Caleb Williams has a Grade 2 hamstring injury that doctors say could sideline him for three to four weeks, league sources told ESPN and NFL Network.",
-      "published": "2026-09-27T13:53:56Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Sources: Raiders TE Brock Bowers expected to play vs. Saints",
-      "url": "https://www.espn.com/nfl/story/_/id/50041546/sources-raiders-te-brock-bowers-expected-play-vs-saints",
-      "summary": "Raiders tight end Brock Bowers is expected to play Sunday against the Saints, barring a surprise, a source told ESPN",
-      "published": "2026-09-27T12:43:19Z",
+      "title": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more",
+      "summary": "Sunday of Week 3 will feature 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
+      "published": "2026-09-27T18:50:54Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LV",
-        "NO"
+        "BAL",
+        "DAL"
       ]
     },
     {
-      "title": "Sources: Cowboys, Lions make trade inquiries on Joey Porter Jr.",
-      "url": "https://www.espn.com/nfl/story/_/id/50038725/sources-steelers-field-joey-porter-jr-trade-calls-cowboys-lions",
-      "summary": "A handful of teams, including the Cowboys and Lions, have begun making inquiries about the availability of Steelers cornerback Joey Porter Jr., sources told ESPN.",
-      "published": "2026-09-27T13:33:32Z",
+      "title": "Commanders LB Leo Chenal injured making tackle, carted off",
+      "url": "https://www.espn.com/nfl/story/_/id/50044065/commanders-lb-leo-chenal-injured-making-tackle-carted-off",
+      "summary": "Commanders linebacker Leo Chenal was carted off the field with a neck injury after making a tackle late in the second quarter against the Seahawks.",
+      "published": "2026-09-27T19:01:26Z",
       "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SEA",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Bears QB Bagent clears protocol; Keenum likely to start vs. Eagles",
+      "url": "https://www.espn.com/nfl/story/_/id/50044058/bears-qb-bagent-clears-protocol-keenum-likely-start-vs-eagles",
+      "summary": "The Bears' Tyson Bagent has cleared the concussion protocol, but Case Keenum is expected to start Monday night's game at QB against the Eagles.",
+      "published": "2026-09-27T18:48:31Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "PHI"
+      ]
+    },
+    {
+      "title": "NFL Week 3's best arrivals, led by Stefon Diggs",
+      "url": "https://www.espn.com/nfl/story/_/id/50023585/nfl-week-3-fashionable-arrivals",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-09-27T17:15:52Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Jets without WR Adonai Mitchell (finger) vs. Lions",
+      "url": "https://www.espn.com/nfl/story/_/id/50042923/jets-wr-adonai-mitchell-finger-vs-lions",
+      "summary": "Jets wide receiver Adonai Mitchell is inactive Sunday because of a finger injury.",
+      "published": "2026-09-27T16:01:44Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "NFL in Rio: How field conditions look before Ravens-Cowboys Week 3 matchup in Brazil",
+      "url": "https://www.cbssports.com/nfl/news/nfl-clears-the-air-on-field-condition-concerns-for-ravens-cowboys-week-3-matchup-in-brazil/",
+      "summary": "Baltimore and Dallas will kick off from Maracana Stadium in Rio de Janeiro, Brazil, Sunday on CBS",
+      "published": "Sun, 27 Sep 2026 18:48:09 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "2026 Week 3 NFL odds, lines, schedule, start times: Picks, predictions for Ravens-Cowboys, every other game",
+      "url": "https://www.cbssports.com/betting/news/2026-week-3-nfl-odds-lines-schedule-start-times-picks-predictions-ravens-cowboys-every-other-game/",
+      "summary": "Week 3 features an international Cowboys-Ravens showdown and two primetime games carrying major quarterback storylines",
+      "published": "Sun, 27 Sep 2026 18:40:43 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Tyson Bagent clears concussion protocol: Bears QB avoids injury designation for Week 3 game against Eagles",
+      "url": "https://www.cbssports.com/nfl/news/tyson-bagent-practice-bears-qb-week-3-vs-eagles/",
+      "summary": "Bagent could handle the starting quarterback duties with Caleb Williams injured",
+      "published": "Sun, 27 Sep 2026 18:34:36 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "PHI"
+      ]
+    },
+    {
+      "title": "NFL trade rumors: Cowboys seemingly have eyes on Steelers' Joey Porter Jr.",
+      "url": "https://www.cbssports.com/nfl/news/joey-porter-jr-2026-trade-rumors-cowboys-lions-steelers/",
+      "summary": "Porter will miss his third straight game as Dallas, Detroit and other teams reportedly explore trade possibilities",
+      "published": "Sun, 27 Sep 2026 17:02:46 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
         "DAL",
-        "DET",
         "PIT"
       ]
     },
     {
-      "title": "Sources: Myles Garrett faces 6-week timeline from knee surgery",
-      "url": "https://www.espn.com/nfl/story/_/id/50038925/sources-myles-garrett-faces-6-week-line-knee-surgery",
-      "summary": "Myles Garrett was given a six-week recovery timeline from his knee surgery, meaning the star pass rusher might not return until early November, sources told NFL Network.",
-      "published": "2026-09-27T13:39:05Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 3 odds, predictions, expert picks: Who has edge in Rams-Broncos? Will Bucs earn first win?",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-3-picks-odds-rams-broncos/",
+      "summary": "Our complete Week 3 betting guide features expert picks for every matchup, including Ravens-Cowboys in Rio de Janeiro",
+      "published": "Sun, 27 Sep 2026 17:01:32 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL",
+        "DEN",
+        "LA",
+        "TB"
+      ]
+    },
+    {
+      "title": "Cowboys vs. Ravens in Brazil: Lamar Jackson, Dak Prescott headline first Rio de Janeiro NFL game",
+      "url": "https://www.cbssports.com/nfl/news/how-to-watch-cowboys-vs-ravens-storylines-prediction/",
+      "summary": "There should be plenty of fireworks at Maracan\u00e3 Stadium",
+      "published": "Sun, 27 Sep 2026 17:00:54 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Is Zay Flowers playing vs. Cowboys in Week 3? Ravens WR active, but may be on pitch count",
+      "url": "https://www.cbssports.com/nfl/news/zay-flowers-cowboys-week-3-ravens-wr-status/",
+      "summary": "Flowers is officially listed as questionable due to a hamstring injury",
+      "published": "Sun, 27 Sep 2026 18:55:05 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Ranking Giants' reported options at QB: Why Jimmy Garoppolo may make sense after Jaxson Dart injury",
+      "url": "https://www.cbssports.com/nfl/news/ranking-giants-reported-options-at-qb-jimmy-garoppolo/",
+      "summary": "New York could cast a wide net after Jaxson Dart's injury",
+      "published": "Sun, 27 Sep 2026 16:44:10 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Week 3 NFL score predictions, picks, odds: Computer model reveals projections for every game on Sunday",
+      "url": "https://www.cbssports.com/betting/news/week-3-nfl-score-predictions-picks-odds-computer-model-reveals-projections-every-game-sunday/",
+      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
+      "published": "Sun, 27 Sep 2026 16:22:15 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": []
+    },
+    {
+      "title": "NFL player props Week 3 2026: Best prop picks for Sunday's NFL games include Patrick Mahomes and Josh Allen",
+      "url": "https://www.cbssports.com/betting/news/nfl-player-props-week-3-2026-best-prop-picks-for-sundays-nfl-games-include-patrick-mahomes-and-josh-allen/",
+      "summary": "Bet on NFL player props Week 3 at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
+      "published": "Sun, 27 Sep 2026 16:16:57 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Bengals vs. Steelers picks, odds, prediction: Start time, betting preview, spread for NFL Week 3 game",
+      "url": "https://www.cbssports.com/betting/news/bengals-steelers-picks-odds-prediction-start-time-betting-preview-spread-nfl-week-3-game/",
+      "summary": "AFC North rivals meet in NFL Week 3 when the Steelers host the Bengals, but Cincinnati comes in 2-0 while Pittsburgh looks to rebound. We have everything bettors need to know",
+      "published": "Sun, 27 Sep 2026 16:16:32 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Jets vs. Lions odds, picks, prediction: Start time, betting preview, line, best bets for NFL Week 3 matchup",
+      "url": "https://www.cbssports.com/betting/news/jets-lions-odds-picks-prediction-start-time-betting-preview-line-best-bets-nfl-week-3-game/",
+      "summary": "Here's everything for bettors to know about the Week 3 matchup as the Jets visit the Lions at Ford Field",
+      "published": "Sun, 27 Sep 2026 16:13:41 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Week 3 NFL betting promos: Score almost $3,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/week-3-nfl-betting-promos-score-almost-3000-in-bonuses-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 3 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Sun, 27 Sep 2026 15:49:09 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 3 NFL betting odds, lines, totals, spreads, for every game, including Steelers-Bengals, Cowboys-Ravens",
+      "url": "https://www.cbssports.com/betting/news/week-3-nfl-odds-spreads-totals-betting-lines/",
+      "summary": "The Week 3 NFL schedule features 16 games, including Bengals vs. Steelers and Ravens vs. Cowboys on Sunday",
+      "published": "Sun, 27 Sep 2026 15:27:55 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CIN",
+        "DAL",
+        "PIT"
+      ]
     },
     {
       "title": "Rams vs. Broncos odds, predictions, NFL picks, spread, best bets: Betting preview for Sunday Night Football",
@@ -459,10 +590,10 @@
       "teams": []
     },
     {
-      "title": "Cowboys vs. Ravens odds, picks, prediction, spread, line: Start time, preview, best bets for NFL Brazil game",
-      "url": "https://www.cbssports.com/betting/news/cowboys-vs-ravens-odds-picks-prediction-spread-line-matchup-start-time-preview-best-bets-nfl-week-3-brazil-game/",
+      "title": "Cowboys vs. Ravens odds, picks, prediction, spread, line: NFL in Brazil start time, preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/cowboys-vs-ravens-odds-picks-prediction-spread-line-nfl-in-brazil-start-time-preview-best-bets/",
       "summary": "Here's everything bettors need to know for when Dak Prescott and the Cowboys take on Lamar Jackson and the Ravens in Rio de Janeiro",
-      "published": "Sun, 27 Sep 2026 14:57:27 +0000",
+      "published": "Sun, 27 Sep 2026 18:51:34 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -470,34 +601,6 @@
       "teams": [
         "BAL",
         "DAL"
-      ]
-    },
-    {
-      "title": "Jets vs. Lions odds, picks, prediction: Start time, betting preview, line, best bets for NFL Week 3 game",
-      "url": "https://www.cbssports.com/betting/news/jets-lions-odds-picks-prediction-start-time-betting-preview-line-best-bets-nfl-week-3-game/",
-      "summary": "Here's everything for bettors to know about the Week 3 matchup as the Jets visit the Lions at Ford Field",
-      "published": "Sun, 27 Sep 2026 14:29:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Bengals vs. Steelers picks, odds, prediction: Start time, betting preview, spread for NFL Week 3 game",
-      "url": "https://www.cbssports.com/betting/news/bengals-steelers-picks-odds-prediction-start-time-betting-preview-spread-nfl-week-3-game/",
-      "summary": "AFC North rivals meet in NFL Week 3 when the Steelers host the Bengals, but Cincinnati comes in 2-0 while Pittsburgh looks to rebound. We have everything bettors need to know",
-      "published": "Sun, 27 Sep 2026 14:26:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "PIT"
       ]
     },
     {
@@ -528,17 +631,6 @@
       ]
     },
     {
-      "title": "Week 3 NFL betting promos: Earn almost $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-3-nfl-betting-promos-earn-almost-3000-in-bonuses-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 3 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Sun, 27 Sep 2026 13:49:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Bears' Caleb Williams expected to miss 3-4 weeks with Grade 2 hamstring strain, per report",
       "url": "https://www.cbssports.com/nfl/news/bears-caleb-williams-expected-to-miss-3-4-weeks/",
       "summary": "Williams has been ruled out for Monday's showdown against the Eagles",
@@ -553,17 +645,6 @@
       ]
     },
     {
-      "title": "Week 3 NFL score predictions, picks, odds: Advanced model reveals projections for every game on Sunday",
-      "url": "https://www.cbssports.com/betting/news/week-3-nfl-score-predictions-picks-odds-advanced-model-reveals-projections-every-game-sunday/",
-      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
-      "published": "Sun, 27 Sep 2026 13:45:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Giants quarterback trade rumors: New York making calls with a move possibly imminent",
       "url": "https://www.cbssports.com/nfl/news/giants-qb-trade-rumors/",
       "summary": "Jaxson Dart underwent season-ending knee surgery this week",
@@ -575,31 +656,6 @@
       "teams": [
         "NYG"
       ]
-    },
-    {
-      "title": "How to watch Cowboys vs. Ravens in Brazil: Lamar Jackson, Dak Prescott headline first Rio de Janeiro NFL game",
-      "url": "https://www.cbssports.com/nfl/news/how-to-watch-cowboys-vs-ravens-storylines-prediction/",
-      "summary": "There should be plenty of fireworks at Maracan\u00e3 Stadium",
-      "published": "Sun, 27 Sep 2026 13:39:14 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "DAL"
-      ]
-    },
-    {
-      "title": "NFL player props Week 3 2026: Best prop picks for Sunday's NFL games include Patrick Mahomes, Josh Allen",
-      "url": "https://www.cbssports.com/betting/news/nfl-player-props-week-3-2026-best-prop-picks-for-sundays-nfl-games-include-patrick-mahomes-josh-allen/",
-      "summary": "Bet on NFL player props Week 3 at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
-      "published": "Sun, 27 Sep 2026 13:36:48 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "Prisco's Week 3 NFL picks: Giants rally behind Jameis Winston, Browns upset Panthers",
@@ -618,110 +674,6 @@
         "NE",
         "NYG",
         "TB"
-      ]
-    },
-    {
-      "title": "NFL clears the air on field condition concerns for Ravens-Cowboys Week 3 matchup in Brazil",
-      "url": "https://www.cbssports.com/nfl/news/nfl-clears-the-air-on-field-condition-concerns-for-ravens-cowboys-week-3-matchup-in-brazil/",
-      "summary": "Baltimore and Dallas will kick off from Maracana Stadium in Rio de Janeiro, Brazil, Sunday on CBS",
-      "published": "Sun, 27 Sep 2026 13:25:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "DAL"
-      ]
-    },
-    {
-      "title": "2026 Week 3 NFL odds, lines, start times, schedule: Picks, predictions for Cowboys-Ravens, every other game",
-      "url": "https://www.cbssports.com/betting/news/2026-week-3-nfl-odds-lines-start-times-schedule-picks-predictions-cowboys-ravens-every-other-game/",
-      "summary": "Week 3 features an international Cowboys-Ravens showdown and two primetime games carrying major quarterback storylines",
-      "published": "Sun, 27 Sep 2026 13:10:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "DAL"
-      ]
-    },
-    {
-      "title": "Week 3 NFL betting odds, lines, totals, spreads, for all 16 games, including Steelers-Bengals, Cowboys-Ravens",
-      "url": "https://www.cbssports.com/betting/news/week-3-nfl-betting-odds-spreads-totals-lines/",
-      "summary": "The Week 3 NFL schedule features 16 games, including Bengals vs. Steelers and Ravens vs. Cowboys on Sunday",
-      "published": "Sun, 27 Sep 2026 12:33:14 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "CIN",
-        "DAL",
-        "PIT"
-      ]
-    },
-    {
-      "title": "NFL Week 3 picks and score predictions: Two undefeated teams go down, Broncos edge Rams in thriller",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-picks-score-predictions/",
-      "summary": "Here's your weekly dose of John Breech's NFL picks",
-      "published": "Sun, 27 Sep 2026 12:23:48 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "LA"
-      ]
-    },
-    {
-      "title": "NFL Week 3 expert picks, best bets: Broncos upset Rams on 'SNF', Bills rout Chargers",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-picks-odds-best-bets-broncos-will-upset-rams/",
-      "summary": "Jordan Dajani gives his picks for Week 3 of the 2026 NFL season",
-      "published": "Sun, 27 Sep 2026 12:22:39 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "DEN",
-        "LA",
-        "LAC"
-      ]
-    },
-    {
-      "title": "NFL Week 3 picks: Our experts face off on Texans at Colts, Ravens vs. Cowboys in Brazil and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-picks-falcons-at-packers-ravens-vs-cowboys/",
-      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
-      "published": "Sun, 27 Sep 2026 12:21:46 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "DAL",
-        "HOU",
-        "IND"
-      ]
-    },
-    {
-      "title": "Titans-Giants weather: MetLife Stadium conditions expected to be rainy and windy for Week 3 game",
-      "url": "https://www.cbssports.com/nfl/news/giants-titans-weather-nasty-conditions-week-3-game/",
-      "summary": "Here's how wind and rain could impact Sunday's game between New York and Tennessee",
-      "published": "Sun, 27 Sep 2026 12:18:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "TEN"
       ]
     }
   ],
