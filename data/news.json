@@ -1,18 +1,17 @@
 {
-  "updated_at_utc": "2026-09-27T05:39:19.654020+00:00",
-  "checked_at_utc": "2026-09-27T05:39:47.284715+00:00",
+  "updated_at_utc": "2026-09-27T10:47:05.030842+00:00",
+  "checked_at_utc": "2026-09-27T10:47:30.300176+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
-      "ok": false,
-      "items": 0,
-      "error": "RuntimeError",
+      "ok": true,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 34
+      "items": 33
     },
     "FOX Sports NFL": {
       "ok": false,
@@ -22,6 +21,75 @@
     }
   },
   "items": [
+    {
+      "title": "Aaron Glenn not buying criticism of Jets' clock management",
+      "url": "https://www.espn.com/nfl/story/_/id/50028245/new-jork-jets-clock-management-aaron-glenn",
+      "summary": "Aaron Glenn says the clock management is fine and that it's discussed every Thursday and Saturday;",
+      "published": "2026-09-27T10:00:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Sources: Myles Garrett faces 6-week timeline from knee surgery",
+      "url": "https://www.espn.com/nfl/story/_/id/50038925/sources-myles-garrett-faces-6-week-line-knee-surgery",
+      "summary": "Myles Garrett was given a six-week recovery timeline from his knee surgery, meaning the star pass rusher might not return until early November, sources told NFL Network.",
+      "published": "2026-09-27T10:39:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "Cowboys vs. Ravens odds, picks, prediction: NFL Week 3 matchup start time, preview, best bets for Brazil game",
+      "url": "https://www.cbssports.com/betting/news/cowboys-vs-ravens-odds-picks-prediction-nfl-week-3-matchup-start-time-preview-best-bets-for-brazil-game/",
+      "summary": "Here's everything bettors need to know for when Dak Prescott and the Cowboys take on Lamar Jackson and the Ravens in Rio de Janeiro",
+      "published": "Sun, 27 Sep 2026 10:01:15 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Jets vs. Lions odds, picks, prediction: NFL Week 3 matchup start time, betting preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/jets-vs-lions-odds-picks-prediction-nfl-week-3-matchup-start-time-betting-preview-best-bets/",
+      "summary": "Here's everything for bettors to know about the Week 3 matchup as the Jets visit the Lions at Ford Field",
+      "published": "Sun, 27 Sep 2026 10:00:58 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "NFL Week 3 odds, predictions, expert picks: Who has edge in Rams-Broncos? Will Texans earn first win?",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-3-picks-odds-rams-broncos/",
+      "summary": "Our complete Week 3 betting guide features expert picks for every matchup, including Ravens-Cowboys in Rio de Janeiro",
+      "published": "Sun, 27 Sep 2026 10:01:28 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL",
+        "DEN",
+        "HOU",
+        "LA"
+      ]
+    },
     {
       "title": "Last-minute best bets for NFL Week 3: Seahawks cruise in Sam Darnold's return, Raiders suffer first loss",
       "url": "https://www.cbssports.com/nfl/news/last-minute-best-bets-for-nfl-week-3-seahawks/",
@@ -426,57 +494,6 @@
         "CLE",
         "NO",
         "SEA"
-      ]
-    },
-    {
-      "title": "NFL Week 3's most underrated games: Why you should watch these three under-the-radar contests",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-3s-most-underrated-games/",
-      "summary": "A look at some of the less talked-about games you should be tuning into",
-      "published": "Fri, 25 Sep 2026 14:38:40 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "49ers GM John Lynch addresses potential Mac Jones trade amid wave of NFL quarterback injuries",
-      "url": "https://www.cbssports.com/nfl/news/mac-jones-trade-rumors-49ers-john-lynch/",
-      "summary": "Jones went 5-3 as a starter in Purdy's absence last season and will become a free agent after the 2026 campaign",
-      "published": "Fri, 25 Sep 2026 14:30:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Giants vs. Titans NFL picks: New York begins life without Jaxson Dart as Jameis Winston takes over",
-      "url": "https://www.cbssports.com/betting/news/giants-vs-titans-nfl-picks-new-york-begins-life-without-jaxson-dart-as-jameis-winston-takes-over/",
-      "summary": "The Giants begin life without Jaxson Dart on Sunday vs. the Titans",
-      "published": "Fri, 25 Sep 2026 14:30:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Giants' Jaxson Dart to undergo knee surgery for a full meniscus tear that will end his 2026 season",
-      "url": "https://www.cbssports.com/nfl/news/jaxson-dart-knee-surgery-end-giants-qbs-2026-season/",
-      "summary": "Dart's ACL is intact, but his season is over",
-      "published": "Fri, 25 Sep 2026 14:18:41 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYG"
       ]
     }
   ],
