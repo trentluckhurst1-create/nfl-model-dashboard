@@ -1,248 +1,52 @@
 {
-  "updated_at_utc": "2026-09-27T00:29:36.622684+00:00",
-  "checked_at_utc": "2026-09-27T00:29:36.622684+00:00",
+  "updated_at_utc": "2026-09-27T05:39:19.654020+00:00",
+  "checked_at_utc": "2026-09-27T05:39:47.284715+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
-      "ok": true,
-      "items": 2,
+      "ok": false,
+      "items": 0,
+      "error": "RuntimeError",
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 34
     },
     "FOX Sports NFL": {
-      "ok": true,
-      "items": 15,
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout",
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Will Hill's Parlay Of The Week: Ravens In Brazil, Unders In College Football Slate",
-      "url": "https://www.foxsports.com/stories/betting/will-hill-parlay-nfl-college-football-ravens-usc-michigan-oklahoma-iowa",
-      "summary": "Check out Will Hill's five-leg parlay that could win you some extra cash this weekend.",
-      "published": "Fri, 25 Sep 2026 20:44:42 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Last-minute best bets for NFL Week 3: Seahawks cruise in Sam Darnold's return, Raiders suffer first loss",
+      "url": "https://www.cbssports.com/nfl/news/last-minute-best-bets-for-nfl-week-3-seahawks/",
+      "summary": "Need some last-second help filling your bets for Week 3? We've got you covered",
+      "published": "Sun, 27 Sep 2026 02:00:57 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL"
+        "LV",
+        "SEA"
       ]
     },
     {
-      "title": "2026 NFL, College Football Odds: Best Bets For Ole Miss-Florida, Chargers-Bills",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-college-football-odds-best-bets-ole-miss-florida-chargers-bills",
-      "summary": "Sammy P is back with his best bets for the weekend, including his pick for Ole Miss-Florida and for the Chargers-Bills showdown.",
-      "published": "Fri, 25 Sep 2026 19:10:41 -0400",
-      "source": "FOX Sports NFL",
+      "title": "NFL Week 3 player props: Our favorite picks to score, including Seahawks rookie RB Jadarian Price",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-player-props-seahawks-jadarian-price/",
+      "summary": "These five players could capitalize on their matchups and find the end zone during Sunday's NFL action",
+      "published": "Sun, 27 Sep 2026 01:00:54 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BUF",
-        "LAC"
-      ]
-    },
-    {
-      "title": "2026 NFL Week 3 Best Bets, Expert Picks: Back Tampa Bay To Cover Against Vikings",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-3-best-bets-expert-picks-back-buccaneers-bounce-back",
-      "summary": "Find out why Geoff Schwartz is backing the Bucs to bounce back against the Vikings and why he's taking the Under in the Titans-Giants tilt.",
-      "published": "Fri, 25 Sep 2026 17:23:46 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN",
-        "NYG",
-        "TB",
-        "TEN"
-      ]
-    },
-    {
-      "title": "49ers Reportedly Dealt Another Nick Bosa Injury Blow; Star DE's Injury History",
-      "url": "https://www.foxsports.com/stories/nfl/nick-bosa-injury-history-49ers-schedule",
-      "summary": "San Francisco 49ers star pass rusher Nick Bosa has reportedly suffered a calf injury that will sideline him for multiple weeks.",
-      "published": "Fri, 25 Sep 2026 12:08:24 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Commanders GM Adam Peters Provides Positive Jayden Daniels Injury Update",
-      "url": "https://www.foxsports.com/stories/nfl/commanders-gm-jayden-daniels-injury-update",
-      "summary": "Commanders general manager Adam Peters provided encouraging news about when quarterback Jayden Daniels could return from his elbow injury.",
-      "published": "Fri, 25 Sep 2026 11:28:46 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "WAS"
-      ]
-    },
-    {
-      "title": "Matt LaFleur, Tucker Kraft Candid About Packers' 'Humbling' Loss To Falcons, Boos",
-      "url": "https://www.foxsports.com/stories/nfl/matt-lafleur-tucker-kraft-booing-comments-packers-falcons",
-      "summary": "Packers head coach Matt LaFleur and tight end Tucker Kraft provided honest thoughts on their Week 3 loss to the Falcons and being booed.",
-      "published": "Fri, 25 Sep 2026 11:07:05 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "GB"
-      ]
-    },
-    {
-      "title": "NFL Week 3 Schedule: How to Watch, TV Channels, Streaming",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-3-schedule-how-watch-tv-channels-streaming",
-      "summary": "See the complete NFL Week 3 schedule for Sept. 24 through Sept. 28, with kickoff times, TV channels and how to watch every game, including six FOX Sunday matchups.",
-      "published": "Fri, 25 Sep 2026 10:51:55 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Almost Time To Pack It Up? 3 Takeaways From Falcons' Dominant Win vs. Packers",
-      "url": "https://www.foxsports.com/stories/nfl/falcons-packers-thursday-night-football-takeaways-matt-lafleur-bijan-robinson-michael-penix",
-      "summary": "Matt LaFleur is firmly on the hot seat, and other takeaways from the Falcons' dominating win over the Packers.",
-      "published": "Thu, 24 Sep 2026 23:41:24 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "GB"
-      ]
-    },
-    {
-      "title": "NFL Catchup: Saquon Barkley, DeVonta Smith On Injury Report; Cowboys Down 4 Defenders",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-saquon-barkley-devonta-smith-injury-report-cowboys-down-4-defenders",
-      "summary": "Here's the latest from around the NFL on Thursday.",
-      "published": "Thu, 24 Sep 2026 23:13:29 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Which 0-2 Team Will Turn It Around? Why We Think The Texans Are Most Likely To Do So",
-      "url": "https://www.foxsports.com/stories/nfl/which-0-2-team-will-turn-around-why-we-think-texans-most-likely-do-so",
-      "summary": "There's a chance your 0-2 team can make the playoffs, but it's pretty slim. So, which 0-2 team is the most likely to beat the odds? We each made our picks, and a common answer emerged.",
-      "published": "Thu, 24 Sep 2026 20:18:47 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU"
-      ]
-    },
-    {
-      "title": "Justin Herbert Isn't Fully To Blame For Chargers' Woes, But He Can Learn From Josh Allen",
-      "url": "https://www.foxsports.com/stories/nfl/justin-herbert-isnt-fully-to-blame-for-chargers-woes-learn-from-josh-allen",
-      "summary": "Justin Herbert enters an uphill battle to keep the Chargers' season alive this weekend against the Bills.",
-      "published": "Thu, 24 Sep 2026 20:05:25 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LAC"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 3: Lines, Spreads For All 16 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-3-lines-spreads-results-all-16-games",
-      "summary": "Check out the odds for every NFL Week 3 contest.",
-      "published": "Thu, 24 Sep 2026 18:12:10 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "#AskTom: Tom Brady Embarrassed By Piss Missile Quote; Which Team Should NFL Foes Fear?",
-      "url": "https://www.foxsports.com/stories/nfl/asktom-tom-brady-embarrassed-piss-missile-quote-who-rest-nfl-should-fear",
-      "summary": "In this week's #AskTom, Brady goes into what makes a throw a piss missile and shares which offense that rest of the team should be fearful of.",
-      "published": "Thu, 24 Sep 2026 18:09:25 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Cody White Surprised In Raiders' Win vs. Chargers, But It Wasn't A Shock To Him",
-      "url": "https://www.foxsports.com/stories/nfl/cody-white-surprised-raiders-win-vs-chargers-wasnt-shock-him",
-      "summary": "Cody White was called up from the Raiders' practice squad a day before scoring two TDs, but he was prepared for the moment.",
-      "published": "Thu, 24 Sep 2026 16:00:12 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LAC",
-        "LV"
-      ]
-    },
-    {
-      "title": "Steelers CB Joey Porter Jr. Provides Update On Extension Talks, Back Injury",
-      "url": "https://www.foxsports.com/stories/nfl/joey-porter-jr-contract-update-steelers-injuries",
-      "summary": "Pittsburgh Steelers cornerback Joey Porter Jr. is eager to play this season, though he doesn't know when that will happen.",
-      "published": "Thu, 24 Sep 2026 15:53:00 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "Broncos place RB Jonah Coleman (ankle) on IR",
-      "url": "https://www.espn.com/nfl/story/_/id/50036843/broncos-place-rb-jonah-coleman-ankle-ir",
-      "summary": "Denver Broncos rookie running back Jonah Coleman was placed on injured reserve Saturday with an ankle injury he suffered in the team's Week 2 win over the Jacksonville Jaguars.",
-      "published": "2026-09-26T22:43:52Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Patriots need rookie LB Gabe Jacas to fill big shoes on defense",
-      "url": "https://www.espn.com/nfl/story/_/id/50028606/new-england-patriots-week-3-defense-gabe-jacas-rookie",
-      "summary": "The second-round pick has made impact plays over the first two weeks and will start vs. the Jaguars. Here's the latest on Jacas and other notes on the Patriots.",
-      "published": "2026-09-26T22:00:06Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX",
-        "NE"
+        "SEA"
       ]
     },
     {
