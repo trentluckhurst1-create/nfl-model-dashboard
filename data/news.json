@@ -1,25 +1,139 @@
 {
-  "updated_at_utc": "2026-09-28T13:41:57.590932+00:00",
-  "checked_at_utc": "2026-09-28T13:41:57.590932+00:00",
+  "updated_at_utc": "2026-09-28T20:15:01.292760+00:00",
+  "checked_at_utc": "2026-09-28T20:15:01.292760+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 11,
+      "items": 15,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 28
+      "items": 31
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 13,
+      "items": 19,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
+      "summary": "Check out the odds for every NFL Week 4 contest.",
+      "published": "Mon, 28 Sep 2026 15:16:03 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL MVP Odds: Purdy, Jackson In Hot Pursuit Of Allen",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
+      "summary": "Josh Allen has some immediate competition three weeks into the season. See the latest MVP odds.",
+      "published": "Mon, 28 Sep 2026 14:37:15 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL Coach Of The Year Odds: Kellen Moore Favored, Klint Kubiak Surges",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-coach-of-the-year-odds",
+      "summary": "Kellen Moore led the Saints to a road upset, while Klint Kubiak has the Raiders 2-0. See the latest Coach of the Year odds.",
+      "published": "Mon, 28 Sep 2026 14:27:10 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV",
+        "NO"
+      ]
+    },
+    {
+      "title": "Giants Star Pass Rusher Brian Burns Reportedly Tore His ACL Against Titans",
+      "url": "https://www.foxsports.com/stories/nfl/giants-star-pass-rusher-brian-burns-reportedly-tore-his-acl-against-titans",
+      "summary": "Star pass rusher Brian Burns is feared to have torn his ACL on Sunday against the Tennessee Titans.",
+      "published": "Mon, 28 Sep 2026 14:06:16 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "TEN"
+      ]
+    },
+    {
+      "title": "How Brian Schottenheimer Cost The Cowboys; Seahawks Badly Miss Kenneth Walker III",
+      "url": "https://www.foxsports.com/stories/nfl/brian-schottenheimer-lost-cowboys-seahawks-badly-miss-kenneth-walker-iii",
+      "summary": "Brian Schottenheimer mismanaged Dallas to a loss while Joe Brady coaxed his Bills to a win. Plus, Seattle's cost of losing a key contributor.",
+      "published": "Mon, 28 Sep 2026 12:38:25 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "DAL",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Vikings Trade QB J.J. McCarthy To Giants For Fifth-Round Draft Pick",
+      "url": "https://www.foxsports.com/stories/nfl/giants-reportedly-trade-qb-j-j-mccarthy",
+      "summary": "The New York Giants are trading for Minnesota Vikings quarterback J.J. McCarthy.",
+      "published": "Mon, 28 Sep 2026 12:36:09 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "MIN",
+        "NYG"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
+      "summary": "Two talented AFC squads have yet to find their stride, and it is reflecting in their postseason odds. See the latest.",
+      "published": "Mon, 28 Sep 2026 12:21:03 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL, CFB Weekend Betting Recap: Touchdowns Galore Benefit Bettors",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-cfb-weekend-betting-recap-touchdowns-galore-benefit-bettors",
+      "summary": "Player props paved the way for bettors in NFL Week 3. Patrick Everson reports on that and more.",
+      "published": "Mon, 28 Sep 2026 11:03:10 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Miami Dolphins RB De'Von Achane Reportedly Tore His ACL",
+      "url": "https://www.foxsports.com/stories/nfl/dolphins-devon-achance-knee-injury-update",
+      "summary": "De'Von Achane's knee injury did \"not sound optimistic\" after Sunday's game, and further testing reportedly confirmed a torn ACL.",
+      "published": "Mon, 28 Sep 2026 10:52:42 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIA"
+      ]
+    },
     {
       "title": "How to Watch Eagles vs. Bears: TV Channel, Live Stream, Time",
       "url": "https://www.foxsports.com/stories/nfl/how-to-watch-eagles-vs-bears-tv-channel-live-stream-time-2026-week-3",
@@ -118,7 +232,7 @@
       ]
     },
     {
-      "title": "Baker Mayfield Exits Loss vs. Vikings With Dislocated Thumb, Expected To Miss Time",
+      "title": "Baker Mayfield Exits vs. Vikings With Dislocated Thumb, Expected To Miss 3 Weeks",
       "url": "https://www.foxsports.com/stories/nfl/baker-mayfield-exits-game-vs-vikings-apparent-hand-injury",
       "summary": "Baker Mayfield suffered an apparent hand injury in the fourth quarter against the Minnesota Vikings.",
       "published": "Sun, 27 Sep 2026 20:21:36 -0400",
@@ -129,17 +243,6 @@
       "teams": [
         "MIN"
       ]
-    },
-    {
-      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
-      "summary": "Two talented AFC squads have yet to find their stride, and it is reflecting in their postseason odds. See the latest.",
-      "published": "Sun, 27 Sep 2026 20:16:03 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "Another Brutal Buccaneers Loss: 3 Takeaways From Vikings' Win In Tampa Bay",
@@ -170,22 +273,311 @@
       ]
     },
     {
-      "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
-      "summary": "Check out the odds for every NFL Week 4 contest.",
-      "published": "Sun, 27 Sep 2026 19:47:11 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Sources: Vikings' Jefferson has ankle sprain, could play this week",
+      "url": "https://www.espn.com/nfl/story/_/id/50054067/sources-vikings-jefferson-ankle-sprain-play-week",
+      "summary": "Vikings star wide receiver Justin Jefferson has an ankle sprain, according to the MRI performed Monday, and there's a chance he is able to play Sunday against the Dolphins, sources told NFL Network's Ian Rapoport and ESPN's Dan Graziano.",
+      "published": "2026-09-28T19:55:35Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIA",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Saints RB Travis Etienne Jr. to sit with hamstring injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50054057/saints-rb-travis-etienne-jr-sit-hamstring-injury",
+      "summary": "Saints running back Travis Etienne Jr. will miss time with a hamstring injury suffered in Sunday's loss to the Raiders. New Orleans coach Kellen Moore did not specify how long Etienne will be out.",
+      "published": "2026-09-28T20:01:42Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LV",
+        "NO"
+      ]
+    },
+    {
+      "title": "Sources: Jets RB Breece Hall week-to-week with quad injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50053866/sources-jets-rb-breece-hall-week-week-quad-injury",
+      "summary": "Jets running back Breece Hall, who suffered a quad injury in Sunday's 31-24 loss to the Lions, is considered week-to-week, sources told NFL Network's Ian Rapoport and ESPN's Adam Schefter.",
+      "published": "2026-09-28T20:07:50Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Jaguars sorting out ball boy spat after Travis Hunter interception",
+      "url": "https://www.espn.com/nfl/story/_/id/50053736/jaguars-sorting-ball-boy-spat-travis-hunter-interception",
+      "summary": "Jaguars coach Liam Coen isn't sure if cornerback Travis Hunter ended up with the actual ball from his first NFL interception.",
+      "published": "2026-09-28T19:24:12Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Matthew Stafford makes cameo in Taylor Swift's 'Patient Zero' music video",
+      "url": "https://www.espn.com/nfl/story/_/id/50052555/matthew-stafford-taylor-swift-rams-aries-patient-zero-music-video-cameo",
+      "summary": "Why, yes, that was Matthew Stafford. Here's why all signs pointed to the reigning NFL MVP's music video cameo.",
+      "published": "2026-09-28T18:17:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
       "teams": []
     },
     {
-      "title": "Vikings Rule Out WR Justin Jefferson Due To Ankle Injury vs. Buccaneers",
-      "url": "https://www.foxsports.com/stories/nfl/vikings-rule-out-justin-jefferson-due-ankle-injury-vs-buccaneers",
-      "summary": "The Minnesota Vikings have ruled out star wide receiver Justin Jefferson for the remainder of Sunday's game against the Tampa Bay Buccaneers with an ankle injury, the team confirmed.",
-      "published": "Sun, 27 Sep 2026 18:35:57 -0400",
-      "source": "FOX Sports NFL",
+      "title": "NFL asks DHS to take down Brian Dawkins social media video",
+      "url": "https://www.espn.com/nfl/story/_/id/50053653/nfl-asks-dhs-take-brian-dawkins-social-media-video",
+      "summary": "The NFL asked DHS to remove a social media post likening former Eagles star Brian Dawkins' greatest hits to immigration agents' treatment of migrants.",
+      "published": "2026-09-28T18:37:00Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Cowboys' Jalen Thompson to be sidelined with hamstring injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50053593/cowboys-jalen-thompson-sidelined-hamstring-injury",
+      "summary": "Cowboys safety Jalen Thompson could be sidelined four-plus weeks because of a hamstring injury he suffered in Sunday's loss to the Ravens, executive vice president Stephen Jones said Monday.",
+      "published": "2026-09-28T18:21:04Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "McCarthy exits Vikings as one of franchise's biggest draft busts",
+      "url": "https://www.espn.com/nfl/story/_/id/50052903/nfl-minnesota-vikings-jj-mccarthy-trade-new-york-giants-kevin-occonnell",
+      "summary": "J.J. McCarthy was the No. 10 pick in 2024 but played only 10 games before being traded to the Giants on Monday.",
+      "published": "2026-09-28T18:50:45Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "MIN",
+        "NYG"
+      ]
+    },
+    {
+      "title": "NFL trade deadline grades: J.J. McCarthy to the Giants",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "summary": "Can J.J. McCarthy improve the Giants' QB situation? Did the Vikings get enough back? We're grading NFL trades ahead of November's deadline.",
+      "published": "2026-09-28T18:48:16Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "MIN",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Tracking Jaguars CB/WR Travis Hunter through 2026 season",
+      "url": "https://www.espn.com/nfl/story/_/id/50043976/jacksonville-jaguars-travis-hunter-stats-snaps-tracker",
+      "summary": "Every week, we will look at how many snaps the two-way corner/receiver plays on offense and defense. Is there a trend in his usage?",
+      "published": "2026-09-28T17:02:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Buccaneers' Mayfield (thumb) out at least three weeks, Bowles says",
+      "url": "https://www.espn.com/nfl/story/_/id/50052996/buccaneers-mayfield-thumb-least-three-weeks-bowles-says",
+      "summary": "Buccaneers quarterback Baker Mayfield is expected to miss at least three weeks with the dislocated thumb on his throwing hand he suffered Sunday, coach Todd Bowles announced Monday.",
+      "published": "2026-09-28T18:31:18Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "TB"
+      ]
+    },
+    {
+      "title": "Sources: Panthers CB Jaycee Horn out indefinitely with torn quad",
+      "url": "https://www.espn.com/nfl/story/_/id/50052968/sources-panthers-cb-jaycee-horn-indefinitely-torn-quad",
+      "summary": "Panthers cornerback Jaycee Horn will seek a second opinion on his torn quad, sources told NFL Network, but he is headed for injured reserve and could miss the rest of the 2026 season.",
+      "published": "2026-09-28T17:45:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CAR"
+      ]
+    },
+    {
+      "title": "2026 NFL trade deadline updates: Latest in-season deals, news",
+      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
+      "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including J.J. McCarthy to the Giants.",
+      "published": "2026-09-28T16:53:38Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Giants acquire QB J.J. McCarthy in trade with Vikings",
+      "url": "https://www.espn.com/nfl/story/_/id/50052864/sources-giants-acquire-qb-jj-mccarthy-trade-vikings",
+      "summary": "The Giants are trading for Vikings quarterback J.J. McCarthy, sending a 2027 fifth-round draft pick to Minnesota for the 2024 first-round pick.",
+      "published": "2026-09-28T18:22:44Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "MIN",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Source: Packers signing veteran O-lineman Mekhi Becton",
+      "url": "https://www.espn.com/nfl/story/_/id/50052520/source-packers-signing-veteran-o-lineman-mekhi-becton",
+      "summary": "Veteran offensive lineman Mekhi Becton is signing with the Packers, a source told ESPN's Jeremy Fowler on Monday.",
+      "published": "2026-09-28T17:16:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "Vikings' Justin Jefferson suffers ankle sprain vs. Buccaneers, Week 4 status still unknown",
+      "url": "https://www.cbssports.com/nfl/news/vikings-justin-jefferson-questionable-to-return-vs-buccaneers-with-a-knee-injury/",
+      "summary": "Jefferson avoided any serious injury and has a chance to play on Sunday against the Dolphins",
+      "published": "Mon, 28 Sep 2026 19:53:28 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIA",
+        "MIN",
+        "TB"
+      ]
+    },
+    {
+      "title": "NFL Week 3 panic meter: Chargers in crisis, Patriots unraveling, Packers fading, but Rams will be fine",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-panic-meter-chargers-patriots-packers-rams/",
+      "summary": "We revisited four preseason contenders after Week 3, and the concern level has flipped",
+      "published": "Mon, 28 Sep 2026 19:22:53 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "LA",
+        "LAC",
+        "NE"
+      ]
+    },
+    {
+      "title": "Rams' Matthew Stafford makes surprise cameo in Taylor Swift's new music video",
+      "url": "https://www.cbssports.com/nfl/news/rams-matthew-stafford-cameo-taylor-swift-video/",
+      "summary": "Swift's connection to the NFL continues to grow",
+      "published": "Mon, 28 Sep 2026 18:11:01 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "J.J. McCarthy experiment unraveled after only 10 starts in Minnesota; can QB pick up the pieces with Giants?",
+      "url": "https://www.cbssports.com/nfl/news/j-j-mccarthy-vikings-giants-trade-whats-next-for-former-top-10-qb/",
+      "summary": "Minnesota bet on the flashes that made McCarthy a top-10 pick. Two years and 10 starts later, he's been traded to the Giants",
+      "published": "Mon, 28 Sep 2026 17:44:30 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "J.J. McCarthy trade: Giants acquire Vikings QB in wake of Jaxson Dart injury",
+      "url": "https://www.cbssports.com/nfl/news/new-york-giants-to-trade-for-j-j-mccarthy-per-report/",
+      "summary": "The Giants will add a former first-round pick to an ailing quarterback group",
+      "published": "Mon, 28 Sep 2026 17:38:04 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN",
+        "NYG"
+      ]
+    },
+    {
+      "title": "J.J. McCarthy trade grades: QB could be a downgrade for Giants, Vikings get a clean split",
+      "url": "https://www.cbssports.com/nfl/news/j-j-mccarthy-trade-grades-qb-giants-vikings/",
+      "summary": "New York is sending a 2027 fifth-round pick to Minnesota for McCarthy",
+      "published": "Mon, 28 Sep 2026 17:17:09 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "MIN",
+        "NYG"
+      ]
+    },
+    {
+      "title": "NFL Week 3 winners and losers, plus J.J. McCarthy dealt to Giants and Eagles-Bears picks for Monday night",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-winners-and-losers-plus-j-j-mccarthy-dealt-to-giants-and-eagles-bears-picks-for-monday-night/",
+      "summary": "Here's everything you need to know about the NFL for Sept. 28",
+      "published": "Mon, 28 Sep 2026 16:53:56 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "NYG",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Bucs' Baker Mayfield to miss several weeks after injuring throwing hand during loss to Vikings",
+      "url": "https://www.cbssports.com/nfl/news/baker-mayfield-injury-buccaneers-vikings-2026/",
+      "summary": "An MRI on Monday revealed no significant damage, but Mayfield is expected to miss three weeks with a thumb injury",
+      "published": "Mon, 28 Sep 2026 16:48:08 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
@@ -195,151 +587,58 @@
       ]
     },
     {
-      "title": "Sources: Leo Chenal to have season-ending neck surgery",
-      "url": "https://www.espn.com/nfl/story/_/id/50051498/sources-leo-chenal-season-ending-neck-surgery",
-      "summary": "Commanders linebacker Leo Chenal, who was carted off the field during the team's win over the Seahawks on Sunday, will undergo season-ending neck surgery, sources confirmed to NFL Network.",
-      "published": "2026-09-28T13:23:21Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SEA",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Big Week 3 losses: Seahawks, Pats, Texans, Chargers, Panthers",
-      "url": "https://www.espn.com/nfl/story/_/id/50043253/week-3-losses-seahawks-patriots-texans-chargers-panthers",
-      "summary": "The Pats got blown out. The Seahawks lost to a QB2. The Panthers couldn't overcome injuries. The Chargers and Texans fell to 0-3. What now for five of last season's playoff teams?",
-      "published": "2026-09-28T12:44:03Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CAR",
-        "HOU",
-        "LAC",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Sources: Giants' Brian Burns believed to have torn ACL",
-      "url": "https://www.espn.com/nfl/story/_/id/50051321/sources-giants-brian-burns-believed-torn-acl",
-      "summary": "New York Giants standout pass rusher Brian Burns is believed to have sustained a torn ACL during Sunday's 12-7 win over the Tennessee Titans, sources told ESPN's Adam Schefter and NFL Network's Ian Rapoport.",
-      "published": "2026-09-28T12:56:12Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Commanders set to re-add Austin Ekeler to RB room, sources say",
-      "url": "https://www.espn.com/nfl/story/_/id/50051074/commanders-set-re-add-austin-ekeler-rb-room-sources-say",
-      "summary": "The Commanders are expected to sign free agent running back Austin Ekeler to their 53-man roster, pending a physical, sources told NFL Network's Ian Rapoport and Mike Garafolo.",
-      "published": "2026-09-28T13:09:40Z",
-      "source": "ESPN NFL",
+      "title": "De'Von Achane out for season: After losing best player, are Dolphins bound to go 0-17?",
+      "url": "https://www.cbssports.com/nfl/news/devon-achane-injury-dolphins-0-17-prediction/",
+      "summary": "Achane's torn ACL could be a death blow for a dreadful roster",
+      "published": "Mon, 28 Sep 2026 16:08:14 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "WAS"
-      ]
-    },
-    {
-      "title": "Aaron Glenn not buying criticism of Jets' clock management",
-      "url": "https://www.espn.com/nfl/story/_/id/50028245/new-jork-jets-clock-management-aaron-glenn",
-      "summary": "Aaron Glenn says the clock management is fine and that it's discussed every Thursday and Saturday;",
-      "published": "2026-09-27T10:00:01Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Joe Burrow, Bengals can't 'close it out' against Steelers",
-      "url": "https://www.espn.com/nfl/story/_/id/50048227/joe-burrow-cincinnati-bengals-cant-close-steelers",
-      "summary": "Special teams gaffes and a Burrow fumble late in the fourth sealed Cincinnati's outcome.",
-      "published": "2026-09-28T10:00:02Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Chiefs' Mahomes perfect on play-action passes in win vs. Dolphins",
-      "url": "https://www.espn.com/nfl/story/_/id/50049468/chiefs-patrick-mahomes-play-action-passes-dolphins-travis-kelce-kenneth-walker-iii",
-      "summary": "Mahomes completed all 14 of his play-action attempts for 201 yards, including a touchdown, according to ESPN Research.",
-      "published": "2026-09-28T10:00:11Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
         "MIA"
       ]
     },
     {
-      "title": "2027 NFL draft order projections for Round 1, top pick, more",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-09-28T10:00:39Z",
-      "source": "ESPN NFL",
+      "title": "Eagles vs. Bears picks, player props: Expert's best bets for Monday Night Football in NFL Week 3",
+      "url": "https://www.cbssports.com/betting/news/eagles-vs-bears-picks-player-props-experts-best-bets-for-monday-night-football-in-nfl-week-3/",
+      "summary": "Philadelphia heads to Chicago on Monday Night Football with the Bears starting Case Keenum at quarterback",
+      "published": "Mon, 28 Sep 2026 17:06:33 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Where has Bears TE Colston Loveland been this season?",
-      "url": "https://www.espn.com/nfl/story/_/id/50044351/where-chicago-bears-te-colston-loveland-season",
-      "summary": "The tight end has one catch and faces a tough Eagles defense on MNF. With no Caleb Williams, can he get going?",
-      "published": "2026-09-28T13:00:28Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
+      "category": "qb",
       "teams": [
         "CHI",
         "PHI"
       ]
     },
     {
-      "title": "Eagles' DeVonta Smith is headed into another stratosphere",
-      "url": "https://www.espn.com/nfl/story/_/id/50042344/philadelphia-eagles-devonta-smith-wr1-post-aj-brown-mnf",
-      "summary": "The Eagles' go-to guy in key moments has always seen himself as WR1 -- now everyone else is just catching up.",
-      "published": "2026-09-28T12:45:15Z",
-      "source": "ESPN NFL",
+      "title": "Buccaneers mired in historically poor 12-game stretch as 0-3 start, Baker Mayfield injury emphasize woes",
+      "url": "https://www.cbssports.com/nfl/news/buccaneers-0-3-historic-bad-stretch-baker-mayfield-injury/",
+      "summary": "Tampa Bay defied expectations for the worse dating to the 2025 bye week",
+      "published": "Mon, 28 Sep 2026 14:49:36 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "injury",
       "teams": [
-        "PHI"
+        "TB"
       ]
     },
     {
-      "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances",
-      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
-      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
-      "published": "2026-09-28T10:00:22Z",
-      "source": "ESPN NFL",
+      "title": "Dolphins' De'Von Achane to miss rest of season with torn ACL, per report",
+      "url": "https://www.cbssports.com/nfl/news/devon-achane-knee-injury-dolphins-chiefs-2026/",
+      "summary": "Achane suffered the non-contact injury on a first-quarter run and was ruled out during Miami's Week 3 game against the Chiefs",
+      "published": "Mon, 28 Sep 2026 14:49:56 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
+      "category": "injury",
+      "teams": [
+        "KC",
+        "MIA"
+      ]
     },
     {
       "title": "Mike Vrabel says his concern level 'very high' for Pats, Drake Maye after disastrous Week 3 loss",
@@ -367,7 +666,7 @@
       "title": "2026 NFL Week 4 early odds: Chiefs road favorites over undefeated Raiders, Bucs no longer favored vs. Packers",
       "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-4-early-odds-chiefs-raiders-packers/",
       "summary": "Plus, Bills are heavy favorites over the Pats. Here's a look at the lines for Week 4 in the NFL as we wrap up the first month of the 2026 season",
-      "published": "Mon, 28 Sep 2026 12:53:05 +0000",
+      "published": "Mon, 28 Sep 2026 13:43:39 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -425,7 +724,7 @@
       "title": "Bears vs. Eagles preview: Philadelphia looks to remain unbeaten against Caleb Williams-less Chicago",
       "url": "https://www.cbssports.com/nfl/news/bears-vs-eagles-preview-pick-prediction-how-to-watch/",
       "summary": "Plus, how to watch the game and a prediction for the Monday night matchup",
-      "published": "Mon, 28 Sep 2026 11:42:55 +0000",
+      "published": "Mon, 28 Sep 2026 19:21:46 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -533,20 +832,6 @@
       ]
     },
     {
-      "title": "Baker Mayfield dislocates thumb on throwing hand during Buccaneers' loss to Vikings",
-      "url": "https://www.cbssports.com/nfl/news/baker-mayfield-injury-buccaneers-vikings-2026/",
-      "summary": "Mayfield was in serious pain following a fourth-quarter interception",
-      "published": "Mon, 28 Sep 2026 00:10:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN",
-        "TB"
-      ]
-    },
-    {
       "title": "Steelers' offense finally shows its potential in shootout win over Bengals: Here's what sparked breakout",
       "url": "https://www.cbssports.com/nfl/news/steelers-offense-shows-potential-vs-bengals/",
       "summary": "After scoring one touchdown in its first two games, Pittsburgh scored three touchdowns and had six scoring drives against Cincinnati",
@@ -603,20 +888,6 @@
       ]
     },
     {
-      "title": "Vikings' Justin Jefferson ruled out vs. Buccaneers with a knee injury",
-      "url": "https://www.cbssports.com/nfl/news/vikings-justin-jefferson-questionable-to-return-vs-buccaneers-with-a-knee-injury/",
-      "summary": "Jefferson went into the blue medical tent in the first quarter and left the field midway through the second quarter",
-      "published": "Sun, 27 Sep 2026 22:13:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN",
-        "TB"
-      ]
-    },
-    {
       "title": "What happened to Drake Maye? Why his Year 3 collapse is getting harder to explain away",
       "url": "https://www.cbssports.com/nfl/news/patriots-drake-maye-interceptions-2026-season-collapse/",
       "summary": "From Trevor Lawrence to Mitchell Trubisky, recent history shows two very different ways this can go",
@@ -626,101 +897,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "Jaguars' Trevor Lawrence explains why he took knee at 1-yard line instead of scoring a touchdown",
-      "url": "https://www.cbssports.com/nfl/news/jaguars-trevor-lawrence-explains-why-he-took-knee-1-yard-line/",
-      "summary": "Anytime touchdown bettors for Lawrence may want to look away",
-      "published": "Sun, 27 Sep 2026 21:37:28 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX"
-      ]
-    },
-    {
-      "title": "Derrick Henry passes Eric Dickerson for ninth on NFL's all-time rushing list",
-      "url": "https://www.cbssports.com/nfl/news/ravens-derrick-henry-eric-dickerson-nfl-rushing-yards/",
-      "summary": "The five-time Pro Bowler added another milestone to his decorated career while scoring two first-half touchdowns against the Cowboys",
-      "published": "Sun, 27 Sep 2026 21:23:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Dolphins 'not very optimistic' about De'Von Achane injury after star RB exits Week 3 loss",
-      "url": "https://www.cbssports.com/nfl/news/devon-achane-knee-injury-dolphins-chiefs-2026/",
-      "summary": "Achane suffered the non-contact injury on a first-quarter run and was ruled out after initially being listed as questionable to return",
-      "published": "Sun, 27 Sep 2026 20:52:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIA"
-      ]
-    },
-    {
-      "title": "Watch: Deebo Samuel, Mike Evans execute hook and ladder for 82-yard touchdown",
-      "url": "https://www.cbssports.com/nfl/news/deebo-samuel-mike-evans-hook-and-ladder-82-yard-touchdown/",
-      "summary": "A nifty play from the veteran wide receivers put the 49ers on the board first against the Cardinals",
-      "published": "Sun, 27 Sep 2026 20:48:39 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "SF"
-      ]
-    },
-    {
-      "title": "Jets' Breece Hall ruled out for game with thigh injury against Lions",
-      "url": "https://www.cbssports.com/nfl/news/breece-hall-injury-update-jets-lions-2026/",
-      "summary": "Hall hit the ground hard on a fourth-quarter run and was ruled out following a sideline evaluation",
-      "published": "Sun, 27 Sep 2026 19:55:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DET",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "NFL's first 70-yard field goal almost happens: Jaguars' Cam Little barely misses on historic attempt",
-      "url": "https://www.cbssports.com/nfl/news/nfls-first-70-yard-field-goal-almost-hits-jaguars-cam-little/",
-      "summary": "Little came inches away from history in the Jaguars' Week 3 matchup against the Patriots",
-      "published": "Sun, 27 Sep 2026 19:29:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX",
-        "NE"
-      ]
-    },
-    {
-      "title": "NFL in Rio: How field conditions look before Ravens-Cowboys Week 3 matchup in Brazil",
-      "url": "https://www.cbssports.com/nfl/news/nfl-clears-the-air-on-field-condition-concerns-for-ravens-cowboys-week-3-matchup-in-brazil/",
-      "summary": "Baltimore and Dallas will kick off from Maracana Stadium in Rio de Janeiro, Brazil, Sunday on CBS",
-      "published": "Sun, 27 Sep 2026 18:48:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "DAL"
-      ]
     }
   ],
   "reporters": []
