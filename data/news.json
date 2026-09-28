@@ -1,25 +1,94 @@
 {
-  "updated_at_utc": "2026-09-28T00:47:22.310733+00:00",
-  "checked_at_utc": "2026-09-28T00:47:22.310733+00:00",
+  "updated_at_utc": "2026-09-28T05:58:33.229133+00:00",
+  "checked_at_utc": "2026-09-28T05:58:33.229133+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 25,
+      "items": 14,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 25
+      "items": 27
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 8,
+      "items": 12,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Overreaction Monday: Time To Bench Drake Maye? Chiefs Best Team In NFL?",
+      "url": "https://www.foxsports.com/stories/nfl/overreaction-monday-time-bench-drake-maye-chiefs-best-team-nfl",
+      "summary": "Does Drake Maye need to take a break? Are the Chiefs the NFL's best team? Is Justin Herbert to blame for Chargers' woes?",
+      "published": "Mon, 28 Sep 2026 00:26:35 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Denver Offense Comes Alive In Second Half: 3 Takeaways From Broncos Win Over Rams",
+      "url": "https://www.foxsports.com/stories/nfl/los-angeles-rams-vs-denver-broncos-takeaways-september-27-2026",
+      "summary": "Bo Nix and the Broncos offense came alive after halftime, improving to 2-1 with a win over the Los Angeles Rams.",
+      "published": "Mon, 28 Sep 2026 00:13:41 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "LA"
+      ]
+    },
+    {
+      "title": "NFL Week 3 Defining Stats: Milestones Mount, Unusual Records Fall",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-3-defining-stats-records-fall-stars-make-history",
+      "summary": "NFL superstars made history in Week 3, but the most unusual stat of the week came from a player who didn\u2019t make a single catch.",
+      "published": "Mon, 28 Sep 2026 00:10:17 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Fallout Week 3: The Patriots Are Battling More Than A Super Bowl Hangover",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-fallout-week-3-patriots-battling-more-than-super-bowl-hangover",
+      "summary": "The Texans are toast and the Pats might soon be as well. The Vikings are for real. Are the Raiders? Here are Ralph Vacchiano's top takeaways from Week 3.",
+      "published": "Mon, 28 Sep 2026 00:05:43 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "LV",
+        "MIN",
+        "NE"
+      ]
+    },
+    {
+      "title": "Ravens' Tyler Loop Hits Ronaldo's \u2018Siu\u2019 After Walk-Off FG To Beat Cowboys In Brazil",
+      "url": "https://www.foxsports.com/stories/nfl/ravens-tyler-loop-hits-ronaldos-siu-after-walk-off-fg-beat-cowboys-brazil",
+      "summary": "Baltimore Ravens kicker Tyler Loop made a 56-yard field goal as time expired Sunday to beat the Dallas Cowboys 34-31, then celebrated with Cristiano Ronaldo's \"Siu.\"",
+      "published": "Sun, 27 Sep 2026 21:42:51 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
     {
       "title": "Baker Mayfield Exits Loss vs. Vikings With Dislocated Thumb, Expected To Miss Time",
       "url": "https://www.foxsports.com/stories/nfl/baker-mayfield-exits-game-vs-vikings-apparent-hand-injury",
@@ -112,19 +181,6 @@
       ]
     },
     {
-      "title": "Dolphins Fear Major Knee Injury For RB De'Von Achane: 'It Does Not Sound Optimistic'",
-      "url": "https://www.foxsports.com/stories/nfl/dolphins-devon-achance-knee-injury-update",
-      "summary": "Miami Dolphins head coach Jeff Hafley delivered a grim update on star running back De'Von Achane's knee injury, saying \"it does not sound optimistic.\"",
-      "published": "Sun, 27 Sep 2026 17:09:18 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIA"
-      ]
-    },
-    {
       "title": "Aaron Glenn not buying criticism of Jets' clock management",
       "url": "https://www.espn.com/nfl/story/_/id/50028245/new-jork-jets-clock-management-aaron-glenn",
       "summary": "Aaron Glenn says the clock management is fine and that it's discussed every Thursday and Saturday;",
@@ -138,10 +194,24 @@
       ]
     },
     {
-      "title": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more",
-      "summary": "Sunday of Week 3 has seen 13 games played, with Lamar Jackson, Jahmyr Gibbs and Sam Darnold having big stat days.",
-      "published": "2026-09-28T00:24:04Z",
+      "title": "Bo Nix and Talanoa Hufanga lead the Broncos past the Rams 30-26 in a Sunday night thriller",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872962",
+      "summary": "\u2014 Bo Nix didn't flinch from his slow start and Talanoa Hufanga didn't lose faith after dropping two interceptions Sunday night.",
+      "published": "2026-09-28T04:54:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "LA"
+      ]
+    },
+    {
+      "title": "NFL Week 3: Takeaways, questions, fantasy spin for Sunday's games",
+      "url": "https://www.espn.com/nfl/story/_/id/50043408/week-3-sunday-games-takeaways-questions-2026",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 3.",
+      "published": "2026-09-28T04:51:47Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -149,9 +219,86 @@
       "teams": []
     },
     {
+      "title": "What are the longest field goals in NFL history?",
+      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
+      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
+      "published": "2026-09-28T03:57:33Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more",
+      "summary": "Lamar Jackson, Jahmyr Gibbs and Sam Darnold had big stat days during Sunday's 14-game slate in Week 3.",
+      "published": "2026-09-28T04:58:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Saints again on losing end of controversial fumble ruling",
+      "url": "https://www.espn.com/nfl/story/_/id/50049529/saints-again-losing-end-controversial-fumble-ruling",
+      "summary": "The Saints walked away from Sunday's home loss to the Raiders just as confused about the application of the quarterback fumble rules as they were in Week 1.",
+      "published": "2026-09-28T04:02:50Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "LV",
+        "NO"
+      ]
+    },
+    {
+      "title": "Ravens stun Cowboys in final seconds as Loop gains redemption",
+      "url": "https://www.espn.com/nfl/story/_/id/50049488/ravens-stun-cowboys-final-seconds-loop-gains-redemption",
+      "summary": "Lamar Jackson, Tyler Loop and the Ravens delivered one of the most remarkable last-second victories in recent NFL history Sunday, thanks to a late fourth-quarter decision made by the Cowboys.",
+      "published": "2026-09-28T03:12:16Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Raiders' Brock Bowers shines in return from knee procedure",
+      "url": "https://www.espn.com/nfl/story/_/id/50049442/raiders-brock-bowers-shines-return-knee-procedure",
+      "summary": "Brock Bowers showed no rust in his regular-season debut Sunday after undergoing a meniscus procedure, finishing with 10 catches for 116 yards and a TD.",
+      "published": "2026-09-28T04:50:14Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV"
+      ]
+    },
+    {
+      "title": "How Josh Allen, Bills overcame five turnovers to go to 3-0",
+      "url": "https://www.espn.com/nfl/story/_/id/50046887/buffalo-bills-overcame-five-turnovers-beat-chargers-josh-allen",
+      "summary": "Buffalo turned the ball over three times on its first four possessions in the 24-16 win over Chargers.",
+      "published": "2026-09-28T02:00:37Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LAC"
+      ]
+    },
+    {
       "title": "Kirk Cousins passes for 3 TDs and the unbeaten Raiders come back to top the Saints 35-27",
       "url": "http://www.espn.com/nfl/recap?gameId=401872961",
-      "summary": "\u2014 Kirk Cousins passed for 248 yards and three touchdowns, and the Las Vegas Raiders overcame an 11-point second-half deficit to beat the New Orleans Saints 35-27 on Sunday and remain unbeaten under rookie coach Klint Kubiak.",
+      "summary": "\u2014 It took the Las Vegas Raiders an entire season to accumulate three victories in 2025.",
       "published": "2026-09-28T00:22:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
@@ -165,8 +312,8 @@
     {
       "title": "Ravens' jab at Cowboys after win in Rio leads Week 3 trolls",
       "url": "https://www.espn.com/nfl/story/_/id/50046373/nfl-week-3-trolls-2026",
-      "summary": "The Baltimore Ravens followed up their last second victory over the Dallas Cowboys with a petty post.",
-      "published": "2026-09-28T00:31:56Z",
+      "summary": "The Baltimore Ravens followed up their last-second victory over the Dallas Cowboys with a petty post.",
+      "published": "2026-09-28T01:02:10Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -177,21 +324,10 @@
       ]
     },
     {
-      "title": "NFL Week 3: Takeaways, questions, fantasy spin for Sunday's games",
-      "url": "https://www.espn.com/nfl/story/_/id/50043408/week-3-sunday-games-takeaways-questions-2026",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 3.",
-      "published": "2026-09-28T00:44:39Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Sam Darnold laments 'bad decision' in return for Seahawks",
       "url": "https://www.espn.com/nfl/story/_/id/50048232/sam-darnold-laments-bad-decision-return-seahawks",
       "summary": "Sam Darnold's return from the glute injury that sidelined him for most of the Seahawks' first two games was shaping up to be memorable until a \"bad decision\" late proved costly against the Commanders.",
-      "published": "2026-09-28T00:18:16Z",
+      "published": "2026-09-28T01:36:08Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -204,8 +340,8 @@
     {
       "title": "Judging the biggest overreactions to NFL Week 3 games",
       "url": "https://www.espn.com/nfl/story/_/id/50043224/week-3-overreactions-2026-graziano",
-      "summary": "Is Brock Purdy the MVP frontrunner? Are the Steelers going to have another winning season? We're judging Week 3 overreactions.",
-      "published": "2026-09-28T00:23:51Z",
+      "summary": "Is Brock Purdy the MVP front-runner? Are the Steelers going to have another winning season? We're judging Week 3 overreactions.",
+      "published": "2026-09-28T01:14:44Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -217,7 +353,7 @@
     {
       "title": "Jackson's pass, alert timeout call lead to Loop's 56-yard field goal as Ravens beat Cowboys 34-31",
       "url": "http://www.espn.com/nfl/recap?gameId=401872960",
-      "summary": "\u2014 Lamar Jackson completed a 27-yard pass to Zay Flowers and alertly called a timeout with 1 second left, setting up Tyler Loop\u2019s 56-yard field goal to cap a stunning 7-second drive that gave the Baltimore Ravens a 34-31 victory over the Dallas Cowboys...",
+      "summary": "\u2014 Lamar Jackson used his big right arm and a little bit of quick thinking to lead the Baltimore Ravens to one of their shortest and most memorable drives in franchise history.",
       "published": "2026-09-28T00:04:37Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
@@ -229,234 +365,75 @@
       ]
     },
     {
-      "title": "Bucs QB Baker Mayfield has dislocated thumb, will undergo MRI",
-      "url": "https://www.espn.com/nfl/story/_/id/50047972/bucs-qb-baker-mayfield-dislocated-thumb-undergo-mri",
-      "summary": "Buccaneers quarterback Baker Mayfield suffered a dislocated right thumb in the fourth quarter of Sunday's 23-16 loss to the Vikings, coach Todd Bowles said.",
-      "published": "2026-09-28T00:30:59Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN",
-        "TB"
-      ]
-    },
-    {
-      "title": "Jim Harbaugh stands by offense as Chargers sink to 0-3",
-      "url": "https://www.espn.com/nfl/story/_/id/50047927/jim-harbaugh-stands-offense-chargers-sink-0-3",
-      "summary": "Chargers coach Jim Harbaugh said there is \"no disconnect\" between coordinator Mike McDaniel and the offense.",
-      "published": "2026-09-28T00:39:33Z",
-      "source": "ESPN NFL",
+      "title": "Controversial pass interference penalty sets up Broncos' game-winning touchdown against Rams",
+      "url": "https://www.cbssports.com/nfl/news/controversial-pass-interference-broncos-rams/",
+      "summary": "The penalty negated an interception, which could have effectively sealed a Rams victory",
+      "published": "Mon, 28 Sep 2026 04:55:59 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LAC"
+        "DEN",
+        "LA"
       ]
     },
     {
-      "title": "NFL Week 3: Wild stats on the Texans, Saints, Chargers, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50043815/week-3-key-stats-numbers-solak",
-      "summary": "Coaching decisions costing the Texans? Milestones for a Commanders LB and Raiders-Saints TEs? A balanced Steelers offense? And the Chargers losing with five takeaways?",
-      "published": "2026-09-28T00:41:36Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 3 grades for all 32 teams: Ravens get 'B+' for wild Rio win, Raiders earn 'A-' for beating Saints",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-grades-patriots-stumble-commanders-shine/",
+      "summary": "Plus, two teams earn 'A+' grades after superb offensive performances, and another 'F' makes its way into the discussion",
+      "published": "Mon, 28 Sep 2026 05:01:30 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "HOU",
-        "LAC",
+        "BAL",
         "LV",
-        "NO",
-        "PIT",
-        "WAS"
+        "NO"
       ]
     },
     {
-      "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
-      "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
-      "summary": "The Steelers QB is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\"",
-      "published": "2026-09-27T23:58:28Z",
-      "source": "ESPN NFL",
+      "title": "Lamar Jackson, Tyler Loop help Ravens exorcise demons, earn most important regular-season win in recent memory",
+      "url": "https://www.cbssports.com/nfl/news/ravens-exorcise-demons-beat-cowboys-in-brazil/",
+      "summary": "Loop's 56-yard game-winner to beat the Cowboys in Brazil was a stark contrast to his Week 18 miss against the Steelers",
+      "published": "Mon, 28 Sep 2026 02:40:47 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": [
+        "BAL",
+        "DAL",
         "PIT"
       ]
     },
     {
-      "title": "Vikings beat Buccaneers 23-16 but lose Jefferson to an ankle injury. Bucs' Mayfield also hurt",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872959",
-      "summary": "\u2014 Myles Price returned a punt 86 yards for a score, Kyler Murray threw a 41-yard TD pass to Jordan Addison and the Minnesota Vikings beat the Tampa Bay Buccaneers 23-16 on Sunday.",
-      "published": "2026-09-27T23:34:30Z",
-      "source": "ESPN NFL",
+      "title": "Cowboys' botched crucial kickoff decision opens door for Ravens' last-second win",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-ravens-ending-dallas-kickoff-mistake-2026/",
+      "summary": "A touchback and questionable timeout usage gave the Ravens precious seconds",
+      "published": "Mon, 28 Sep 2026 02:12:59 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "MIN",
-        "TB"
+        "BAL",
+        "DAL"
       ]
     },
     {
-      "title": "Marcus Mariota, in for hurt Jayden Daniels, leads Commanders",
-      "url": "https://www.espn.com/nfl/story/_/id/50047817/marcus-mariota-hurt-jayden-daniels-leads-commanders",
-      "summary": "Commanders quarterback Marcus Mariota, subbing for the injured Jayden Daniels, reminded the NFL that the organization has another former Heisman Trophy winner -- and former No. 2 pick -- who can still play.",
-      "published": "2026-09-28T00:38:54Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 3 overreactions: Pats officially have a Drake Maye problem, Ravens can finally win big games again",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-overreactions-drake-maye-patriots-trevor-lawrence-jaguars/",
+      "summary": "Plus, did the Commanders just post the win of the year (so far)?",
+      "published": "Mon, 28 Sep 2026 02:37:50 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
       "teams": [
+        "BAL",
         "WAS"
-      ]
-    },
-    {
-      "title": "Purdy throws 4 TD passes to lead the injury-depleted 49ers to a 36-30 win vs. the Cardinals",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872958",
-      "summary": "\u2014 Brock Purdy threw four touchdown passes, with the first coming on a trick play, and the injury-depleted San Francisco 49ers held on for a 36-30 victory over...",
-      "published": "2026-09-27T23:26:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ARI",
-        "SF"
-      ]
-    },
-    {
-      "title": "RB Breece Hall suffers thigh injury as Jets lose late again",
-      "url": "https://www.espn.com/nfl/story/_/id/50047576/rb-breece-hall-suffers-thigh-injury-jets-lose-late-once-again",
-      "summary": "Jets running back Breece Hall suffered an injury to his right thigh late in Sunday's loss to the Lions.",
-      "published": "2026-09-28T00:38:05Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DET",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "NFL Week 3's best arrivals, led by Davante Adams",
-      "url": "https://www.espn.com/nfl/story/_/id/50023585/nfl-week-3-fashionable-arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-09-27T23:24:52Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "C.J. Stroud says winless Texans will get struggles fixed",
-      "url": "https://www.espn.com/nfl/story/_/id/50047446/cj-stroud-says-winless-texans-get-struggles-fixed",
-      "summary": "C.J. Stroud boldly stated that the winless Texans will turn their season around after a 19-17 loss to the previously winless Colts on Sunday.",
-      "published": "2026-09-28T00:37:14Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND"
-      ]
-    },
-    {
-      "title": "Steelers' Warren dominates Bengals with career-best 176 yards",
-      "url": "https://www.espn.com/nfl/story/_/id/50047321/steelers-warren-dominates-bengals-career-best-176-yards",
-      "summary": "Steelers RB Jaylen Warren exploded for a career-best 176 yards from scrimmage in a dominant display for Pittsburgh's run game in Sunday's win.",
-      "published": "2026-09-28T00:36:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Deshaun Watson wins over Browns' fans with performance in win",
-      "url": "https://www.espn.com/nfl/story/_/id/50047244/deshaun-watson-wins-browns-fans-performance-win",
-      "summary": "One month after Browns fans booed him in a preseason game, Deshaun Watson gave the Cleveland faithful something to cheer about in their home opener.",
-      "published": "2026-09-28T00:36:12Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE"
-      ]
-    },
-    {
-      "title": "Injured in warmups, Spencer Shrader rallies Colts with FG",
-      "url": "https://www.espn.com/nfl/story/_/id/50047098/injured-warmups-spencer-shrader-rallies-colts-fg",
-      "summary": "Indianapolis kicker Spencer Shrader, who sustained a groin injury in warmups, battled through it to make four field goals, including a 53-yarder with 16 seconds left to give the Colts a 19-17 win over the Texans.",
-      "published": "2026-09-28T00:35:47Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "HOU",
-        "IND"
-      ]
-    },
-    {
-      "title": "Trevor Lawrence explains kneel at the 1-yard line -- and what it means for fantasy owners",
-      "url": "https://www.espn.com/nfl/story/_/id/50046652/jaguars-trevor-lawrence-kneel-eight-minutes-fantasy-implications",
-      "summary": "The quarterback laughed off his clock-killing blunder, acknowledging the obvious fantasy implications after he knelt instead of running into the end zone.",
-      "published": "2026-09-28T00:08:03Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Harbaugh says Winston is QB1 even if Giants add another QB",
-      "url": "https://www.espn.com/nfl/story/_/id/50046930/harbaugh-says-winston-qb1-even-giants-add-another-qb",
-      "summary": "Jameis Winston will remain the Giants' starting quarterback even if a quarterback is added in the coming days, coach John Harbaugh said Sunday.",
-      "published": "2026-09-27T23:51:03Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "How Josh Allen, Bills overcame five turnovers to go to 3-0",
-      "url": "https://www.espn.com/nfl/story/_/id/50046887/buffalo-bills-overcame-five-turnovers-beat-chargers-josh-allen",
-      "summary": "Buffalo turned the ball over three times on its first four possessions in the 24-16 win over Chargers.",
-      "published": "2026-09-27T23:35:40Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Justin Jefferson exits Vikings' win with ankle injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50046851/vikings-rule-justin-jefferson-ankle-injury",
-      "summary": "Vikings star receiver Justin Jefferson was ruled out of Sunday's game against the Tampa Bay Buccaneers after a first-quarter injury to his left ankle.",
-      "published": "2026-09-28T00:04:09Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN",
-        "TB"
       ]
     },
     {
@@ -477,7 +454,7 @@
       "title": "Steelers' offense finally shows its potential in shootout win over Bengals: Here's what sparked breakout",
       "url": "https://www.cbssports.com/nfl/news/steelers-offense-shows-potential-vs-bengals/",
       "summary": "After scoring one touchdown in its first two games, Pittsburgh scored three touchdowns and had six scoring drives against Cincinnati",
-      "published": "Mon, 28 Sep 2026 00:09:01 +0000",
+      "published": "Mon, 28 Sep 2026 03:34:46 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -541,20 +518,6 @@
       "teams": [
         "MIN",
         "TB"
-      ]
-    },
-    {
-      "title": "NFL Week 3 overreactions: Drake Maye's turnover problem to doom Patriots, Trevor Lawrence for MVP?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-overreactions-drake-maye-patriots-trevor-lawrence-jaguars/",
-      "summary": "Plus, did the Commanders just post the win of the year (so far)?",
-      "published": "Sun, 27 Sep 2026 22:26:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE",
-        "WAS"
       ]
     },
     {
@@ -773,31 +736,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "NFL player props Week 3 2026: Best prop picks for Sunday's NFL games include Patrick Mahomes and Josh Allen",
-      "url": "https://www.cbssports.com/betting/news/nfl-player-props-week-3-2026-best-prop-picks-for-sundays-nfl-games-include-patrick-mahomes-and-josh-allen/",
-      "summary": "Bet on NFL player props Week 3 at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
-      "published": "Sun, 27 Sep 2026 16:16:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Bengals vs. Steelers picks, odds, prediction: Start time, betting preview, spread for NFL Week 3 game",
-      "url": "https://www.cbssports.com/betting/news/bengals-steelers-picks-odds-prediction-start-time-betting-preview-spread-nfl-week-3-game/",
-      "summary": "AFC North rivals meet in NFL Week 3 when the Steelers host the Bengals, but Cincinnati comes in 2-0 while Pittsburgh looks to rebound. We have everything bettors need to know",
-      "published": "Sun, 27 Sep 2026 16:16:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "PIT"
-      ]
     }
   ],
   "reporters": []
