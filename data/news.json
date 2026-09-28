@@ -1,25 +1,116 @@
 {
-  "updated_at_utc": "2026-09-27T22:09:45.539619+00:00",
-  "checked_at_utc": "2026-09-27T22:09:45.539619+00:00",
+  "updated_at_utc": "2026-09-28T00:47:22.310733+00:00",
+  "checked_at_utc": "2026-09-28T00:47:22.310733+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 16,
+      "items": 25,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 21
+      "items": 25
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 2,
+      "items": 8,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Baker Mayfield Exits Loss vs. Vikings With Dislocated Thumb, Expected To Miss Time",
+      "url": "https://www.foxsports.com/stories/nfl/baker-mayfield-exits-game-vs-vikings-apparent-hand-injury",
+      "summary": "Baker Mayfield suffered an apparent hand injury in the fourth quarter against the Minnesota Vikings.",
+      "published": "Sun, 27 Sep 2026 20:21:36 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
+      "summary": "Two talented AFC squads have yet to find their stride, and it is reflecting in their postseason odds. See the latest.",
+      "published": "Sun, 27 Sep 2026 20:16:03 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Another Brutal Buccaneers Loss: 3 Takeaways From Vikings' Win In Tampa Bay",
+      "url": "https://www.foxsports.com/stories/nfl/vikings-buccaneers-takeaways-baker-mayfield-todd-bowles-kyler-murray",
+      "summary": "Todd Bowles might be in trouble as the Buccaneers fell to 0-3.",
+      "published": "Sun, 27 Sep 2026 20:00:35 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN",
+        "TB"
+      ]
+    },
+    {
+      "title": "Tom Brady Calls Out Justin Herbert's 'Meatball Sub' Throw In Chargers' Loss To Bills",
+      "url": "https://www.foxsports.com/stories/nfl/brady-calls-out-justin-herberts-meatball-sub-throw-chargers-loss-bills",
+      "summary": "Tom Brady didn't hold back on the FOX broadcast Sunday, breaking out some social media slang to describe Justin Herbert's fourth-quarter interception.",
+      "published": "Sun, 27 Sep 2026 19:53:03 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LAC"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
+      "summary": "Check out the odds for every NFL Week 4 contest.",
+      "published": "Sun, 27 Sep 2026 19:47:11 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Vikings Rule Out WR Justin Jefferson Due To Ankle Injury vs. Buccaneers",
+      "url": "https://www.foxsports.com/stories/nfl/vikings-rule-out-justin-jefferson-due-ankle-injury-vs-buccaneers",
+      "summary": "The Minnesota Vikings have ruled out star wide receiver Justin Jefferson for the remainder of Sunday's game against the Tampa Bay Buccaneers with an ankle injury, the team confirmed.",
+      "published": "Sun, 27 Sep 2026 18:35:57 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN",
+        "TB"
+      ]
+    },
+    {
+      "title": "49ers WR Mike Evans, OT Trent Williams Carted Off vs. Cardinals",
+      "url": "https://www.foxsports.com/stories/nfl/49ers-wr-mike-evans-carted-off-vs-cardinals-ruled-out-ribs-injury",
+      "summary": "The San Francisco 49ers' wide receiver room might be even thinner after Week 3.",
+      "published": "Sun, 27 Sep 2026 18:08:23 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "SF"
+      ]
+    },
     {
       "title": "Dolphins Fear Major Knee Injury For RB De'Von Achane: 'It Does Not Sound Optimistic'",
       "url": "https://www.foxsports.com/stories/nfl/dolphins-devon-achance-knee-injury-update",
@@ -31,20 +122,6 @@
       "category": "injury",
       "teams": [
         "MIA"
-      ]
-    },
-    {
-      "title": "Bills Stay Undefeated While Chargers Look Defeated: 3 Takeaways From Buffalo's Win",
-      "url": "https://www.foxsports.com/stories/nfl/bills-stay-undefeated-while-chargers-look-defeated-3-takeaways-from-buffalos-win",
-      "summary": "The Chargers are 0-3 and the Bills are 3-0 after their Week 3 matchup in Buffalo. Here are the takeaways.",
-      "published": "Sun, 27 Sep 2026 16:35:36 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LAC"
       ]
     },
     {
@@ -63,8 +140,33 @@
     {
       "title": "Week 3 NFL highlights: Best plays, moments, touchdowns, more",
       "url": "https://www.espn.com/nfl/story/_/id/50034932/best-plays-moments-touchdowns-more",
-      "summary": "Sunday of Week 3 features 14 games, including an international game in Rio de Janeiro between the Ravens and Cowboys.",
-      "published": "2026-09-27T22:09:14Z",
+      "summary": "Sunday of Week 3 has seen 13 games played, with Lamar Jackson, Jahmyr Gibbs and Sam Darnold having big stat days.",
+      "published": "2026-09-28T00:24:04Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Kirk Cousins passes for 3 TDs and the unbeaten Raiders come back to top the Saints 35-27",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872961",
+      "summary": "\u2014 Kirk Cousins passed for 248 yards and three touchdowns, and the Las Vegas Raiders overcame an 11-point second-half deficit to beat the New Orleans Saints 35-27 on Sunday and remain unbeaten under rookie coach Klint Kubiak.",
+      "published": "2026-09-28T00:22:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV",
+        "NO"
+      ]
+    },
+    {
+      "title": "Ravens' jab at Cowboys after win in Rio leads Week 3 trolls",
+      "url": "https://www.espn.com/nfl/story/_/id/50046373/nfl-week-3-trolls-2026",
+      "summary": "The Baltimore Ravens followed up their last second victory over the Dallas Cowboys with a petty post.",
+      "published": "2026-09-28T00:31:56Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -75,51 +177,10 @@
       ]
     },
     {
-      "title": "Travis Hunter happy to help Jags with first NFL interception",
-      "url": "https://www.espn.com/nfl/story/_/id/50046645/travis-hunter-happy-help-jags-first-nfl-interception",
-      "summary": "Jaguars cornerback Travis Hunter finally grabbed his first career NFL interception Sunday.",
-      "published": "2026-09-27T22:06:12Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX"
-      ]
-    },
-    {
-      "title": "Drake Maye: Patriots offense, own play 'unacceptable'",
-      "url": "https://www.espn.com/nfl/story/_/id/50046497/drake-maye-patriots-offense-own-play-unacceptable",
-      "summary": "Drake Maye, whose early-season struggles continued with two interceptions and a lost fumble in Sunday's 35-6 blowout loss to the Jaguars, called the offense's performance \"unacceptable\" as he looks within himself for answers.",
-      "published": "2026-09-27T21:55:58Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX",
-        "NE"
-      ]
-    },
-    {
-      "title": "Commanders' jab at Seahawks after upset leads Week 3 trolls",
-      "url": "https://www.espn.com/nfl/story/_/id/50046373/nfl-week-3-trolls-2026",
-      "summary": "The Washington Commanders followed up their upset victory over the Seattle Seahawks with a petty post.",
-      "published": "2026-09-27T21:53:11Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SEA",
-        "WAS"
-      ]
-    },
-    {
       "title": "NFL Week 3: Takeaways, questions, fantasy spin for Sunday's games",
       "url": "https://www.espn.com/nfl/story/_/id/50043408/week-3-sunday-games-takeaways-questions-2026",
       "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 3.",
-      "published": "2026-09-27T22:08:27Z",
+      "published": "2026-09-28T00:44:39Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -127,10 +188,51 @@
       "teams": []
     },
     {
-      "title": "Buccaneers WR Jalen McMillan suffers knee injury vs. Vikings",
-      "url": "https://www.espn.com/nfl/story/_/id/50045951/buccaneers-wr-jalen-mcmillan-suffers-knee-injury-vs-vikings",
-      "summary": "Buccaneers wide receiver Jalen McMillan suffered a knee injury in the first quarter against the Vikings and has been ruled out.",
-      "published": "2026-09-27T21:29:36Z",
+      "title": "Sam Darnold laments 'bad decision' in return for Seahawks",
+      "url": "https://www.espn.com/nfl/story/_/id/50048232/sam-darnold-laments-bad-decision-return-seahawks",
+      "summary": "Sam Darnold's return from the glute injury that sidelined him for most of the Seahawks' first two games was shaping up to be memorable until a \"bad decision\" late proved costly against the Commanders.",
+      "published": "2026-09-28T00:18:16Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SEA",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Judging the biggest overreactions to NFL Week 3 games",
+      "url": "https://www.espn.com/nfl/story/_/id/50043224/week-3-overreactions-2026-graziano",
+      "summary": "Is Brock Purdy the MVP frontrunner? Are the Steelers going to have another winning season? We're judging Week 3 overreactions.",
+      "published": "2026-09-28T00:23:51Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Jackson's pass, alert timeout call lead to Loop's 56-yard field goal as Ravens beat Cowboys 34-31",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872960",
+      "summary": "\u2014 Lamar Jackson completed a 27-yard pass to Zay Flowers and alertly called a timeout with 1 second left, setting up Tyler Loop\u2019s 56-yard field goal to cap a stunning 7-second drive that gave the Baltimore Ravens a 34-31 victory over the Dallas Cowboys...",
+      "published": "2026-09-28T00:04:37Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Bucs QB Baker Mayfield has dislocated thumb, will undergo MRI",
+      "url": "https://www.espn.com/nfl/story/_/id/50047972/bucs-qb-baker-mayfield-dislocated-thumb-undergo-mri",
+      "summary": "Buccaneers quarterback Baker Mayfield suffered a dislocated right thumb in the fourth quarter of Sunday's 23-16 loss to the Vikings, coach Todd Bowles said.",
+      "published": "2026-09-28T00:30:59Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -141,24 +243,120 @@
       ]
     },
     {
-      "title": "Commanders snap Seattle's 12-game winning streak, beat the Seahawks 33-31",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872955",
-      "summary": "\u2014 Marcus Mariota threw three touchdown passes, and Kain Medrano returned an interception 50 yards for a touchdown to help the Washington Commanders hand Seattle its first loss since November, 33-31 on Sunday.",
-      "published": "2026-09-27T20:53:27Z",
+      "title": "Jim Harbaugh stands by offense as Chargers sink to 0-3",
+      "url": "https://www.espn.com/nfl/story/_/id/50047927/jim-harbaugh-stands-offense-chargers-sink-0-3",
+      "summary": "Chargers coach Jim Harbaugh said there is \"no disconnect\" between coordinator Mike McDaniel and the offense.",
+      "published": "2026-09-28T00:39:33Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "SEA",
+        "LAC"
+      ]
+    },
+    {
+      "title": "NFL Week 3: Wild stats on the Texans, Saints, Chargers, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50043815/week-3-key-stats-numbers-solak",
+      "summary": "Coaching decisions costing the Texans? Milestones for a Commanders LB and Raiders-Saints TEs? A balanced Steelers offense? And the Chargers losing with five takeaways?",
+      "published": "2026-09-28T00:41:36Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "LAC",
+        "LV",
+        "NO",
+        "PIT",
         "WAS"
       ]
     },
     {
-      "title": "Colts end 9-game skid with 19-17 victory over Texans as Shrader kicks winner with 16 seconds left",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872951",
-      "summary": "\u2014 The Indianapolis Colts kept talking about turning the page on their season-ending seven-game losing streak that cost them a playoff spot last year.",
-      "published": "2026-09-27T20:49:27Z",
+      "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
+      "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
+      "summary": "The Steelers QB is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\"",
+      "published": "2026-09-27T23:58:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Vikings beat Buccaneers 23-16 but lose Jefferson to an ankle injury. Bucs' Mayfield also hurt",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872959",
+      "summary": "\u2014 Myles Price returned a punt 86 yards for a score, Kyler Murray threw a 41-yard TD pass to Jordan Addison and the Minnesota Vikings beat the Tampa Bay Buccaneers 23-16 on Sunday.",
+      "published": "2026-09-27T23:34:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN",
+        "TB"
+      ]
+    },
+    {
+      "title": "Marcus Mariota, in for hurt Jayden Daniels, leads Commanders",
+      "url": "https://www.espn.com/nfl/story/_/id/50047817/marcus-mariota-hurt-jayden-daniels-leads-commanders",
+      "summary": "Commanders quarterback Marcus Mariota, subbing for the injured Jayden Daniels, reminded the NFL that the organization has another former Heisman Trophy winner -- and former No. 2 pick -- who can still play.",
+      "published": "2026-09-28T00:38:54Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "WAS"
+      ]
+    },
+    {
+      "title": "Purdy throws 4 TD passes to lead the injury-depleted 49ers to a 36-30 win vs. the Cardinals",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872958",
+      "summary": "\u2014 Brock Purdy threw four touchdown passes, with the first coming on a trick play, and the injury-depleted San Francisco 49ers held on for a 36-30 victory over...",
+      "published": "2026-09-27T23:26:31Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ARI",
+        "SF"
+      ]
+    },
+    {
+      "title": "RB Breece Hall suffers thigh injury as Jets lose late again",
+      "url": "https://www.espn.com/nfl/story/_/id/50047576/rb-breece-hall-suffers-thigh-injury-jets-lose-late-once-again",
+      "summary": "Jets running back Breece Hall suffered an injury to his right thigh late in Sunday's loss to the Lions.",
+      "published": "2026-09-28T00:38:05Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "NFL Week 3's best arrivals, led by Davante Adams",
+      "url": "https://www.espn.com/nfl/story/_/id/50023585/nfl-week-3-fashionable-arrivals",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-09-27T23:24:52Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "C.J. Stroud says winless Texans will get struggles fixed",
+      "url": "https://www.espn.com/nfl/story/_/id/50047446/cj-stroud-says-winless-texans-get-struggles-fixed",
+      "summary": "C.J. Stroud boldly stated that the winless Texans will turn their season around after a 19-17 loss to the previously winless Colts on Sunday.",
+      "published": "2026-09-28T00:37:14Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -169,24 +367,10 @@
       ]
     },
     {
-      "title": "Deshaun Watson sparks a late Browns rally, sealing a 21-18 win over the Panthers",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872949",
-      "summary": "\u2014 Deshaun Watson threw two touchdown passes to Harold Fannin Jr., including a 14-yard strike with 1:48 remaining, and the Cleveland Browns rallied for a 21-18 victory over the Carolina Panthers on Sunday.",
-      "published": "2026-09-27T20:43:39Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "CLE"
-      ]
-    },
-    {
-      "title": "Aaron Rodgers outduels Joe Burrow as the Steelers edge the Bengals 30-27 on a late Boswell kick",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872950",
-      "summary": "\u2014 Aaron Rodgers passed for 292 yards and three touchdowns to outduel Joe Burrow as the Pittsburgh Steelers beat the Cincinnati Bengals 30-27 on Sunday.",
-      "published": "2026-09-27T20:34:28Z",
+      "title": "Steelers' Warren dominates Bengals with career-best 176 yards",
+      "url": "https://www.espn.com/nfl/story/_/id/50047321/steelers-warren-dominates-bengals-career-best-176-yards",
+      "summary": "Steelers RB Jaylen Warren exploded for a career-best 176 yards from scrimmage in a dominant display for Pittsburgh's run game in Sunday's win.",
+      "published": "2026-09-28T00:36:46Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -197,24 +381,61 @@
       ]
     },
     {
-      "title": "Jahmyr Gibbs' 3rd touchdown with 2:25 left lifts Lions to 31-24 win over Jets",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872954",
-      "summary": "\u2014 Jahmyr Gibbs took a toss sweep to the right, reversed field and raced to the left side of the end zone for a 17-yard touchdown.",
-      "published": "2026-09-27T20:28:27Z",
+      "title": "Deshaun Watson wins over Browns' fans with performance in win",
+      "url": "https://www.espn.com/nfl/story/_/id/50047244/deshaun-watson-wins-browns-fans-performance-win",
+      "summary": "One month after Browns fans booed him in a preseason game, Deshaun Watson gave the Cleveland faithful something to cheer about in their home opener.",
+      "published": "2026-09-28T00:36:12Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET",
-        "NYJ"
+        "CLE"
       ]
     },
     {
-      "title": "Allen, Bills outlast Chargers 24-16 despite committing 5 turnovers",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872953",
-      "summary": "\u2014 Josh Allen scored two touchdowns rushing and the Buffalo Bills overcame a five-turnover outing to pull out a 24-16 victory over the winless Los Angeles Chargers on Sunday.",
-      "published": "2026-09-27T20:25:27Z",
+      "title": "Injured in warmups, Spencer Shrader rallies Colts with FG",
+      "url": "https://www.espn.com/nfl/story/_/id/50047098/injured-warmups-spencer-shrader-rallies-colts-fg",
+      "summary": "Indianapolis kicker Spencer Shrader, who sustained a groin injury in warmups, battled through it to make four field goals, including a 53-yarder with 16 seconds left to give the Colts a 19-17 win over the Texans.",
+      "published": "2026-09-28T00:35:47Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "HOU",
+        "IND"
+      ]
+    },
+    {
+      "title": "Trevor Lawrence explains kneel at the 1-yard line -- and what it means for fantasy owners",
+      "url": "https://www.espn.com/nfl/story/_/id/50046652/jaguars-trevor-lawrence-kneel-eight-minutes-fantasy-implications",
+      "summary": "The quarterback laughed off his clock-killing blunder, acknowledging the obvious fantasy implications after he knelt instead of running into the end zone.",
+      "published": "2026-09-28T00:08:03Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Harbaugh says Winston is QB1 even if Giants add another QB",
+      "url": "https://www.espn.com/nfl/story/_/id/50046930/harbaugh-says-winston-qb1-even-giants-add-another-qb",
+      "summary": "Jameis Winston will remain the Giants' starting quarterback even if a quarterback is added in the coming days, coach John Harbaugh said Sunday.",
+      "published": "2026-09-27T23:51:03Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "How Josh Allen, Bills overcame five turnovers to go to 3-0",
+      "url": "https://www.espn.com/nfl/story/_/id/50046887/buffalo-bills-overcame-five-turnovers-beat-chargers-josh-allen",
+      "summary": "Buffalo turned the ball over three times on its first four possessions in the 24-16 win over Chargers.",
+      "published": "2026-09-27T23:35:40Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -225,52 +446,66 @@
       ]
     },
     {
-      "title": "Kenneth Walker III has 2 TDs as Chiefs beat Dolphins 24-10 after De'Von Achane exits with injury",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872952",
-      "summary": "\u2014 Patrick Mahomes arrived in South Florida this weekend and noticed a fun coincidence. He was back in the same hotel room he stayed in when he won his first Super Bowl title.",
-      "published": "2026-09-27T20:14:27Z",
+      "title": "Justin Jefferson exits Vikings' win with ankle injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50046851/vikings-rule-justin-jefferson-ankle-injury",
+      "summary": "Vikings star receiver Justin Jefferson was ruled out of Sunday's game against the Tampa Bay Buccaneers after a first-quarter injury to his left ankle.",
+      "published": "2026-09-28T00:04:09Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "KC",
-        "MIA"
+        "MIN",
+        "TB"
       ]
     },
     {
-      "title": "Lawrence throws 3 TD passes as Jaguars rout Patriots and raise more questions about Maye",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872957",
-      "summary": "\u2014 Jacksonville Jaguars coach Liam Coen spent all week telling his players that what mattered most was how they responded.",
-      "published": "2026-09-27T20:12:27Z",
-      "source": "ESPN NFL",
+      "title": "Baker Mayfield dislocates thumb on throwing hand during Buccaneers' loss to Vikings",
+      "url": "https://www.cbssports.com/nfl/news/baker-mayfield-injury-buccaneers-vikings-2026/",
+      "summary": "Mayfield was in serious pain following a fourth-quarter interception",
+      "published": "Mon, 28 Sep 2026 00:10:10 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "JAX",
-        "NE"
+        "MIN",
+        "TB"
       ]
     },
     {
-      "title": "Giants hold on to beat the Titans 12-7 in their first game without quarterback Jaxson Dart",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872956",
-      "summary": "\u2014 Playing their first game without quarterback Jaxson Dart, the New York Giants got just enough from replacement Jameis Winston on offense and another big play from safety Jevon Holland...",
-      "published": "2026-09-27T20:09:27Z",
-      "source": "ESPN NFL",
+      "title": "Steelers' offense finally shows its potential in shootout win over Bengals: Here's what sparked breakout",
+      "url": "https://www.cbssports.com/nfl/news/steelers-offense-shows-potential-vs-bengals/",
+      "summary": "After scoring one touchdown in its first two games, Pittsburgh scored three touchdowns and had six scoring drives against Cincinnati",
+      "published": "Mon, 28 Sep 2026 00:09:01 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": [
-        "NYG",
-        "TEN"
+        "CIN",
+        "PIT"
       ]
     },
     {
-      "title": "49ers Mike Evans carted to the locker room with injury after taking a hit vs. Cardinals",
+      "title": "Broncos vs. Rams picks, prediction, player props: Expert's best bets for Sunday Night Football in NFL Week 3",
+      "url": "https://www.cbssports.com/betting/news/broncos-vs-rams-picks-prediction-player-props-experts-best-bets-for-sunday-night-football-in-nfl-week-3/",
+      "summary": "Mile High altitude and a stout Denver defense give the underdog hosts a distinct edge against Los Angeles in a tight prime-time battle",
+      "published": "Mon, 28 Sep 2026 00:07:07 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "LA"
+      ]
+    },
+    {
+      "title": "49ers' Mike Evans ruled out with injury after taking a hit against Cardinals",
       "url": "https://www.cbssports.com/nfl/news/49ers-mike-evans-suffers-injury-vs-cardinals/",
-      "summary": "Evans, who was already dealing with a hip injury, took a big hit during the second quarter",
-      "published": "Sun, 27 Sep 2026 21:47:22 +0000",
+      "summary": "Evans was carted off the field after suffering a rib injury during the second quarter",
+      "published": "Sun, 27 Sep 2026 22:35:28 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -279,6 +514,59 @@
         "ARI",
         "SF"
       ]
+    },
+    {
+      "title": "NFL Week 3 winners, losers: Commanders spring season's biggest upset, Baker Mayfield becomes latest injured QB",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-winners-losers-commanders-upset-seahawks-drake-maye-struggles/",
+      "summary": "Plus, Deshaun Watson might have earned himself a longer leash as the Browns' starting quarterback",
+      "published": "Mon, 28 Sep 2026 00:17:52 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CLE",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Vikings' Justin Jefferson ruled out vs. Buccaneers with a knee injury",
+      "url": "https://www.cbssports.com/nfl/news/vikings-justin-jefferson-questionable-to-return-vs-buccaneers-with-a-knee-injury/",
+      "summary": "Jefferson went into the blue medical tent in the first quarter and left the field midway through the second quarter",
+      "published": "Sun, 27 Sep 2026 22:13:24 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN",
+        "TB"
+      ]
+    },
+    {
+      "title": "NFL Week 3 overreactions: Drake Maye's turnover problem to doom Patriots, Trevor Lawrence for MVP?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-overreactions-drake-maye-patriots-trevor-lawrence-jaguars/",
+      "summary": "Plus, did the Commanders just post the win of the year (so far)?",
+      "published": "Sun, 27 Sep 2026 22:26:45 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE",
+        "WAS"
+      ]
+    },
+    {
+      "title": "What happened to Drake Maye? Why his Year 3 collapse is getting harder to explain away",
+      "url": "https://www.cbssports.com/nfl/news/patriots-drake-maye-interceptions-2026-season-collapse/",
+      "summary": "From Trevor Lawrence to Mitchell Trubisky, recent history shows two very different ways this can go",
+      "published": "Sun, 27 Sep 2026 22:07:34 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
     },
     {
       "title": "Jaguars' Trevor Lawrence explains why he took knee at 1-yard line instead of scoring a touchdown",
@@ -291,20 +579,6 @@
       "category": "game",
       "teams": [
         "JAX"
-      ]
-    },
-    {
-      "title": "Vikings' Justin Jefferson questionable to return vs. Buccaneers with a knee injury",
-      "url": "https://www.cbssports.com/nfl/news/vikings-justin-jefferson-questionable-to-return-vs-buccaneers-with-a-knee-injury/",
-      "summary": "Jefferson went into the blue medical tent in the first quarter and left the field midway through the second quarter",
-      "published": "Sun, 27 Sep 2026 21:30:21 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN",
-        "TB"
       ]
     },
     {
@@ -345,20 +619,6 @@
       "teams": [
         "ARI",
         "SF"
-      ]
-    },
-    {
-      "title": "Broncos vs. Rams picks, prediction, player props: Expert's best bets for Sunday Night Football in NFL Week 3",
-      "url": "https://www.cbssports.com/betting/news/broncos-vs-rams-picks-prediction-player-props-experts-best-bets-for-sunday-night-football-in-nfl-week-3/",
-      "summary": "Mile High altitude and a stout Denver defense give the underdog hosts a distinct edge against Los Angeles in a tight prime-time battle",
-      "published": "Sun, 27 Sep 2026 20:08:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "LA"
       ]
     },
     {
@@ -537,20 +797,6 @@
       "teams": [
         "CIN",
         "PIT"
-      ]
-    },
-    {
-      "title": "Jets vs. Lions odds, picks, prediction: Start time, betting preview, line, best bets for NFL Week 3 matchup",
-      "url": "https://www.cbssports.com/betting/news/jets-lions-odds-picks-prediction-start-time-betting-preview-line-best-bets-nfl-week-3-game/",
-      "summary": "Here's everything for bettors to know about the Week 3 matchup as the Jets visit the Lions at Ford Field",
-      "published": "Sun, 27 Sep 2026 16:13:41 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "NYJ"
       ]
     }
   ],
