@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-29T00:24:49.604681+00:00",
-  "checked_at_utc": "2026-09-29T00:24:49.604681+00:00",
+  "updated_at_utc": "2026-09-29T06:00:00.831476+00:00",
+  "checked_at_utc": "2026-09-29T06:00:00.831476+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
@@ -11,7 +11,7 @@
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 30
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,101 @@
     }
   },
   "items": [
+    {
+      "title": "2026 Super Bowl Odds: Rams, Bills Co-Favorites; Eagles Slide",
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "summary": "The Rams have company atop the Super Bowl oddsboard, while a blowout loss sent the Eagles tumbling. See the latest odds after Week 3.",
+      "published": "Mon, 28 Sep 2026 23:44:53 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA",
+        "PHI"
+      ]
+    },
+    {
+      "title": "2026 NFL Power Rankings Week 4: Are The Vikings For Real? Are The Rams Vulnerable?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-4",
+      "summary": "Should we be buying stock in the Vikings? Are the Rams still a top-10 team? We examine in this week's power rankings.",
+      "published": "Mon, 28 Sep 2026 23:37:14 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "MIN"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds: Which Teams Are Favored To Win Their Divisions After Week 3?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-2027-nfl-odds-division-winner",
+      "summary": "Who will repeat? Will K.C. and Baltimore return to the top? Check out the latest NFL division odds after Week 3.",
+      "published": "Mon, 28 Sep 2026 23:35:11 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 3 NFL All-Stars: How Many 49ers, Falcons Stars Make The Cut After Dominant Showings?",
+      "url": "https://www.foxsports.com/stories/nfl/week-3-nfl-all-stars-how-many-49ers-falcons-stars-make-cut-after-dominant-showings",
+      "summary": "Our weekly roundup of the league's best players features San Francisco's quarterback, who is central in its 3-0 start.",
+      "published": "Mon, 28 Sep 2026 23:31:56 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ATL",
+        "SF"
+      ]
+    },
+    {
+      "title": "The Case Keenum Game: 3 Takeaways From Bears' Culture-Defining Win vs. Eagles",
+      "url": "https://www.foxsports.com/stories/nfl/case-keenum-game-3-takeaways-from-bears-culture-defining-win-vs-eagles",
+      "summary": "With Caleb Williams out, Case Keenum delivered, and then some, in the Bears' win over the Eagles.",
+      "published": "Mon, 28 Sep 2026 23:29:32 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "PHI"
+      ]
+    },
+    {
+      "title": "NFL Best And Worst: Falcons Turn It Around; No Answers For Packers, Patriots",
+      "url": "https://www.foxsports.com/stories/nfl/falcons-raiders-rise-packers-patriots-searching-solutions",
+      "summary": "The Falcons and Raiders look like contenders, the Packers and Patriots like pretenders. Here's our Best and Worst from a bizarro Week 3.",
+      "published": "Mon, 28 Sep 2026 23:04:32 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "GB",
+        "LV",
+        "NE"
+      ]
+    },
+    {
+      "title": "The Plays That Stood Out In Week 3, From A 'Meatball Sub' To Lamar Jackson's Game-Winner",
+      "url": "https://www.foxsports.com/stories/nfl/plays-that-stood-out-nfl-week-3-justin-herbert-lamar-jackson",
+      "summary": "Justin Herbert's interception and Lamar Jackson's heroics highlight the plays that mattered most from NFL Week 3.",
+      "published": "Mon, 28 Sep 2026 23:04:27 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "Why 'Specimen' Lions RB Jahmyr Gibbs Was One Of NFL's Best Week 3 Performers",
       "url": "https://www.foxsports.com/stories/nfl/why-specimen-lions-rb-jahmyr-gibbs-one-nfls-best-week-3-performers",
@@ -200,35 +295,25 @@
       "teams": []
     },
     {
-      "title": "Miami Dolphins Place De'Von Achane On Injured Reserve With Knee Injury",
-      "url": "https://www.foxsports.com/stories/nfl/dolphins-devon-achance-knee-injury-update",
-      "summary": "De'Von Achane's knee injury did \"not sound optimistic\" after Sunday's game, and further testing reportedly confirmed a torn ACL.",
-      "published": "Mon, 28 Sep 2026 10:52:42 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Sirianni regrets reaction to hit on QB Hurts in Eagles' loss",
+      "url": "https://www.espn.com/nfl/story/_/id/50056700/sirianni-regrets-reaction-hit-qb-hurts-eagles-loss",
+      "summary": "After a 27-7 loss to Chicago on Monday, Eagles coach Nick Sirianni expressed \"remorse\" over his reaction to a sideline hit by Bears linebacker D'Marco Jackson on Philadelphia's Jalen Hurts that temporarily knocked his quarterback out of the first half.",
+      "published": "2026-09-29T05:57:08Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "qb",
       "teams": [
-        "MIA"
+        "CHI",
+        "PHI"
       ]
     },
     {
-      "title": "Monday Morning NFL Top 10 Rankings: Undefeated Teams Shoot Up The Rankings",
-      "url": "https://www.foxsports.com/stories/nfl/monday-morning-nfl-top-10-rankings-week-3-2026",
-      "summary": "Here's how the top third of the NFL stacks up after the Week 3 Sunday slate.",
-      "published": "Mon, 28 Sep 2026 10:17:41 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "How to Watch Eagles vs. Bears: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-eagles-vs-bears-tv-channel-live-stream-time-2026-week-3",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 3 Eagles and Bears game.",
-      "published": "Mon, 28 Sep 2026 07:39:48 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Case Keenum drives Chicago to 3 touchdowns as the Bears beat the Eagles 27-7",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872963",
+      "summary": "\u2014 Case Keenum was on target and on time all night long.",
+      "published": "2026-09-29T03:26:26Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -238,63 +323,37 @@
       ]
     },
     {
-      "title": "2026 Super Bowl Odds: Rams Remain Favorites After Loss; Packers Tumble",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "summary": "The Rams remain Super Bowl favorites after a heartbreaking loss, but a few contenders are closing in. See the latest odds.",
-      "published": "Mon, 28 Sep 2026 02:18:01 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Seahawks' Mike Macdonald says team still believes in RB Jadarian Price",
+      "url": "https://www.espn.com/nfl/story/_/id/50055728/seahawks-mike-macdonald-says-team-believes-rb-jadarian-price",
+      "summary": "Seahawks coach Mike Macdonald said the team has not lost faith in starting running back Jadarian Price after the rookie first-round pick lost a fumble for the second week in a row Sunday.",
+      "published": "2026-09-29T03:15:18Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "SEA"
+      ]
+    },
+    {
+      "title": "QB3 Case Keenum, Bears defense shock Eagles in MNF rout",
+      "url": "https://www.espn.com/nfl/story/_/id/50055561/nfl-chicago-bears-philadelphia-eagles-monday-night-football-case-keenum",
+      "summary": "Keenum stepped up big in a pressure situation and combined with a defensive gem to lead the Bears past the Eagles.",
+      "published": "2026-09-29T05:28:40Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "GB",
-        "LA"
+        "CHI",
+        "PHI"
       ]
-    },
-    {
-      "title": "Overreaction Monday: Time To Bench Drake Maye? Chiefs Best Team In NFL?",
-      "url": "https://www.foxsports.com/stories/nfl/overreaction-monday-time-bench-drake-maye-chiefs-best-team-nfl",
-      "summary": "Does Drake Maye need to take a break? Are the Chiefs the NFL's best team? Is Justin Herbert to blame for Chargers' woes?",
-      "published": "Mon, 28 Sep 2026 00:26:35 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Denver Offense Comes Alive In Second Half: 3 Takeaways From Broncos Win Over Rams",
-      "url": "https://www.foxsports.com/stories/nfl/los-angeles-rams-vs-denver-broncos-takeaways-september-27-2026",
-      "summary": "Bo Nix and the Broncos offense came alive after halftime, improving to 2-1 with a win over the Los Angeles Rams.",
-      "published": "Mon, 28 Sep 2026 00:13:41 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "LA"
-      ]
-    },
-    {
-      "title": "NFL Week 3 Defining Stats: Milestones Mount, Unusual Records Fall",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-3-defining-stats-records-fall-stars-make-history",
-      "summary": "NFL superstars made history in Week 3, but the most unusual stat of the week came from a player who didn\u2019t make a single catch.",
-      "published": "Mon, 28 Sep 2026 00:10:17 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "McVay, Rams won't make excuses after pass interference call",
       "url": "https://www.espn.com/nfl/story/_/id/50055525/mcvay-rams-make-excuses-pass-interference-call",
       "summary": "A day after his team's 30-26 loss to the Denver Broncos, Los Angeles coach Sean McVay said the 1-2 Rams will not \"play the victim card\" because of a debatable defensive pass interference late on cornerback Josh Wallace.",
-      "published": "2026-09-29T00:13:40Z",
+      "published": "2026-09-29T01:51:13Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -321,7 +380,7 @@
       "title": "NFL Week 3's best arrivals, led by Jalen Hurts",
       "url": "https://www.espn.com/nfl/story/_/id/50023585/nfl-week-3-fashionable-arrivals",
       "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-09-28T23:00:08Z",
+      "published": "2026-09-29T04:25:49Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -329,10 +388,10 @@
       "teams": []
     },
     {
-      "title": "Jonathan Greenard (pectoral) to make Eagles debut on Monday",
+      "title": "Jonathan Greenard (pectoral) makes Eagles debut on Monday",
       "url": "https://www.espn.com/nfl/story/_/id/50055103/jonathan-greenard-pectoral-make-eagles-debut-monday-source-says",
-      "summary": "Edge Jonathan Greenard is set to make his Eagles debut Monday night. He has been sidelines with a pectoral injury he sustained while lifting weights over the summer.",
-      "published": "2026-09-28T23:11:56Z",
+      "summary": "Edge Jonathan Greenard made his Eagles debut Monday night. He had been sidelined because of a pectoral injury.",
+      "published": "2026-09-29T01:59:34Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -342,56 +401,18 @@
       ]
     },
     {
-      "title": "Evans, Williams, Greenlaw don't have long-term injuries, 49ers say",
-      "url": "https://www.espn.com/nfl/story/_/id/50054837/evans-williams-greenlaw-long-term-injuries-49ers-say",
-      "summary": "49ers coach Kyle Shanahan said Monday that injuries sustained by Mike Evans, Trent Williams and Dre Greenlaw on Sunday aren't considered long-term issues.",
-      "published": "2026-09-29T00:07:54Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Injuries might force Ravens to start rookie OG Vega Ioane at C",
-      "url": "https://www.espn.com/nfl/story/_/id/50054651/injuries-force-ravens-start-rookie-og-vega-ioane-c",
-      "summary": "The Ravens may be force to start rookie offensive guard Vega Ioane at center after losing two centers to injury in Sunday's win over the Cowboys.",
-      "published": "2026-09-28T21:37:52Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "DAL"
-      ]
-    },
-    {
-      "title": "Lions post 31 points for record-setting third time to start 2026",
-      "url": "https://www.espn.com/nfl/story/_/id/50053967/detroit-lions-jared-goff-jahmyr-gibbs-barry-sanders-offense",
-      "summary": "There just aren't many positions in which you can the push the Lions' offense that it can't get out of.",
-      "published": "2026-09-28T21:16:48Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 3 grades for all 32 teams: Bears earn 'A+' for big Monday win, Raiders earn 'A-' for beating Saints",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-grades-patriots-stumble-commanders-shine/",
+      "summary": "Plus, two teams earn 'A+' grades after superb offensive performances, and another 'F' makes its way into the discussion",
+      "published": "Tue, 29 Sep 2026 03:18:03 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "J.J. McCarthy traded to Giants: Will he succeed in New York?",
-      "url": "https://www.espn.com/nfl/story/_/id/50053035/jj-mccarthy-trade-giants-vikings-quarterback-deadline-barnwell",
-      "summary": "With Jaxson Dart out for the season, the Giants dealt a fifth-round pick to Minnesota for McCarthy. But does this move the needle for New York? Can it work?",
-      "published": "2026-09-28T21:05:41Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYG"
+        "CHI",
+        "LV",
+        "NO"
       ]
     },
     {
@@ -723,21 +744,6 @@
       ]
     },
     {
-      "title": "NFL Week 3 grades for all 32 teams: Ravens get 'B+' for wild Rio win, Raiders earn 'A-' for beating Saints",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-grades-patriots-stumble-commanders-shine/",
-      "summary": "Plus, two teams earn 'A+' grades after superb offensive performances, and another 'F' makes its way into the discussion",
-      "published": "Mon, 28 Sep 2026 13:31:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "LV",
-        "NO"
-      ]
-    },
-    {
       "title": "Lamar Jackson, Tyler Loop help Ravens exorcise demons, earn most important regular-season win in recent memory",
       "url": "https://www.cbssports.com/nfl/news/ravens-exorcise-demons-beat-cowboys-in-brazil/",
       "summary": "Loop's 56-yard game-winner to beat the Cowboys in Brazil was a stark contrast to his Week 18 miss against the Steelers",
@@ -806,6 +812,34 @@
       "teams": [
         "DEN",
         "LA"
+      ]
+    },
+    {
+      "title": "49ers' Mike Evans ruled out with injury after taking a hit against Cardinals",
+      "url": "https://www.cbssports.com/nfl/news/49ers-mike-evans-suffers-injury-vs-cardinals/",
+      "summary": "Evans was carted off the field after suffering a rib injury during the second quarter",
+      "published": "Sun, 27 Sep 2026 22:35:28 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ARI",
+        "SF"
+      ]
+    },
+    {
+      "title": "NFL Week 3 winners, losers: Commanders spring season's biggest upset, Baker Mayfield becomes latest injured QB",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-winners-losers-commanders-upset-seahawks-drake-maye-struggles/",
+      "summary": "Plus, Deshaun Watson might have earned himself a longer leash as the Browns' starting quarterback",
+      "published": "Mon, 28 Sep 2026 00:17:52 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CLE",
+        "WAS"
       ]
     }
   ],
