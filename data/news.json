@@ -1,59 +1,53 @@
 {
-  "updated_at_utc": "2026-09-29T18:17:21.195514+00:00",
-  "checked_at_utc": "2026-09-29T18:17:46.479657+00:00",
+  "updated_at_utc": "2026-09-29T22:24:49.735039+00:00",
+  "checked_at_utc": "2026-09-29T22:24:49.735039+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 4,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 31
+      "items": 32
     },
     "FOX Sports NFL": {
-      "ok": false,
-      "items": 0,
-      "error": "ReadTimeout",
+      "ok": true,
+      "items": 19,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Source - Bengals cut Ke'Shawn Williams after costly muffed punt",
-      "url": "https://www.espn.com/nfl/story/_/id/50059809/source-bengals-cut-keshawn-williams-costly-muffed-punt",
-      "summary": "The Cincinnati Bengals cut WR Ke'Shawn Williams after he muffed a punt that eventually led to the Pittsburgh Steelers' 30-27 win, a source told ESPN's Jeremy Fowler. Earlier Tuesday, Cincinnati signed WR Mitch Tinsley, per ESPN's Adam Schefter.",
-      "published": "2026-09-29T17:31:21Z",
-      "source": "ESPN NFL",
+      "title": "2026 NFL OPOY Odds: Jahmyr Gibbs Favored; Jaxon Smith-Njigba Second",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
+      "summary": "Check out the latest odds to win the 2026 NFL Offensive Player of the Year award after Week 3.",
+      "published": "Tue, 29 Sep 2026 16:29:30 -0400",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "CIN",
-        "PIT"
-      ]
+      "category": "game",
+      "teams": []
     },
     {
-      "title": "Sources: Giants to release fan favorite Odell Beckham Jr.",
-      "url": "https://www.espn.com/nfl/story/_/id/50059755/sources-giants-release-fan-favorite-odell-beckham-jr",
-      "summary": "The Giants are releasing veteran wide receiver Odell Beckham Jr., sources told NFL Network.",
-      "published": "2026-09-29T18:16:02Z",
-      "source": "ESPN NFL",
+      "title": "2026 NFL DPOY Odds: Will Anderson Jr. Favored; Aidan Hutchinson Second",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
+      "summary": "Check out the latest odds for the 2026 NFL Defensive Player of the Year award.",
+      "published": "Tue, 29 Sep 2026 15:43:44 -0400",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYG"
-      ]
+      "category": "game",
+      "teams": []
     },
     {
-      "title": "Jerry Jones: 'No explanation' for Cowboys coaches' mistakes",
-      "url": "https://www.espn.com/nfl/story/_/id/50059557/jerry-jones-no-explanation-cowboys-coaches-mistakes",
-      "summary": "Jerry Jones says he believes errors in game management by his coaching staff cost the Cowboys a victory over the Ravens.",
-      "published": "2026-09-29T17:19:24Z",
-      "source": "ESPN NFL",
+      "title": "Jerry Jones Blames Cowboys Coaching Staff For Week 3 Loss To Ravens",
+      "url": "https://www.foxsports.com/stories/nfl/jerry-jones-brian-schottenheimer-ravens-cowboys-finish",
+      "summary": "Cowboys owner Jerry Jones is leaving little doubt that he believes errors in game management by his coaching staff cost them a Week 2 win.",
+      "published": "Tue, 29 Sep 2026 14:23:23 -0400",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -63,16 +57,310 @@
       ]
     },
     {
-      "title": "Sources: Panthers OL Damien Lewis (UCL injury) to miss time",
-      "url": "https://www.espn.com/nfl/story/_/id/50058897/panthers-ol-damien-lewis-ucl-injury-sources-say",
-      "summary": "Panthers left guard Damien Lewis has a UCL injury in an elbow and will be out a few weeks, sources told NFL Network's Mike Garafolo and Ian Rapoport.",
-      "published": "2026-09-29T15:43:17Z",
+      "title": "2026 NFL Coach Of The Year Odds: Raiders' Klint Kubiak New Favorite",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-coach-of-the-year-odds",
+      "summary": "There's a new favorite on the Coach Of The Year oddsboard after NFL Week 3. Here's the latest.",
+      "published": "Tue, 29 Sep 2026 14:04:29 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV"
+      ]
+    },
+    {
+      "title": "Reunion Over: Giants Reportedly Releasing Odell Beckham Jr.",
+      "url": "https://www.foxsports.com/stories/nfl/giants-release-odell-beckham-jr-stats",
+      "summary": "The New York Giants are reportedly releasing veteran wide receiver Odell Beckham Jr., ending a reunion with the team that drafted him.",
+      "published": "Tue, 29 Sep 2026 13:08:53 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "QB Stock Market Week 4: Is Trevor Lawrence Finally Who We Thought He Was?",
+      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-4-trevor-lawrence-finally-who-we-thought-he-was",
+      "summary": "Trevor Lawrence has found his superpower. Matthew Stafford really needs his back. Here are Henry McKenna's latest QB rankings.",
+      "published": "Tue, 29 Sep 2026 12:25:49 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL AFC, NFC Title Odds: Contenders Cratering Early In The Season",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-afc-nfc-title-odds",
+      "summary": "A few thought-to-be contenders are falling off just three weeks into the NFL season. See the latest AFC and NFC title odds.",
+      "published": "Tue, 29 Sep 2026 11:02:42 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Chargers Coach Jim Harbaugh's Message To Justin Herbert: 'Be Better\"",
+      "url": "https://www.foxsports.com/stories/nfl/jim-harbaugh-justin-herbert-quote-chargers-schedule",
+      "summary": "Los Angeles Chargers head coach Jim Harbaugh has a curt message for quarterback Justin Herbert: \"be better.\"",
+      "published": "Tue, 29 Sep 2026 10:57:58 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
+      "summary": "Check out the odds for every NFL Week 4 contest.",
+      "published": "Tue, 29 Sep 2026 10:21:06 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
+      "summary": "Week 3 is over and a surprise team is moving in the right direction. See the latest NFL postseason odds.",
+      "published": "Tue, 29 Sep 2026 09:53:50 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 Super Bowl Odds: Rams, Bills Co-Favorites; Eagles Slide",
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "summary": "The Rams have company atop the Super Bowl oddsboard, while a blowout loss sent the Eagles tumbling. See the latest odds after Week 3.",
+      "published": "Mon, 28 Sep 2026 23:44:53 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA",
+        "PHI"
+      ]
+    },
+    {
+      "title": "2026 NFL Power Rankings Week 4: Are The Vikings For Real? Are The Rams Vulnerable?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-4",
+      "summary": "Should we be buying stock in the Vikings? Are the Rams still a top-10 team? We examine in this week's power rankings.",
+      "published": "Mon, 28 Sep 2026 23:37:14 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "MIN"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds: Which Teams Are Favored To Win Their Divisions After Week 3?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-2027-nfl-odds-division-winner",
+      "summary": "Who will repeat? Will K.C. and Baltimore return to the top? Check out the latest NFL division odds after Week 3.",
+      "published": "Mon, 28 Sep 2026 23:35:11 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 3 NFL All-Stars: How Many 49ers, Falcons Stars Make The Cut After Dominant Showings?",
+      "url": "https://www.foxsports.com/stories/nfl/week-3-nfl-all-stars-how-many-49ers-falcons-stars-make-cut-after-dominant-showings",
+      "summary": "Our weekly roundup of the league's best players features San Francisco's quarterback, who is central in its 3-0 start.",
+      "published": "Mon, 28 Sep 2026 23:31:56 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ATL",
+        "SF"
+      ]
+    },
+    {
+      "title": "The Case Keenum Game: 3 Takeaways From Bears' Culture-Defining Win vs. Eagles",
+      "url": "https://www.foxsports.com/stories/nfl/case-keenum-game-3-takeaways-from-bears-culture-defining-win-vs-eagles",
+      "summary": "With Caleb Williams out, Case Keenum delivered, and then some, in the Bears' win over the Eagles.",
+      "published": "Mon, 28 Sep 2026 23:29:32 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "PHI"
+      ]
+    },
+    {
+      "title": "NFL Best And Worst: Falcons Turn It Around; No Answers For Packers, Patriots",
+      "url": "https://www.foxsports.com/stories/nfl/falcons-raiders-rise-packers-patriots-searching-solutions",
+      "summary": "The Falcons and Raiders look like contenders, the Packers and Patriots like pretenders. Here's our Best and Worst from a bizarro Week 3.",
+      "published": "Mon, 28 Sep 2026 23:04:32 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "GB",
+        "LV",
+        "NE"
+      ]
+    },
+    {
+      "title": "The Plays That Stood Out In Week 3, From A 'Meatball Sub' To Lamar Jackson's Game-Winner",
+      "url": "https://www.foxsports.com/stories/nfl/plays-that-stood-out-nfl-week-3-justin-herbert-lamar-jackson",
+      "summary": "Justin Herbert's interception and Lamar Jackson's heroics highlight the plays that mattered most from NFL Week 3.",
+      "published": "Mon, 28 Sep 2026 23:04:27 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Why 'Specimen' Lions RB Jahmyr Gibbs Was One Of NFL's Best Week 3 Performers",
+      "url": "https://www.foxsports.com/stories/nfl/why-specimen-lions-rb-jahmyr-gibbs-one-nfls-best-week-3-performers",
+      "summary": "Marcus Mariota and Jahmyr Gibbs each delivered three-touchdown performances in Week 3, and Julian Edelman and Rob Gronkowski named them their Employees of the Week on \"Gronk & Jules.\"",
+      "published": "Mon, 28 Sep 2026 20:00:42 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "Giants Trade For J.J. McCarthy: What Does It Mean For Present, Future Of QB Room?",
+      "url": "https://www.foxsports.com/stories/nfl/giants-trade-j-j-mccarthy-what-does-mean-present-future-qb-room",
+      "summary": "J.J. McCarthy will have a chance to push Jameis Winston for the Giants' starting QB job, but his chances of replacing Jaxson Dart long-term are slim",
+      "published": "Mon, 28 Sep 2026 19:54:21 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Patriots place offensive lineman Greg Van Roten (thigh) on IR",
+      "url": "https://www.espn.com/nfl/story/_/id/50061293/patriots-place-offensive-lineman-greg-van-roten-thigh-ir",
+      "summary": "The Patriots placed guard Greg Van Roten on injured reserve Tuesday as the infrastructure around quarterback Drake Maye took another hit.",
+      "published": "2026-09-29T21:02:48Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "CAR"
+        "NE"
+      ]
+    },
+    {
+      "title": "Inside George Kittle's 243-day recovery from torn Achilles",
+      "url": "https://www.espn.com/nfl/story/_/id/50059771/san-francisco-49ers-george-kittle-torn-achilles-recovery",
+      "summary": "Despite tearing his Achilles in the playoffs, Kittle appears to be back to his normal self. Here's how he won the recovery process.",
+      "published": "2026-09-29T20:33:47Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Falcons' Tua Tagovailoa healing, embracing backup QB role",
+      "url": "https://www.espn.com/nfl/story/_/id/50060106/falcons-tua-tagovailoa-healing-embracing-backup-qb-role",
+      "summary": "Falcons QB Tua Tagovailoa said he's not 100% recovered from his oblique injury but is embracing his role as backup to Michael Penix Jr.",
+      "published": "2026-09-29T18:56:00Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL"
+      ]
+    },
+    {
+      "title": "Giants release Odell Beckham Jr.: Landing spots for veteran pass-catcher include Rams",
+      "url": "https://www.cbssports.com/nfl/news/new-york-giants-release-odell-beckham-jr/",
+      "summary": "New York parts ways with the wide receiver for the second time",
+      "published": "Tue, 29 Sep 2026 20:21:37 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "LA",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Jerry Jones sounds off on Cowboys' coaching gaffes at end of Week 3 loss in Brazil: 'We made mistakes'",
+      "url": "https://www.cbssports.com/nfl/news/jerry-jones-cowboys-coaching-gaffes-loss-to-ravens/",
+      "summary": "Brian Schottenheimer took blame for the final-minute clock management against the Ravens, but Dallas' owner made it clear he expects the coaching staff to learn from the breakdown without making any staff changes",
+      "published": "Tue, 29 Sep 2026 19:56:29 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Predicting NFL's first coaching change of 2026: Why Todd Bowles, Jim Harbaugh are in greatest danger",
+      "url": "https://www.cbssports.com/nfl/news/predicting-nfls-first-coaching-change-of-2026-todd-bowles-jim-harbaugh/",
+      "summary": "Sluggish starts put these coaches in danger of becoming the first to lose their job",
+      "published": "Tue, 29 Sep 2026 19:54:16 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Case Keenum's performance vs. Eagles shows Bears shouldn't rush Caleb Williams' return from injury",
+      "url": "https://www.cbssports.com/nfl/news/case-keenums-performance-vs-eagles-bears-dont-rush-caleb-williams/",
+      "summary": "Keenum surprised everyone with his primetime performance, and he should give Chicago time to get Williams back to full strength",
+      "published": "Tue, 29 Sep 2026 19:10:19 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Commanders' Jayden Daniels opting against elbow surgery until after season, per report",
+      "url": "https://www.cbssports.com/nfl/news/commanders-jayden-daniels-elbow-surgery-later-date/",
+      "summary": "Washington's star quarterback is reportedly delaying a procedure on his dislocated left elbow until the offseason",
+      "published": "Tue, 29 Sep 2026 18:40:31 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "WAS"
       ]
     },
     {
@@ -443,62 +731,6 @@
         "MIA",
         "MIN",
         "TB"
-      ]
-    },
-    {
-      "title": "NFL Week 3 panic meter: Chargers in crisis, Patriots unraveling, Packers fading, but Rams will be fine",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-panic-meter-chargers-patriots-packers-rams/",
-      "summary": "We revisited four preseason contenders after Week 3, and the concern level has flipped",
-      "published": "Tue, 29 Sep 2026 15:35:16 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "LA",
-        "LAC",
-        "NE"
-      ]
-    },
-    {
-      "title": "Rams' Matthew Stafford makes surprise cameo in Taylor Swift's new music video",
-      "url": "https://www.cbssports.com/nfl/news/rams-matthew-stafford-cameo-taylor-swift-video/",
-      "summary": "Swift's connection to the NFL continues to grow",
-      "published": "Mon, 28 Sep 2026 18:11:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "J.J. McCarthy experiment unraveled after only 10 starts in Minnesota; can QB pick up the pieces with Giants?",
-      "url": "https://www.cbssports.com/nfl/news/j-j-mccarthy-vikings-giants-trade-whats-next-for-former-top-10-qb/",
-      "summary": "Minnesota bet on the flashes that made McCarthy a top-10 pick. Two years and 10 starts later, he's been traded to the Giants",
-      "published": "Mon, 28 Sep 2026 17:44:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "J.J. McCarthy trade grades: QB could be a downgrade for Giants, Vikings get a clean split",
-      "url": "https://www.cbssports.com/nfl/news/j-j-mccarthy-trade-grades-qb-giants-vikings/",
-      "summary": "New York is sending a 2027 fifth-round pick to Minnesota for McCarthy",
-      "published": "Mon, 28 Sep 2026 17:17:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "MIN",
-        "NYG"
       ]
     }
   ],
