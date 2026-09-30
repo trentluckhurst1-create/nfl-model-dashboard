@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-30T01:25:18.159069+00:00",
-  "checked_at_utc": "2026-09-30T01:25:18.159069+00:00",
+  "updated_at_utc": "2026-09-30T07:10:34.987199+00:00",
+  "checked_at_utc": "2026-09-30T07:10:34.987199+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 16,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -21,6 +21,17 @@
   },
   "items": [
     {
+      "title": "QB Notebook: What's Driving Brock Purdy's Hot Start; Waving White Flag On Cam Ward",
+      "url": "https://www.foxsports.com/stories/nfl/qb-notebook-whats-driving-brock-purdys-hot-start-waiving-white-flag-cam-ward",
+      "summary": "Here's what stood out from NFL quarterbacks in Week 3, from Brock Purdy's stellar play to Cam Ward's brutal INT.",
+      "published": "Tue, 29 Sep 2026 21:23:05 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
       "title": "Tom Brady's First Start In The NFL Came 25 Years Ago, And The Rest Is History",
       "url": "https://www.foxsports.com/stories/nfl/tom-brady-made-his-first-official-nfl-start-25-years-ago-rest-history",
       "summary": "Here's a look at Tom Brady's football career leading up to his first official NFL start for New England 25 years ago.",
@@ -34,7 +45,7 @@
     {
       "title": "Herd Hierarchy: Are The Raiders Legit? Seahawks Fall, While Bills & 49ers Rise",
       "url": "https://www.foxsports.com/stories/nfl/herd-hierarchy-raiders-legit-seahawks-fall-while-bills-49ers-rise",
-      "summary": "Here are Cowherd's Week 2 Herd Hierarchy rankings.",
+      "summary": "Here are Cowherd's Week 3 Herd Hierarchy rankings.",
       "published": "Tue, 29 Sep 2026 20:50:36 -0400",
       "source": "FOX Sports NFL",
       "source_type": "publisher",
@@ -273,19 +284,6 @@
       "teams": []
     },
     {
-      "title": "Why 'Specimen' Lions RB Jahmyr Gibbs Was One Of NFL's Best Week 3 Performers",
-      "url": "https://www.foxsports.com/stories/nfl/why-specimen-lions-rb-jahmyr-gibbs-one-nfls-best-week-3-performers",
-      "summary": "Marcus Mariota and Jahmyr Gibbs each delivered three-touchdown performances in Week 3, and Julian Edelman and Rob Gronkowski named them their Employees of the Week on \"Gronk & Jules.\"",
-      "published": "Mon, 28 Sep 2026 20:00:42 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
       "title": "Guard Sam Cosmi, safety Nick Cross out for London game vs. Colts",
       "url": "https://www.espn.com/nfl/story/_/id/50062628/guard-sam-cosmi-safety-nick-cross-london-game-vs-colts",
       "summary": "Commanders guard Sam Cosmi and safety Nick Cross did not travel with the team to London on Tuesday night for their Week 4 game against the Colts.",
@@ -300,10 +298,10 @@
       ]
     },
     {
-      "title": "Ravens-Cowboys in Brazil averaged record 29.9M viewers",
+      "title": "Ravens-Cowboys in Brazil averaged record 24.9M viewers",
       "url": "https://www.espn.com/nfl/story/_/id/50062493/ravens-cowboys-brazil-averaged-record-299m-viewers",
-      "summary": "The Ravens' 34-31 victory over the Cowboys in Rio de Janeiro, Brazil, averaged 29.9 million viewers on CBS on Sunday, making it the most-watched NFL international game in history.",
-      "published": "2026-09-29T23:47:39Z",
+      "summary": "The Ravens' 34-31 victory over the Cowboys in Rio de Janeiro, Brazil, averaged 24.9 million viewers on CBS on Sunday, making it the most-watched NFL international game in history.",
+      "published": "2026-09-30T01:33:08Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -355,6 +353,145 @@
       ]
     },
     {
+      "title": "Inside George Kittle's 243-day recovery from torn Achilles",
+      "url": "https://www.espn.com/nfl/story/_/id/50059771/san-francisco-49ers-george-kittle-torn-achilles-recovery",
+      "summary": "Despite tearing his Achilles in the playoffs, Kittle appears to be back to his normal self. Here's how he won the recovery process.",
+      "published": "2026-09-29T20:33:47Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Falcons' Tua Tagovailoa healing, embracing backup QB role",
+      "url": "https://www.espn.com/nfl/story/_/id/50060106/falcons-tua-tagovailoa-healing-embracing-backup-qb-role",
+      "summary": "Falcons QB Tua Tagovailoa said he's not 100% recovered from his oblique injury but is embracing his role as backup to Michael Penix Jr.",
+      "published": "2026-09-29T18:56:00Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL"
+      ]
+    },
+    {
+      "title": "Bengals cut WR Ke'Shawn Williams after costly muffed punt",
+      "url": "https://www.espn.com/nfl/story/_/id/50059809/source-bengals-cut-keshawn-williams-costly-muffed-punt",
+      "summary": "The Cincinnati Bengals cut WR Ke'Shawn Williams after he muffed a punt that eventually led to the Pittsburgh Steelers' 30-27 win. On Tuesday, Cincinnati signed WR Mitch Tinsley.",
+      "published": "2026-09-29T19:26:23Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CIN",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Giants release fan favorite Odell Beckham Jr.",
+      "url": "https://www.espn.com/nfl/story/_/id/50059755/sources-giants-release-fan-favorite-odell-beckham-jr",
+      "summary": "The Giants released veteran wide receiver Odell Beckham Jr. on Tuesday.",
+      "published": "2026-09-29T21:53:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Jerry Jones: 'No explanation' for Cowboys coaches' mistakes",
+      "url": "https://www.espn.com/nfl/story/_/id/50059557/jerry-jones-no-explanation-cowboys-coaches-mistakes",
+      "summary": "Jerry Jones says he believes errors in game management by his coaching staff cost the Cowboys a victory over the Ravens.",
+      "published": "2026-09-29T17:19:24Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Sources: Panthers OL Damien Lewis (UCL injury) to miss time",
+      "url": "https://www.espn.com/nfl/story/_/id/50058897/panthers-ol-damien-lewis-ucl-injury-sources-say",
+      "summary": "Panthers left guard Damien Lewis has a UCL injury in an elbow and will be out a few weeks, sources told NFL Network's Mike Garafolo and Ian Rapoport.",
+      "published": "2026-09-29T15:43:17Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CAR"
+      ]
+    },
+    {
+      "title": "2026 NFL pass rush, run stop, blocking win rate rankings",
+      "url": "https://www.espn.com/nfl/story/_/id/49742016/2026-win-rates-team-player-rankings-pass-rush-run-stop-blocking",
+      "summary": "Our win rate metrics stack the NFL's top teams and players in run blocking, run stopping, pass protection and pass rushing.",
+      "published": "2026-09-29T14:48:15Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Seven things Solak thinks entering NFL Week 4",
+      "url": "https://www.espn.com/nfl/story/_/id/50054740/week-4-seven-things-solak-thinks-lamar-mvp-bills-rams-trade",
+      "summary": "Bowers will go off under Klint Kubiak? The Rams need another pass catcher? Steelers-Browns will be fun? And Lamar Jackson for MVP? Get ready for Week 4 with some takes.",
+      "published": "2026-09-29T13:33:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "LA",
+        "PIT"
+      ]
+    },
+    {
+      "title": "2026 NFL Power Rankings: How all 32 teams stack up for Week 4",
+      "url": "https://www.espn.com/nfl/story/_/id/50052289/nfl-power-rankings-week-4-teams-fantasy-surprises",
+      "summary": "How do all 32 NFL teams stack up through three weeks? Plus, we picked out each team's biggest fantasy surprise -- good or bad.",
+      "published": "2026-09-29T15:18:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "What has gone wrong for the Patriots' offense, Drake Maye?",
+      "url": "https://www.espn.com/nfl/story/_/id/50054960/new-england-patriots-offense-struggles-drake-maye-scoring",
+      "summary": "New England is last in the NFL in offensive points per game at 9.7. Can Maye and his supporting cast settle things down and turn it around?",
+      "published": "2026-09-29T12:30:31Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "2027 NFL draft order projections for Round 1, top pick, more",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-09-29T11:06:05Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
       "title": "Giants release Odell Beckham Jr.: Landing spots for veteran pass-catcher include Rams",
       "url": "https://www.cbssports.com/nfl/news/new-york-giants-release-odell-beckham-jr/",
       "summary": "New York parts ways with the wide receiver for the second time",
@@ -372,7 +509,7 @@
       "title": "Jerry Jones sounds off on Cowboys' coaching gaffes at end of Week 3 loss in Brazil: 'We made mistakes'",
       "url": "https://www.cbssports.com/nfl/news/jerry-jones-cowboys-coaching-gaffes-loss-to-ravens/",
       "summary": "Brian Schottenheimer took blame for the final-minute clock management against the Ravens, but Dallas' owner made it clear he expects the coaching staff to learn from the breakdown without making any staff changes",
-      "published": "Tue, 29 Sep 2026 19:56:29 +0000",
+      "published": "Wed, 30 Sep 2026 02:14:34 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
