@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-29T22:24:49.735039+00:00",
-  "checked_at_utc": "2026-09-29T22:24:49.735039+00:00",
+  "updated_at_utc": "2026-09-30T01:25:18.159069+00:00",
+  "checked_at_utc": "2026-09-30T01:25:18.159069+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,49 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 19,
+      "items": 21,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Tom Brady's First Start In The NFL Came 25 Years Ago, And The Rest Is History",
+      "url": "https://www.foxsports.com/stories/nfl/tom-brady-made-his-first-official-nfl-start-25-years-ago-rest-history",
+      "summary": "Here's a look at Tom Brady's football career leading up to his first official NFL start for New England 25 years ago.",
+      "published": "Tue, 29 Sep 2026 21:15:43 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Herd Hierarchy: Are The Raiders Legit? Seahawks Fall, While Bills & 49ers Rise",
+      "url": "https://www.foxsports.com/stories/nfl/herd-hierarchy-raiders-legit-seahawks-fall-while-bills-49ers-rise",
+      "summary": "Here are Cowherd's Week 2 Herd Hierarchy rankings.",
+      "published": "Tue, 29 Sep 2026 20:50:36 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LV",
+        "SEA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Upon Further Review: Welcome To The Tight End Renaissance, Which Has Been In The Making",
+      "url": "https://www.foxsports.com/stories/nfl/upon-further-review-welcome-tight-end-renaissance-which-has-been-making",
+      "summary": "Tight ends went off across the league in Week 3. Is it a sign of things to come?",
+      "published": "Tue, 29 Sep 2026 19:24:34 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
     {
       "title": "2026 NFL OPOY Odds: Jahmyr Gibbs Favored; Jaxon Smith-Njigba Second",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
@@ -248,53 +286,72 @@
       ]
     },
     {
-      "title": "Giants Trade For J.J. McCarthy: What Does It Mean For Present, Future Of QB Room?",
-      "url": "https://www.foxsports.com/stories/nfl/giants-trade-j-j-mccarthy-what-does-mean-present-future-qb-room",
-      "summary": "J.J. McCarthy will have a chance to push Jameis Winston for the Giants' starting QB job, but his chances of replacing Jaxson Dart long-term are slim",
-      "published": "Mon, 28 Sep 2026 19:54:21 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Guard Sam Cosmi, safety Nick Cross out for London game vs. Colts",
+      "url": "https://www.espn.com/nfl/story/_/id/50062628/guard-sam-cosmi-safety-nick-cross-london-game-vs-colts",
+      "summary": "Commanders guard Sam Cosmi and safety Nick Cross did not travel with the team to London on Tuesday night for their Week 4 game against the Colts.",
+      "published": "2026-09-30T00:48:05Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "game",
       "teams": [
-        "NYG"
+        "IND",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Ravens-Cowboys in Brazil averaged record 29.9M viewers",
+      "url": "https://www.espn.com/nfl/story/_/id/50062493/ravens-cowboys-brazil-averaged-record-299m-viewers",
+      "summary": "The Ravens' 34-31 victory over the Cowboys in Rio de Janeiro, Brazil, averaged 29.9 million viewers on CBS on Sunday, making it the most-watched NFL international game in history.",
+      "published": "2026-09-29T23:47:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Steelers' Ramsey says he has broken wrist, uncertain for Thursday",
+      "url": "https://www.espn.com/nfl/story/_/id/50062199/steelers-ramsey-says-broken-wrist-uncertain-thursday",
+      "summary": "Steelers cornerback Jalen Ramsey said he would \"try\" to play Thursday night against the Browns despite saying he broke his wrist in the team's Week 3 win.",
+      "published": "2026-09-29T23:44:05Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Cowboys' Schottenheimer 'aligned' with Jones after Rio gaffes",
+      "url": "https://www.espn.com/nfl/story/_/id/50062115/cowboys-schottenheimer-aligned-jones-rio-gaffes",
+      "summary": "Cowboys coach Brian Schottenheimer said he would \"be better\" after meeting with Jerry Jones about questionable late-game coaching decisions in Sunday's loss to the Ravens.",
+      "published": "2026-09-30T00:41:41Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "DAL"
       ]
     },
     {
       "title": "Patriots place offensive lineman Greg Van Roten (thigh) on IR",
       "url": "https://www.espn.com/nfl/story/_/id/50061293/patriots-place-offensive-lineman-greg-van-roten-thigh-ir",
       "summary": "The Patriots placed guard Greg Van Roten on injured reserve Tuesday as the infrastructure around quarterback Drake Maye took another hit.",
-      "published": "2026-09-29T21:02:48Z",
+      "published": "2026-09-29T22:28:19Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
         "NE"
-      ]
-    },
-    {
-      "title": "Inside George Kittle's 243-day recovery from torn Achilles",
-      "url": "https://www.espn.com/nfl/story/_/id/50059771/san-francisco-49ers-george-kittle-torn-achilles-recovery",
-      "summary": "Despite tearing his Achilles in the playoffs, Kittle appears to be back to his normal self. Here's how he won the recovery process.",
-      "published": "2026-09-29T20:33:47Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Falcons' Tua Tagovailoa healing, embracing backup QB role",
-      "url": "https://www.espn.com/nfl/story/_/id/50060106/falcons-tua-tagovailoa-healing-embracing-backup-qb-role",
-      "summary": "Falcons QB Tua Tagovailoa said he's not 100% recovered from his oblique injury but is embracing his role as backup to Michael Penix Jr.",
-      "published": "2026-09-29T18:56:00Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL"
       ]
     },
     {
