@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-09-30T13:45:36.248779+00:00",
-  "checked_at_utc": "2026-09-30T13:45:36.248779+00:00",
+  "updated_at_utc": "2026-09-30T18:36:40.939813+00:00",
+  "checked_at_utc": "2026-09-30T18:36:40.939813+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 7,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,89 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 22,
+      "items": 25,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Sammy\u2019s Sportsbook Whispers: Ole Miss Should Beware Of The Swamp",
+      "url": "https://www.foxsports.com/stories/college-football/sammy-p-sportsbook-whispers-ole-miss-florida",
+      "summary": "Ole Miss should beware of the improved Gators and the NFL should note that the Chiefs are back in business. Here are Sammy P's latest sportsbook whispers.",
+      "published": "Wed, 30 Sep 2026 14:25:16 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "Commanders' QB Jayden Daniels Back At Practice, 'Too Early to Call' London Status",
+      "url": "https://www.foxsports.com/stories/nfl/commanders-qb-jayden-daniels-back-practice-too-early-call-london-status",
+      "summary": "Washington Commanders quarterback Jayden Daniels has a shot to start Sunday against the Indianapolis Colts in London and would wear a brace on his injured left elbow.",
+      "published": "Wed, 30 Sep 2026 11:46:39 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "IND",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Aaron Rodgers Explains How Steelers' Offense Is 'Close' To Breaking Out",
+      "url": "https://www.foxsports.com/stories/nfl/aaron-rodgers-steelers-offense-stats",
+      "summary": "Aaron Rodgers detailed how the Pittsburgh Steelers' offense is \"close\" to becoming a well-oiled machine.",
+      "published": "Wed, 30 Sep 2026 11:02:50 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
+      "summary": "Check out the odds for every NFL Week 4 contest.",
+      "published": "Wed, 30 Sep 2026 10:55:16 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Favorite 'Dogs: Back WVU Over ISU; Eagles To Upset Rams",
+      "url": "https://www.foxsports.com/stories/nfl/favorite-dogs-back-wvu-over-isu-eagles-upset-rams",
+      "summary": "Will Hill sees panic for the Rams and a lot of scoring in Ames, Iowa. See his underdog picks.",
+      "published": "Wed, 30 Sep 2026 10:36:24 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "PHI"
+      ]
+    },
+    {
+      "title": "What's Wrong With Drake Maye? And How Do The Patriots Fix Their QB?",
+      "url": "https://www.foxsports.com/stories/nfl/whats-wrong-drake-maye-how-do-patriots-fix-qb",
+      "summary": "Drake Maye might be playing the worst football of his career. What's gone wrong for the Patriots QB, and how do they stop the spiral?",
+      "published": "Wed, 30 Sep 2026 10:23:19 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE"
+      ]
+    },
     {
       "title": "Roll The Tape: How The Packers' Offense, Rams' Defense And Drake Maye Can Rebound",
       "url": "https://www.foxsports.com/stories/nfl/roll-tape-how-packers-offense-rams-defense-drake-maye-can-rebound",
@@ -181,17 +259,6 @@
       ]
     },
     {
-      "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
-      "summary": "Check out the odds for every NFL Week 4 contest.",
-      "published": "Tue, 29 Sep 2026 10:21:06 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
       "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
       "summary": "Week 3 is over and a surprise team is moving in the right direction. See the latest NFL postseason odds.",
@@ -271,38 +338,128 @@
       ]
     },
     {
-      "title": "NFL Best And Worst: Falcons Turn It Around; No Answers For Packers, Patriots",
-      "url": "https://www.foxsports.com/stories/nfl/falcons-raiders-rise-packers-patriots-searching-solutions",
-      "summary": "The Falcons and Raiders look like contenders, the Packers and Patriots like pretenders. Here's our Best and Worst from a bizarro Week 3.",
-      "published": "Mon, 28 Sep 2026 23:04:32 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Chiefs LT Simmons recovering from bulging disk, Reid says",
+      "url": "https://www.espn.com/nfl/story/_/id/50069756/chiefs-lt-simmons-recovering-bulging-disk-reid-says",
+      "summary": "Chiefs coach Andy Reid said on Wednesday that left tackle Josh Simmons, who has not practiced with his teammates since Aug. 17, is recovering from a bulging disc.",
+      "published": "2026-09-30T18:36:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "Ravens' Henry: 'Always love' for Titans, but not much this Sunday",
+      "url": "https://www.espn.com/nfl/story/_/id/50069438/ravens-henry-always-love-titans-not-much-sunday",
+      "summary": "Ravens RB Derrick Henry faces his former team, the Titans, on Sunday for the first time since leaving Tennessee after the 2023 season. He said it's \"always love\" for the Titans, just not much when they play on Sunday.",
+      "published": "2026-09-30T18:20:11Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL",
-        "GB",
-        "LV",
-        "NE"
+        "BAL",
+        "TEN"
       ]
     },
     {
-      "title": "The Plays That Stood Out In Week 3, From A 'Meatball Sub' To Lamar Jackson's Game-Winner",
-      "url": "https://www.foxsports.com/stories/nfl/plays-that-stood-out-nfl-week-3-justin-herbert-lamar-jackson",
-      "summary": "Justin Herbert's interception and Lamar Jackson's heroics highlight the plays that mattered most from NFL Week 3.",
-      "published": "Mon, 28 Sep 2026 23:04:27 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Packers WR Jayden Reed to undergo season-ending neck surgery",
+      "url": "https://www.espn.com/nfl/story/_/id/50068583/sources-packers-put-wr-jayden-reed-ir-due-neck-injury",
+      "summary": "Packers wide receiver Jayden Reed will undergo season-ending neck surgery and be placed on injured reserve, coach Matt LaFleur said Wednesday.",
+      "published": "2026-09-30T17:12:43Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "Panthers CBs Jaycee Horn, Mike Jackson placed on IR",
+      "url": "https://www.espn.com/nfl/story/_/id/50068364/panthers-cbs-jaycee-horn-mike-jackson-placed-ir",
+      "summary": "The Panthers have placed starting cornerbacks Jaycee Horn (quad) and Mike Jackson (groin) on injured reserve after both were injured in the Week 3 loss to the Browns.",
+      "published": "2026-09-30T15:59:15Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CAR",
+        "CLE"
+      ]
+    },
+    {
+      "title": "Commanders' Jayden Daniels limited at practice, status up in air",
+      "url": "https://www.espn.com/nfl/story/_/id/50068247/commanders-jayden-daniels-limited-practice-status-air",
+      "summary": "Jayden Daniels returned to practice in a limited capacity, but his status for games remains up in the air.",
+      "published": "2026-09-30T16:12:25Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "WAS"
+      ]
+    },
+    {
+      "title": "Buccaneers put WR McMillan on IR, add QB Rypien to practice squad",
+      "url": "https://www.espn.com/nfl/story/_/id/50068199/buccaneers-put-wr-mcmillan-ir-add-qb-rypien-practice-squad",
+      "summary": "The Buccaneers placed wide receiver Jalen McMillan on injured reserve Wednesday, sidelining him for at least the next four games.",
+      "published": "2026-09-30T15:23:09Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "TB"
+      ]
+    },
+    {
+      "title": "Ex-NFL star Antonio Brown's hearing for expected plea deal postponed",
+      "url": "https://www.espn.com/nfl/story/_/id/50067340/ex-nfl-star-antonio-brown-hearing-expected-plea-deal-postponed",
+      "summary": "Former NFL star wide receiver Antonio Brown's court hearing where he was expected to accept a plea deal allowing him to avoid prison time in an attempted murder case was postponed Wednesday.",
+      "published": "2026-09-30T14:29:40Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Sources: Packers, guard Kevin Zeitler agree to one-year deal",
-      "url": "https://www.espn.com/nfl/story/_/id/50067128/packers-guard-kevin-zeitler-agree-one-year-deal",
-      "summary": "Veteran guard Kevin Zeitler is signing a one-year deal with the Packers, sources told ESPN's Adam Schefter.",
-      "published": "2026-09-30T13:44:18Z",
-      "source": "ESPN NFL",
+      "title": "Agent's Take: Dissecting the twists and turns relating to Joey Porter Jr.'s contract stalemate with Steelers",
+      "url": "https://www.cbssports.com/nfl/news/agents-take-joey-porter-jr-s-contract-stalemate-with-steelers/",
+      "summary": "Pittsburgh should break its policy against in-season contract talks to keep its lockdown cornerback before a stalemate turns into a trade request",
+      "published": "Wed, 30 Sep 2026 17:48:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Packers' Jayden Reed out for season, set to undergo surgery for neck injury",
+      "url": "https://www.cbssports.com/nfl/news/jayden-reed-injury-update-packers-wr-neck-surgery/",
+      "summary": "Reed will undergo neck surgery after being carted off the field in Week 2, though Matt LaFleur said the injury is not believed to be career-threatening",
+      "published": "Wed, 30 Sep 2026 17:00:09 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "Quick fix? Desperation? Packers overhaul leaky offensive line with signings of three veterans",
+      "url": "https://www.cbssports.com/nfl/news/packers-overhaul-offensive-line-signing-three-veterans/",
+      "summary": "Green Bay quarterback Jordan Love has been fighting for his life, and now the Packers aim to fix that",
+      "published": "Wed, 30 Sep 2026 16:19:22 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
@@ -311,53 +468,107 @@
       ]
     },
     {
-      "title": "Sources: Ravens starting center Jovaughn Gwyn out for 2-3 months",
-      "url": "https://www.espn.com/nfl/story/_/id/50066661/sources-ravens-starting-center-jovaughn-gwyn-set-miss-months",
-      "summary": "Ravens starting center Jovaughn Gwyn is expected to miss two to three months with a fractured fibula that will likely require surgery, a source told ESPN.",
-      "published": "2026-09-30T12:41:05Z",
-      "source": "ESPN NFL",
+      "title": "One NFL team is facing a nightmare early schedule not seen in the last 40 seasons",
+      "url": "https://www.cbssports.com/nfl/news/miami-dolphins-schedule-2026-nfl-history/",
+      "summary": "The Dolphins have an NFL-high strength of schedule of 1.000, and their Week 4 opponent is undefeated, too",
+      "published": "Wed, 30 Sep 2026 15:57:42 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
       "teams": [
-        "BAL"
+        "MIA"
       ]
     },
     {
-      "title": "NFL Week 4 latest intel, buzz questions, news, fantasy tips",
-      "url": "https://www.espn.com/nfl/story/_/id/50058901/week-4-buzz-fantasy-predictions-graziano-fowler-2026",
-      "summary": "Alarm bells for Justin Herbert and Drake Maye? More QB trades on the way? Growing injury concerns for the 49ers and Panthers? Here's the latest for Week 4.",
-      "published": "2026-09-30T13:44:23Z",
-      "source": "ESPN NFL",
+      "title": "Panthers put starting cornerbacks Jaycee Horn, Mike Jackson on IR: Options for Carolina include Trevon Diggs",
+      "url": "https://www.cbssports.com/nfl/news/panthers-cornerbacks-jaycee-horn-mike-jackson-ir-options-trevon-diggs/",
+      "summary": "Horn (quad) and Jackson (groin) will both miss extended time",
+      "published": "Wed, 30 Sep 2026 15:51:29 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "qb",
       "teams": [
-        "CAR",
-        "SF"
+        "CAR"
       ]
     },
     {
-      "title": "How NFL players cope with CTE risks, fears and internal debates",
-      "url": "https://www.espn.com/nfl/story/_/id/49940451/how-nfl-players-cope-cte-risks",
-      "summary": "We asked over 30 NFL players about CTE concerns, and their answers ranged from fear to resignation.",
-      "published": "2026-09-30T13:11:09Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Would NFL players take a test that could diagnose CTE in the living?",
-      "url": "https://www.espn.com/nfl/story/_/id/49941739/would-nfl-players-take-test-diagnose-cte-living",
-      "summary": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
-      "published": "2026-09-30T10:24:59Z",
-      "source": "ESPN NFL",
+      "title": "Buying or selling 3-0 NFL teams: Which teams are Super Bowl contenders and which are pretenders?",
+      "url": "https://www.cbssports.com/nfl/news/buying-selling-3-0-nfl-teams-super-bowl-contenders-pretenders/",
+      "summary": "Three of the NFL's five remaining undefeated teams are legit",
+      "published": "Wed, 30 Sep 2026 15:31:47 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
+    },
+    {
+      "title": "Week 4 NFL betting odds, lines, spreads, totals, for every game, including Browns-Steelers, Cowboys-Texans",
+      "url": "https://www.cbssports.com/betting/news/week-4-nfl-betting-odds-lines-spreads-totals/",
+      "summary": "The Week 4 NFL schedule features 16 games, starting with Steelers vs. Browns on Thursday Night Football",
+      "published": "Wed, 30 Sep 2026 14:51:51 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CLE",
+        "DAL",
+        "HOU",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Super Bowl stock report for Week 4: Broncos attack difficult schedule, Packers fall to NFC North's bottom rung",
+      "url": "https://www.cbssports.com/nfl/news/super-bowl-stock-report-week-4-broncos-rise-packers-fall/",
+      "summary": "We assess the NFL title race after Week 3 and identify four upcoming games that could reshape the Super Bowl picture",
+      "published": "Wed, 30 Sep 2026 14:27:49 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "GB"
+      ]
+    },
+    {
+      "title": "How NFL defenses are combatting unexpected rise of under-center offenses",
+      "url": "https://www.cbssports.com/nfl/news/nfl-defenses-combatting-unexpected-rise-under-center-offenses/",
+      "summary": "Defenses are blitzing under-center passes at a record 51% rate, unleashing linebackers and cornerbacks to disrupt condensed formations and outside zone runs",
+      "published": "Wed, 30 Sep 2026 14:25:07 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 4 NFL QB Power Rankings: A new, first-time No. 1 emerges; Drake Maye plummets toward the bottom",
+      "url": "https://www.cbssports.com/nfl/news/week-4-nfl-qb-power-rankings-drake-maye-plummets/",
+      "summary": "Evaluating the NFL's 32 starting quarterbacks ahead of the fourth week of the 2026 regular season",
+      "published": "Wed, 30 Sep 2026 14:19:49 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Packers vs. Buccaneers NFL Week 4: Winless Tampa Bay begins stretch sans Baker Mayfield on historic ATS skid",
+      "url": "https://www.cbssports.com/betting/news/packers-vs-buccaneers-nfl-week-4-winless-tampa-bay-begins-stretch-sans-baker-mayfield-on-historic-ats-skid/",
+      "summary": "The Bucs are on a bizarre ATS losing streak entering Sunday's game vs. the Packers",
+      "published": "Wed, 30 Sep 2026 13:30:51 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "TB"
+      ]
     },
     {
       "title": "NFL Week 4 picks, odds: Make-or-break time for Packers, plus two more teams to back on the road",
@@ -474,7 +685,7 @@
       "title": "Predicting NFL's first coaching change of 2026: Why Todd Bowles, Jim Harbaugh are in greatest danger",
       "url": "https://www.cbssports.com/nfl/news/predicting-nfls-first-coaching-change-of-2026-todd-bowles-jim-harbaugh/",
       "summary": "Sluggish starts put these coaches in danger of becoming the first to lose their job",
-      "published": "Tue, 29 Sep 2026 19:54:16 +0000",
+      "published": "Wed, 30 Sep 2026 14:22:01 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -547,22 +758,6 @@
       "category": "game",
       "teams": [
         "CLE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Week 4 NFL betting odds, lines, spreads, totals, for every game, including Steelers-Browns, Cowboys-Texans",
-      "url": "https://www.cbssports.com/betting/news/week-4-nfl-betting-odds-lines-totals-spreads/",
-      "summary": "The Week 4 NFL schedule features 16 games, starting with Steelers vs. Browns on Thursday Night Football",
-      "published": "Tue, 29 Sep 2026 16:53:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CLE",
-        "DAL",
-        "HOU",
         "PIT"
       ]
     },
@@ -668,145 +863,6 @@
       "trust": "NETWORK",
       "category": "injury",
       "teams": []
-    },
-    {
-      "title": "Case Keenum, Bears score 'MNF' win over Eagles; MLB Wild Card preview; WNBA awards top rookie",
-      "url": "https://www.cbssports.com/nfl/news/case-keenum-bears-mnf-eagles-mlb-wild-card-wnba-rookie/",
-      "summary": "Plus, the Giants acquire J.J. McCarthy from the Vikings",
-      "published": "Tue, 29 Sep 2026 12:45:22 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "MIN",
-        "NYG",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Six lessons learned in Week 3: Texans, Eagles offenses in major trouble, officials need help",
-      "url": "https://www.cbssports.com/nfl/news/six-lessons-learned-week-3-texans-eagles-offenses-officials/",
-      "summary": "Plus, it's Brock Bowers' world and we're just living in it",
-      "published": "Tue, 29 Sep 2026 12:27:26 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "PHI"
-      ]
-    },
-    {
-      "title": "NFL Week 4 picks and score predictions: Browns shock Steelers on Thursday night, Texans get first win",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-and-score-predictions-breech/",
-      "summary": "Here's your weekly dose of John Breech's NFL picks",
-      "published": "Tue, 29 Sep 2026 16:40:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "HOU",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Raiders' surprising 3-0 start: Will Las Vegas see Fernando Mendoza at all this season?",
-      "url": "https://www.cbssports.com/nfl/news/raiders-3-0-start-fernando-mendoza-likelihood-to-play-in-2026/",
-      "summary": "Kirk Cousins has fended off the No. 1 overall pick through three weeks",
-      "published": "Tue, 29 Sep 2026 12:04:33 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LV"
-      ]
-    },
-    {
-      "title": "NFL MVP race entering Week 4: Josh Allen stays No. 1, but the field is closing fast",
-      "url": "https://www.cbssports.com/nfl/news/nfl-mvp-candidates-2026-josh-allen-patrick-mahomes-week-4/",
-      "summary": "A wide receiver, two running backs and even a defensive player join the quarterbacks in our ranking of the NFL's leading MVP candidates",
-      "published": "Wed, 30 Sep 2026 12:34:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "When will J.J. McCarthy start for Giants? Why John Harbaugh could make QB change sooner than expected",
-      "url": "https://www.cbssports.com/nfl/news/j-j-mccarthy-trade-giants-starting-qb-jameis-winston/",
-      "summary": "McCarthy must learn a new offense and prove he can protect the football, but Jameis Winston's uneven play could speed things up",
-      "published": "Tue, 29 Sep 2026 13:27:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Prisco's NFL Week 4 Power Rankings: Bills claim No. 1 status while Vikings continue to climb",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-power-rankings-week-4-bills-vikings/",
-      "summary": "Pete Prisco shares his latest Power Rankings of the 2026 NFL season, including some big drops for some of last week's top teams",
-      "published": "Tue, 29 Sep 2026 11:32:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "MIN"
-      ]
-    },
-    {
-      "title": "NFL Week 3 grades for all 32 teams: Bears earn 'A+' for big Monday win, Raiders earn 'A-' for beating Saints",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-grades-patriots-stumble-commanders-shine/",
-      "summary": "Plus, two teams earn 'A+' grades after superb offensive performances, and another 'F' makes its way into the discussion",
-      "published": "Tue, 29 Sep 2026 03:18:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "LV",
-        "NO"
-      ]
-    },
-    {
-      "title": "Eagles vs. Bears picks, player props: Expert's best bets for Monday Night Football in NFL Week 3",
-      "url": "https://www.cbssports.com/betting/news/eagles-vs-bears-picks-player-props-experts-best-bets-for-monday-night-football-in-nfl-week-3/",
-      "summary": "Philadelphia heads to Chicago on Monday Night Football with the Bears starting Case Keenum at quarterback",
-      "published": "Tue, 29 Sep 2026 00:08:07 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CHI",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Eagles vs. Bears odds, spread, NFL picks, predictions, best bets: Monday Night Football betting preview",
-      "url": "https://www.cbssports.com/betting/news/eagles-bears-odds-spread-nfl-picks-predictions-best-bets-monday-night-football-betting-preview/",
-      "summary": "Best bets and betting preview for Eagles vs. Bears on Monday Night Football",
-      "published": "Mon, 28 Sep 2026 22:44:12 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "PHI"
-      ]
     }
   ],
   "reporters": []
