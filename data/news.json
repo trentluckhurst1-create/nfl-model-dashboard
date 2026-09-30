@@ -1,25 +1,118 @@
 {
-  "updated_at_utc": "2026-09-30T18:36:40.939813+00:00",
-  "checked_at_utc": "2026-09-30T18:36:40.939813+00:00",
+  "updated_at_utc": "2026-09-30T22:37:08.327710+00:00",
+  "checked_at_utc": "2026-09-30T22:37:08.327710+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 7,
+      "items": 8,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 35
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 25,
+      "items": 21,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "2026 NFL DROY Odds: Jacob Rodriguez Emerges As Favorite; Sonny Styles Surges",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-defensive-rookie-year-odds",
+      "summary": "A new, unexpected favorite has emerged in the Defensive Rookie of the Year race. See the latest odds.",
+      "published": "Wed, 30 Sep 2026 16:56:56 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "J.J. McCarthy Is a Giant, But The Quarterback's Role Is Up In The Air",
+      "url": "https://www.foxsports.com/stories/nfl/new-york-giants-jj-mccarthy-jameis-winston-john-harbaugh",
+      "summary": "J.J. McCarthy is a Giants quarterback now, but in which quarterback role is an unanswered question.",
+      "published": "Wed, 30 Sep 2026 15:54:15 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Jets RB Breece Hall, 4 Others 'Week To Week' And Missing Practice With Injuries",
+      "url": "https://www.foxsports.com/stories/nfl/new-york-jets-breece-hall-quad-injury",
+      "summary": "New York Jets running back Breece Hall won't practice Wednesday and coach Aaron Glenn said he's considered \"week to week\" as he recovers from a quadriceps injury.",
+      "published": "Wed, 30 Sep 2026 15:39:42 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Tom Brady's NFL Power Rankings: 49ers, Bills Or Chiefs At No. 1? Raiders Top 5?",
+      "url": "https://www.foxsports.com/stories/nfl/tom-bradys-nfl-power-rankings-49ers-bills-chiefs-no-1-raiders-top-5",
+      "summary": "After the Seahawks' Week 3 loss, Tom Brady has a new No. 1 in his power rankings. Here's whis full top 10.",
+      "published": "Wed, 30 Sep 2026 15:22:44 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "KC",
+        "LV",
+        "SEA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Ravens Star Derrick Henry Reveals Shocking Fact About Titans Free Agent Exit",
+      "url": "https://www.foxsports.com/stories/nfl/baltimore-ravens-derrick-henry-tennessee-titans-stats",
+      "summary": "Ravens star running back Derrick Henry revealed that the Titans never made him an offer to stay in Nashville in 2024.",
+      "published": "Wed, 30 Sep 2026 15:20:25 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "TEN"
+      ]
+    },
+    {
+      "title": "2026 NFL OROY Odds: Love Favored; Sadiq Surges After Big Week 3",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-offensive-rookie-year-odds",
+      "summary": "Jeremiyah Love has increased his gap as the Offensive Rookie of the Year favorite after Week 3 but a new name is surging up the oddsboard. See the latest.",
+      "published": "Wed, 30 Sep 2026 14:51:10 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Packers WR Jayden Reed Reportedly Undergoing Neck Surgery; Will Miss 2026 Season",
+      "url": "https://www.foxsports.com/stories/nfl/packers-wr-jayden-reed-reportedly-undergoing-neck-surgery-will-miss-2026-season",
+      "summary": "After suffering a scary neck injury against the New York Jets in Week 2, Green Bay Packers wide receiver Jayden Reed\u2019s 2026 season is officially over.",
+      "published": "Wed, 30 Sep 2026 14:31:32 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "GB",
+        "NYJ"
+      ]
+    },
     {
       "title": "Sammy\u2019s Sportsbook Whispers: Ole Miss Should Beware Of The Swamp",
       "url": "https://www.foxsports.com/stories/college-football/sammy-p-sportsbook-whispers-ole-miss-florida",
@@ -198,24 +291,51 @@
       ]
     },
     {
-      "title": "2026 NFL Coach Of The Year Odds: Raiders' Klint Kubiak New Favorite",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-coach-of-the-year-odds",
-      "summary": "There's a new favorite on the Coach Of The Year oddsboard after NFL Week 3. Here's the latest.",
-      "published": "Tue, 29 Sep 2026 14:04:29 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Falcons sign DT Gervon Dexter Sr. to four-year extension",
+      "url": "https://www.espn.com/nfl/story/_/id/50071951/falcons-sign-dt-gervon-dexter-sr-four-year-extension",
+      "summary": "The Falcons signed Gervon Dexter Sr. to a four-year, $78 million contract extension, sources told ESPN.",
+      "published": "2026-09-30T22:28:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "ATL"
+      ]
+    },
+    {
+      "title": "Sean McVay: NFL told Rams DPI shouldn't have been called",
+      "url": "https://www.espn.com/nfl/story/_/id/50071616/sean-mcvay-nfl-told-rams-dpi-called",
+      "summary": "Rams head coach Sean McVay says the NFL told the team that defensive pass interference should not have been called against cornerback Josh Wallace in Sunday night's loss to the Broncos.",
+      "published": "2026-09-30T22:01:04Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LV"
+        "DEN",
+        "LA"
       ]
     },
     {
-      "title": "Reunion Over: Giants Reportedly Releasing Odell Beckham Jr.",
-      "url": "https://www.foxsports.com/stories/nfl/giants-release-odell-beckham-jr-stats",
-      "summary": "The New York Giants are reportedly releasing veteran wide receiver Odell Beckham Jr., ending a reunion with the team that drafted him.",
-      "published": "Tue, 29 Sep 2026 13:08:53 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Bears' Ben Johnson: 'Direction already made' on Week 4 QB call",
+      "url": "https://www.espn.com/nfl/story/_/id/50071476/bears-ben-johnson-direction-already-made-week-4-qb",
+      "summary": "Bears coach Ben Johnson said he knows the \"direction\" the team will go at quarterback in Week 4 but won't publicly declare a starter.",
+      "published": "2026-09-30T21:50:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Giants' Harbaugh explains reasoning for releasing Beckham",
+      "url": "https://www.espn.com/nfl/story/_/id/50071302/giants-harbaugh-explains-reasoning-releasing-beckham",
+      "summary": "Giants coach John Harbaugh on Wednesday explained the team's decision for releasing wide receiver Odell Beckham Jr.",
+      "published": "2026-09-30T21:48:29Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -224,205 +344,110 @@
       ]
     },
     {
-      "title": "QB Stock Market Week 4: Is Trevor Lawrence Finally Who We Thought He Was?",
-      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-4-trevor-lawrence-finally-who-we-thought-he-was",
-      "summary": "Trevor Lawrence has found his superpower. Matthew Stafford really needs his back. Here are Henry McKenna's latest QB rankings.",
-      "published": "Tue, 29 Sep 2026 12:25:49 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL AFC, NFC Title Odds: Contenders Cratering Early In The Season",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-afc-nfc-title-odds",
-      "summary": "A few thought-to-be contenders are falling off just three weeks into the NFL season. See the latest AFC and NFC title odds.",
-      "published": "Tue, 29 Sep 2026 11:02:42 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Chargers Coach Jim Harbaugh's Message To Justin Herbert: 'Be Better\"",
-      "url": "https://www.foxsports.com/stories/nfl/jim-harbaugh-justin-herbert-quote-chargers-schedule",
-      "summary": "Los Angeles Chargers head coach Jim Harbaugh has a curt message for quarterback Justin Herbert: \"be better.\"",
-      "published": "Tue, 29 Sep 2026 10:57:58 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
-      "summary": "Week 3 is over and a surprise team is moving in the right direction. See the latest NFL postseason odds.",
-      "published": "Tue, 29 Sep 2026 09:53:50 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 Super Bowl Odds: Rams, Bills Co-Favorites; Eagles Slide",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "summary": "The Rams have company atop the Super Bowl oddsboard, while a blowout loss sent the Eagles tumbling. See the latest odds after Week 3.",
-      "published": "Mon, 28 Sep 2026 23:44:53 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA",
-        "PHI"
-      ]
-    },
-    {
-      "title": "2026 NFL Power Rankings Week 4: Are The Vikings For Real? Are The Rams Vulnerable?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-4",
-      "summary": "Should we be buying stock in the Vikings? Are the Rams still a top-10 team? We examine in this week's power rankings.",
-      "published": "Mon, 28 Sep 2026 23:37:14 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "MIN"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds: Which Teams Are Favored To Win Their Divisions After Week 3?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-2027-nfl-odds-division-winner",
-      "summary": "Who will repeat? Will K.C. and Baltimore return to the top? Check out the latest NFL division odds after Week 3.",
-      "published": "Mon, 28 Sep 2026 23:35:11 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 3 NFL All-Stars: How Many 49ers, Falcons Stars Make The Cut After Dominant Showings?",
-      "url": "https://www.foxsports.com/stories/nfl/week-3-nfl-all-stars-how-many-49ers-falcons-stars-make-cut-after-dominant-showings",
-      "summary": "Our weekly roundup of the league's best players features San Francisco's quarterback, who is central in its 3-0 start.",
-      "published": "Mon, 28 Sep 2026 23:31:56 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ATL",
-        "SF"
-      ]
-    },
-    {
-      "title": "The Case Keenum Game: 3 Takeaways From Bears' Culture-Defining Win vs. Eagles",
-      "url": "https://www.foxsports.com/stories/nfl/case-keenum-game-3-takeaways-from-bears-culture-defining-win-vs-eagles",
-      "summary": "With Caleb Williams out, Case Keenum delivered, and then some, in the Bears' win over the Eagles.",
-      "published": "Mon, 28 Sep 2026 23:29:32 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Chiefs LT Simmons recovering from bulging disk, Reid says",
-      "url": "https://www.espn.com/nfl/story/_/id/50069756/chiefs-lt-simmons-recovering-bulging-disk-reid-says",
-      "summary": "Chiefs coach Andy Reid said on Wednesday that left tackle Josh Simmons, who has not practiced with his teammates since Aug. 17, is recovering from a bulging disc.",
-      "published": "2026-09-30T18:36:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "KC"
-      ]
-    },
-    {
-      "title": "Ravens' Henry: 'Always love' for Titans, but not much this Sunday",
-      "url": "https://www.espn.com/nfl/story/_/id/50069438/ravens-henry-always-love-titans-not-much-sunday",
-      "summary": "Ravens RB Derrick Henry faces his former team, the Titans, on Sunday for the first time since leaving Tennessee after the 2023 season. He said it's \"always love\" for the Titans, just not much when they play on Sunday.",
-      "published": "2026-09-30T18:20:11Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Packers WR Jayden Reed to undergo season-ending neck surgery",
-      "url": "https://www.espn.com/nfl/story/_/id/50068583/sources-packers-put-wr-jayden-reed-ir-due-neck-injury",
-      "summary": "Packers wide receiver Jayden Reed will undergo season-ending neck surgery and be placed on injured reserve, coach Matt LaFleur said Wednesday.",
-      "published": "2026-09-30T17:12:43Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "GB"
-      ]
-    },
-    {
-      "title": "Panthers CBs Jaycee Horn, Mike Jackson placed on IR",
-      "url": "https://www.espn.com/nfl/story/_/id/50068364/panthers-cbs-jaycee-horn-mike-jackson-placed-ir",
-      "summary": "The Panthers have placed starting cornerbacks Jaycee Horn (quad) and Mike Jackson (groin) on injured reserve after both were injured in the Week 3 loss to the Browns.",
-      "published": "2026-09-30T15:59:15Z",
+      "title": "What's level of concern for Panthers' notable injuries before Week 4 vs. Lions?",
+      "url": "https://www.espn.com/nfl/story/_/id/50067397/carolina-panthers-concern-injuries-week-4-game-lions",
+      "summary": "Ahead of its first primetime game of the season Sunday, Carolina has seven noteworthy injuries to monitor.",
+      "published": "2026-09-30T21:24:50Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
         "CAR",
-        "CLE"
+        "DET"
       ]
     },
     {
-      "title": "Commanders' Jayden Daniels limited at practice, status up in air",
-      "url": "https://www.espn.com/nfl/story/_/id/50068247/commanders-jayden-daniels-limited-practice-status-air",
-      "summary": "Jayden Daniels returned to practice in a limited capacity, but his status for games remains up in the air.",
-      "published": "2026-09-30T16:12:25Z",
+      "title": "Steelers head to Cleveland for matchup of 2-1 teams in Aaron Rodgers' final Thursday night game",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872964",
+      "summary": "\u2014 Aaron Rodgers' NFL farewell tour continues with his final scheduled Thursday night game when the Pittsburgh Steelers face the Cleveland Browns.",
+      "published": "2026-09-30T19:59:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Steelers rule Joey Porter out again; Jalen Ramsey questionable",
+      "url": "https://www.espn.com/nfl/story/_/id/50070581/steelers-rule-joey-porter-again-jalen-ramsey-questionable",
+      "summary": "Steelers cornerback Joey Porter will miss his fourth straight game as he has officially been declared out for Thursday night's game against the Browns.",
+      "published": "2026-09-30T20:12:28Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "WAS"
+        "CLE",
+        "PIT"
       ]
     },
     {
-      "title": "Buccaneers put WR McMillan on IR, add QB Rypien to practice squad",
-      "url": "https://www.espn.com/nfl/story/_/id/50068199/buccaneers-put-wr-mcmillan-ir-add-qb-rypien-practice-squad",
-      "summary": "The Buccaneers placed wide receiver Jalen McMillan on injured reserve Wednesday, sidelining him for at least the next four games.",
-      "published": "2026-09-30T15:23:09Z",
+      "title": "Would NFL players take a test to diagnose CTE in the living?",
+      "url": "https://www.espn.com/nfl/story/_/id/49941739/would-nfl-players-take-test-diagnose-cte-living",
+      "summary": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
+      "published": "2026-09-30T18:47:42Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "John Harbaugh explains Odell Beckham Jr. release: 'It just wasn't working for us'",
+      "url": "https://www.cbssports.com/nfl/news/giants-released-odell-beckham-jr-john-harbaugh-explains/",
+      "summary": "Beckham played just 20 offensive snaps and failed to record a catch during his three-game return to New York",
+      "published": "Wed, 30 Sep 2026 21:06:58 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Week 4 NFL betting promos: Score almost $3,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/week-4-nfl-betting-promos-score-almost-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Wed, 30 Sep 2026 19:17:25 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Tyreek Hill teases potential NFL comeback: Former All-Pro WR seeks 'cold weather' landing spot",
+      "url": "https://www.cbssports.com/nfl/news/tyreek-hill-nfl-comeback-cold-weather-landing-spots/",
+      "summary": "Hill put out interest in playing in cold weather after the Packers announced that Jayden Reed was out for the year",
+      "published": "Wed, 30 Sep 2026 18:26:53 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": [
-        "TB"
+        "GB"
       ]
     },
     {
-      "title": "Ex-NFL star Antonio Brown's hearing for expected plea deal postponed",
-      "url": "https://www.espn.com/nfl/story/_/id/50067340/ex-nfl-star-antonio-brown-hearing-expected-plea-deal-postponed",
-      "summary": "Former NFL star wide receiver Antonio Brown's court hearing where he was expected to accept a plea deal allowing him to avoid prison time in an attempted murder case was postponed Wednesday.",
-      "published": "2026-09-30T14:29:40Z",
-      "source": "ESPN NFL",
+      "title": "Mike Vrabel refutes report of alleged rift with Drake Maye: 'I'm here because Drake was the quarterback'",
+      "url": "https://www.cbssports.com/nfl/news/mike-vrabel-refutes-rift-report-drake-maye/",
+      "summary": "Are New England's early season struggles leading to HC-QB drama?",
+      "published": "Wed, 30 Sep 2026 18:13:45 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Seattle WR Jaxon Smith-Njigba says Ohio State's Jeremiah Smith is 'like the LeBron James' of all-time Buckeyes",
+      "url": "https://www.cbssports.com/college-football/news/jeremiah-smith-ohio-state-seattle-wr-jaxon-smith-njigba-lebron-james/",
+      "summary": "Ohio State has a rich tradition of great receivers, but one of their best in the NFL today thinks Smith is on another level",
+      "published": "Wed, 30 Sep 2026 18:16:52 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -827,42 +852,6 @@
         "BAL",
         "TEN"
       ]
-    },
-    {
-      "title": "Return of the feature back: Why NFL running backs are making a massive comeback",
-      "url": "https://www.cbssports.com/nfl/news/return-of-the-nfls-feature-back-run-game-resurgence/",
-      "summary": "Several factors are helping fuel a major resurgence for ground attacks across the league",
-      "published": "Tue, 29 Sep 2026 14:33:49 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Eagles coach Nick Sirianni expresses remorse for shouting expletive at Bears player for hit on Jalen Hurts",
-      "url": "https://www.cbssports.com/nfl/news/nick-sirianni-remorse-for-expletive-at-bear-jalen-hurts/",
-      "summary": "Sirianni said he let the emotions get the best of him",
-      "published": "Tue, 29 Sep 2026 13:06:56 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "PHI"
-      ]
-    },
-    {
-      "title": "NFL Week 4 injury panic meter: Updates on Baker Mayfield, Justin Jefferson and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-injury-panic-meter-baker-mayfield-justin-jefferson/",
-      "summary": "A look at some of the biggest injuries from around the NFL",
-      "published": "Tue, 29 Sep 2026 12:54:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
     }
   ],
   "reporters": []
