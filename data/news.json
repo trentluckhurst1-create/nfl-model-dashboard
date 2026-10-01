@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-01T14:49:37.396984+00:00",
-  "checked_at_utc": "2026-10-01T14:50:02.601429+00:00",
+  "updated_at_utc": "2026-10-01T19:55:52.876600+00:00",
+  "checked_at_utc": "2026-10-01T19:56:18.145315+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 9,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 30
     },
     "FOX Sports NFL": {
       "ok": false,
@@ -22,32 +22,217 @@
   },
   "items": [
     {
-      "title": "Why Steelers traded Joey Porter Jr. to Cowboys, what's next?",
-      "url": "https://www.espn.com/nfl/story/_/id/50076570/pittsburgh-steelers-trade-joey-porter-jr-dallas-cowboys",
-      "summary": "Our insiders dive into Porter's fit in Dallas, his potential for a contract extension and what's next for the Steelers.",
-      "published": "2026-10-01T14:30:32Z",
+      "title": "Jacoby Brissett and Jameis Winston meet as starting QBs as the Cardinals visit the Giants",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872966",
+      "summary": "\u2014 Jacoby Brissett and Jameis Winston go way back to their college days more than a decade ago.",
+      "published": "2026-10-01T19:43:31Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "qb",
       "teams": [
-        "DAL",
-        "PIT"
+        "ARI",
+        "NYG"
       ]
     },
     {
-      "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
-      "url": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
-      "published": "2026-10-01T13:39:33Z",
+      "title": "Battle of the Bays features winless Buccaneers and struggling Packers",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872968",
+      "summary": "\u2014 The Battle of the Bays features two struggling teams searching for an identity and a win.",
+      "published": "2026-10-01T19:24:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CLE",
-        "NYG"
+        "GB",
+        "TB"
       ]
+    },
+    {
+      "title": "The Seahawks will be looking for a rebound on Sunday while the Chargers just want a win",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872977",
+      "summary": "The Seattle Seahawks need just a few tweaks, according to coach Mike Macdonald. No need to overhaul the defending Super Bowl champions in the wake of one loss.",
+      "published": "2026-10-01T19:20:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LAC",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Johnson and Glenn match wits once again as the Bears host the Jets in Week 4",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872972",
+      "summary": "\u2014 Ben Johnson's time in Detroit \u2014 a formative experience that led to his current job as coach of the Chicago Bears \u2014 was shaped in part by going against Aaron Glenn's defense in practice with the Lions.",
+      "published": "2026-10-01T18:38:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "DET",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Texans host the Cowboys seeking their first win after an 0-3 start",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872967",
+      "summary": "\u2014 After a second straight 0-3 start to the season, any win would be huge for the Houston Texans.",
+      "published": "2026-10-01T18:37:35Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "HOU"
+      ]
+    },
+    {
+      "title": "Brock Purdy and the 49ers prepare for a tough test against the Broncos defense",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872975",
+      "summary": "\u2014 Brock Purdy and the San Francisco 49ers have been in peak form early this season.",
+      "published": "2026-10-01T18:37:31Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "SF"
+      ]
+    },
+    {
+      "title": "Allen seeks to put sloppy play behind him as Bills host turnover-prone Maye and the Patriots",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872971",
+      "summary": "\u2014 Win or lose, Josh Allen has displayed a consistent knack for putting a sloppy performance behind him.",
+      "published": "2026-10-01T18:37:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "NE"
+      ]
+    },
+    {
+      "title": "Why Matthew Stafford made a cameo in Taylor Swift's 'Patient Zero' music video",
+      "url": "https://www.espn.com/nfl/story/_/id/50052555/matthew-stafford-taylor-swift-rams-aries-patient-zero-music-video-cameo",
+      "summary": "Why, yes, that was Matthew Stafford. Here's why all signs pointed to the reigning NFL MVP's music video cameo.",
+      "published": "2026-10-01T17:40:19Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Commanders' Jayden Daniels says he's taking injury day by day",
+      "url": "https://www.espn.com/nfl/story/_/id/50077836/commanders-jayden-daniels-says-taking-injury-day-day",
+      "summary": "Commanders quarterback Jayden Daniels said Thursday he has no concerns about reinjuring his left elbow and is \"taking it day by day\" on the possibility of starting against the Colts on Sunday in London.",
+      "published": "2026-10-01T18:08:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "IND",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Steelers' Aaron Rodgers could pass Tom Brady and Patrick Mahomes to set a unique NFL record Thursday night",
+      "url": "https://www.cbssports.com/nfl/news/steelers-aaron-rodgers-could-pass-brady-mahomes-for-nfl-record/",
+      "summary": "The Steelers QB is on the cusp of making history",
+      "published": "Thu, 01 Oct 2026 18:50:29 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Browns vs. Steelers: Winner takes the lead in AFC North in 'Thursday Night Football' matchup",
+      "url": "https://www.cbssports.com/nfl/news/browns-vs-steelers-how-to-watch-storylines-prediction/",
+      "summary": "How to watch the 'Thursday Night Football' matchup, plus a prediction and what to know",
+      "published": "Thu, 01 Oct 2026 17:57:21 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Regrading the Travis Hunter trade: Did Browns easily win this deal with Mason Graham?",
+      "url": "https://www.cbssports.com/nfl/news/regrading-travis-hunter-trade-browns-easily-win-deal-mason-graham/",
+      "summary": "Cleveland capitalized on extra draft capital to build a deep core led by Mason Graham, while Jacksonville has seen limited returns from its two-way superstar",
+      "published": "Thu, 01 Oct 2026 17:46:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CLE"
+      ]
+    },
+    {
+      "title": "Former Steelers coach Mike Tomlin reveals massive Minecraft city he's spent over 12 years building",
+      "url": "https://www.cbssports.com/nfl/news/former-steelers-mike-tomlin-reveals-massive-minecraft-city/",
+      "summary": "Tomlin built a truly colossal virtual city, but at least one former Steelers player had some thoughts on the project",
+      "published": "Thu, 01 Oct 2026 16:40:01 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Browns-Steelers predictions for Thursday night, plus Joey Porter Jr. trade grades and NFL Week 4 picks",
+      "url": "https://www.cbssports.com/nfl/news/pick-six-browns-steelers-predictions-nfl-week-4-picks/",
+      "summary": "Here's everything you need to know about the NFL for Oct. 1",
+      "published": "Thu, 01 Oct 2026 16:11:30 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CLE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Week 4 NFL betting promos: Claim almost $3,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/week-4-nfl-betting-promos-claim-almost-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Thu, 01 Oct 2026 15:11:23 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 4 NFL score predictions, picks, odds, betting advice: Computer model reveals projections for all 16 games",
+      "url": "https://www.cbssports.com/betting/news/week-4-nfl-score-predictions-picks-odds-betting-advice-computer-model-reveals-projections-all-16-games/",
+      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
+      "published": "Thu, 01 Oct 2026 14:55:29 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
     },
     {
       "title": "Week 4 NFL odds, betting lines, spreads, totals, for every game, including Browns-Steelers, Texans-Cowboys",
@@ -108,34 +293,6 @@
       ]
     },
     {
-      "title": "Browns vs. Steelers: Winner takes the lead in AFC North in 'Thursday Night Football' matchup",
-      "url": "https://www.cbssports.com/nfl/news/browns-vs-steelers-how-to-watch-storylines-prediction/",
-      "summary": "How to watch the 'Thursday Night Football' matchup, plus a prediction and what to know",
-      "published": "Thu, 01 Oct 2026 13:06:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Steelers vs. Browns odds, picks, prediction: Best bets, top player props for Thursday Night Football in Week 4",
-      "url": "https://www.cbssports.com/betting/news/steelers-vs-browns-odds-picks-prediction-best-bets-top-player-props-for-thursday-night-football-in-week-4/",
-      "summary": "First place in the AFC North is up for grabs in a low-scoring divisional battle, creating prime value on the under alongside top props for Jaylen Warren and DK Metcalf",
-      "published": "Thu, 01 Oct 2026 14:37:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "PIT"
-      ]
-    },
-    {
       "title": "Yankees on to ALDS after Red Sox sweep; Cowboys win trade with Steelers for Joey Porter Jr.",
       "url": "https://www.cbssports.com/mlb/news/yankees-on-to-alds-after-red-sox-sweep-cowboys-win-trade-with-steelers-for-joey-porter-jr/",
       "summary": "Plus, our game-by-game Week 4 NFL picks are here",
@@ -153,7 +310,7 @@
       "title": "NFL Week 4 picks: Our experts face off on Steelers at Browns, Cowboys vs. Texans and more",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-our-experts-predictions/",
       "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
-      "published": "Thu, 01 Oct 2026 12:41:08 +0000",
+      "published": "Thu, 01 Oct 2026 17:58:45 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -284,17 +441,6 @@
       "teams": []
     },
     {
-      "title": "Week 4 NFL betting promos: Score almost $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-4-nfl-betting-promos-score-almost-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Wed, 30 Sep 2026 19:17:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Tyreek Hill teases potential NFL comeback: Former All-Pro WR seeks 'cold weather' landing spot",
       "url": "https://www.cbssports.com/nfl/news/tyreek-hill-nfl-comeback-cold-weather-landing-spots/",
       "summary": "Hill put out interest in playing in cold weather after the Packers announced that Jayden Reed was out for the year",
@@ -392,80 +538,6 @@
       "category": "qb",
       "teams": [
         "CAR"
-      ]
-    },
-    {
-      "title": "Buying or selling 3-0 NFL teams: Which teams are Super Bowl contenders and which are pretenders?",
-      "url": "https://www.cbssports.com/nfl/news/buying-selling-3-0-nfl-teams-super-bowl-contenders-pretenders/",
-      "summary": "Three of the NFL's five remaining undefeated teams are legit",
-      "published": "Wed, 30 Sep 2026 15:31:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Super Bowl stock report for Week 4: Broncos attack difficult schedule, Packers fall to NFC North's bottom rung",
-      "url": "https://www.cbssports.com/nfl/news/super-bowl-stock-report-week-4-broncos-rise-packers-fall/",
-      "summary": "We assess the NFL title race after Week 3 and identify four upcoming games that could reshape the Super Bowl picture",
-      "published": "Wed, 30 Sep 2026 14:27:49 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "GB"
-      ]
-    },
-    {
-      "title": "How NFL defenses are combatting unexpected rise of under-center offenses",
-      "url": "https://www.cbssports.com/nfl/news/nfl-defenses-combatting-unexpected-rise-under-center-offenses/",
-      "summary": "Defenses are blitzing under-center passes at a record 51% rate, unleashing linebackers and cornerbacks to disrupt condensed formations and outside zone runs",
-      "published": "Wed, 30 Sep 2026 14:25:07 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 4 NFL QB Power Rankings: A new, first-time No. 1 emerges; Drake Maye plummets toward the bottom",
-      "url": "https://www.cbssports.com/nfl/news/week-4-nfl-qb-power-rankings-drake-maye-plummets/",
-      "summary": "Evaluating the NFL's 32 starting quarterbacks ahead of the fourth week of the 2026 regular season",
-      "published": "Wed, 30 Sep 2026 14:19:49 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Packers vs. Buccaneers NFL Week 4: Winless Tampa Bay begins stretch sans Baker Mayfield on historic ATS skid",
-      "url": "https://www.cbssports.com/betting/news/packers-vs-buccaneers-nfl-week-4-winless-tampa-bay-begins-stretch-sans-baker-mayfield-on-historic-ats-skid/",
-      "summary": "The Bucs are on a bizarre ATS losing streak entering Sunday's game vs. the Packers",
-      "published": "Wed, 30 Sep 2026 13:30:51 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "TB"
-      ]
-    },
-    {
-      "title": "NFL Week 4 picks, odds: Make-or-break time for Packers, plus two more teams to back on the road",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-odds-packers-road-teams/",
-      "summary": "Tyler Sullivan picks every game on the Week 4 schedule, plus five locks against the spread",
-      "published": "Wed, 30 Sep 2026 13:20:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB"
       ]
     }
   ],
