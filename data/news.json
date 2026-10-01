@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-30T22:37:08.327710+00:00",
-  "checked_at_utc": "2026-09-30T22:37:08.327710+00:00",
+  "updated_at_utc": "2026-10-01T01:34:08.213720+00:00",
+  "checked_at_utc": "2026-10-01T01:34:08.213720+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
@@ -15,11 +15,61 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 21,
+      "items": 22,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "West Coast Read: Can Dream Team Rams Really Miss The Playoffs? Why The Case Is Building",
+      "url": "https://www.foxsports.com/stories/nfl/can-dream-team-rams-really-miss-playoffs-why-case-building",
+      "summary": "A 1-2 start typically isn't cause for concern, but the case is mounting for the Rams to miss the playoffs.",
+      "published": "Wed, 30 Sep 2026 19:08:07 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "NFL Week 4 Betting Report: Books Being Flooded With Rams Money",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-4-betting-report-rams-eagles-steelers-browns",
+      "summary": "The public believes the Rams simply caught some bad breaks, while books are rooting for Cleveland over Pittsburgh. Patrick Everson breaks it down.",
+      "published": "Wed, 30 Sep 2026 19:06:12 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "Gervon Dexter, Falcons Reportedly Agree On 4-Year, $78 Million Extension",
+      "url": "https://www.foxsports.com/stories/nfl/gervon-dexter-falcons-reportedly-agree-4-year-78-million-extension",
+      "summary": "Fresh off his trade to Atlanta, Gervon Dexter isn't going anywhere anytime soon after locking in a huge extension with the Falcons.",
+      "published": "Wed, 30 Sep 2026 18:50:29 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "ATL"
+      ]
+    },
+    {
+      "title": "2027 NFL Draft No. 1 Pick Odds: Arch Manning Favored; Jeremiah Smith Climbs",
+      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
+      "summary": "Could Jeremiah Smith challenge Arch Manning for the No. 1 pick in the 2027 NFL Draft? See the latest odds.",
+      "published": "Wed, 30 Sep 2026 18:29:01 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "2026 NFL DROY Odds: Jacob Rodriguez Emerges As Favorite; Sonny Styles Surges",
       "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-defensive-rookie-year-odds",
@@ -255,46 +305,36 @@
       "teams": []
     },
     {
-      "title": "2026 NFL OPOY Odds: Jahmyr Gibbs Favored; Jaxon Smith-Njigba Second",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
-      "summary": "Check out the latest odds to win the 2026 NFL Offensive Player of the Year award after Week 3.",
-      "published": "Tue, 29 Sep 2026 16:29:30 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL DPOY Odds: Will Anderson Jr. Favored; Aidan Hutchinson Second",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
-      "summary": "Check out the latest odds for the 2026 NFL Defensive Player of the Year award.",
-      "published": "Tue, 29 Sep 2026 15:43:44 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Jerry Jones Blames Cowboys Coaching Staff For Week 3 Loss To Ravens",
-      "url": "https://www.foxsports.com/stories/nfl/jerry-jones-brian-schottenheimer-ravens-cowboys-finish",
-      "summary": "Cowboys owner Jerry Jones is leaving little doubt that he believes errors in game management by his coaching staff cost them a Week 2 win.",
-      "published": "Tue, 29 Sep 2026 14:23:23 -0400",
-      "source": "FOX Sports NFL",
+      "title": "London game reminds Marcus Mariota of the connection between football and soccer",
+      "url": "https://www.espn.com/nfl/story/_/id/50071152/marcus-mariota-washington-commanders-london-game-soccer-tottenham-hotspur",
+      "summary": "For Mariota, who grew up playing soccer, Sunday's game against the Indianapolis Colts at Tottenham Hotspur Stadium is a chance to combine his love of both sports.",
+      "published": "2026-09-30T23:33:41Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL",
-        "DAL"
+        "IND"
+      ]
+    },
+    {
+      "title": "Patriots' Drake Maye: Shoulder fine, all OK with Mike Vrabel",
+      "url": "https://www.espn.com/nfl/story/_/id/50072249/patriots-drake-maye-shoulder-fine-all-ok-mike-vrabel",
+      "summary": "Drake Maye said Wednesday the physical condition of his right shoulder hasn't affected his throwing ability, instead highlighting the need to make better decisions to reverse his early-season struggles in the Patriots' 1-2 start.",
+      "published": "2026-09-30T23:52:33Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE"
       ]
     },
     {
       "title": "Falcons sign DT Gervon Dexter Sr. to four-year extension",
       "url": "https://www.espn.com/nfl/story/_/id/50071951/falcons-sign-dt-gervon-dexter-sr-four-year-extension",
       "summary": "The Falcons signed Gervon Dexter Sr. to a four-year, $78 million contract extension, sources told ESPN.",
-      "published": "2026-09-30T22:28:10Z",
+      "published": "2026-10-01T00:20:34Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -307,7 +347,7 @@
       "title": "Sean McVay: NFL told Rams DPI shouldn't have been called",
       "url": "https://www.espn.com/nfl/story/_/id/50071616/sean-mcvay-nfl-told-rams-dpi-called",
       "summary": "Rams head coach Sean McVay says the NFL told the team that defensive pass interference should not have been called against cornerback Josh Wallace in Sunday night's loss to the Broncos.",
-      "published": "2026-09-30T22:01:04Z",
+      "published": "2026-10-01T00:23:47Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -372,29 +412,32 @@
       ]
     },
     {
-      "title": "Steelers rule Joey Porter out again; Jalen Ramsey questionable",
-      "url": "https://www.espn.com/nfl/story/_/id/50070581/steelers-rule-joey-porter-again-jalen-ramsey-questionable",
-      "summary": "Steelers cornerback Joey Porter will miss his fourth straight game as he has officially been declared out for Thursday night's game against the Browns.",
-      "published": "2026-09-30T20:12:28Z",
-      "source": "ESPN NFL",
+      "title": "Russell Wilson explains why Giants' controversial J.J. McCarthy trade could be a 'great' fit",
+      "url": "https://www.cbssports.com/nfl/news/jj-mccarthy-trade-giants-russell-wilson/",
+      "summary": "The former Giants quarterback says New York needs McCarthy just as much as the former first-round pick needs a reset",
+      "published": "Thu, 01 Oct 2026 00:13:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "NFL Week 4 injuries: Steelers' Joey Porter Jr. ruled out, Rams' Aaron Donald sits out of practice",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-injury-report-updates-joey-porter-baker-mayfield/",
+      "summary": "Track the latest practice updates and game designations for Week 4, beginning with the Steelers-Browns matchup",
+      "published": "Thu, 01 Oct 2026 01:21:32 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
         "CLE",
+        "LA",
         "PIT"
       ]
-    },
-    {
-      "title": "Would NFL players take a test to diagnose CTE in the living?",
-      "url": "https://www.espn.com/nfl/story/_/id/49941739/would-nfl-players-take-test-diagnose-cte-living",
-      "summary": "Would players want to know if they have the disease? Some would and some wouldn't. Here's what they said.",
-      "published": "2026-09-30T18:47:42Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "John Harbaugh explains Odell Beckham Jr. release: 'It just wasn't working for us'",
@@ -432,14 +475,14 @@
       ]
     },
     {
-      "title": "Mike Vrabel refutes report of alleged rift with Drake Maye: 'I'm here because Drake was the quarterback'",
+      "title": "Mike Vrabel refutes report of alleged rift with Drake Maye after gossip grows legs",
       "url": "https://www.cbssports.com/nfl/news/mike-vrabel-refutes-rift-report-drake-maye/",
       "summary": "Are New England's early season struggles leading to HC-QB drama?",
-      "published": "Wed, 30 Sep 2026 18:13:45 +0000",
+      "published": "Wed, 30 Sep 2026 23:14:33 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": []
     },
     {
@@ -823,34 +866,6 @@
       "category": "qb",
       "teams": [
         "CHI"
-      ]
-    },
-    {
-      "title": "Who's to blame for Eagles' embarrassing loss to Bears? Jalen Hurts bears big responsibility but not all",
-      "url": "https://www.cbssports.com/nfl/news/whos-to-blame-for-eagles-embarrassing-loss-to-bears/",
-      "summary": "Let's play the Eagles blame game after a disastrous loss in Chicago",
-      "published": "Tue, 29 Sep 2026 15:16:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Ravens facing unexpected crisis at key offensive position heading into Week 4 game vs. Titans",
-      "url": "https://www.cbssports.com/nfl/news/ravens-crisis-offense-week-4-game-vs-titans/",
-      "summary": "The Ravens might need to start making some phone calls to fill this position",
-      "published": "Tue, 29 Sep 2026 14:53:48 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "TEN"
       ]
     }
   ],
