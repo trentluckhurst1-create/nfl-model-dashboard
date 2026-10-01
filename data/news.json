@@ -1,25 +1,63 @@
 {
-  "updated_at_utc": "2026-10-01T01:34:08.213720+00:00",
-  "checked_at_utc": "2026-10-01T01:34:08.213720+00:00",
+  "updated_at_utc": "2026-10-01T07:46:05.373191+00:00",
+  "checked_at_utc": "2026-10-01T07:46:05.373191+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 8,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 35
+      "items": 36
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 22,
+      "items": 24,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Cowboys Reportedly Acquire CB Joey Porter Jr. From The Steelers",
+      "url": "https://www.foxsports.com/stories/nfl/cowboys-reportedly-acquire-cb-joey-porter-jr-from-steelers",
+      "summary": "The Cowboys have made a big move to improve their defense, reportedly acquiring cornerback Joey Porter Jr.",
+      "published": "Wed, 30 Sep 2026 23:45:03 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PIT"
+      ]
+    },
+    {
+      "title": "What October 2026 Will Reveal About MLB, The NFL And College Football",
+      "url": "https://www.foxsports.com/stories/nfl/foxtober-mlb-postseason-cfb-chiefs-dodgers-ohio-state",
+      "summary": "September tells you who's good. October tells you who's great. Here's what our writers are watching, and what October will reveal.",
+      "published": "Wed, 30 Sep 2026 22:09:05 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Awards Ballot: In Bijan Robinson We Trust; Brock Purdy MVP Frontrunner?",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-awards-ballot-bijan-robinson-we-trust-brock-purdy-mvp-frontrunner",
+      "summary": "Bijan Robinson showed his full potential with Michael Penix Jr. back at QB for the Falcons. Where does he rank among Offensive Player of the Year contenders?",
+      "published": "Wed, 30 Sep 2026 21:58:43 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ATL"
+      ]
+    },
     {
       "title": "West Coast Read: Can Dream Team Rams Really Miss The Playoffs? Why The Case Is Building",
       "url": "https://www.foxsports.com/stories/nfl/can-dream-team-rams-really-miss-playoffs-why-case-building",
@@ -294,120 +332,72 @@
       ]
     },
     {
-      "title": "Upon Further Review: Welcome To The Tight End Renaissance, Which Has Been In The Making",
-      "url": "https://www.foxsports.com/stories/nfl/upon-further-review-welcome-tight-end-renaissance-which-has-been-making",
-      "summary": "Tight ends went off across the league in Week 3. Is it a sign of things to come?",
-      "published": "Tue, 29 Sep 2026 19:24:34 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "London game reminds Marcus Mariota of the connection between football and soccer",
-      "url": "https://www.espn.com/nfl/story/_/id/50071152/marcus-mariota-washington-commanders-london-game-soccer-tottenham-hotspur",
-      "summary": "For Mariota, who grew up playing soccer, Sunday's game against the Indianapolis Colts at Tottenham Hotspur Stadium is a chance to combine his love of both sports.",
-      "published": "2026-09-30T23:33:41Z",
+      "title": "Indianapolis Colts vs. Washington Commanders: NFL London kick-off time, how to watch in UK, team news",
+      "url": "https://www.espn.com/nfl/story/_/id/50052193/indianapolis-colts-vs-washington-commanders-nfl-london-kick-how-watch-uk-team-news",
+      "summary": "The first NFL London game place takes place this weekend, with the Indianapolis Colts and Washington Commanders looking to build on a surprise wins in Week 3 with a victory at Tottenham Hotspur Stadium.",
+      "published": "2026-10-01T07:27:33Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "IND"
+        "IND",
+        "WAS"
       ]
     },
     {
-      "title": "Patriots' Drake Maye: Shoulder fine, all OK with Mike Vrabel",
-      "url": "https://www.espn.com/nfl/story/_/id/50072249/patriots-drake-maye-shoulder-fine-all-ok-mike-vrabel",
-      "summary": "Drake Maye said Wednesday the physical condition of his right shoulder hasn't affected his throwing ability, instead highlighting the need to make better decisions to reverse his early-season struggles in the Patriots' 1-2 start.",
-      "published": "2026-09-30T23:52:33Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Falcons sign DT Gervon Dexter Sr. to four-year extension",
-      "url": "https://www.espn.com/nfl/story/_/id/50071951/falcons-sign-dt-gervon-dexter-sr-four-year-extension",
-      "summary": "The Falcons signed Gervon Dexter Sr. to a four-year, $78 million contract extension, sources told ESPN.",
-      "published": "2026-10-01T00:20:34Z",
+      "title": "NFL trade deadline grades: Joey Porter Jr. to Cowboys, J.J. McCarthy to Giants",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "summary": "Can Joey Porter Jr. clean up the Cowboys' defense? Will J.J. McCarthy improve the Giants' QB situation? We're grading NFL trades ahead of November's deadline.",
+      "published": "2026-10-01T05:22:52Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "ATL"
-      ]
-    },
-    {
-      "title": "Sean McVay: NFL told Rams DPI shouldn't have been called",
-      "url": "https://www.espn.com/nfl/story/_/id/50071616/sean-mcvay-nfl-told-rams-dpi-called",
-      "summary": "Rams head coach Sean McVay says the NFL told the team that defensive pass interference should not have been called against cornerback Josh Wallace in Sunday night's loss to the Broncos.",
-      "published": "2026-10-01T00:23:47Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "LA"
-      ]
-    },
-    {
-      "title": "Bears' Ben Johnson: 'Direction already made' on Week 4 QB call",
-      "url": "https://www.espn.com/nfl/story/_/id/50071476/bears-ben-johnson-direction-already-made-week-4-qb",
-      "summary": "Bears coach Ben Johnson said he knows the \"direction\" the team will go at quarterback in Week 4 but won't publicly declare a starter.",
-      "published": "2026-09-30T21:50:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Giants' Harbaugh explains reasoning for releasing Beckham",
-      "url": "https://www.espn.com/nfl/story/_/id/50071302/giants-harbaugh-explains-reasoning-releasing-beckham",
-      "summary": "Giants coach John Harbaugh on Wednesday explained the team's decision for releasing wide receiver Odell Beckham Jr.",
-      "published": "2026-09-30T21:48:29Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
+        "DAL",
         "NYG"
       ]
     },
     {
-      "title": "What's level of concern for Panthers' notable injuries before Week 4 vs. Lions?",
-      "url": "https://www.espn.com/nfl/story/_/id/50067397/carolina-panthers-concern-injuries-week-4-game-lions",
-      "summary": "Ahead of its first primetime game of the season Sunday, Carolina has seven noteworthy injuries to monitor.",
-      "published": "2026-09-30T21:24:50Z",
+      "title": "Sources: Steelers to trade Joey Porter Jr. to Cowboys",
+      "url": "https://www.espn.com/nfl/story/_/id/50074351/sources-steelers-trade-joey-porter-jr-cowboys",
+      "summary": "The Steelers agreed to trade cornerback Joey Porter Jr. to the Cowboys for a 2027 sixth-round pick and a 2028 second-rounder, sources confirmed to ESPN on Wednesday night.",
+      "published": "2026-10-01T05:43:20Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "transaction",
       "teams": [
-        "CAR",
-        "DET"
+        "DAL",
+        "PIT"
       ]
     },
     {
-      "title": "Steelers head to Cleveland for matchup of 2-1 teams in Aaron Rodgers' final Thursday night game",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872964",
-      "summary": "\u2014 Aaron Rodgers' NFL farewell tour continues with his final scheduled Thursday night game when the Pittsburgh Steelers face the Cleveland Browns.",
-      "published": "2026-09-30T19:59:30Z",
-      "source": "ESPN NFL",
+      "title": "Joey Porter Jr. trade grades: Steelers win trade after getting coveted high pick from Cowboys",
+      "url": "https://www.cbssports.com/nfl/news/joey-porter-jr-trade-grades-steelers-cowboys/",
+      "summary": "Dallas will now have to pay up for Porter's extension",
+      "published": "Thu, 01 Oct 2026 04:51:15 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DAL",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Steelers trading Joey Porter Jr. to Cowboys for 2028 second-round pick and 2027 sixth-rounder",
+      "url": "https://www.cbssports.com/nfl/news/steelers-joey-porter-jr-traded-to-cowboys/",
+      "summary": "Porter is getting a fresh start after a tumultuous ending in Pittsburgh",
+      "published": "Thu, 01 Oct 2026 04:42:22 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CLE",
+        "DAL",
         "PIT"
       ]
     },
@@ -428,7 +418,7 @@
       "title": "NFL Week 4 injuries: Steelers' Joey Porter Jr. ruled out, Rams' Aaron Donald sits out of practice",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-4-injury-report-updates-joey-porter-baker-mayfield/",
       "summary": "Track the latest practice updates and game designations for Week 4, beginning with the Steelers-Browns matchup",
-      "published": "Thu, 01 Oct 2026 01:21:32 +0000",
+      "published": "Thu, 01 Oct 2026 03:34:47 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -853,19 +843,6 @@
       "category": "transaction",
       "teams": [
         "NYG"
-      ]
-    },
-    {
-      "title": "Bears' Ben Johnson takes playful shot at his former quarterback Jared Goff",
-      "url": "https://www.cbssports.com/nfl/news/bears-hc-ben-johnson-takes-a-shot-at-jared-goffs-mobility/",
-      "summary": "Johnson discussed the difference in preparing for a mobile vs. non-mobile quarterback",
-      "published": "Tue, 29 Sep 2026 15:28:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CHI"
       ]
     }
   ],
