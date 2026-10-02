@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-02T02:36:57.381318+00:00",
-  "checked_at_utc": "2026-10-02T02:36:57.381318+00:00",
+  "updated_at_utc": "2026-10-02T09:00:28.542754+00:00",
+  "checked_at_utc": "2026-10-02T09:00:53.730237+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 14,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -14,230 +14,18 @@
       "items": 28
     },
     "FOX Sports NFL": {
-      "ok": true,
-      "items": 16,
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout",
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Last Man Standing: Which 3-0 Team Will Be The NFL's Last Undefeated?",
-      "url": "https://www.foxsports.com/stories/nfl/chiefs-bills-49ers-raiders-vikings-nfl-last-undefeated-team",
-      "summary": "The league has only five perfect records left, and we predict when each of them will take their first loss in 2026.",
-      "published": "Thu, 01 Oct 2026 20:45:05 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Real Or Fake: Are 3-0 Starts For Bills, Chiefs, 49ers, Vikes & Raiders Legit Or Mirage?",
-      "url": "https://www.foxsports.com/stories/nfl/real-fake-3-0-starts-bills-chiefs-49ers-vikes-raiders-legit-mirage",
-      "summary": "If recent history carries into this year, at least one of the five 3-0 teams will miss the playoffs. Which team could it be? We determine which 3-0 starts are real or fake.",
-      "published": "Thu, 01 Oct 2026 19:13:17 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "KC",
-        "LV",
-        "SF"
-      ]
-    },
-    {
-      "title": "NFL Backup Quarterback Rankings: Which Teams Have The Most Reliable QB2s?",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-backup-quarterback-rankings",
-      "summary": "Here's every backup quarterback in the NFL ranked, from Cade Klubnik to Joe Flacco.",
-      "published": "Thu, 01 Oct 2026 18:24:54 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "How Did Tom Brady Learn To Say 'Meatball Sub,' And How Many Such Passes Did He Throw?",
-      "url": "https://www.foxsports.com/stories/nfl/how-did-tom-brady-learn-say-meatball-sub-how-many-such-passes-did-he-throw",
-      "summary": "Tom Brady shared how he learned about the \"meatball sub\" phrase after calling Justin Herbert's",
-      "published": "Thu, 01 Oct 2026 18:17:39 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Scouts Unsure How To Fix Drake Maye: 'He Looks Like A Rookie, And Not A Particularly Good One'",
-      "url": "https://www.foxsports.com/stories/nfl/patriots-drake-maye-giants-vikings-jj-mccarthy-trade",
-      "summary": "Many people around the league expressed concern for Drake Maye and J.J. McCarthy following the recent struggles for the former and the trade involving the latter.",
-      "published": "Thu, 01 Oct 2026 16:45:43 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "NFL Fact Or Fiction: Raiders For Real? MVP Brock Purdy? Ruling On Your Week 3 Hot Takes",
-      "url": "https://www.foxsports.com/stories/nfl/fact-fiction-raiders-afc-contender-ravens-super-bowl-brock-purdy-mvp",
-      "summary": "We dive into your Week 3 hot takes, breaking down the playoff prospects of the Ravens and Raiders, Brock Purdy's MVP chances and more.",
-      "published": "Thu, 01 Oct 2026 15:55:02 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "LV"
-      ]
-    },
-    {
-      "title": "NFL Week 4 Betting Report: Books Being Flooded With Rams Money",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-4-betting-report-rams-eagles-steelers-browns",
-      "summary": "The public believes the Rams simply caught some bad breaks, while books are rooting for Cleveland over Pittsburgh. Patrick Everson breaks it down.",
-      "published": "Thu, 01 Oct 2026 15:09:09 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
-      "summary": "Check out the odds for every NFL Week 4 contest.",
-      "published": "Thu, 01 Oct 2026 14:29:37 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Week 4 Picks: Best Bets For Every Game \u2014 Will's Wagers",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-4-picks-best-bets-every-game-wills-wagers",
-      "summary": "Will Hill is back with his best bet for every NFL Week 4 game.",
-      "published": "Thu, 01 Oct 2026 13:55:22 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Joey Porter Jr. To Dallas: Every Cowboys-Steelers Trade All Time",
-      "url": "https://www.foxsports.com/stories/nfl/joey-porter-jr-trade-cowboys-steelers-history",
-      "summary": "The Joey Porter Jr. trade continues a pattern of the Cowboys and Steelers making high-profile swaps. Here's every trade they've made.",
-      "published": "Thu, 01 Oct 2026 10:54:17 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL",
-        "PIT"
-      ]
-    },
-    {
-      "title": "How to Watch Steelers vs. Browns: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-browns-tv-channel-live-stream-time-sept-30-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 4 Steelers and Browns game.",
-      "published": "Thu, 01 Oct 2026 09:38:57 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "NFL DFS Week 4: Best Picks, Lineup Advice and Value Plays",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-dfs-week-4-best-picks-lineup-advice-value-plays",
-      "summary": "Top NFL DFS picks for Week 4, including value plays, lineup strategy and sleepers to target for your daily fantasy roster this week.",
-      "published": "Thu, 01 Oct 2026 05:00:59 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Cowboys Reportedly Acquire CB Joey Porter Jr. From The Steelers",
-      "url": "https://www.foxsports.com/stories/nfl/cowboys-reportedly-acquire-cb-joey-porter-jr-from-steelers",
-      "summary": "The Cowboys have made a big move to improve their defense, reportedly acquiring cornerback Joey Porter Jr.",
-      "published": "Wed, 30 Sep 2026 23:45:03 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PIT"
-      ]
-    },
-    {
-      "title": "What October 2026 Will Reveal About MLB, The NFL And College Football",
-      "url": "https://www.foxsports.com/stories/nfl/foxtober-mlb-postseason-cfb-chiefs-dodgers-ohio-state",
-      "summary": "September tells you who's good. October tells you who's great. Here's what our writers are watching, and what October will reveal.",
-      "published": "Wed, 30 Sep 2026 22:09:05 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Awards Ballot: In Bijan Robinson We Trust; Brock Purdy MVP Frontrunner?",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-awards-ballot-bijan-robinson-we-trust-brock-purdy-mvp-frontrunner",
-      "summary": "Bijan Robinson showed his full potential with Michael Penix Jr. back at QB for the Falcons. Where does he rank among Offensive Player of the Year contenders?",
-      "published": "Wed, 30 Sep 2026 21:58:43 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ATL"
-      ]
-    },
-    {
-      "title": "West Coast Read: Can Dream Team Rams Really Miss The Playoffs? Why The Case Is Building",
-      "url": "https://www.foxsports.com/stories/nfl/can-dream-team-rams-really-miss-playoffs-why-case-building",
-      "summary": "A 1-2 start typically isn't cause for concern, but the case is mounting for the Rams to miss the playoffs.",
-      "published": "Wed, 30 Sep 2026 19:08:07 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "Falcons and Saints renew their longstanding rivalry as each seek early season momentum",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872979",
-      "summary": "\u2014 Long-time Saints defensive end Cameron Jordan can be counted on to echo the sentiments of many New Orleans fans whenever the rival Atlanta Falcons are next on the schedule.",
-      "published": "2026-10-02T02:30:28Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "NO"
-      ]
-    },
-    {
-      "title": "Steelers-Browns on TNF Week 4: Highlights, key plays",
-      "url": "https://www.espn.com/nfl/story/_/id/50078973/nfl-week-4-steelers-browns-top-plays-tnf",
-      "summary": "Check out the biggest touchdowns and highlight-reel plays from Thursday night's AFC North showdown.",
-      "published": "2026-10-02T02:21:46Z",
+      "title": "Watson leads third straight winning drive, puts Browns atop North",
+      "url": "https://www.espn.com/nfl/story/_/id/50082906/watson-leads-third-straight-winning-drive-puts-browns-atop-north",
+      "summary": "Deshaun Watson has the Browns atop the division at 3-1 after directing a winning drive for the third straight game Thursday night in a 27-24 win over the Steelers.",
+      "published": "2026-10-02T07:57:32Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -248,24 +36,10 @@
       ]
     },
     {
-      "title": "Browns DT Mason Graham leaves game with knee injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50081421/browns-dt-mason-graham-leaves-game-knee-injury",
-      "summary": "Cleveland Browns defensive tackle Mason Graham has been ruled out for the remainder of Thursday night's home game against the Pittsburgh Steelers because of a knee injury.",
-      "published": "2026-10-02T02:36:06Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CLE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Colts and Commanders try to build on Week 3 wins when they face each other in London",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872965",
-      "summary": "Last November, the Indianapolis Colts went to Europe and came home with an 8-2 record. They'd beaten Atlanta in Berlin and seemed on a glide...",
-      "published": "2026-10-02T00:06:27Z",
+      "title": "Indianapolis Colts vs. Washington Commanders: NFL London kick-off time, how to watch in UK, team news",
+      "url": "https://www.espn.com/nfl/story/_/id/50052193/indianapolis-colts-vs-washington-commanders-nfl-london-kick-how-watch-uk-team-news",
+      "summary": "The first NFL London game place takes place this weekend, with the Indianapolis Colts and Washington Commanders looking to build on a surprise wins in Week 3 with a victory at Tottenham Hotspur Stadium.",
+      "published": "2026-10-02T06:19:16Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -276,142 +50,72 @@
       ]
     },
     {
-      "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
-      "url": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
-      "published": "2026-10-01T23:54:43Z",
+      "title": "Colts vs. Commanders, NFL London preview: ESPN experts on key players, matchups and predictions",
+      "url": "https://www.espn.com/nfl/story/_/id/50067731/indianapolis-colts-washington-commanders-nfl-london-preview-key-players-matchups-predictions",
+      "summary": "The NFL rolls into London this begin with a clash between the Indianapolis Colts and the Washington Commanders -- so we asked ESPN reporters Stephen Holder and John Keim for a preview.",
+      "published": "2026-10-02T06:13:55Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CLE",
-        "NYG"
+        "IND",
+        "WAS"
       ]
     },
     {
-      "title": "NFL Week 4's best arrivals, led by Cleveland Browns mascot",
-      "url": "https://www.espn.com/nfl/story/_/id/50079780/nfl-week-4-fashionable-arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-01T23:21:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE"
-      ]
-    },
-    {
-      "title": "Brian Flores and his dominant Vikings defense take on the winless Dolphins, the team he once coached",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872974",
-      "summary": "\u2014 Brian Flores has become one of the most impactful and prominent assistant coaches in the",
-      "published": "2026-10-01T23:01:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIA",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Burrow seeks to stay unbeaten vs Lawrence as Bengals host Jaguars in matchup of 2-1 teams",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872969",
-      "summary": "Joe Burrow has gotten the better of Trevor Lawrence whenever their teams have met.",
-      "published": "2026-10-01T22:53:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Henry is on Baltimore's side now as the Ravens host the Titans in a series where road teams flourish",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872973",
-      "summary": "\u2014 The last two times the Tennessee Titans played at Baltimore were in 2020. Derrick Henry was on their side then, and boy was he decisive.",
-      "published": "2026-10-01T22:51:28Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Panthers defense looks to slow down Jared Goff and the Lions while missing both starting cornerbacks",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872978",
-      "summary": "\u2014 The Carolina Panthers found themselves in a precarious position last November, facing a red hot Matthew Stafford without three defensive starters, including standout cornerback Jaycee Horn.",
-      "published": "2026-10-01T22:43:42Z",
+      "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
+      "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
+      "summary": "The Steelers QB is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\"",
+      "published": "2026-10-02T06:23:51Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": [
-        "CAR",
-        "DET"
+        "PIT"
       ]
     },
     {
-      "title": "Minkah Fitzpatrick healthy, ready to rejoin Jets. vs. Bears",
-      "url": "https://www.espn.com/nfl/story/_/id/50079739/minkah-fitzpatrick-healthy-ready-rejoin-jets-vs-bears",
-      "summary": "After suffering a groin injury in Week 1, Minkah Fitzpatrick said he will be back on the field with the Jets on Sunday against the Bears.",
-      "published": "2026-10-01T22:45:45Z",
+      "title": "Steelers' McCarthy regrets angry exchange with Rodgers in loss",
+      "url": "https://www.espn.com/nfl/story/_/id/50082783/steelers-mccarthy-regrets-angry-exchange-rodgers-loss",
+      "summary": "Steelers coach Mike McCarthy said he regretted directing a profanity toward quarterback Aaron Rodgers during a heated exchange that was caught on the broadcast of Thursday's 27-24 loss to the Browns.",
+      "published": "2026-10-02T07:49:46Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "qb",
       "teams": [
-        "CHI",
-        "NYJ"
+        "CLE",
+        "PIT"
       ]
     },
     {
-      "title": "Joey Porter happy for fresh start with Cowboys, eyes Sunday debut",
-      "url": "https://www.espn.com/nfl/story/_/id/50079466/joey-porter-happy-fresh-start-cowboys-eyes-sunday-debut",
-      "summary": "Joey Porter Jr. says he hopes to make his debut for the Cowboys on Sunday, when they play the Texans.",
-      "published": "2026-10-01T22:17:22Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "HOU"
-      ]
-    },
-    {
-      "title": "Jalen Hurts challenges underdog Eagles to find out who they are ahead of matchup with Rams",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872970",
-      "summary": "\u2014 Jalen Hurts isn't used to losing much with the Philadelphia Eagles \u2014 only 16 times since 2022 \u2014 and he certainly isn't used to getting embarrassed.",
-      "published": "2026-10-01T21:15:29Z",
-      "source": "ESPN NFL",
+      "title": "Here's why the Steelers' 22-year run without a losing season is now their biggest problem",
+      "url": "https://www.cbssports.com/nfl/news/steelers-losing-season-2026-mike-tomlin-mike-mccarthy/",
+      "summary": "Pittsburgh mastered staying respectable, the problem is respectable hasn't gotten them anywhere",
+      "published": "Fri, 02 Oct 2026 04:06:38 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LA",
-        "PHI"
+        "PIT"
       ]
     },
     {
-      "title": "Arrowhead West no more? Raiders\u2019 fast start could mean Chiefs feel less at home at Allegiant",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872976",
-      "summary": "\u2014 Allegiant Stadium has been called Arrowhead West almost since it opened in 2020.",
-      "published": "2026-10-01T21:04:40Z",
-      "source": "ESPN NFL",
+      "title": "LOOK: Aaron Rodgers' heated exchange with Mike McCarthy caught on camera during Steelers-Browns",
+      "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-mike-mccarthy-heated-exchange-steelers-browns/",
+      "summary": "The former Packers partners exchanged words during a difficult first half for Pittsburgh against its AFC North rival",
+      "published": "Fri, 02 Oct 2026 04:40:03 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "KC",
-        "LV"
+        "CLE",
+        "GB",
+        "PIT"
       ]
     },
     {
@@ -576,28 +280,6 @@
         "CLE",
         "PIT"
       ]
-    },
-    {
-      "title": "Week 4 NFL betting promos: Claim almost $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-4-nfl-betting-promos-claim-almost-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Thu, 01 Oct 2026 15:11:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 4 NFL score predictions, picks, odds, betting advice: Computer model reveals projections for all 16 games",
-      "url": "https://www.cbssports.com/betting/news/week-4-nfl-score-predictions-picks-odds-betting-advice-computer-model-reveals-projections-all-16-games/",
-      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
-      "published": "Thu, 01 Oct 2026 14:55:29 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "Steelers trying to end this nightmare 46-year Thursday night losing streak in Week 4 against Browns",
