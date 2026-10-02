@@ -1,32 +1,31 @@
 {
-  "updated_at_utc": "2026-10-02T09:00:28.542754+00:00",
-  "checked_at_utc": "2026-10-02T09:00:53.730237+00:00",
+  "updated_at_utc": "2026-10-02T15:43:32.162541+00:00",
+  "checked_at_utc": "2026-10-02T15:43:32.162541+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 6,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 28
+      "items": 26
     },
     "FOX Sports NFL": {
-      "ok": false,
-      "items": 0,
-      "error": "ReadTimeout",
+      "ok": true,
+      "items": 17,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Watson leads third straight winning drive, puts Browns atop North",
-      "url": "https://www.espn.com/nfl/story/_/id/50082906/watson-leads-third-straight-winning-drive-puts-browns-atop-north",
-      "summary": "Deshaun Watson has the Browns atop the division at 3-1 after directing a winning drive for the third straight game Thursday night in a 27-24 win over the Steelers.",
-      "published": "2026-10-02T07:57:32Z",
-      "source": "ESPN NFL",
+      "title": "Jared Verse Explains Why This Isn't The 'Old Browns,' Calls Steelers 'Dirty'",
+      "url": "https://www.foxsports.com/stories/nfl/jared-verse-steelers-dirty-browns-records",
+      "summary": "Cleveland defensive end Jared Verse explained how this isn't the same \"old Browns\" and elaborated on why the Steelers are \"dirty.\"",
+      "published": "Fri, 02 Oct 2026 10:59:17 -0400",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -36,28 +35,268 @@
       ]
     },
     {
-      "title": "Indianapolis Colts vs. Washington Commanders: NFL London kick-off time, how to watch in UK, team news",
-      "url": "https://www.espn.com/nfl/story/_/id/50052193/indianapolis-colts-vs-washington-commanders-nfl-london-kick-how-watch-uk-team-news",
-      "summary": "The first NFL London game place takes place this weekend, with the Indianapolis Colts and Washington Commanders looking to build on a surprise wins in Week 3 with a victory at Tottenham Hotspur Stadium.",
-      "published": "2026-10-02T06:19:16Z",
+      "title": "Steelers HC Mike McCarthy Explains He, Aaron Rodgers Cursing At Each Other",
+      "url": "https://www.foxsports.com/stories/nfl/aaron-rodgers-mike-mccarthy-video-steelers-browns",
+      "summary": "Steelers coach Mike McCarthy provided context to the broadcast of their Week 2 loss to the Browns showing he and Aaron Rodgers cursing at each other.",
+      "published": "Fri, 02 Oct 2026 09:54:44 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Are The Browns For Real? 3 Takeaways From Browns' Dramatic Win vs. Steelers",
+      "url": "https://www.foxsports.com/stories/nfl/browns-real-3-takeaways-from-browns-dramatic-win-vs-steelers",
+      "summary": "The Browns are now in first place in the AFC North after their win over the Steelers. Here are three takeaways from Thursday's game.",
+      "published": "Fri, 02 Oct 2026 00:09:44 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Rip The Band-Aid Off: Why Cardinals WR Marvin Harrison Jr. Needs A Career Reset",
+      "url": "https://www.foxsports.com/stories/nfl/why-cardinals-wr-marvin-harrison-jr-needs-career-reset",
+      "summary": "Selected No 4 overall in the 2024 draft, Marvin Harrison Jr is the fifth-targeted pass catcher for the Arizona Cardinals this season. A change of scenery is needed.",
+      "published": "Thu, 01 Oct 2026 23:29:34 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI"
+      ]
+    },
+    {
+      "title": "Last Man Standing: Which 3-0 Team Will Be The NFL's Last Undefeated?",
+      "url": "https://www.foxsports.com/stories/nfl/chiefs-bills-49ers-raiders-vikings-nfl-last-undefeated-team",
+      "summary": "The league has only five perfect records left, and we predict when each of them will take their first loss in 2026.",
+      "published": "Thu, 01 Oct 2026 20:45:05 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Real Or Fake: Are 3-0 Starts For Bills, Chiefs, 49ers, Vikes & Raiders Legit Or Mirage?",
+      "url": "https://www.foxsports.com/stories/nfl/real-fake-3-0-starts-bills-chiefs-49ers-vikes-raiders-legit-mirage",
+      "summary": "If recent history carries into this year, at least one of the five 3-0 teams will miss the playoffs. Which team could it be? We determine which 3-0 starts are real or fake.",
+      "published": "Thu, 01 Oct 2026 19:13:17 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "KC",
+        "LV",
+        "SF"
+      ]
+    },
+    {
+      "title": "NFL Backup Quarterback Rankings: Which Teams Have The Most Reliable QB2s?",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-backup-quarterback-rankings",
+      "summary": "Here's every backup quarterback in the NFL ranked, from Cade Klubnik to Joe Flacco.",
+      "published": "Thu, 01 Oct 2026 18:24:54 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "How Did Tom Brady Learn To Say 'Meatball Sub,' And How Many Such Passes Did He Throw?",
+      "url": "https://www.foxsports.com/stories/nfl/how-did-tom-brady-learn-say-meatball-sub-how-many-such-passes-did-he-throw",
+      "summary": "Tom Brady shared how he learned about the \"meatball sub\" phrase after calling Justin Herbert's",
+      "published": "Thu, 01 Oct 2026 18:17:39 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Scouts Unsure How To Fix Drake Maye: 'He Looks Like A Rookie, And Not A Particularly Good One'",
+      "url": "https://www.foxsports.com/stories/nfl/patriots-drake-maye-giants-vikings-jj-mccarthy-trade",
+      "summary": "Many people around the league expressed concern for Drake Maye and J.J. McCarthy following the recent struggles for the former and the trade involving the latter.",
+      "published": "Thu, 01 Oct 2026 16:45:43 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "NFL Fact Or Fiction: Raiders For Real? MVP Brock Purdy? Ruling On Your Week 3 Hot Takes",
+      "url": "https://www.foxsports.com/stories/nfl/fact-fiction-raiders-afc-contender-ravens-super-bowl-brock-purdy-mvp",
+      "summary": "We dive into your Week 3 hot takes, breaking down the playoff prospects of the Ravens and Raiders, Brock Purdy's MVP chances and more.",
+      "published": "Thu, 01 Oct 2026 15:55:02 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "LV"
+      ]
+    },
+    {
+      "title": "NFL Week 4 Betting Report: Books Being Flooded With Rams Money",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-4-betting-report-rams-eagles-steelers-browns",
+      "summary": "The public believes the Rams simply caught some bad breaks, while books are rooting for Cleveland over Pittsburgh. Patrick Everson breaks it down.",
+      "published": "Thu, 01 Oct 2026 15:09:09 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
+      "summary": "Check out the odds for every NFL Week 4 contest.",
+      "published": "Thu, 01 Oct 2026 14:29:37 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL Week 4 Picks: Best Bets For Every Game \u2014 Will's Wagers",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-4-picks-best-bets-every-game-wills-wagers",
+      "summary": "Will Hill is back with his best bet for every NFL Week 4 game.",
+      "published": "Thu, 01 Oct 2026 13:55:22 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Joey Porter Jr. To Dallas: Every Cowboys-Steelers Trade All Time",
+      "url": "https://www.foxsports.com/stories/nfl/joey-porter-jr-trade-cowboys-steelers-history",
+      "summary": "The Joey Porter Jr. trade continues a pattern of the Cowboys and Steelers making high-profile swaps. Here's every trade they've made.",
+      "published": "Thu, 01 Oct 2026 10:54:17 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DAL",
+        "PIT"
+      ]
+    },
+    {
+      "title": "How to Watch Steelers vs. Browns: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-browns-tv-channel-live-stream-time-sept-30-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 4 Steelers and Browns game.",
+      "published": "Thu, 01 Oct 2026 09:38:57 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "NFL DFS Week 4: Best Picks, Lineup Advice and Value Plays",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-dfs-week-4-best-picks-lineup-advice-value-plays",
+      "summary": "Top NFL DFS picks for Week 4, including value plays, lineup strategy and sleepers to target for your daily fantasy roster this week.",
+      "published": "Thu, 01 Oct 2026 05:00:59 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Cowboys Reportedly Acquire CB Joey Porter Jr. From The Steelers",
+      "url": "https://www.foxsports.com/stories/nfl/cowboys-reportedly-acquire-cb-joey-porter-jr-from-steelers",
+      "summary": "The Cowboys have made a big move to improve their defense, reportedly acquiring cornerback Joey Porter Jr.",
+      "published": "Wed, 30 Sep 2026 23:45:03 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Tennessee Titans, Derrick Henry on different paths at the moment",
+      "url": "https://www.espn.com/nfl/story/_/id/50069076/titans-derrick-henry-ravens-opposite-directions",
+      "summary": "The running back has been on an upward trajectory since leaving Tennessee, while the Titans have followed a diverging path.",
+      "published": "2026-10-02T10:00:11Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "IND",
-        "WAS"
+        "TEN"
       ]
     },
     {
-      "title": "Colts vs. Commanders, NFL London preview: ESPN experts on key players, matchups and predictions",
-      "url": "https://www.espn.com/nfl/story/_/id/50067731/indianapolis-colts-washington-commanders-nfl-london-preview-key-players-matchups-predictions",
-      "summary": "The NFL rolls into London this begin with a clash between the Indianapolis Colts and the Washington Commanders -- so we asked ESPN reporters Stephen Holder and John Keim for a preview.",
-      "published": "2026-10-02T06:13:55Z",
+      "title": "Jets rule out RB Hall, WR Mitchell, TE Taylor, LG Parham vs. Bears",
+      "url": "https://www.espn.com/nfl/story/_/id/50085069/jets-rule-rb-hall-wr-mitchell-te-taylor-lg-parham-vs-bears",
+      "summary": "Running back Breece Hall, wide receiver Adonai Mitchell, tight end Mason Taylor and left guard Dylan Parham were ruled out Friday for the Jets' road game against the Bears.",
+      "published": "2026-10-02T15:24:32Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Former Falcons C, 6-time Pro Bowler Jeff Van Note dies at 80",
+      "url": "https://www.espn.com/nfl/story/_/id/50085025/former-falcons-c-6-pro-bowler-jeff-van-note-dies-80",
+      "summary": "Jeff Van Note, a six-time Pro Bowl center who spent all 18 seasons of his NFL career with the Falcons and was inducted into the team's Ring of Honor in 2006, has died. He was 80.",
+      "published": "2026-10-02T15:14:57Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
+      "teams": [
+        "ATL"
+      ]
+    },
+    {
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-10-02T13:54:32Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Commanders QB Jayden Daniels (elbow) ruled out vs. Colts",
+      "url": "https://www.espn.com/nfl/story/_/id/50084552/commanders-qb-jayden-daniels-elbow-ruled-vs-colts",
+      "summary": "Commanders QB Jayden Daniels was ruled out of Sunday's game vs. the Colts, causing him to miss a second consecutive game because of a dislocated left elbow.",
+      "published": "2026-10-02T14:55:36Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
       "teams": [
         "IND",
         "WAS"
@@ -67,7 +306,7 @@
       "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
       "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
       "summary": "The Steelers QB is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\"",
-      "published": "2026-10-02T06:23:51Z",
+      "published": "2026-10-02T11:53:05Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -77,17 +316,188 @@
       ]
     },
     {
-      "title": "Steelers' McCarthy regrets angry exchange with Rodgers in loss",
-      "url": "https://www.espn.com/nfl/story/_/id/50082783/steelers-mccarthy-regrets-angry-exchange-rodgers-loss",
-      "summary": "Steelers coach Mike McCarthy said he regretted directing a profanity toward quarterback Aaron Rodgers during a heated exchange that was caught on the broadcast of Thursday's 27-24 loss to the Browns.",
-      "published": "2026-10-02T07:49:46Z",
-      "source": "ESPN NFL",
+      "title": "Cowboys' Dak Prescott, CeeDee Lamb have been nearly perfect this season. Why it's still not enough",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-dak-prescott-ceedee-lamb-nearly-perfect-defense-not-enough/",
+      "summary": "Both Prescott and Lamb profile as top-five players at their positions while leading a top 10 scoring offense, but Dallas is 1-2",
+      "published": "Fri, 02 Oct 2026 15:19:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Browns star Jared Verse makes bold statement after win over Steelers on 'TNF'",
+      "url": "https://www.cbssports.com/nfl/news/browns-jared-verse-bold-statement-after-win-over-steelers/",
+      "summary": "The Browns sit atop the AFC North four games into their season",
+      "published": "Fri, 02 Oct 2026 14:38:57 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "NFL Week 4's most underrated games: Why Rams vs. Eagles is make or break for both teams",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4s-most-underrated-games-rams-eagles-chiefs-raiders/",
+      "summary": "A look at some under-the-radar games you should be tuning into, including a battle of unbeatens no one saw coming",
+      "published": "Fri, 02 Oct 2026 14:16:29 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Week 4 NFL odds, betting lines, spreads, totals, for every game, including Texans-Cowboys, Chiefs-Raiders",
+      "url": "https://www.cbssports.com/betting/news/week-4-nfl-odds-betting-lines-totals-spreads/",
+      "summary": "The Week 4 NFL schedule is here, featuring pivotal matchups like Cowboys vs. Texans, Raiders vs. Chiefs and Lions vs. Panthers",
+      "published": "Fri, 02 Oct 2026 14:04:26 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "DAL",
+        "DET",
+        "HOU",
+        "KC",
+        "LV"
+      ]
+    },
+    {
+      "title": "'I'm personally not judging him yet': NFL sources see progress in Titans QB Cam Ward",
+      "url": "https://www.cbssports.com/nfl/news/cam-ward-titans-development-nfl-insiders-early-struggles/",
+      "summary": "Ward's mechanics remain a concern, but NFL sources see improvement from 2025's No. 1 draft pick and reasons for patience",
+      "published": "Fri, 02 Oct 2026 13:59:37 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": [
+        "TEN"
+      ]
+    },
+    {
+      "title": "Will Brinson's NFL Week 4 best bets: Odds, player props, anytime touchdown scorers from expert on Sunday games",
+      "url": "https://www.cbssports.com/betting/news/will-brinsons-nfl-week-4-best-bets-odds-player-props-anytime-touchdown-scorers-from-expert-on-sunday-games/",
+      "summary": "Back live underdogs, ride Derrick Henry in a revenge spot, and target value on Brock Bowers and Puka Nacua to find the end zone",
+      "published": "Fri, 02 Oct 2026 13:49:39 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL trade rumors: Browns would 'welcome deal at right price' for Shedeur Sanders, Dillon Gabriel, per report",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trades-browns-could-welcome-deal-shedeur-sanders-dillon-gabriel/",
+      "summary": "Cleveland may have options within its quarterback room now that Deshaun Watson has solidified himself as QB1 after a 3-1 start",
+      "published": "Fri, 02 Oct 2026 13:49:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CLE"
+      ]
+    },
+    {
+      "title": "Why 49ers' Brock Purdy vs. Broncos' pass rush is set to be one of NFL's best Week 4 showdowns",
+      "url": "https://www.cbssports.com/nfl/news/why-49ers-brock-purdy-broncos-is-among-best-week-4-showdowns/",
+      "summary": "Purdy has already made NFL history this season, but he'll be put to the test against Denver's defense",
+      "published": "Fri, 02 Oct 2026 13:03:14 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "SF"
+      ]
+    },
+    {
+      "title": "Browns fend off Aaron Rodgers and Steelers for third straight win; Braves advance in MLB playoffs",
+      "url": "https://www.cbssports.com/nfl/news/browns-aaron-rodgers-steelers-braves-phillies-mlb-playoffs/",
+      "summary": "Plus UFC 332, NFL and college football picks",
+      "published": "Fri, 02 Oct 2026 12:54:02 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
         "CLE",
         "PIT"
+      ]
+    },
+    {
+      "title": "Week 4 NFL bold predictions: Raiders upset Chiefs, Kyler Murray sets Vikings' single-game record",
+      "url": "https://www.cbssports.com/nfl/news/week-4-nfl-bold-predictions-raiders-chiefs-kyler-murray-vikings/",
+      "summary": "Plus, the Jets finally intercept the Bears, and the Patriots have an running back that breaks free",
+      "published": "Fri, 02 Oct 2026 12:35:13 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "KC",
+        "LV",
+        "MIN",
+        "NE",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "NFL Week 4 ATS picks, odds, best bets: Chiefs struggle in Vegas, Lions eviscerate Panthers",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-odds-best-bets-chiefs-vegas-lions-panthers/",
+      "summary": "Jordan Dajani gives his picks for Week 4 of the 2026 NFL season",
+      "published": "Fri, 02 Oct 2026 12:07:36 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "DET",
+        "KC"
+      ]
+    },
+    {
+      "title": "Where Dolphins rookie class ranks among play-time over last decade and how others fared",
+      "url": "https://www.cbssports.com/nfl/news/where-dolphins-rookie-class-ranks-among-play-time/",
+      "summary": "A look back at how previous NFL teams that relied heavily on first-year players fared in the standings and whether those massive draft classes built lasting foundations",
+      "published": "Fri, 02 Oct 2026 11:55:07 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA"
+      ]
+    },
+    {
+      "title": "Week 4 best bets: Cowboys to bounce back; Josh Downs, Aaron Jones in line for big days",
+      "url": "https://www.cbssports.com/nfl/news/week-4-best-bets-cowboys-josh-downs-aaron-jones/",
+      "summary": "Plus, the Jaguars and the Bengals are in for a good one",
+      "published": "Fri, 02 Oct 2026 11:52:28 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "DAL",
+        "JAX"
       ]
     },
     {
@@ -266,210 +676,6 @@
       "teams": [
         "PIT"
       ]
-    },
-    {
-      "title": "Browns-Steelers predictions for Thursday night, plus Joey Porter Jr. trade grades and NFL Week 4 picks",
-      "url": "https://www.cbssports.com/nfl/news/pick-six-browns-steelers-predictions-nfl-week-4-picks/",
-      "summary": "Here's everything you need to know about the NFL for Oct. 1",
-      "published": "Thu, 01 Oct 2026 16:11:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "CLE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Steelers trying to end this nightmare 46-year Thursday night losing streak in Week 4 against Browns",
-      "url": "https://www.cbssports.com/nfl/news/steelers-trying-to-end-nightmare-46-year-thursday-night-losing-streak/",
-      "summary": "This streak doesn't even seem possible",
-      "published": "Thu, 01 Oct 2026 14:17:16 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Seahawks Jaxon Smith-Njigba reveals the most difficult cornerback he's ever played against",
-      "url": "https://www.cbssports.com/nfl/news/seahawks-jaxon-smith-njigba-reveals-most-difficult-cb/",
-      "summary": "On CBS Sports' 'Set Hut,' JSN discusses who is the toughest defender to face, his game plan at the line of scrimmage, and having Sam Darnold back",
-      "published": "Thu, 01 Oct 2026 13:44:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SEA"
-      ]
-    },
-    {
-      "title": "Joey Porter Jr. reportedly has 'a chance' to suit up for Cowboys this week vs. Texans",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-joey-porter-jr-reportedly-chance-to-play-week-4/",
-      "summary": "Porter has been sitting out with what the Steelers described as a back injury",
-      "published": "Thu, 01 Oct 2026 13:32:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DAL",
-        "HOU",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Yankees on to ALDS after Red Sox sweep; Cowboys win trade with Steelers for Joey Porter Jr.",
-      "url": "https://www.cbssports.com/mlb/news/yankees-on-to-alds-after-red-sox-sweep-cowboys-win-trade-with-steelers-for-joey-porter-jr/",
-      "summary": "Plus, our game-by-game Week 4 NFL picks are here",
-      "published": "Thu, 01 Oct 2026 12:46:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL",
-        "PIT"
-      ]
-    },
-    {
-      "title": "NFL Week 4 picks: Our experts face off on Steelers at Browns, Cowboys vs. Texans and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-our-experts-predictions/",
-      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
-      "published": "Thu, 01 Oct 2026 17:58:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "DAL",
-        "HOU",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Brian Flores' diabolical blitz rates -- equaling nearly 100 tons of pressure -- fueling Vikings' 2026 rampage",
-      "url": "https://www.cbssports.com/nfl/news/minnesota-blitz-rate-brian-flores-faces-dolphins/",
-      "summary": "The coordinator is sending nearly five pass rushers per snap at a historic 71% rate as Minnesota's dominant unit prepares to face his former team in Miami",
-      "published": "Thu, 01 Oct 2026 12:38:34 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "It wouldn't shock me IF ... NFL Week 4: Josh Allen continues historic streak, Cam Ward gets benched",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-bold-predictions-josh-allen-cam-ward/",
-      "summary": "Could Tennessee pull the plug on Cam Ward? Will Josh Allen extend his historic rushing touchdown streak?",
-      "published": "Thu, 01 Oct 2026 14:06:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 4 upset alert: Why these five favorites could easily lose, including the 49ers",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-upset-alert-five-favorites-that-could-lose-49ers/",
-      "summary": "After correctly identifying four major upsets last week, we examine five more for Week 4",
-      "published": "Thu, 01 Oct 2026 12:04:11 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Why the Cowboys traded for CB Joey Porter Jr. from the Steelers and where his contract stands",
-      "url": "https://www.cbssports.com/nfl/news/why-the-cowboys-traded-for-cb-joey-porter-jr/",
-      "summary": "Dallas scooped up the Steelers' disgruntled top cornerback late Wednesday night before Week 4",
-      "published": "Thu, 01 Oct 2026 11:25:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Joey Porter Jr. trade grades: Steelers win trade after getting coveted high pick from Cowboys",
-      "url": "https://www.cbssports.com/nfl/news/joey-porter-jr-trade-grades-steelers-cowboys/",
-      "summary": "Dallas will now have to pay up for Porter's extension",
-      "published": "Thu, 01 Oct 2026 04:51:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Steelers trading Joey Porter Jr. to Cowboys for 2028 second-round pick and 2027 sixth-rounder",
-      "url": "https://www.cbssports.com/nfl/news/steelers-joey-porter-jr-traded-to-cowboys/",
-      "summary": "Porter is getting a fresh start after a tumultuous ending in Pittsburgh",
-      "published": "Thu, 01 Oct 2026 04:42:22 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Russell Wilson explains why Giants' controversial J.J. McCarthy trade could be a 'great' fit",
-      "url": "https://www.cbssports.com/nfl/news/jj-mccarthy-trade-giants-russell-wilson/",
-      "summary": "The former Giants quarterback says New York needs McCarthy just as much as the former first-round pick needs a reset",
-      "published": "Thu, 01 Oct 2026 00:13:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "NFL Week 4 injuries: Steelers' Joey Porter Jr. ruled out, Rams' Aaron Donald sits out of practice",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-injury-report-updates-joey-porter-baker-mayfield/",
-      "summary": "Track the latest practice updates and game designations for Week 4, beginning with the Steelers-Browns matchup",
-      "published": "Thu, 01 Oct 2026 03:34:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CLE",
-        "LA",
-        "PIT"
-      ]
-    },
-    {
-      "title": "John Harbaugh explains Odell Beckham Jr. release: 'It just wasn't working for us'",
-      "url": "https://www.cbssports.com/nfl/news/giants-released-odell-beckham-jr-john-harbaugh-explains/",
-      "summary": "Beckham played just 20 offensive snaps and failed to record a catch during his three-game return to New York",
-      "published": "Wed, 30 Sep 2026 21:06:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
     }
   ],
   "reporters": []
