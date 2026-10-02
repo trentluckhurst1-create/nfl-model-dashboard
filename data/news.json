@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-01T23:47:02.085410+00:00",
-  "checked_at_utc": "2026-10-01T23:47:02.085410+00:00",
+  "updated_at_utc": "2026-10-02T02:36:57.381318+00:00",
+  "checked_at_utc": "2026-10-02T02:36:57.381318+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 13,
+      "items": 14,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -20,6 +20,17 @@
     }
   },
   "items": [
+    {
+      "title": "Last Man Standing: Which 3-0 Team Will Be The NFL's Last Undefeated?",
+      "url": "https://www.foxsports.com/stories/nfl/chiefs-bills-49ers-raiders-vikings-nfl-last-undefeated-team",
+      "summary": "The league has only five perfect records left, and we predict when each of them will take their first loss in 2026.",
+      "published": "Thu, 01 Oct 2026 20:45:05 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "Real Or Fake: Are 3-0 Starts For Bills, Chiefs, 49ers, Vikes & Raiders Legit Or Mirage?",
       "url": "https://www.foxsports.com/stories/nfl/real-fake-3-0-starts-bills-chiefs-49ers-vikes-raiders-legit-mirage",
@@ -209,23 +220,24 @@
       ]
     },
     {
-      "title": "Gervon Dexter, Falcons Reportedly Agree On 4-Year, $78 Million Extension",
-      "url": "https://www.foxsports.com/stories/nfl/gervon-dexter-falcons-reportedly-agree-4-year-78-million-extension",
-      "summary": "Fresh off his trade to Atlanta, Gervon Dexter isn't going anywhere anytime soon after locking in a huge extension with the Falcons.",
-      "published": "Wed, 30 Sep 2026 18:50:29 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Falcons and Saints renew their longstanding rivalry as each seek early season momentum",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872979",
+      "summary": "\u2014 Long-time Saints defensive end Cameron Jordan can be counted on to echo the sentiments of many New Orleans fans whenever the rival Atlanta Falcons are next on the schedule.",
+      "published": "2026-10-02T02:30:28Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "game",
       "teams": [
-        "ATL"
+        "ATL",
+        "NO"
       ]
     },
     {
       "title": "Steelers-Browns on TNF Week 4: Highlights, key plays",
       "url": "https://www.espn.com/nfl/story/_/id/50078973/nfl-week-4-steelers-browns-top-plays-tnf",
-      "summary": "Check out the biggest touchdowns and highlight-reel plays from the Pittsburgh at Cleveland game.",
-      "published": "2026-10-01T23:45:18Z",
+      "summary": "Check out the biggest touchdowns and highlight-reel plays from Thursday night's AFC North showdown.",
+      "published": "2026-10-02T02:21:46Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -233,6 +245,48 @@
       "teams": [
         "CLE",
         "PIT"
+      ]
+    },
+    {
+      "title": "Browns DT Mason Graham leaves game with knee injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50081421/browns-dt-mason-graham-leaves-game-knee-injury",
+      "summary": "Cleveland Browns defensive tackle Mason Graham has been ruled out for the remainder of Thursday night's home game against the Pittsburgh Steelers because of a knee injury.",
+      "published": "2026-10-02T02:36:06Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CLE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Colts and Commanders try to build on Week 3 wins when they face each other in London",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872965",
+      "summary": "Last November, the Indianapolis Colts went to Europe and came home with an 8-2 record. They'd beaten Atlanta in Berlin and seemed on a glide...",
+      "published": "2026-10-02T00:06:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "WAS"
+      ]
+    },
+    {
+      "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
+      "url": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms",
+      "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
+      "published": "2026-10-01T23:54:43Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "NYG"
       ]
     },
     {
@@ -333,20 +387,6 @@
       ]
     },
     {
-      "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
-      "url": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
-      "published": "2026-10-01T21:21:40Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "NYG"
-      ]
-    },
-    {
       "title": "Jalen Hurts challenges underdog Eagles to find out who they are ahead of matchup with Rams",
       "url": "http://www.espn.com/nfl/preview?gameId=401872970",
       "summary": "\u2014 Jalen Hurts isn't used to losing much with the Philadelphia Eagles \u2014 only 16 times since 2022 \u2014 and he certainly isn't used to getting embarrassed.",
@@ -375,29 +415,31 @@
       ]
     },
     {
-      "title": "Saints put RB Travis Etienne (hamstring) on IR",
-      "url": "https://www.espn.com/nfl/story/_/id/50079185/saints-putting-rb-travis-etienne-hamstring-ir",
-      "summary": "The Saints put running back Travis Etienne on injured reserve, which will sideline him for at least the next four games.",
-      "published": "2026-10-01T22:28:23Z",
-      "source": "ESPN NFL",
+      "title": "Browns' Mason Graham exits Steelers game with knee injury, will not return",
+      "url": "https://www.cbssports.com/nfl/news/mason-graham-injury-update-browns-steelers/",
+      "summary": "The standout defensive tackle was injured during Pittsburgh's opening possession and is questionable to return",
+      "published": "Fri, 02 Oct 2026 02:16:52 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "NO"
+        "CLE",
+        "PIT"
       ]
     },
     {
-      "title": "Chargers' Mike McDaniel takes blame for team's offensive struggles",
-      "url": "https://www.espn.com/nfl/story/_/id/50078998/chargers-mike-mcdaniel-takes-blame-team-offensive-struggles",
-      "summary": "Chargers offensive coordinator Mike McDaniel blamed himself Thursday for the team's offensive struggles.",
-      "published": "2026-10-01T21:19:47Z",
-      "source": "ESPN NFL",
+      "title": "Steelers QB Aaron Rodgers held an NFL record for 16 minutes before immediately losing it vs. Browns",
+      "url": "https://www.cbssports.com/nfl/news/steelers-aaron-rodgers-could-pass-brady-mahomes-for-nfl-record/",
+      "summary": "The Steelers QB made NFL history on Thursday, but only very briefly",
+      "published": "Fri, 02 Oct 2026 01:25:32 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "qb",
       "teams": [
-        "LAC"
+        "CLE",
+        "PIT"
       ]
     },
     {
@@ -496,19 +538,6 @@
       ]
     },
     {
-      "title": "Steelers' Aaron Rodgers could pass Tom Brady and Patrick Mahomes to set a unique NFL record Thursday night",
-      "url": "https://www.cbssports.com/nfl/news/steelers-aaron-rodgers-could-pass-brady-mahomes-for-nfl-record/",
-      "summary": "The Steelers QB is on the cusp of making history",
-      "published": "Thu, 01 Oct 2026 21:52:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
       "title": "Regrading the Travis Hunter trade: Did Browns easily win this deal with Mason Graham?",
       "url": "https://www.cbssports.com/nfl/news/regrading-travis-hunter-trade-browns-easily-win-deal-mason-graham/",
       "summary": "Cleveland capitalized on extra draft capital to build a deep core led by Mason Graham, while Jacksonville has seen limited returns from its two-way superstar",
@@ -569,22 +598,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "Week 4 NFL odds, betting lines, spreads, totals, for every game, including Browns-Steelers, Texans-Cowboys",
-      "url": "https://www.cbssports.com/betting/news/week-4-nfl-odds-betting-lines-spreads-totals/",
-      "summary": "The Week 4 NFL schedule features 16 games, starting with Steelers vs. Browns on Thursday Night Football",
-      "published": "Thu, 01 Oct 2026 14:48:26 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CLE",
-        "DAL",
-        "HOU",
-        "PIT"
-      ]
     },
     {
       "title": "Steelers trying to end this nightmare 46-year Thursday night losing streak in Week 4 against Browns",
