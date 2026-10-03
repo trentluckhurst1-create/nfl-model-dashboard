@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-03T13:37:13.222649+00:00",
-  "checked_at_utc": "2026-10-03T13:37:13.222649+00:00",
+  "updated_at_utc": "2026-10-03T17:37:05.152865+00:00",
+  "checked_at_utc": "2026-10-03T17:37:05.152865+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 7,
+      "items": 8,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 33
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,17 @@
     }
   },
   "items": [
+    {
+      "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
+      "summary": "Check out the odds for every NFL Week 4 contest.",
+      "published": "Sat, 03 Oct 2026 09:39:46 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "Seahawks RB Jadarian Price 'Re-Aggravated' Injury, Ruled Out Week 4",
       "url": "https://www.foxsports.com/stories/nfl/seahawks-rb-jadarian-price-re-aggravated-injury-ruled-out-week-4",
@@ -87,17 +98,6 @@
         "CAR",
         "DET"
       ]
-    },
-    {
-      "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
-      "summary": "Check out the odds for every NFL Week 4 contest.",
-      "published": "Fri, 02 Oct 2026 13:46:14 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "2026 NFL, College Football Odds: Best Bets For OSU-Iowa, Chargers-Seahawks",
@@ -256,6 +256,34 @@
       "teams": []
     },
     {
+      "title": "Source: Bears expected to start QB Tyson Bagent vs. Jets",
+      "url": "https://www.espn.com/nfl/story/_/id/50090746/source-bears-expected-start-qb-tyson-bagent-vs-jets",
+      "summary": "The Bears are expected to start Tyson Bagent at quarterback against the Jets, according to NFL Network's Ian Rapoport.",
+      "published": "2026-10-03T16:51:12Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Colts WR Keenan Allen (groin) out vs. Commanders in London",
+      "url": "https://www.espn.com/nfl/story/_/id/50090624/colts-wr-keenan-allen-groin-vs-commanders-london",
+      "summary": "Colts wide receiver Keenan Allen has a groin injury that will force him to sit out Sunday's game in London against the Commanders.",
+      "published": "2026-10-03T16:55:57Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "IND",
+        "WAS"
+      ]
+    },
+    {
       "title": "All-time rosters for 23 teams with multiple Super Bowls",
       "url": "https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame",
       "summary": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
@@ -322,36 +350,136 @@
       "title": "Why Bill Parcells considers Jacoby Brissett to be like a son",
       "url": "https://www.espn.com/nfl/story/_/id/50086531/bill-parcells-cardinals-jacoby-brissett-friendship",
       "summary": "Bill Parcells has been a mentor to Jacoby Brissett since high school, guiding him through football and life decisions.",
-      "published": "2026-10-03T10:32:22Z",
+      "published": "2026-10-03T14:35:29Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "The history of Harbaugh, Herbert and a spiraling 0-3 Chargers team",
-      "url": "https://www.espn.com/nfl/story/_/id/50073934/la-chargers-jim-harbaugh-justin-herbert-struggles",
-      "summary": "After a troubling start to the 2026 season, here's a realistic look at the current Chargers' state of affairs.\ufeff",
-      "published": "2026-10-03T10:00:21Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC"
-      ]
     },
     {
       "title": "NFL Week 4 injury report: Justin Jefferson out, Nico Collins in; Terry McLaurin suffers late-week injury",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-4-injury-report-justin-jefferson-aaron-donald-terry-mclaurin/",
       "summary": "Here's a look at each game designation for Week 4 in the NFL",
-      "published": "Fri, 02 Oct 2026 21:36:12 +0000",
+      "published": "Sat, 03 Oct 2026 16:30:37 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": []
+    },
+    {
+      "title": "Bears make starting QB decision for Week 4 matchup vs. Jets",
+      "url": "https://www.cbssports.com/nfl/news/bears-make-starting-qb-decision-week-4-matchup-jets/",
+      "summary": "Ben Johnson turns back to his primary backup over veteran Case Keenum, who threw two touchdowns in a shocking upset over the Eagles on Monday night",
+      "published": "Sat, 03 Oct 2026 16:17:57 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI",
+        "NYJ",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Commanders vs. Colts: Jonathan Taylor, Marcus Mariota lead teams into London",
+      "url": "https://www.cbssports.com/nfl/news/commanders-vs-colts-where-to-watch-pick-odds-prediction/",
+      "summary": "Both teams head to London after earning their first wins, but two of the NFL's worst defenses could allow this matchup to turn into a high-scoring battle",
+      "published": "Sat, 03 Oct 2026 16:00:25 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Bengals vs. Jaguars prediction: Joe Burrow, Trevor Lawrence duel in battle of AFC contenders",
+      "url": "https://www.cbssports.com/nfl/news/bengals-vs-jaguars-where-to-watch-pick-odds-prediction/",
+      "summary": "Everything you need to know to tune into the AFC showdown",
+      "published": "Sat, 03 Oct 2026 15:55:52 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "JAX"
+      ]
+    },
+    {
+      "title": "49ers vs. Broncos prediction: MVP favorite Brock Purdy and San Francisco look to stay undef",
+      "url": "https://www.cbssports.com/nfl/news/49ers-vs-broncos-where-to-watch-pick-odds-prediction/",
+      "summary": "What you need to know ahead of these teams facing off on Sunday",
+      "published": "Sat, 03 Oct 2026 15:48:15 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "SF"
+      ]
+    },
+    {
+      "title": "Bills vs. Patriots preview: Buffalo looks to stay perfect, New England looks to get right",
+      "url": "https://www.cbssports.com/nfl/news/bills-vs-patriots-prediction-odds-where-to-watch/",
+      "summary": "Everything you need to know to tune into the AFC East showdown",
+      "published": "Sat, 03 Oct 2026 15:16:10 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "NE"
+      ]
+    },
+    {
+      "title": "Week 4 NFL odds, betting lines, spreads, totals, for every game, including Texans-Cowboys, Raiders-Chiefs",
+      "url": "https://www.cbssports.com/betting/news/week-4-nfl-betting-lines-odds-totals-spreads/",
+      "summary": "The Week 4 NFL schedule is here, featuring pivotal matchups like Cowboys vs. Texans, Raiders vs. Chiefs and Lions vs. Panthers",
+      "published": "Sat, 03 Oct 2026 15:13:45 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "DAL",
+        "DET",
+        "HOU",
+        "KC",
+        "LV"
+      ]
+    },
+    {
+      "title": "Will Brinson's NFL Week 4 best bets: Odds, player props, anytime touchdown scorers from expert on Sunday games",
+      "url": "https://www.cbssports.com/betting/news/will-brinsons-nfl-week-4-best-bets-odds-player-props-anytime-touchdown-scorers-from-expert-on-sunday-games/",
+      "summary": "Back live underdogs, ride Derrick Henry in a revenge spot, and target value on Brock Bowers and Puka Nacua to find the end zone",
+      "published": "Sat, 03 Oct 2026 15:05:48 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Inside Drake Maye's alarming 2026 slump one year after Patriots QB was MVP runner-up",
+      "url": "https://www.cbssports.com/nfl/news/inside-drake-mayes-alarming-slump-after-patriots-stars-mvp-runner-up-year/",
+      "summary": "New England's franchise quarterback has six interceptions and an NFL-worst 58.6 passer rating as opposing evaluators question his confidence and pocket poise",
+      "published": "Sat, 03 Oct 2026 13:30:14 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "NE"
+      ]
     },
     {
       "title": "Rams' Aaron Donald to miss Week 4 game vs. Eagles, Puka Nacua's status updated",
@@ -419,17 +547,6 @@
       "teams": [
         "CLE"
       ]
-    },
-    {
-      "title": "Week 4 NFL score predictions, picks, odds, betting advice: Computer model reveals projections for every game",
-      "url": "https://www.cbssports.com/betting/news/week-4-nfl-score-predictions-picks-odds-betting-advice-computer-model-reveals-projections-for-every-game/",
-      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
-      "published": "Fri, 02 Oct 2026 16:50:34 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "CBS Sports and Tony Romo mutually part ways; JJ Watt will remain on lead NFL broadcast team",
@@ -511,17 +628,6 @@
       "teams": []
     },
     {
-      "title": "Week 4 NFL betting promos: Pocket almost $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-4-nfl-betting-promos-pocket-almost-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Fri, 02 Oct 2026 15:40:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Cowboys' Dak Prescott, CeeDee Lamb have been nearly perfect this season. Why it's still not enough",
       "url": "https://www.cbssports.com/nfl/news/cowboys-dak-prescott-ceedee-lamb-nearly-perfect-defense-not-enough/",
       "summary": "Both Prescott and Lamb profile as top-five players at their positions while leading a top 10 scoring offense, but Dallas is 1-2",
@@ -549,24 +655,6 @@
       ]
     },
     {
-      "title": "Week 4 NFL odds, betting lines, spreads, totals, for every game, including Texans-Cowboys, Chiefs-Raiders",
-      "url": "https://www.cbssports.com/betting/news/week-4-nfl-odds-betting-lines-totals-spreads/",
-      "summary": "The Week 4 NFL schedule is here, featuring pivotal matchups like Cowboys vs. Texans, Raiders vs. Chiefs and Lions vs. Panthers",
-      "published": "Fri, 02 Oct 2026 14:04:26 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "DAL",
-        "DET",
-        "HOU",
-        "KC",
-        "LV"
-      ]
-    },
-    {
       "title": "'I'm personally not judging him yet': NFL sources see progress in Titans QB Cam Ward",
       "url": "https://www.cbssports.com/nfl/news/cam-ward-titans-development-nfl-insiders-early-struggles/",
       "summary": "Ward's mechanics remain a concern, but NFL sources see improvement from 2025's No. 1 draft pick and reasons for patience",
@@ -578,17 +666,6 @@
       "teams": [
         "TEN"
       ]
-    },
-    {
-      "title": "Will Brinson's NFL Week 4 best bets: Odds, player props, anytime touchdown scorers from expert on Sunday games",
-      "url": "https://www.cbssports.com/betting/news/will-brinsons-nfl-week-4-best-bets-odds-player-props-anytime-touchdown-scorers-from-expert-on-sunday-games/",
-      "summary": "Back live underdogs, ride Derrick Henry in a revenge spot, and target value on Brock Bowers and Puka Nacua to find the end zone",
-      "published": "Fri, 02 Oct 2026 13:49:39 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "NFL trade rumors: Browns would 'welcome deal at right price' for Shedeur Sanders, Dillon Gabriel, per report",
@@ -732,47 +809,6 @@
       "teams": [
         "CLE",
         "PIT"
-      ]
-    },
-    {
-      "title": "Joey Porter Jr. embraces fresh start with Cowboys after feeling 'disrespected' by Steelers",
-      "url": "https://www.cbssports.com/nfl/news/joey-porter-jr-embraces-fresh-start-cowboys-steelers/",
-      "summary": "Porter Jr. couldn't help but grin from ear to ear when talking about now being a Dallas Cowboy",
-      "published": "Thu, 01 Oct 2026 23:22:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Browns vs. Steelers preview: Winner takes the lead in AFC North in 'Thursday Night Football' matchup",
-      "url": "https://www.cbssports.com/nfl/news/browns-vs-steelers-how-to-watch-storylines-prediction/",
-      "summary": "How to watch the 'Thursday Night Football' matchup, plus a prediction and what to know",
-      "published": "Thu, 01 Oct 2026 23:14:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Jerry Jeudy has disappeared from Browns offense: Five teams that could trade for WR",
-      "url": "https://www.cbssports.com/nfl/news/browns-trade-jerry-jeudy-2026-destinations/",
-      "summary": "Jeudy looks like the odd man out in a wide receiver group that features KC Concepcion and Denzel Boston",
-      "published": "Thu, 01 Oct 2026 23:13:13 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "CLE"
       ]
     }
   ],
