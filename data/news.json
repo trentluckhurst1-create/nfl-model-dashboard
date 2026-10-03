@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-03T08:25:51.256131+00:00",
-  "checked_at_utc": "2026-10-03T08:25:51.256131+00:00",
+  "updated_at_utc": "2026-10-03T13:37:13.222649+00:00",
+  "checked_at_utc": "2026-10-03T13:37:13.222649+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 7,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -256,31 +256,90 @@
       "teams": []
     },
     {
-      "title": "Colts vs. Commanders, NFL London preview: ESPN experts on key players, matchups and predictions",
-      "url": "https://www.espn.com/nfl/story/_/id/50067731/indianapolis-colts-washington-commanders-nfl-london-preview-key-players-matchups-predictions",
-      "summary": "The NFL rolls into London this begin with a clash between the Indianapolis Colts and the Washington Commanders -- so we asked ESPN reporters Stephen Holder and John Keim for a preview.",
-      "published": "2026-10-03T06:32:21Z",
+      "title": "All-time rosters for 23 teams with multiple Super Bowls",
+      "url": "https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame",
+      "summary": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
+      "published": "2026-10-03T10:00:17Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Seahawks WR Jaxon Smith-Njigba off to a historic start, but is it sustainable?",
+      "url": "https://www.espn.com/nfl/story/_/id/50086094/seahawks-jaxon-smith-njigba-historic-start",
+      "summary": "Seattle's star receiver is leading the NFL in receiving yards and TDs after signing a big contract extension this summer. But will the Seahawks look to spread the ball more?",
+      "published": "2026-10-03T10:00:05Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
       "teams": [
-        "IND",
-        "WAS"
+        "SEA"
       ]
     },
     {
-      "title": "Indianapolis Colts vs. Washington Commanders: NFL London kick-off time, how to watch in UK, team news",
-      "url": "https://www.espn.com/nfl/story/_/id/50052193/indianapolis-colts-vs-washington-commanders-nfl-london-kick-how-watch-uk-team-news",
-      "summary": "The first NFL London game place takes place this weekend, with the Indianapolis Colts and Washington Commanders looking to build on a surprise wins in Week 3 with a victory at Tottenham Hotspur Stadium.",
-      "published": "2026-10-03T06:31:43Z",
+      "title": "Evaluating the 3-0 Raiders' strong offensive start",
+      "url": "https://www.espn.com/nfl/story/_/id/50080507/las-vegas-raiders-offense-kirk-cousins-klint-kubiak",
+      "summary": "Yes, it has been a small sample size. But the head coach has made the Raiders' offense almost unrecognizable.",
+      "published": "2026-10-03T10:00:02Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "IND",
-        "WAS"
+        "LV"
+      ]
+    },
+    {
+      "title": "Philadelphia Eagles' defense at an inflection point",
+      "url": "https://www.espn.com/nfl/story/_/id/50077998/philadelphia-eagles-defense-inflection-point",
+      "summary": "With the next four games against formidable offenses, this stretch will help define whether Philly's defense is for real -- or just real good on paper.",
+      "published": "2026-10-03T10:00:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Jameis Winston has time to prove he's the New York Giants' starter",
+      "url": "https://www.espn.com/nfl/story/_/id/50077929/jameis-winston-prove-giants-qb-starter-jj-mccarthy",
+      "summary": "The Giants might have more patience with Winston than expected as the locker room believes in him implicitly.",
+      "published": "2026-10-03T10:00:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Why Bill Parcells considers Jacoby Brissett to be like a son",
+      "url": "https://www.espn.com/nfl/story/_/id/50086531/bill-parcells-cardinals-jacoby-brissett-friendship",
+      "summary": "Bill Parcells has been a mentor to Jacoby Brissett since high school, guiding him through football and life decisions.",
+      "published": "2026-10-03T10:32:22Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "The history of Harbaugh, Herbert and a spiraling 0-3 Chargers team",
+      "url": "https://www.espn.com/nfl/story/_/id/50073934/la-chargers-jim-harbaugh-justin-herbert-struggles",
+      "summary": "After a troubling start to the 2026 season, here's a realistic look at the current Chargers' state of affairs.\ufeff",
+      "published": "2026-10-03T10:00:21Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LAC"
       ]
     },
     {
