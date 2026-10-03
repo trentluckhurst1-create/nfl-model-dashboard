@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-03T17:37:05.152865+00:00",
-  "checked_at_utc": "2026-10-03T17:37:05.152865+00:00",
+  "updated_at_utc": "2026-10-03T20:12:01.958255+00:00",
+  "checked_at_utc": "2026-10-03T20:12:01.958255+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 8,
+      "items": 4,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -256,6 +256,34 @@
       "teams": []
     },
     {
+      "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
+      "url": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms",
+      "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
+      "published": "2026-10-03T19:46:43Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Saints rule out LB Kaden Elliss, pass rusher Carl Granderson",
+      "url": "https://www.espn.com/nfl/story/_/id/50092081/saints-rule-lb-kaden-elliss-pass-rusher-carl-granderson",
+      "summary": "Saints linebacker Kaden Elliss (calf) and edge rushers Carl Granderson (ankle) and Anfernee Jennings (knee) have been ruled out against the Falcons on \"Monday Night Football.\"",
+      "published": "2026-10-03T19:16:45Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "NO"
+      ]
+    },
+    {
       "title": "Source: Bears expected to start QB Tyson Bagent vs. Jets",
       "url": "https://www.espn.com/nfl/story/_/id/50090746/source-bears-expected-start-qb-tyson-bagent-vs-jets",
       "summary": "The Bears are expected to start Tyson Bagent at quarterback against the Jets, according to NFL Network's Ian Rapoport.",
@@ -284,78 +312,28 @@
       ]
     },
     {
-      "title": "All-time rosters for 23 teams with multiple Super Bowls",
-      "url": "https://www.espn.com/nfl/story/_/id/50051837/nfl-super-bowl-all-teams-hall-fame",
-      "summary": "This was no small task, but 13 players ended up making more than one all-time SB roster.",
-      "published": "2026-10-03T10:00:17Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Seahawks WR Jaxon Smith-Njigba off to a historic start, but is it sustainable?",
-      "url": "https://www.espn.com/nfl/story/_/id/50086094/seahawks-jaxon-smith-njigba-historic-start",
-      "summary": "Seattle's star receiver is leading the NFL in receiving yards and TDs after signing a big contract extension this summer. But will the Seahawks look to spread the ball more?",
-      "published": "2026-10-03T10:00:05Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "SEA"
-      ]
-    },
-    {
-      "title": "Evaluating the 3-0 Raiders' strong offensive start",
-      "url": "https://www.espn.com/nfl/story/_/id/50080507/las-vegas-raiders-offense-kirk-cousins-klint-kubiak",
-      "summary": "Yes, it has been a small sample size. But the head coach has made the Raiders' offense almost unrecognizable.",
-      "published": "2026-10-03T10:00:02Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LV"
-      ]
-    },
-    {
-      "title": "Philadelphia Eagles' defense at an inflection point",
-      "url": "https://www.espn.com/nfl/story/_/id/50077998/philadelphia-eagles-defense-inflection-point",
-      "summary": "With the next four games against formidable offenses, this stretch will help define whether Philly's defense is for real -- or just real good on paper.",
-      "published": "2026-10-03T10:00:01Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "Jameis Winston has time to prove he's the New York Giants' starter",
-      "url": "https://www.espn.com/nfl/story/_/id/50077929/jameis-winston-prove-giants-qb-starter-jj-mccarthy",
-      "summary": "The Giants might have more patience with Winston than expected as the locker room believes in him implicitly.",
-      "published": "2026-10-03T10:00:11Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Why Bill Parcells considers Jacoby Brissett to be like a son",
-      "url": "https://www.espn.com/nfl/story/_/id/50086531/bill-parcells-cardinals-jacoby-brissett-friendship",
-      "summary": "Bill Parcells has been a mentor to Jacoby Brissett since high school, guiding him through football and life decisions.",
-      "published": "2026-10-03T14:35:29Z",
-      "source": "ESPN NFL",
+      "title": "Week 4 NFL betting promos: Pocket nearly $3,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/week-4-nfl-betting-promos-pocket-nearly-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Sat, 03 Oct 2026 15:29:52 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
+    },
+    {
+      "title": "Who is Jalon Daniels? Buccaneers rookie quarterback went from undrafted to starting",
+      "url": "https://www.cbssports.com/nfl/news/who-is-jalon-daniels-buccaneers-rookie-quarterback/",
+      "summary": "The undrafted Kansas product makes franchise history as he steps in for an injured Baker Mayfield with Tampa Bay searching for its first win",
+      "published": "Sat, 03 Oct 2026 17:38:35 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "TB"
+      ]
     },
     {
       "title": "NFL Week 4 injury report: Justin Jefferson out, Nico Collins in; Terry McLaurin suffers late-week injury",
@@ -767,48 +745,6 @@
         "CIN",
         "DAL",
         "JAX"
-      ]
-    },
-    {
-      "title": "Here's why the Steelers' 22-year run without a losing season is now their biggest problem",
-      "url": "https://www.cbssports.com/nfl/news/steelers-losing-season-2026-mike-tomlin-mike-mccarthy/",
-      "summary": "Pittsburgh mastered staying respectable, the problem is respectable hasn't gotten them anywhere",
-      "published": "Fri, 02 Oct 2026 04:06:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "LOOK: Aaron Rodgers' heated exchange with Mike McCarthy caught on camera during Steelers-Browns",
-      "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-mike-mccarthy-heated-exchange-steelers-browns/",
-      "summary": "The former Packers partners exchanged words during a difficult first half for Pittsburgh against its AFC North rival",
-      "published": "Fri, 02 Oct 2026 04:40:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "GB",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Steelers QB Aaron Rodgers held an NFL record for 16 minutes before immediately losing it vs. Browns",
-      "url": "https://www.cbssports.com/nfl/news/steelers-aaron-rodgers-could-pass-brady-mahomes-for-nfl-record/",
-      "summary": "The Steelers QB made NFL history on Thursday, but only very briefly",
-      "published": "Fri, 02 Oct 2026 01:25:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CLE",
-        "PIT"
       ]
     }
   ],
