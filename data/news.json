@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-03T20:12:01.958255+00:00",
-  "checked_at_utc": "2026-10-03T20:12:01.958255+00:00",
+  "updated_at_utc": "2026-10-03T23:06:28.925392+00:00",
+  "checked_at_utc": "2026-10-03T23:06:28.925392+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 4,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 33
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -256,6 +256,61 @@
       "teams": []
     },
     {
+      "title": "Patriots preach patience when it comes to receiver WR Romeo Doubs' modest start",
+      "url": "https://www.espn.com/nfl/story/_/id/50087681/patriots-romeo-doubs-bills-game",
+      "summary": "After the Patriots signed him to a four-year deal in March, Doubs is searching for his footing in the offense entering Week 4.",
+      "published": "2026-10-03T22:00:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "Panthers place WR Xavier Legette on IR with knee injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50093238/panthers-place-wr-xavier-legette-ir-knee-injury",
+      "summary": "The Carolina Panthers have placed 2024 first-round pick Xavier Legette on injured reserve ahead of Sunday's prime-time matchup against the Detroit Lions.",
+      "published": "2026-10-03T21:33:12Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CAR",
+        "DET"
+      ]
+    },
+    {
+      "title": "Seahawks place RB Jadarian Price (chest) on IR",
+      "url": "https://www.espn.com/nfl/story/_/id/50093007/seahawks-place-rb-jadarian-price-chest-ir",
+      "summary": "The Seattle Seahawks are placing starting running back Jadarian Price on injured reserve, the team announced Saturday.",
+      "published": "2026-10-03T21:00:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SEA"
+      ]
+    },
+    {
+      "title": "Bears LT Braxton Jones on IR; Theo Benedet to start vs. Jets",
+      "url": "https://www.espn.com/nfl/story/_/id/50092744/bears-lt-braxton-jones-ir-theo-benedet-start-vs-jets",
+      "summary": "Bears left tackle Braxton Jones has been placed on injured reserve after sustaining an injury to his right knee against the Eagles in Week 3.",
+      "published": "2026-10-03T20:37:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "NYJ",
+        "PHI"
+      ]
+    },
+    {
       "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
       "url": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms",
       "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
@@ -270,45 +325,32 @@
       ]
     },
     {
-      "title": "Saints rule out LB Kaden Elliss, pass rusher Carl Granderson",
-      "url": "https://www.espn.com/nfl/story/_/id/50092081/saints-rule-lb-kaden-elliss-pass-rusher-carl-granderson",
-      "summary": "Saints linebacker Kaden Elliss (calf) and edge rushers Carl Granderson (ankle) and Anfernee Jennings (knee) have been ruled out against the Falcons on \"Monday Night Football.\"",
-      "published": "2026-10-03T19:16:45Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 4 picks: Our experts face off on Cowboys vs. Texans, Rams at Eagles and more",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-our-experts-predictions/",
+      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
+      "published": "Sat, 03 Oct 2026 20:56:09 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "HOU",
+        "LA",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Seahawks place rookie Jadarian Price on injured reserve",
+      "url": "https://www.cbssports.com/nfl/news/seahawks-place-rookie-jadarian-price-injured-reserve/",
+      "summary": "The rookie aggravated a chest injury and will miss at least four games, leaving Emanuel Wilson and George Holani to shoulder backfield duties during a grueling stretch",
+      "published": "Sat, 03 Oct 2026 20:55:14 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "ATL",
-        "NO"
-      ]
-    },
-    {
-      "title": "Source: Bears expected to start QB Tyson Bagent vs. Jets",
-      "url": "https://www.espn.com/nfl/story/_/id/50090746/source-bears-expected-start-qb-tyson-bagent-vs-jets",
-      "summary": "The Bears are expected to start Tyson Bagent at quarterback against the Jets, according to NFL Network's Ian Rapoport.",
-      "published": "2026-10-03T16:51:12Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CHI",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Colts WR Keenan Allen (groin) out vs. Commanders in London",
-      "url": "https://www.espn.com/nfl/story/_/id/50090624/colts-wr-keenan-allen-groin-vs-commanders-london",
-      "summary": "Colts wide receiver Keenan Allen has a groin injury that will force him to sit out Sunday's game in London against the Commanders.",
-      "published": "2026-10-03T16:55:57Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "IND",
-        "WAS"
+        "SEA"
       ]
     },
     {
@@ -562,22 +604,6 @@
       "category": "game",
       "teams": [
         "CLE"
-      ]
-    },
-    {
-      "title": "NFL Week 4 picks: Our experts face off on Cowboys vs. Texans, Rams at Eagles and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-our-experts-predictions/",
-      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
-      "published": "Fri, 02 Oct 2026 16:12:27 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "HOU",
-        "LA",
-        "PHI"
       ]
     },
     {
