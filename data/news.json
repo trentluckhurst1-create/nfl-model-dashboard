@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-02T23:47:15.729711+00:00",
-  "checked_at_utc": "2026-10-02T23:47:15.729711+00:00",
+  "updated_at_utc": "2026-10-03T02:23:34.429791+00:00",
+  "checked_at_utc": "2026-10-03T02:23:34.429791+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 10,
+      "items": 8,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 30
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -258,8 +258,8 @@
     {
       "title": "49ers WR Mike Evans a game-time decision with rib injury",
       "url": "https://www.espn.com/nfl/story/_/id/50086883/49ers-wr-mike-evans-game-decision-rib-injury",
-      "summary": "Niners wide receiver Mike Evans is questionable for Sunday, but said he's going to give \"my best\" to play against the Broncos as he deals with a rib injury.",
-      "published": "2026-10-02T22:29:42Z",
+      "summary": "Niners wide receiver Mike Evans is questionable for Sunday, but he said he will give \"my best\" to play against the Broncos as he deals with a rib injury.",
+      "published": "2026-10-03T00:52:17Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -358,7 +358,7 @@
       "title": "Aaron Donald out, Puka Nacua to play in Rams' game vs. Eagles",
       "url": "https://www.espn.com/nfl/story/_/id/50085994/aaron-donald-puka-nacua-play-rams-game-vs-eagles",
       "summary": "Rams defensive tackle Aaron Donald will not play against the Eagles as he deals with back soreness, while wide receiver Puka Nacua will return from a hip injury after missing the past two games.",
-      "published": "2026-10-02T21:02:31Z",
+      "published": "2026-10-03T00:08:18Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -366,33 +366,6 @@
       "teams": [
         "LA",
         "PHI"
-      ]
-    },
-    {
-      "title": "McCarthy: Trade to Giants a 'shock,' turns page on Vikings",
-      "url": "https://www.espn.com/nfl/story/_/id/50085908/mccarthy-trade-giants-shock-turns-page-vikings",
-      "summary": "Quarterback J.J. McCarthy said it was a \"shock\" to be traded from the Vikings to the Giants this week but is looking at it as an opportunity to show what he can do.",
-      "published": "2026-10-02T19:43:22Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "MIN",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Have the Rams improved special teams enough to make a difference?",
-      "url": "https://www.espn.com/nfl/story/_/id/50077952/los-angeles-rams-improved-special-teams-enough",
-      "summary": "The Rams will get a chance to see how effective such changes have been when they travel to Philly this weekend.",
-      "published": "2026-10-02T18:44:09Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA"
       ]
     },
     {
@@ -799,6 +772,33 @@
       "teams": [
         "DAL",
         "PIT"
+      ]
+    },
+    {
+      "title": "Browns vs. Steelers preview: Winner takes the lead in AFC North in 'Thursday Night Football' matchup",
+      "url": "https://www.cbssports.com/nfl/news/browns-vs-steelers-how-to-watch-storylines-prediction/",
+      "summary": "How to watch the 'Thursday Night Football' matchup, plus a prediction and what to know",
+      "published": "Thu, 01 Oct 2026 23:14:31 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Jerry Jeudy has disappeared from Browns offense: Five teams that could trade for WR",
+      "url": "https://www.cbssports.com/nfl/news/browns-trade-jerry-jeudy-2026-destinations/",
+      "summary": "Jeudy looks like the odd man out in a wide receiver group that features KC Concepcion and Denzel Boston",
+      "published": "Thu, 01 Oct 2026 23:13:13 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CLE"
       ]
     }
   ],
