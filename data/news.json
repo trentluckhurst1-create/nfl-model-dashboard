@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-04T14:25:38.077287+00:00",
-  "checked_at_utc": "2026-10-04T14:26:03.314405+00:00",
+  "updated_at_utc": "2026-10-04T18:17:43.948176+00:00",
+  "checked_at_utc": "2026-10-04T18:17:43.948176+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
@@ -11,21 +11,407 @@
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 27
+      "items": 24
     },
     "FOX Sports NFL": {
-      "ok": false,
-      "items": 0,
-      "error": "ReadTimeout",
+      "ok": true,
+      "items": 22,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
+      "title": "Why Cowboys Shouldn't Regret Micah Parsons Trade After Dealing For Joey Porter Jr.",
+      "url": "https://www.foxsports.com/stories/nfl/why-cowboys-shouldnt-regret-micah-parsons-trade-after-dealing-joey-porter-jr",
+      "summary": "Terry Bradshaw won't back down from his take that the Dallas Cowboys won the Micah Parsons trade.",
+      "published": "Sun, 04 Oct 2026 13:40:51 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Terry Bradshaw Suggests Simple Solution To End Drake Maye's Struggles: Bench Him",
+      "url": "https://www.foxsports.com/stories/nfl/terry-bradshaw-suggests-simple-solution-drake-mayes-scoring-drought",
+      "summary": "Could the solution to Drake Maye's scoring drought be to bench him, and still be the No. 1 guy? FOX Sports' Terry Bradshaw weighs in.",
+      "published": "Sun, 04 Oct 2026 13:40:47 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
+      "summary": "Check out the odds for every NFL Week 4 contest.",
+      "published": "Sun, 04 Oct 2026 10:50:16 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "How to Watch Lions vs. Panthers: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-lions-vs-panthers-tv-channel-live-stream-time-2026-week-4",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 4 Lions and Panthers game.",
+      "published": "Sun, 04 Oct 2026 09:02:16 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "DET"
+      ]
+    },
+    {
+      "title": "How to Watch Chargers vs. Seahawks: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-chargers-vs-seahawks-tv-channel-live-stream-time-2026-week-4",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 4 Los Angeles Chargers and Seattle Seahawks game.",
+      "published": "Sun, 04 Oct 2026 09:01:37 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LAC",
+        "SEA"
+      ]
+    },
+    {
+      "title": "How to Watch Chiefs vs. Raiders: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-chiefs-vs-raiders-tv-channel-live-stream-time-2026-week-4",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 4 Kansas City Chiefs and Las Vegas Raiders game.",
+      "published": "Sun, 04 Oct 2026 09:01:16 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "LV"
+      ]
+    },
+    {
+      "title": "How to Watch Jaguars vs. Bengals: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-jaguars-vs-bengals-tv-channel-live-stream-time-2026-week-4",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 4 Jacksonville Jaguars and Cincinnati Bengals game.",
+      "published": "Sun, 04 Oct 2026 09:00:52 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "JAX"
+      ]
+    },
+    {
+      "title": "How to Watch Patriots vs. Bills: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-patriots-vs-bills-tv-channel-live-stream-time-2026-week-4",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 4 New England Patriots and Buffalo Bills game.",
+      "published": "Sun, 04 Oct 2026 09:00:30 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "NE"
+      ]
+    },
+    {
+      "title": "How to Watch Cardinals vs. Giants: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cardinals-vs-giants-tv-channel-live-stream-time-2026-week-4",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 4 Cardinals and Giants game.",
+      "published": "Sun, 04 Oct 2026 09:00:11 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "NYG"
+      ]
+    },
+    {
+      "title": "How to Watch Colts vs. Commanders: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-colts-vs-commanders-tv-channel-live-stream-time-2026-week-4",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 4 Indianapolis Colts and Washington Commanders game.",
+      "published": "Sun, 04 Oct 2026 08:59:29 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "WAS"
+      ]
+    },
+    {
+      "title": "How to Watch Dolphins vs. Vikings: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-dolphins-vs-vikings-tv-channel-live-stream-time-2026-week-4",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 4 Dolphins and Vikings game.",
+      "published": "Sun, 04 Oct 2026 08:58:28 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA",
+        "MIN"
+      ]
+    },
+    {
+      "title": "How to Watch Packers vs. Buccaneers: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-packers-vs-buccaneers-tv-channel-live-stream-time-2026-week-4",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 4 Packers and Buccaneers game.",
+      "published": "Sun, 04 Oct 2026 08:57:52 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "TB"
+      ]
+    },
+    {
+      "title": "How to Watch Rams vs. Eagles: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-rams-vs-eagles-tv-channel-live-stream-time-2026-week-4",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 4 Rams and Eagles game.",
+      "published": "Sun, 04 Oct 2026 08:56:57 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "PHI"
+      ]
+    },
+    {
+      "title": "How to Watch Cowboys vs. Texans: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cowboys-vs-texans-tv-channel-live-stream-time-2026-week-4",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 4 Cowboys and Texans game.",
+      "published": "Sun, 04 Oct 2026 08:56:33 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "HOU"
+      ]
+    },
+    {
+      "title": "How to Watch Jets vs. Bears: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-jets-vs-bears-tv-channel-live-stream-time-2026-week-4",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 4 Jets and Bears game.",
+      "published": "Sun, 04 Oct 2026 08:55:42 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Vikings vs. Dolphins Prediction, Odds, Pick For NFL Week 4",
+      "url": "https://www.foxsports.com/stories/nfl/vikings-vs-dolphins-prediction-odds-pick-nfl-week-4",
+      "summary": "Get the latest odds, prediction and pick for the Week 4 Vikings vs. Dolphins game, as well as information on how to watch.",
+      "published": "Sun, 04 Oct 2026 04:05:14 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Eagles vs. Rams Prediction, Odds, Pick For NFL Week 4",
+      "url": "https://www.foxsports.com/stories/nfl/eagles-vs-rams-prediction-odds-pick-nfl-week-4",
+      "summary": "Get the latest odds, prediction and pick for the Week 4 Eagles vs. Rams game, as well as information on how to watch.",
+      "published": "Sun, 04 Oct 2026 01:00:56 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Texans vs. Cowboys Prediction, Odds, Pick For NFL Week 4",
+      "url": "https://www.foxsports.com/stories/nfl/texans-vs-cowboys-prediction-odds-pick-nfl-week-4",
+      "summary": "Get the latest odds, prediction and pick for the Week 4 Texans vs. Cowboys game, as well as information on how to watch.",
+      "published": "Sun, 04 Oct 2026 01:00:21 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "HOU"
+      ]
+    },
+    {
+      "title": "Buccaneers vs. Packers Prediction, Odds, Pick For NFL Week 4",
+      "url": "https://www.foxsports.com/stories/nfl/buccaneers-vs-packers-prediction-odds-pick-nfl-week-4",
+      "summary": "Get the latest odds, prediction and pick for the Week 4 Buccaneers vs. Packers game, as well as information on how to watch.",
+      "published": "Sun, 04 Oct 2026 01:00:15 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "TB"
+      ]
+    },
+    {
+      "title": "West Coast Read: Can Dream Team Rams Really Miss The Playoffs? Why The Case Is Building",
+      "url": "https://www.foxsports.com/stories/nfl/can-dream-team-rams-really-miss-playoffs-why-case-building",
+      "summary": "A 1-2 start typically isn't cause for concern, but the case is mounting for the Rams to miss the playoffs.",
+      "published": "Sat, 03 Oct 2026 22:43:41 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "Scouts Unsure How To Fix Drake Maye: 'He Looks Like A Rookie, And Not A Particularly Good One'",
+      "url": "https://www.foxsports.com/stories/nfl/patriots-drake-maye-giants-vikings-jj-mccarthy-trade",
+      "summary": "Many people around the league expressed concern for Drake Maye and J.J. McCarthy following the recent struggles for the former and the trade involving the latter.",
+      "published": "Sat, 03 Oct 2026 22:42:08 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Real Or Fake: Are 3-0 Starts For Bills, Chiefs, 49ers, Vikes & Raiders Legit Or Mirage?",
+      "url": "https://www.foxsports.com/stories/nfl/real-fake-3-0-starts-bills-chiefs-49ers-vikes-raiders-legit-mirage",
+      "summary": "If recent history carries into this year, at least one of the five 3-0 teams will miss the playoffs. Which team could it be? We determine which 3-0 starts are real or fake.",
+      "published": "Sat, 03 Oct 2026 22:41:33 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "KC",
+        "LV",
+        "SF"
+      ]
+    },
+    {
+      "title": "NFL Week 4: Big takeaways, questions and fantasy spin from Sunday's games",
+      "url": "https://www.espn.com/nfl/story/_/id/50077236/week-4-sunday-games-takeaways-questions-2026",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 4.",
+      "published": "2026-10-04T17:52:03Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 4's best arrivals, led by Bears RB Kyle Monangai",
+      "url": "https://www.espn.com/nfl/story/_/id/50079780/nfl-week-4-fashionable-arrivals",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-10-04T17:04:18Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Week 4 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50085799/week-4-highlights-best-plays-touchdowns-2026",
+      "summary": "Check out top the plays from Week 4, featuring the season's first game in London and a showdown of unbeatens in the late afternoon.",
+      "published": "2026-10-04T16:46:14Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Michael Penix Jr., wife announce they're expecting first child",
+      "url": "https://www.espn.com/nfl/story/_/id/50096452/michael-penix-jr-wife-expecting-first-child",
+      "summary": "The couple took to Instagram to announce the news, jointly posting a video to the social media site titled \"A Short Love Story.\"",
+      "published": "2026-10-04T16:40:37Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Eagles RT Lane Johnson surprise inactive due to personal reasons",
+      "url": "https://www.espn.com/nfl/story/_/id/50100232/eagles-rt-lane-johnson-surprise-inactive-due-personal-reasons",
+      "summary": "Eagles right tackle Lane Johnson is inactive against the Rams for personal reasons.",
+      "published": "2026-10-04T16:32:41Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Colts 30-13 Commanders: NFL London begins with key injuries, offensive struggles at Tottenham's home",
+      "url": "https://www.espn.com/nfl/story/_/id/50099908/indianapolis-colts-washington-commanders-match-report-result-athan-kaliakmanis-jonathan-taylor",
+      "summary": "The Indianapolis Colts took advantage of a depleted Washington Commanders team to kick off the NFL London games on Sunday.",
+      "published": "2026-10-04T17:03:17Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "IND",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Marcus Mariota out as Commanders turn to rookie Athan Kaliakmanis",
+      "url": "https://www.espn.com/nfl/story/_/id/50099890/marcus-mariota-injured-commanders-turn-rookie-qb-athan-kaliakmanis",
+      "summary": "Marcus Mariota left Sunday's game against the Colts with a knee injury, forcing the Commanders to turn to seventh-round rookie Athan Kaliakmanis at quarterback.",
+      "published": "2026-10-04T18:16:20Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "IND",
+        "WAS"
+      ]
+    },
+    {
       "title": "Source: Steelers' Derrick Harmon expected to miss multiple weeks",
       "url": "https://www.espn.com/nfl/story/_/id/50099497/source-steelers-derrick-harmon-expected-miss-multiple-weeks",
       "summary": "Steelers defensive tackle Derrick Harmon, who was carted off the field Thursday night with a foot injury, is expected to miss a few weeks, a source told NFL Network.",
-      "published": "2026-10-04T13:29:11Z",
+      "published": "2026-10-04T14:56:58Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -35,10 +421,10 @@
       ]
     },
     {
-      "title": "Ex-Viking Reed says cancer fostered 'different connection' with Moss",
+      "title": "Ex-Vikings WR Reed: Cancer fostered 'different connection' with Moss",
       "url": "https://www.espn.com/nfl/story/_/id/50099432/former-viking-reed-says-cancer-fostered-different-connection-moss",
       "summary": "Jake Reed's friendship with former Vikings teammate Randy Moss runs deeper than football. Because of their diagnoses, Reed and Moss are doing their parts to raise money for cancer research.",
-      "published": "2026-10-04T13:14:08Z",
+      "published": "2026-10-04T15:27:13Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -50,8 +436,8 @@
     {
       "title": "Sources: Baker Mayfield return hinges on when QB can grip football",
       "url": "https://www.espn.com/nfl/story/_/id/50090537/sources-baker-mayfield-return-hinges-qb-grip-football",
-      "summary": "Baker Mayfield is expected to miss anywhere from three to six weeks, sources told ESPN, depending on how quickly the Bucs QB can grip the football.",
-      "published": "2026-10-04T12:45:11Z",
+      "summary": "Baker Mayfield is expected to miss anywhere from three to six weeks, sources told ESPN, depending on how quickly the Buccaneers quarterback can grip the football.",
+      "published": "2026-10-04T14:32:34Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -64,7 +450,7 @@
       "title": "Commanders WR Terry McLaurin inactive after Friday injury",
       "url": "https://www.espn.com/nfl/story/_/id/50099334/commanders-wr-terry-mclaurin-inactive-friday-injury",
       "summary": "Commanders wide receiver Terry McLaurin will not play against the Colts because of a hamstring injury suffered in practice Friday.",
-      "published": "2026-10-04T13:10:04Z",
+      "published": "2026-10-04T14:39:19Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -75,105 +461,62 @@
       ]
     },
     {
-      "title": "Brian Schottenheimer owned up to Rio mistakes in Cowboys meeting",
-      "url": "https://www.espn.com/nfl/story/_/id/50095892/brian-schottenheimer-owned-rio-mistakes-cowboys-meeting",
-      "summary": "Cowboys coach Brian Schottenheimer took accountability in the locker room for last Sunday's late-game loss to the Ravens.",
-      "published": "2026-10-04T12:50:51Z",
-      "source": "ESPN NFL",
+      "title": "Saquon Barkley injury: Eagles running back questionable to return after exiting vs. Rams",
+      "url": "https://www.cbssports.com/nfl/news/saquon-barkley-hamstring-injury-eagles-week-4-rams/",
+      "summary": "Barkley was injured during the first quarter",
+      "published": "Sun, 04 Oct 2026 17:34:53 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "DAL"
-      ]
-    },
-    {
-      "title": "Sources: Rams don't intend to limit Puka Nacua's workload",
-      "url": "https://www.espn.com/nfl/story/_/id/50098838/sources-rams-intend-limit-puka-nacua-workload",
-      "summary": "The Rams do not intend to limit Puka Nacua's workload Sunday against the Eagles, sources told ESPN.",
-      "published": "2026-10-04T12:29:57Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
+      "category": "injury",
       "teams": [
         "LA",
         "PHI"
       ]
     },
     {
-      "title": "Sources: TE Sam LaPorta, Lions break off contract talks",
-      "url": "https://www.espn.com/nfl/story/_/id/50094193/sources-sam-laporta-lions-break-contract-talks",
-      "summary": "The Lions and star tight end Sam LaPorta have broken off contract talks, sources told NFL Network, after attempting to work out a long-term deal for the first few weeks of the season.",
-      "published": "2026-10-04T13:52:53Z",
-      "source": "ESPN NFL",
+      "title": "Travis Kelce closing in on NFL history, could climb to No. 5 on all-time receptions list vs. Raiders",
+      "url": "https://www.cbssports.com/nfl/news/travis-kelce-career-receptions-chiefs-nfl-2026/",
+      "summary": "Kelce is tied with Tim Brown for seventh in NFL history and needs nine catches to take sole possession of fifth place",
+      "published": "Sun, 04 Oct 2026 16:45:50 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "game",
       "teams": [
-        "DET"
+        "LV"
       ]
     },
     {
-      "title": "Sources: Steelers' contract philosophy led to Joey Porter Jr. trade",
-      "url": "https://www.espn.com/nfl/story/_/id/50095248/sources-steelers-contract-philosophy-led-joey-porter-jr-trade",
-      "summary": "The Steelers' philosophy of avoiding second-year contract guarantees was a factor in their inability to reach a deal with Joey Porter Jr., sources told NFL Network.",
-      "published": "2026-10-04T12:15:05Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "Week 4 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50085799/week-4-highlights-best-plays-touchdowns-2026",
-      "summary": "Check out top the plays from Week 4, featuring the season's first game in London and a showdown of unbeatens in the late afternoon.",
-      "published": "2026-10-04T14:11:20Z",
-      "source": "ESPN NFL",
+      "title": "Could the NFL scheduling formula undergo a massive change? Jerry Jones hints at one possible future tweak",
+      "url": "https://www.cbssports.com/nfl/news/jerry-jones-hints-at-possible-change-nfl-scheduling-formula/",
+      "summary": "The NFL last tweaked its scheduling formula in 2021, but it's remained largely untouched for 24 years",
+      "published": "Sun, 04 Oct 2026 16:47:43 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Jets rookie Kenyon Sadiq has been a necessity instead of a 'luxury' draft pick",
-      "url": "https://www.espn.com/nfl/story/_/id/50086456/jets-rookie-kenyon-sadiq-necessity-not-luxury",
-      "summary": "New York used its second (No. 16) of three first-round picks on the tight end out of Oregon.",
-      "published": "2026-10-04T10:00:11Z",
-      "source": "ESPN NFL",
+      "title": "Jaguars vs. Bengals odds, picks, prediction, spread, line: NFL Week 4 start time, betting preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/jaguars-vs-bengals-odds-picks-prediction-spread-line-nfl-week-4-start-time-betting-preview-best-bets/",
+      "summary": "Here's everything bettors need to know for Jaguars vs. Bengals in NFL Week 4 action",
+      "published": "Sun, 04 Oct 2026 16:01:02 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "NYJ"
+        "CIN",
+        "JAX"
       ]
     },
     {
-      "title": "What are the top 10 upsets in Super Bowl history?",
-      "url": "https://www.espn.com/nfl/story/_/id/50080901/super-bowl-top-10-upsets-patriots-jets-giants",
-      "summary": "What are the biggest upsets in Super Bowl history? The Patriots, Jets, Giants, Eagles, Seahawks and others make their cases.",
-      "published": "2026-10-04T10:00:15Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE",
-        "NYG",
-        "NYJ",
-        "PHI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Jets vs. Bears odds, picks, prediction, spread, line: NFL Week 4 start time, preview, best bets",
-      "url": "https://www.cbssports.com/betting/news/jets-vs-bears-odds-picks-prediction-spread-line-nfl-week-4-start-time-preview-best-bets/",
-      "summary": "Here's everything bettors need to know for when Garrett Wilson and the Jets clash with D'Andre Swift's Bears in Chicago",
-      "published": "Sun, 04 Oct 2026 14:20:29 +0000",
+      "title": "Jets vs. Bears odds, picks, prediction, spread, line: Start time, betting preview, best bets for NFL Week 4",
+      "url": "https://www.cbssports.com/betting/news/jets-vs-bears-odds-picks-prediction-spread-line-start-time-betting-preview-best-bets-for-nfl-week-4/",
+      "summary": "Here's everything bettors need to know for when the Jets clash with the Bears in Chicago",
+      "published": "Sun, 04 Oct 2026 16:00:52 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -184,23 +527,91 @@
       ]
     },
     {
-      "title": "Marcus Mariota hurts right knee, questionable to return; Commanders turn to rookie Athan Kaliakmanis",
-      "url": "https://www.cbssports.com/nfl/news/marcus-mariota-hurts-right-knee-questionable-commanders/",
-      "summary": "The Commanders are already without Jayden Daniels",
-      "published": "Sun, 04 Oct 2026 14:19:11 +0000",
+      "title": "Chiefs vs. Raiders odds, picks, prediction, spread, line: NFL Week 4 start time, preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/chiefs-raiders-odds-picks-prediction-spread-line-nfl-week-4-start-time-preview-best-bets/",
+      "summary": "Here's everything bettors need to know for when Patrick Mahomes and the Kansas City Chiefs visit Kirk Cousins and the Las Vegas Raiders in NFL Week 4",
+      "published": "Sun, 04 Oct 2026 15:33:43 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
+      "teams": [
+        "KC",
+        "LV"
+      ]
+    },
+    {
+      "title": "NFL player props Week 4 2026: Best bets, picks for Sunday's NFL games include Patrick Mahomes, Jahmyr Gibbs",
+      "url": "https://www.cbssports.com/betting/news/nfl-player-props-week-4-2026-best-bets-picks-sundays-nfl-games-patrick-mahomes-jahmyr-gibbs/",
+      "summary": "Bet on NFL player props Week 4 at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
+      "published": "Sun, 04 Oct 2026 15:17:21 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Marcus Mariota hurts right knee, will not return; Commanders turn to rookie Athan Kaliakmanis",
+      "url": "https://www.cbssports.com/nfl/news/marcus-mariota-hurts-right-knee-questionable-commanders/",
+      "summary": "The Commanders are already without Jayden Daniels",
+      "published": "Sun, 04 Oct 2026 15:17:16 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": [
         "WAS"
       ]
     },
     {
-      "title": "NFL player props Week 4 2026: Best bets, picks for Sunday's NFL games include Patrick Mahomes, Jahmyr Gibbs",
-      "url": "https://www.cbssports.com/betting/news/nfl-player-props-week-4-2026-best-bets-picks-sundays-nfl-games-include-patrick-mahomes-jahmyr-gibbs/",
-      "summary": "Bet on NFL player props Week 4 at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
-      "published": "Sun, 04 Oct 2026 13:29:24 +0000",
+      "title": "Patriots vs. Bills odds, picks, prediction, spread: NFL Week 4 start time, betting preview and best bets",
+      "url": "https://www.cbssports.com/betting/news/patriots-vs-bills-odds-picks-prediction-spread-nfl-week-4-start-time-betting-preview-and-best-bets/",
+      "summary": "Here's everything bettors need to know about the AFC East showdown as the Bills host the Patriots on Sunday at New Highmark Stadium",
+      "published": "Sun, 04 Oct 2026 15:15:43 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "NE"
+      ]
+    },
+    {
+      "title": "Week 4 NFL odds, spreads, totals, betting lines, for every game, including Texans-Cowboys, Raiders-Chiefs",
+      "url": "https://www.cbssports.com/betting/news/week-4-nfl-odds-totals-spreads-betting-lines/",
+      "summary": "The Week 4 NFL schedule is here, featuring pivotal matchups like Cowboys vs. Texans, Raiders vs. Chiefs and Lions vs. Panthers",
+      "published": "Sun, 04 Oct 2026 15:14:14 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "DAL",
+        "DET",
+        "HOU",
+        "KC",
+        "LV"
+      ]
+    },
+    {
+      "title": "Week 4 NFL score predictions, odds, picks, betting advice: Proven model locks in projections for every game",
+      "url": "https://www.cbssports.com/betting/news/week-4-nfl-score-predictions-odds-picks-betting-advice-proven-model-locks-in-projections-for-every-game/",
+      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
+      "published": "Sun, 04 Oct 2026 15:11:22 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 4 NFL betting promos: Collect nearly $3,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/nfl/news/week-4-nfl-betting-promos-collect-nearly-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Sun, 04 Oct 2026 15:01:52 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -218,63 +629,6 @@
       "category": "injury",
       "teams": [
         "TB"
-      ]
-    },
-    {
-      "title": "Week 4 NFL betting promos: Claim nearly $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-4-nfl-betting-promos-claim-nearly-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Sun, 04 Oct 2026 13:07:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 4 NFL odds, spreads, totals, betting lines, for every game, including Texans-Cowboys, Raiders-Chiefs",
-      "url": "https://www.cbssports.com/betting/news/week-4-nfl-odds-totals-spreads-betting-lines/",
-      "summary": "The Week 4 NFL schedule is here, featuring pivotal matchups like Cowboys vs. Texans, Raiders vs. Chiefs and Lions vs. Panthers",
-      "published": "Sun, 04 Oct 2026 12:47:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "DAL",
-        "DET",
-        "HOU",
-        "KC",
-        "LV"
-      ]
-    },
-    {
-      "title": "Chiefs vs. Raiders odds, picks, prediction, spread, line: NFL Week 4 start time, preview, best bets",
-      "url": "https://www.cbssports.com/betting/news/chiefs-vs-raiders-odds-picks-prediction-spread-line-nfl-week-4-start-time-preview-best-bets/",
-      "summary": "Here's everything bettors need to know for when Patrick Mahomes and the Kansas City Chiefs visit Kirk Cousins and the Las Vegas Raiders in NFL Week 4",
-      "published": "Sun, 04 Oct 2026 12:30:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "LV"
-      ]
-    },
-    {
-      "title": "Jaguars vs. Bengals odds, picks, prediction, spread, line: NFL Week 4 start time, preview, best bets",
-      "url": "https://www.cbssports.com/betting/news/jaguars-vs-bengals-odds-picks-prediction-spread-line-nfl-week-4-start-time-preview-best-bets/",
-      "summary": "Here's everything bettors need to know for Jaguars vs. Bengals in NFL Week 4 action",
-      "published": "Sun, 04 Oct 2026 12:20:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "JAX"
       ]
     },
     {
@@ -444,111 +798,6 @@
       "category": "injury",
       "teams": [
         "SEA"
-      ]
-    },
-    {
-      "title": "Who is Jalon Daniels? Buccaneers rookie quarterback went from undrafted to starting",
-      "url": "https://www.cbssports.com/nfl/news/who-is-jalon-daniels-buccaneers-rookie-quarterback/",
-      "summary": "The undrafted Kansas product makes franchise history as he steps in for an injured Baker Mayfield with Tampa Bay searching for its first win",
-      "published": "Sat, 03 Oct 2026 17:38:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "TB"
-      ]
-    },
-    {
-      "title": "NFL Week 4 injury report: Justin Jefferson out, Nico Collins in; Terry McLaurin suffers late-week injury",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-injury-report-justin-jefferson-aaron-donald-terry-mclaurin/",
-      "summary": "Here's a look at each game designation for Week 4 in the NFL",
-      "published": "Sat, 03 Oct 2026 16:30:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "Bears make starting QB decision for Week 4 matchup vs. Jets",
-      "url": "https://www.cbssports.com/nfl/news/bears-make-starting-qb-decision-week-4-matchup-jets/",
-      "summary": "Ben Johnson turns back to his primary backup over veteran Case Keenum, who threw two touchdowns in a shocking upset over the Eagles on Monday night",
-      "published": "Sat, 03 Oct 2026 16:17:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CHI",
-        "NYJ",
-        "PHI"
-      ]
-    },
-    {
-      "title": "49ers vs. Broncos prediction: MVP favorite Brock Purdy and San Francisco look to stay undef",
-      "url": "https://www.cbssports.com/nfl/news/49ers-vs-broncos-where-to-watch-pick-odds-prediction/",
-      "summary": "What you need to know ahead of these teams facing off on Sunday",
-      "published": "Sat, 03 Oct 2026 15:48:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "SF"
-      ]
-    },
-    {
-      "title": "Bills vs. Patriots preview: Buffalo looks to stay perfect, New England looks to get right",
-      "url": "https://www.cbssports.com/nfl/news/bills-vs-patriots-prediction-odds-where-to-watch/",
-      "summary": "Everything you need to know to tune into the AFC East showdown",
-      "published": "Sat, 03 Oct 2026 15:16:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "NE"
-      ]
-    },
-    {
-      "title": "Will Brinson's NFL Week 4 best bets: Odds, player props, anytime touchdown scorers from expert on Sunday games",
-      "url": "https://www.cbssports.com/betting/news/will-brinsons-nfl-week-4-best-bets-odds-player-props-anytime-touchdown-scorers-from-expert-on-sunday-games/",
-      "summary": "Back live underdogs, ride Derrick Henry in a revenge spot, and target value on Brock Bowers and Puka Nacua to find the end zone",
-      "published": "Sat, 03 Oct 2026 15:05:48 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Inside Drake Maye's alarming 2026 slump one year after Patriots QB was MVP runner-up",
-      "url": "https://www.cbssports.com/nfl/news/inside-drake-mayes-alarming-slump-after-patriots-stars-mvp-runner-up-year/",
-      "summary": "New England's franchise quarterback has six interceptions and an NFL-worst 58.6 passer rating as opposing evaluators question his confidence and pocket poise",
-      "published": "Sat, 03 Oct 2026 13:30:14 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Rams' Aaron Donald to miss Week 4 game vs. Eagles, Puka Nacua's status updated",
-      "url": "https://www.cbssports.com/nfl/news/los-angeles-rams-injury-aaron-donald-out-puka-nacua/",
-      "summary": "Donald will miss his second game of the season, but the Rams received some good news on Friday",
-      "published": "Fri, 02 Oct 2026 20:09:13 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "PHI"
       ]
     }
   ],
