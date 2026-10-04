@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-04T02:34:16.394447+00:00",
-  "checked_at_utc": "2026-10-04T02:34:16.394447+00:00",
+  "updated_at_utc": "2026-10-04T08:45:07.092501+00:00",
+  "checked_at_utc": "2026-10-04T08:45:07.092501+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 1,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,107 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 18,
+      "items": 23,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Vikings vs. Dolphins Prediction, Odds, Pick For NFL Week 4",
+      "url": "https://www.foxsports.com/stories/nfl/vikings-vs-dolphins-prediction-odds-pick-nfl-week-4",
+      "summary": "Get the latest odds, prediction and pick for the Week 4 Vikings vs. Dolphins game, as well as information on how to watch.",
+      "published": "Sun, 04 Oct 2026 04:05:14 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Eagles vs. Rams Prediction, Odds, Pick For NFL Week 4",
+      "url": "https://www.foxsports.com/stories/nfl/eagles-vs-rams-prediction-odds-pick-nfl-week-4",
+      "summary": "Get the latest odds, prediction and pick for the Week 4 Eagles vs. Rams game, as well as information on how to watch.",
+      "published": "Sun, 04 Oct 2026 01:00:56 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Texans vs. Cowboys Prediction, Odds, Pick For NFL Week 4",
+      "url": "https://www.foxsports.com/stories/nfl/texans-vs-cowboys-prediction-odds-pick-nfl-week-4",
+      "summary": "Get the latest odds, prediction and pick for the Week 4 Texans vs. Cowboys game, as well as information on how to watch.",
+      "published": "Sun, 04 Oct 2026 01:00:21 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "HOU"
+      ]
+    },
+    {
+      "title": "Buccaneers vs. Packers Prediction, Odds, Pick For NFL Week 4",
+      "url": "https://www.foxsports.com/stories/nfl/buccaneers-vs-packers-prediction-odds-pick-nfl-week-4",
+      "summary": "Get the latest odds, prediction and pick for the Week 4 Buccaneers vs. Packers game, as well as information on how to watch.",
+      "published": "Sun, 04 Oct 2026 01:00:15 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "TB"
+      ]
+    },
+    {
+      "title": "West Coast Read: Can Dream Team Rams Really Miss The Playoffs? Why The Case Is Building",
+      "url": "https://www.foxsports.com/stories/nfl/can-dream-team-rams-really-miss-playoffs-why-case-building",
+      "summary": "A 1-2 start typically isn't cause for concern, but the case is mounting for the Rams to miss the playoffs.",
+      "published": "Sat, 03 Oct 2026 22:43:41 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "Scouts Unsure How To Fix Drake Maye: 'He Looks Like A Rookie, And Not A Particularly Good One'",
+      "url": "https://www.foxsports.com/stories/nfl/patriots-drake-maye-giants-vikings-jj-mccarthy-trade",
+      "summary": "Many people around the league expressed concern for Drake Maye and J.J. McCarthy following the recent struggles for the former and the trade involving the latter.",
+      "published": "Sat, 03 Oct 2026 22:42:08 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Real Or Fake: Are 3-0 Starts For Bills, Chiefs, 49ers, Vikes & Raiders Legit Or Mirage?",
+      "url": "https://www.foxsports.com/stories/nfl/real-fake-3-0-starts-bills-chiefs-49ers-vikes-raiders-legit-mirage",
+      "summary": "If recent history carries into this year, at least one of the five 3-0 teams will miss the playoffs. Which team could it be? We determine which 3-0 starts are real or fake.",
+      "published": "Sat, 03 Oct 2026 22:41:33 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "KC",
+        "LV",
+        "SF"
+      ]
+    },
     {
       "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
@@ -207,22 +303,6 @@
       "teams": []
     },
     {
-      "title": "Real Or Fake: Are 3-0 Starts For Bills, Chiefs, 49ers, Vikes & Raiders Legit Or Mirage?",
-      "url": "https://www.foxsports.com/stories/nfl/real-fake-3-0-starts-bills-chiefs-49ers-vikes-raiders-legit-mirage",
-      "summary": "If recent history carries into this year, at least one of the five 3-0 teams will miss the playoffs. Which team could it be? We determine which 3-0 starts are real or fake.",
-      "published": "Thu, 01 Oct 2026 19:13:17 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "KC",
-        "LV",
-        "SF"
-      ]
-    },
-    {
       "title": "NFL Backup Quarterback Rankings: Which Teams Have The Most Reliable QB2s?",
       "url": "https://www.foxsports.com/stories/nfl/nfl-backup-quarterback-rankings",
       "summary": "Here's every backup quarterback in the NFL ranked, from Cade Klubnik to Joe Flacco.",
@@ -245,27 +325,51 @@
       "teams": []
     },
     {
-      "title": "Scouts Unsure How To Fix Drake Maye: 'He Looks Like A Rookie, And Not A Particularly Good One'",
-      "url": "https://www.foxsports.com/stories/nfl/patriots-drake-maye-giants-vikings-jj-mccarthy-trade",
-      "summary": "Many people around the league expressed concern for Drake Maye and J.J. McCarthy following the recent struggles for the former and the trade involving the latter.",
-      "published": "Thu, 01 Oct 2026 16:45:43 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "How Commanders owner Josh Harris, fans connected at London bar",
-      "url": "https://www.espn.com/nfl/story/_/id/50092718/washington-commanders-josh-harris-london-bar",
-      "summary": "The Commanders owner covered drinks for a crowd of approximately 3,000 fans on Saturday afternoon at the BrewDog in London.",
-      "published": "2026-10-04T00:13:54Z",
+      "title": "Colts vs. Commanders, NFL London preview: ESPN experts on key players, matchups and predictions",
+      "url": "https://www.espn.com/nfl/story/_/id/50067731/indianapolis-colts-washington-commanders-nfl-london-preview-key-players-matchups-predictions",
+      "summary": "The NFL rolls into London this begin with a clash between the Indianapolis Colts and the Washington Commanders -- so we asked ESPN reporters Stephen Holder and John Keim for a preview.",
+      "published": "2026-10-04T06:21:39Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
+        "IND",
         "WAS"
+      ]
+    },
+    {
+      "title": "Indianapolis Colts vs. Washington Commanders: NFL London kick-off time, how to watch in UK, team news",
+      "url": "https://www.espn.com/nfl/story/_/id/50052193/indianapolis-colts-vs-washington-commanders-nfl-london-kick-how-watch-uk-team-news",
+      "summary": "The first NFL London game place takes place this weekend, with the Indianapolis Colts and Washington Commanders looking to build on a surprise wins in Week 3 with a victory at Tottenham Hotspur Stadium.",
+      "published": "2026-10-04T06:20:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Prisco's Week 4 NFL picks: Eagles upset Rams, Texans over Cowboys",
+      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-4-nfl-picks/",
+      "summary": "Pete Prisco reveals all of his Week 4 picks, including the Browns upsetting the Steelers and the 49ers over the Broncos",
+      "published": "Sun, 04 Oct 2026 05:00:54 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "DAL",
+        "DEN",
+        "HOU",
+        "LA",
+        "PHI",
+        "PIT",
+        "SF"
       ]
     },
     {
@@ -719,19 +823,6 @@
         "CAR",
         "DET",
         "KC"
-      ]
-    },
-    {
-      "title": "Where Dolphins rookie class ranks among play-time over last decade and how others fared",
-      "url": "https://www.cbssports.com/nfl/news/where-dolphins-rookie-class-ranks-among-play-time/",
-      "summary": "A look back at how previous NFL teams that relied heavily on first-year players fared in the standings and whether those massive draft classes built lasting foundations",
-      "published": "Fri, 02 Oct 2026 11:55:07 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIA"
       ]
     }
   ],
