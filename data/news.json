@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-03T23:06:28.925392+00:00",
-  "checked_at_utc": "2026-10-03T23:06:28.925392+00:00",
+  "updated_at_utc": "2026-10-04T02:34:16.394447+00:00",
+  "checked_at_utc": "2026-10-04T02:34:16.394447+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 34
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -256,24 +256,42 @@
       "teams": []
     },
     {
-      "title": "Patriots preach patience when it comes to receiver WR Romeo Doubs' modest start",
-      "url": "https://www.espn.com/nfl/story/_/id/50087681/patriots-romeo-doubs-bills-game",
-      "summary": "After the Patriots signed him to a four-year deal in March, Doubs is searching for his footing in the offense entering Week 4.",
-      "published": "2026-10-03T22:00:02Z",
+      "title": "How Commanders owner Josh Harris, fans connected at London bar",
+      "url": "https://www.espn.com/nfl/story/_/id/50092718/washington-commanders-josh-harris-london-bar",
+      "summary": "The Commanders owner covered drinks for a crowd of approximately 3,000 fans on Saturday afternoon at the BrewDog in London.",
+      "published": "2026-10-04T00:13:54Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "game",
       "teams": [
-        "NE"
+        "WAS"
       ]
     },
     {
-      "title": "Panthers place WR Xavier Legette on IR with knee injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50093238/panthers-place-wr-xavier-legette-ir-knee-injury",
-      "summary": "The Carolina Panthers have placed 2024 first-round pick Xavier Legette on injured reserve ahead of Sunday's prime-time matchup against the Detroit Lions.",
-      "published": "2026-10-03T21:33:12Z",
-      "source": "ESPN NFL",
+      "title": "Last-minute best bets for NFL Week 4: Cowboys welcome Joey Porter Jr. with upset win, Rams edge out Eagles",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-odds-best-bets-predictions-scores-cowboys-eagles/",
+      "summary": "Why the Rams, Packers, Cowboys, Seahawks and Vikings are the five teams to back in Week 4",
+      "published": "Sun, 04 Oct 2026 00:01:28 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "GB",
+        "LA",
+        "MIN",
+        "PHI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Panthers vs. Lions prediction: Explosive offenses poised for potential 'Sunday Night Football' shootout",
+      "url": "https://www.cbssports.com/nfl/news/panthers-vs-lions-where-to-watch-pick-odds-prediction/",
+      "summary": "Injury-riddled defenses will have trouble getting off the field in this clash between high-scoring squads",
+      "published": "Sun, 04 Oct 2026 00:00:59 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
@@ -283,45 +301,31 @@
       ]
     },
     {
-      "title": "Seahawks place RB Jadarian Price (chest) on IR",
-      "url": "https://www.espn.com/nfl/story/_/id/50093007/seahawks-place-rb-jadarian-price-chest-ir",
-      "summary": "The Seattle Seahawks are placing starting running back Jadarian Price on injured reserve, the team announced Saturday.",
-      "published": "2026-10-03T21:00:28Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SEA"
-      ]
-    },
-    {
-      "title": "Bears LT Braxton Jones on IR; Theo Benedet to start vs. Jets",
-      "url": "https://www.espn.com/nfl/story/_/id/50092744/bears-lt-braxton-jones-ir-theo-benedet-start-vs-jets",
-      "summary": "Bears left tackle Braxton Jones has been placed on injured reserve after sustaining an injury to his right knee against the Eagles in Week 3.",
-      "published": "2026-10-03T20:37:39Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "NYJ",
-        "PHI"
-      ]
-    },
-    {
-      "title": "NFL Week 4 uniforms: Browns wearing 'Alpha Dawg' look; Giants go 'Legacy'",
-      "url": "https://www.espn.com/nfl/story/_/id/50063176/nfl-week-4-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 4, led by an alternate look from the Cleveland Browns.",
-      "published": "2026-10-03T19:46:43Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 4 player prop bets: Raiders' Brock Bowers among best anytime TD bets",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-player-prop-bets/",
+      "summary": "These five players could capitalize on their matchups and find the end zone during Sunday's NFL action",
+      "published": "Sat, 03 Oct 2026 23:01:01 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CLE",
-        "NYG"
+        "LV"
+      ]
+    },
+    {
+      "title": "NFL Week 4 picks and score predictions: Texans get first win, Bengals edge Jaguars",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-and-score-predictions-breech/",
+      "summary": "Here's your weekly dose of John Breech's NFL picks",
+      "published": "Sat, 03 Oct 2026 22:46:51 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "HOU",
+        "JAX"
       ]
     },
     {
@@ -401,34 +405,6 @@
         "CHI",
         "NYJ",
         "PHI"
-      ]
-    },
-    {
-      "title": "Commanders vs. Colts: Jonathan Taylor, Marcus Mariota lead teams into London",
-      "url": "https://www.cbssports.com/nfl/news/commanders-vs-colts-where-to-watch-pick-odds-prediction/",
-      "summary": "Both teams head to London after earning their first wins, but two of the NFL's worst defenses could allow this matchup to turn into a high-scoring battle",
-      "published": "Sat, 03 Oct 2026 16:00:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Bengals vs. Jaguars prediction: Joe Burrow, Trevor Lawrence duel in battle of AFC contenders",
-      "url": "https://www.cbssports.com/nfl/news/bengals-vs-jaguars-where-to-watch-pick-odds-prediction/",
-      "summary": "Everything you need to know to tune into the AFC showdown",
-      "published": "Sat, 03 Oct 2026 15:55:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "JAX"
       ]
     },
     {
@@ -756,21 +732,6 @@
       "category": "game",
       "teams": [
         "MIA"
-      ]
-    },
-    {
-      "title": "Week 4 best bets: Cowboys to bounce back; Josh Downs, Aaron Jones in line for big days",
-      "url": "https://www.cbssports.com/nfl/news/week-4-best-bets-cowboys-josh-downs-aaron-jones/",
-      "summary": "Plus, the Jaguars and the Bengals are in for a good one",
-      "published": "Fri, 02 Oct 2026 11:52:28 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "DAL",
-        "JAX"
       ]
     }
   ],
