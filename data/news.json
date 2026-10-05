@@ -1,25 +1,55 @@
 {
-  "updated_at_utc": "2026-10-05T05:43:14.054157+00:00",
-  "checked_at_utc": "2026-10-05T05:43:14.054157+00:00",
+  "updated_at_utc": "2026-10-05T12:42:20.982328+00:00",
+  "checked_at_utc": "2026-10-05T12:42:20.982328+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 15,
+      "items": 8,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 26
+      "items": 28
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 13,
+      "items": 15,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Overreaction Monday: Sound The Panic Alarm For The Eagles And Matthew Stafford?",
+      "url": "https://www.foxsports.com/stories/nfl/overreaction-monday-eagles-rams-patriots-raiders-buccaneers-chargers-matthew-stafford-bryce-young",
+      "summary": "Matthew Stafford interceptions are troubling, even though Rams won. And are Drake Maye and the Patriots back?",
+      "published": "Mon, 05 Oct 2026 01:46:54 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "NE",
+        "PHI"
+      ]
+    },
+    {
+      "title": "2026 Super Bowl Odds: Rams Favored After Eagles Comeback; Bills Slide",
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "summary": "The Rams stand alone atop the Super Bowl odds board after a dramatic comeback, while the Bills slide. See the latest odds.",
+      "published": "Mon, 05 Oct 2026 01:42:48 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA",
+        "PHI"
+      ]
+    },
     {
       "title": "NFL Week 4 Defining Stats: Mahomes Chases Brady, Nacua Climbs Past Moss",
       "url": "https://www.foxsports.com/stories/nfl/nfl-week-4-defining-stats",
@@ -192,157 +222,40 @@
       ]
     },
     {
-      "title": "NFL Week 4: Big takeaways, questions and fantasy spin from Sunday's games",
-      "url": "https://www.espn.com/nfl/story/_/id/50077236/week-4-sunday-games-takeaways-questions-2026",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 4.",
-      "published": "2026-10-05T05:31:59Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Young, McMillan connect for 2 TDs to lead Panthers past Lions 32-26",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872978",
-      "summary": "\u2014 Carolina Panthers coach Dave Canales was a little worried after Bryce Young and Tetairoa McMillan had some issues connecting on passes in practice.",
-      "published": "2026-10-05T03:56:30Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CAR",
-        "DET"
-      ]
-    },
-    {
-      "title": "Cowboys' Texas-themed jabs at Houston tops Week 4 trolls",
-      "url": "https://www.espn.com/nfl/story/_/id/50105587/nfl-week-4-2026-trolls",
-      "summary": "The calendar shifted to October, and the trolls are becoming a little more impactful, led by the Dallas Cowboys.",
-      "published": "2026-10-05T04:14:45Z",
+      "title": "How the Rams, Cowboys, Patriots pulled Week 4 comebacks to save their seasons",
+      "url": "https://www.espn.com/nfl/story/_/id/50100800/week-4-rams-cowboys-patriots-comeback-wins-save-season",
+      "summary": "The Rams, Cowboys and Pats were all looking at 1-3 ... then everything changed. How did a trio of stunning rallies play out -- and are these teams all back on track at 2-2?",
+      "published": "2026-10-05T12:17:52Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Week 4 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50085799/week-4-highlights-best-plays-touchdowns-2026",
-      "summary": "Check out the top plays from Week 4, featuring the season's first game in London and a showdown of unbeatens in the late afternoon.",
-      "published": "2026-10-05T04:49:44Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Klint Kubiak laments decisions gone wrong in Raiders' loss",
-      "url": "https://www.espn.com/nfl/story/_/id/50107098/klint-kubiak-laments-decisions-gone-wrong-raiders-loss",
-      "summary": "First-time coach Klint Kubiak might be up extra late Sunday night after a pair of his decisions backfired in the Las Vegas Raiders' 30-27 loss to the Chiefs.",
-      "published": "2026-10-05T03:41:24Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "LV"
-      ]
-    },
-    {
-      "title": "Macdonald laments 'unacceptable' penalties in Seahawks' win",
-      "url": "https://www.espn.com/nfl/story/_/id/50106983/macdonald-laments-unacceptable-penalties-seahawks-win",
-      "summary": "Thea Seahawks set a club record with 150 penalty yards in Sunday's win over the Chargers, something coach Mike Macdonald said his team would need to clean up.",
-      "published": "2026-10-05T04:35:36Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Chargers' Jim Harbaugh says OC Mike McDaniel's job 'not in jeopardy'",
-      "url": "https://www.espn.com/nfl/story/_/id/50106946/chargers-jim-harbaugh-says-oc-mike-mcdaniel-job-not-jeopardy",
-      "summary": "After another poor offensive performance Sunday, Chargers coach Jim Harbaugh is standing by offensive coordinator Mike McDaniel.",
-      "published": "2026-10-05T04:37:52Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "NFL looking into exchange between Vikings' Wilson, ref Hill",
-      "url": "https://www.espn.com/nfl/story/_/id/50106743/nfl-looking-exchange-vikings-wilson-ref-hill",
-      "summary": "The NFL is looking into an unusual exchange between referee Adrian Hill and Vikings linebacker Eric Wilson that took place in Minnesota's 15-10 victory over the Dolphins, ESPN's Adam Schefter reported Sunday night.",
-      "published": "2026-10-05T03:23:38Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIA",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Dre Greenlaw had 'a little extra' vs. the Broncos, his ex-team",
-      "url": "https://www.espn.com/nfl/story/_/id/50106742/dre-greenlaw-had-little-extra-vs-broncos-ex-team",
-      "summary": "Dre Greenlaw had 'a little extra' vs. the Broncos, his ex-team.",
-      "published": "2026-10-05T02:47:28Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN"
-      ]
-    },
-    {
-      "title": "Kyle Juszczyk (knee), two more 49ers injured in win over Broncos",
-      "url": "https://www.espn.com/nfl/story/_/id/50106575/kyle-juszczyk-knee-two-more-49ers-injured-win-broncos",
-      "summary": "For the fourth straight week, the 49ers clawed out a victory but were unable to come out of the game against the Broncos without injury concerns.",
-      "published": "2026-10-05T02:14:22Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN",
-        "SF"
-      ]
-    },
-    {
-      "title": "Judging overreactions to NFL Week 4: Patriots, Rams are back? Eagles in trouble?",
-      "url": "https://www.espn.com/nfl/story/_/id/50100701/week-4-overreactions-2026-graziano-patriots-rams-eagles",
-      "summary": "Are the Patriots on track for another AFC East title? Are the Chiefs back to being the class of the NFL? We're judging Week 4 overreactions.",
-      "published": "2026-10-05T00:59:29Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
+        "DAL",
         "LA",
-        "NE",
-        "PHI"
+        "NE"
       ]
     },
     {
-      "title": "What are the longest field goals in NFL history?",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
-      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-10-05T00:51:42Z",
+      "title": "Cowboys flip script after Rio loss with key win over Texans",
+      "url": "https://www.espn.com/nfl/story/_/id/50105860/dallas-cowboys-ceedee-lamb-dak-texans",
+      "summary": "A week after everything went wrong late against the Ravens, Dallas rebounded with a winning drive Sunday.",
+      "published": "2026-10-05T10:00:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "DAL",
+        "HOU"
+      ]
+    },
+    {
+      "title": "Is Bijan Robinson the NFL's top RB? He is when he's in primetime",
+      "url": "https://www.espn.com/nfl/story/_/id/50101403/falcons-bijan-robinson-prime-mnf",
+      "summary": "Bijan Robinson has the most scrimmage yards per game in primetime, and he'll get a chance to keep it rolling on 'Monday Night Football' this week.",
+      "published": "2026-10-05T11:48:59Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -350,24 +263,24 @@
       "teams": []
     },
     {
-      "title": "Tracking Jaguars CB/WR Travis Hunter's 2026 season: How did he do vs. Bengals?",
-      "url": "https://www.espn.com/nfl/story/_/id/50043976/jacksonville-jaguars-travis-hunter-stats-snaps-tracker",
-      "summary": "Every week, we will look at how many snaps the two-way corner/receiver plays on offense and defense. Is there a trend in his usage?",
-      "published": "2026-10-05T01:03:45Z",
+      "title": "How Steve Gleason's punt block unified New Orleans, Falcons-Saints rivalry",
+      "url": "https://www.espn.com/nfl/story/_/id/50103536/new-orleans-saints-falcons-gleason-20-years-mnf-rivalry",
+      "summary": "Ahead of Monday's Falcons-Saints game, players and coaches reflect on the storm, the game and a play from 20 years ago.",
+      "published": "2026-10-05T10:00:11Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CIN",
-        "JAX"
+        "ATL",
+        "NO"
       ]
     },
     {
-      "title": "Who are the winningest NFL coaches of all time?",
-      "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
-      "summary": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-      "published": "2026-10-05T00:19:39Z",
+      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-05T10:00:29Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -375,24 +288,75 @@
       "teams": []
     },
     {
-      "title": "Emanuel Wilson sparks Seahawks past Chargers 30-23, handing Los Angeles a fourth straight loss",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872977",
-      "summary": "\u2014 The Seattle Seahawks got their rebound win, but it was far from perfect.",
-      "published": "2026-10-05T00:09:27Z",
+      "title": "Joe Burrow after 2nd straight loss: Not 'Armageddon'",
+      "url": "https://www.espn.com/nfl/story/_/id/50105859/bengals-joe-burrow-armageddon",
+      "summary": "Another Burrow fourth-quarter turnover helped bring the Bengals back to .500, but optimism remains.",
+      "published": "2026-10-05T12:29:00Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LAC",
-        "SEA"
+        "CIN"
+      ]
+    },
+    {
+      "title": "With Edgerrin Cooper out, Evan Williams shines for Packers",
+      "url": "https://www.espn.com/nfl/story/_/id/50106379/packers-edgerrin-cooper-achilles-evan-williams",
+      "summary": "The Packers lost one of their two young defensive stars in Cooper (Achilles), but Williams delivered a big game.",
+      "published": "2026-10-05T10:00:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
+      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+      "published": "2026-10-05T10:00:21Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 5 early odds: Bears favorites at Lambeau, Bills underdogs to Rams",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-5-odds-lines-spreads-betting-2026/",
+      "summary": "Los Angeles is a slight favorite against Buffalo in a potential Super Bowl preview, while Chicago enters Lambeau Field favored over Green Bay",
+      "published": "Mon, 05 Oct 2026 12:01:04 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "CHI",
+        "LA"
+      ]
+    },
+    {
+      "title": "Cover 32: Packers don't instill any faith on possible playoff run, plus game balls, biggest gaffes from Week 4",
+      "url": "https://www.cbssports.com/nfl/news/nfl-cover-32-packers-ceedee-lamb-week-4/",
+      "summary": "Tyler Sullivan dives into all the biggest items from Week 4 in the NFL, including CeeDee Lamb's historic day and Mike Vrabel's bizarre tiff",
+      "published": "Mon, 05 Oct 2026 11:34:17 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB"
       ]
     },
     {
       "title": "NFL Week 4 grades for all 32 teams: Ben Johnson, Bears earn 'A-' despite injury woes; Bengals slip again",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/",
       "summary": "We're handing out grades for every Week 4 game",
-      "published": "Mon, 05 Oct 2026 04:01:21 +0000",
+      "published": "Mon, 05 Oct 2026 12:29:57 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
