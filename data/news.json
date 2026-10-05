@@ -1,25 +1,80 @@
 {
-  "updated_at_utc": "2026-10-04T21:39:44.417758+00:00",
-  "checked_at_utc": "2026-10-04T21:39:44.417758+00:00",
+  "updated_at_utc": "2026-10-05T00:10:25.797299+00:00",
+  "checked_at_utc": "2026-10-05T00:10:25.797299+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 11,
+      "items": 24,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 24
+      "items": 26
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 6,
+      "items": 7,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "2026 NFL Bad Beat: A Hockenson Slide That Will Haunt Vikings Bettors Forever",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-bad-beat-hockenson-slide-will-haunt-vikings-bettors-forever",
+      "summary": "T.J. Hockenson\u2019s goal-line decision left Vikings -10.5 backers with a loss they\u2019ll remember for a long time. See how the NFL season\u2019s worst bad beat so far unfolded.",
+      "published": "Sun, 04 Oct 2026 19:38:31 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "Chiefs WR Tyquan Thornton Suffers Gruesome Injury vs. Raiders",
+      "url": "https://www.foxsports.com/stories/nfl/tyquan-thornton-injury-update-chiefs-raiders",
+      "summary": "Chiefs wide receiver Tyquan Thornton suffered a gruesome injury in the fourth quarter against the Las Vegas Raiders and was carted off.",
+      "published": "Sun, 04 Oct 2026 19:32:21 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "KC",
+        "LV"
+      ]
+    },
+    {
+      "title": "Broncos CB Pat Surtain Out vs. San Francisco 49ers Due To Ankle Injury",
+      "url": "https://www.foxsports.com/stories/nfl/broncos-db-pat-surtain-exits-game-vs-niners-apparent-leg-injury",
+      "summary": "Denver Broncos cornerback Pat Surtain II left Sunday's Week 4 game against the San Francisco 49ers with an apparent leg injury late in the second quarter.",
+      "published": "Sun, 04 Oct 2026 18:20:50 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DEN",
+        "SF"
+      ]
+    },
+    {
+      "title": "Tom Brady Breaks Down How QBs Should Throw In The Rain During Rams-Eagles Game",
+      "url": "https://www.foxsports.com/stories/nfl/tom-brady-breaks-down-quarterback-mechanics-rainy-conditions-during-eagles-rams",
+      "summary": "What throwing disadvantages do quarterbacks face in rainy conditions? Tom Brady breaks down the mechanics.",
+      "published": "Sun, 04 Oct 2026 18:14:05 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "LA",
+        "PHI"
+      ]
+    },
     {
       "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
@@ -60,60 +115,122 @@
       ]
     },
     {
-      "title": "Ravens QB Lamar Jackson Exits Game With Ankle Injury Against Titans",
-      "url": "https://www.foxsports.com/stories/nfl/ravens-lamar-jackson-ankle-injury-update",
-      "summary": "Baltimore Ravens quarterback Lamar Jackson exited Sunday's game against the Tennessee Titans with an ankle injury.",
-      "published": "Sun, 04 Oct 2026 15:20:53 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Eagles RB Saquon Barkley Exits Game With Hamstring Injury Against Rams",
-      "url": "https://www.foxsports.com/stories/nfl/eagles-rb-saquon-barkley-hamstring-injury-update",
-      "summary": "Philadelphia Eagles running back Saquan Barkley left Sunday's game against the Los Angeles Rams with a hamstring injury.",
-      "published": "Sun, 04 Oct 2026 14:17:07 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Which MLB Positions Could Today\u2019s NFL Superstars Actually Play?",
-      "url": "https://www.foxsports.com/stories/nfl/which-mlb-positions-could-todays-nfl-superstars-actually-play",
-      "summary": "Here are the NFL players Charles Woodson and Julian Edelman think could make it in MLB.",
-      "published": "Sun, 04 Oct 2026 14:12:41 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Emanuel Wilson sparks Seahawks past Chargers 30-23, handing Los Angeles a fourth straight loss",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872977",
+      "summary": "\u2014 Emanuel Wilson caught a touchdown pass and ran for another score and the Seattle Seahawks handed the Los Angeles Chargers a fourth straight loss to start the season with a 30-23 victory on Sunday.",
+      "published": "2026-10-05T00:09:27Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "LAC",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Chiefs beat the Raiders 30-27 to move to 4-0 behind Patrick Mahomes and Kenneth Walker III",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872976",
+      "summary": "\u2014 Patrick Mahomes remained undefeated at Allegiant Stadium, passing for 225 yards and two touchdowns, and Kenneth Walker III rushed for 177 yards and two TDs to lead the Chiefs to a 30-27 victory over the Las Vegas Raiders on Sunday.",
+      "published": "2026-10-05T00:04:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "LV"
+      ]
+    },
+    {
+      "title": "Judging overreactions to NFL Week 4: Patriots, Rams are back? Eagles in trouble?",
+      "url": "https://www.espn.com/nfl/story/_/id/50100701/week-4-overreactions-2026-graziano-patriots-rams-eagles",
+      "summary": "Are the Patriots on track for another AFC East title? Are the Chiefs back to being the class of the NFL? We're judging Week 4 overreactions.",
+      "published": "2026-10-05T00:05:52Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "LA",
+        "NE",
+        "PHI"
+      ]
     },
     {
       "title": "NFL Week 4: Big takeaways, questions and fantasy spin from Sunday's games",
       "url": "https://www.espn.com/nfl/story/_/id/50077236/week-4-sunday-games-takeaways-questions-2026",
       "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 4.",
-      "published": "2026-10-04T21:38:54Z",
+      "published": "2026-10-05T00:08:55Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
+    },
+    {
+      "title": "NFL looking into official apparently cursing at Cardinals' McBride",
+      "url": "https://www.espn.com/nfl/story/_/id/50105514/nfl-looking-official-apparently-cursing-cardinals-mcbride",
+      "summary": "The NFL said it is reviewing an official's apparent use of profanity at Cardinals tight end Trey McBride in Sunday's game against the Giants.",
+      "published": "2026-10-04T23:59:44Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Bears call Case Keenum co-start a 'ceremonial first pitch'",
+      "url": "https://www.espn.com/nfl/story/_/id/50105493/bears-call-case-keenum-co-start-ceremonial-first-pitch",
+      "summary": "Both Tyson Bagent and Case Keenum started Sunday's game for the Bears, with coach Ben Johnson calling it a \"ceremonial first pitch\" of sorts for the latter.",
+      "published": "2026-10-05T00:03:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Wild stats from NFL Week 4 featuring Cowboys, Bears, Eagles, Seahawks, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50100789/week-4-key-stats-solak-cee-dee-lamb-cowboys",
+      "summary": "Sunday featured wild plays, historic numbers and a game that started with two straight interceptions. Catch up on the day's most interesting stats.",
+      "published": "2026-10-04T23:53:22Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "DAL",
+        "PHI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Brock Purdy throws 2 TD passes to lead the undefeated 49ers past the Broncos 24-14",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872975",
+      "summary": "\u2014 Brock Purdy threw two touchdown passes and Christian McCaffrey ran for a score to lead the undefeated San Francisco 49ers to a 24-14 victory over the",
+      "published": "2026-10-04T23:47:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "SF"
+      ]
     },
     {
       "title": "Week 4 NFL highlights: Best plays, moments, touchdowns, more",
       "url": "https://www.espn.com/nfl/story/_/id/50085799/week-4-highlights-best-plays-touchdowns-2026",
       "summary": "Check out top the plays from Week 4, featuring the season's first game in London and a showdown of unbeatens in the late afternoon.",
-      "published": "2026-10-04T21:35:47Z",
+      "published": "2026-10-04T23:46:58Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -121,9 +238,142 @@
       "teams": []
     },
     {
+      "title": "Unbeaten Vikings keep Dolphins winless with dominant defense, Reichard's kicks, Hockenson's catches",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872974",
+      "summary": "\u2014 The Minnesota Vikings stayed undefeated with more dominance by their defense and five field goals from Will Reichard, sidestepping their early passing game problems to secure a 15-10 victory...",
+      "published": "2026-10-04T23:44:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA",
+        "MIN"
+      ]
+    },
+    {
+      "title": "NFL Week 4's best arrivals, led by Lions DE Aidan Hutchinson",
+      "url": "https://www.espn.com/nfl/story/_/id/50079780/nfl-week-4-fashionable-arrivals",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-10-04T23:07:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "CeeDee Lamb's 17 catches, go-ahead score power Cowboys",
+      "url": "https://www.espn.com/nfl/story/_/id/50104876/ceedee-lamb-17-catches-go-ahead-score-power-cowboys",
+      "summary": "CeeDee Lamb returned to Houston and caught 17 passes for 189 yards, including the game-winning, 12-yard touchdown with 40 seconds to go, as a large number of family members watched from the stands.",
+      "published": "2026-10-04T23:57:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Skattebo scoffs at first-place Giants' underdog tag: 'It's dumb'",
+      "url": "https://www.espn.com/nfl/story/_/id/50104692/skattebo-scoffs-first-place-giants-underdog-tag-dumb",
+      "summary": "The New York Giants were underdogs at home against the Arizona Cardinals. That didn't sit well with running back Cam Skattebo and some of his teammates.",
+      "published": "2026-10-04T23:20:14Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Dee Alford says Bills' defense must adapt to stadium's loudness",
+      "url": "https://www.espn.com/nfl/story/_/id/50104751/dee-alford-says-bills-defense-adapt-stadium-loudness",
+      "summary": "Bills cornerback Dee Alford says the crowd noise at new Highmark Stadium has proven to be a lot to overcome and that the defense must learn to adapt.",
+      "published": "2026-10-04T23:38:43Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF"
+      ]
+    },
+    {
+      "title": "Travis Hunter jukes Tee Higgins in Jags win, goes viral despite penalty",
+      "url": "https://www.espn.com/nfl/story/_/id/50104142/jaguars-travis-hunter-interception-tee-higgins",
+      "summary": "Jacksonville's two-way star showed off his open-field agility before a penalty negated the play.",
+      "published": "2026-10-04T22:40:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Drake Maye rebounds as Patriots hand Bills first defeat",
+      "url": "https://www.espn.com/nfl/story/_/id/50104577/drake-maye-rebounds-patriots-hand-bills-first-defeat",
+      "summary": "Drake Maye snapped out of his early-season slide with a clutch performance as the New England Patriots upset the Buffalo Bills 29-26 at Highmark Stadium in a result that coach Mike Vrabel highlighted as critical for the defending AFC champions.",
+      "published": "2026-10-04T23:24:22Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "NE"
+      ]
+    },
+    {
+      "title": "WR Tyquan Thornton suffers leg injury in Chiefs' victory",
+      "url": "https://www.espn.com/nfl/story/_/id/50104571/chiefs-rule-rashee-rice-doubtful-return-injury",
+      "summary": "After hauling in a 55-yard pass from quarterback Patrick Mahomes, Kansas City Chiefs wide receiver Tyquan Thornton suffered a gruesome-looking injury to his left leg during the fourth quarter of his team's 30-27 win over the Las Vegas Raiders on Sunday.",
+      "published": "2026-10-05T00:04:42Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "KC",
+        "LV"
+      ]
+    },
+    {
+      "title": "Broncos' Pat Surtain II leaves game at 49ers with ankle injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50104528/pat-surtain-ii-leaves-game-49ers-lower-right-leg-injury",
+      "summary": "Broncos cornerback Pat Surtain II, the player defensive coordinator Vance Joseph has said is the starting point for the team's defensive plan each week, left Sunday's game against the 49ers with an ankle injury.",
+      "published": "2026-10-04T23:42:09Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DEN",
+        "SF"
+      ]
+    },
+    {
+      "title": "Matthew Stafford says Nacua 'played like Puka' in return for Rams",
+      "url": "https://www.espn.com/nfl/story/_/id/50104477/matthew-stafford-says-nacua-played-puka-return-rams",
+      "summary": "In Puka Nacua's first game back from a hip injury, Matthew Stafford said he thought the Rams' wide receiver looked like himself on the field.",
+      "published": "2026-10-04T22:34:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
       "title": "Maye overcomes his two turnovers with 3 TD passes in Patriots' 29-26 win over Bills",
       "url": "http://www.espn.com/nfl/recap?gameId=401872971",
-      "summary": "\u2014 Drake Maye threw three touchdown passes, including Efton Chism\u2019s one-handed catch with 1:50 remaining, and the New England Patriots defeated the Buffalo Bills 29-26 on Sunday.",
+      "summary": "\u2014 Drake Maye didn\u2019t have to be perfect after his rough start to the season.",
       "published": "2026-10-04T20:59:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
@@ -137,7 +387,7 @@
     {
       "title": "Rams rally behind Stafford, Williams from 10 points down in 4th quarter to beat Eagles 24-20",
       "url": "http://www.espn.com/nfl/recap?gameId=401872970",
-      "summary": "\u2014 Kyren Williams ran for two touchdowns in the final four minutes as Matthew Stafford and the Los Angeles Rams rallied from a 10-point deficit to beat the Philadelphia Eagles 24-20 on Sunday.",
+      "summary": "\u2014 Sean McVay had seen enough of a Rams team mired in a funk. Los Angeles' coach huddled the entire offense around him as the clock ticked down toward the end of the third quarter and his team down by 10.",
       "published": "2026-10-04T20:49:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
@@ -151,7 +401,7 @@
     {
       "title": "CeeDee Lamb\u2019s late TD caps a wild Cowboys rally to beat winless Texans 34-30",
       "url": "http://www.espn.com/nfl/recap?gameId=401872967",
-      "summary": "\u2014 CeeDee Lamb had a career-high 17 catches for 189 yards and his 12-yard TD reception with 40 seconds left lifted the Dallas Cowboys to a 34-30 win over Houston on Sunday to keep the Texans winless.",
+      "summary": "\u2014 CeeDee Lamb shined in his first NFL game in the city he considers his second home to carry the Dallas Cowboys to a victory on Sunday.",
       "published": "2026-10-04T20:37:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
@@ -178,7 +428,7 @@
     {
       "title": "Trevor Lawrence finally gets 1st win over Bengals as Jaguars hold on for 22-17 victory",
       "url": "http://www.espn.com/nfl/recap?gameId=401872969",
-      "summary": "\u2014 Trevor Lawrence passed for 227 yards and a touchdown, Jacksonville's defense forced two critical turnovers and the Jaguars held off the Cincinnati Bengals 22-17 on Sunday.",
+      "summary": "\u2014 The Jaguars didn't have a nightmare finish in Cincinnati for the second straight year.",
       "published": "2026-10-04T20:32:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
@@ -190,59 +440,126 @@
       ]
     },
     {
-      "title": "Winston throws 3 TD passes and Banks' pick-6 seals Giants' 36-24 win over Cardinals",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872966",
-      "summary": "\u2014 Jameis Winston showed off the good, bad and ugly of his football career and it required another late defensive stand to get it done. It was far from a masterpiece, but the New York Giants will take it.",
-      "published": "2026-10-04T20:25:27Z",
-      "source": "ESPN NFL",
+      "title": "Lions vs. Panthers odds, predictions, betting preview, start time: Sunday Night Football picks, best bets",
+      "url": "https://www.cbssports.com/betting/news/lions-vs-panthers-odds-predictions-betting-preview-start-time-sunday-night-football-picks-best-bets/",
+      "summary": "Best bets and betting preview for Lions vs. Panthers on Sunday Night Football",
+      "published": "Sun, 04 Oct 2026 23:59:20 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ARI",
-        "NYG"
+        "CAR",
+        "DET"
       ]
     },
     {
-      "title": "Ravens beat Titans 24-18 despite Lamar Jackson's ankle injury. Henry scores against his old team",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872973",
-      "summary": "\u2014 Lamer Jackson threw for 222 yards and two touchdowns before leaving the game with an ankle injury, Derrick Henry scored against his former team, and the Baltimore Ravens handled the Tennessee Titans 24-18 on Sunday.",
-      "published": "2026-10-04T20:14:33Z",
-      "source": "ESPN NFL",
+      "title": "NFL reviewing incident between official and Cardinals' Trey McBride, NFLPA issues statement",
+      "url": "https://www.cbssports.com/nfl/news/nfl-reviewing-incident-between-official-cardinals-trey-mcbride/",
+      "summary": "The altercation between the two went viral following New York's win over Arizona",
+      "published": "Sun, 04 Oct 2026 23:55:39 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI"
+      ]
+    },
+    {
+      "title": "Week 4 overreactions: Should Rams still be Super Bowl favorites? Cowboys to win NFC East?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-overreactions-rams-jaguars-cowboys-win-nfc-east/",
+      "summary": "Plus, why Ben Johnson won't win Coach of the Year",
+      "published": "Sun, 04 Oct 2026 23:53:22 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "LA"
+      ]
+    },
+    {
+      "title": "Tyquan Thornton exits with gruesome ankle injury after monster game for Chiefs",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-tyquan-thornton-ankle-injury-raiders/",
+      "summary": "Thornton had already established career highs in receiving yards and touchdowns before exiting late in the fourth quarter",
+      "published": "Sun, 04 Oct 2026 23:52:36 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "BAL",
-        "TEN"
+        "KC"
       ]
     },
     {
-      "title": "Kyle Monangai scores 2 TDs as the Chicago Bears beat the New York Jets 23-12",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872972",
-      "summary": "\u2014 Kyle Monangai rushed for 146 yards and two touchdowns, and the Chicago Bears stuffed the New York Jets for a 23-12 victory on Sunday.",
-      "published": "2026-10-04T20:14:27Z",
-      "source": "ESPN NFL",
+      "title": "Jayden Daniels update: Dan Quinn says 'the hope' is for Commanders QB to return in Week 5",
+      "url": "https://www.cbssports.com/nfl/news/commanders-jayden-daniels-update-hope-week-5-return/",
+      "summary": "The plan is for Daniels to practice in full this week",
+      "published": "Sun, 04 Oct 2026 23:06:51 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "WAS"
+      ]
+    },
+    {
+      "title": "Panthers vs. Lions picks, prediction, player props: Expert's NFL Week 4 best bets for Sunday Night Football",
+      "url": "https://www.cbssports.com/betting/news/panthers-vs-lions-picks-prediction-player-props-experts-nfl-week-4-best-bets-for-sunday-night-football/",
+      "summary": "Targeting a high-scoring shootout in Charlotte, our betting picks back Jahmyr Gibbs in the passing game and Darren Waller to stay heavily involved",
+      "published": "Sun, 04 Oct 2026 23:01:09 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CHI",
-        "NYJ"
+        "CAR",
+        "DET"
       ]
     },
     {
-      "title": "Jordan Love throws 2 touchdown passes, Packers edge Buccaneers 17-14",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872968",
-      "summary": "\u2014 An ugly win left the Green Bay Packers dissatisfied.",
-      "published": "2026-10-04T20:09:40Z",
-      "source": "ESPN NFL",
+      "title": "Broncos' Patrick Surtain II exits 49ers game with non-contact ankle injury",
+      "url": "https://www.cbssports.com/nfl/news/patrick-surtain-ankle-injury-update-broncos-2026/",
+      "summary": "The 2024 Defensive Player of the Year is officially questionable to return after exiting late in the first half",
+      "published": "Sun, 04 Oct 2026 22:26:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DEN",
+        "SF"
+      ]
+    },
+    {
+      "title": "Mike Vrabel calls out official after being penalized during Patriots win over Bills",
+      "url": "https://www.cbssports.com/nfl/news/mike-vrabel-calls-out-official-after-being-penalized-patriots-bills/",
+      "summary": "Vrabel's team overcame his penalty, which led to a Bills touchdown",
+      "published": "Sun, 04 Oct 2026 22:27:44 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "GB",
-        "TB"
+        "BUF",
+        "NE"
+      ]
+    },
+    {
+      "title": "CeeDee Lamb makes Cowboys history, caps career day with winning TD vs. Texans",
+      "url": "https://www.cbssports.com/nfl/news/ceedee-lamb-stats-cowboys-record-texans/",
+      "summary": "The five-time Pro Bowler erupted for 11 catches and 140 yards after halftime before scoring the decisive touchdown with 40 seconds remaining",
+      "published": "Sun, 04 Oct 2026 22:13:14 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "HOU"
       ]
     },
     {
@@ -288,7 +605,7 @@
       "title": "Bill Belichick joins Giants' 1986 reunion following North Carolina's loss to Notre Dame",
       "url": "https://www.cbssports.com/nfl/news/bill-belichick-joins-giants-reunion-following-north-carolinas-loss/",
       "summary": "Belichick quickly revisited one of his biggest NFL moments",
-      "published": "Sun, 04 Oct 2026 19:32:08 +0000",
+      "published": "Sun, 04 Oct 2026 22:01:50 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -471,110 +788,6 @@
         "HOU",
         "KC",
         "LV"
-      ]
-    },
-    {
-      "title": "Week 4 NFL score predictions, odds, picks, betting advice: Proven model locks in projections for every game",
-      "url": "https://www.cbssports.com/betting/news/week-4-nfl-score-predictions-odds-picks-betting-advice-proven-model-locks-in-projections-for-every-game/",
-      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
-      "published": "Sun, 04 Oct 2026 15:11:22 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Baker Mayfield injury update: Dislocated thumb could sideline Bucs QB longer than expected",
-      "url": "https://www.cbssports.com/nfl/news/baker-mayfield-injury-update-buccaneers/",
-      "summary": "Tampa Bay coach Todd Bowles said his starting quarterback would be out three weeks, but it could be longer",
-      "published": "Sun, 04 Oct 2026 13:26:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "TB"
-      ]
-    },
-    {
-      "title": "Bengals vs. Jaguars prediction: Joe Burrow, Trevor Lawrence duel in battle of AFC contenders",
-      "url": "https://www.cbssports.com/nfl/news/bengals-vs-jaguars-where-to-watch-pick-odds-prediction/",
-      "summary": "Everything you need to know to tune into the AFC showdown",
-      "published": "Sun, 04 Oct 2026 12:24:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "JAX"
-      ]
-    },
-    {
-      "title": "2026 Week 4 NFL odds, schedule, start times: Bills-Patriots, Cowboys-Texans, Raiders-Chiefs, every other game",
-      "url": "https://www.cbssports.com/betting/news/2026-week-4-nfl-odds-schedule-start-times-bills-patriots-cowboys-texans-raiders-chiefs-every-other-game/",
-      "summary": "The Week 4 schedule includes a plethora of NFL betting opportunities, including Cowboys-Texans and Raiders-Chiefs",
-      "published": "Sun, 04 Oct 2026 11:35:29 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "DAL",
-        "HOU",
-        "KC",
-        "LV",
-        "NE"
-      ]
-    },
-    {
-      "title": "Colts vs. Commanders odds, picks, predictions: NFL London Game start time, betting preview, best bets",
-      "url": "https://www.cbssports.com/betting/news/colts-commanders-odds-picks-predictions-nfl-london-game-start-time-betting-preview-best-bets/",
-      "summary": "Here's everything bettors need to know as Washington and Indianapolis square off in an early kickoff Sunday at Tottenham Hotspur Stadium",
-      "published": "Sun, 04 Oct 2026 11:30:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Commanders vs. Colts: Jonathan Taylor, Marcus Mariota lead teams into London",
-      "url": "https://www.cbssports.com/nfl/news/commanders-vs-colts-where-to-watch-pick-odds-prediction/",
-      "summary": "Both teams head to London after earning their first wins, but two of the NFL's worst defenses could allow this matchup to turn into a high-scoring battle",
-      "published": "Sun, 04 Oct 2026 11:00:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Prisco's Week 4 NFL picks: Eagles upset Rams, Texans over Cowboys",
-      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-4-nfl-picks/",
-      "summary": "Pete Prisco reveals all of his Week 4 picks, including the Browns upsetting the Steelers and the 49ers over the Broncos",
-      "published": "Sun, 04 Oct 2026 05:00:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "DAL",
-        "DEN",
-        "HOU",
-        "LA",
-        "PHI",
-        "PIT",
-        "SF"
       ]
     }
   ],
