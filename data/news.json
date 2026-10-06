@@ -1,25 +1,241 @@
 {
-  "updated_at_utc": "2026-10-05T12:42:20.982328+00:00",
-  "checked_at_utc": "2026-10-05T12:42:20.982328+00:00",
+  "updated_at_utc": "2026-10-06T01:33:19.897497+00:00",
+  "checked_at_utc": "2026-10-06T01:33:19.897497+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 8,
+      "items": 13,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 28
+      "items": 30
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 15,
+      "items": 23,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Is Ben Johnson Bears' Most Important Piece? Why Last 2 Games Suggest He Might Be",
+      "url": "https://www.foxsports.com/stories/nfl/ben-johnson-nfls-best-coach-why-bears-last-2-wins-suggest-he-might",
+      "summary": "Colin Cowherd said he believes that Sunday's performance is the latest piece of evidence of who matters most in Chicago: Head coach Ben Johnson.",
+      "published": "Mon, 05 Oct 2026 20:25:23 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Big Bets Report: Bettor's In-Game Chiefs Wager Cashes In For $2.2 Million",
+      "url": "https://www.foxsports.com/stories/nfl/big-bets-report-bettors-in-game-chiefs-wager-cashes-2-2-million",
+      "summary": "The Chiefs' win over Las Vegas helped one bettor bank well into seven figures. Patrick Everson breaks down that payday and more from the weekend.",
+      "published": "Mon, 05 Oct 2026 19:26:30 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "Seahawks Add To Their Backfield Amid RB Injuries, Reportedly Signing Joe Mixon",
+      "url": "https://www.foxsports.com/stories/nfl/seahawks-reportedly-sign-veteran-rb-joe-mixon",
+      "summary": "The Seattle Seahawks are offically signing RB Joe Mixon to their practice squad.",
+      "published": "Mon, 05 Oct 2026 19:23:15 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SEA"
+      ]
+    },
+    {
+      "title": "49ers LB Dre Greenlaw Explains Why He Cussed Out Broncos HC Sean Payton",
+      "url": "https://www.foxsports.com/stories/nfl/49ers-lb-dre-greenlaw-explains-why-he-cussed-out-broncos-hc-sean-payton",
+      "summary": "San Francisco linebacker Dre Greenlaw had some words for Denver coach Sean Payton following the 49ers win on Sunday.",
+      "published": "Mon, 05 Oct 2026 17:28:19 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "SF"
+      ]
+    },
+    {
+      "title": "49ers FB Kyle Juszczyk Expected To Miss 2-3 Weeks With Knee Injury",
+      "url": "https://www.foxsports.com/stories/nfl/san-francisco-49ers-kyle-juszczyk-knee-injury",
+      "summary": "San Francisco 49ers fullback Kyle Juszczyk is expected to miss two to three weeks after an MRI on Monday showed a knee sprain and bone bruise.",
+      "published": "Mon, 05 Oct 2026 16:53:51 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "NFL Suspends Official, Referee For Unprofessional Conduct",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-suspends-jeff-seeman-adrian-hill",
+      "summary": "The NFL has suspended line judge Jeff Seeman two games for swearing at Arizona Cardinals tight end Trey McBride during the team\u2019s loss to the New York Giants",
+      "published": "Mon, 05 Oct 2026 16:44:33 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Vikings Likely Lose Left Guard Donovan Jackson For The Regular Season",
+      "url": "https://www.foxsports.com/stories/nfl/minnesota-vikings-donovan-jackson-injury",
+      "summary": "Minnesota Vikings left guard Donovan Jackson likely will miss the rest of the regular season because of a torn meniscus that will require surgery.",
+      "published": "Mon, 05 Oct 2026 15:39:07 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 5: Lines, Spreads, Results For All 15 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-5-lines-spreads-results-all-15-games",
+      "summary": "Check out the odds for every Week 5 matchup in the NFL.",
+      "published": "Mon, 05 Oct 2026 15:08:44 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Bills' Gardner-Johnson Downplays Efton Chism III\u2019s TD: 'A Practice Squad Player'",
+      "url": "https://www.foxsports.com/stories/nfl/cj-gardner-johnson-buffalo-bills-loss-new-england-patriots",
+      "summary": "After catching the go-ahead touchdown against the Buffalo Bills, Efton Chism III finally introduced himself to the league despite C.J. Gardner-Johnson's protests otherwise.",
+      "published": "Mon, 05 Oct 2026 14:43:36 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BUF"
+      ]
+    },
+    {
+      "title": "2026 NFL Bye Weeks Schedule for All 32 Teams",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-bye-weeks-schedule-all-32-teams",
+      "summary": "See the complete 2026 NFL bye-week schedule by week and team, including when every NFL team has its week off.",
+      "published": "Mon, 05 Oct 2026 14:35:18 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Best NFL Betting Sites: Top Sportsbook Apps (2026)",
+      "url": "https://www.foxsports.com/stories/betting/best-nfl-betting-sites",
+      "summary": "Compare the best NFL betting sites for the 2026 season. See top sportsbooks, sign-up bonuses, and betting features to help you bet smarter this season.",
+      "published": "Mon, 05 Oct 2026 14:11:37 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL MVP Odds: Allen Favored; Jackson Dips After Injury",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
+      "summary": "A former two-time MVP saw his odds slip after he suffered yet another injury. See the latest MVP odds.",
+      "published": "Mon, 05 Oct 2026 14:09:15 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "Costly Turnovers Doom Bills As Josh Allen Admits Mistake Against Patriots",
+      "url": "https://www.foxsports.com/stories/nfl/josh-allen-laments-not-throwing-ball-away-after-interception-seals-bills-loss-to-new-england",
+      "summary": "In hindsight, Josh Allen knows he and the Buffalo Bills would have been better off if he threw the ball away.",
+      "published": "Mon, 05 Oct 2026 11:44:31 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "NE"
+      ]
+    },
+    {
+      "title": "Monday Morning NFL Top 10 Rankings: New No. 1 After Hectic Week 4 Sunday",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-rankings-week-4-monday-morning",
+      "summary": "After a thrilling Sunday of football in NFL Week 4, here are Bucky Brooks' top 10 teams.",
+      "published": "Mon, 05 Oct 2026 09:51:23 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL, CFB Weekend Betting Recap: Pats, Cowboys Give Books 'Sigh Of Relief'",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-cfb-weekend-betting-recap-patriots-cowboys-give-books-sigh-relief",
+      "summary": "Two upset wins ended up saving the weekend for the sportsbooks. Patrick Everson has that and more.",
+      "published": "Mon, 05 Oct 2026 09:22:57 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "The Chiefs Are Back In Dynasty Mode; Why Is Everything So Hard For The Rams?",
+      "url": "https://www.foxsports.com/stories/nfl/chiefs-dynasty-mode-why-everything-so-hard-rams-49ers-brock-purdy",
+      "summary": "The Chiefs are back in the title hunt, Brock Purdy passes his first MVP test and the Rams continue to make life way too hard for Sean McVay.",
+      "published": "Mon, 05 Oct 2026 09:10:45 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "LA"
+      ]
+    },
+    {
+      "title": "How to Watch Falcons vs. Saints: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-falcons-vs-saints-tv-channel-live-stream-time-2026-week-4",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 4 Falcons and Saints game.",
+      "published": "Mon, 05 Oct 2026 08:58:59 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "NO"
+      ]
+    },
     {
       "title": "Overreaction Monday: Sound The Panic Alarm For The Eagles And Matthew Stafford?",
       "url": "https://www.foxsports.com/stories/nfl/overreaction-monday-eagles-rams-patriots-raiders-buccaneers-chargers-matthew-stafford-bryce-young",
@@ -38,7 +254,7 @@
     {
       "title": "2026 Super Bowl Odds: Rams Favored After Eagles Comeback; Bills Slide",
       "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "summary": "The Rams stand alone atop the Super Bowl odds board after a dramatic comeback, while the Bills slide. See the latest odds.",
+      "summary": "The Rams stand alone atop the Super Bowl oddsboard after a dramatic comeback, while the Bills slide. See the latest odds.",
       "published": "Mon, 05 Oct 2026 01:42:48 -0400",
       "source": "FOX Sports NFL",
       "source_type": "publisher",
@@ -103,171 +319,211 @@
       ]
     },
     {
-      "title": "2026 NFL Odds Week 5: Lines, Spreads, Results For All 15 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-5-lines-spreads-results-all-15-games",
-      "summary": "Check out the odds for every Week 5 matchup in the NFL.",
-      "published": "Sun, 04 Oct 2026 20:41:03 -0400",
-      "source": "FOX Sports NFL",
+      "title": "NFL Week 4: CeeDee Lamb, Joe Burrow and more fuel best quotes",
+      "url": "https://www.espn.com/nfl/story/_/id/50112467/nfl-week-4-top-quotes-ceedee-lamb-joe-burrow-cj-gardner-johnson-mike-vrabel",
+      "summary": "From family reunions to postgame trash talk, here are some of the sharpest sound bites and one-liners from around the league in Week 4.",
+      "published": "2026-10-05T23:50:50Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Kyren Williams Puts The Rams On His Back To Get Win vs. Eagles, Earn LFG Player Of The Game",
-      "url": "https://www.foxsports.com/stories/nfl/kyren-williams-two-touchdowns-against-eagles-earns-him-lfg-player-game",
-      "summary": "Kyren Williams was named Tom Brady's LFG Player of the Game after rushing for 16 times for 80 yards and two touchdowns, adding 10 catches for 67 yards in a Rams 24-20 win over the Eagles.",
-      "published": "Sun, 04 Oct 2026 20:33:02 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Ex-Bears LB Wilson in altercation with security at Soldier Field",
+      "url": "https://www.espn.com/nfl/story/_/id/50112984/ex-bears-lb-wilson-altercation-security-soldier-field",
+      "summary": "Former Bears Super Bowl champion linebacker Otis Wilson was involved in an altercation with a female and male security officer at Soldier Field on Sunday after a dispute about elevator usage.",
+      "published": "2026-10-06T00:23:11Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LA",
-        "PHI"
+        "CHI"
       ]
     },
     {
-      "title": "Still Perfect: 3 Takeaways As 49ers Grind Out Victory Over Broncos To Remain Undefeated",
-      "url": "https://www.foxsports.com/stories/nfl/still-perfect-3-takeaways-49ers-grind-out-victory-over-broncos-remain-undefeated",
-      "summary": "The 49ers impressed again in their victory over Broncos. Here are three takeaways from Sunday's game.",
-      "published": "Sun, 04 Oct 2026 20:22:57 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "SF"
-      ]
-    },
-    {
-      "title": "2026 NFL Bad Beat: A Hockenson Slide That Will Haunt Vikings Bettors Forever",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-bad-beat-hockenson-slide-will-haunt-vikings-bettors-forever",
-      "summary": "T.J. Hockenson\u2019s goal-line decision left Vikings -10.5 backers with a loss they\u2019ll remember for a long time. See how the NFL season\u2019s worst bad beat so far unfolded.",
-      "published": "Sun, 04 Oct 2026 19:38:31 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "Chiefs WR Tyquan Thornton Suffers Gruesome Injury vs. Raiders",
-      "url": "https://www.foxsports.com/stories/nfl/tyquan-thornton-injury-update-chiefs-raiders",
-      "summary": "Chiefs wide receiver Tyquan Thornton suffered a gruesome injury in the fourth quarter against the Las Vegas Raiders and was carted off.",
-      "published": "Sun, 04 Oct 2026 19:32:21 -0400",
-      "source": "FOX Sports NFL",
+      "title": "MCL sprain sidelines Mariota; Daniels preps for full practice",
+      "url": "https://www.espn.com/nfl/story/_/id/50112842/mcl-sprain-sidelines-mariota-daniels-preps-practice",
+      "summary": "In his team's loss to the Indianapolis Colts on Sunday, Washington Commanders quarterback Marcus Mariota suffered a sprained MCL of his right knee, and the timetable for his return remains uncertain coach Dan Quinn said on Monday.",
+      "published": "2026-10-06T01:32:08Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "KC",
-        "LV"
+        "IND",
+        "WAS"
       ]
     },
     {
-      "title": "Broncos CB Pat Surtain Believed To Have Avoided Long-Term Damage vs. 49ers",
-      "url": "https://www.foxsports.com/stories/nfl/broncos-db-pat-surtain-exits-game-vs-niners-apparent-leg-injury",
-      "summary": "Denver Broncos cornerback Pat Surtain II left Sunday's Week 4 game against the San Francisco 49ers with an apparent leg injury late in the second quarter.",
-      "published": "Sun, 04 Oct 2026 18:20:50 -0400",
-      "source": "FOX Sports NFL",
+      "title": "NFL Week 4's best arrivals, led by Saints DE Cam Jordan",
+      "url": "https://www.espn.com/nfl/story/_/id/50079780/nfl-week-4-fashionable-arrivals",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-10-05T22:54:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NO"
+      ]
+    },
+    {
+      "title": "Cowboys' Tyler Smith hoping to be ready to face Bucs",
+      "url": "https://www.espn.com/nfl/story/_/id/50112664/cowboys-tyler-smith-hoping-ready-face-bucs",
+      "summary": "Cowboys Pro Bowl guard Tyler Smith hopes to make his season debut Thursday against the Buccaneers after having surgery last month on his left thumb.",
+      "published": "2026-10-05T22:57:26Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "DEN",
-        "SF"
-      ]
-    },
-    {
-      "title": "Tom Brady Breaks Down How QBs Should Throw In The Rain During Rams-Eagles Game",
-      "url": "https://www.foxsports.com/stories/nfl/tom-brady-breaks-down-quarterback-mechanics-rainy-conditions-during-eagles-rams",
-      "summary": "What throwing disadvantages do quarterbacks face in rainy conditions? Tom Brady breaks down the mechanics.",
-      "published": "Sun, 04 Oct 2026 18:14:05 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "LA",
-        "PHI"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 4: Lines, Spreads, Results For All 16 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-4-lines-spreads-results-all-16-games",
-      "summary": "Check out the odds for every NFL Week 4 contest.",
-      "published": "Sun, 04 Oct 2026 17:13:26 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "An Ugly Showing: 3 Takeaways From Packers' Low-Scoring Victory Over Buccaneers",
-      "url": "https://www.foxsports.com/stories/nfl/ugly-showing-3-takeaways-from-packers-low-scoring-victory-over-buccaneers",
-      "summary": "The Packers won in ugly fashion in a battle of two teams in need of a win.",
-      "published": "Sun, 04 Oct 2026 17:06:06 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
+        "DAL",
         "TB"
       ]
     },
     {
-      "title": "How the Rams, Cowboys, Patriots pulled Week 4 comebacks to save their seasons",
-      "url": "https://www.espn.com/nfl/story/_/id/50100800/week-4-rams-cowboys-patriots-comeback-wins-save-season",
-      "summary": "The Rams, Cowboys and Pats were all looking at 1-3 ... then everything changed. How did a trio of stunning rallies play out -- and are these teams all back on track at 2-2?",
-      "published": "2026-10-05T12:17:52Z",
+      "title": "Cardinals LT Paris Johnson out for season after tearing biceps",
+      "url": "https://www.espn.com/nfl/story/_/id/50112533/cardinals-lt-paris-johnson-season-tearing-biceps",
+      "summary": "Cardinals starting left tackle Paris Johnson Jr. is out for the season after tearing his left biceps in a 36-24 loss to the New York Giants on Sunday.",
+      "published": "2026-10-06T00:56:13Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ARI",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Sources: Seahawks plan to sign RB Joe Mixon to practice squad",
+      "url": "https://www.espn.com/nfl/story/_/id/50112493/seahawks-signing-rb-joe-mixon-workout-source-says",
+      "summary": "The Seahawks plan to sign veteran running back Joe Mixon to their practice squad as long as he passes his physical, sources told ESPN.",
+      "published": "2026-10-06T01:32:19Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SEA"
+      ]
+    },
+    {
+      "title": "Chargers OT Rashawn Slater dealing with high ankle sprain",
+      "url": "https://www.espn.com/nfl/story/_/id/50112395/sources-chargers-ot-rashawn-slater-high-ankle-sprain",
+      "summary": "Chargers offensive tackle Rashawn Slater suffered a high right ankle sprain in Sunday's loss to the Seahawks in Seattle, coach Jim Harbaugh said Monday.",
+      "published": "2026-10-06T00:03:31Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL",
+        "LAC",
+        "SEA"
+      ]
+    },
+    {
+      "title": "McVay: Rams coaches will 'learn' from incident with Eagles fans",
+      "url": "https://www.espn.com/nfl/story/_/id/50112291/mcvay-rams-coaches-learn-incident-eagles-fans",
+      "summary": "Rams coach Sean McVay says his assistant coaches will learn from their viral interaction with Eagles fans during Sunday's win over Philadelphia.",
+      "published": "2026-10-05T22:51:19Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
         "LA",
-        "NE"
+        "PHI"
       ]
     },
     {
-      "title": "Cowboys flip script after Rio loss with key win over Texans",
-      "url": "https://www.espn.com/nfl/story/_/id/50105860/dallas-cowboys-ceedee-lamb-dak-texans",
-      "summary": "A week after everything went wrong late against the Ravens, Dallas rebounded with a winning drive Sunday.",
-      "published": "2026-10-05T10:00:11Z",
+      "title": "Sources: Eagles RB Bigsby headed to IR, Barkley week-to-week",
+      "url": "https://www.espn.com/nfl/story/_/id/50111928/sources-eagles-rb-tank-bigsby-surgery-headed-ir",
+      "summary": "Eagles running back Tank Bigsby sustained a core muscle injury Sunday that requires surgery, sources told NFL Network's Ian Rapoport.",
+      "published": "2026-10-06T01:10:04Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Pat Surtain II out with an ankle injury: How will the Denver Broncos adjust?",
+      "url": "https://www.espn.com/nfl/story/_/id/50110612/pat-surtain-ii-injury-denver-broncos-defense-effects",
+      "summary": "While Surtain was able to avoid a long-term, season-ending injury, the loss of him and Riley Moss puts the Broncos in a short-term bind.",
+      "published": "2026-10-05T21:06:16Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DEN"
+      ]
+    },
+    {
+      "title": "Bills CB Maxwell Hairston sorry for skipping media, addresses struggles",
+      "url": "https://www.espn.com/nfl/story/_/id/50111808/bills-cb-maxwell-hairston-sorry-skipping-media-addresses-struggles",
+      "summary": "A day after skipping out on the media, Bills cornerback Maxwell Hairston held an impromptu news conference to apologize and provide context for his early-season struggles.",
+      "published": "2026-10-05T21:34:58Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL",
-        "DAL",
-        "HOU"
+        "BUF"
       ]
     },
     {
-      "title": "Is Bijan Robinson the NFL's top RB? He is when he's in primetime",
-      "url": "https://www.espn.com/nfl/story/_/id/50101403/falcons-bijan-robinson-prime-mnf",
-      "summary": "Bijan Robinson has the most scrimmage yards per game in primetime, and he'll get a chance to keep it rolling on 'Monday Night Football' this week.",
-      "published": "2026-10-05T11:48:59Z",
+      "title": "Bengals WR Tee Higgins day-to-day with adductor injury, coach says",
+      "url": "https://www.espn.com/nfl/story/_/id/50111779/bengals-wr-tee-higgins-day-day-adductor-injury-coach-says",
+      "summary": "Bengals wide receiver Tee Higgins is considered day-to-day with an adductor issue he suffered toward the end of Sunday's 22-17 loss to the Jacksonville Jaguars.",
+      "published": "2026-10-05T22:42:17Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
+      "category": "injury",
+      "teams": [
+        "CIN",
+        "JAX"
+      ]
     },
     {
-      "title": "How Steve Gleason's punt block unified New Orleans, Falcons-Saints rivalry",
-      "url": "https://www.espn.com/nfl/story/_/id/50103536/new-orleans-saints-falcons-gleason-20-years-mnf-rivalry",
-      "summary": "Ahead of Monday's Falcons-Saints game, players and coaches reflect on the storm, the game and a play from 20 years ago.",
-      "published": "2026-10-05T10:00:11Z",
-      "source": "ESPN NFL",
+      "title": "Saquon Barkley injury update: Eagles star considered week-to-week, per report",
+      "url": "https://www.cbssports.com/nfl/news/saquon-barkley-hamstring-injury-eagles-week-4-rams/",
+      "summary": "The star running back seems to have avoided a long-term injury",
+      "published": "Tue, 06 Oct 2026 01:12:16 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Sean McVay addresses Rams assistant coaches' viral interaction with Eagles fans",
+      "url": "https://www.cbssports.com/nfl/news/sean-mcvay-addresses-rams-assistant-coaches-viral-interaction-eagles-fans/",
+      "summary": "McVay said he addressed the fourth-quarter exchange with Philadelphia fans and promised the coaching staff will handle high-emotion moments with more composure moving forward",
+      "published": "Mon, 05 Oct 2026 23:49:51 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Saints-Falcons NFL betting promos: Collect nearly $3,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/nfl/news/saints-falcons-nfl-betting-promos-collect-nearly-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Mon, 05 Oct 2026 23:15:42 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -277,51 +533,250 @@
       ]
     },
     {
-      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-05T10:00:29Z",
-      "source": "ESPN NFL",
+      "title": "Fueled by Sean Payton's 'disrespect,' 49ers' Dre Greenlaw dominates Broncos and lets former coach know",
+      "url": "https://www.cbssports.com/nfl/news/sean-paytons-disrespect-49ers-dre-greenlaw-dominates-broncos/",
+      "summary": "The linebacker led San Francisco with 12 tackles in Sunday's win before opening up about feeling ignored and disrespected during his lone season in Denver",
+      "published": "Mon, 05 Oct 2026 23:10:23 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "SF"
+      ]
+    },
+    {
+      "title": "Saints vs. Falcons picks, player props: Expert's best bets for NFL Week 4 Monday Night Football",
+      "url": "https://www.cbssports.com/betting/news/saints-vs-falcons-picks-player-props-experts-best-bets-for-nfl-week-4-monday-night-football/",
+      "summary": "Target a high-scoring NFC South clash in New Orleans with top player props for Bijan Robinson and Chris Olave, plus value on anytime touchdowns",
+      "published": "Mon, 05 Oct 2026 23:01:22 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "NO"
+      ]
+    },
+    {
+      "title": "Seahawks signing Joe Mixon to aid depleted RB room, per report",
+      "url": "https://www.cbssports.com/nfl/news/seahawks-signing-veteran-rb-joe-mixon/",
+      "summary": "Mixon missed the entire 2025 season with a foot injury, but he ran over 1,000 yards and over 10 TD in 2024",
+      "published": "Mon, 05 Oct 2026 22:40:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SEA"
+      ]
+    },
+    {
+      "title": "Saints vs. Falcons odds, predictions, start time, betting preview: Monday Night Football picks, best bets",
+      "url": "https://www.cbssports.com/betting/news/saints-vs-falcons-odds-predictions-start-time-betting-preview-monday-night-football-picks-best-bets/",
+      "summary": "Best bets and betting preview for Falcons vs. Saints on Monday Night Football",
+      "published": "Mon, 05 Oct 2026 22:40:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "NO"
+      ]
+    },
+    {
+      "title": "Saints vs. Falcons prediction: Michael Penix Jr. leads Atlanta into New Orleans",
+      "url": "https://www.cbssports.com/nfl/news/saints-vs-falcons-how-to-watch-tv-channel-live-stream-kickoff-time-prediction/",
+      "summary": "The NFC South rivals meet Monday night in New Orleans as Michael Penix Jr. and the Falcons look to build on their first win of the season",
+      "published": "Mon, 05 Oct 2026 21:31:02 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "NO"
+      ]
+    },
+    {
+      "title": "NFL just doled out a punishment it hasn't used in 8 years -- to two separate offenders",
+      "url": "https://www.cbssports.com/nfl/news/nfl-doled-out-punishment-not-used-8-years-officials/",
+      "summary": "A look at how rare it is for an NFL official to be punished by the league",
+      "published": "Mon, 05 Oct 2026 21:02:39 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Joe Burrow after 2nd straight loss: Not 'Armageddon'",
-      "url": "https://www.espn.com/nfl/story/_/id/50105859/bengals-joe-burrow-armageddon",
-      "summary": "Another Burrow fourth-quarter turnover helped bring the Bengals back to .500, but optimism remains.",
-      "published": "2026-10-05T12:29:00Z",
-      "source": "ESPN NFL",
+      "title": "NFL suspends official Jeff Seeman for incident with Cardinals' Trey McBride",
+      "url": "https://www.cbssports.com/nfl/news/nfl-reviewing-incident-between-official-cardinals-trey-mcbride/",
+      "summary": "The altercation between the two went viral following New York's win over Arizona",
+      "published": "Mon, 05 Oct 2026 20:19:19 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CIN"
+        "ARI"
       ]
     },
     {
-      "title": "With Edgerrin Cooper out, Evan Williams shines for Packers",
-      "url": "https://www.espn.com/nfl/story/_/id/50106379/packers-edgerrin-cooper-achilles-evan-williams",
-      "summary": "The Packers lost one of their two young defensive stars in Cooper (Achilles), but Williams delivered a big game.",
-      "published": "2026-10-05T10:00:11Z",
-      "source": "ESPN NFL",
+      "title": "Tyquan Thornton to have surgery after ankle injury; 'chance' Chiefs WR could return this season, per insider",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-tyquan-thornton-ankle-injury-raiders/",
+      "summary": "Thornton had already established career highs in receiving yards and touchdowns before exiting late in Week 4 vs. the Raiders",
+      "published": "Mon, 05 Oct 2026 20:30:09 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "KC",
+        "LV"
+      ]
+    },
+    {
+      "title": "NFL suspends referee Adrian Hill for unprofessional conduct toward Vikings' Eric Wilson",
+      "url": "https://www.cbssports.com/nfl/news/nfl-reviews-heated-exchange-referee-vikings-eric-wilson/",
+      "summary": "The league reviewed two separate incidents involving a player and an official during Week 4",
+      "published": "Mon, 05 Oct 2026 19:46:16 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "Steve Gleason opens up on how Saints' 'Rebirth' game has kept him alive through ALS battle 20 years later",
+      "url": "https://www.cbssports.com/nfl/news/steve-gleason-opens-up-on-saints-rebirth-game-als-battle-20-years-later/",
+      "summary": "Gleason's blocked punt was a pivotal moment for both the city of New Orleans and himself. Now, 20 years later, he opened up on 'Good Morning America' about his own 'rebirth'",
+      "published": "Mon, 05 Oct 2026 19:40:49 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NO"
+      ]
+    },
+    {
+      "title": "Caleb Williams to miss Bears' Week 5 rivalry game against Packers, Tyson Bagent set for second start",
+      "url": "https://www.cbssports.com/nfl/news/caleb-williams-to-miss-bears-week-5-rivalry-packers-tyson-bagent/",
+      "summary": "The Bears are unbeaten without Williams in the starting lineup",
+      "published": "Mon, 05 Oct 2026 17:54:55 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI",
         "GB"
       ]
     },
     {
-      "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
-      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
-      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
-      "published": "2026-10-05T10:00:21Z",
-      "source": "ESPN NFL",
+      "title": "Pick Six: NFL Week 4 winners and losers, plus grades for every team and Falcons-Saints picks",
+      "url": "https://www.cbssports.com/nfl/news/pick-six-nfl-week-4-winners-losers-plus-grades-falcons-saints/",
+      "summary": "Here's everything you need to know about the NFL for Oct. 5",
+      "published": "Mon, 05 Oct 2026 17:11:52 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
+      "teams": [
+        "ATL",
+        "NO"
+      ]
+    },
+    {
+      "title": "NFL Week 4 injury panic meter: Concern for Ja'Marr Chase as Lamar Jackson gets good news",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-injuries-updates-on-lamar-jackson-jamarr-chase/",
+      "summary": "We assess the latest injury news surrounding Lamar Jackson, Ja'Marr Chase, Saquon Barkley and the other prominent players hurt in Week 4",
+      "published": "Mon, 05 Oct 2026 16:47:13 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "Patriots' Mike Vrabel fires back at Bills' C.J. Gardner-Johnson for jab at Efton Chism III",
+      "url": "https://www.cbssports.com/nfl/news/patriots-mike-vrabel-efton-chism-c-j-gardner-johnson/",
+      "summary": "Gardner-Johnson called Chism a 'practice squad player' and suggested the Patriots receiver could not replicate his spectacular game-winning catch",
+      "published": "Mon, 05 Oct 2026 16:55:00 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BUF",
+        "NE"
+      ]
+    },
+    {
+      "title": "Dan Campbell 'not talking about' defensive overhaul. Without one Lions are wasting their Super Bowl window",
+      "url": "https://www.cbssports.com/nfl/news/dan-campbell-lions-wasting-super-bowl-window-defensive-overhaul/",
+      "summary": "With the defense bottoming out in 2026, Campbell needs to make changes in order to take his team back to the championship conversation",
+      "published": "Mon, 05 Oct 2026 16:09:45 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "Travis Kelce closing in on NFL history, could climb to No. 5 on all-time receptions list in coming weeks",
+      "url": "https://www.cbssports.com/nfl/news/travis-kelce-career-receptions-chiefs-nfl-2026/",
+      "summary": "Kelce is tied with Tim Brown for seventh in NFL history and needs nine catches to take sole possession of fifth place",
+      "published": "Mon, 05 Oct 2026 15:40:41 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Jim Harbaugh defends Mike McDaniel despite 0-4 start, Justin Herbert earns ugly Chargers honor",
+      "url": "https://www.cbssports.com/nfl/news/chargers-jim-harbaugh-defends-mike-mcdaniel-despite-0-4-start/",
+      "summary": "Los Angeles is struggling on offense and its franchise quarterback is a shell of himself",
+      "published": "Mon, 05 Oct 2026 15:13:13 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
+      "title": "Bryce Young shines again: How former No. 1 pick went from benched to leading NFL in passing",
+      "url": "https://www.cbssports.com/nfl/news/panthers-bryce-young-shines-again-breaking-down-hot-start/",
+      "summary": "Down two of his top wide receivers, Young threw for 329 yards and two scores on 'Sunday Night Football' vs. the Lions",
+      "published": "Mon, 05 Oct 2026 15:33:02 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "Superstar injury updates from NFL Week 4; Alabama, Florida CFP paths diverge",
+      "url": "https://www.cbssports.com/nfl/news/superstar-injury-updates-from-nfl-week-4-alabama-florida-cfp-paths-diverge/",
+      "summary": "Plus, winners and losers from MLB and WNBA playoffs",
+      "published": "Mon, 05 Oct 2026 13:04:16 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
       "teams": []
     },
     {
@@ -380,36 +835,10 @@
       ]
     },
     {
-      "title": "NFL reviewing heated exchange between referee, Vikings' Eric Wilson",
-      "url": "https://www.cbssports.com/nfl/news/nfl-reviews-heated-exchange-referee-vikings-eric-wilson/",
-      "summary": "The league is looking into two separate incidents involving a player and an official during Week 4",
-      "published": "Mon, 05 Oct 2026 02:29:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "NFL reviewing incident between official and Cardinals' Trey McBride, NFLPA issues statement",
-      "url": "https://www.cbssports.com/nfl/news/nfl-reviewing-incident-between-official-cardinals-trey-mcbride/",
-      "summary": "The altercation between the two went viral following New York's win over Arizona",
-      "published": "Mon, 05 Oct 2026 01:59:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI"
-      ]
-    },
-    {
       "title": "Eagles' offense completely collapses vs. Rams: Who's to blame and what needs to change",
       "url": "https://www.cbssports.com/nfl/news/eagles-collapse-vs-rams-whos-to-blame-nick-sirianni-jalen-hurts/",
       "summary": "The offensive meltdown after having the chance to deliver the knockout punch to Los Angeles highlights an uncomfortable truth in Philadelphia",
-      "published": "Mon, 05 Oct 2026 01:04:38 +0000",
+      "published": "Mon, 05 Oct 2026 13:56:39 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -451,7 +880,7 @@
       "title": "Week 4 overreactions: Should Rams still be Super Bowl favorites? Cowboys to win NFC East?",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-4-overreactions-rams-jaguars-cowboys-win-nfc-east/",
       "summary": "Plus, why Ben Johnson won't win Coach of the Year",
-      "published": "Sun, 04 Oct 2026 23:53:22 +0000",
+      "published": "Mon, 05 Oct 2026 13:55:13 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -459,247 +888,6 @@
       "teams": [
         "DAL",
         "LA"
-      ]
-    },
-    {
-      "title": "Jayden Daniels update: Dan Quinn says 'the hope' is for Commanders QB to return in Week 5",
-      "url": "https://www.cbssports.com/nfl/news/commanders-jayden-daniels-update-hope-week-5-return/",
-      "summary": "The plan is for Daniels to practice in full this week",
-      "published": "Sun, 04 Oct 2026 23:06:51 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "WAS"
-      ]
-    },
-    {
-      "title": "Panthers vs. Lions picks, prediction, player props: Expert's NFL Week 4 best bets for Sunday Night Football",
-      "url": "https://www.cbssports.com/betting/news/panthers-vs-lions-picks-prediction-player-props-experts-nfl-week-4-best-bets-for-sunday-night-football/",
-      "summary": "Targeting a high-scoring shootout in Charlotte, our betting picks back Jahmyr Gibbs in the passing game and Darren Waller to stay heavily involved",
-      "published": "Sun, 04 Oct 2026 23:01:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "DET"
-      ]
-    },
-    {
-      "title": "Broncos' Patrick Surtain II exits 49ers game with non-contact ankle injury",
-      "url": "https://www.cbssports.com/nfl/news/patrick-surtain-ankle-injury-update-broncos-2026/",
-      "summary": "The 2024 Defensive Player of the Year is officially questionable to return after exiting late in the first half",
-      "published": "Sun, 04 Oct 2026 22:26:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN",
-        "SF"
-      ]
-    },
-    {
-      "title": "Mike Vrabel calls out official after being penalized during Patriots win over Bills",
-      "url": "https://www.cbssports.com/nfl/news/mike-vrabel-calls-out-official-after-being-penalized-patriots-bills/",
-      "summary": "Vrabel's team overcame his penalty, which led to a Bills touchdown",
-      "published": "Sun, 04 Oct 2026 22:27:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "NE"
-      ]
-    },
-    {
-      "title": "CeeDee Lamb makes Cowboys history, caps career day with winning TD vs. Texans",
-      "url": "https://www.cbssports.com/nfl/news/ceedee-lamb-stats-cowboys-record-texans/",
-      "summary": "The five-time Pro Bowler erupted for 11 catches and 140 yards after halftime before scoring the decisive touchdown with 40 seconds remaining",
-      "published": "Sun, 04 Oct 2026 22:13:14 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "HOU"
-      ]
-    },
-    {
-      "title": "Packers fear Edgerrin Cooper suffered torn Achilles in win over Buccaneers",
-      "url": "https://www.cbssports.com/nfl/news/packers-fear-edgerrin-cooper-suffered-torn-achilles-in-win-over-buccaneers/",
-      "summary": "Matt LaFleur called the injury \"not good\" after the game, and the emerging defensive star is suspected to miss the rest of the year after being carted off against Tampa Bay",
-      "published": "Sun, 04 Oct 2026 21:18:21 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "GB",
-        "TB"
-      ]
-    },
-    {
-      "title": "Lamar Jackson injury: Ravens QB being monitored, considered day-to-day after exiting vs. Titans",
-      "url": "https://www.cbssports.com/nfl/news/ravens-lamar-jackson-injury-tyler-huntley-titans/",
-      "summary": "Tyler Huntley opened the second half at quarterback with Baltimore leading Tennessee 24-7",
-      "published": "Sun, 04 Oct 2026 20:56:55 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Week 4 NFL betting promos: Collect nearly $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/nfl/news/week-4-nfl-betting-promos-collect-nearly-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Sun, 04 Oct 2026 19:30:18 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Bill Belichick joins Giants' 1986 reunion following North Carolina's loss to Notre Dame",
-      "url": "https://www.cbssports.com/nfl/news/bill-belichick-joins-giants-reunion-following-north-carolinas-loss/",
-      "summary": "Belichick quickly revisited one of his biggest NFL moments",
-      "published": "Sun, 04 Oct 2026 22:01:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Chiefs vs. Raiders odds, picks, prediction, spread, line: Start time, betting preview, best bets on NFL Week 4",
-      "url": "https://www.cbssports.com/betting/news/chiefs-vs-raiders-odds-picks-prediction-spread-line-start-time-betting-preview-best-bets-on-nfl-week-4/",
-      "summary": "Here's everything bettors need to know as Patrick Mahomes and the Chiefs visit Kirk Cousins and the Raiders in NFL Week 4",
-      "published": "Sun, 04 Oct 2026 19:01:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "LV"
-      ]
-    },
-    {
-      "title": "Bengals' Ja'Marr Chase declared out after suffering a concussion vs. Jaguars",
-      "url": "https://www.cbssports.com/nfl/news/jamarr-chase-injury-update-bengals-jaguars/",
-      "summary": "Chase suffered a nasty hit during the second quarter",
-      "published": "Sun, 04 Oct 2026 18:48:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CIN",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Jets intercept first pass in 637 days, end depressing NFL record 20-game interceptionless streak",
-      "url": "https://www.cbssports.com/nfl/news/jets-intercept-first-pass-end-nfl-record-interceptionless-streak/",
-      "summary": "New York five-time Pro Bowl safety Minkah Fitzpatrick ends the Jets' historic interception drought",
-      "published": "Sun, 04 Oct 2026 18:58:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Saquon Barkley injury: Eagles RB ruled out after injuring hamstring vs. Rams",
-      "url": "https://www.cbssports.com/nfl/news/saquon-barkley-hamstring-injury-eagles-week-4-rams/",
-      "summary": "Barkley suffered an injury early on for the Eagles",
-      "published": "Sun, 04 Oct 2026 18:18:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Odell Beckham Jr. addresses Giants cutting him: 'I shoulda known better'",
-      "url": "https://www.cbssports.com/nfl/news/odell-beckham-jr-released-giants-comments-2026/",
-      "summary": "In his first public comments since being released, Beckham said the Giants \"won\" from the attention surrounding his return",
-      "published": "Sun, 04 Oct 2026 17:49:22 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Travis Kelce closing in on NFL history, could climb to No. 5 on all-time receptions list vs. Raiders",
-      "url": "https://www.cbssports.com/nfl/news/travis-kelce-career-receptions-chiefs-nfl-2026/",
-      "summary": "Kelce is tied with Tim Brown for seventh in NFL history and needs nine catches to take sole possession of fifth place",
-      "published": "Sun, 04 Oct 2026 16:45:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LV"
-      ]
-    },
-    {
-      "title": "Could the NFL scheduling formula undergo a massive change? Jerry Jones hints at one possible future tweak",
-      "url": "https://www.cbssports.com/nfl/news/jerry-jones-hints-at-possible-change-nfl-scheduling-formula/",
-      "summary": "The NFL last tweaked its scheduling formula in 2021, but it's remained largely untouched for 24 years",
-      "published": "Sun, 04 Oct 2026 16:47:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Jaguars vs. Bengals odds, picks, prediction, spread, line: NFL Week 4 start time, betting preview, best bets",
-      "url": "https://www.cbssports.com/betting/news/jaguars-vs-bengals-odds-picks-prediction-spread-line-nfl-week-4-start-time-betting-preview-best-bets/",
-      "summary": "Here's everything bettors need to know for Jaguars vs. Bengals in NFL Week 4 action",
-      "published": "Sun, 04 Oct 2026 16:01:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Jets vs. Bears odds, picks, prediction, spread, line: Start time, betting preview, best bets for NFL Week 4",
-      "url": "https://www.cbssports.com/betting/news/jets-vs-bears-odds-picks-prediction-spread-line-start-time-betting-preview-best-bets-for-nfl-week-4/",
-      "summary": "Here's everything bettors need to know for when the Jets clash with the Bears in Chicago",
-      "published": "Sun, 04 Oct 2026 16:00:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "NYJ"
       ]
     }
   ],
