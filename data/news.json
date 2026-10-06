@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-06T08:05:53.356738+00:00",
-  "checked_at_utc": "2026-10-06T08:05:53.356738+00:00",
+  "updated_at_utc": "2026-10-06T15:06:22.521097+00:00",
+  "checked_at_utc": "2026-10-06T15:06:22.521097+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 6,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -20,6 +20,35 @@
     }
   },
   "items": [
+    {
+      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
+      "summary": "The Chiefs have returned to form and the Niners are streaking early. See the latest NFL postseason odds.",
+      "published": "Tue, 06 Oct 2026 10:18:07 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "SF"
+      ]
+    },
+    {
+      "title": "2026 Super Bowl Odds: Rams Favored After Comeback Over Eagles; Falcons Soar",
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "summary": "The Rams stand alone atop the Super Bowl oddsboard after a dramatic comeback, while the Falcons soar after two dominant wins. See the latest odds after Week 4.",
+      "published": "Tue, 06 Oct 2026 09:46:44 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "LA",
+        "PHI"
+      ]
+    },
     {
       "title": "NFL Week 4 All-Stars: Drake Maye Is Back; Kenneth Walker Might Be A Mainstay",
       "url": "https://www.foxsports.com/stories/nfl/nfl-week-4-all-stars-drake-maye-kenneth-walker-ceedee-lamb-tetairoa-mcmillan-patriots-chiefs-cowboys",
@@ -46,21 +75,6 @@
       ]
     },
     {
-      "title": "2026 Super Bowl Odds: Rams Favored After Comeback Over Eagles; Falcons Soar",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "summary": "The Rams stand alone atop the Super Bowl oddsboard after a dramatic comeback, while the Falcons soar after two dominant wins. See the latest odds after Week 4.",
-      "published": "Tue, 06 Oct 2026 00:07:04 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "LA",
-        "PHI"
-      ]
-    },
-    {
       "title": "NFL Week 4 Plays That Stood Out: Dak Prescott Carves Up Houston; Drake Maye Delivers",
       "url": "https://www.foxsports.com/stories/nfl/nfl-week-4-plays-that-stood-out-drake-maye-dak-prescott",
       "summary": "Here are the plays that stood out from NFL Week 4, from Drake Maye's heroics to Dak Prescott's big game vs. Houston.",
@@ -84,17 +98,6 @@
         "ATL",
         "NO"
       ]
-    },
-    {
-      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
-      "summary": "Week 4 is in the books, and two expected Super Bowl contenders are fading. See the latest NFL postseason odds.",
-      "published": "Mon, 05 Oct 2026 23:28:39 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "NFL Best And Worst: From CeeDee Lamb\u2019s Sizzle To The Eagles' Offensive Fizzle",
@@ -339,11 +342,122 @@
       ]
     },
     {
-      "title": "Boos rain down from Superdome stands in Saints' blowout loss",
-      "url": "https://www.espn.com/nfl/story/_/id/50115183/boos-rain-superdome-stands-saints-blowout-loss",
-      "summary": "New Orleans quarterback Tyler Shough understood the fans' frustration after the 1-3 Saints dropped a 45-24 decision to the Atlanta Falcons on Monday night, telling reporters after the loss that \"we had some opportunities that we didn't take advantage of.\"",
-      "published": "2026-10-06T07:08:15Z",
+      "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
+      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+      "published": "2026-10-06T14:53:36Z",
       "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Sources: Ravens QB Lamar Jackson dealing with ankle sprain",
+      "url": "https://www.espn.com/nfl/story/_/id/50116449/sources-ravens-qb-lamar-jackson-dealing-ankle-sprain",
+      "summary": "Lamar Jackson is dealing with a sprained ankle that gives the Ravens QB only an outside chance to play Sunday against the Falcons, sources told NFL Network.",
+      "published": "2026-10-06T13:39:43Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ATL",
+        "BAL"
+      ]
+    },
+    {
+      "title": "2026 NFL pass rush, run stop, blocking win rate rankings",
+      "url": "https://www.espn.com/nfl/story/_/id/49742016/2026-win-rates-team-player-rankings-pass-rush-run-stop-blocking",
+      "summary": "Our win rate metrics stack the NFL's top teams and players in run blocking, run stopping, pass protection and pass rushing.",
+      "published": "2026-10-06T13:19:52Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 5 NFL odds, spreads, totals, betting lines, for all 16 games, including Buccaneers-Cowboys, Bears-Packers",
+      "url": "https://www.cbssports.com/betting/news/week-5-nfl-betting-odds-lines-totals-spreads/",
+      "summary": "The Week 5 NFL schedule is here, featuring pivotal matchups like Cowboys vs. Buccaneers, 49ers vs. Seahawks and Bills vs. Rams",
+      "published": "Tue, 06 Oct 2026 14:28:37 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "CHI",
+        "DAL",
+        "GB",
+        "LA",
+        "SEA",
+        "SF",
+        "TB"
+      ]
+    },
+    {
+      "title": "Tyler Shough reacts to fans booing after Saints blowout loss to Falcons: 'I'd boo, too'",
+      "url": "https://www.cbssports.com/nfl/news/tyler-shough-reacts-to-fans-booing-after-saints-loss-falcons/",
+      "summary": "New Orleans was blown out by the Falcons on 'Monday Night Football'",
+      "published": "Tue, 06 Oct 2026 14:28:08 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "NO"
+      ]
+    },
+    {
+      "title": "How non-first-round rookies are faring this NFL season: Denzel Boston among the leaders of the pack",
+      "url": "https://www.cbssports.com/nfl/news/how-non-first-round-rookies-faring-this-nfl-season-denzel-boston/",
+      "summary": "A look at the non-Day 1 selections making an impact on this NFL season, including Browns wideout Denzel Boston and Titans linebacker Anthony Hill Jr",
+      "published": "Tue, 06 Oct 2026 13:37:03 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "TEN"
+      ]
+    },
+    {
+      "title": "Lamar Jackson injury update: Ravens QB dealing with ankle sprain; Week 5 status still unknown, per report",
+      "url": "https://www.cbssports.com/nfl/news/lamar-jackson-injury-update-ravens-qb-dealing-with-ankle-sprain/",
+      "summary": "Jackson injured his ankle in the first half of Sunday's win over the Titans",
+      "published": "Tue, 06 Oct 2026 13:35:24 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "TEN"
+      ]
+    },
+    {
+      "title": "False hope in Buffalo? Why Josh Allen's, Bills' 3-1 start isn't as impressive as it seems",
+      "url": "https://www.cbssports.com/nfl/news/why-josh-allen-buffalo-bills-3-1-start-isnt-impressive-as-it-seems/",
+      "summary": "Are the Bills good, or is their schedule just easy?",
+      "published": "Tue, 06 Oct 2026 13:15:20 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF"
+      ]
+    },
+    {
+      "title": "Yankees staring at sweep after ALDS Game 2 loss to Rays; Falcons run roughshod over Saints on 'MNF'",
+      "url": "https://www.cbssports.com/mlb/news/yankees-sweep-alds-loss-rays-falcons-saints-mnf/",
+      "summary": "Plus, Oregon got good news about star QB Dante Moore",
+      "published": "Tue, 06 Oct 2026 12:52:19 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
@@ -353,71 +467,86 @@
       ]
     },
     {
-      "title": "Resurgent Falcons score 80 points in two-game winning streak",
-      "url": "https://www.espn.com/nfl/story/_/id/50114987/resurgent-falcons-score-80-points-two-game-winning-streak",
-      "summary": "The 2-2 Falcons had a combined 16 points, the lowest total in the NFL, through two weeks, but after a 45-24 victory over the rival New Orleans Saints on \"Monday Night Football,\" Atlanta now has a league-high 80 combined points in a two-game winning surge.",
-      "published": "2026-10-06T06:26:40Z",
-      "source": "ESPN NFL",
+      "title": "NFL head coach hot seat rankings: Ranking 10 coaches whose jobs might be in jeopardy",
+      "url": "https://www.cbssports.com/nfl/news/nfl-head-coach-hot-seat-rankings-jim-harbaugh-todd-bowles/",
+      "summary": "There was a lot of turnover after the 2025 season, and several head coaches are already sitting on a pretty warm seat four games into 2026",
+      "published": "Tue, 06 Oct 2026 14:30:57 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 5 picks and score predictions: Ravens and Bills both lose, 49ers win thriller over Seahawks",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-5-picks-score-predictions-ravens-bills-49ers/",
+      "summary": "Here's your weekly dose of John Breech's NFL picks",
+      "published": "Tue, 06 Oct 2026 13:52:14 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL",
-        "NO"
+        "BAL",
+        "BUF",
+        "SEA",
+        "SF"
       ]
     },
     {
-      "title": "Co-defendant of Arnold sentenced to 10 years in Florida case",
-      "url": "https://www.espn.com/nfl/story/_/id/50114896/co-defendant-arnold-sentenced-10-years-florida-case",
-      "summary": "A co-defendant of Terrion Arnold was sentenced to 10 years in Florida after pleading guilty to his role in the robbery and kidnapping case that also involves the Seattle Seahawks cornerback, the Hillsborough County State Attorney's Office said Monday.",
-      "published": "2026-10-06T05:27:00Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 4 lessons: 49ers look like the league's best while Kirk Cousins proves he still has it",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-lessons-49ers-kirk-cousins-cowboys/",
+      "summary": "The 49ers are rolling behind Shanahan's creativity, Cousins is thriving at age 38 and Dallas has an offense capable of overcoming its defensive flaws",
+      "published": "Tue, 06 Oct 2026 10:54:38 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "SEA"
+        "SF"
       ]
     },
     {
-      "title": "Atlanta's jabs at New Orleans after MNF top Week 4 trolls",
-      "url": "https://www.espn.com/nfl/story/_/id/50105587/nfl-week-4-2026-trolls",
-      "summary": "The calendar shifted to October, and the trolls are becoming a little more impactful, led by the Atlanta Falcons.",
-      "published": "2026-10-06T04:16:25Z",
-      "source": "ESPN NFL",
+      "title": "Revisiting the Sauce Gardner trade: Jets sitting pretty as blockbuster blowing up in Colts face",
+      "url": "https://www.cbssports.com/nfl/news/revisiting-sauce-gardner-trade-new-york-jets-indianapolis-colts/",
+      "summary": "Indianapolis pulled off an in-season blockbuster for Gardner last year, but it hasn't been as big a slam dunk as they hoped",
+      "published": "Tue, 06 Oct 2026 10:52:48 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "transaction",
       "teams": [
-        "ATL"
+        "IND",
+        "NYJ"
       ]
     },
     {
-      "title": "Bijan Robinson powers Falcons past Saints 45-24 on the 20th anniversary of the Superdome's reopening",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872979",
-      "summary": "\u2014 Bijan Robinson ensured there would be no punt to block this time \u2014 and the Atlanta Falcons were off and running.",
-      "published": "2026-10-06T03:39:27Z",
-      "source": "ESPN NFL",
+      "title": "AFC team grades: Chiefs among four teams in 'A' range, three teams receive 'F' after four games played",
+      "url": "https://www.cbssports.com/nfl/news/afc-team-grades-nfl-week-5-chiefs/",
+      "summary": "The reigning conference-champion Patriots are off to an uneven start",
+      "published": "Tue, 06 Oct 2026 10:00:52 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL",
-        "NO"
+        "KC",
+        "NE"
       ]
     },
     {
-      "title": "Bijan Robinson sparks Falcons' rout of division rival Saints",
-      "url": "https://www.espn.com/nfl/story/_/id/50114045/mnf-falcons-saints-bijan-robinson",
-      "summary": "The Falcons rolled over the Saints with Brian Robinson and Bijan Robinson combining for five rushing TDs.",
-      "published": "2026-10-06T04:49:57Z",
-      "source": "ESPN NFL",
+      "title": "Prisco's NFL Week 5 Power Rankings: Chargers and Texans a disaster, Browns climb up nine spots",
+      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-5-power-rankings-chargers-and-texans-a-disaster-browns-climb-up-nine-spots/",
+      "summary": "Pete Prisco shares his latest Power Rankings for the 2026 NFL season, including some big climbs up the board for some of last week's top teams",
+      "published": "Tue, 06 Oct 2026 09:00:50 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL",
-        "NO"
+        "CLE",
+        "HOU",
+        "LAC"
       ]
     },
     {
@@ -673,164 +802,6 @@
       "category": "game",
       "teams": [
         "DET"
-      ]
-    },
-    {
-      "title": "Travis Kelce closing in on NFL history, could climb to No. 5 on all-time receptions list in coming weeks",
-      "url": "https://www.cbssports.com/nfl/news/travis-kelce-career-receptions-chiefs-nfl-2026/",
-      "summary": "Kelce is tied with Tim Brown for seventh in NFL history and needs nine catches to take sole possession of fifth place",
-      "published": "Mon, 05 Oct 2026 15:40:41 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Jim Harbaugh defends Mike McDaniel despite 0-4 start, Justin Herbert earns ugly Chargers honor",
-      "url": "https://www.cbssports.com/nfl/news/chargers-jim-harbaugh-defends-mike-mcdaniel-despite-0-4-start/",
-      "summary": "Los Angeles is struggling on offense and its franchise quarterback is a shell of himself",
-      "published": "Mon, 05 Oct 2026 15:13:13 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "Bryce Young shines again: How former No. 1 pick went from benched to leading NFL in passing",
-      "url": "https://www.cbssports.com/nfl/news/panthers-bryce-young-shines-again-breaking-down-hot-start/",
-      "summary": "Down two of his top wide receivers, Young threw for 329 yards and two scores on 'Sunday Night Football' vs. the Lions",
-      "published": "Mon, 05 Oct 2026 15:33:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "Superstar injury updates from NFL Week 4; Alabama, Florida CFP paths diverge",
-      "url": "https://www.cbssports.com/nfl/news/superstar-injury-updates-from-nfl-week-4-alabama-florida-cfp-paths-diverge/",
-      "summary": "Plus, winners and losers from MLB and WNBA playoffs",
-      "published": "Mon, 05 Oct 2026 13:04:16 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 5 early odds: Bears favorites at Lambeau, Bills underdogs to Rams",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-5-odds-lines-spreads-betting-2026/",
-      "summary": "Los Angeles is a slight favorite against Buffalo in a potential Super Bowl preview, while Chicago enters Lambeau Field favored over Green Bay",
-      "published": "Mon, 05 Oct 2026 12:01:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "CHI",
-        "LA"
-      ]
-    },
-    {
-      "title": "Cover 32: Packers don't instill any faith on possible playoff run, plus game balls, biggest gaffes from Week 4",
-      "url": "https://www.cbssports.com/nfl/news/nfl-cover-32-packers-ceedee-lamb-week-4/",
-      "summary": "Tyler Sullivan dives into all the biggest items from Week 4 in the NFL, including CeeDee Lamb's historic day and Mike Vrabel's bizarre tiff",
-      "published": "Mon, 05 Oct 2026 11:34:17 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB"
-      ]
-    },
-    {
-      "title": "Chiefs very interested in a Tyreek Hill reunion amid injuries at receiver, per report",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-interested-tyreek-hill-reunion-amid-injuries-at-receiver/",
-      "summary": "Kansas City has reportedly reached out to Hill's agent",
-      "published": "Mon, 05 Oct 2026 02:54:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "KC"
-      ]
-    },
-    {
-      "title": "Eagles' offense completely collapses vs. Rams: Who's to blame and what needs to change",
-      "url": "https://www.cbssports.com/nfl/news/eagles-collapse-vs-rams-whos-to-blame-nick-sirianni-jalen-hurts/",
-      "summary": "The offensive meltdown after having the chance to deliver the knockout punch to Los Angeles highlights an uncomfortable truth in Philadelphia",
-      "published": "Mon, 05 Oct 2026 13:56:39 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "PHI"
-      ]
-    },
-    {
-      "title": "NFL Week 4 winners and losers: Drake Maye delivers, Texans' season slips away",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-winners-losers-drake-maye-texans/",
-      "summary": "Maye rediscovered his 2025 form against the Bills, while Houston's latest loss left its playoff hopes hanging by a thread",
-      "published": "Mon, 05 Oct 2026 00:04:49 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "HOU"
-      ]
-    },
-    {
-      "title": "Lions vs. Panthers odds, predictions, betting preview, start time: Sunday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/lions-vs-panthers-odds-predictions-betting-preview-start-time-sunday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Lions vs. Panthers on Sunday Night Football",
-      "published": "Sun, 04 Oct 2026 23:59:20 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "DET"
-      ]
-    },
-    {
-      "title": "Week 4 overreactions: Should Rams still be Super Bowl favorites? Cowboys to win NFC East?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-4-overreactions-rams-jaguars-cowboys-win-nfc-east/",
-      "summary": "Plus, why Ben Johnson won't win Coach of the Year",
-      "published": "Mon, 05 Oct 2026 13:55:13 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "LA"
-      ]
-    },
-    {
-      "title": "Jayden Daniels update: Dan Quinn says 'the hope' is for Commanders QB to return in Week 5",
-      "url": "https://www.cbssports.com/nfl/news/commanders-jayden-daniels-update-hope-week-5-return/",
-      "summary": "The plan is for Daniels to practice in full this week",
-      "published": "Sun, 04 Oct 2026 23:06:51 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "WAS"
       ]
     }
   ],
