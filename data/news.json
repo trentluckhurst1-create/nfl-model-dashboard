@@ -1,27 +1,79 @@
 {
-  "updated_at_utc": "2026-10-06T20:15:09.494748+00:00",
-  "checked_at_utc": "2026-10-06T20:15:09.494748+00:00",
+  "updated_at_utc": "2026-10-06T23:53:21.632154+00:00",
+  "checked_at_utc": "2026-10-06T23:53:21.632154+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 4,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 34
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 24,
+      "items": 22,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "2026 NFL OPOY Odds: Kenneth Walker III, Jahmyr Gibbs Top Board As Favorites",
+      "title": "Falcons Relished Chance To Silence Saints, 'Show The World' How Good They Can Be",
+      "url": "https://www.foxsports.com/stories/nfl/falcons-relished-chance-silence-saints-show-world-how-good-can",
+      "summary": "Our weekly look back on the league starts with Atlanta going into New Orleans and spoiling a long-awaited celebration.",
+      "published": "Tue, 06 Oct 2026 17:34:25 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "NO"
+      ]
+    },
+    {
+      "title": "Eagles' 6-Time Pro Bowl OT Lane Johnson Retires From NFL 4 Games Into Season",
+      "url": "https://www.foxsports.com/stories/nfl/eagles-6-time-pro-bowl-ot-lane-johnson-retires-from-nfl-4-games-season",
+      "summary": "Philadelphia Eagles right tackle Lane Johnson announced his retirement Tuesday, ending a 14-season career spent entirely with the team.",
+      "published": "Tue, 06 Oct 2026 16:29:36 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "2026 NFL DPOY Odds: Will Anderson Jr. Favored; T.J. Watt Surging",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
+      "summary": "Check out the latest odds for the 2026 NFL Defensive Player of the Year award, including a Steeler who's surging.",
+      "published": "Tue, 06 Oct 2026 16:24:23 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Favorite 'Dogs: Back Kentucky To Upset LSU; Giants To Continue Hot Start",
+      "url": "https://www.foxsports.com/stories/nfl/favorite-dogs-back-kentucky-upset-lsu-g-men-over-commanders",
+      "summary": "Find out why Will Hill is wagering on Cats over Tigers and G-Men over Commanders for this week's favorite 'dogs.",
+      "published": "Tue, 06 Oct 2026 16:15:46 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "WAS"
+      ]
+    },
+    {
+      "title": "2026 NFL OPOY Odds: Kenneth Walker III, Jahmyr Gibbs Top Board",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
       "summary": "Check out the latest odds to win the 2026 NFL Offensive Player of the Year award after Week 4.",
       "published": "Tue, 06 Oct 2026 15:22:59 -0400",
@@ -247,88 +299,23 @@
       ]
     },
     {
-      "title": "49ers LB Dre Greenlaw Explains Why He Cussed Out Broncos HC Sean Payton",
-      "url": "https://www.foxsports.com/stories/nfl/49ers-lb-dre-greenlaw-explains-why-he-cussed-out-broncos-hc-sean-payton",
-      "summary": "San Francisco linebacker Dre Greenlaw had some words for Denver coach Sean Payton following the 49ers win on Sunday.",
-      "published": "Mon, 05 Oct 2026 17:28:19 -0400",
-      "source": "FOX Sports NFL",
+      "title": "MVP?! 3 keys to watch if Panthers QB Bryce Young is on that path",
+      "url": "https://www.espn.com/nfl/story/_/id/50119780/carolina-panthers-qb-bryce-young-3-keys-mvp-path",
+      "summary": "The 2023 first-round pick's start -- he leads the NFL with 1,268 passing yards -- puts him in the MVP conversation.",
+      "published": "2026-10-06T22:49:31Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "qb",
       "teams": [
-        "DEN",
-        "SF"
+        "CAR"
       ]
     },
     {
-      "title": "49ers FB Kyle Juszczyk Expected To Miss 2-3 Weeks With Knee Injury",
-      "url": "https://www.foxsports.com/stories/nfl/san-francisco-49ers-kyle-juszczyk-knee-injury",
-      "summary": "San Francisco 49ers fullback Kyle Juszczyk is expected to miss two to three weeks after an MRI on Monday showed a knee sprain and bone bruise.",
-      "published": "Mon, 05 Oct 2026 16:53:51 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "NFL Suspends Official, Referee For Unprofessional Conduct",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-suspends-jeff-seeman-adrian-hill",
-      "summary": "The NFL has suspended line judge Jeff Seeman two games for swearing at Arizona Cardinals tight end Trey McBride during the team\u2019s loss to the New York Giants",
-      "published": "Mon, 05 Oct 2026 16:44:33 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Vikings Likely Lose Left Guard Donovan Jackson For The Regular Season",
-      "url": "https://www.foxsports.com/stories/nfl/minnesota-vikings-donovan-jackson-injury",
-      "summary": "Minnesota Vikings left guard Donovan Jackson likely will miss the rest of the regular season because of a torn meniscus that will require surgery.",
-      "published": "Mon, 05 Oct 2026 15:39:07 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "Bills' Gardner-Johnson Downplays Efton Chism III\u2019s TD: 'A Practice Squad Player'",
-      "url": "https://www.foxsports.com/stories/nfl/cj-gardner-johnson-buffalo-bills-loss-new-england-patriots",
-      "summary": "After catching the go-ahead touchdown against the Buffalo Bills, Efton Chism III finally introduced himself to the league despite C.J. Gardner-Johnson's protests otherwise.",
-      "published": "Mon, 05 Oct 2026 14:43:36 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BUF"
-      ]
-    },
-    {
-      "title": "2026 NFL Bye Weeks Schedule for All 32 Teams",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-bye-weeks-schedule-all-32-teams",
-      "summary": "See the complete 2026 NFL bye-week schedule by week and team, including when every NFL team has its week off.",
-      "published": "Mon, 05 Oct 2026 14:35:18 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Eagles All-Pro RT Lane Johnson retires, ending 14-season NFL career",
+      "title": "Eagles All-Pro Lane Johnson retires, ending 14-season NFL career",
       "url": "https://www.espn.com/nfl/story/_/id/50119122/eagles-all-pro-rt-lane-johnson-reties-ending-14-season-nfl-career",
       "summary": "Eagles two-time All-Pro right tackle Lane Johnson announced his retirement Tuesday, ending a 14-year career spent entirely in Philadelphia.",
-      "published": "2026-10-06T20:14:03Z",
+      "published": "2026-10-06T21:28:10Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -349,28 +336,28 @@
       "teams": []
     },
     {
-      "title": "Source: Seahawks decide not to sign RB Joe Mixon after physical",
-      "url": "https://www.espn.com/nfl/story/_/id/50118173/source-seahawks-decide-not-sign-rb-joe-mixon-physical",
-      "summary": "The Seahawks decided not to sign veteran running back Joe Mixon to their practice squad after he underwent a physical, a source told ESPN's Adam Schefter.",
-      "published": "2026-10-06T19:50:23Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SEA"
-      ]
-    },
-    {
-      "title": "NFL Referees Association to challenge officials' suspensions",
-      "url": "https://www.espn.com/nfl/story/_/id/50117945/nfl-referees-association-challenge-officials-suspensions",
-      "summary": "The NFL Referees Association said it will challenge the severity of the suspensions of two officials for unprofessional conduct.",
-      "published": "2026-10-06T18:29:03Z",
-      "source": "ESPN NFL",
+      "title": "NFL sets penalty record through Week 4 as tensions flare between teams, officials",
+      "url": "https://www.cbssports.com/nfl/news/nfl-sets-penalty-record-through-week-4-officials/",
+      "summary": "Coaches, players and officials have not seen eye to eye during a flag-happy start to the season",
+      "published": "Tue, 06 Oct 2026 21:39:42 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
+    },
+    {
+      "title": "Patriots QB Drake Maye sounds slightly skeptical of the moon landing: 'I'm not 100% sure'",
+      "url": "https://www.cbssports.com/nfl/news/patriots-drake-maye-slightly-skeptical-of-the-moon-landing/",
+      "summary": "Maye isn't entirely sure whether the US landed on the moon or not in 1969, and he had some other thoughts on conspiracy theories",
+      "published": "Tue, 06 Oct 2026 21:17:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "NE"
+      ]
     },
     {
       "title": "Chargers fire sale at NFL trade deadline? Landing spots for Khalil Mack and Tuli Tuipulotu",
@@ -783,60 +770,6 @@
       "category": "game",
       "teams": [
         "ARI"
-      ]
-    },
-    {
-      "title": "Tyquan Thornton to have surgery after ankle injury; 'chance' Chiefs WR could return this season, per insider",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-tyquan-thornton-ankle-injury-raiders/",
-      "summary": "Thornton had already established career highs in receiving yards and touchdowns before exiting late in Week 4 vs. the Raiders",
-      "published": "Mon, 05 Oct 2026 20:30:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "KC",
-        "LV"
-      ]
-    },
-    {
-      "title": "NFL suspends referee Adrian Hill for unprofessional conduct toward Vikings' Eric Wilson",
-      "url": "https://www.cbssports.com/nfl/news/nfl-reviews-heated-exchange-referee-vikings-eric-wilson/",
-      "summary": "The league reviewed two separate incidents involving a player and an official during Week 4",
-      "published": "Mon, 05 Oct 2026 19:46:16 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "Steve Gleason opens up on how Saints' 'Rebirth' game has kept him alive through ALS battle 20 years later",
-      "url": "https://www.cbssports.com/nfl/news/steve-gleason-opens-up-on-saints-rebirth-game-als-battle-20-years-later/",
-      "summary": "Gleason's blocked punt was a pivotal moment for both the city of New Orleans and himself. Now, 20 years later, he opened up on 'Good Morning America' about his own 'rebirth'",
-      "published": "Mon, 05 Oct 2026 19:40:49 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NO"
-      ]
-    },
-    {
-      "title": "Caleb Williams to miss Bears' Week 5 rivalry game against Packers, Tyson Bagent set for second start",
-      "url": "https://www.cbssports.com/nfl/news/caleb-williams-to-miss-bears-week-5-rivalry-packers-tyson-bagent/",
-      "summary": "The Bears are unbeaten without Williams in the starting lineup",
-      "published": "Mon, 05 Oct 2026 17:54:55 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CHI",
-        "GB"
       ]
     }
   ],
