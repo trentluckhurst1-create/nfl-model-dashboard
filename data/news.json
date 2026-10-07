@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-06T23:53:21.632154+00:00",
-  "checked_at_utc": "2026-10-06T23:53:21.632154+00:00",
+  "updated_at_utc": "2026-10-07T04:12:40.264447+00:00",
+  "checked_at_utc": "2026-10-07T04:12:40.264447+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
@@ -11,15 +11,30 @@
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 34
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 22,
+      "items": 23,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Herd Hierarchy: Who's The NFL's New No. 1? Bills Slide As Falcons, Colts Rise",
+      "url": "https://www.foxsports.com/stories/nfl/herd-hierarchy-whos-nfls-new-no-1-bills-slide-falcons-colts-rise",
+      "summary": "Take a look at Colin Cowherd's Week 4 Herd Hierarchy rankings.",
+      "published": "Tue, 06 Oct 2026 19:59:19 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "BUF",
+        "IND"
+      ]
+    },
     {
       "title": "Falcons Relished Chance To Silence Saints, 'Show The World' How Good They Can Be",
       "url": "https://www.foxsports.com/stories/nfl/falcons-relished-chance-silence-saints-show-world-how-good-can",
@@ -84,7 +99,7 @@
       "teams": []
     },
     {
-      "title": "QB Stock Market Week 5: Brock Purdy Doesn't Have An MVP Moment \u2014 And Doesn't Need One",
+      "title": "QB Stock Market Week 5: Don't Overthink Brock Purdy's Proficiency",
       "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-5-brock-purdy-doesnt-have-mvp-moment-doesnt-need-one",
       "summary": "Brock Purdy has been the best quarterback in football. Jalen Hurts will have better days. Will Cam Ward? Here are Henry McKenna's latest QB rankings.",
       "published": "Tue, 06 Oct 2026 14:17:02 -0400",
@@ -299,6 +314,30 @@
       ]
     },
     {
+      "title": "Tyreek Hill's wife recounts assault, verbal abuse at trial",
+      "url": "https://www.espn.com/nfl/story/_/id/50121315/tyreek-hill-wife-recounts-assault-verbal-abuse-trial",
+      "summary": "Tyreek Hill's wife recounted details of assault and verbal abuse during testimony Tuesday on the first day of a civil assault and battery trial in Florida, proceedings that began a day after ESPN reported Hill would potentially sign an NFL contract soon.",
+      "published": "2026-10-07T04:04:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Giants' Berrios says he'll undergo season-ending foot surgery",
+      "url": "https://www.espn.com/nfl/story/_/id/50121196/giants-berrios-says-undergo-season-ending-foot-surgery",
+      "summary": "Giants receiver Braxton Berrios will undergo season-ending surgery on his foot, he announced Tuesday on Instagram.",
+      "published": "2026-10-07T01:35:04Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
       "title": "MVP?! 3 keys to watch if Panthers QB Bryce Young is on that path",
       "url": "https://www.espn.com/nfl/story/_/id/50119780/carolina-panthers-qb-bryce-young-3-keys-mvp-path",
       "summary": "The 2023 first-round pick's start -- he leads the NFL with 1,268 passing yards -- puts him in the MVP conversation.",
@@ -312,11 +351,11 @@
       ]
     },
     {
-      "title": "Eagles All-Pro Lane Johnson retires, ending 14-season NFL career",
-      "url": "https://www.espn.com/nfl/story/_/id/50119122/eagles-all-pro-rt-lane-johnson-reties-ending-14-season-nfl-career",
-      "summary": "Eagles two-time All-Pro right tackle Lane Johnson announced his retirement Tuesday, ending a 14-year career spent entirely in Philadelphia.",
-      "published": "2026-10-06T21:28:10Z",
-      "source": "ESPN NFL",
+      "title": "Eagles' Lane Johnson retires from NFL due to personal reasons after Week 4 absence",
+      "url": "https://www.cbssports.com/nfl/news/eagles-lane-johnson-retires-from-nfl-after-week-4-absence/",
+      "summary": "Johnson's surprise exit from football ends a legendary career in Philadelphia",
+      "published": "Tue, 06 Oct 2026 23:08:03 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -325,15 +364,17 @@
       ]
     },
     {
-      "title": "Three of Nolan Wells' friends sue Terrell Owens for defamation",
-      "url": "https://www.espn.com/nfl/story/_/id/50118818/three-nolan-wells-friends-sue-terrell-owens-defamation",
-      "summary": "Three friends of Nolan Wells, a Black college student who went missing from a Mississippi island during a Fourth of July celebration and was later found dead, are suing Terrell Owens for defamation.",
-      "published": "2026-10-06T19:47:42Z",
-      "source": "ESPN NFL",
+      "title": "How can Nick Sirianni save his job? Eagles' path becomes more difficult without Lane Johnson",
+      "url": "https://www.cbssports.com/nfl/news/how-can-nick-sirianni-save-his-job-eagles-lane-johnson/",
+      "summary": "Sirianni has his work cut out for him after his star right tackle called it a career",
+      "published": "Tue, 06 Oct 2026 23:07:03 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "PHI"
+      ]
     },
     {
       "title": "NFL sets penalty record through Week 4 as tensions flare between teams, officials",
