@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-07T17:48:43.841940+00:00",
-  "checked_at_utc": "2026-10-07T17:48:43.841940+00:00",
+  "updated_at_utc": "2026-10-07T22:18:18.271016+00:00",
+  "checked_at_utc": "2026-10-07T22:18:18.271016+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 6,
+      "items": 14,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,87 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 21,
+      "items": 19,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "From Rushing Leader To Free Agency: Jamaal Williams Works Out For Patriots",
+      "url": "https://www.foxsports.com/stories/nfl/jamaal-williams-new-england-patriots-tryout-free-agency",
+      "summary": "Jamaal Williams hasn't taken an NFL handoff since January 2025. The New England Patriots just gave him a reason to keep training.",
+      "published": "Wed, 07 Oct 2026 16:44:07 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "The Long Road Back: NFL Ties League History With 5 Winless Teams Through Week 4",
+      "url": "https://www.foxsports.com/stories/nfl/long-road-back-nfl-ties-league-history-5-winless-teams-through-week-4",
+      "summary": "There\u2019s a race to the bottom of the NFL standings four games into the season, including two surprisingly winless teams.",
+      "published": "Wed, 07 Oct 2026 15:04:55 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Ravens Make Blockbuster Trade For Eagles Star Offensive Lineman",
+      "url": "https://www.foxsports.com/stories/nfl/ravens-cam-jurgens-trade-details-eagles-offensive-linemen",
+      "summary": "The Baltimore Ravens are trading for Philadelphia Eagles center and two-time Pro Bowler Cam Jurgens.",
+      "published": "Wed, 07 Oct 2026 14:13:40 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "2026 NFL Coach Of The Year Odds: Bears' Ben Johnson New Favorite",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-coach-of-the-year-odds",
+      "summary": "There's a new favorite on the Coach Of The Year oddsboard after NFL Week 4. Here's the latest.",
+      "published": "Wed, 07 Oct 2026 14:07:09 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds: Chiefs, 49ers Favored To Be No. 1 Seeds",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-no-1-seed-chiefs-49ers",
+      "summary": "Two unbeaten teams have overtaken the preseason favorites in the race for the No. 1 seeds. Who leads each conference? See the latest odds.",
+      "published": "Wed, 07 Oct 2026 14:05:42 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "SF"
+      ]
+    },
+    {
+      "title": "NFL QB Notebook Week 4: Let Joe Burrow Cook; Diagnosing Jalen Hurts' Struggles",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-qb-notebook-week-4-joe-burrow-jalen-hurts-dak-prescott-bo-nix-justin-herbert",
+      "summary": "Here's what stood out from NFL Week 4, from Joe Burrow being shackled to Jalen Hurts' struggles.",
+      "published": "Wed, 07 Oct 2026 13:54:37 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
     {
       "title": "Kyle Juszczyk Gets the Win After NFL Fine for \u2018Juice\u2019 Celebration Overturned",
       "url": "https://www.foxsports.com/stories/nfl/49ers-kyle-juszczyk-wins-appeal-on-fine-over-juice-celebration-that-nfl-said-imitated-beer-chug",
@@ -190,112 +266,165 @@
       "teams": []
     },
     {
-      "title": "QB Stock Market Week 5: Don't Overthink Brock Purdy's Proficiency",
-      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-5-brock-purdy-doesnt-have-mvp-moment-doesnt-need-one",
-      "summary": "Brock Purdy has been the best quarterback in football. Jalen Hurts will have better days. Will Cam Ward? Here are Henry McKenna's latest QB rankings.",
-      "published": "Tue, 06 Oct 2026 14:17:02 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Seahawks Reportedly Won't Sign RB Joe Mixon Following Physical",
-      "url": "https://www.foxsports.com/stories/nfl/seahawks-reportedly-wont-sign-rb-joe-mixon-following-physical",
-      "summary": "The Seattle Seahawks are offically signing RB Joe Mixon to their practice squad.",
-      "published": "Tue, 06 Oct 2026 14:13:36 -0400",
-      "source": "FOX Sports NFL",
+      "title": "TE Sam LaPorta says extension talks with Lions at 'stalemate'",
+      "url": "https://www.espn.com/nfl/story/_/id/50127865/te-sam-laporta-says-extension-talks-lions-stalemate",
+      "summary": "Lions tight end Sam LaPorta is currently focused on the 2026 season but acknowledged for the first time after Wednesday's practice that he has broken off contract talks on an extension.",
+      "published": "2026-10-07T21:56:59Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "SEA"
+        "DET"
       ]
     },
     {
-      "title": "Cameron Jordan Shreds 'Embarrassing' Saints' Defense After Falcons Blowout",
-      "url": "https://www.foxsports.com/stories/nfl/cam-jordan-comments-falcons-saints-stats",
-      "summary": "New Orleans Saints veteran Cameron Jordan ripped the team's defense after they were blown out by the Atlanta Falcons.",
-      "published": "Tue, 06 Oct 2026 13:55:43 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Giants' Malik Nabers has 'sore' knee, doesn't practice",
+      "url": "https://www.espn.com/nfl/story/_/id/50127773/giants-malik-nabers-sore-knee-practice",
+      "summary": "Giants star wide receiver Malik Nabers did not practice Wednesday because of a knee injury, saying only he was more \"sore\" than usual.",
+      "published": "2026-10-07T21:41:27Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "injury",
       "teams": [
-        "ATL",
-        "NO"
+        "NYG"
       ]
     },
     {
-      "title": "2026 NFL Win Totals: Over/Unders For All 32 Squads",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-win-totals-over-unders-all-32-squads",
-      "summary": "Check out the win totals and Over/Under odds for all 32 teams four weeks into the 2026 NFL season.",
-      "published": "Tue, 06 Oct 2026 13:04:05 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Commanders' Jayden Daniels fully practices, trending toward return",
+      "url": "https://www.espn.com/nfl/story/_/id/50127736/commanders-jayden-daniels-fully-practices-trending-return",
+      "summary": "Commanders quarterback Jayden Daniels continued on a path that is expected to result in him playing Sunday against the New York Giants, only three weeks after he dislocated his elbow.",
+      "published": "2026-10-07T21:52:14Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYG",
+        "WAS"
+      ]
+    },
+    {
+      "title": "NFL, union clarify celebration rules, OK drinking gestures",
+      "url": "https://www.espn.com/nfl/story/_/id/50127635/nfl-union-clarify-celebration-rules-ok-drinking-gestures",
+      "summary": "The NFL and NFLPA said recent player celebrations imitating drinking a beverage will no longer be violations or result in discipline. The sides also clarified what celebrations remain prohibited.",
+      "published": "2026-10-07T22:10:18Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Two Referees Suspended: Kevin O\u2019Connell Blames Outbursts On \u2018High-Energy Moment\u2019",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-flags-officials-suspending-2-after-outbursts-on-a-weekend-marked-by-profane-flareups",
-      "summary": "The NFL has suspended two officials for inappropriate conduct during Week 4.",
-      "published": "Tue, 06 Oct 2026 12:38:29 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Lamar Jackson Reportedly Has Ankle Sprain; What It Could Mean For Ravens Star",
-      "url": "https://www.foxsports.com/stories/nfl/lamar-jackson-injury-update-ravens-schedule-tyler-huntley",
-      "summary": "Baltimore Ravens superstar quarterback Lamar Jackson reportedly has an sprained ankle. Here's what it could mean.",
-      "published": "Tue, 06 Oct 2026 11:01:29 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Steelers QB Rodgers downplays heated exchange with McCarthy",
+      "url": "https://www.espn.com/nfl/story/_/id/50127513/steelers-qb-rodgers-downplays-heated-exchange-mccarthy",
+      "summary": "The Steelers downplayed the several confrontations between players and coaches during Thursday night's loss, with Aaron Rodgers calling the display of emotion and passion a \"positive.\"",
+      "published": "2026-10-07T21:17:14Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": [
-        "BAL"
+        "PIT"
       ]
     },
     {
-      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
-      "summary": "The Chiefs have returned to form and the Niners are streaking early. See the latest NFL postseason odds.",
-      "published": "Tue, 06 Oct 2026 10:18:07 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Cowboys close hectic stretch on short week with another winless opponent in the Buccaneers",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872980",
+      "summary": "\u2014 The Dallas Cowboys are near the end of a hectic two-week itinerary that included 10-hour flights to and from Rio de Janeiro, another trip to Houston and now a quick turn to finish off three games in 11 days.",
+      "published": "2026-10-07T20:27:27Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "KC",
+        "DAL",
+        "TB"
+      ]
+    },
+    {
+      "title": "Is it time to panic about 49ers' injuries? Breaking down IR, trade deadline plan",
+      "url": "https://www.espn.com/nfl/story/_/id/50124795/san-francisco-49ers-2026-season-injuries-list",
+      "summary": "The 49ers are again among the most injured teams in the NFL. We answered questions about their injuries and how they will affect the 2026 season.",
+      "published": "2026-10-07T20:37:40Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
         "SF"
       ]
     },
     {
-      "title": "2026 Super Bowl Odds: Rams Favored After Comeback Over Eagles; Falcons Soar",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "summary": "The Rams stand alone atop the Super Bowl oddsboard after a dramatic comeback, while the Falcons soar after two dominant wins. See the latest odds after Week 4.",
-      "published": "Tue, 06 Oct 2026 09:46:44 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Texans' DeMeco Ryans taking over defensive playcalling duties",
+      "url": "https://www.espn.com/nfl/story/_/id/50127159/texans-demeco-ryans-taking-defensive-playcalling-duties",
+      "summary": "Texans coach DeMeco Ryans said Wednesday that he will be taking over the defensive playcalling duties amid his team's 0-4 start.",
+      "published": "2026-10-07T21:45:49Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL",
-        "LA",
-        "PHI"
+        "HOU"
       ]
+    },
+    {
+      "title": "Jets' Aaron Glenn encouraged by support from owner Woody Johnson",
+      "url": "https://www.espn.com/nfl/story/_/id/50127154/jets-aaron-glenn-encouraged-support-owner-woody-johnson",
+      "summary": "Aaron Glenn has lost 17 of 21 games since becoming coach of the Jets, but he's encouraged by the support he's receiving from owner Woody Johnson.",
+      "published": "2026-10-07T20:41:55Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "NFL trade deadline grades: Cam Jurgens to Ravens, Joey Porter Jr. to Cowboys",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "summary": "Will Cam Jurgens boost the Ravens' protection? Can Joey Porter Jr. clean up the Cowboys' defense? We're grading NFL trades ahead of November's deadline.",
+      "published": "2026-10-07T19:23:44Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Colts' Sauce Gardner vows not to repeat 'embarrassing' effort",
+      "url": "https://www.espn.com/nfl/story/_/id/50127033/colts-sauce-gardner-vows-not-repeat-embarrassing-effort",
+      "summary": "Colts cornerback Sauce Gardner said he gave his team an \"embarrassing\" effort in London and vowed there would not be a repeat performance.",
+      "published": "2026-10-07T19:51:49Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+      "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "published": "2026-10-07T19:17:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
     },
     {
       "title": "Ravens acquire center Cam Jurgens in trade with Eagles",
       "url": "https://www.espn.com/nfl/story/_/id/50126306/ravens-acquire-center-cam-jurgens-trade-eagles",
       "summary": "The Ravens have acquired two-time Pro Bowl center Cam Jurgens in a trade with the Eagles.",
-      "published": "2026-10-07T17:31:43Z",
+      "published": "2026-10-07T21:12:36Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -308,64 +437,118 @@
     {
       "title": "2026 NFL trade deadline updates: Latest on Cam Jurgens, Joey Porter Jr. deals",
       "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-      "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including the Steelers sending Joey Porter Jr. to the Cowboys.",
-      "published": "2026-10-07T17:28:47Z",
+      "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including the Eagles sending Cam Jurgens to the Ravens.",
+      "published": "2026-10-07T18:33:50Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
+        "BAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Full list of 2026 NFL bye weeks for all 32 teams",
+      "url": "https://www.cbssports.com/nfl/news/nfl-bye-weeks-2026/",
+      "summary": "Here are every team's NFL bye weeks all in one place so you can plan your fantasy lineups and game days.",
+      "published": "Wed, 07 Oct 2026 21:32:42 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL, NFLPA clarify celebration penalties, say imitating drinking won't be penalty or subject to fine",
+      "url": "https://www.cbssports.com/nfl/news/nfl-nflpa-clarify-celebration-penalties-fines/",
+      "summary": "Kyle Juszczyk and Jake Ferguson had their fines rescinded Wednesday",
+      "published": "Wed, 07 Oct 2026 21:20:09 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "DeMeco Ryans taking over defensive play-calling duties from Matt Burke as Texans try to climb out of 0-4 hole",
+      "url": "https://www.cbssports.com/nfl/news/texans-demeco-ryans-defensive-play-calling-duties-matt-burke/",
+      "summary": "Burke had called plays since early last season",
+      "published": "Wed, 07 Oct 2026 20:55:34 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU"
+      ]
+    },
+    {
+      "title": "2026 NFL trade deadline: Three more players Eagles could shop after dealing Cam Jurgens",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-eagles-who-could-be-dealt/",
+      "summary": "A franchise icon could be a popular target",
+      "published": "Wed, 07 Oct 2026 20:18:26 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Cowboys appear to have a glaring flaw that's been exploited in two straight games: 'We saw a weakness'",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-blocked-field-goals-2026/",
+      "summary": "Texans coach DeMeco Ryans revealed how Houston copied Baltimore's plan to exploit the same weakness",
+      "published": "Wed, 07 Oct 2026 20:02:49 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
         "DAL",
-        "PIT"
+        "HOU"
       ]
     },
     {
-      "title": "ESPN's Super Bowl LXI broadcast will also stream on Disney+",
-      "url": "https://www.espn.com/nfl/story/_/id/50125971/espn-super-bowl-61-broadcast-stream-disney+",
-      "summary": "ESPN announced on Tuesday that its broadcast of Super Bowl LXI on Feb. 14, 2027, will also be streamed on Disney+.",
-      "published": "2026-10-07T16:49:51Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Odell Beckham Jr. signs with Vikings on practice squad",
-      "url": "https://www.espn.com/nfl/story/_/id/50125332/odell-beckham-jr-signs-vikings-practice-squad",
-      "summary": "The Vikings are signing wide receiver Odell Beckham Jr. to their practice squad, a source told NFL Network's Ian Rapoport.",
-      "published": "2026-10-07T15:41:12Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "49ers FB Kyle Juszczyk's celebration fine rescinded after appeal",
-      "url": "https://www.espn.com/nfl/story/_/id/50124990/nfl-rescinds-juszczyk-fine-says-misunderstood-celebration",
-      "summary": "The NFL has rescinded the $14,926 fine it imposed on the 49ers' Kyle Juszczyk for what it thought was a distasteful celebration of chugging a beer.",
-      "published": "2026-10-07T17:38:59Z",
-      "source": "ESPN NFL",
+      "title": "Agent's Take: Kenneth Walker III among best veteran acquisitions after four games of 2026 NFL season",
+      "url": "https://www.cbssports.com/nfl/news/agents-take-kenneth-walker-iii-best-veteran-acquisitions-nfl/",
+      "summary": "Walker III is dominating on the ground in Kansas City, Kirk Cousins has revived the Raiders, and key defensive stars are quickly reshaping contenders across the league",
+      "published": "Wed, 07 Oct 2026 18:49:11 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "SF"
+        "LV"
       ]
     },
     {
-      "title": "NFL Week 5 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-      "url": "https://www.espn.com/nfl/story/_/id/50116787/week-5-buzz-fantasy-predictions-graziano-fowler-2026",
-      "summary": "Could injuries to Saquon Barkley, Lamar Jackson and others derail their teams? Which AFC teams should trade for a WR? Which coordinators could get head coach interest?",
-      "published": "2026-10-07T17:00:06Z",
-      "source": "ESPN NFL",
+      "title": "Are Eagles tanking? Why Philadelphia's teardown looks like a full-scale rebuild",
+      "url": "https://www.cbssports.com/nfl/news/eagles-cam-jurgens-trade-lane-johnson-retirement-2026/",
+      "summary": "The Eagles are stockpiling premium draft picks while dismantling a once-dominant offensive line",
+      "published": "Wed, 07 Oct 2026 20:40:16 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
+      "category": "game",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Cam Jurgens trade grades: Eagles send two-time Pro Bowl center to the Ravens for two draft selections",
+      "url": "https://www.cbssports.com/nfl/news/cam-jurgens-trade-eagles-ravens-nfl-draft-picks/",
+      "summary": "Baltimore is reportedly sending Philadelphia a 2027 fifth-round pick and a 2028 second-rounder for Jurgens and a 2027 seventh-round pick",
+      "published": "Wed, 07 Oct 2026 18:19:21 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "PHI"
+      ]
     },
     {
       "title": "Marvin Harrison Jr. trade packages: What Cardinals could get for former No. 4 overall pick",
@@ -406,17 +589,6 @@
         "MIN",
         "NYG"
       ]
-    },
-    {
-      "title": "Week 5 NFL betting promos: Score over $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-5-nfl-betting-promos-score-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 5 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Wed, 07 Oct 2026 15:14:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "NFL reverses Kyle Juszczyk fine over 49ers touchdown celebration",
@@ -707,109 +879,6 @@
       "category": "transaction",
       "teams": [
         "CAR"
-      ]
-    },
-    {
-      "title": "Former NFL first-round pick abruptly retires after playing 12 snaps in Week 4, per report",
-      "url": "https://www.cbssports.com/nfl/news/marcus-davenport-nfl-first-round-pick-abruptly-retires/",
-      "summary": "The Chicago Bears were hit by a surprise retirement this week",
-      "published": "Tue, 06 Oct 2026 15:20:56 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Joey Porter Sr. says Steelers 'held us down for three weeks,' celebrates Cowboys victory over Texans",
-      "url": "https://www.cbssports.com/nfl/news/joey-porter-sr-says-steelers-held-us-down-for-three-weeks-cowboys/",
-      "summary": "Porter Jr. didn't allow a single target across 25 snaps against Houston as his father, Steelers legend Joey Porter Sr., cheered him on in Dallas gear",
-      "published": "Tue, 06 Oct 2026 15:08:05 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "HOU",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Week 5 NFL odds, spreads, totals, betting lines, for all 16 games, including Buccaneers-Cowboys, Bears-Packers",
-      "url": "https://www.cbssports.com/betting/news/week-5-nfl-betting-odds-lines-totals-spreads/",
-      "summary": "The Week 5 NFL schedule is here, featuring pivotal matchups like Cowboys vs. Buccaneers, 49ers vs. Seahawks and Bills vs. Rams",
-      "published": "Tue, 06 Oct 2026 14:28:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "CHI",
-        "DAL",
-        "GB",
-        "LA",
-        "SEA",
-        "SF",
-        "TB"
-      ]
-    },
-    {
-      "title": "Tyler Shough reacts to fans booing after Saints blowout loss to Falcons: 'I'd boo, too'",
-      "url": "https://www.cbssports.com/nfl/news/tyler-shough-reacts-to-fans-booing-after-saints-loss-falcons/",
-      "summary": "New Orleans was blown out by the Falcons on 'Monday Night Football'",
-      "published": "Tue, 06 Oct 2026 14:28:08 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "NO"
-      ]
-    },
-    {
-      "title": "How non-first-round rookies are faring this NFL season: Denzel Boston among the leaders of the pack",
-      "url": "https://www.cbssports.com/nfl/news/how-non-first-round-rookies-faring-this-nfl-season-denzel-boston/",
-      "summary": "A look at the non-Day 1 selections making an impact on this NFL season, including Browns wideout Denzel Boston and Titans linebacker Anthony Hill Jr",
-      "published": "Tue, 06 Oct 2026 13:37:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Lamar Jackson injury update: Ravens QB dealing with ankle sprain; Week 5 status still unknown, per report",
-      "url": "https://www.cbssports.com/nfl/news/lamar-jackson-injury-update-ravens-qb-dealing-with-ankle-sprain/",
-      "summary": "Jackson injured his ankle in the first half of Sunday's win over the Titans",
-      "published": "Tue, 06 Oct 2026 13:35:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "TEN"
-      ]
-    },
-    {
-      "title": "False hope in Buffalo? Why Josh Allen's, Bills' 3-1 start isn't as impressive as it seems",
-      "url": "https://www.cbssports.com/nfl/news/why-josh-allen-buffalo-bills-3-1-start-isnt-impressive-as-it-seems/",
-      "summary": "Are the Bills good, or is their schedule just easy?",
-      "published": "Tue, 06 Oct 2026 13:15:20 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF"
       ]
     }
   ],
