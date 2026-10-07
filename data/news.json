@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-07T04:12:40.264447+00:00",
-  "checked_at_utc": "2026-10-07T04:12:40.264447+00:00",
+  "updated_at_utc": "2026-10-07T11:07:13.701229+00:00",
+  "checked_at_utc": "2026-10-07T11:07:38.942516+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 7,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -14,340 +14,124 @@
       "items": 34
     },
     "FOX Sports NFL": {
-      "ok": true,
-      "items": 23,
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout",
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Herd Hierarchy: Who's The NFL's New No. 1? Bills Slide As Falcons, Colts Rise",
-      "url": "https://www.foxsports.com/stories/nfl/herd-hierarchy-whos-nfls-new-no-1-bills-slide-falcons-colts-rise",
-      "summary": "Take a look at Colin Cowherd's Week 4 Herd Hierarchy rankings.",
-      "published": "Tue, 06 Oct 2026 19:59:19 -0400",
-      "source": "FOX Sports NFL",
+      "title": "NFL Week 5 latest intel, buzz questions, news, fantasy tips: What we're hearing",
+      "url": "https://www.espn.com/nfl/story/_/id/50116787/week-5-buzz-fantasy-predictions-graziano-fowler-2026",
+      "summary": "Could injuries to Saquon Barkley, Lamar Jackson and others derail their teams? Which AFC teams should trade for a WR? Which coordinators could get head coach interest?",
+      "published": "2026-10-07T10:18:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "Early 2026 NFL trends for the 49ers, Vikings, Bucs, Texans, Giants, Browns",
+      "url": "https://www.espn.com/nfl/story/_/id/50119594/early-2026-trends-stats-records-history-four-games",
+      "summary": "Just how good are the 49ers? Are the Texans and Bucs better than their records? Are the Giants and Browns worse? We put the NFL season's first month in historical context.",
+      "published": "2026-10-07T10:18:34Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL",
-        "BUF",
+        "CLE",
+        "HOU",
+        "MIN",
+        "NYG",
+        "SF",
+        "TB"
+      ]
+    },
+    {
+      "title": "Texans' defense has gone from elite to struggling to close out games",
+      "url": "https://www.espn.com/nfl/story/_/id/50120172/winless-texans-defense-struggling-cj-stroud",
+      "summary": "Houston has given up late leads in three of the first four games despite scoring go-ahead touchdowns.",
+      "published": "2026-10-07T10:00:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU"
+      ]
+    },
+    {
+      "title": "Why Jaguars play 26 of next 30 regular-season games away from Jacksonville",
+      "url": "https://www.espn.com/nfl/story/_/id/50120750/jacksonville-jaguars-road-games-london-orlando-2027",
+      "summary": "The Jaguars will become the first NFL team since 1926 to play in 12 or more stadiums in a single season -- including Tottenham Hotspur Stadium on Sunday.",
+      "published": "2026-10-07T10:00:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Jets searching for identity as losses become 'tough to stomach'",
+      "url": "https://www.espn.com/nfl/story/_/id/50117262/new-york-jets-searching-identity-aaron-glenn",
+      "summary": "After a Week 1 win, New York has fallen to 1-3 and has struggled to assert itself the way it wants.",
+      "published": "2026-10-07T10:00:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Irsay-Gordon presence on Colts sideline reignites debate",
+      "url": "https://www.espn.com/nfl/story/_/id/50120611/indianapolis-colts-carlie-irsay-gordon-sideline",
+      "summary": "Carlie Irsay-Gordon's game-day routine isn't typical for owners, but she says it \"helps to understand and to ask questions.\"",
+      "published": "2026-10-07T10:00:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
         "IND"
       ]
     },
     {
-      "title": "Falcons Relished Chance To Silence Saints, 'Show The World' How Good They Can Be",
-      "url": "https://www.foxsports.com/stories/nfl/falcons-relished-chance-silence-saints-show-world-how-good-can",
-      "summary": "Our weekly look back on the league starts with Atlanta going into New Orleans and spoiling a long-awaited celebration.",
-      "published": "Tue, 06 Oct 2026 17:34:25 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "NO"
-      ]
-    },
-    {
-      "title": "Eagles' 6-Time Pro Bowl OT Lane Johnson Retires From NFL 4 Games Into Season",
-      "url": "https://www.foxsports.com/stories/nfl/eagles-6-time-pro-bowl-ot-lane-johnson-retires-from-nfl-4-games-season",
-      "summary": "Philadelphia Eagles right tackle Lane Johnson announced his retirement Tuesday, ending a 14-season career spent entirely with the team.",
-      "published": "Tue, 06 Oct 2026 16:29:36 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "2026 NFL DPOY Odds: Will Anderson Jr. Favored; T.J. Watt Surging",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
-      "summary": "Check out the latest odds for the 2026 NFL Defensive Player of the Year award, including a Steeler who's surging.",
-      "published": "Tue, 06 Oct 2026 16:24:23 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Favorite 'Dogs: Back Kentucky To Upset LSU; Giants To Continue Hot Start",
-      "url": "https://www.foxsports.com/stories/nfl/favorite-dogs-back-kentucky-upset-lsu-g-men-over-commanders",
-      "summary": "Find out why Will Hill is wagering on Cats over Tigers and G-Men over Commanders for this week's favorite 'dogs.",
-      "published": "Tue, 06 Oct 2026 16:15:46 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
-      "title": "2026 NFL OPOY Odds: Kenneth Walker III, Jahmyr Gibbs Top Board",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
-      "summary": "Check out the latest odds to win the 2026 NFL Offensive Player of the Year award after Week 4.",
-      "published": "Tue, 06 Oct 2026 15:22:59 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "QB Stock Market Week 5: Don't Overthink Brock Purdy's Proficiency",
-      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-5-brock-purdy-doesnt-have-mvp-moment-doesnt-need-one",
-      "summary": "Brock Purdy has been the best quarterback in football. Jalen Hurts will have better days. Will Cam Ward? Here are Henry McKenna's latest QB rankings.",
-      "published": "Tue, 06 Oct 2026 14:17:02 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Seahawks Reportedly Won't Sign RB Joe Mixon Following Physical",
-      "url": "https://www.foxsports.com/stories/nfl/seahawks-reportedly-wont-sign-rb-joe-mixon-following-physical",
-      "summary": "The Seattle Seahawks are offically signing RB Joe Mixon to their practice squad.",
-      "published": "Tue, 06 Oct 2026 14:13:36 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SEA"
-      ]
-    },
-    {
-      "title": "Cameron Jordan Shreds 'Embarrassing' Saints' Defense After Falcons Blowout",
-      "url": "https://www.foxsports.com/stories/nfl/cam-jordan-comments-falcons-saints-stats",
-      "summary": "New Orleans Saints veteran Cameron Jordan ripped the team's defense after they were blown out by the Atlanta Falcons.",
-      "published": "Tue, 06 Oct 2026 13:55:43 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "NO"
-      ]
-    },
-    {
-      "title": "2026 NFL Win Totals: Over/Unders For All 32 Squads",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-win-totals-over-unders-all-32-squads",
-      "summary": "Check out the win totals and Over/Under odds for all 32 teams four weeks into the 2026 NFL season.",
-      "published": "Tue, 06 Oct 2026 13:04:05 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Two Referees Suspended: Kevin O\u2019Connell Blames Outbursts On \u2018High-Energy Moment\u2019",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-flags-officials-suspending-2-after-outbursts-on-a-weekend-marked-by-profane-flareups",
-      "summary": "The NFL has suspended two officials for inappropriate conduct during Week 4.",
-      "published": "Tue, 06 Oct 2026 12:38:29 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Odds Week 5: Lines, Spreads, Results For All 15 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-5-lines-spreads-results-all-15-games",
-      "summary": "Check out the odds for every Week 5 matchup in the NFL.",
-      "published": "Tue, 06 Oct 2026 12:15:23 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Lamar Jackson Reportedly Has Ankle Sprain; What It Could Mean For Ravens Star",
-      "url": "https://www.foxsports.com/stories/nfl/lamar-jackson-injury-update-ravens-schedule-tyler-huntley",
-      "summary": "Baltimore Ravens superstar quarterback Lamar Jackson reportedly has an sprained ankle. Here's what it could mean.",
-      "published": "Tue, 06 Oct 2026 11:01:29 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
-      "summary": "The Chiefs have returned to form and the Niners are streaking early. See the latest NFL postseason odds.",
-      "published": "Tue, 06 Oct 2026 10:18:07 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "SF"
-      ]
-    },
-    {
-      "title": "2026 Super Bowl Odds: Rams Favored After Comeback Over Eagles; Falcons Soar",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "summary": "The Rams stand alone atop the Super Bowl oddsboard after a dramatic comeback, while the Falcons soar after two dominant wins. See the latest odds after Week 4.",
-      "published": "Tue, 06 Oct 2026 09:46:44 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "LA",
-        "PHI"
-      ]
-    },
-    {
-      "title": "NFL Week 4 All-Stars: Drake Maye Is Back; Kenneth Walker Might Be A Mainstay",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-4-all-stars-drake-maye-kenneth-walker-ceedee-lamb-tetairoa-mcmillan-patriots-chiefs-cowboys",
-      "summary": "Our weekly look at the NFL's best includes two monster games from receivers CeeDee Lamb and Tetairoa McMillan.",
-      "published": "Tue, 06 Oct 2026 00:28:03 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Power Rankings Week 5: Do 49ers Or Chiefs Hold Claim As NFL's Best Team?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-5",
-      "summary": "We have a shake up at the top of our power rankings, while a team moved up six spots. despite a loss this week.",
-      "published": "Tue, 06 Oct 2026 00:19:38 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "SF"
-      ]
-    },
-    {
-      "title": "NFL Week 4 Plays That Stood Out: Dak Prescott Carves Up Houston; Drake Maye Delivers",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-4-plays-that-stood-out-drake-maye-dak-prescott",
-      "summary": "Here are the plays that stood out from NFL Week 4, from Drake Maye's heroics to Dak Prescott's big game vs. Houston.",
-      "published": "Tue, 06 Oct 2026 00:01:21 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Hello, Atlanta, Michael Penix & Bijan Robinson: 3 Takeaways From Falcons Win vs. Saints",
-      "url": "https://www.foxsports.com/stories/nfl/hello-atlanta-michael-penix-bijan-robinson-3-takeaways-from-falcons-win-vs-saints",
-      "summary": "All of a sudden, the Falcons appear to have one of the best offenses in the NFL. Here are our takeaways from their win over the Saints.",
-      "published": "Tue, 06 Oct 2026 00:01:06 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "NO"
-      ]
-    },
-    {
-      "title": "NFL Best And Worst: From CeeDee Lamb\u2019s Sizzle To The Eagles' Offensive Fizzle",
-      "url": "https://www.foxsports.com/stories/nfl/ceedee-lamb-cowboys-sizzle-eagles-outlook-bleak-travis-hunter",
-      "summary": "Our Best and Worst from Week 4 also includes a play that went viral but didn't count and a trick play that never should have happened.",
-      "published": "Mon, 05 Oct 2026 23:22:11 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "Eagles RB Saquon Barkley Reportedly Considered Week-To-Week With Hamstring Injury",
-      "url": "https://www.foxsports.com/stories/nfl/eagles-rb-saquon-barkley-reportedly-considered-week-to-week-hamstring-injury",
-      "summary": "Philadelphia Eagles running back Saquon Barkley is considered week-to-week with a hamstring injury, but it is not considered to be long-term, according to NFL Network.",
-      "published": "Mon, 05 Oct 2026 21:31:53 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "Is Ben Johnson Bears' Most Important Piece? Why Last 2 Games Suggest He Might Be",
-      "url": "https://www.foxsports.com/stories/nfl/ben-johnson-nfls-best-coach-why-bears-last-2-wins-suggest-he-might",
-      "summary": "Colin Cowherd said he believes that Sunday's performance is the latest piece of evidence of who matters most in Chicago: Head coach Ben Johnson.",
-      "published": "Mon, 05 Oct 2026 20:25:23 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Big Bets Report: Bettor's In-Game Chiefs Wager Cashes In For $2.2 Million",
-      "url": "https://www.foxsports.com/stories/nfl/big-bets-report-bettors-in-game-chiefs-wager-cashes-2-2-million",
-      "summary": "The Chiefs' win over Las Vegas helped one bettor bank well into seven figures. Patrick Everson breaks down that payday and more from the weekend.",
-      "published": "Mon, 05 Oct 2026 19:26:30 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC"
-      ]
-    },
-    {
-      "title": "Tyreek Hill's wife recounts assault, verbal abuse at trial",
-      "url": "https://www.espn.com/nfl/story/_/id/50121315/tyreek-hill-wife-recounts-assault-verbal-abuse-trial",
-      "summary": "Tyreek Hill's wife recounted details of assault and verbal abuse during testimony Tuesday on the first day of a civil assault and battery trial in Florida, proceedings that began a day after ESPN reported Hill would potentially sign an NFL contract soon.",
-      "published": "2026-10-07T04:04:28Z",
+      "title": "How Browns' defense reemerged as a strength after Week 1",
+      "url": "https://www.espn.com/nfl/story/_/id/50122062/cleveland-browns-defense-reemerged-strength-man-zone",
+      "summary": "The return to its strength of playing man coverage has played a big role in the unit's resurgence.",
+      "published": "2026-10-07T10:00:01Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Giants' Berrios says he'll undergo season-ending foot surgery",
-      "url": "https://www.espn.com/nfl/story/_/id/50121196/giants-berrios-says-undergo-season-ending-foot-surgery",
-      "summary": "Giants receiver Braxton Berrios will undergo season-ending surgery on his foot, he announced Tuesday on Instagram.",
-      "published": "2026-10-07T01:35:04Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
       "teams": [
-        "NYG"
+        "CLE"
       ]
     },
     {
-      "title": "MVP?! 3 keys to watch if Panthers QB Bryce Young is on that path",
-      "url": "https://www.espn.com/nfl/story/_/id/50119780/carolina-panthers-qb-bryce-young-3-keys-mvp-path",
-      "summary": "The 2023 first-round pick's start -- he leads the NFL with 1,268 passing yards -- puts him in the MVP conversation.",
-      "published": "2026-10-06T22:49:31Z",
-      "source": "ESPN NFL",
+      "title": "Prisco's Week 5 NFL picks: Cowboys rout Buccaneers on Thursday, Packers upset Bears",
+      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-5-nfl-picks-odds/",
+      "summary": "Pete Prisco reveals all of his Week 5 picks, including the Texans getting their first win and the Jets over the Browns",
+      "published": "Wed, 07 Oct 2026 10:00:48 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": [
-        "CAR"
+        "CHI",
+        "CLE",
+        "DAL",
+        "GB",
+        "HOU",
+        "NYJ",
+        "TB"
       ]
     },
     {
@@ -799,19 +583,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "NFL suspends official Jeff Seeman for incident with Cardinals' Trey McBride",
-      "url": "https://www.cbssports.com/nfl/news/nfl-reviewing-incident-between-official-cardinals-trey-mcbride/",
-      "summary": "The altercation between the two went viral following New York's win over Arizona",
-      "published": "Mon, 05 Oct 2026 20:19:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI"
-      ]
     }
   ],
   "reporters": []
