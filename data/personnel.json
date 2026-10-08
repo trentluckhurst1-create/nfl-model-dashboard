@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3",
   "status": "PARTIAL",
-  "updated_at_utc": "2026-10-07T22:14:50.025952+00:00",
+  "updated_at_utc": "2026-10-08T02:15:11.673136+00:00",
   "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
   "coverage": {
     "rosters": 32,
@@ -49,7 +49,7 @@
   ],
   "teams": {
     "ARI": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "5084939",
@@ -234,6 +234,14 @@
           "jersey": "66",
           "status": "Active",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4709718.png"
+        },
+        {
+          "id": "4241482",
+          "name": "Jedrick Wills Jr.",
+          "position": "OT",
+          "jersey": "79",
+          "status": "Active",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241482.png"
         },
         {
           "id": "4360761",
@@ -722,7 +730,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/22/depthcharts"
     },
     "ATL": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4568510",
@@ -899,14 +907,6 @@
           "jersey": "71",
           "status": "Active",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034961.png"
-        },
-        {
-          "id": "4241482",
-          "name": "Jedrick Wills Jr.",
-          "position": "OT",
-          "jersey": "79",
-          "status": "Active",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241482.png"
         },
         {
           "id": "4035020",
@@ -1371,7 +1371,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/1/depthcharts"
     },
     "BAL": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4690013",
@@ -1526,20 +1526,20 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035479.png"
         },
         {
-          "id": "3052897",
-          "name": "Durham Smythe",
-          "position": "TE",
-          "jersey": "80",
-          "status": "Active",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3052897.png"
-        },
-        {
           "id": "2980153",
           "name": "Ronnie Stanley",
           "position": "OT",
           "jersey": "79",
           "status": "Active",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2980153.png"
+        },
+        {
+          "id": "2576399",
+          "name": "Nick Vannett",
+          "position": "TE",
+          "jersey": "87",
+          "status": "Active",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2576399.png"
         },
         {
           "id": "4769895",
@@ -1854,6 +1854,14 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4433887.png"
         },
         {
+          "id": "3052897",
+          "name": "Durham Smythe",
+          "position": "TE",
+          "jersey": "80",
+          "status": "Day-To-Day",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3052897.png"
+        },
+        {
           "id": "4575483",
           "name": "T.J. Tampa",
           "position": "CB",
@@ -1974,12 +1982,12 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4433904.png"
         },
         {
-          "id": "2576399",
-          "name": "Nick Vannett",
-          "position": "TE",
-          "jersey": "",
+          "id": "4879972",
+          "name": "Lucas Scott",
+          "position": "FB",
+          "jersey": "47",
           "status": "Practice Squad",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2576399.png"
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4879972.png"
         },
         {
           "id": "4039274",
@@ -2004,7 +2012,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/33/depthcharts"
     },
     "BUF": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "3918298",
@@ -2605,7 +2613,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/2/depthcharts"
     },
     "CAR": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4576075",
@@ -2790,14 +2798,6 @@
           "jersey": "82",
           "status": "Active",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372780.png"
-        },
-        {
-          "id": "4709392",
-          "name": "Anthony Tyus III",
-          "position": "RB",
-          "jersey": "34",
-          "status": "Active",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4709392.png"
         },
         {
           "id": "4361429",
@@ -3246,7 +3246,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/29/depthcharts"
     },
     "CHI": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4434153",
@@ -3927,7 +3927,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/3/depthcharts"
     },
     "CIN": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4427834",
@@ -4520,7 +4520,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/4/depthcharts"
     },
     "CLE": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4597310",
@@ -5110,7 +5110,7 @@
           "id": "4362452",
           "name": "Jaret Patterson",
           "position": "RB",
-          "jersey": "",
+          "jersey": "41",
           "status": "Practice Squad",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362452.png"
         },
@@ -5169,7 +5169,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/5/depthcharts"
     },
     "DAL": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4685120",
@@ -5826,7 +5826,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/6/depthcharts"
     },
     "DEN": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4383440",
@@ -6459,7 +6459,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/7/depthcharts"
     },
     "DET": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4611506",
@@ -7116,7 +7116,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/8/depthcharts"
     },
     "GB": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4242390",
@@ -7773,7 +7773,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/9/depthcharts"
     },
     "HOU": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4362732",
@@ -7838,6 +7838,14 @@
           "jersey": "57",
           "status": "Active",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432699.png"
+        },
+        {
+          "id": "4695400",
+          "name": "Mark Gronowski",
+          "position": "QB",
+          "jersey": "16",
+          "status": "Active",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4695400.png"
         },
         {
           "id": "4686422",
@@ -8352,6 +8360,14 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426350.png"
         },
         {
+          "id": "4426435",
+          "name": "Jaden Davis",
+          "position": "CB",
+          "jersey": "28",
+          "status": "Practice Squad",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426435.png"
+        },
+        {
           "id": "4433823",
           "name": "Gavin Gerhardt",
           "position": "C",
@@ -8408,6 +8424,14 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4876006.png"
         },
         {
+          "id": "4361707",
+          "name": "Chad Muma",
+          "position": "LB",
+          "jersey": "49",
+          "status": "Practice Squad",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361707.png"
+        },
+        {
           "id": "5081880",
           "name": "James Neal III",
           "position": "OT",
@@ -8456,6 +8480,14 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4695607.png"
         },
         {
+          "id": "4431453",
+          "name": "Deuce Vaughn",
+          "position": "RB",
+          "jersey": "31",
+          "status": "Practice Squad",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431453.png"
+        },
+        {
           "id": "4432631",
           "name": "Noah Whittington",
           "position": "RB",
@@ -8470,7 +8502,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/34/depthcharts"
     },
     "IND": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "2998565",
@@ -9001,20 +9033,20 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4695991.png"
         },
         {
-          "id": "4746099",
-          "name": "Kenny Fletcher Jr.",
-          "position": "TE",
-          "jersey": "",
-          "status": "Practice Squad",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4746099.png"
-        },
-        {
           "id": "4429951",
           "name": "Reid Holskey",
           "position": "OT",
           "jersey": "",
           "status": "Practice Squad",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429951.png"
+        },
+        {
+          "id": "3051911",
+          "name": "Carl Lawson",
+          "position": "DE",
+          "jersey": "96",
+          "status": "Practice Squad",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051911.png"
         },
         {
           "id": "5024661",
@@ -9095,7 +9127,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/11/depthcharts"
     },
     "JAX": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "2576336",
@@ -9554,6 +9586,14 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426646.png"
         },
         {
+          "id": "4257580",
+          "name": "Christian Braswell",
+          "position": "CB",
+          "jersey": "21",
+          "status": "Day-To-Day",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4257580.png"
+        },
+        {
           "id": "4684542",
           "name": "Garrett DiGiorgio",
           "position": "OT",
@@ -9744,7 +9784,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/30/depthcharts"
     },
     "KC": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4912218",
@@ -10361,7 +10401,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/12/depthcharts"
     },
     "LAC": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4683487",
@@ -10894,8 +10934,8 @@
         {
           "id": "2976117",
           "name": "Daniel Brunskill",
-          "position": "C",
-          "jersey": "",
+          "position": "OT",
+          "jersey": "61",
           "status": "Practice Squad",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2976117.png"
         },
@@ -10994,7 +11034,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/24/depthcharts"
     },
     "LA": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "16800",
@@ -11635,7 +11675,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/14/depthcharts"
     },
     "LV": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "5150247",
@@ -12276,7 +12316,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/13/depthcharts"
     },
     "MIA": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4869961",
@@ -12842,7 +12882,7 @@
           "id": "4429053",
           "name": "AJ Henning",
           "position": "WR",
-          "jersey": "88",
+          "jersey": "82",
           "status": "Practice Squad",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429053.png"
         },
@@ -12874,7 +12914,7 @@
           "id": "4248425",
           "name": "Carlos Washington Jr.",
           "position": "RB",
-          "jersey": "37",
+          "jersey": "26",
           "status": "Practice Squad",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4248425.png"
         },
@@ -12901,7 +12941,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/15/depthcharts"
     },
     "MIN": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4429205",
@@ -13427,7 +13467,7 @@
           "id": "16733",
           "name": "Odell Beckham Jr.",
           "position": "WR",
-          "jersey": "",
+          "jersey": "9",
           "status": "Practice Squad",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/16733.png"
         },
@@ -13526,7 +13566,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/16/depthcharts"
     },
     "NE": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4683308",
@@ -14191,7 +14231,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/17/depthcharts"
     },
     "NO": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4372758",
@@ -14880,16 +14920,8 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/18/depthcharts"
     },
     "NYG": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
-        {
-          "id": "3123075",
-          "name": "Braxton Berrios",
-          "position": "WR",
-          "jersey": "87",
-          "status": "Active",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3123075.png"
-        },
         {
           "id": "5082353",
           "name": "J.C. Davis",
@@ -14926,7 +14958,7 @@
           "id": "4243322",
           "name": "Jake Haener",
           "position": "QB",
-          "jersey": "18",
+          "jersey": "13",
           "status": "Active",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4243322.png"
         },
@@ -15355,6 +15387,14 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361834.png"
         },
         {
+          "id": "3123075",
+          "name": "Braxton Berrios",
+          "position": "WR",
+          "jersey": "87",
+          "status": "Day-To-Day",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3123075.png"
+        },
+        {
           "id": "4429281",
           "name": "Korie Black",
           "position": "CB",
@@ -15438,7 +15478,7 @@
           "id": "4565297",
           "name": "Dontae Fleming",
           "position": "WR",
-          "jersey": "",
+          "jersey": "37",
           "status": "Practice Squad",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4565297.png"
         },
@@ -15537,7 +15577,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/19/depthcharts"
     },
     "NYJ": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4685247",
@@ -15860,14 +15900,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361767.png"
         },
         {
-          "id": "4429005",
-          "name": "Braiden McGregor",
-          "position": "DE",
-          "jersey": "55",
-          "status": "Active",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429005.png"
-        },
-        {
           "id": "4692024",
           "name": "Malachi Moore",
           "position": "S",
@@ -16044,6 +16076,14 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4045299.png"
         },
         {
+          "id": "4429005",
+          "name": "Braiden McGregor",
+          "position": "DE",
+          "jersey": "55",
+          "status": "Day-To-Day",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429005.png"
+        },
+        {
           "id": "4002046",
           "name": "David Onyemata",
           "position": "DT",
@@ -16188,6 +16228,14 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431582.png"
         },
         {
+          "id": "4880093",
+          "name": "Nathan Voorhis",
+          "position": "LB",
+          "jersey": "69",
+          "status": "Practice Squad",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4880093.png"
+        },
+        {
           "id": "4280416",
           "name": "Samuel Womack III",
           "position": "CB",
@@ -16202,7 +16250,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/20/depthcharts"
     },
     "PHI": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "3929630",
@@ -16379,6 +16427,14 @@
           "jersey": "18",
           "status": "Active",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4879250.png"
+        },
+        {
+          "id": "4360238",
+          "name": "Dameon Pierce",
+          "position": "RB",
+          "jersey": "39",
+          "status": "Active",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360238.png"
         },
         {
           "id": "4431545",
@@ -16725,6 +16781,22 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685279.png"
         },
         {
+          "id": "4567783",
+          "name": "James Brockermeyer",
+          "position": "C",
+          "jersey": "64",
+          "status": "Practice Squad",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567783.png"
+        },
+        {
+          "id": "4362186",
+          "name": "Erik Ezukanma",
+          "position": "WR",
+          "jersey": "82",
+          "status": "Practice Squad",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362186.png"
+        },
+        {
           "id": "4427278",
           "name": "Xavier Gipson",
           "position": "WR",
@@ -16773,14 +16845,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567535.png"
         },
         {
-          "id": "4360238",
-          "name": "Dameon Pierce",
-          "position": "RB",
-          "jersey": "39",
-          "status": "Practice Squad",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360238.png"
-        },
-        {
           "id": "4691903",
           "name": "Mason Reiger",
           "position": "LB",
@@ -16827,7 +16891,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/21/depthcharts"
     },
     "PIT": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4714771",
@@ -17468,7 +17532,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/23/depthcharts"
     },
     "SEA": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4678006",
@@ -18125,7 +18189,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/26/depthcharts"
     },
     "SF": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4360438",
@@ -18862,7 +18926,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/25/depthcharts"
     },
     "TB": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4429251",
@@ -19463,7 +19527,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/27/depthcharts"
     },
     "TEN": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "4883647",
@@ -20136,7 +20200,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/10/depthcharts"
     },
     "WAS": {
-      "as_of": "2026-10-07T22:14:50.025952+00:00",
+      "as_of": "2026-10-08T02:15:11.673136+00:00",
       "roster": [
         {
           "id": "3115922",
@@ -20675,6 +20739,22 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4686092.png"
         },
         {
+          "id": "4692796",
+          "name": "Nick DeGennaro",
+          "position": "WR",
+          "jersey": "",
+          "status": "Practice Squad",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4692796.png"
+        },
+        {
+          "id": "4261606",
+          "name": "Darren Hall",
+          "position": "S",
+          "jersey": "36",
+          "status": "Practice Squad",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4261606.png"
+        },
+        {
           "id": "4361994",
           "name": "Sam Hartman",
           "position": "QB",
@@ -20699,12 +20779,12 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429185.png"
         },
         {
-          "id": "5081056",
-          "name": "Jeffrey M'ba",
-          "position": "DT",
-          "jersey": "60",
+          "id": "5278092",
+          "name": "T.J. Maguranyanga",
+          "position": "DE",
+          "jersey": "59",
           "status": "Practice Squad",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5081056.png"
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5278092.png"
         },
         {
           "id": "5153070",
