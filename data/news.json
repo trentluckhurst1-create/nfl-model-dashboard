@@ -1,25 +1,38 @@
 {
-  "updated_at_utc": "2026-10-08T02:04:59.265548+00:00",
-  "checked_at_utc": "2026-10-08T02:04:59.265548+00:00",
+  "updated_at_utc": "2026-10-08T08:54:11.016697+00:00",
+  "checked_at_utc": "2026-10-08T08:54:11.016697+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 14,
+      "items": 28,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 35
+      "items": 36
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 19,
+      "items": 20,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "NFL Catchup: Eagles' Injuries Mount; Jayden Daniels Trending Toward Return",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-eagles-injuries-mount-jayden-daniels-trending-toward-return",
+      "summary": "Here's the latest from around the NFL on Wednesday.",
+      "published": "Thu, 08 Oct 2026 00:48:39 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PHI"
+      ]
+    },
     {
       "title": "NFL Coaching Hot Seat Rankings: Todd Bowles Could Soon Be Out; Nick Sirianni Next?",
       "url": "https://www.foxsports.com/stories/nfl/nfl-coaching-hot-seat-rankings-todd-bowles-could-soon-out-nick-sirianni-next",
@@ -450,6 +463,187 @@
       "teams": [
         "IND"
       ]
+    },
+    {
+      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+      "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "published": "2026-10-07T19:17:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Ravens acquire center Cam Jurgens in trade with Eagles",
+      "url": "https://www.espn.com/nfl/story/_/id/50126306/ravens-acquire-center-cam-jurgens-trade-eagles",
+      "summary": "The Ravens acquired two-time Pro Bowl center Cam Jurgens in a trade with the Eagles.",
+      "published": "2026-10-07T23:17:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "2026 NFL trade deadline updates: Latest on Cam Jurgens, Joey Porter Jr. deals",
+      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
+      "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including the Eagles sending Cam Jurgens to the Ravens.",
+      "published": "2026-10-07T18:33:50Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "ESPN's Super Bowl LXI broadcast will also stream on Disney+",
+      "url": "https://www.espn.com/nfl/story/_/id/50125971/espn-super-bowl-61-broadcast-stream-disney+",
+      "summary": "ESPN announced on Tuesday that its broadcast of Super Bowl LXI on Feb. 14, 2027, will also be streamed on Disney+.",
+      "published": "2026-10-07T18:57:17Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Odell Beckham Jr. signs with Vikings on practice squad",
+      "url": "https://www.espn.com/nfl/story/_/id/50125332/odell-beckham-jr-signs-vikings-practice-squad",
+      "summary": "The Vikings are signing wide receiver Odell Beckham Jr. to their practice squad, a source told NFL Network's Ian Rapoport.",
+      "published": "2026-10-07T22:27:45Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "49ers FB Kyle Juszczyk's celebration fine rescinded after appeal",
+      "url": "https://www.espn.com/nfl/story/_/id/50124990/nfl-rescinds-juszczyk-fine-says-misunderstood-celebration",
+      "summary": "The NFL has rescinded the $14,926 fine it imposed on the 49ers' Kyle Juszczyk for what it thought was a distasteful celebration of chugging a beer.",
+      "published": "2026-10-07T22:10:43Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "NFL Week 5 latest intel, buzz questions, news, fantasy tips: What we're hearing",
+      "url": "https://www.espn.com/nfl/story/_/id/50116787/week-5-buzz-fantasy-predictions-graziano-fowler-2026",
+      "summary": "Could injuries to Saquon Barkley, Lamar Jackson and others derail their teams? Which AFC teams should trade for a WR? Which coordinators could get head coach interest?",
+      "published": "2026-10-07T17:00:06Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "Early 2026 NFL trends for the 49ers, Vikings, Bucs, Texans, Giants, Browns",
+      "url": "https://www.espn.com/nfl/story/_/id/50119594/early-2026-trends-stats-records-history-four-games",
+      "summary": "Just how good are the 49ers? Are the Texans and Bucs better than their records? Are the Giants and Browns worse? We put the NFL season's first month in historical context.",
+      "published": "2026-10-07T10:18:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "HOU",
+        "MIN",
+        "NYG",
+        "SF",
+        "TB"
+      ]
+    },
+    {
+      "title": "Texans' defense has gone from elite to struggling to close out games",
+      "url": "https://www.espn.com/nfl/story/_/id/50120172/winless-texans-defense-struggling-cj-stroud",
+      "summary": "Houston has given up late leads in three of the first four games despite scoring go-ahead touchdowns.",
+      "published": "2026-10-07T10:00:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU"
+      ]
+    },
+    {
+      "title": "Why Jaguars play 26 of next 30 regular-season games away from Jacksonville",
+      "url": "https://www.espn.com/nfl/story/_/id/50120750/jacksonville-jaguars-road-games-london-orlando-2027",
+      "summary": "The Jaguars will become the first NFL team since 1926 to play in 12 or more stadiums in a single season -- including Tottenham Hotspur Stadium on Sunday.",
+      "published": "2026-10-07T10:00:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Jets searching for identity as losses become 'tough to stomach'",
+      "url": "https://www.espn.com/nfl/story/_/id/50117262/new-york-jets-searching-identity-aaron-glenn",
+      "summary": "After a Week 1 win, New York has fallen to 1-3 and has struggled to assert itself the way it wants.",
+      "published": "2026-10-07T10:00:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Irsay-Gordon's presence on Colts sideline reignites debate",
+      "url": "https://www.espn.com/nfl/story/_/id/50120611/indianapolis-colts-carlie-irsay-gordon-sideline",
+      "summary": "Carlie Irsay-Gordon's game-day routine isn't typical for owners, but she said it \"helps to understand and to ask questions.\"",
+      "published": "2026-10-07T13:20:33Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "How Browns' defense reemerged as a strength after Week 1",
+      "url": "https://www.espn.com/nfl/story/_/id/50122062/cleveland-browns-defense-reemerged-strength-man-zone",
+      "summary": "The return to its strength of playing man coverage has played a big role in the unit's resurgence.",
+      "published": "2026-10-07T12:57:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE"
+      ]
+    },
+    {
+      "title": "Tyreek Hill's wife recounts assault, verbal abuse at trial",
+      "url": "https://www.espn.com/nfl/story/_/id/50121315/tyreek-hill-wife-recounts-assault-verbal-abuse-trial",
+      "summary": "Tyreek Hill's wife recounted details of assault and verbal abuse during testimony Tuesday on the first day of a civil assault and battery trial in Florida, proceedings that began a day after ESPN reported Hill would potentially sign an NFL contract soon.",
+      "published": "2026-10-07T12:00:29Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
     },
     {
       "title": "NFL Week 5 injury report: Lamar Jackson, Ja'Marr Chase among several stars uncertain for Sunday",
@@ -909,6 +1103,19 @@
       "category": "transaction",
       "teams": [
         "CAR"
+      ]
+    },
+    {
+      "title": "Former NFL first-round pick abruptly retires after playing 12 snaps in Week 4, per report",
+      "url": "https://www.cbssports.com/nfl/news/marcus-davenport-nfl-first-round-pick-abruptly-retires/",
+      "summary": "The Chicago Bears were hit by a surprise retirement this week",
+      "published": "Tue, 06 Oct 2026 15:20:56 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
       ]
     }
   ],
