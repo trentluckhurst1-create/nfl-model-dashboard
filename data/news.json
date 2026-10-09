@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-09T19:45:04.111871+00:00",
-  "checked_at_utc": "2026-10-09T19:45:04.111871+00:00",
+  "updated_at_utc": "2026-10-09T23:35:27.977397+00:00",
+  "checked_at_utc": "2026-10-09T23:35:27.977397+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
@@ -11,15 +11,55 @@
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 31
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 17,
+      "items": 16,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Chargers Lose Rashawn Slater To IR After Right Ankle Surgery",
+      "url": "https://www.foxsports.com/stories/nfl/los-angeles-chargers-lose-rashawn-slater-to-injured-reserve-after-right-ankle-surgery",
+      "summary": "Los Angeles Chargers tackle Rashawn Slater was placed on injured reserve Friday after having right ankle surgery.",
+      "published": "Fri, 09 Oct 2026 17:31:30 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
+      "title": "The Vest, Leather Jacket And So Much More: Bears Legend Mike Ditka's NFL Legacy",
+      "url": "https://www.foxsports.com/stories/nfl/mike-ditka-stats-bears-records-nfl-super-bowl-head-coaches",
+      "summary": "Mike Ditka is a football icon. A great player, coach and person who impacted NFL society. Here's a look at the Bears' legend's career.",
+      "published": "Fri, 09 Oct 2026 17:18:23 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Eagles Head To London Without Saquon Barkley, DeVonta Smith vs. Jaguars",
+      "url": "https://www.foxsports.com/stories/nfl/eagles-stars-saquon-barkley-and-devonta-smith-ruled-out-of-london-game-against-jaguars",
+      "summary": "Eagles running back Saquon Barkley and receiver DeVonta Smith have been ruled out of Sunday's game against the Jacksonville Jaguars in London because of hamstring injuries.",
+      "published": "Fri, 09 Oct 2026 17:17:46 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "JAX",
+        "PHI"
+      ]
+    },
     {
       "title": "Todd Bowles Shows Why He Deserves Chance To Resurrect The Buccaneers\u2019 Season",
       "url": "https://www.foxsports.com/stories/nfl/todd-bowles-hot-seat-buccaneers-beat-cowboys-week-5",
@@ -188,70 +228,107 @@
       ]
     },
     {
-      "title": "2026 NFL Week 5 Picks: Best Bets For Every Game \u2014 Will's Wagers",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-5-picks-best-bets-every-game-wills-wagers",
-      "summary": "Will Hill drops his best bet for EVERY NFL Week 5 game. Dive in.",
-      "published": "Thu, 08 Oct 2026 17:22:49 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Rams DT Aaron Donald practices in full, plans to play MNF",
+      "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills",
+      "summary": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
+      "published": "2026-10-09T23:32:45Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2027 NFL Draft No. 1 Pick Odds: Jeremiah Smith Overtakes Arch Manning As Favorite",
-      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
-      "summary": "Could Jeremiah Smith become the first wide receiver drafted No. 1 overall since 1996? See the latest odds.",
-      "published": "Thu, 08 Oct 2026 15:42:08 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Sean Payton Says He\u2019ll Call Broncos\u2019 Offensive Plays Against Chargers",
-      "url": "https://www.foxsports.com/stories/nfl/denver-broncos-sean-payton-offensive-playcalling",
-      "summary": "Broncos' coach Sean Payton told reporters that he will be calling the plays starting this Sunday against the Chargers",
-      "published": "Thu, 08 Oct 2026 15:24:36 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
+      "category": "injury",
       "teams": [
-        "DEN",
-        "LAC"
+        "BUF",
+        "LA"
       ]
     },
     {
-      "title": "NFL Trade Deadline: League Execs Expect A Handful Of Standout WRs To Be Targets",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-rumors-marvin-harrison-brian-thomas-chris-godwin-quentin-johnston-jerry-jeudy",
-      "summary": "Here's who we're hearing could be moved ahead of the NFL's trade deadline.",
-      "published": "Thu, 08 Oct 2026 15:22:44 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Giants expect Nabers, Thomas, Skattebo and Likely to play Sunday",
-      "url": "https://www.espn.com/nfl/story/_/id/50142255/giants-expect-nabers-thomas-skattebo-likely-play-sunday",
-      "summary": "Giants expect Nabers, Thomas, Skattebo and Likely to play Sunday",
-      "published": "2026-10-09T19:37:11Z",
+      "title": "49ers DE Mykel Williams to make season debut vs. Seahawks",
+      "url": "https://www.espn.com/nfl/story/_/id/50143042/san-francisco-49ers-mykel-williams-make-season-debut-vs-seattle-seahawks",
+      "summary": "49ers defensive end Mykel Williams will make his 2026 debut Sunday against the Seahawks, a little less than a year after tearing his ACL and suffering meniscus damage in his right knee.",
+      "published": "2026-10-09T22:16:36Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "NYG"
+        "SEA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Broncos OC Davis Webb says 'not ideal' to lose playcalling duties",
+      "url": "https://www.espn.com/nfl/story/_/id/50142757/broncos-oc-davis-webb-says-not-ideal-lose-play-calling-duties",
+      "summary": "Broncos offensive coordinator Davis Webb said that \"it's not ideal\" to have been stripped of playcalling duties, but said he plans to \"be the best offensive coordinator I can be.\"",
+      "published": "2026-10-09T21:45:55Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN"
+      ]
+    },
+    {
+      "title": "Saquon Barkley, DeVonta Smith among Eagles ruled out vs. Jaguars",
+      "url": "https://www.espn.com/nfl/story/_/id/50142553/saquon-barkley-devonta-smith-eagles-players-ruled-london-game-vs-jaguars",
+      "summary": "Eagles running back Saquon Barkley, receiver DeVonta Smith, new starting center Drew Kendall, safety Marcus Epps and receiver Hollywood Brown were all ruled out for Sunday's game in London against the Jaguars.",
+      "published": "2026-10-09T20:56:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "JAX",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Where to watch NFL London Games: Eagles vs. Jaguars",
+      "url": "https://www.espn.com/nfl/story/_/id/50135197/watch-2026-nfl-london-games-eagles-vs-jaguars",
+      "summary": "Eagles vs. Jaguars is a part of the NFL's games in London this season.",
+      "published": "2026-10-09T20:00:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Bills vs. Rams: Where to watch 'Monday Night Football'",
+      "url": "https://www.espn.com/nfl/story/_/id/50134144/bills-vs-rams-watch-monday-night-football-week-5",
+      "summary": "Here's what to know about the Week 5 matchup.",
+      "published": "2026-10-09T19:51:52Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA"
+      ]
+    },
+    {
+      "title": "Giants expect Nabers, Thomas, Skattebo and Likely to play Sunday",
+      "url": "https://www.espn.com/nfl/story/_/id/50142255/giants-expect-nabers-thomas-skattebo-likely-play-sunday",
+      "summary": "New York Giants wide receiver Malik Nabers is expected to play Sunday against the Washington Commanders after missing a practice earlier in the week because of knee soreness.",
+      "published": "2026-10-09T21:33:15Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYG",
+        "WAS"
       ]
     },
     {
       "title": "Jeremiyah Love 'trending well' to play despite ankle reinjury",
       "url": "https://www.espn.com/nfl/story/_/id/50142254/jeremiyah-love-trending-well-play-ankle-reinjury",
       "summary": "Cardinals rookie running back Jeremiyah Love aggravated his ankle injury last week against the Giants. He was limited in practice this week but is trending to play against the Lions.",
-      "published": "2026-10-09T19:35:23Z",
+      "published": "2026-10-09T19:50:08Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -266,7 +343,7 @@
       "title": "Chargers LT Rashawn Slater on IR following ankle surgery",
       "url": "https://www.espn.com/nfl/story/_/id/50142241/chargers-lt-rashawn-slater-ir-following-ankle-surgery",
       "summary": "The Chargers are placing Rashawn Slater on injured reserve after the left tackle had surgery for a high ankle sprain. Los Angeles will be without three of its starting offensive linemen against the Broncos on Sunday.",
-      "published": "2026-10-09T19:45:00Z",
+      "published": "2026-10-09T20:59:14Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -305,10 +382,10 @@
       ]
     },
     {
-      "title": "Sources: Eagles release Andy Dalton after costly pick, demotion",
+      "title": "Eagles release QB Andy Dalton after costly pick, demotion",
       "url": "https://www.espn.com/nfl/story/_/id/50142134/sources-eagles-release-andy-dalton-costly-pick-demotion",
-      "summary": "Andy Dalton, who lost his spot as the Eagles' backup quarterback following a costly interception against the Bears, has been released, sources told NFL Network.",
-      "published": "2026-10-09T19:23:33Z",
+      "summary": "Andy Dalton, who lost his spot as the Eagles' backup quarterback following a costly interception against the Bears, has been released.",
+      "published": "2026-10-09T21:01:42Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -322,7 +399,7 @@
       "title": "Vikings list WRs Justin Jefferson, Jordan Addison as questionable",
       "url": "https://www.espn.com/nfl/story/_/id/50142102/vikings-list-wrs-justin-jefferson-jordan-addison-questionable",
       "summary": "Vikings receivers Justin Jefferson (ankle) and Jordan Addison (hamstring) were both listed as questionable for Sunday's game against the New Orleans Saints.",
-      "published": "2026-10-09T19:09:38Z",
+      "published": "2026-10-09T19:50:34Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -333,85 +410,59 @@
       ]
     },
     {
-      "title": "Ravens QB Lamar Jackson out; Huntley to start SNF vs. Falcons",
-      "url": "https://www.espn.com/nfl/story/_/id/50141743/ravens-qb-lamar-jackson-huntley-start-snf-vs-falcons",
-      "summary": "The Ravens are ruling out quarterback Lamar Jackson for Sunday's game against the Falcons.",
-      "published": "2026-10-09T18:46:33Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ATL",
-        "BAL"
-      ]
-    },
-    {
-      "title": "Browns rule out DTs Graham, Hall against Jets",
-      "url": "https://www.espn.com/nfl/story/_/id/50141641/browns-rule-dts-graham-hall-jets",
-      "summary": "The Cleveland Browns ruled out defensive tackles Mason Graham and Mike Hall Jr. for Sunday's road game against the New York Jets.",
-      "published": "2026-10-09T17:43:20Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 5 injury report: Eagles' Saquon Barkley and DeVonta Smith out, Bears' Caleb Williams questionable",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-5-injury-report-eagles-saquon-barkley-devonta-smith-out/",
+      "summary": "Here's a look at the game designations for Week 5 in the NFL",
+      "published": "Fri, 09 Oct 2026 22:22:32 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "CLE",
-        "NYJ"
+        "CHI",
+        "PHI"
       ]
     },
     {
-      "title": "Patriots won't have starting CBs Christian Gonzalez, Carlton Davis",
-      "url": "https://www.espn.com/nfl/story/_/id/50141584/patriots-starting-cbs-christian-gonzalez-carlton-davis",
-      "summary": "The Patriots will be without starting cornerbacks Christian Gonzalez and Carlton Davis this week.",
-      "published": "2026-10-09T18:39:41Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Commanders QB Daniels will play, WR Diggs out against Giants",
-      "url": "https://www.espn.com/nfl/story/_/id/50141410/commanders-qb-daniels-play-wr-diggs-giants",
-      "summary": "Commanders quarterback Jayden Daniels will start Sunday in his return from an elbow injury, but wide receiver Stefon Diggs will not play against the Giants due to a hamstring injury.",
-      "published": "2026-10-09T17:32:49Z",
-      "source": "ESPN NFL",
+      "title": "More alarming injury news for Eagles as they prepare to face Jaguars in London",
+      "url": "https://www.cbssports.com/nfl/news/injury-news-saquon-barkley-eagles-jaguars-london/",
+      "summary": "Philadelphia's offense could be stuck in the mud once again on Sunday",
+      "published": "Fri, 09 Oct 2026 21:00:37 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "NYG",
-        "WAS"
+        "JAX",
+        "PHI"
       ]
     },
     {
-      "title": "Sputtering Jets offense without RB Hall, WR Mitchell vs. Browns",
-      "url": "https://www.espn.com/nfl/story/_/id/50140789/sputtering-jets-offense-rb-hall-wr-mitchell-vs-browns",
-      "summary": "The Jets, coming off a historically poor performance, will be without two of their top playmakers in RB Breece Hall and WR Adonai Mitchell vs. the Browns.",
-      "published": "2026-10-09T15:42:07Z",
-      "source": "ESPN NFL",
+      "title": "Eagles releasing QB Andy Dalton: Possible landing spots for the signal caller include Vikings, Titans",
+      "url": "https://www.cbssports.com/nfl/news/eagles-releasing-veteran-qb-andy-dalton/",
+      "summary": "Dalton will begin the process of finding a new team",
+      "published": "Fri, 09 Oct 2026 20:17:02 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "MIN",
+        "PHI",
+        "TEN"
+      ]
+    },
+    {
+      "title": "Arvell Reese, Sonny Styles to meet in Week 5: Did Giants make right choice between first-round linebackers?",
+      "url": "https://www.cbssports.com/nfl/news/arvell-reese-sonny-styles-did-giants-make-right-choice/",
+      "summary": "There might not have been a wrong answer for the Giants at pick No. 5 in the 2026 NFL Draft",
+      "published": "Fri, 09 Oct 2026 19:59:59 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CLE",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Legendary coach, Hall of Fame TE Mike Ditka dies at age 86",
-      "url": "https://www.espn.com/nfl/story/_/id/50140701/legendary-coach-hall-fame-te-mike-ditka-dies-age-86",
-      "summary": "Mike Ditka, a Hall of Fame tight end who became an NFL legend for his time as coach of the Bears, has died at the age of 86.",
-      "published": "2026-10-09T19:29:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
+        "NYG"
       ]
     },
     {
@@ -671,19 +722,6 @@
       ]
     },
     {
-      "title": "Arvell Reese, Sonny Styles to meet in Week 4: Did Giants make right choice between first-round linebackers?",
-      "url": "https://www.cbssports.com/nfl/news/arvell-reese-sonny-styles-did-giants-make-right-choice/",
-      "summary": "There might not have been a wrong answer for the Giants at pick No. 5 in the 2026 NFL Draft",
-      "published": "Fri, 09 Oct 2026 13:20:28 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
       "title": "Week 5 NFL bold predictions: Bijan Robinson makes NFL primetime history, struggling Packers upset Bears",
       "url": "https://www.cbssports.com/nfl/news/week-5-nfl-bold-predictions-bijan-robinson-packers-upset-bears/",
       "summary": "Plus, the Dolphins finally get more points on the board and other bold predictions for Week 5",
@@ -811,34 +849,6 @@
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
-      "teams": [
-        "DAL",
-        "TB"
-      ]
-    },
-    {
-      "title": "Bengals' Jordan Battle reveals subtle Malik Willis tell ahead of Week 5 matchup against Dolphins",
-      "url": "https://www.cbssports.com/nfl/news/bengals-jordan-battle-reveals-subtle-malik-willis-tell-dolphins/",
-      "summary": "Cincinnati might have a leg up on Miami thanks to this scouting revelation",
-      "published": "Thu, 08 Oct 2026 23:13:05 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "MIA"
-      ]
-    },
-    {
-      "title": "Cowboys vs. Buccaneers odds, predictions, spread, betting preview: Thursday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/cowboys-vs-buccaneers-odds-predictions-spread-betting-preview-thursday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Buccaneers vs. Cowboys on Thursday Night Football",
-      "published": "Thu, 08 Oct 2026 23:10:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
       "teams": [
         "DAL",
         "TB"
