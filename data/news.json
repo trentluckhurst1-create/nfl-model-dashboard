@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-09T23:35:27.977397+00:00",
-  "checked_at_utc": "2026-10-09T23:35:27.977397+00:00",
+  "updated_at_utc": "2026-10-10T02:44:24.050546+00:00",
+  "checked_at_utc": "2026-10-10T02:44:24.050546+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 13,
+      "items": 6,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -231,7 +231,7 @@
       "title": "Rams DT Aaron Donald practices in full, plans to play MNF",
       "url": "https://www.espn.com/nfl/story/_/id/50143342/rams-aaron-donald-practices-full-plans-play-mnf-vs-bills",
       "summary": "Rams defensive tackle Aaron Donald practiced in full Friday and said he plans to play Monday night against the Bills after missing Week 4 with back soreness.",
-      "published": "2026-10-09T23:32:45Z",
+      "published": "2026-10-10T00:05:43Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -258,8 +258,8 @@
     {
       "title": "Broncos OC Davis Webb says 'not ideal' to lose playcalling duties",
       "url": "https://www.espn.com/nfl/story/_/id/50142757/broncos-oc-davis-webb-says-not-ideal-lose-play-calling-duties",
-      "summary": "Broncos offensive coordinator Davis Webb said that \"it's not ideal\" to have been stripped of playcalling duties, but said he plans to \"be the best offensive coordinator I can be.\"",
-      "published": "2026-10-09T21:45:55Z",
+      "summary": "Broncos offensive coordinator Davis Webb said \"it's not ideal\" to have been stripped of playcalling duties, but said he plans to \"be the best offensive coordinator I can be.\"",
+      "published": "2026-10-10T00:50:57Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -272,7 +272,7 @@
       "title": "Saquon Barkley, DeVonta Smith among Eagles ruled out vs. Jaguars",
       "url": "https://www.espn.com/nfl/story/_/id/50142553/saquon-barkley-devonta-smith-eagles-players-ruled-london-game-vs-jaguars",
       "summary": "Eagles running back Saquon Barkley, receiver DeVonta Smith, new starting center Drew Kendall, safety Marcus Epps and receiver Hollywood Brown were all ruled out for Sunday's game in London against the Jaguars.",
-      "published": "2026-10-09T20:56:39Z",
+      "published": "2026-10-10T02:31:08Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -308,105 +308,6 @@
       "teams": [
         "BUF",
         "LA"
-      ]
-    },
-    {
-      "title": "Giants expect Nabers, Thomas, Skattebo and Likely to play Sunday",
-      "url": "https://www.espn.com/nfl/story/_/id/50142255/giants-expect-nabers-thomas-skattebo-likely-play-sunday",
-      "summary": "New York Giants wide receiver Malik Nabers is expected to play Sunday against the Washington Commanders after missing a practice earlier in the week because of knee soreness.",
-      "published": "2026-10-09T21:33:15Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Jeremiyah Love 'trending well' to play despite ankle reinjury",
-      "url": "https://www.espn.com/nfl/story/_/id/50142254/jeremiyah-love-trending-well-play-ankle-reinjury",
-      "summary": "Cardinals rookie running back Jeremiyah Love aggravated his ankle injury last week against the Giants. He was limited in practice this week but is trending to play against the Lions.",
-      "published": "2026-10-09T19:50:08Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ARI",
-        "DET",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Chargers LT Rashawn Slater on IR following ankle surgery",
-      "url": "https://www.espn.com/nfl/story/_/id/50142241/chargers-lt-rashawn-slater-ir-following-ankle-surgery",
-      "summary": "The Chargers are placing Rashawn Slater on injured reserve after the left tackle had surgery for a high ankle sprain. Los Angeles will be without three of its starting offensive linemen against the Broncos on Sunday.",
-      "published": "2026-10-09T20:59:14Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Raiders RB Ashton Jeanty (ankle/foot) questionable vs. Pats",
-      "url": "https://www.espn.com/nfl/story/_/id/50142192/raiders-rb-ashton-jeanty-ankle-foot-questionable-vs-pats",
-      "summary": "Raiders coach Klint Kubiak said Friday that RB Ashton Jeanty was questionable to play against the Patriots as he deals with ankle and foot injuries.",
-      "published": "2026-10-09T19:34:09Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LV",
-        "NE"
-      ]
-    },
-    {
-      "title": "Bears RB Monangai out, QB Williams now questionable vs. Packers",
-      "url": "https://www.espn.com/nfl/story/_/id/50142140/bears-rb-monangai-qb-williams-now-questionable-vs-packers",
-      "summary": "The Bears have ruled RB Kyle Monangai out for Sunday's matchup against the Packers, while QB Caleb Williams is questionable after being a limited participant in Friday's practice.",
-      "published": "2026-10-09T19:36:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "GB"
-      ]
-    },
-    {
-      "title": "Eagles release QB Andy Dalton after costly pick, demotion",
-      "url": "https://www.espn.com/nfl/story/_/id/50142134/sources-eagles-release-andy-dalton-costly-pick-demotion",
-      "summary": "Andy Dalton, who lost his spot as the Eagles' backup quarterback following a costly interception against the Bears, has been released.",
-      "published": "2026-10-09T21:01:42Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "CHI",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Vikings list WRs Justin Jefferson, Jordan Addison as questionable",
-      "url": "https://www.espn.com/nfl/story/_/id/50142102/vikings-list-wrs-justin-jefferson-jordan-addison-questionable",
-      "summary": "Vikings receivers Justin Jefferson (ankle) and Jordan Addison (hamstring) were both listed as questionable for Sunday's game against the New Orleans Saints.",
-      "published": "2026-10-09T19:50:34Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN",
-        "NO"
       ]
     },
     {
@@ -563,7 +464,7 @@
       "title": "Mike Ditka, Hall of Fame tight end and Bears' Super Bowl-winning coach, dies at age 86",
       "url": "https://www.cbssports.com/nfl/news/mike-ditka-bears-super-bowl-winning-coach-dies-at-age-86/",
       "summary": "Ditka was a fixture in the NFL for more than 50 years",
-      "published": "Fri, 09 Oct 2026 16:48:01 +0000",
+      "published": "Sat, 10 Oct 2026 01:09:50 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -625,20 +526,6 @@
       "teams": []
     },
     {
-      "title": "NFL odds, picks: Texans vs. Titans same-game parlay for historically bad Week 5 matchup",
-      "url": "https://www.cbssports.com/betting/news/nfl-odds-picks-texans-vs-titans-same-game-parlay-for-historically-bad-week-5-matchup/",
-      "summary": "It's the NFL Winless Bowl when the Texans visit the Titans on CBS Sunday",
-      "published": "Fri, 09 Oct 2026 14:15:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "TEN"
-      ]
-    },
-    {
       "title": "Just how embarrassing was Dallas' loss to the Bucs? What went wrong and where Cowboys go from here",
       "url": "https://www.cbssports.com/nfl/news/dallas-loss-to-the-bucs-what-went-wrong-where-cowboys-go-from-here/",
       "summary": "Dallas blew a golden chance to position themselves to capitalize on a weakened NFC East vs. the winless Bucs",
@@ -650,6 +537,20 @@
       "teams": [
         "DAL",
         "TB"
+      ]
+    },
+    {
+      "title": "NFL odds, picks: Texans vs. Titans same-game parlay for historically bad Week 5 matchup",
+      "url": "https://www.cbssports.com/betting/news/nfl-odds-picks-texans-vs-titans-same-game-parlay-for-historically-bad-week-5-matchup/",
+      "summary": "It's the NFL Winless Bowl when the Texans visit the Titans on CBS Sunday",
+      "published": "Fri, 09 Oct 2026 14:15:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "TEN"
       ]
     },
     {
