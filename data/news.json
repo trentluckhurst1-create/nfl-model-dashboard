@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-11T01:20:47.735004+00:00",
-  "checked_at_utc": "2026-10-11T01:20:47.735004+00:00",
+  "updated_at_utc": "2026-10-11T07:27:06.524060+00:00",
+  "checked_at_utc": "2026-10-11T07:27:06.524060+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 1,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,67 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 16,
+      "items": 19,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Commanders vs. Giants Prediction, Odds, Pick For NFL Week 5",
+      "url": "https://www.foxsports.com/stories/nfl/commanders-vs-giants-prediction-odds-pick-nfl-week-5",
+      "summary": "Get the latest odds, prediction and pick for the Week 5 Commanders vs. Giants game, as well as information on how to watch.",
+      "published": "Sun, 11 Oct 2026 02:10:32 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Saints vs. Vikings Prediction, Odds, Pick For NFL Week 5",
+      "url": "https://www.foxsports.com/stories/nfl/saints-vs-vikings-prediction-odds-pick-nfl-week-5",
+      "summary": "Get the latest odds, prediction and pick for the Week 5 Vikings vs. Saints game, as well as information on how to watch.",
+      "published": "Sun, 11 Oct 2026 02:08:16 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN",
+        "NO"
+      ]
+    },
+    {
+      "title": "Dolphins vs. Bengals Prediction, Odds, Pick For NFL Week 5",
+      "url": "https://www.foxsports.com/stories/nfl/dolphins-vs-bengals-prediction-odds-pick-nfl-week-5",
+      "summary": "Get the latest odds, prediction and pick for the Week 5 Dolphins vs. Bengals game, as well as information on how to watch.",
+      "published": "Sun, 11 Oct 2026 01:34:16 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "MIA"
+      ]
+    },
+    {
+      "title": "Packers vs. Bears Prediction, Odds, Pick For NFL Week 5",
+      "url": "https://www.foxsports.com/stories/nfl/packers-vs-bears-prediction-odds-pick-nfl-week-5",
+      "summary": "Get the latest odds, prediction and pick for the Week 5 Packers vs. Bears game, as well as information on how to watch.",
+      "published": "Sun, 11 Oct 2026 01:32:18 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "GB"
+      ]
+    },
     {
       "title": "2026 NFL Odds Week 5: Lines, Spreads, Results For All 15 Games",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-5-lines-spreads-results-all-15-games",
@@ -214,29 +270,69 @@
       "teams": []
     },
     {
-      "title": "Dak Prescott Is The \u2018Manager\u2019 Of The Cowboys\u2019 Rock Band",
-      "url": "https://www.foxsports.com/stories/nfl/colin-cowherd-dak-prescott-manager-cowboys-rock-band",
-      "summary": "Colin Cowherd said it took him a long time to figure out Prescott before he landed on an analogy ahead of the Cowboys\u2019 Thursday night game against the Tampa Bay Buccaneers.",
-      "published": "Thu, 08 Oct 2026 18:47:25 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "TB"
-      ]
-    },
-    {
-      "title": "Christian McCaffrey, Olivia Culpo announce birth of second child",
-      "url": "https://www.espn.com/nfl/story/_/id/50151392/christian-mccaffrey-olivia-culpo-second-child",
-      "summary": "McCaffrey and his wife, Olivia Culpo, announced the news of the birth of their second child in a joint post on Instagram on Saturday.",
-      "published": "2026-10-10T23:02:08Z",
+      "title": "Philadelphia Eagles vs. Jacksonville Jaguars: NFL London kick-off time, how to watch in UK, team news",
+      "url": "https://www.espn.com/nfl/story/_/id/50133397/philadelphia-eagles-vs-jacksonville-jaguars-nfl-london-kick-how-watch-uk-team-news",
+      "summary": "The NFL is back in London this weekend as the Philadelphia Eagles take on the Jacksonville Jaguars at Tottenham Hotspur Stadium on Sunday.",
+      "published": "2026-10-11T06:45:39Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "JAX",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Eagles vs. Jaguars, NFL London preview: ESPN experts on key players, matchups and predictions",
+      "url": "https://www.espn.com/nfl/story/_/id/50147561/philadelphia-eagles-jacksonville-jaguars-nfl-london-preview-key-players-matchups-predictions",
+      "summary": "The NFL rolls into London this begin with a clash between the Indianapolis Colts and the Washington Commanders -- so we asked ESPN reporters Stephen Holder and John Keim for a preview.",
+      "published": "2026-10-11T06:46:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "JAX",
+        "PHI",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Prisco's Week 5 NFL picks: Jaguars roll over Eagles, Packers upset Bears, Rams edge Bills on 'MNF'",
+      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-5-nfl-picks-odds/",
+      "summary": "Pete Prisco reveals all of his Week 5 picks, including the Texans getting their first win and the Jets over the Browns",
+      "published": "Sun, 11 Oct 2026 05:00:53 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "CHI",
+        "CLE",
+        "GB",
+        "HOU",
+        "JAX",
+        "LA",
+        "NYJ",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Last minute best bets for NFL Week 5: Steelers capitalize on rest advantage, Bears stand strong",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-5-picks-predictions-bets-steelers-colts/",
+      "summary": "Need some last-second help filling your bets for Week 5? We've got you covered",
+      "published": "Sun, 11 Oct 2026 01:01:03 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "PIT"
+      ]
     },
     {
       "title": "NFL Week 5 player props, anytime TD best bets: Five value bets to consider",
@@ -636,34 +732,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "Just how embarrassing was Dallas' loss to the Bucs? What went wrong and where Cowboys go from here",
-      "url": "https://www.cbssports.com/nfl/news/dallas-loss-to-the-bucs-what-went-wrong-where-cowboys-go-from-here/",
-      "summary": "Dallas blew a golden chance to position themselves to capitalize on a weakened NFC East vs. the winless Bucs",
-      "published": "Fri, 09 Oct 2026 14:16:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "TB"
-      ]
-    },
-    {
-      "title": "NFL odds, picks: Texans vs. Titans same-game parlay for historically bad Week 5 matchup",
-      "url": "https://www.cbssports.com/betting/news/nfl-odds-picks-texans-vs-titans-same-game-parlay-for-historically-bad-week-5-matchup/",
-      "summary": "It's the NFL Winless Bowl when the Texans visit the Titans on CBS Sunday",
-      "published": "Fri, 09 Oct 2026 14:15:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "TEN"
-      ]
     }
   ],
   "reporters": []
