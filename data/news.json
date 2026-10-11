@@ -1,25 +1,246 @@
 {
-  "updated_at_utc": "2026-10-11T07:27:06.524060+00:00",
-  "checked_at_utc": "2026-10-11T07:27:06.524060+00:00",
+  "updated_at_utc": "2026-10-11T14:18:49.186994+00:00",
+  "checked_at_utc": "2026-10-11T14:18:49.186994+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 24
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 19,
+      "items": 24,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "How to Watch Giants vs. Commanders: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-giants-vs-commanders-tv-channel-live-stream-time-oct-11-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 5 Giants and Commanders game.",
+      "published": "Sun, 11 Oct 2026 08:39:22 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "WAS"
+      ]
+    },
+    {
+      "title": "How to Watch Ravens vs. Falcons: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-ravens-vs-falcons-tv-channel-live-stream-time-oct-11-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 5 Ravens and Falcons game.",
+      "published": "Sun, 11 Oct 2026 08:38:28 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "BAL"
+      ]
+    },
+    {
+      "title": "How to Watch Eagles vs. Jaguars: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-eagles-vs-jaguars-tv-channel-live-stream-time-oct-11-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 5 Philadelphia Eagles and Jacksonville Jaguars game.",
+      "published": "Sun, 11 Oct 2026 08:37:14 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX",
+        "PHI"
+      ]
+    },
+    {
+      "title": "How to Watch Broncos vs. Chargers: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-broncos-vs-chargers-tv-channel-live-stream-time-oct-11-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 5 Broncos and Chargers game.",
+      "published": "Sun, 11 Oct 2026 08:36:42 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "LAC"
+      ]
+    },
+    {
+      "title": "How to Watch Colts vs. Steelers: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-colts-vs-steelers-tv-channel-live-stream-time-oct-11-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 5 Colts and Steelers game.",
+      "published": "Sun, 11 Oct 2026 08:36:33 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "PIT"
+      ]
+    },
+    {
+      "title": "How to Watch Texans vs. Titans: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-texans-vs-titans-tv-channel-live-stream-time-oct-11-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 5 Houston Texans and Tennessee Titans game.",
+      "published": "Sun, 11 Oct 2026 08:36:27 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "TEN"
+      ]
+    },
+    {
+      "title": "How to Watch Raiders vs. Patriots: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-raiders-vs-patriots-tv-channel-live-stream-time-oct-11-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 5 Raiders and Patriots game.",
+      "published": "Sun, 11 Oct 2026 08:36:23 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV",
+        "NE"
+      ]
+    },
+    {
+      "title": "How to Watch Browns vs. Jets: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-browns-vs-jets-tv-channel-live-stream-time-oct-11-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 5 Cleveland Browns and New York Jets game.",
+      "published": "Sun, 11 Oct 2026 08:36:18 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "How to Watch 49ers vs. Seahawks: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-49ers-vs-seahawks-tv-channel-live-stream-time-oct-11-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 5 San Francisco 49ers and Seattle Seahawks game.",
+      "published": "Sun, 11 Oct 2026 08:36:08 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SEA",
+        "SF"
+      ]
+    },
+    {
+      "title": "How to Watch Lions vs. Cardinals: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-lions-vs-cardinals-tv-channel-live-stream-time-oct-11-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 5 Detroit Lions and Arizona Cardinals game.",
+      "published": "Sun, 11 Oct 2026 08:35:59 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "DET"
+      ]
+    },
+    {
+      "title": "How to Watch Bears vs. Packers: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-bears-vs-packers-tv-channel-live-stream-time-oct-11-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 5 Bears and Packers game.",
+      "published": "Sun, 11 Oct 2026 08:35:48 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "GB"
+      ]
+    },
+    {
+      "title": "How to Watch Vikings vs. Saints: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-vikings-vs-saints-tv-channel-live-stream-time-oct-11-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 5 Vikings and Saints game.",
+      "published": "Sun, 11 Oct 2026 08:35:31 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN",
+        "NO"
+      ]
+    },
+    {
+      "title": "How to Watch Bengals vs. Dolphins: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-bengals-vs-dolphins-tv-channel-live-stream-time-oct-11-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 5 Bengals and Dolphins game.",
+      "published": "Sun, 11 Oct 2026 08:34:27 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "MIA"
+      ]
+    },
+    {
+      "title": "NFL DFS Week 5: Best Picks, Lineup Advice and Value Plays",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-dfs-week-5-best-picks-lineup-advice-value-plays",
+      "summary": "Top NFL DFS picks for Week 5, including value plays, lineup strategy and sleepers to target for your daily fantasy roster this week.",
+      "published": "Sun, 11 Oct 2026 05:00:38 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Cardinals vs. Lions Prediction, Odds, Pick For NFL Week 5",
+      "url": "https://www.foxsports.com/stories/nfl/cardinals-vs-lions-prediction-odds-pick-nfl-week-5",
+      "summary": "Get the latest odds, prediction and pick for the Week 5 Cardinals vs. Lions game, as well as information on how to watch.",
+      "published": "Sun, 11 Oct 2026 04:25:12 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "DET"
+      ]
+    },
+    {
+      "title": "Seahawks vs. 49ers Prediction, Odds, Pick For NFL Week 5",
+      "url": "https://www.foxsports.com/stories/nfl/seahawks-vs-49ers-prediction-odds-pick-nfl-week-5",
+      "summary": "Get the latest odds, prediction and pick for the Week 5 Seahawks vs. 49ers game, as well as information on how to watch.",
+      "published": "Sun, 11 Oct 2026 04:25:11 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SEA",
+        "SF"
+      ]
+    },
     {
       "title": "Commanders vs. Giants Prediction, Odds, Pick For NFL Week 5",
       "url": "https://www.foxsports.com/stories/nfl/commanders-vs-giants-prediction-odds-pick-nfl-week-5",
@@ -128,152 +349,10 @@
       ]
     },
     {
-      "title": "Todd Bowles Shows Why He Deserves Chance To Resurrect The Buccaneers\u2019 Season",
-      "url": "https://www.foxsports.com/stories/nfl/todd-bowles-hot-seat-buccaneers-beat-cowboys-week-5",
-      "summary": "Todd Bowles' seat is still warm, but he has earned the right to get the Buccaneers out of their early hole.",
-      "published": "Fri, 09 Oct 2026 15:19:01 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "TB"
-      ]
-    },
-    {
-      "title": "Ravens' Lamar Jackson Ruled Out For Week 5, Tyler Huntley Set To Start",
-      "url": "https://www.foxsports.com/stories/nfl/baltimore-ravens-lamar-jackson-qb-ankle-injury",
-      "summary": "Ravens' quarterback Lamar Jackson has officially been ruled out for Week 5 against the Falcons. Tyler Huntley will start in his place.",
-      "published": "Fri, 09 Oct 2026 15:05:35 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "BAL"
-      ]
-    },
-    {
-      "title": "NFL Week 5 Schedule: How to Watch, TV Channels, Streaming, Game Previews",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-5-schedule-how-watch-tv-channels-streaming-game-previews",
-      "summary": "See the complete NFL Week 5 schedule, TV channels and streaming details for all 15 games, plus previews of the top matchups including six FOX games.",
-      "published": "Fri, 09 Oct 2026 14:50:20 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Commanders Coach Dan Quinn Reveals Week 5 Game Status For QB Jayden Daniels",
-      "url": "https://www.foxsports.com/stories/nfl/jayden-daniels-injury-update-commanders-quarterbacks-week-5-giants",
-      "summary": "Commanders head coach Dan Quinn revealed the game status for quarterback Jayden Daniels in the team's Week 5 matchup against the Giants.",
-      "published": "Fri, 09 Oct 2026 13:37:37 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Lions DC Kelvin Sheppard Gives Passionate Message To Struggling Defense",
-      "url": "https://www.foxsports.com/stories/nfl/kelvin-sheppard-message-lions-defense-stats",
-      "summary": "Detroit Lions defensive coordinator Kelvin Sheppard gave an emotional message to his struggling unit.",
-      "published": "Fri, 09 Oct 2026 12:31:29 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "Legendary Chicago Bears Coach, Hall Of Famer Mike Ditka Dies At 86",
-      "url": "https://www.foxsports.com/stories/nfl/legendary-chicago-bears-coach-hall-famer-mike-ditka-dies-86",
-      "summary": "Mike Ditka, who won NFL titles as a player and coach with the Chicago Bears, has died at age 86.",
-      "published": "Fri, 09 Oct 2026 12:23:03 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "'Extraordinarily Disappointed': Jerry Jones, Dak Prescott Talk Cowboys' TNF Loss",
-      "url": "https://www.foxsports.com/stories/nfl/jerry-jones-dak-prescott-video-comments-cowboys-buccaneers-thursday-night-game",
-      "summary": "Jerry Jones, Dak Prescott and Brian Schottenheimer had strong reactions to the Cowboys' Thursday night loss to the previously winless Buccaneers.",
-      "published": "Fri, 09 Oct 2026 11:45:12 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "TB"
-      ]
-    },
-    {
-      "title": "2026 NFL Week 5 Best Bets, Expert Picks: Back Purdy, CMC Passing Connection",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-5-best-bets-expert-picks-back-purdy-cmc-passing-connection",
-      "summary": "Geoff Schwartz sees CMC doing his damage through the air against Seattle, and the Cardinals putting up a fight against the Lions.",
-      "published": "Fri, 09 Oct 2026 09:28:17 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "DET"
-      ]
-    },
-    {
-      "title": "A Big Upset In The Big D: 3 Takeaways From Cowboys' Stunning Loss To Buccaneers",
-      "url": "https://www.foxsports.com/stories/nfl/big-upset-big-d-3-takeaways-from-cowboys-stunning-loss-buccaneers",
-      "summary": "The Buccaneers delivered a stunner in Dallas. Here are our takeaways from the Cowboys' surprising loss.",
-      "published": "Thu, 08 Oct 2026 23:41:55 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "TB"
-      ]
-    },
-    {
-      "title": "Tom Brady Remembers The Saddest Moment Of Career: 'Worst Thing I Could've Ever Imagined'",
-      "url": "https://www.foxsports.com/stories/nfl/tom-brady-remembers-saddest-moment-career-worst-thing-i-couldve-ever-imagined",
-      "summary": "Tom Brady took a painful walk down memory lane in the latest edition of #AskTom.",
-      "published": "Thu, 08 Oct 2026 22:37:58 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Taking The L: What We've Been The Most Wrong About Through 1st Quarter Of NFL Season",
-      "url": "https://www.foxsports.com/stories/nfl/taking-l-what-weve-been-most-wrong-about-through-1st-quarter-nfl-season",
-      "summary": "We're eating a slice of humble pie and sharing which of our preseason predictions were the most off-base.",
-      "published": "Thu, 08 Oct 2026 19:56:49 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Philadelphia Eagles vs. Jacksonville Jaguars: NFL London kick-off time, how to watch in UK, team news",
-      "url": "https://www.espn.com/nfl/story/_/id/50133397/philadelphia-eagles-vs-jacksonville-jaguars-nfl-london-kick-how-watch-uk-team-news",
-      "summary": "The NFL is back in London this weekend as the Philadelphia Eagles take on the Jacksonville Jaguars at Tottenham Hotspur Stadium on Sunday.",
-      "published": "2026-10-11T06:45:39Z",
+      "title": "Jeremiah Trotter Jr., Bryan Thomas Jr. ejected for fighting",
+      "url": "https://www.espn.com/nfl/story/_/id/50156864/jeremiah-trotter-jr-bryan-thomas-jr-ejected-fighting",
+      "summary": "Eagles linebacker Jeremiah Trotter Jr. and Jaguars defensive end Bryan Thomas Jr. were ejected after getting into a fight on the opening kickoff Sunday at Tottenham Hotspur Stadium.",
+      "published": "2026-10-11T14:16:43Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -284,26 +363,109 @@
       ]
     },
     {
-      "title": "Eagles vs. Jaguars, NFL London preview: ESPN experts on key players, matchups and predictions",
-      "url": "https://www.espn.com/nfl/story/_/id/50147561/philadelphia-eagles-jacksonville-jaguars-nfl-london-preview-key-players-matchups-predictions",
-      "summary": "The NFL rolls into London this begin with a clash between the Indianapolis Colts and the Washington Commanders -- so we asked ESPN reporters Stephen Holder and John Keim for a preview.",
-      "published": "2026-10-11T06:46:01Z",
+      "title": "Doctors fear risk of further Jayden Daniels elbow injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50152303/doctors-fear-risk-further-jayden-daniels-elbow-injury",
+      "summary": "Doctors around the NFL believe it's a matter of when, not if, Commanders quarterback Jayden Daniels hurts his left elbow again, sources told ESPN.",
+      "published": "2026-10-11T12:54:43Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "WAS"
+      ]
+    },
+    {
+      "title": "HOFer Ronnie Lott offers words of encouragement to Aaron Glenn as losses pile up",
+      "url": "https://www.espn.com/nfl/story/_/id/50136210/ronnie-lott-encourages-jets-coach-aaron-glenn",
+      "summary": "Glenn is 4-17 in New York and hasn't beaten a team with a winning record with the 3-1 Browns up next.",
+      "published": "2026-10-11T10:00:04Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "IND",
-        "JAX",
-        "PHI",
-        "WAS"
+        "CLE"
       ]
     },
     {
-      "title": "Prisco's Week 5 NFL picks: Jaguars roll over Eagles, Packers upset Bears, Rams edge Bills on 'MNF'",
+      "title": "Sources: Eagles mull Lane Johnson roster status amid O-line changes",
+      "url": "https://www.espn.com/nfl/story/_/id/50151867/sources-eagles-mull-lane-johnson-roster-status-amid-o-line-changes",
+      "summary": "Lane Johnson is expected to remain on the Eagles' 53-man roster until after June 1 for salary cap purposes as Philadelphia continues to navigate multiple changes to the offensive line.",
+      "published": "2026-10-11T12:56:59Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Patriots to honor the 2001 Super Bowl team: Can the 2026 squad learn from them?",
+      "url": "https://www.espn.com/nfl/story/_/id/50142515/new-england-patriots-2001-adam-vinatieri-raiders",
+      "summary": "Robert Kraft talked about the similarities between the two teams as he prepares to honor the 25th anniversary of the Patriots' first championship.",
+      "published": "2026-10-11T10:00:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "Raiders vs. Patriots odds, picks, prediction, spread, line: NFL Week 5 start time, betting preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/raiders-vs-patriots-odds-picks-prediction-spread-line-nfl-week-5-start-time-betting-preview-best-bets/",
+      "summary": "Here's everything bettors need to know for Raiders vs. Patriots in NFL Week 5 action",
+      "published": "Sun, 11 Oct 2026 14:14:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV",
+        "NE"
+      ]
+    },
+    {
+      "title": "Week 5 NFL score predictions, odds, picks, betting advice: Proven model has projections for every game",
+      "url": "https://www.cbssports.com/betting/news/week-5-nfl-score-predictions-odds-picks-betting-advice-proven-model-has-projections-for-every-game/",
+      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
+      "published": "Sun, 11 Oct 2026 14:02:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 Week 5 NFL player prop picks, best bets for Sunday's games include Christian McCaffrey, Bijan Robinson",
+      "url": "https://www.cbssports.com/betting/news/2026-week-5-nfl-player-prop-picks-best-bets-sundays-games-include-christian-mccaffrey-bijan-robinson/",
+      "summary": "Bet on NFL player props Week 5 at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
+      "published": "Sun, 11 Oct 2026 13:51:52 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 5 NFL betting promos: Pocket over $3,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/week-5-nfl-betting-promos-pocket-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 5 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Sun, 11 Oct 2026 13:32:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Prisco's Week 5 NFL picks: Packers upset Bears, Vikings remain unbeaten, Rams edge Bills on 'MNF'",
       "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-5-nfl-picks-odds/",
       "summary": "Pete Prisco reveals all of his Week 5 picks, including the Texans getting their first win and the Jets over the Browns",
-      "published": "Sun, 11 Oct 2026 05:00:53 +0000",
+      "published": "Sun, 11 Oct 2026 13:23:47 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -314,10 +476,139 @@
         "CLE",
         "GB",
         "HOU",
-        "JAX",
         "LA",
-        "NYJ",
+        "MIN",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Week 5 NFL odds, spreads, totals, betting lines, for all 16 games, including Bears-Packers, Falcons-Ravens",
+      "url": "https://www.cbssports.com/betting/news/week-5-nfl-betting-spreads-odds-totals-lines/",
+      "summary": "The Week 5 NFL schedule is here, featuring pivotal matchups like 49ers vs. Seahawks, Falcons vs. Ravens and Bills vs. Rams",
+      "published": "Sun, 11 Oct 2026 13:19:54 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "BAL",
+        "BUF",
+        "CHI",
+        "GB",
+        "LA",
+        "SEA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Cardinals finalizing Marvin Harrison Jr. trade, former No. 4 pick inactive vs. Lions",
+      "url": "https://www.cbssports.com/nfl/news/cardinals-marvin-harrison-jr-trade-2026/",
+      "summary": "The former No. 4 overall pick is inactive against the Lions after Arizona reportedly informed him of its decision",
+      "published": "Sun, 11 Oct 2026 13:18:19 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "ARI",
+        "DET"
+      ]
+    },
+    {
+      "title": "Where is Marvin Harrison Jr. headed? Inside the mystery surrounding Cardinals' unfinished trade",
+      "url": "https://www.cbssports.com/nfl/news/marvin-harrison-jr-trade-mystery-cardinals-texans-latest/",
+      "summary": "Houston is a team to watch as questions remain about Marvin Harrison Jr.'s destination and what Arizona will get in return",
+      "published": "Sun, 11 Oct 2026 13:21:34 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "ARI"
+      ]
+    },
+    {
+      "title": "It wouldn't shock me IF ... NFL Week 5: Nick Sirianni's seat heats up, Sean Payton takes back playcalling",
+      "url": "https://www.cbssports.com/nfl/news/it-wouldnt-shock-me-if-nfl-week-5-nick-siriannis-sean-payton/",
+      "summary": "Could the 49ers plant their flag as the Super Bowl favorites? Will Jacoby Brissett be the latest QB to light up the Lions?",
+      "published": "Sun, 11 Oct 2026 13:01:53 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "DET",
+        "SF"
+      ]
+    },
+    {
+      "title": "Are Eagles tanking? Why Philadelphia's teardown looks like a full-scale rebuild",
+      "url": "https://www.cbssports.com/nfl/news/eagles-cam-jurgens-trade-lane-johnson-retirement-2026/",
+      "summary": "The Eagles are stockpiling premium draft picks while dismantling a once-dominant offensive line",
+      "published": "Sun, 11 Oct 2026 12:11:00 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
         "PHI"
+      ]
+    },
+    {
+      "title": "Vikings vs. Saints odds, picks, prediction, spread, line: NFL Week 5 start time, betting preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/vikings-vs-saints-odds-picks-prediction-spread-line-nfl-week-5-start-time-betting-preview-best-bets/",
+      "summary": "Here's everything bettors need to know for Vikings vs. Saints in NFL Week 5 action",
+      "published": "Sun, 11 Oct 2026 12:01:29 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN",
+        "NO"
+      ]
+    },
+    {
+      "title": "Jaguars vs. Eagles prediction: Philadelphia comes into London banged up, can it upset Jacksonville?",
+      "url": "https://www.cbssports.com/nfl/news/where-to-watch-jaguars-vs-eagles-prediction-odds-streaming-nfl/",
+      "summary": "Here's how to follow Sunday's action from London",
+      "published": "Sun, 11 Oct 2026 11:47:43 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Eagles vs. Jaguars odds, picks, predictions: NFL London Game start time, betting preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/eagles-vs-jaguars-odds-picks-predictions-nfl-london-game-start-time-betting-preview-best-bets/",
+      "summary": "Here's everything bettors need to know as Philadelphia and Jacksonville meet in an early kickoff Sunday from London's Tottenham Hotspur Stadium",
+      "published": "Sun, 11 Oct 2026 10:01:04 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Lions vs. Cardinals odds, picks, prediction, spread, line: NFL Week 5 start time, betting preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/lions-vs-cardinals-odds-picks-prediction-spread-line-nfl-week-5-start-time-betting-preview-best-bets/",
+      "summary": "Here's everything bettors need to know for Lions vs. Cardinals in NFL Week 5 action",
+      "published": "Sun, 11 Oct 2026 09:00:51 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "DET"
       ]
     },
     {
@@ -359,59 +650,6 @@
       ]
     },
     {
-      "title": "Week 5 NFL score predictions, odds, picks, betting advice: Proven model gives projections for every game",
-      "url": "https://www.cbssports.com/betting/news/week-5-nfl-score-predictions-odds-picks-betting-advice-proven-model-gives-projections-for-every-game/",
-      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
-      "published": "Sat, 10 Oct 2026 17:24:11 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 5 NFL betting promos: Receive over $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-5-nfl-betting-promos-receive-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 5 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Sat, 10 Oct 2026 17:10:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 Week 5 NFL player prop picks, best bets for Sunday's games include Christian McCaffrey, Bijan Robinson",
-      "url": "https://www.cbssports.com/betting/news/2026-week-5-nfl-player-prop-picks-best-bets-for-sundays-games-include-christian-mccaffrey-bijan-robinson/",
-      "summary": "Bet on NFL player props Week 5 at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
-      "published": "Sat, 10 Oct 2026 17:08:26 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 5 NFL odds, spreads, totals, betting lines, for all 16 games, including Bears-Packers, Falcons-Ravens",
-      "url": "https://www.cbssports.com/betting/news/week-5-nfl-betting-odds-spreads-totals-lines/",
-      "summary": "The Week 5 NFL schedule is here, featuring pivotal matchups like 49ers vs. Seahawks, Falcons vs. Ravens and Bills vs. Rams",
-      "published": "Sat, 10 Oct 2026 16:58:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "BAL",
-        "BUF",
-        "CHI",
-        "GB",
-        "LA",
-        "SEA",
-        "SF"
-      ]
-    },
-    {
       "title": "Will the Marvin Harrison Jr. trade unlock his potential? History offers hope, and a warning",
       "url": "https://www.cbssports.com/nfl/news/history-offers-hope-warning-for-marvin-harrison-jr-trade/",
       "summary": "Harrison's time in Arizona is reportedly over. Here's what his trade value could look like, what history says about a fresh start and three teams that could be on the other end of the deal",
@@ -434,20 +672,6 @@
       "teams": [
         "ARI",
         "LAC"
-      ]
-    },
-    {
-      "title": "Cardinals finalizing Marvin Harrison Jr. trade, former No. 4 pick inactive vs. Lions per report",
-      "url": "https://www.cbssports.com/nfl/news/cardinals-marvin-harrison-jr-trade-2026/",
-      "summary": "The former No. 4 overall pick is inactive against the Lions after Arizona reportedly informed him of its decision",
-      "published": "Sat, 10 Oct 2026 18:05:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "ARI",
-        "DET"
       ]
     },
     {
@@ -505,20 +729,6 @@
       ]
     },
     {
-      "title": "Jaguars vs. Eagles: Where to watch NFL London matchup, plus pick, odds, kickoff time and latest updates",
-      "url": "https://www.cbssports.com/nfl/news/where-to-watch-jaguars-vs-eagles-prediction-odds-streaming-nfl/",
-      "summary": "Here's how to follow Sunday's action from London",
-      "published": "Sat, 10 Oct 2026 10:12:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX",
-        "PHI"
-      ]
-    },
-    {
       "title": "Colts vs. Steelers: AFC matchup should have the feel of a playoff game in Pittsburgh",
       "url": "https://www.cbssports.com/nfl/news/colts-vs-steelers-how-to-watch-preview-prediction/",
       "summary": "Plus, how to watch, what to know and a preview from an NFL expert",
@@ -531,207 +741,6 @@
         "IND",
         "PIT"
       ]
-    },
-    {
-      "title": "NFL Week 5 injury report: Eagles' Saquon Barkley and DeVonta Smith out, Bears' Caleb Williams questionable",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-5-injury-report-eagles-saquon-barkley-devonta-smith-out/",
-      "summary": "Here's a look at the game designations for Week 5 in the NFL",
-      "published": "Fri, 09 Oct 2026 22:22:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "PHI"
-      ]
-    },
-    {
-      "title": "More alarming injury news for Eagles as they prepare to face Jaguars in London",
-      "url": "https://www.cbssports.com/nfl/news/injury-news-saquon-barkley-eagles-jaguars-london/",
-      "summary": "Philadelphia's offense could be stuck in the mud once again on Sunday",
-      "published": "Fri, 09 Oct 2026 21:00:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "JAX",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Eagles releasing QB Andy Dalton: Possible landing spots for the signal caller include Vikings, Titans",
-      "url": "https://www.cbssports.com/nfl/news/eagles-releasing-veteran-qb-andy-dalton/",
-      "summary": "Dalton will begin the process of finding a new team",
-      "published": "Fri, 09 Oct 2026 20:17:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "MIN",
-        "PHI",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Arvell Reese, Sonny Styles to meet in Week 5: Did Giants make right choice between first-round linebackers?",
-      "url": "https://www.cbssports.com/nfl/news/arvell-reese-sonny-styles-did-giants-make-right-choice/",
-      "summary": "There might not have been a wrong answer for the Giants at pick No. 5 in the 2026 NFL Draft",
-      "published": "Fri, 09 Oct 2026 19:59:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Former NFL star calls out Cowboys for controversial two-point decision in fourth quarter: \"Wasn't smart'",
-      "url": "https://www.cbssports.com/nfl/news/dez-bryant-calls-out-cowboys-for-two-point-decision-vs-buccanneers/",
-      "summary": "Dez Bryant didn't like Dallas' call to go for two, and he may have been right",
-      "published": "Fri, 09 Oct 2026 18:46:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Ravens rule out Lamar Jackson for Week 5 matchup vs. Falcons due to ankle injury",
-      "url": "https://www.cbssports.com/nfl/news/ravens-rule-out-lamar-jackson-for-week-5-matchup-vs-falcons/",
-      "summary": "Tyler Huntley will make his first start of the year in Atlanta",
-      "published": "Fri, 09 Oct 2026 18:12:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "BAL"
-      ]
-    },
-    {
-      "title": "Mike Ditka's five greatest moments as a player and coach: Super Bowl XX takes top spot",
-      "url": "https://www.cbssports.com/nfl/news/mike-ditkas-five-greatest-moments/",
-      "summary": "Ditka's football journey was one of a kind",
-      "published": "Fri, 09 Oct 2026 18:11:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 5 picks: Experts face off on 49ers at Seahawks, Falcons vs. Ravens and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-5-picks-buccaneers-at-cowboys-49ers-at-seahawks/",
-      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
-      "published": "Fri, 09 Oct 2026 17:52:12 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "BAL",
-        "SEA",
-        "SF"
-      ]
-    },
-    {
-      "title": "Tributes pour in as NFL world mourns, remembers football giant and HOFer Mike Ditka",
-      "url": "https://www.cbssports.com/nfl/news/tributes-pour-in-as-nfl-world-remembers-mike-ditka/",
-      "summary": "A Hall of Fame coach who guided the iconic 1985 Bears to a Super Bowl XX title, Ditka won 106 games in Chicago, second in franchise history",
-      "published": "Fri, 09 Oct 2026 17:16:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Cowboys' Jerry Jones expresses interest in making trades despite embarrassing loss to Buccaneers",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-jerry-jones-trades-despite-embarrassing-loss-buccaneers/",
-      "summary": "Despite a stunning home loss to Tampa Bay, Dallas sits at 2-3 in a wide-open NFC East with enough draft capital to make another splash before the deadline",
-      "published": "Fri, 09 Oct 2026 17:00:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL",
-        "TB"
-      ]
-    },
-    {
-      "title": "Are the Texans cooked after their 0-4 start? Why a sliver of hope still remains for Houston",
-      "url": "https://www.cbssports.com/nfl/news/why-sliver-of-hope-remains-for-houston-texans-0-4-start/",
-      "summary": "The Texans are winless and on the brink of losing their season, but there are at least a few reasons to wait it out a little longer",
-      "published": "Fri, 09 Oct 2026 16:28:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU"
-      ]
-    },
-    {
-      "title": "Mike Ditka, Hall of Fame tight end and Bears' Super Bowl-winning coach, dies at age 86",
-      "url": "https://www.cbssports.com/nfl/news/mike-ditka-bears-super-bowl-winning-coach-dies-at-age-86/",
-      "summary": "Ditka was a fixture in the NFL for more than 50 years",
-      "published": "Sat, 10 Oct 2026 01:09:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Misunderstood Shedeur Sanders opens up on public perception as Browns QB: 'Why would people think this?'",
-      "url": "https://www.cbssports.com/nfl/news/shedeur-sanders-opens-up-on-public-perception-browns/",
-      "summary": "What the second-year quarterback told Cosmopolitan this week about how he's viewed nationally",
-      "published": "Fri, 09 Oct 2026 14:47:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CLE"
-      ]
-    },
-    {
-      "title": "Buccaneers rookie Jalon Daniels orchestrates wild upset of Cowboys in second career start",
-      "url": "https://www.cbssports.com/nfl/news/who-is-jalon-daniels-buccaneers-rookie-quarterback/",
-      "summary": "The undrafted Kansas product is making history in place of the injured Baker Mayfield",
-      "published": "Fri, 09 Oct 2026 14:44:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DAL",
-        "TB"
-      ]
-    },
-    {
-      "title": "NFL Week 5 schedule: A look at three underrated games you should watch, including a rare matchup",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-5-schedule-underrated-games/",
-      "summary": "A look at some of the less talked-about games of the week",
-      "published": "Fri, 09 Oct 2026 14:15:18 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     }
   ],
   "reporters": []
