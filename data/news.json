@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-12T18:05:19.966391+00:00",
-  "checked_at_utc": "2026-10-12T18:05:19.966391+00:00",
+  "updated_at_utc": "2026-10-13T00:35:10.550684+00:00",
+  "checked_at_utc": "2026-10-13T00:35:10.550684+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 6,
+      "items": 9,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 29
+      "items": 30
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,58 @@
     }
   },
   "items": [
+    {
+      "title": "49ers WR Deebo Samuel Expected To Miss Multiple Weeks With Hamstring Injury",
+      "url": "https://www.foxsports.com/stories/nfl/san-francisco-49ers-deebo-samuel-seahawks-hamstring-injury",
+      "summary": "San Francisco 49ers wide receiver Deebo Samuel Sr. is expected to miss \u201cat least a couple of weeks\" with the hamstring injury he suffered Sunday against the Seattle Seahawks.",
+      "published": "Mon, 12 Oct 2026 16:14:17 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SEA",
+        "SF"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
+      "summary": "The Chiefs have returned to form and the Niners are taking control of the NFC West. See the latest NFL postseason odds.",
+      "published": "Mon, 12 Oct 2026 15:34:42 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "SF"
+      ]
+    },
+    {
+      "title": "'I Don\u2019t Get Paid Overtime': Kyle Hamilton\u2019s Ice-Cold Line After Sealing Ravens W",
+      "url": "https://www.foxsports.com/stories/nfl/baltimore-ravens-atlanta-falcons-overtime-kyle-hamilton",
+      "summary": "Kyle Hamilton wasn't trying to stay late.",
+      "published": "Mon, 12 Oct 2026 15:07:34 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 5: Lines, Spreads, Results For All 15 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-5-lines-spreads-results-all-15-games",
+      "summary": "Check out the odds for every Week 5 matchup in the NFL.",
+      "published": "Mon, 12 Oct 2026 14:42:58 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "2026 NFL Odds Week 6: Lines, Spreads, Results For All 14 Games",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-6-lines-spreads-results-all-14-games",
@@ -183,53 +235,243 @@
       ]
     },
     {
-      "title": "Why Cooper Kupp Was Ruled Short Of 1st-Down Marker In 49ers' Win vs. Seahawks",
-      "url": "https://www.foxsports.com/stories/nfl/why-cooper-kupp-ruled-short-1st-down-marker-49ers-win-vs-seahawks",
-      "summary": "Why was the call involving Cooper Kupp not overturned in the Seahawks' loss to the 49ers? FOX Sports officiating expert Dean Blandino explained.",
-      "published": "Sun, 11 Oct 2026 20:52:23 -0400",
-      "source": "FOX Sports NFL",
+      "title": "NFL Week 5 arrivals: Ravens trio channels early 2000s style ahead of 'SNF'",
+      "url": "https://www.espn.com/nfl/story/_/id/50135612/nfl-week-5-fashionable-arrivals",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-10-13T00:14:19Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "SEA",
-        "SF"
+        "BAL"
       ]
     },
     {
-      "title": "Commanders Co-Owner Magic Johnson 'In Total Disbelief' Over Team's OT Loss To Giants",
-      "url": "https://www.foxsports.com/stories/nfl/commanders-co-owner-magic-johnson-in-total-disbelief-over-teams-ot-loss-giants",
-      "summary": "Commanders co-owner Magic Johnson voiced his frustration on social media, posting that he was in \u201ctotal disbelief\" over the team's late-game clock management.",
-      "published": "Sun, 11 Oct 2026 20:19:41 -0400",
-      "source": "FOX Sports NFL",
+      "title": "LaFleur: 1-4 Cardinals not planning to change playcallers",
+      "url": "https://www.espn.com/nfl/story/_/id/50169700/lafleur-cardinals-not-planning-change-playcallers",
+      "summary": "Mike LaFleur says he does not plan on making changes to any of Arizona's coaching duties after a 1-4 start.",
+      "published": "2026-10-12T23:42:11Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "NYG",
+        "ARI"
+      ]
+    },
+    {
+      "title": "Commanders' Quinn says 'no one is pleased' after botched play fuels fan angst",
+      "url": "https://www.espn.com/nfl/story/_/id/50168989/quinn-commanders-botched-final-play-starts-me",
+      "summary": "Commanders coach Dann Quinn explained the breakdown that caused a botched final play in Sunday's overtime tie, saying it's ultimately his responsibility.",
+      "published": "2026-10-12T22:58:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
         "WAS"
       ]
     },
     {
-      "title": "Packers\u2019 Zaire Franklin Fires Back At Bears\u2019 Luther Burden: \u2018He Quit Today\u2019",
-      "url": "https://www.foxsports.com/stories/nfl/packers-zaire-franklin-fires-back-bears-luther-burden-he-quit-today",
-      "summary": "Packers linebacker Zaire Franklin didn't hold back when dissing Luther Burden III.",
-      "published": "Sun, 11 Oct 2026 20:06:58 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Dolphins' Jeff Hafley says he's not mulling QB change entering bye",
+      "url": "https://www.espn.com/nfl/story/_/id/50168959/dolphins-hafley-says-not-mulling-qb-change-entering-bye",
+      "summary": "Dolphins coach Jeff Hafley is not considering a quarterback change heading into their Week 6 bye, but he did say the passing offense must improve.",
+      "published": "2026-10-12T23:34:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "MIA"
+      ]
+    },
+    {
+      "title": "Cowboys bring in Mike Pettine to assist first-year DC Christian Parker",
+      "url": "https://www.espn.com/nfl/story/_/id/50168837/cowboys-bring-mike-pettine-assist-first-year-dc-christian-parker",
+      "summary": "The struggling Dallas Cowboys are bringing in longtime NFL coach Mike Pettine as a senior defensive assistant to work with first-year DC Christian Parker.",
+      "published": "2026-10-12T23:15:33Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CHI",
-        "GB"
+        "DAL"
       ]
     },
     {
-      "title": "4 Takeaways From The 49ers' Thrilling Win Over The Seahawks",
-      "url": "https://www.foxsports.com/stories/nfl/san-francisco-49ers-vs-seattle-seahawks-takeaways-october-11-week-5",
-      "summary": "The 49ers got a huge win to improve to 5-0, taking down the reigning champs on the road.",
-      "published": "Sun, 11 Oct 2026 19:53:12 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Bears' Johnson undecided on QB vs. Falcons if Williams can't go",
+      "url": "https://www.espn.com/nfl/story/_/id/50168772/bears-johnson-undecided-qb-vs-falcons-williams-go",
+      "summary": "Bears coach Ben Johnson was noncommittal Monday on which quarterback will start against the Falcons.",
+      "published": "2026-10-12T21:51:55Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ATL",
+        "CHI"
+      ]
+    },
+    {
+      "title": "Shanahan says 49ers WR Deebo Samuel to miss time with hamstring injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50168446/shanahan-49ers-wr-samuel-miss-hamstring-injury",
+      "summary": "49ers WR Deebo Samuel is expected to miss \"at least a couple of weeks\" with the hamstring injury he suffered Sunday in Seattle, coach Kyle Shanahan said Monday.",
+      "published": "2026-10-12T20:42:41Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "Sources: Falcons QB Michael Penix's rib injury not considered serious",
+      "url": "https://www.espn.com/nfl/story/_/id/50168293/falcons-qb-penix-rib-injury-not-considered-serious",
+      "summary": "Falcons quarterback Michael Penix Jr.'s rib injury is not considered serious, sources told ESPN's Adam Schefter.",
+      "published": "2026-10-12T20:10:16Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL"
+      ]
+    },
+    {
+      "title": "Judkins, Schwesinger (ankles) add to injury woes for Browns",
+      "url": "https://www.espn.com/nfl/story/_/id/50167865/judkins-schwesinger-ankles-add-injury-woes-browns",
+      "summary": "Browns RB Quinshon Judkins and LB Carson Schwesinger are day-to-day after injuring their ankles against the Jets on Sunday. The Browns next host the Ravens.",
+      "published": "2026-10-12T19:00:05Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "CLE",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Rams vs. Bills prediction, odds: Matthew Stafford, Josh Allen clash in Week 5 'MNF' matchup",
+      "url": "https://www.cbssports.com/nfl/news/rams-vs-bills-how-to-watch-prediction-odds-monday-night-football/",
+      "summary": "Here's how to watch Rams vs. Bills, along with the latest odds, key matchups and our Week 5 'Monday Night Football' prediction",
+      "published": "Tue, 13 Oct 2026 00:00:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA"
+      ]
+    },
+    {
+      "title": "Rams vs. Bills odds, prediction, betting preview, start time: Monday Night Football picks, best bets",
+      "url": "https://www.cbssports.com/betting/news/rams-bills-odds-prediction-betting-preview-start-time-monday-night-football-picks-best-bets/",
+      "summary": "Best bets and betting preview for Bills vs. Rams on Monday Night Football",
+      "published": "Mon, 12 Oct 2026 22:57:37 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA"
+      ]
+    },
+    {
+      "title": "Is DJ Moore playing on 'Monday Night Football?' A look at the Bills WR's status vs. Rams",
+      "url": "https://www.cbssports.com/nfl/news/is-dj-moore-playing-on-mnf-bills-wrs-status-vs-rams/",
+      "summary": "Moore was initially listed as questionable with a shoulder injury",
+      "published": "Mon, 12 Oct 2026 22:51:33 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BUF",
+        "LA"
+      ]
+    },
+    {
+      "title": "Bills vs. Rams odds, picks, player props: Expert's best bets for NFL Week 5 Monday Night Football",
+      "url": "https://www.cbssports.com/betting/news/bills-vs-rams-odds-picks-player-props-experts-best-bets-for-nfl-week-5-monday-night-football/",
+      "summary": "A massive 54.5 total headlines the board as two high-powered offenses collide, creating prime opportunities on Josh Allen and Puka Nacua anytime touchdowns along with a sneaky Kyren Williams prop",
+      "published": "Mon, 12 Oct 2026 22:30:51 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA"
+      ]
+    },
+    {
+      "title": "Cowboys hire former NFL head coach, Packers' DC to help fix struggling defense",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-hire-mike-pettine-to-help-defense-christian-parker/",
+      "summary": "Brian Schottenheimer is calling in reinforcements after Thursday night's loss against the Bucs",
+      "published": "Mon, 12 Oct 2026 21:37:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "GB",
+        "TB"
+      ]
+    },
+    {
+      "title": "Rams-Bills, NFL betting promos: Pocket more than $3,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/rams-bills-nfl-betting-promos-pocket-more-than-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 5 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Mon, 12 Oct 2026 21:08:21 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA"
+      ]
+    },
+    {
+      "title": "Deebo Samuel injury: 49ers wideout expected to miss multiple weeks with hamstring injury",
+      "url": "https://www.cbssports.com/nfl/news/49ers-deebo-samuel-hamstring-injury-update/",
+      "summary": "Samuel's injury occurred late in Sunday's win over Seattle",
+      "published": "Mon, 12 Oct 2026 20:15:27 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "Michael Penix Jr. injury: Falcons QB's injury not considered serious but Week 6 status unclear, per report",
+      "url": "https://www.cbssports.com/nfl/news/michael-penix-jr-injury-update-falcons-qb-ravens-bears/",
+      "summary": "Penix might be available for Sunday's game against the Bears",
+      "published": "Mon, 12 Oct 2026 19:46:21 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "CHI"
+      ]
+    },
+    {
+      "title": "NFL suspends Dre Greenlaw one game after head-butting incident in 49ers' win over Seahawks",
+      "url": "https://www.cbssports.com/nfl/news/nfl-suspends-49ers-dre-greenlaw-seahawks/",
+      "summary": "The discipline stems from a second-quarter incident where the linebacker drew a late-hit flag on Sam Darnold and headbutted a helmetless Ernest Jones IV",
+      "published": "Mon, 12 Oct 2026 18:34:12 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -239,80 +481,43 @@
       ]
     },
     {
-      "title": "Which NFL teams are undefeated this season?",
-      "url": "https://www.espn.com/nfl/story/_/id/50166789/nfl-teams-undefeated-2026-season",
-      "summary": "These teams have yet to lose a game in the 2026 NFL season.",
-      "published": "2026-10-12T17:25:07Z",
-      "source": "ESPN NFL",
+      "title": "Javon Hargrave out for season with torn Achilles: Three trade targets for Packers",
+      "url": "https://www.cbssports.com/nfl/news/javon-hargrave-injury-update-packers-trade-targets/",
+      "summary": "Green Bay is running short on healthy defensive linemen after losing Hargrave and Edgerrin Cooper to season-ending Achilles injuries",
+      "published": "Mon, 12 Oct 2026 18:28:11 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Samaje Perine gives Bengals a strong jolt to end 2-game skid",
-      "url": "https://www.espn.com/nfl/story/_/id/50167310/samaje-perine-bengals-chase-brown-run-game",
-      "summary": "When the run game was struggling, the Bengals turned to Perine, whose downhill style paid dividends.",
-      "published": "2026-10-12T17:41:53Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
+      "category": "injury",
       "teams": [
-        "CIN"
-      ]
-    },
-    {
-      "title": "Source: Packers lose DT Javon Hargrave for season to torn Achilles",
-      "url": "https://www.espn.com/nfl/story/_/id/50167021/source-packers-lose-hargrave-season-ending-torn-achilles",
-      "summary": "Tests confirmed Monday that Packers defensive tackle Javon Hargrave suffered a season-ending torn Achilles in Sunday's victory over the Bears, a source told ESPN's Adam Schefter.",
-      "published": "2026-10-12T17:57:16Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
         "GB"
       ]
     },
     {
-      "title": "Can the Seahawks overcome their turnover problem? 'We're not panicking'",
-      "url": "https://www.espn.com/nfl/story/_/id/50164049/seattle-seahawks-49ers-week-5-turnovers-qb-sam-darnold",
-      "summary": "Seattle has committed the fifth-most turnovers in the NFL so far this season -- and it cost the team a win Sunday.",
-      "published": "2026-10-12T16:00:01Z",
-      "source": "ESPN NFL",
+      "title": "Should winless Titans bench Cam Ward? Why abandoning the former No. 1 pick will not fix Tennessee's' turmoil",
+      "url": "https://www.cbssports.com/nfl/news/why-titans-should-not-bench-cam-ward-robert-saleh/",
+      "summary": "Turning to Mitch Trubisky will not fix an offense averaging just 11.6 points or an expensive, revamped defense that has disappointed",
+      "published": "Mon, 12 Oct 2026 18:22:59 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "SEA"
+        "TEN"
       ]
     },
     {
-      "title": "Source: Eagles RB Will Shipley has partial tear of plantar fascia",
-      "url": "https://www.espn.com/nfl/story/_/id/50166619/source-eagles-rb-shipley-partial-tear-plantar-fascia",
-      "summary": "Eagles running back Will Shipley suffered a partial tear of his plantar fascia during Sunday's loss to the Jaguars that now could sideline him multiple weeks, a source told ESPN's Adam Schefter on Monday.",
-      "published": "2026-10-12T17:09:28Z",
-      "source": "ESPN NFL",
+      "title": "2026 NFL trade deadline candidates: Khalil Mack leads five Pro Bowl players who could be moved next",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-big-name-candidates-khalil-mack-jerry-jeudy/",
+      "summary": "The winless Chargers have little reason to retain Mack, an aging pass rusher on an expiring contract who could help a playoff contender",
+      "published": "Mon, 12 Oct 2026 18:07:01 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "transaction",
       "teams": [
-        "JAX",
-        "PHI"
+        "LAC"
       ]
-    },
-    {
-      "title": "How active NFL players continue to redefine all-time sack list",
-      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
-      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
-      "published": "2026-10-12T17:01:10Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "Eagles RB Will Shipley could miss weeks, per report: What's next with Saquon Barkley, Tank Bigsby also hurt",
@@ -363,20 +568,6 @@
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
-      "title": "Bills vs. Rams odds, picks, player props: Expert's best bets for NFL Week 5 Monday Night Football",
-      "url": "https://www.cbssports.com/betting/news/bills-vs-rams-odds-picks-player-props-experts-best-bets-for-nfl-week-5-monday-night-football/",
-      "summary": "A massive 54.5 total headlines the board as two high-powered offenses collide, creating prime opportunities on Josh Allen and Puka Nacua anytime touchdowns along with a sneaky Kyren Williams prop",
-      "published": "Mon, 12 Oct 2026 15:42:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
       "teams": [
         "BUF",
         "LA"
@@ -452,20 +643,6 @@
       ]
     },
     {
-      "title": "Rams vs. Bills how to watch, prediction, odds: Matthew Stafford, Josh Allen clash in Week 5 'MNF' matchup",
-      "url": "https://www.cbssports.com/nfl/news/rams-vs-bills-how-to-watch-prediction-odds-monday-night-football/",
-      "summary": "Here's how to watch Rams vs. Bills, along with the latest odds, key matchups and our Week 5 'Monday Night Football' prediction",
-      "published": "Mon, 12 Oct 2026 12:33:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
       "title": "NFL Week 6 early odds: Eagles favored despite massive disadvantage, Packers-Cowboys line flips",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-6-early-odds-spreads-full-schedule/",
       "summary": "The statuses of Lamar Jackson, Michael Penix Jr. and Caleb Williams could dramatically reshape several Week 6 betting lines",
@@ -502,19 +679,6 @@
       "category": "game",
       "teams": [
         "BUF"
-      ]
-    },
-    {
-      "title": "Michael Penix Jr. injury: Falcons QB hurts ribs late in regulation on 'SNF,' says he'll be ready for Week 6",
-      "url": "https://www.cbssports.com/nfl/news/michael-penix-jr-injury-update-falcons-qb-ravens-bears/",
-      "summary": "Penix initially only left the game for one play but then couldn't play in overtime",
-      "published": "Mon, 12 Oct 2026 04:47:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL"
       ]
     },
     {
@@ -599,117 +763,6 @@
       "teams": [
         "CHI",
         "GB"
-      ]
-    },
-    {
-      "title": "Robert Saleh backs Cam Ward as Titans' starting QB despite 0-5 start",
-      "url": "https://www.cbssports.com/nfl/news/titans-robert-saleh-cam-ward-starting-qb-2026/",
-      "summary": "Robert Saleh says Tennessee will give Ward \"every opportunity to be successful\" despite the quarterback's limited second-year progress",
-      "published": "Sun, 11 Oct 2026 23:25:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "TEN"
-      ]
-    },
-    {
-      "title": "Falcons vs. Ravens odds, predictions, start time, betting preview: Sunday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/falcons-vs-ravens-odds-predictions-start-time-betting-preview-sunday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Ravens vs. Falcons on Sunday Night Football",
-      "published": "Sun, 11 Oct 2026 23:02:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "BAL"
-      ]
-    },
-    {
-      "title": "Falcons vs. Ravens picks, prediction, player props: Expert's best bets for Sunday Night Football NFL Week 5",
-      "url": "https://www.cbssports.com/betting/news/falcons-vs-ravens-picks-prediction-player-props-experts-best-bets-for-sunday-night-football-nfl-week-5/",
-      "summary": "With Lamar Jackson sidelined, expect a run-heavy clash between Derrick Henry and Bijan Robinson that keeps the scoring low and creates prime value on player props",
-      "published": "Sun, 11 Oct 2026 23:00:56 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "BAL"
-      ]
-    },
-    {
-      "title": "What Commanders' Dan Quinn, Jayden Daniels said after jarring end-of-game mistake in tie vs. Giants",
-      "url": "https://www.cbssports.com/nfl/news/commanders-dan-quinn-jayden-daniels-respond-to-mistake-vs-giants/",
-      "summary": "Daniels took accountability for the mishap, saying ultimately, it's on him",
-      "published": "Sun, 11 Oct 2026 22:59:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
-      "title": "49ers' Dre Greenlaw ejected after head-butting Seahawks' Ernest Jones during confrontation",
-      "url": "https://www.cbssports.com/nfl/news/49ers-dre-greenlaw-ejected-after-head-butting-seahawks-ernest-jones/",
-      "summary": "A late hit on Sam Darnold along the Seattle sideline sparked a confrontation that ended with the San Francisco linebacker head-butting a helmetless player",
-      "published": "Sun, 11 Oct 2026 22:14:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SEA",
-        "SF"
-      ]
-    },
-    {
-      "title": "Commanders-Giants tie: Washington delivers disastrous end-of-game sequence following Cam Skattebo fumble",
-      "url": "https://www.cbssports.com/nfl/news/commanders-giants-ends-tie-overtime-clock-management-2026/",
-      "summary": "A furious Dan Quinn watched the Commanders waste their chance to win after Jayden Daniels went down with eight seconds left in overtime",
-      "published": "Sun, 11 Oct 2026 22:05:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Marvin Harrison Jr. trade grades: Cardinals extract near-max value from Texans for former top-5 pick",
-      "url": "https://www.cbssports.com/nfl/news/marvin-harrison-jr-trade-grades-cardinals-texans/",
-      "summary": "Arizona dealt Harrison Jr. for multiple draft picks, including a 2027 second-round pick",
-      "published": "Sun, 11 Oct 2026 21:47:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "ARI",
-        "HOU"
-      ]
-    },
-    {
-      "title": "Marvin Harrison Jr. trade: Cardinals send former top-5 pick to Texans for multiple draft choices",
-      "url": "https://www.cbssports.com/nfl/news/cardinals-trade-wr-marvin-harrison-jr-to-houston-texans/",
-      "summary": "Harrison Jr. reunites with his Ohio State quarterback C.J. Stroud in Houston after a failure to launch in Arizona",
-      "published": "Sun, 11 Oct 2026 21:16:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "ARI",
-        "HOU"
       ]
     }
   ],
