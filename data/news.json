@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-13T20:36:35.558976+00:00",
-  "checked_at_utc": "2026-10-13T20:36:35.558976+00:00",
+  "updated_at_utc": "2026-10-13T23:52:40.740390+00:00",
+  "checked_at_utc": "2026-10-13T23:52:40.740390+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 4,
+      "items": 8,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 34
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,33 @@
     }
   },
   "items": [
+    {
+      "title": "Rams' Alaric Jackson Reportedly Facing 2-Game Suspension For Punching Bills' Bradley Chubb",
+      "url": "https://www.foxsports.com/stories/nfl/rams-alaric-jackson-facing-two-game-suspension-punching-bills-bradley-chubb",
+      "summary": "Los Angeles Rams left tackle Alaric Jackson is expected to be suspended two games for punching Buffalo Bills outside linebacker Bradley Chubb after Monday night\u2019s game.",
+      "published": "Tue, 13 Oct 2026 17:36:19 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA"
+      ]
+    },
+    {
+      "title": "Why Did The NFL Suspend Bears Defender Montez Sweat For 2 Games?",
+      "url": "https://www.foxsports.com/stories/nfl/montez-sweat-suspension-bears-schedule",
+      "summary": "The NFL has reportedly suspended Chicago Bears defensive lineman Montez Sweat for two games.",
+      "published": "Tue, 13 Oct 2026 16:49:36 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
     {
       "title": "2026 NFL OPOY Odds: Jahmyr Gibbs Tops Board As New Favorite",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
@@ -249,37 +276,102 @@
       ]
     },
     {
-      "title": "49ers WR Deebo Samuel Expected To Miss Multiple Weeks With Hamstring Injury",
-      "url": "https://www.foxsports.com/stories/nfl/san-francisco-49ers-deebo-samuel-seahawks-hamstring-injury",
-      "summary": "San Francisco 49ers wide receiver Deebo Samuel Sr. is expected to miss \u201cat least a couple of weeks\" with the hamstring injury he suffered Sunday against the Seattle Seahawks.",
-      "published": "Mon, 12 Oct 2026 16:14:17 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Broncos' Bo Nix says he needs to simplify approach, play faster amid rocky start",
+      "url": "https://www.espn.com/nfl/story/_/id/50177580/broncos-bo-nix-says-needs-simplify-approach-amid-rocky-start",
+      "summary": "Broncos quarterback Bo Nix said Tuesday he can find solutions if he can simplify his approach: \"Making it simple, making things 1-2-3, and let's play fast and let's roll.\"",
+      "published": "2026-10-13T23:50:38Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "qb",
       "teams": [
-        "SEA",
-        "SF"
+        "DEN"
       ]
     },
     {
-      "title": "'I Don\u2019t Get Paid Overtime': Kyle Hamilton\u2019s Ice-Cold Line After Sealing Ravens W",
-      "url": "https://www.foxsports.com/stories/nfl/baltimore-ravens-atlanta-falcons-overtime-kyle-hamilton",
-      "summary": "Kyle Hamilton wasn't trying to stay late.",
-      "published": "Mon, 12 Oct 2026 15:07:34 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Panthers RT Moton coughed up blood before clot diagnosis",
+      "url": "https://www.espn.com/nfl/story/_/id/50177416/panthers-rt-moton-coughed-blood-clot-diagnosis",
+      "summary": "Carolina Panthers right tackle Taylor Moton, 32, told reporters Tuesday that he coughed up blood before being diagnosed with multiple blood clots in June, an ailment that sidelined him through training camp and into the second month of the regular season.",
+      "published": "2026-10-13T23:19:52Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL"
+        "CAR"
+      ]
+    },
+    {
+      "title": "Saints owner Gayle Benson rips 1-4 start, says fans 'deserve better'",
+      "url": "https://www.espn.com/nfl/story/_/id/50177269/saints-owner-benson-rips-1-4-start-says-fans-deserve-better",
+      "summary": "Saints owner Gayle Benson called out several members of the organization amid the team's 1-4 start and said that fans are \"right to expect more than we have delivered.\"",
+      "published": "2026-10-13T23:35:05Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NO"
+      ]
+    },
+    {
+      "title": "Micah Parsons: 'Jayden Daniels probably cost my man Dan Quinn his job'",
+      "url": "https://www.espn.com/nfl/story/_/id/50177238/parsons-qb-daniels-probably-cost-my-man-dan-quinn-job",
+      "summary": "Micah Parsons said on his podcast that Jayden Daniels' mistake at the end of overtime Sunday will probably end up getting Commanders coach Dan Quinn fired.",
+      "published": "2026-10-13T23:36:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "WAS"
+      ]
+    },
+    {
+      "title": "The Saints' offense keeps declining each week. Can they turn it around?",
+      "url": "https://www.espn.com/nfl/story/_/id/50176573/new-orleans-saints-offense-worse-week-6-turn-around",
+      "summary": "After dropping three straight games at home, New Orleans goes on the road with intent to \"completely flip the script.\"",
+      "published": "2026-10-13T22:34:55Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NO"
+      ]
+    },
+    {
+      "title": "Bills' Joe Brady warns RB James Cook of 'consequences' for costly fumbles",
+      "url": "https://www.espn.com/nfl/story/_/id/50177135/bills-brady-warns-rb-cook-consequences-costly-fumbles",
+      "summary": "Bills coach Joe Brady said RB James Cook has done a lot of \"good things\" this season but warned his star runner about the \"consequences\" of his fumbling issues.",
+      "published": "2026-10-13T23:32:42Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF"
+      ]
+    },
+    {
+      "title": "NFL suspends Rams' Alaric Jackson for two games after punch",
+      "url": "https://www.espn.com/nfl/story/_/id/50173615/nfl-suspends-rams-lt-jackson-punching-bills-chubb",
+      "summary": "The NFL on Tuesday suspended Rams left tackle Alaric Jackson for two games without pay after he punched Bills outside linebacker Bradley Chubb following Monday night's game in Los Angeles.",
+      "published": "2026-10-13T23:47:17Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA"
       ]
     },
     {
       "title": "Bears DE Montez Sweat suspended two games for violating NFL's PED policy",
       "url": "https://www.espn.com/nfl/story/_/id/50176333/bears-de-sweat-suspended-two-games-violating-ped-policy",
       "summary": "The NFL has issued a two-game suspension to Bears defensive end Montez Sweat for violating the league's policy on performance-enhancing substances.",
-      "published": "2026-10-13T20:27:40Z",
+      "published": "2026-10-13T22:02:40Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -289,44 +381,70 @@
       ]
     },
     {
-      "title": "Eagles pass rusher Jalyx Hunt (leg) unlikely vs. Panthers",
-      "url": "https://www.espn.com/nfl/story/_/id/50175748/eagles-pass-rusher-jalyx-hunt-leg-unlikely-vs-panthers",
-      "summary": "Eagles pass rusher Jalyx Hunt, who sustained ankle and knee injuries last week, is not expected to play Sunday against the Carolina Panthers, DC Vic Fangio said.",
-      "published": "2026-10-13T20:26:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CAR",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Source: Patriots lineman Will Campbell out with MCL sprain",
-      "url": "https://www.espn.com/nfl/story/_/id/50175463/source-patriots-lineman-campbell-mcl-sprain",
-      "summary": "Patriots left tackle Will Campbell has been diagnosed with an MCL sprain in his right knee and is expected to miss some game action, a source told ESPN.",
-      "published": "2026-10-13T18:14:53Z",
-      "source": "ESPN NFL",
+      "title": "Rams' Alaric Jackson suspended for punching Bills' Bradley Chubb",
+      "url": "https://www.cbssports.com/nfl/news/rams-left-tackle-punches-bills-bradley-chubb-mnf/",
+      "summary": "Alaric Jackson hit the Bills' pass-rusher with an apparent sucker-punch following Buffalo's wild Monday night win",
+      "published": "Tue, 13 Oct 2026 23:08:35 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "NE"
+        "BUF",
+        "LA"
       ]
     },
     {
-      "title": "Sources: Rams release kicker Mevis after miscues in loss, sign Grupe from Jets",
-      "url": "https://www.espn.com/nfl/story/_/id/50175234/rams-release-kicker-mevis-miscues-ot-loss",
-      "summary": "The Rams are releasing kicker Harrison Mevis and signing Blake Grupe off the Jets' practice squad, sources told NFL Network's Ian Rapoport and Mike Garafolo on Tuesday.",
-      "published": "2026-10-13T19:45:35Z",
-      "source": "ESPN NFL",
+      "title": "Saints owner Gayle Benson voices frustration with 1-4 record, emphasizes 'urgency' to improve",
+      "url": "https://www.cbssports.com/nfl/news/saints-owner-gayle-benson-voices-frustration-urgency-to-improve/",
+      "summary": "Benson turned up the heat on the Saints' coaching staff and roster during their three-game losing streak",
+      "published": "Tue, 13 Oct 2026 22:44:46 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "transaction",
       "teams": [
-        "LA",
-        "NYJ"
+        "NO"
+      ]
+    },
+    {
+      "title": "Jauan Jennings landing spots: Could veteran WR reunite with 49ers after slow start in Minnesota?",
+      "url": "https://www.cbssports.com/nfl/news/jauan-jennings-landing-spots-nfl-trade-deadline/",
+      "summary": "With Jennings' trade market reportedly set to heat up, these destinations would be ideal fits",
+      "published": "Tue, 13 Oct 2026 21:52:22 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "Micah Parsons rips into Jayden Daniels for 'disgusting' OT blunder: 'Probably cost Dan Quinn his job'",
+      "url": "https://www.cbssports.com/nfl/news/micah-parsons-rips-into-commanders-jayden-daniels-mistake-vs-giants/",
+      "summary": "Commanders head coach Dan Quinn was Parsons' first NFL defensive coordinator with the Dallas Cowboys, and he's taking Quinn's side after Washington's overtime mistakes",
+      "published": "Tue, 13 Oct 2026 21:59:27 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Bears' Montez Sweat suspended for violating NFL's performance-enhancing substances policy",
+      "url": "https://www.cbssports.com/nfl/news/nfl-suspends-bears-montez-violating-ped-policy/",
+      "summary": "Sweat will miss two important games before his return in November",
+      "published": "Tue, 13 Oct 2026 20:53:06 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
       ]
     },
     {
@@ -374,7 +492,7 @@
       "title": "NFL eyeing possible schedule change with Sunday night flex in Week 8, but league doesn't have a lot of options",
       "url": "https://www.cbssports.com/nfl/news/nfl-eyeing-possible-schedule-change-week-8/",
       "summary": "With Philadelphia and Washington struggling, the league has until Oct. 20 to make a move, but scheduling conflicts across the Week 8 slate leave few viable replacement options",
-      "published": "Tue, 13 Oct 2026 19:20:15 +0000",
+      "published": "Tue, 13 Oct 2026 20:42:09 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -396,7 +514,7 @@
       "title": "Will Chargers trade Justin Herbert? Update on possibility of QB being dealt and possible landing spots",
       "url": "https://www.cbssports.com/nfl/news/will-chargers-trade-justin-herbert-possible-landing-spots/",
       "summary": "Herbert's name has started to circulate ahead of the NFL's trade deadline",
-      "published": "Tue, 13 Oct 2026 18:45:11 +0000",
+      "published": "Tue, 13 Oct 2026 20:38:50 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -611,20 +729,6 @@
       ]
     },
     {
-      "title": "Rams left tackle throws punch at Bills' Bradley Chubb following Buffalo's stunning Monday night win",
-      "url": "https://www.cbssports.com/nfl/news/rams-left-tackle-punches-bills-bradley-chubb-mnf/",
-      "summary": "Alaric Jackson hit the Bills' pass-rusher with an apparent sucker-punch following Buffalo's wild Monday night win",
-      "published": "Tue, 13 Oct 2026 13:03:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
       "title": "What we learned in NFL Week 5: Mike Evans is perfect fit with Brock Purdy, Josh Allen extends MVP lead",
       "url": "https://www.cbssports.com/nfl/news/six-lessons-learned-nfl-week-5-mike-evans-brock-purdy-josh-allen/",
       "summary": "Plus, this NFL Draft class is looking excellent early",
@@ -701,90 +805,6 @@
       "teams": [
         "BUF",
         "LA"
-      ]
-    },
-    {
-      "title": "Is DJ Moore playing on 'Monday Night Football?' A look at the Bills WR's status vs. Rams",
-      "url": "https://www.cbssports.com/nfl/news/is-dj-moore-playing-on-mnf-bills-wrs-status-vs-rams/",
-      "summary": "Moore was initially listed as questionable with a shoulder injury",
-      "published": "Mon, 12 Oct 2026 22:51:33 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
-      "title": "Bills vs. Rams odds, picks, player props: Expert's best bets for NFL Week 5 Monday Night Football",
-      "url": "https://www.cbssports.com/betting/news/bills-vs-rams-odds-picks-player-props-experts-best-bets-for-nfl-week-5-monday-night-football/",
-      "summary": "A massive 54.5 total headlines the board as two high-powered offenses collide, creating prime opportunities on Josh Allen and Puka Nacua anytime touchdowns along with a sneaky Kyren Williams prop",
-      "published": "Mon, 12 Oct 2026 22:30:51 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
-      "title": "Cowboys hire former NFL head coach, Packers' DC to help fix struggling defense",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-hire-mike-pettine-to-help-defense-christian-parker/",
-      "summary": "Brian Schottenheimer is calling in reinforcements after Thursday night's loss against the Bucs",
-      "published": "Mon, 12 Oct 2026 21:37:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "GB",
-        "TB"
-      ]
-    },
-    {
-      "title": "Rams-Bills, NFL betting promos: Pocket more than $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/rams-bills-nfl-betting-promos-pocket-more-than-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 5 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Mon, 12 Oct 2026 21:08:21 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
-      "title": "Deebo Samuel injury: 49ers wideout expected to miss multiple weeks with hamstring injury",
-      "url": "https://www.cbssports.com/nfl/news/49ers-deebo-samuel-hamstring-injury-update/",
-      "summary": "Samuel's injury occurred late in Sunday's win over Seattle",
-      "published": "Mon, 12 Oct 2026 20:15:27 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Michael Penix Jr. injury: Falcons QB's injury not considered serious but Week 6 status unclear, per report",
-      "url": "https://www.cbssports.com/nfl/news/michael-penix-jr-injury-update-falcons-qb-ravens-bears/",
-      "summary": "Penix might be available for Sunday's game against the Bears",
-      "published": "Mon, 12 Oct 2026 19:46:21 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "CHI"
       ]
     }
   ],
