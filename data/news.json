@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-13T23:52:40.740390+00:00",
-  "checked_at_utc": "2026-10-13T23:52:40.740390+00:00",
+  "updated_at_utc": "2026-10-14T03:14:08.995984+00:00",
+  "checked_at_utc": "2026-10-14T03:14:08.995984+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
@@ -11,15 +11,53 @@
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 34
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 19,
+      "items": 22,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "49ers' Dre Greenlaw Suspended 1 Game After Headbutting Seahawks' Ernest Jones IV",
+      "url": "https://www.foxsports.com/stories/nfl/49ers-lb-dre-greenlaw-ejected-after-headbutting-seahawks-ernest-jones-iv",
+      "summary": "San Francisco 49ers linebacker Dre Greenlaw was ejected in the first half against the Seattle Seahawks after his late hit on Sam Darnold set off a scuffle on the Seattle sideline.",
+      "published": "Tue, 13 Oct 2026 21:11:05 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SEA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Mahomes Mountain Week 6: Jared Goff Rises, Patrick Mahomes Remains At The Summit",
+      "url": "https://www.foxsports.com/stories/nfl/mahomes-mountain-week-6",
+      "summary": "Nick Wright\u2019s quarterback hierarchy saw a handful of names tumble this week but one name stayed at the top of the mountain.",
+      "published": "Tue, 13 Oct 2026 20:19:27 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Upon Further Review: Could Cowboys' Defense Be Worse? Opponents Sense Vulnerability",
+      "url": "https://www.foxsports.com/stories/nfl/upon-further-review-could-cowboys-defense-worse-opponents-sense-vulnerability",
+      "summary": "The Cowboys appear to be taking a step back, and we offer up an overtime solution: no more ties.",
+      "published": "Tue, 13 Oct 2026 20:11:15 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
     {
       "title": "Rams' Alaric Jackson Reportedly Facing 2-Game Suspension For Punching Bills' Bradley Chubb",
       "url": "https://www.foxsports.com/stories/nfl/rams-alaric-jackson-facing-two-game-suspension-punching-bills-bradley-chubb",
@@ -276,10 +314,35 @@
       ]
     },
     {
+      "title": "Niners LB Dre Greenlaw's appeal of suspension rejected, will sit vs. Commanders",
+      "url": "https://www.espn.com/nfl/story/_/id/50178480/niners-lb-dre-greenlaw-appeal-1-game-suspension-rejected",
+      "summary": "Niners linebacker Dre Greenlaw will serve his one-game suspension in Monday night's game against the Commanders after the NFL denied his appeal Tuesday.",
+      "published": "2026-10-14T02:37:47Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Tyreek Hill found liable for 2 of 10 counts in battery trial; wife awarded $500K",
+      "url": "https://www.espn.com/nfl/story/_/id/50178212/tyreek-hill-found-liable-2-counts-battery-civil-trial-not-liable-remaining-claims",
+      "summary": "A Miami jury returned a mixed verdict in the assault and battery civil trial against Tyreek Hill, finding the former NFL receiver liable for two counts of battery but not liable for the eight other claims made by his estranged wife, Lakeeta Vaccaro.",
+      "published": "2026-10-14T02:27:17Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
       "title": "Broncos' Bo Nix says he needs to simplify approach, play faster amid rocky start",
       "url": "https://www.espn.com/nfl/story/_/id/50177580/broncos-bo-nix-says-needs-simplify-approach-amid-rocky-start",
       "summary": "Broncos quarterback Bo Nix said Tuesday he can find solutions if he can simplify his approach: \"Making it simple, making things 1-2-3, and let's play fast and let's roll.\"",
-      "published": "2026-10-13T23:50:38Z",
+      "published": "2026-10-14T00:05:25Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -292,7 +355,7 @@
       "title": "Panthers RT Moton coughed up blood before clot diagnosis",
       "url": "https://www.espn.com/nfl/story/_/id/50177416/panthers-rt-moton-coughed-blood-clot-diagnosis",
       "summary": "Carolina Panthers right tackle Taylor Moton, 32, told reporters Tuesday that he coughed up blood before being diagnosed with multiple blood clots in June, an ailment that sidelined him through training camp and into the second month of the regular season.",
-      "published": "2026-10-13T23:19:52Z",
+      "published": "2026-10-14T01:37:20Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -305,7 +368,7 @@
       "title": "Saints owner Gayle Benson rips 1-4 start, says fans 'deserve better'",
       "url": "https://www.espn.com/nfl/story/_/id/50177269/saints-owner-benson-rips-1-4-start-says-fans-deserve-better",
       "summary": "Saints owner Gayle Benson called out several members of the organization amid the team's 1-4 start and said that fans are \"right to expect more than we have delivered.\"",
-      "published": "2026-10-13T23:35:05Z",
+      "published": "2026-10-14T01:15:11Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -330,8 +393,8 @@
     {
       "title": "The Saints' offense keeps declining each week. Can they turn it around?",
       "url": "https://www.espn.com/nfl/story/_/id/50176573/new-orleans-saints-offense-worse-week-6-turn-around",
-      "summary": "After dropping three straight games at home, New Orleans goes on the road with intent to \"completely flip the script.\"",
-      "published": "2026-10-13T22:34:55Z",
+      "summary": "After dropping three straight games at home, New Orleans goes on the road with intent to turn things around.",
+      "published": "2026-10-14T01:33:25Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -354,30 +417,17 @@
       ]
     },
     {
-      "title": "NFL suspends Rams' Alaric Jackson for two games after punch",
-      "url": "https://www.espn.com/nfl/story/_/id/50173615/nfl-suspends-rams-lt-jackson-punching-bills-chubb",
-      "summary": "The NFL on Tuesday suspended Rams left tackle Alaric Jackson for two games without pay after he punched Bills outside linebacker Bradley Chubb following Monday night's game in Los Angeles.",
-      "published": "2026-10-13T23:47:17Z",
-      "source": "ESPN NFL",
+      "title": "Bills' Joe Brady threatens playing time 'consequences' for James Cook III over fumble issues",
+      "url": "https://www.cbssports.com/nfl/news/bills-joe-brady-threatens-playing-time-consequences-james-cook/",
+      "summary": "Cook coughed the ball up twice against the Rams in Week 5 and has four fumbles on the year",
+      "published": "Tue, 13 Oct 2026 23:50:59 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
         "BUF",
         "LA"
-      ]
-    },
-    {
-      "title": "Bears DE Montez Sweat suspended two games for violating NFL's PED policy",
-      "url": "https://www.espn.com/nfl/story/_/id/50176333/bears-de-sweat-suspended-two-games-violating-ped-policy",
-      "summary": "The NFL has issued a two-game suspension to Bears defensive end Montez Sweat for violating the league's policy on performance-enhancing substances.",
-      "published": "2026-10-13T22:02:40Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
       ]
     },
     {
@@ -802,6 +852,20 @@
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
+      "teams": [
+        "BUF",
+        "LA"
+      ]
+    },
+    {
+      "title": "Is DJ Moore playing on 'Monday Night Football?' A look at the Bills WR's status vs. Rams",
+      "url": "https://www.cbssports.com/nfl/news/is-dj-moore-playing-on-mnf-bills-wrs-status-vs-rams/",
+      "summary": "Moore was initially listed as questionable with a shoulder injury",
+      "published": "Mon, 12 Oct 2026 22:51:33 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
       "teams": [
         "BUF",
         "LA"
