@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-14T18:37:12.687389+00:00",
-  "checked_at_utc": "2026-10-14T18:37:12.687389+00:00",
+  "updated_at_utc": "2026-10-14T21:56:38.898430+00:00",
+  "checked_at_utc": "2026-10-14T21:57:04.168287+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -14,324 +14,58 @@
       "items": 33
     },
     "FOX Sports NFL": {
-      "ok": true,
-      "items": 24,
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout",
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Lamar Jackson Absent Again At Ravens Practice; Will QB Play vs. Browns?",
-      "url": "https://www.foxsports.com/stories/nfl/lamar-jackson-injury-update-ravens-browns-schedule",
-      "summary": "Ravens QB Lamar Jackson was absent again at practice Wednesday, as the Baltimore superstar continues to deal with an ankle injury.",
-      "published": "Wed, 14 Oct 2026 14:25:28 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Marvin Harrison Jr. will play for Texans on Sunday in London, coach says",
+      "url": "https://www.espn.com/nfl/story/_/id/50184544/marvin-harrison-jr-play-texans-sunday-london",
+      "summary": "Texans wideout Marvin Harrison Jr. will play against the Jacksonville Jaguars in London on Sunday, Houston coach DeMeco Ryans said Wednesday.",
+      "published": "2026-10-14T21:50:48Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "JAX"
+      ]
+    },
+    {
+      "title": "What we've learned about the Detroit Lions after five weeks",
+      "url": "https://www.espn.com/nfl/story/_/id/50182094/lions-bye-week-learned-offense-goff-gibbs",
+      "summary": "At 3-2, Detroit enters its bye having found some much-needed momentum in Arizona. Here is a closer look.",
+      "published": "2026-10-14T19:38:59Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "Adonai Mitchell had surgical procedure on finger, expected to miss Week 6",
+      "url": "https://www.espn.com/nfl/story/_/id/50183688/jets-adonai-mitchell-underwent-surgical-procedure-finger",
+      "summary": "Jets receiver Adonai Mitchell underwent a surgical procedure last month on his injured finger and is expected to miss a fourth consecutive game Sunday.",
+      "published": "2026-10-14T19:48:07Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "BAL",
-        "CLE"
+        "NYJ"
       ]
-    },
-    {
-      "title": "2026 NFL No. 1 Seed Odds: Chiefs, Bills Tied As AFC Favorites; 49ers Lead NFC",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-no-1-seed-chiefs-49ers",
-      "summary": "The AFC has a tie at the top, while one team stands alone in the NFC. Who\u2019s favored to earn each conference\u2019s No. 1 seed? See the latest odds.",
-      "published": "Wed, 14 Oct 2026 14:24:27 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "KC",
-        "SF"
-      ]
-    },
-    {
-      "title": "Roll The Tape: Why The Eagles' New Offense Is A Bad Fit For QB Jalen Hurts",
-      "url": "https://www.foxsports.com/stories/nfl/roll-tape-why-eagles-new-offense-bad-fit-qb-jalen-hurts",
-      "summary": "After diving into the All-22 coaches' film from Week 5, Bucky Brooks examines four new developments to watch.",
-      "published": "Wed, 14 Oct 2026 14:22:45 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "2026 NFL OROY Odds: Denzel Boston Jumps Jeremiyah Love As Favorite",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-offensive-rookie-year-odds",
-      "summary": "A new favorite has emerged on the NFL Offensive Rookie of the Year oddsboard. See the latest.",
-      "published": "Wed, 14 Oct 2026 13:56:56 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "'I\u2019ve Sat Out Enough': Falcons QB Michael Penix Jr. On Track to Start vs. Bears",
-      "url": "https://www.foxsports.com/stories/nfl/michael-penix-jr-injury-update-falcons-schedule",
-      "summary": "Quarterback Michael Penix Jr. is on track to start for the Atlanta Falcons in Week 6 against the Chicago Bears.",
-      "published": "Wed, 14 Oct 2026 13:36:49 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ATL",
-        "CHI"
-      ]
-    },
-    {
-      "title": "Packers Star Micah Parsons Explains Why He Doesn't 'Need Revenge' Vs. Cowboys",
-      "url": "https://www.foxsports.com/stories/nfl/micah-parsons-cowboys-packers-trade-stats",
-      "summary": "Even if he was active, Packers superstar Micah Parsons explained why he doesn't \"need revenge\" against the Cowboys, his old team.",
-      "published": "Wed, 14 Oct 2026 12:59:30 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "GB"
-      ]
-    },
-    {
-      "title": "Broncos QB Bo Nix Explains Why Playing 'Good' Or 'Bad' Is A 'Made-Up Narrative'",
-      "url": "https://www.foxsports.com/stories/nfl/bo-nix-stats-denver-broncos-schedule",
-      "summary": "Denver Broncos quarterback Bo Nix pushed back on the \"narrative\" that he's having a bad season.",
-      "published": "Wed, 14 Oct 2026 11:08:07 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "DEN"
-      ]
-    },
-    {
-      "title": "2026 NFL Playoff Odds: Cowboys, Eagles Favored To Miss Postseason",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-to-miss-playoffs",
-      "summary": "The tide has turned on a few teams thought to be playoff shoo-ins. See the latest odds to miss the postseason.",
-      "published": "Wed, 14 Oct 2026 10:43:01 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "The Most Important 25 Seconds In Football: Inside Coach-To-QB Communication",
-      "url": "https://www.foxsports.com/stories/nfl/25-most-important-seconds-football-what-qbs-coaches-say-over-headset",
-      "summary": "We talked to NFL playcallers and QBs about their communication between plays. From headset to helmet, 25 seconds dictate the entire game.",
-      "published": "Wed, 14 Oct 2026 10:37:32 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Coach Of The Year Odds: Harbaugh Favored; O'Connell, Shanahan Chasing",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-coach-of-the-year-odds",
-      "summary": "There's a new favorite on the Coach Of The Year oddsboard after NFL Week 4. Here's the latest.",
-      "published": "Wed, 14 Oct 2026 10:20:18 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "QB Notebook: What's Going On With Sam Darnold; Inside Justin Herbert's Worst Season",
-      "url": "https://www.foxsports.com/stories/nfl/qb-notebook-whats-going-on-with-sam-darnold-inside-justin-herberts-worst-season",
-      "summary": "Let's dive deeper into Sam Darnold and Justin Herbert's struggles this season in this week's QB Notebook.",
-      "published": "Wed, 14 Oct 2026 10:16:49 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Saints Owner Gayle Benson Explains Why She Will 'Not Accept' Team's Slow Start",
-      "url": "https://www.foxsports.com/stories/nfl/saints-owner-comments-gayle-benson-kellen-moore-new-orleans-schedule",
-      "summary": "New Orleans Saints owner Gayle Benson put the organization on notice in the wake of their 1-4 start.",
-      "published": "Wed, 14 Oct 2026 10:16:18 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NO"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 6: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-6-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 6 matchup in the NFL.",
-      "published": "Wed, 14 Oct 2026 09:57:25 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "49ers' Dre Greenlaw Suspended 1 Game After Headbutting Seahawks' Ernest Jones IV",
-      "url": "https://www.foxsports.com/stories/nfl/49ers-lb-dre-greenlaw-ejected-after-headbutting-seahawks-ernest-jones-iv",
-      "summary": "San Francisco 49ers linebacker Dre Greenlaw was ejected in the first half against the Seattle Seahawks after his late hit on Sam Darnold set off a scuffle on the Seattle sideline.",
-      "published": "Tue, 13 Oct 2026 21:11:05 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SEA",
-        "SF"
-      ]
-    },
-    {
-      "title": "Mahomes Mountain Week 6: Jared Goff Rises, Patrick Mahomes Remains At The Summit",
-      "url": "https://www.foxsports.com/stories/nfl/mahomes-mountain-week-6",
-      "summary": "Nick Wright\u2019s quarterback hierarchy saw a handful of names tumble this week but one name stayed at the top of the mountain.",
-      "published": "Tue, 13 Oct 2026 20:19:27 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Upon Further Review: Could Cowboys' Defense Be Worse? Opponents Sense Vulnerability",
-      "url": "https://www.foxsports.com/stories/nfl/upon-further-review-could-cowboys-defense-worse-opponents-sense-vulnerability",
-      "summary": "The Cowboys appear to be taking a step back, and we offer up an overtime solution: no more ties.",
-      "published": "Tue, 13 Oct 2026 20:11:15 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Rams' Alaric Jackson Reportedly Facing 2-Game Suspension For Punching Bills' Bradley Chubb",
-      "url": "https://www.foxsports.com/stories/nfl/rams-alaric-jackson-facing-two-game-suspension-punching-bills-bradley-chubb",
-      "summary": "Los Angeles Rams left tackle Alaric Jackson is expected to be suspended two games for punching Buffalo Bills outside linebacker Bradley Chubb after Monday night\u2019s game.",
-      "published": "Tue, 13 Oct 2026 17:36:19 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
-      "title": "Why Did The NFL Suspend Bears Defender Montez Sweat For 2 Games?",
-      "url": "https://www.foxsports.com/stories/nfl/montez-sweat-suspension-bears-schedule",
-      "summary": "The NFL has reportedly suspended Chicago Bears defensive lineman Montez Sweat for two games.",
-      "published": "Tue, 13 Oct 2026 16:49:36 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "2026 NFL OPOY Odds: Jahmyr Gibbs Tops Board As New Favorite",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
-      "summary": "There's a new favorite on the 2026 NFL Offensive Player of the Year oddsboard. Here's the latest.",
-      "published": "Tue, 13 Oct 2026 16:01:55 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Missed Field Goals Obscure Real Issue For Rams: This Super Team Is Not Super",
-      "url": "https://www.foxsports.com/stories/nfl/missed-fgs-obscure-real-issue-rams-super-team-not-super",
-      "summary": "The Rams' special teams woes were apparent on Monday, but there are more reasons than that for why Los Angeles has fallen short of \"Super Team\" billing.",
-      "published": "Tue, 13 Oct 2026 15:35:27 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "2026 NFL DPOY Odds: Favorite Will Anderson Jr. Separating From The Field",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
-      "summary": "Check out the latest odds for the 2026 NFL Defensive Player of the Year award and see how far Will Anderson sits ahead of the field.",
-      "published": "Tue, 13 Oct 2026 14:56:14 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL AFC, NFC Title Odds: Bills, Ravens Rise; 49ers Overtake Rams",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-afc-nfc-title-odds",
-      "summary": "The Rams have finally been knocked off their perch, while the Bills and Ravens have surpassed the Chiefs. See the latest.",
-      "published": "Tue, 13 Oct 2026 14:55:35 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "BUF",
-        "KC",
-        "LA",
-        "SF"
-      ]
-    },
-    {
-      "title": "Favorite 'Dogs: Back Broncos Overcome Seahawks; Badgers Over Bruins",
-      "url": "https://www.foxsports.com/stories/nfl/favorite-dogs-broncos-over-seahawks-badgers-over-bruins",
-      "summary": "Find out why Will Hill is backing the Badgers to upset the Bruins and why he likes the Broncos to protect home turf.",
-      "published": "Tue, 13 Oct 2026 14:30:02 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "SEA"
-      ]
-    },
-    {
-      "title": "The Week 5 Plays That Stood Out, From Jayden Daniels' Blunder To Mike Evans' Dominance",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-5-plays-that-stood-out-jayden-daniels-mike-evans",
-      "summary": "Key plays by Mike Evans and Jayden Daniels defined Week 5. Here's what you need to know from them.",
-      "published": "Tue, 13 Oct 2026 14:17:50 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "Patriots CB Gonzalez says he's 'ready to go'; WR Brown returns to practice",
       "url": "https://www.espn.com/nfl/story/_/id/50183044/patriots-gonzalez-set-return-wr-brown-back-practice",
       "summary": "Patriots cornerback Christian Gonzalez said Wednesday he's ready to return after missing the past two games with a shoulder injury.",
-      "published": "2026-10-14T18:15:03Z",
+      "published": "2026-10-14T21:05:47Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -344,7 +78,7 @@
       "title": "Sources: Broncos S Talanoa Hufanga (ankle) set to miss multiple weeks",
       "url": "https://www.espn.com/nfl/story/_/id/50182760/sources-broncos-s-hufanga-ankle-set-miss-multiple-weeks",
       "summary": "Safety Talanoa Hufanga, who has made several key plays for the Broncos defense in recent wins, is expected to miss multiple weeks with an ankle injury, sources told ESPN.",
-      "published": "2026-10-14T17:42:27Z",
+      "published": "2026-10-14T21:40:47Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -354,17 +88,41 @@
       ]
     },
     {
-      "title": "Falcons QB Michael Penix on track to start vs. Bears if no setbacks, coach says",
-      "url": "https://www.espn.com/nfl/story/_/id/50182471/falcons-say-michael-penix-track-start-bears",
-      "summary": "Falcons quarterback Michael Penix Jr. will start Sunday against the Bears despite a rib injury, as long as there are no setbacks during the week.",
-      "published": "2026-10-14T17:19:36Z",
-      "source": "ESPN NFL",
+      "title": "NFL addresses safety concerns for Steelers-Saints game in France as protests in Paris continue",
+      "url": "https://www.cbssports.com/nfl/news/nfl-addresses-safety-concerns-steelers-saints-france-protests-paris/",
+      "summary": "The league says it is still planning to play the game as originally scheduled",
+      "published": "Wed, 14 Oct 2026 21:48:34 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
       "teams": [
-        "ATL",
-        "CHI"
+        "NO",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Shedeur Sanders just made a curious move that could signal a trade is coming in Cleveland",
+      "url": "https://www.cbssports.com/nfl/news/shedeur-sanders-trade-rumors-browns-qb-landing-spots/",
+      "summary": "Sanders' decision to hire an agent comes as Cleveland carries four healthy quarterbacks and speculation builds",
+      "published": "Wed, 14 Oct 2026 19:20:06 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Agent's Take: Making sense of Eagles' salary cap manipulation after Lane Johnson's retirement",
+      "url": "https://www.cbssports.com/nfl/news/agents-take-eagles-salary-cap-manipulation-lane-johnson-retirement/",
+      "summary": "The Eagles kept Johnson on their 53-man roster after his abrupt Week 5 retirement. Here's a look at why and what they gain from it",
+      "published": "Wed, 14 Oct 2026 19:06:32 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PHI"
       ]
     },
     {
@@ -419,7 +177,7 @@
       "title": "Mike Renner's 2027 NFL Draft Big Board: Ranking the top 150 prospects at college football midway point",
       "url": "https://www.cbssports.com/nfl/draft/news/renners-2027-nfl-draft-big-board-ranking-top-150-prospects/",
       "summary": "Ohio State wide receiver Jeremiah Smith leads the way while Drew Mestemaker and CJ Carr emerge as early contenders to go No. 1 overall",
-      "published": "Wed, 14 Oct 2026 17:26:17 +0000",
+      "published": "Wed, 14 Oct 2026 19:57:45 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -757,46 +515,6 @@
         "LA",
         "NYJ"
       ]
-    },
-    {
-      "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Seahawks-Broncos, Packers-Cowboys",
-      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-odds-lines-totals-spreads/",
-      "summary": "Week 6 opens with Broncos-Seahawks on Thursday, while Packers-Cowboys and 49ers-Commanders headline primetime.",
-      "published": "Tue, 13 Oct 2026 18:14:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "DEN",
-        "GB",
-        "SEA",
-        "SF",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Josh Allen heaps high praise on Matthew Stafford, says he does this one thing better than any QB ever",
-      "url": "https://www.cbssports.com/nfl/news/josh-allen-heaps-praise-matthew-stafford-nfl/",
-      "summary": "Tom Brady has previously given that title to Aaron Rodgers",
-      "published": "Tue, 13 Oct 2026 16:34:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Ranking Week 5 coaching blunders: Did Sean McVay, Jim Harbaugh, or an NFC East coach have the worst gaffe?",
-      "url": "https://www.cbssports.com/nfl/news/ranking-week-5-coaching-blunders-sean-mcvay-nick-sirianni-dan-quinn/",
-      "summary": "From Dan Quinn heating up his hot seat in Washington to Jim Harbaugh owning up to a fourth-quarter collapse in Los Angeles, we rank the week's most brutal sideline decisions",
-      "published": "Tue, 13 Oct 2026 16:34:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     }
   ],
   "reporters": []
