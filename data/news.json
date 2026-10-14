@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-14T03:14:08.995984+00:00",
-  "checked_at_utc": "2026-10-14T03:14:08.995984+00:00",
+  "updated_at_utc": "2026-10-14T08:50:22.051506+00:00",
+  "checked_at_utc": "2026-10-14T08:50:22.051506+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 8,
+      "items": 18,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -331,7 +331,7 @@
       "title": "Tyreek Hill found liable for 2 of 10 counts in battery trial; wife awarded $500K",
       "url": "https://www.espn.com/nfl/story/_/id/50178212/tyreek-hill-found-liable-2-counts-battery-civil-trial-not-liable-remaining-claims",
       "summary": "A Miami jury returned a mixed verdict in the assault and battery civil trial against Tyreek Hill, finding the former NFL receiver liable for two counts of battery but not liable for the eight other claims made by his estranged wife, Lakeeta Vaccaro.",
-      "published": "2026-10-14T02:27:17Z",
+      "published": "2026-10-14T03:16:56Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -414,6 +414,138 @@
       "category": "game",
       "teams": [
         "BUF"
+      ]
+    },
+    {
+      "title": "NFL suspends Rams' Alaric Jackson for two games after punch",
+      "url": "https://www.espn.com/nfl/story/_/id/50173615/nfl-suspends-rams-lt-jackson-punching-bills-chubb",
+      "summary": "The NFL on Tuesday suspended Rams left tackle Alaric Jackson for two games without pay after he punched Bills outside linebacker Bradley Chubb following Monday night's game in Los Angeles.",
+      "published": "2026-10-14T02:01:58Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA"
+      ]
+    },
+    {
+      "title": "Bears DE Montez Sweat suspended two games for violating NFL's PED policy",
+      "url": "https://www.espn.com/nfl/story/_/id/50176333/bears-de-sweat-suspended-two-games-violating-ped-policy",
+      "summary": "The NFL has issued a two-game suspension to Bears defensive end Montez Sweat for violating the league's policy on performance-enhancing substances.",
+      "published": "2026-10-13T22:02:40Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Eagles pass rusher Jalyx Hunt (leg) unlikely vs. Panthers",
+      "url": "https://www.espn.com/nfl/story/_/id/50175748/eagles-pass-rusher-jalyx-hunt-leg-unlikely-vs-panthers",
+      "summary": "Eagles pass rusher Jalyx Hunt, who sustained ankle and knee injuries last week, is not expected to play Sunday against the Carolina Panthers, DC Vic Fangio said.",
+      "published": "2026-10-13T20:26:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CAR",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Source: Patriots lineman Will Campbell out with MCL sprain",
+      "url": "https://www.espn.com/nfl/story/_/id/50175463/source-patriots-lineman-campbell-mcl-sprain",
+      "summary": "Patriots left tackle Will Campbell has been diagnosed with an MCL sprain in his right knee and is expected to miss some game action, a source told ESPN.",
+      "published": "2026-10-13T18:14:53Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "Rams releasing kicker Mevis after miscues in loss, sign Grupe from Jets",
+      "url": "https://www.espn.com/nfl/story/_/id/50175234/rams-release-kicker-mevis-miscues-ot-loss",
+      "summary": "The Rams are releasing kicker Harrison Mevis and signing Blake Grupe off the Jets' practice squad, sources told NFL Network's Ian Rapoport and Mike Garafolo on Tuesday.",
+      "published": "2026-10-14T01:12:54Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "How Bills QB Josh Allen has become a star on and off the field",
+      "url": "https://www.espn.com/nfl/story/_/id/50134142/bills-qb-josh-allen-hollywood-star-endorsements",
+      "summary": "The Buffalo QB is racking up the endorsements and leaning on his Hollywood wife for advice.",
+      "published": "2026-10-13T17:00:51Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BUF"
+      ]
+    },
+    {
+      "title": "Recruiting firm's Brian Flores memo contains racial stereotypes, lawyers say",
+      "url": "https://www.espn.com/nfl/story/_/id/50174946/brian-flores-memo-rife-racial-stereotypes-lawyers-say",
+      "summary": "A recruiting report on Brian Flores has examples of what his lawyers say are racial stereotypes that NFL teams use when evaluating Black coaching candidates.",
+      "published": "2026-10-13T22:38:50Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Bengals tight end Tanner Hudson out for season with torn pec",
+      "url": "https://www.espn.com/nfl/story/_/id/50174705/bengals-tight-end-tanner-hudson-season-torn-pec",
+      "summary": "Bengals TE Tanner Hudson suffered a torn pectoral in last Sunday's win over the Dolphins that will sideline him for the season, his agent told ESPN.",
+      "published": "2026-10-13T16:43:38Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "MIA"
+      ]
+    },
+    {
+      "title": "Why the Browns' run game is at the root of their offensive struggles",
+      "url": "https://www.espn.com/nfl/story/_/id/50170630/cleveland-browns-run-game-root-struggles-offense-week-5",
+      "summary": "Cleveland's O-line hasn't been able to open running lanes consistently enough for Quinshon Judkins and others.",
+      "published": "2026-10-13T16:00:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE"
+      ]
+    },
+    {
+      "title": "Marvin Harrison Jr. latest in Texans' quest to solve their WR2 conundrum",
+      "url": "https://www.espn.com/nfl/story/_/id/50167782/texans-wr2-issues-marvin-harrison-jr",
+      "summary": "Houston has traded and drafted receivers, hoping to complement No. 1 wideout Nico Collins and QB C.J. Stroud.",
+      "published": "2026-10-13T16:00:15Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "HOU"
       ]
     },
     {
