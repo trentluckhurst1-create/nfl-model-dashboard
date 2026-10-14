@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-14T08:50:22.051506+00:00",
-  "checked_at_utc": "2026-10-14T08:50:22.051506+00:00",
+  "updated_at_utc": "2026-10-14T14:08:19.589017+00:00",
+  "checked_at_utc": "2026-10-14T14:08:19.589017+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 18,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 34
+      "items": 33
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,17 @@
     }
   },
   "items": [
+    {
+      "title": "2026 NFL Odds Week 6: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-6-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every Week 6 matchup in the NFL.",
+      "published": "Wed, 14 Oct 2026 09:57:25 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "49ers' Dre Greenlaw Suspended 1 Game After Headbutting Seahawks' Ernest Jones IV",
       "url": "https://www.foxsports.com/stories/nfl/49ers-lb-dre-greenlaw-ejected-after-headbutting-seahawks-ernest-jones-iv",
@@ -204,17 +215,6 @@
       ]
     },
     {
-      "title": "2026 NFL Odds Week 6: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-6-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 6 matchup in the NFL.",
-      "published": "Tue, 13 Oct 2026 08:22:18 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "NFL Week 5 All-Stars: Drake Maye Is Playing Like An MVP, As Is Jahmyr Gibbs",
       "url": "https://www.foxsports.com/stories/nfl/nfl-week-5-all-stars-drake-maye-playing-like-mvp-jahmyr-gibbs",
       "summary": "Drake Maye makes the cut for a second straight week, while a key free-agent signing is proving to be huge in San Francisco.",
@@ -314,24 +314,38 @@
       ]
     },
     {
-      "title": "Niners LB Dre Greenlaw's appeal of suspension rejected, will sit vs. Commanders",
-      "url": "https://www.espn.com/nfl/story/_/id/50178480/niners-lb-dre-greenlaw-appeal-1-game-suspension-rejected",
-      "summary": "Niners linebacker Dre Greenlaw will serve his one-game suspension in Monday night's game against the Commanders after the NFL denied his appeal Tuesday.",
-      "published": "2026-10-14T02:37:47Z",
+      "title": "Source: Lamar Jackson has realistic chance to play Ravens' Week 6 game at Browns",
+      "url": "https://www.espn.com/nfl/story/_/id/50181398/source-lamar-jackson-realistic-chance-play-week-6",
+      "summary": "Ravens quarterback Lamar Jackson has a realistic chance to return for Sunday's game against the Cleveland Browns, a league source told ESPN.",
+      "published": "2026-10-14T13:56:06Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL",
+        "CLE"
+      ]
+    },
+    {
+      "title": "Jaguars coach Liam Coen takes blame for delay of game penalties vs. Eagles",
+      "url": "https://www.espn.com/nfl/story/_/id/50180676/jaguars-coach-takes-blame-rash-delay-game-penalties",
+      "summary": "Jaguars coach Liam Coen says the blame for the team's three delay of game penalties against the Eagles belongs on his shoulders.",
+      "published": "2026-10-14T11:16:46Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "SF",
-        "WAS"
+        "JAX",
+        "PHI"
       ]
     },
     {
-      "title": "Tyreek Hill found liable for 2 of 10 counts in battery trial; wife awarded $500K",
-      "url": "https://www.espn.com/nfl/story/_/id/50178212/tyreek-hill-found-liable-2-counts-battery-civil-trial-not-liable-remaining-claims",
-      "summary": "A Miami jury returned a mixed verdict in the assault and battery civil trial against Tyreek Hill, finding the former NFL receiver liable for two counts of battery but not liable for the eight other claims made by his estranged wife, Lakeeta Vaccaro.",
-      "published": "2026-10-14T03:16:56Z",
+      "title": "Revisiting 2026 preseason bold predictions for 32 NFL teams: Which are on track?",
+      "url": "https://www.espn.com/nfl/story/_/id/50163007/2026-season-evaluating-preseason-predictions-updates",
+      "summary": "In the preseason, we made bold predictions for every NFL team, from Jordan Love's MVP case to Isaiah Likely's catch total. Which ones are on track? Which seem unlikely?",
+      "published": "2026-10-14T13:20:56Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -339,89 +353,88 @@
       "teams": []
     },
     {
-      "title": "Broncos' Bo Nix says he needs to simplify approach, play faster amid rocky start",
-      "url": "https://www.espn.com/nfl/story/_/id/50177580/broncos-bo-nix-says-needs-simplify-approach-amid-rocky-start",
-      "summary": "Broncos quarterback Bo Nix said Tuesday he can find solutions if he can simplify his approach: \"Making it simple, making things 1-2-3, and let's play fast and let's roll.\"",
-      "published": "2026-10-14T00:05:25Z",
+      "title": "NFL Week 6 latest intel, buzz questions, news, fantasy tips: What we're hearing",
+      "url": "https://www.espn.com/nfl/story/_/id/50173775/week-6-buzz-fantasy-predictions-graziano-fowler-2026",
+      "summary": "What is going on with the Eagles?! We have intel on Philly's three-game slide, three remaining unbeaten teams, QBs at risk of being benched, potential WR trades and more.",
+      "published": "2026-10-14T10:25:04Z",
       "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Jaguars WR Parker Washington has the clutch gene: Will that earn him an extension?",
+      "url": "https://www.espn.com/nfl/story/_/id/50174583/jacksonville-jaguars-parker-washington-2026-breakout",
+      "summary": "Did you see Washington's one-handed grab in London? How did he get so good at contested catches? And how did he quickly become a big part of the Jaguars' offense?",
+      "published": "2026-10-14T10:00:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "NFL QB Power Rankings: Jared Goff surges into top three, Justin Herbert hits new low",
+      "url": "https://www.cbssports.com/nfl/news/nfl-quarterback-rankings-2026-week-6-jared-goff-justin-herbert/",
+      "summary": "Brock Purdy retains the top spot, Jared Goff climbs into the top three and a resurgent Drake Maye makes the week's biggest leap",
+      "published": "Wed, 14 Oct 2026 13:43:43 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
-      "teams": [
-        "DEN"
-      ]
+      "teams": []
     },
     {
-      "title": "Panthers RT Moton coughed up blood before clot diagnosis",
-      "url": "https://www.espn.com/nfl/story/_/id/50177416/panthers-rt-moton-coughed-blood-clot-diagnosis",
-      "summary": "Carolina Panthers right tackle Taylor Moton, 32, told reporters Tuesday that he coughed up blood before being diagnosed with multiple blood clots in June, an ailment that sidelined him through training camp and into the second month of the regular season.",
-      "published": "2026-10-14T01:37:20Z",
-      "source": "ESPN NFL",
+      "title": "How Bo Nix's strange, viral quote perfectly encapsulates his 2026 season",
+      "url": "https://www.cbssports.com/nfl/news/bo-nixs-viral-quote-encapsulates-his-2026-season-broncos/",
+      "summary": "Denver's offense ranks near the bottom of the NFL, but its history of wild second-half comebacks shows why Nix's strange comments hold some truth",
+      "published": "Wed, 14 Oct 2026 13:35:58 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Panthers vs. Eagles NFL Week 6 odds: Is it potentially Nick Sirianni's swan song if Philly loses ugly again?",
+      "url": "https://www.cbssports.com/betting/news/panthers-vs-eagles-nfl-week-6-odds-is-it-potentially-nick-siriannis-swan-song-if-philly-loses-ugly-again/",
+      "summary": "Nick Sirianni is on a very hot seat as his Eagles host the Panthers on Sunday on CBS",
+      "published": "Wed, 14 Oct 2026 13:29:08 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CAR"
+        "CAR",
+        "PHI"
       ]
     },
     {
-      "title": "Saints owner Gayle Benson rips 1-4 start, says fans 'deserve better'",
-      "url": "https://www.espn.com/nfl/story/_/id/50177269/saints-owner-benson-rips-1-4-start-says-fans-deserve-better",
-      "summary": "Saints owner Gayle Benson called out several members of the organization amid the team's 1-4 start and said that fans are \"right to expect more than we have delivered.\"",
-      "published": "2026-10-14T01:15:11Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 6 picks, odds: Panthers stun Eagles in Philly, Buccaneers pull off upset",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-picks-predictions-bets-odds-scores-panthers-eagles/",
+      "summary": "Tyler Sullivan picks every game on the Week 6 schedule, including five locks against the spread",
+      "published": "Wed, 14 Oct 2026 12:52:03 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "NO"
+        "CAR",
+        "PHI",
+        "TB"
       ]
     },
     {
-      "title": "Micah Parsons: 'Jayden Daniels probably cost my man Dan Quinn his job'",
-      "url": "https://www.espn.com/nfl/story/_/id/50177238/parsons-qb-daniels-probably-cost-my-man-dan-quinn-job",
-      "summary": "Micah Parsons said on his podcast that Jayden Daniels' mistake at the end of overtime Sunday will probably end up getting Commanders coach Dan Quinn fired.",
-      "published": "2026-10-13T23:36:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "WAS"
-      ]
-    },
-    {
-      "title": "The Saints' offense keeps declining each week. Can they turn it around?",
-      "url": "https://www.espn.com/nfl/story/_/id/50176573/new-orleans-saints-offense-worse-week-6-turn-around",
-      "summary": "After dropping three straight games at home, New Orleans goes on the road with intent to turn things around.",
-      "published": "2026-10-14T01:33:25Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NO"
-      ]
-    },
-    {
-      "title": "Bills' Joe Brady warns RB James Cook of 'consequences' for costly fumbles",
-      "url": "https://www.espn.com/nfl/story/_/id/50177135/bills-brady-warns-rb-cook-consequences-costly-fumbles",
-      "summary": "Bills coach Joe Brady said RB James Cook has done a lot of \"good things\" this season but warned his star runner about the \"consequences\" of his fumbling issues.",
-      "published": "2026-10-13T23:32:42Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF"
-      ]
-    },
-    {
-      "title": "NFL suspends Rams' Alaric Jackson for two games after punch",
-      "url": "https://www.espn.com/nfl/story/_/id/50173615/nfl-suspends-rams-lt-jackson-punching-bills-chubb",
-      "summary": "The NFL on Tuesday suspended Rams left tackle Alaric Jackson for two games without pay after he punched Bills outside linebacker Bradley Chubb following Monday night's game in Los Angeles.",
-      "published": "2026-10-14T02:01:58Z",
-      "source": "ESPN NFL",
+      "title": "Rays win Game 2 to knot up ALCS; Pete Prisco's latest NFL Power Rankings; top 100 NBA players",
+      "url": "https://www.cbssports.com/mlb/news/rays-guardians-alcs-prisco-nfl-power-rankings-top-100-nba-players/",
+      "summary": "Plus why the Bills vs. Rams thriller came with long-term consequences",
+      "published": "Wed, 14 Oct 2026 12:40:53 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -431,121 +444,32 @@
       ]
     },
     {
-      "title": "Bears DE Montez Sweat suspended two games for violating NFL's PED policy",
-      "url": "https://www.espn.com/nfl/story/_/id/50176333/bears-de-sweat-suspended-two-games-violating-ped-policy",
-      "summary": "The NFL has issued a two-game suspension to Bears defensive end Montez Sweat for violating the league's policy on performance-enhancing substances.",
-      "published": "2026-10-13T22:02:40Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Eagles pass rusher Jalyx Hunt (leg) unlikely vs. Panthers",
-      "url": "https://www.espn.com/nfl/story/_/id/50175748/eagles-pass-rusher-jalyx-hunt-leg-unlikely-vs-panthers",
-      "summary": "Eagles pass rusher Jalyx Hunt, who sustained ankle and knee injuries last week, is not expected to play Sunday against the Carolina Panthers, DC Vic Fangio said.",
-      "published": "2026-10-13T20:26:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CAR",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Source: Patriots lineman Will Campbell out with MCL sprain",
-      "url": "https://www.espn.com/nfl/story/_/id/50175463/source-patriots-lineman-campbell-mcl-sprain",
-      "summary": "Patriots left tackle Will Campbell has been diagnosed with an MCL sprain in his right knee and is expected to miss some game action, a source told ESPN.",
-      "published": "2026-10-13T18:14:53Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Rams releasing kicker Mevis after miscues in loss, sign Grupe from Jets",
-      "url": "https://www.espn.com/nfl/story/_/id/50175234/rams-release-kicker-mevis-miscues-ot-loss",
-      "summary": "The Rams are releasing kicker Harrison Mevis and signing Blake Grupe off the Jets' practice squad, sources told NFL Network's Ian Rapoport and Mike Garafolo on Tuesday.",
-      "published": "2026-10-14T01:12:54Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "How Bills QB Josh Allen has become a star on and off the field",
-      "url": "https://www.espn.com/nfl/story/_/id/50134142/bills-qb-josh-allen-hollywood-star-endorsements",
-      "summary": "The Buffalo QB is racking up the endorsements and leaning on his Hollywood wife for advice.",
-      "published": "2026-10-13T17:00:51Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BUF"
-      ]
-    },
-    {
-      "title": "Recruiting firm's Brian Flores memo contains racial stereotypes, lawyers say",
-      "url": "https://www.espn.com/nfl/story/_/id/50174946/brian-flores-memo-rife-racial-stereotypes-lawyers-say",
-      "summary": "A recruiting report on Brian Flores has examples of what his lawyers say are racial stereotypes that NFL teams use when evaluating Black coaching candidates.",
-      "published": "2026-10-13T22:38:50Z",
-      "source": "ESPN NFL",
+      "title": "NFL coaching hot-seat rankings: Todd Bowles, Dan Quinn and Jim Harbaugh face mounting pressure",
+      "url": "https://www.cbssports.com/nfl/news/nfl-coach-hot-seat-rankings-week-6-dan-quinn-jim-harbaugh/",
+      "summary": "Quinn is one of several coaches who are feeling the heat",
+      "published": "Wed, 14 Oct 2026 12:59:15 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Bengals tight end Tanner Hudson out for season with torn pec",
-      "url": "https://www.espn.com/nfl/story/_/id/50174705/bengals-tight-end-tanner-hudson-season-torn-pec",
-      "summary": "Bengals TE Tanner Hudson suffered a torn pectoral in last Sunday's win over the Dolphins that will sideline him for the season, his agent told ESPN.",
-      "published": "2026-10-13T16:43:38Z",
-      "source": "ESPN NFL",
+      "title": "Prisco's Week 6 NFL picks: Seahawks over Broncos on Thursday night, Buccaneers upset Steelers",
+      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-6-nfl-picks-odds-predictions/",
+      "summary": "Pete Prisco reveals all of his Week 6 picks, including the Packers over the Cowboys on 'Sunday Night Football'",
+      "published": "Wed, 14 Oct 2026 10:00:53 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CIN",
-        "MIA"
-      ]
-    },
-    {
-      "title": "Why the Browns' run game is at the root of their offensive struggles",
-      "url": "https://www.espn.com/nfl/story/_/id/50170630/cleveland-browns-run-game-root-struggles-offense-week-5",
-      "summary": "Cleveland's O-line hasn't been able to open running lanes consistently enough for Quinshon Judkins and others.",
-      "published": "2026-10-13T16:00:01Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE"
-      ]
-    },
-    {
-      "title": "Marvin Harrison Jr. latest in Texans' quest to solve their WR2 conundrum",
-      "url": "https://www.espn.com/nfl/story/_/id/50167782/texans-wr2-issues-marvin-harrison-jr",
-      "summary": "Houston has traded and drafted receivers, hoping to complement No. 1 wideout Nico Collins and QB C.J. Stroud.",
-      "published": "2026-10-13T16:00:15Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "HOU"
+        "DAL",
+        "DEN",
+        "GB",
+        "PIT",
+        "SEA",
+        "TB"
       ]
     },
     {
@@ -891,116 +815,6 @@
       "category": "game",
       "teams": [
         "PIT"
-      ]
-    },
-    {
-      "title": "NFL Week 6 picks and score predictions: Seahawks destroy Broncos, Eagles lose again, Cowboys stun Packers",
-      "url": "https://www.cbssports.com/nfl/news/breech-nfl-week-6-picks-score-predictions-odds/",
-      "summary": "Here's your weekly dose of John Breech's NFL picks",
-      "published": "Tue, 13 Oct 2026 17:09:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "DEN",
-        "GB",
-        "PHI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "What we learned in NFL Week 5: Mike Evans is perfect fit with Brock Purdy, Josh Allen extends MVP lead",
-      "url": "https://www.cbssports.com/nfl/news/six-lessons-learned-nfl-week-5-mike-evans-brock-purdy-josh-allen/",
-      "summary": "Plus, this NFL Draft class is looking excellent early",
-      "published": "Tue, 13 Oct 2026 11:32:06 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Sean McVay cannot rely on the Rams' special teams -- and the Rams must fix it before it's too late ... again",
-      "url": "https://www.cbssports.com/nfl/news/sean-mcvay-cannot-rely-on-rams-special-teams/",
-      "summary": "The Rams are 32nd in the NFL in special teams expected points added",
-      "published": "Tue, 13 Oct 2026 05:22:41 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "NFL Week 5 grades for every team: Bills earn 'B+' for wild Monday night win, while two teams get failing marks",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-5-grades-for-every-team-patriots-packers-bears/",
-      "summary": "We're handing out grades for every Week 5 game",
-      "published": "Tue, 13 Oct 2026 04:12:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF"
-      ]
-    },
-    {
-      "title": "Bill Belichick noticeably absent from Patriots' celebration of 2001 Super Bowl team",
-      "url": "https://www.cbssports.com/nfl/news/bill-belichick-absent-patriots-celebration-2001-super-bowl-team/",
-      "summary": "Belichick recently attended the Giants' Super Bowl reunion",
-      "published": "Tue, 13 Oct 2026 01:16:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Rams vs. Bills prediction, odds: Matthew Stafford, Josh Allen clash in Week 5 'MNF' matchup",
-      "url": "https://www.cbssports.com/nfl/news/rams-vs-bills-how-to-watch-prediction-odds-monday-night-football/",
-      "summary": "Here's how to watch Rams vs. Bills, along with the latest odds, key matchups and our Week 5 'Monday Night Football' prediction",
-      "published": "Tue, 13 Oct 2026 00:00:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
-      "title": "Rams vs. Bills odds, prediction, betting preview, start time: Monday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/rams-bills-odds-prediction-betting-preview-start-time-monday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Bills vs. Rams on Monday Night Football",
-      "published": "Mon, 12 Oct 2026 22:57:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
-      "title": "Is DJ Moore playing on 'Monday Night Football?' A look at the Bills WR's status vs. Rams",
-      "url": "https://www.cbssports.com/nfl/news/is-dj-moore-playing-on-mnf-bills-wrs-status-vs-rams/",
-      "summary": "Moore was initially listed as questionable with a shoulder injury",
-      "published": "Mon, 12 Oct 2026 22:51:33 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BUF",
-        "LA"
       ]
     }
   ],
