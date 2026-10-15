@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-15T14:27:50.582091+00:00",
-  "checked_at_utc": "2026-10-15T14:27:50.582091+00:00",
+  "updated_at_utc": "2026-10-15T18:33:55.115462+00:00",
+  "checked_at_utc": "2026-10-15T18:33:55.115462+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 4,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 29
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,58 @@
     }
   },
   "items": [
+    {
+      "title": "Philadelphia Eagles Detail Blood Clot In QB Jalen Hurts' Calf",
+      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-injury-panthers-eagles-schedule-tanner-mckee",
+      "summary": "The Philadelphia Eagles revealed that quarterback Jalen Hurts is dealing with a blood clot in his calf.",
+      "published": "Thu, 15 Oct 2026 13:33:15 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "How to Watch Seahawks vs. Broncos: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-seahawks-vs-broncos-tv-channel-live-stream-time-oct-15-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Seattle Seahawks and Denver Broncos game.",
+      "published": "Thu, 15 Oct 2026 11:43:52 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "SEA"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 6: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-6-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every Week 6 matchup in the NFL.",
+      "published": "Thu, 15 Oct 2026 10:54:48 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Fact Or Fiction: Jalen Hurts The Problem In Philly? Jaguars Are Title Contenders?",
+      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-problem-eagles-jaguars-packers-title-contenders",
+      "summary": "We dive into your Week 5 hot takes, from the QB issues in Philadelphia and Denver to the title chances of the Jaguars and Packers.",
+      "published": "Thu, 15 Oct 2026 10:35:30 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "GB",
+        "JAX"
+      ]
+    },
     {
       "title": "NFL Catchup: Saquon Barkley Among 24 Eagles On Injury Report; Caleb Williams Returns",
       "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-saquon-barkley-among-24-eagles-injury-report-caleb-williams-returns",
@@ -257,70 +309,10 @@
       "teams": []
     },
     {
-      "title": "QB Notebook: What's Going On With Sam Darnold; Inside Justin Herbert's Worst Season",
-      "url": "https://www.foxsports.com/stories/nfl/qb-notebook-whats-going-on-with-sam-darnold-inside-justin-herberts-worst-season",
-      "summary": "Let's dive deeper into Sam Darnold and Justin Herbert's struggles this season in this week's QB Notebook.",
-      "published": "Wed, 14 Oct 2026 10:16:49 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Saints Owner Gayle Benson Explains Why She Will 'Not Accept' Team's Slow Start",
-      "url": "https://www.foxsports.com/stories/nfl/saints-owner-comments-gayle-benson-kellen-moore-new-orleans-schedule",
-      "summary": "New Orleans Saints owner Gayle Benson put the organization on notice in the wake of their 1-4 start.",
-      "published": "Wed, 14 Oct 2026 10:16:18 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NO"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 6: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-6-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 6 matchup in the NFL.",
-      "published": "Wed, 14 Oct 2026 09:57:25 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "49ers' Dre Greenlaw Suspended 1 Game After Headbutting Seahawks' Ernest Jones IV",
-      "url": "https://www.foxsports.com/stories/nfl/49ers-lb-dre-greenlaw-ejected-after-headbutting-seahawks-ernest-jones-iv",
-      "summary": "San Francisco 49ers linebacker Dre Greenlaw was ejected in the first half against the Seattle Seahawks after his late hit on Sam Darnold set off a scuffle on the Seattle sideline.",
-      "published": "Tue, 13 Oct 2026 21:11:05 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SEA",
-        "SF"
-      ]
-    },
-    {
-      "title": "Which NFL teams have never won a Super Bowl?",
-      "url": "https://www.espn.com/nfl/story/_/id/39387513/which-nfl-teams-never-won-super-bowl",
-      "summary": "Some NFL teams have scored multiple Lombardi trophies, but which franchises have never won the Super Bowl? Check out more information now.",
-      "published": "2026-10-15T13:59:34Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
       "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
       "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-      "published": "2026-10-15T12:58:28Z",
+      "published": "2026-10-15T18:23:52Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -331,17 +323,130 @@
       ]
     },
     {
-      "title": "Brian Schottenheimer OK with Cowboys' players-only meeting panned by Mike Tomlin",
-      "url": "https://www.espn.com/nfl/story/_/id/50188571/brian-schottenheimer-ok-cowboys-meeting-mike-tomlin",
-      "summary": "A players-only meeting held by the Cowboys' defense, which has since been panned by Mike Tomlin, is a good sign for the team, according to coach Brian Schottenheimer.",
-      "published": "2026-10-15T14:12:59Z",
+      "title": "Packers' Josh Jacobs sues to block release of records, video of altercation",
+      "url": "https://www.espn.com/nfl/story/_/id/50190063/packers-josh-jacobs-sues-block-release-records-video",
+      "summary": "The Packers' Josh Jacobs has filed a civil suit seeking a permanent injunction restricting access to records from his May 23 altercation with a woman.",
+      "published": "2026-10-15T18:12:53Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "DAL"
+        "GB"
       ]
+    },
+    {
+      "title": "Eagles QB Jalen Hurts ruled out vs. Panthers with blood clot in calf",
+      "url": "https://www.espn.com/nfl/story/_/id/50189940/eagles-qb-jalen-hurts-ruled-vs-panthers-blood-clot",
+      "summary": "Eagles quarterback Jalen Hurts has been ruled out for Sunday's game against the Panthers due to a superficial blood clot in his calf.",
+      "published": "2026-10-15T18:07:36Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CAR",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Houston Texans vs. Jacksonville Jaguars: NFL London kick-off time, how to watch in UK, team news",
+      "url": "https://www.espn.com/nfl/story/_/id/50189791/houston-texans-vs-jacksonville-jaguars-nfl-london-kick-how-watch-uk-team-news",
+      "summary": "The NFL is back in London this weekend as the Philadelphia Eagles take on the Jacksonville Jaguars at Tottenham Hotspur Stadium on Sunday.",
+      "published": "2026-10-15T16:49:33Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "JAX",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Jalen Hurts ruled out of Eagles' Week 6 matchup vs. Panthers due to superficial blood clot",
+      "url": "https://www.cbssports.com/nfl/news/eagles-rule-out-jalen-hurts-for-week-6-vs-panthers/",
+      "summary": "A follow-up ultrasound this week revealed movement in the clot, which was originally discovered before the London game",
+      "published": "Thu, 15 Oct 2026 18:01:51 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CAR",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Broncos-Seahawks, Packers-Cowboys",
+      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-odds-lines-spreads-totals/",
+      "summary": "Week 6 opens with Broncos-Seahawks on Thursday, while Packers-Cowboys and 49ers-Commanders headline primetime.",
+      "published": "Thu, 15 Oct 2026 17:17:29 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "DEN",
+        "GB",
+        "SEA",
+        "SF",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Tyreek Hill rumors: Do Chiefs even have room for WR after reworking record-breaking offense?",
+      "url": "https://www.cbssports.com/nfl/news/tyreek-hill-rumors-do-chiefs-have-room-for-wr/",
+      "summary": "The Chiefs got their mojo back thanks to Kenneth Walker III, but they are still missing one thing",
+      "published": "Thu, 15 Oct 2026 17:02:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "Seahawks and Broncos set for rare uniform matchup on Thursday night: This almost never happens in NFL",
+      "url": "https://www.cbssports.com/nfl/news/seahawks-broncos-rare-uniform-matchup-thursday-night-football/",
+      "summary": "Neither team will be wearing a white uniform on Thursday night",
+      "published": "Thu, 15 Oct 2026 16:05:37 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Pick Six: Seahawks-Broncos predictions for Thursday night, plus NFL Week 6 picks and QB rankings",
+      "url": "https://www.cbssports.com/nfl/news/pick-six-seahawks-broncos-predictions-nfl-week-6-picks/",
+      "summary": "Here's everything you need to know about the NFL for Oct. 15",
+      "published": "Thu, 15 Oct 2026 15:50:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "DEN",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Week 6 NFL score predictions, odds, picks, betting advice: Proven model reveals projections for every game",
+      "url": "https://www.cbssports.com/betting/news/week-6-nfl-score-predictions-odds-picks-betting-advice-proven-model-reveals-projections-for-every-game/",
+      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model for Week 6",
+      "published": "Thu, 15 Oct 2026 15:01:34 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
     },
     {
       "title": "Broncos vs. Seahawks odds, picks, prediction: Best bets, player props for Thursday Night Football NFL Week 6",
@@ -361,7 +466,7 @@
       "title": "Bills' Bradley Chubb reveals what he said that led to Alaric Jackson punch and suspension",
       "url": "https://www.cbssports.com/nfl/news/bills-bradley-chubb-reveals-what-he-said-alaric-jackson-punch/",
       "summary": "Chubb was trash-talking Jackson after the Bills' Monday night win",
-      "published": "Thu, 15 Oct 2026 13:55:26 +0000",
+      "published": "Thu, 15 Oct 2026 16:47:45 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -374,7 +479,7 @@
       "title": "Broncos vs. Seahawks: Bo Nix hopes to rejuvenate offense but has tough task vs. Seattle D on 'TNF'",
       "url": "https://www.cbssports.com/nfl/news/broncos-vs-seahawks-how-to-watch-preview-prediction/",
       "summary": "Denver is coming off a lackluster win vs. the Chargers, while Seattle looks to rebound after falling to the 49ers",
-      "published": "Thu, 15 Oct 2026 13:15:45 +0000",
+      "published": "Thu, 15 Oct 2026 14:45:46 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -410,17 +515,6 @@
         "BUF",
         "LA"
       ]
-    },
-    {
-      "title": "Week 6 NFL betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 6 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Thu, 15 Oct 2026 12:07:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "Revisiting the Micah Parsons trade: Who got the better of the deal between Cowboys, Packers?",
@@ -470,7 +564,7 @@
       "title": "It wouldn't shock me IF ... NFL Week 6: Trevor Lawrence melts down at Wembley, Giants extend lead in NFC East",
       "url": "https://www.cbssports.com/nfl/news/it-wouldnt-shock-me-if-nfl-week-6-trevor-lawrence-giants/",
       "summary": "Could Tennessee notch its first win of 2026? Will a Packers' RB erupt?",
-      "published": "Thu, 15 Oct 2026 14:09:25 +0000",
+      "published": "Thu, 15 Oct 2026 15:06:01 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -660,108 +754,6 @@
       "teams": [
         "NE"
       ]
-    },
-    {
-      "title": "Lamar Jackson has 'realistic chance' to return vs. Browns in Week 6",
-      "url": "https://www.cbssports.com/nfl/news/lamar-jackson-injury-update-ravens-browns-week-6/",
-      "summary": "Baltimore expects to know more by midweek as Jackson pushes to return from the ankle injury that sidelined him against Atlanta",
-      "published": "Wed, 14 Oct 2026 14:53:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CLE"
-      ]
-    },
-    {
-      "title": "Predicting the full 14-team NFL playoff bracket entering Week 6: 49ers make Super Bowl run, NFC East gets ugly",
-      "url": "https://www.cbssports.com/nfl/news/nfl-playoff-bracket-entering-week-6-49ers-super-bowl/",
-      "summary": "We just simulated the final 193 games of the NFL season and the 49ers are going to like how things ended up",
-      "published": "Wed, 14 Oct 2026 14:51:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "NFL QB Power Rankings: Jared Goff surges into top three, Justin Herbert hits new low",
-      "url": "https://www.cbssports.com/nfl/news/nfl-quarterback-rankings-2026-week-6-jared-goff-justin-herbert/",
-      "summary": "Brock Purdy retains the top spot, Jared Goff climbs into the top three and a resurgent Drake Maye makes the week's biggest leap",
-      "published": "Wed, 14 Oct 2026 13:43:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "How Bo Nix's strange, viral quote perfectly encapsulates his 2026 season",
-      "url": "https://www.cbssports.com/nfl/news/bo-nixs-viral-quote-encapsulates-his-2026-season-broncos/",
-      "summary": "Denver's offense ranks near the bottom of the NFL, but its history of wild second-half comebacks shows why Nix's strange comments hold some truth",
-      "published": "Wed, 14 Oct 2026 13:35:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Panthers vs. Eagles NFL Week 6 odds: Is it potentially Nick Sirianni's swan song if Philly loses ugly again?",
-      "url": "https://www.cbssports.com/betting/news/panthers-vs-eagles-nfl-week-6-odds-is-it-potentially-nick-siriannis-swan-song-if-philly-loses-ugly-again/",
-      "summary": "Nick Sirianni is on a very hot seat as his Eagles host the Panthers on Sunday on CBS",
-      "published": "Wed, 14 Oct 2026 13:29:08 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "PHI"
-      ]
-    },
-    {
-      "title": "NFL Week 6 picks, odds: Panthers stun Eagles in Philly, Buccaneers pull off upset",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-picks-predictions-bets-odds-scores-panthers-eagles/",
-      "summary": "Tyler Sullivan picks every game on the Week 6 schedule, including five locks against the spread",
-      "published": "Wed, 14 Oct 2026 12:52:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "PHI",
-        "TB"
-      ]
-    },
-    {
-      "title": "Rays win Game 2 to knot up ALCS; Pete Prisco's latest NFL Power Rankings; top 100 NBA players",
-      "url": "https://www.cbssports.com/mlb/news/rays-guardians-alcs-prisco-nfl-power-rankings-top-100-nba-players/",
-      "summary": "Plus why the Bills vs. Rams thriller came with long-term consequences",
-      "published": "Wed, 14 Oct 2026 12:40:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
-      "title": "NFL coaching hot-seat rankings: Todd Bowles, Dan Quinn and Jim Harbaugh face mounting pressure",
-      "url": "https://www.cbssports.com/nfl/news/nfl-coach-hot-seat-rankings-week-6-dan-quinn-jim-harbaugh/",
-      "summary": "Quinn is one of several coaches who are feeling the heat",
-      "published": "Wed, 14 Oct 2026 12:59:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     }
   ],
   "reporters": []
