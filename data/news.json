@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-14T21:56:38.898430+00:00",
-  "checked_at_utc": "2026-10-14T21:57:04.168287+00:00",
+  "updated_at_utc": "2026-10-15T00:22:32.001509+00:00",
+  "checked_at_utc": "2026-10-15T00:22:57.213297+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 7,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 35
     },
     "FOX Sports NFL": {
       "ok": false,
@@ -22,10 +22,65 @@
   },
   "items": [
     {
+      "title": "Seahawks rule out LB Thomas, RB Charbonnet for Thursday night game vs. Broncos",
+      "url": "https://www.espn.com/nfl/story/_/id/50185443/seahawks-rule-thomas-charbonnet-thursday-vs-broncos",
+      "summary": "The Seahawks will be without starting linebacker Drake Thomas and running back Zach Charbonnet for Thursday's game at Denver.",
+      "published": "2026-10-14T23:58:44Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "DEN",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Rams' Alaric Jackson has suspension cut to 1 game following appeal",
+      "url": "https://www.espn.com/nfl/story/_/id/50185418/rams-alaric-jackson-suspension-cut-1-game",
+      "summary": "Alaric Jackson's suspension for punching Bradley Chubb after Monday night's game between the Bills and Rams was reduced from two games to one.",
+      "published": "2026-10-15T00:14:41Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA"
+      ]
+    },
+    {
+      "title": "Bills' Bradley Chubb details his side of altercation with Rams' Alaric Jackson",
+      "url": "https://www.espn.com/nfl/story/_/id/50185371/bills-rams-bradley-chubb-alaric-jackson-punch-side",
+      "summary": "Bills edge defender Bradley Chubb gave his side of the story two days after a postgame altercation with Rams offensive tackle Alaric Jackson.",
+      "published": "2026-10-15T00:04:08Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA"
+      ]
+    },
+    {
+      "title": "Four men arrested in connection with Feb. shooting of 49ers' Keion White",
+      "url": "https://www.espn.com/nfl/story/_/id/50185071/four-arrested-feb-shooting-49ers-keion-white",
+      "summary": "Four men have been arrested in connection with the shooting of 49ers defensive lineman Keion White at a nightclub in February, officials said Wednesday.",
+      "published": "2026-10-14T22:48:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
       "title": "Marvin Harrison Jr. will play for Texans on Sunday in London, coach says",
       "url": "https://www.espn.com/nfl/story/_/id/50184544/marvin-harrison-jr-play-texans-sunday-london",
       "summary": "Texans wideout Marvin Harrison Jr. will play against the Jacksonville Jaguars in London on Sunday, Houston coach DeMeco Ryans said Wednesday.",
-      "published": "2026-10-14T21:50:48Z",
+      "published": "2026-10-14T23:04:26Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -62,29 +117,17 @@
       ]
     },
     {
-      "title": "Patriots CB Gonzalez says he's 'ready to go'; WR Brown returns to practice",
-      "url": "https://www.espn.com/nfl/story/_/id/50183044/patriots-gonzalez-set-return-wr-brown-back-practice",
-      "summary": "Patriots cornerback Christian Gonzalez said Wednesday he's ready to return after missing the past two games with a shoulder injury.",
-      "published": "2026-10-14T21:05:47Z",
-      "source": "ESPN NFL",
+      "title": "Cowboys' Joey Porter Jr. breaks silence after missing Week 5 game and how much does he plan to play at Packers",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-joey-porter-jr-breaks-silence-after-missing-week-5/",
+      "summary": "Porter Jr. began to feel sick on the day of Dallas' Thursday Night Football game in Week 5",
+      "published": "Wed, 14 Oct 2026 22:10:15 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
       "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Sources: Broncos S Talanoa Hufanga (ankle) set to miss multiple weeks",
-      "url": "https://www.espn.com/nfl/story/_/id/50182760/sources-broncos-s-hufanga-ankle-set-miss-multiple-weeks",
-      "summary": "Safety Talanoa Hufanga, who has made several key plays for the Broncos defense in recent wins, is expected to miss multiple weeks with an ankle injury, sources told ESPN.",
-      "published": "2026-10-14T21:40:47Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN"
+        "DAL",
+        "GB"
       ]
     },
     {
@@ -177,7 +220,7 @@
       "title": "Mike Renner's 2027 NFL Draft Big Board: Ranking the top 150 prospects at college football midway point",
       "url": "https://www.cbssports.com/nfl/draft/news/renners-2027-nfl-draft-big-board-ranking-top-150-prospects/",
       "summary": "Ohio State wide receiver Jeremiah Smith leads the way while Drew Mestemaker and CJ Carr emerge as early contenders to go No. 1 overall",
-      "published": "Wed, 14 Oct 2026 19:57:45 +0000",
+      "published": "Wed, 14 Oct 2026 22:51:10 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -514,6 +557,24 @@
         "BUF",
         "LA",
         "NYJ"
+      ]
+    },
+    {
+      "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Seahawks-Broncos, Packers-Cowboys",
+      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-odds-lines-totals-spreads/",
+      "summary": "Week 6 opens with Broncos-Seahawks on Thursday, while Packers-Cowboys and 49ers-Commanders headline primetime.",
+      "published": "Tue, 13 Oct 2026 18:14:23 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "DEN",
+        "GB",
+        "SEA",
+        "SF",
+        "WAS"
       ]
     }
   ],
