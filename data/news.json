@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-15T04:58:28.013328+00:00",
-  "checked_at_utc": "2026-10-15T04:58:28.013328+00:00",
+  "updated_at_utc": "2026-10-15T09:46:19.757953+00:00",
+  "checked_at_utc": "2026-10-15T09:46:19.757953+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 6,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -316,75 +316,6 @@
       "category": "game",
       "teams": [
         "NO"
-      ]
-    },
-    {
-      "title": "Love (ankle) sits out Cardinals practice as LaFleur says rest 'vital'",
-      "url": "https://www.espn.com/nfl/story/_/id/50185425/love-ankle-cardinals-practice",
-      "summary": "Arizona Cardinals running back Jeremiyah Love didn't practice Wednesday to rest his ailing left ankle. His status for Sunday's game against the Rams isn't clear.",
-      "published": "2026-10-15T00:56:04Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ARI",
-        "LA"
-      ]
-    },
-    {
-      "title": "Seahawks rule out LB Thomas, RB Charbonnet for Thursday night game vs. Broncos",
-      "url": "https://www.espn.com/nfl/story/_/id/50185443/seahawks-rule-thomas-charbonnet-thursday-vs-broncos",
-      "summary": "The Seahawks will be without starting linebacker Drake Thomas and running back Zach Charbonnet for Thursday's game at Denver.",
-      "published": "2026-10-15T00:41:22Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "DEN",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Rams' Alaric Jackson has suspension cut to 1 game following appeal",
-      "url": "https://www.espn.com/nfl/story/_/id/50185418/rams-alaric-jackson-suspension-cut-1-game",
-      "summary": "Alaric Jackson's suspension for punching Bradley Chubb after Monday night's game between the Bills and Rams was reduced from two games to one.",
-      "published": "2026-10-15T01:14:33Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
-      "title": "Bills' Bradley Chubb details his side of altercation with Rams' Alaric Jackson",
-      "url": "https://www.espn.com/nfl/story/_/id/50185371/bills-rams-bradley-chubb-alaric-jackson-punch-side",
-      "summary": "Bills edge defender Bradley Chubb gave his side of the story two days after a postgame altercation with Rams offensive tackle Alaric Jackson.",
-      "published": "2026-10-15T00:04:08Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
-      "title": "Four men arrested in connection with Feb. shooting of 49ers' Keion White",
-      "url": "https://www.espn.com/nfl/story/_/id/50185071/four-arrested-feb-shooting-49ers-keion-white",
-      "summary": "Four men have been arrested in connection with the shooting of 49ers defensive lineman Keion White at a nightclub in February, officials said Wednesday.",
-      "published": "2026-10-15T00:29:52Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SF"
       ]
     },
     {
