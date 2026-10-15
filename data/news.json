@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-15T09:46:19.757953+00:00",
-  "checked_at_utc": "2026-10-15T09:46:19.757953+00:00",
+  "updated_at_utc": "2026-10-15T14:27:50.582091+00:00",
+  "checked_at_utc": "2026-10-15T14:27:50.582091+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 1,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 35
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -306,16 +306,194 @@
       ]
     },
     {
-      "title": "Tyler Shough, Kellen Moore respond to criticism from Saints owner Gayle Benson",
-      "url": "https://www.espn.com/nfl/story/_/id/50186221/tyler-shough-saints-just-frustrated-gayle-benson",
-      "summary": "Tyler Shough said Wednesday that he shares the same frustrations of owner Gayle Benson, who a day earlier called the Saints' 1-4 start \"unacceptable.\"",
-      "published": "2026-10-15T02:25:47Z",
+      "title": "Which NFL teams have never won a Super Bowl?",
+      "url": "https://www.espn.com/nfl/story/_/id/39387513/which-nfl-teams-never-won-super-bowl",
+      "summary": "Some NFL teams have scored multiple Lombardi trophies, but which franchises have never won the Super Bowl? Check out more information now.",
+      "published": "2026-10-15T13:59:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+      "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
+      "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+      "published": "2026-10-15T12:58:28Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "NO"
+        "DEN",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Brian Schottenheimer OK with Cowboys' players-only meeting panned by Mike Tomlin",
+      "url": "https://www.espn.com/nfl/story/_/id/50188571/brian-schottenheimer-ok-cowboys-meeting-mike-tomlin",
+      "summary": "A players-only meeting held by the Cowboys' defense, which has since been panned by Mike Tomlin, is a good sign for the team, according to coach Brian Schottenheimer.",
+      "published": "2026-10-15T14:12:59Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Broncos vs. Seahawks odds, picks, prediction: Best bets, player props for Thursday Night Football NFL Week 6",
+      "url": "https://www.cbssports.com/betting/news/broncos-vs-seahawks-odds-picks-prediction-best-bets-player-props-for-thursday-night-football-nfl-week-6/",
+      "summary": "Back Denver as a short home underdog against Seattle, plus target receiving props for R.J. Harvey and A.J. Barner alongside an even-money Jaxson Smith-Njigba touchdown",
+      "published": "Thu, 15 Oct 2026 14:07:30 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Bills' Bradley Chubb reveals what he said that led to Alaric Jackson punch and suspension",
+      "url": "https://www.cbssports.com/nfl/news/bills-bradley-chubb-reveals-what-he-said-alaric-jackson-punch/",
+      "summary": "Chubb was trash-talking Jackson after the Bills' Monday night win",
+      "published": "Thu, 15 Oct 2026 13:55:26 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF"
+      ]
+    },
+    {
+      "title": "Broncos vs. Seahawks: Bo Nix hopes to rejuvenate offense but has tough task vs. Seattle D on 'TNF'",
+      "url": "https://www.cbssports.com/nfl/news/broncos-vs-seahawks-how-to-watch-preview-prediction/",
+      "summary": "Denver is coming off a lackluster win vs. the Chargers, while Seattle looks to rebound after falling to the 49ers",
+      "published": "Thu, 15 Oct 2026 13:15:45 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "LAC",
+        "SEA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Brewers bash champion Dodgers to brink of NLCS sweep; CBS Sports Preseason All-America team revealed",
+      "url": "https://www.cbssports.com/mlb/news/brewers-bash-champion-dodgers-to-brink-of-nlcs-sweep-cbs-sports-preseason-all-america-team-revealed/",
+      "summary": "Plus, A.J. Brown is one of several injured NFL stars would could return soon",
+      "published": "Thu, 15 Oct 2026 12:54:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "NFL reduces suspension of Rams' Alaric Jackson for punching Bills' Bradley Chubb",
+      "url": "https://www.cbssports.com/nfl/news/rams-left-tackle-punches-bills-bradley-chubb-mnf/",
+      "summary": "Alaric Jackson hit the Bills' pass-rusher with an apparent sucker-punch following Buffalo's wild Monday night win",
+      "published": "Thu, 15 Oct 2026 12:26:25 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA"
+      ]
+    },
+    {
+      "title": "Week 6 NFL betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 6 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Thu, 15 Oct 2026 12:07:24 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Revisiting the Micah Parsons trade: Who got the better of the deal between Cowboys, Packers?",
+      "url": "https://www.cbssports.com/nfl/news/revisiting-the-micah-parsons-trade-packers-cowboys/",
+      "summary": "It hasn't been a lose-lose situation, but it's not going the way either team planned",
+      "published": "Thu, 15 Oct 2026 11:23:57 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DAL",
+        "GB"
+      ]
+    },
+    {
+      "title": "Super Bowl stock report for NFL Week 6: 49ers emerge as new favorites, Bears await Caleb Williams' return",
+      "url": "https://www.cbssports.com/nfl/news/super-bowl-stock-report-for-nfl-week-6/",
+      "summary": "We assess the NFL title race after Week 5 and identify three upcoming games that could reshape the Super Bowl picture",
+      "published": "Thu, 15 Oct 2026 11:22:54 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "SF"
+      ]
+    },
+    {
+      "title": "NFL Week 6 upset alert: Can Titans beat TD-favorite Colts? Will rested Bucs upset Steelers?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-upset-alert-titanscolts-bucs-steelers/",
+      "summary": "These favorites are not only at risk of not covering, but they could lose outright in Week 6",
+      "published": "Thu, 15 Oct 2026 13:23:26 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "PIT",
+        "TB",
+        "TEN"
+      ]
+    },
+    {
+      "title": "It wouldn't shock me IF ... NFL Week 6: Trevor Lawrence melts down at Wembley, Giants extend lead in NFC East",
+      "url": "https://www.cbssports.com/nfl/news/it-wouldnt-shock-me-if-nfl-week-6-trevor-lawrence-giants/",
+      "summary": "Could Tennessee notch its first win of 2026? Will a Packers' RB erupt?",
+      "published": "Thu, 15 Oct 2026 14:09:25 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "NYG"
+      ]
+    },
+    {
+      "title": "NFL Week 6 picks: Our experts face off on Seahawks at Broncos, Ravens at Browns and more",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-picks-experts-on-seahawks-broncos-ravens-browns/",
+      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict Week 6's top games",
+      "published": "Thu, 15 Oct 2026 13:10:41 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CLE",
+        "DEN",
+        "SEA"
       ]
     },
     {
@@ -584,196 +762,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "Prisco's Week 6 NFL picks: Seahawks over Broncos on Thursday night, Buccaneers upset Steelers",
-      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-6-nfl-picks-odds-predictions/",
-      "summary": "Pete Prisco reveals all of his Week 6 picks, including the Packers over the Cowboys on 'Sunday Night Football'",
-      "published": "Wed, 14 Oct 2026 15:03:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "DEN",
-        "GB",
-        "PIT",
-        "SEA",
-        "TB"
-      ]
-    },
-    {
-      "title": "Bills' Joe Brady threatens playing time 'consequences' for James Cook III over fumble issues",
-      "url": "https://www.cbssports.com/nfl/news/bills-joe-brady-threatens-playing-time-consequences-james-cook/",
-      "summary": "Cook coughed the ball up twice against the Rams in Week 5 and has four fumbles on the year",
-      "published": "Tue, 13 Oct 2026 23:50:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
-      "title": "Rams' Alaric Jackson suspended for punching Bills' Bradley Chubb",
-      "url": "https://www.cbssports.com/nfl/news/rams-left-tackle-punches-bills-bradley-chubb-mnf/",
-      "summary": "Alaric Jackson hit the Bills' pass-rusher with an apparent sucker-punch following Buffalo's wild Monday night win",
-      "published": "Tue, 13 Oct 2026 23:08:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
-      "title": "Saints owner Gayle Benson voices frustration with 1-4 record, emphasizes 'urgency' to improve",
-      "url": "https://www.cbssports.com/nfl/news/saints-owner-gayle-benson-voices-frustration-urgency-to-improve/",
-      "summary": "Benson turned up the heat on the Saints' coaching staff and roster during their three-game losing streak",
-      "published": "Tue, 13 Oct 2026 22:44:46 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NO"
-      ]
-    },
-    {
-      "title": "Jauan Jennings landing spots: Could veteran WR reunite with 49ers after slow start in Minnesota?",
-      "url": "https://www.cbssports.com/nfl/news/jauan-jennings-landing-spots-nfl-trade-deadline/",
-      "summary": "With Jennings' trade market reportedly set to heat up, these destinations would be ideal fits",
-      "published": "Tue, 13 Oct 2026 21:52:22 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Micah Parsons rips into Jayden Daniels for 'disgusting' OT blunder: 'Probably cost Dan Quinn his job'",
-      "url": "https://www.cbssports.com/nfl/news/micah-parsons-rips-into-commanders-jayden-daniels-mistake-vs-giants/",
-      "summary": "Commanders head coach Dan Quinn was Parsons' first NFL defensive coordinator with the Dallas Cowboys, and he's taking Quinn's side after Washington's overtime mistakes",
-      "published": "Tue, 13 Oct 2026 21:59:27 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Bears' Montez Sweat suspended for violating NFL's performance-enhancing substances policy",
-      "url": "https://www.cbssports.com/nfl/news/nfl-suspends-bears-montez-violating-ped-policy/",
-      "summary": "Sweat will miss two important games before his return in November",
-      "published": "Tue, 13 Oct 2026 20:53:06 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Prisco's NFL Week 6 Power Rankings: 49ers are league's best team, Packers climb 10 spots",
-      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-6-power-rankings-49ers-packers/",
-      "summary": "Pete Prisco shares his latest Power Rankings for the 2026 NFL season, including some big risers and fallers",
-      "published": "Tue, 13 Oct 2026 19:59:14 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "SF"
-      ]
-    },
-    {
-      "title": "NFL trade deadline buyers and sellers: Cowboys looking to add, possible Chargers fire sale?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-buyers-sellers-cowboys-bucs-chargers/",
-      "summary": "These are the teams and names to monitor as trade season heats up in the weeks to come",
-      "published": "Tue, 13 Oct 2026 20:08:34 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Is it Carson Beck time in Arizona? When Cardinals need to replace Jacoby Brissett with the rookie QB",
-      "url": "https://www.cbssports.com/nfl/news/should-cardinals-replace-jacoby-brissett-carson-beck/",
-      "summary": "A look at the Cardinals' quarterback outlook and when Carson Beck should start",
-      "published": "Tue, 13 Oct 2026 19:25:17 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ARI"
-      ]
-    },
-    {
-      "title": "NFL eyeing possible schedule change with Sunday night flex in Week 8, but league doesn't have a lot of options",
-      "url": "https://www.cbssports.com/nfl/news/nfl-eyeing-possible-schedule-change-week-8/",
-      "summary": "With Philadelphia and Washington struggling, the league has until Oct. 20 to make a move, but scheduling conflicts across the Week 8 slate leave few viable replacement options",
-      "published": "Tue, 13 Oct 2026 20:42:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Brian Flores-NFL lawsuit: Recruiting firm memo filled with racial stereotypes, attorneys claim",
-      "url": "https://www.cbssports.com/nfl/news/brian-flores-recruiting-memo-filled-with-racial-stereotypes-attorneys-claim/",
-      "summary": "Flores, Steve Wilks and Ray Horton have an ongoing lawsuit against the NFL for racial discrimination",
-      "published": "Tue, 13 Oct 2026 19:17:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Will Chargers trade Justin Herbert? Update on possibility of QB being dealt and possible landing spots",
-      "url": "https://www.cbssports.com/nfl/news/will-chargers-trade-justin-herbert-possible-landing-spots/",
-      "summary": "Herbert's name has started to circulate ahead of the NFL's trade deadline",
-      "published": "Tue, 13 Oct 2026 20:38:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "Rams release kicker Harrison Mevis after disastrous loss to Bills, sign Jets' practice squad kicker",
-      "url": "https://www.cbssports.com/nfl/news/rams-release-kicker-harrison-mevis-sign-jets-blake-grupe/",
-      "summary": "Mevis hit just 55.6% of his field goal attempts this season, which ranks last in the NFL",
-      "published": "Tue, 13 Oct 2026 17:59:17 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BUF",
-        "LA",
-        "NYJ"
-      ]
     }
   ],
   "reporters": []
