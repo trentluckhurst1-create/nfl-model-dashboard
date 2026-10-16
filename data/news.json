@@ -1,123 +1,32 @@
 {
-  "updated_at_utc": "2026-10-15T23:54:31.093587+00:00",
-  "checked_at_utc": "2026-10-15T23:54:31.093587+00:00",
+  "updated_at_utc": "2026-10-16T03:25:06.464274+00:00",
+  "checked_at_utc": "2026-10-16T03:25:31.691509+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 17,
+      "items": 15,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 28
+      "items": 29
     },
     "FOX Sports NFL": {
-      "ok": true,
-      "items": 17,
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout",
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "#AskTom: Which Team Would Tom Brady Most Want To Play For? Can Brock Purdy Win Super Bowl?",
-      "url": "https://www.foxsports.com/stories/nfl/asktom-which-team-would-tom-brady-most-want-play-for-can-brock-purdy-win-super-bowl",
-      "summary": "Tom Brady had a \"simple answer\" for which offense he'd most want to quarterback right now, and he's a believer in Brock Purdy.",
-      "published": "Thu, 15 Oct 2026 19:33:15 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "2027 NFL Draft QB Power Rankings: Has Trinidad Chambliss Usurped Arch Manning?",
-      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-qb-power-rankings-has-trinidad-chambliss-usurped-arch-manning",
-      "summary": "With the 2026 season nearing the halfway mark, Rob Rang sorts the 14 best draft-eligible QBs into tiers.",
-      "published": "Thu, 15 Oct 2026 18:28:30 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Comeback Player of Year Odds: Patrick Mahomes Heavily Favored",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-comeback-player-year",
-      "summary": "Patrick Mahomes is the heavy favorite to win NFL Comeback Player of the Year, but a returning superstar is still in the mix. See the odds.",
-      "published": "Thu, 15 Oct 2026 16:49:28 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Week 6 Picks: Best Bets For Every Game \u2014 Will's Wagers",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-6-picks-best-bets-every-game-wills-wagers",
-      "summary": "Will Hill delivers his best bet for EVERY NFL Week 6 contest. Dive in.",
-      "published": "Thu, 15 Oct 2026 16:40:40 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Top 10 NFL Coordinators Ready To Become Head Coaches",
-      "url": "https://www.foxsports.com/stories/nfl/top-10-nfl-coordinators-ready-become-head-coaches",
-      "summary": "We identify the NFL coordinators who are the top head-coaching candidates and break down why they're on our list.",
-      "published": "Thu, 15 Oct 2026 16:03:15 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Who Should Be Blamed For Commanders' OT Blunder? NFL Scouts, Execs Differ",
-      "url": "https://www.foxsports.com/stories/nfl/commanders-overtime-tie-giants-jayden-daniels-dan-quinn",
-      "summary": "People around the NFL mostly blame Dan Quinn for what happened on Sunday, but they don't think Jayden Daniels is blameless.",
-      "published": "Thu, 15 Oct 2026 15:22:52 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "WAS"
-      ]
-    },
-    {
-      "title": "2027 NFL Draft No. 1 Pick Odds: Jeremiah Smith Favored, Arch Manning Tumbles",
-      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
-      "summary": "Could Jeremiah Smith become the first wide receiver since 1996 to be selected No. 1 overall in the NFL Draft? See the latest odds.",
-      "published": "Thu, 15 Oct 2026 15:19:20 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Philadelphia Eagles Detail Blood Clot In QB Jalen Hurts' Calf",
-      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-injury-panthers-eagles-schedule-tanner-mckee",
-      "summary": "The Philadelphia Eagles revealed that quarterback Jalen Hurts is dealing with a blood clot in his calf.",
-      "published": "Thu, 15 Oct 2026 13:33:15 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "How to Watch Seahawks vs. Broncos: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-seahawks-vs-broncos-tv-channel-live-stream-time-oct-15-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Seattle Seahawks and Denver Broncos game.",
-      "published": "Thu, 15 Oct 2026 11:43:52 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
+      "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf",
+      "summary": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
+      "published": "2026-10-16T03:22:36Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -127,108 +36,31 @@
       ]
     },
     {
-      "title": "2026 NFL Odds Week 6: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-6-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 6 matchup in the NFL.",
-      "published": "Thu, 15 Oct 2026 10:54:48 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Fact Or Fiction: Jalen Hurts The Problem In Philly? Jaguars Are Title Contenders?",
-      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-problem-eagles-jaguars-packers-title-contenders",
-      "summary": "We dive into your Week 5 hot takes, from the QB issues in Philadelphia and Denver to the title chances of the Jaguars and Packers.",
-      "published": "Thu, 15 Oct 2026 10:35:30 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
+      "url": "http://www.espn.com/nfl/preview?gameId=401872997",
+      "summary": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
+      "published": "2026-10-16T00:52:33Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": [
-        "GB",
-        "JAX"
+        "BAL",
+        "CLE"
       ]
     },
     {
-      "title": "NFL Catchup: Saquon Barkley Among 24 Eagles On Injury Report; Caleb Williams Returns",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-saquon-barkley-among-24-eagles-injury-report-caleb-williams-returns",
-      "summary": "Here\u2019s the latest from around the NFL on Wednesday.",
-      "published": "Wed, 14 Oct 2026 21:36:43 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "NFL Week 6 Betting Report: Bettors Backing The Over In Caleb Williams' Return",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-6-betting-report-bettors-backing-over-caleb-williams-return",
-      "summary": "Patrick Everson breaks down how Caleb Williams' return is impacting Bears-Falcons action and how the public is wagering the Bills-Raiders showdown.",
-      "published": "Wed, 14 Oct 2026 20:50:38 -0400",
-      "source": "FOX Sports NFL",
+      "title": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
+      "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
+      "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
+      "published": "2026-10-16T00:00:42Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL",
-        "BUF",
-        "CHI",
-        "LV"
-      ]
-    },
-    {
-      "title": "Tom Brady's NFL Power Rankings: 49ers Clear No. 1? Vikings Have All-Time Defense?",
-      "url": "https://www.foxsports.com/stories/nfl/tom-bradys-nfl-power-rankings-week-6-49ers-vikings-chiefs",
-      "summary": "Who is Tom Brady's top team in the NFL? He's thinking there's a clear answer there.",
-      "published": "Wed, 14 Oct 2026 18:44:05 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN",
-        "SF"
-      ]
-    },
-    {
-      "title": "West Coast Read: Immensely Talented Brock Purdy Is Just Getting Started As He Enters Elite",
-      "url": "https://www.foxsports.com/stories/nfl/brock-purdy-49ers-mvp-elite-qb",
-      "summary": "Brock Purdy playing at an MVP level is no surprise for former 49ers QB coach Brian Griese. And he believes there's room for improvement.",
-      "published": "Wed, 14 Oct 2026 17:53:54 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Sammy\u2019s Sportsbook Whispers: Oh How The Mighty Ducks Have Fallen",
-      "url": "https://www.foxsports.com/stories/college-football/sammys-sportsbook-whispers-oh-how-mighty-ducks-have-fallen",
-      "summary": "Oregon has rapidly fallen from grace. Does it have time to get its mojo back? Here are Sammy P's latest sportsbook whispers.",
-      "published": "Wed, 14 Oct 2026 17:47:03 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Will Hill's Parlay Of The Week: Back Dodgers In Game 3; Jags Over Texans",
-      "url": "https://www.foxsports.com/stories/mlb/will-hills-parlay-week-back-desperate-dodgers-win-game-3",
-      "summary": "Check out Will Hill's five-leg parlay, featuring a desperate Dodgers squad and a Big Ten battle between recent CFP champions.",
-      "published": "Wed, 14 Oct 2026 16:37:40 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU"
+        "DEN",
+        "SEA"
       ]
     },
     {
@@ -243,20 +75,6 @@
       "teams": [
         "CAR",
         "PHI"
-      ]
-    },
-    {
-      "title": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
-      "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf",
-      "summary": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-      "published": "2026-10-15T23:11:50Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "SEA"
       ]
     },
     {
@@ -373,7 +191,7 @@
       "title": "Jayden Daniels addresses teammates on gaffe, vows 'it'll never happen again'",
       "url": "https://www.espn.com/nfl/story/_/id/50191830/jayden-daniels-addresses-commanders-teammates-ot-gaffe",
       "summary": "Jayden Daniels addressed his Commanders teammates, once more blaming himself for the end-of-overtime debacle against the Giants and vowing it won't happen again.",
-      "published": "2026-10-15T23:21:49Z",
+      "published": "2026-10-16T02:41:22Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -412,58 +230,30 @@
       ]
     },
     {
-      "title": "The Colts are hoping to get Jonathan Taylor back on track when they host the winless Titans",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873003",
-      "summary": "The Indianapolis Colts need Jonathan Taylor to become a big-play threat again.",
-      "published": "2026-10-15T20:39:27Z",
-      "source": "ESPN NFL",
+      "title": "Broncos' cheating accusation against Seahawks almost led to lawsuit in 2024, according to Mike Macdonald",
+      "url": "https://www.cbssports.com/nfl/news/broncos-cheating-accusation-seahawks-mike-macdonald/",
+      "summary": "This is one of the wildest stories you'll ever hear in the NFL",
+      "published": "Thu, 15 Oct 2026 23:53:10 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "IND",
-        "TEN"
+        "DEN",
+        "SEA"
       ]
     },
     {
-      "title": "Raiders' Ashton Jeanty feels 'great' ahead of game vs. Bills",
-      "url": "https://www.espn.com/nfl/story/_/id/50191564/raiders-ashton-jeanty-feels-great-ahead-game-vs-bills",
-      "summary": "Raiders running back Ashton Jeanty, who has been battling ankle and foot injuries, said he's feeling great ahead of Sunday's game against the Bills.",
-      "published": "2026-10-15T21:09:13Z",
-      "source": "ESPN NFL",
+      "title": "Caleb Williams responds to critics after hamstring injury: 'My character's been attacked'",
+      "url": "https://www.cbssports.com/nfl/news/caleb-williams-injury-update-hamstring-tear-return-timeline/",
+      "summary": "Williams participated fully in consecutive practices, but the Bears quarterback said he has not yet been cleared to return to game action",
+      "published": "Thu, 15 Oct 2026 23:41:38 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "BUF",
-        "LV"
-      ]
-    },
-    {
-      "title": "Marvin Harrison Jr. set to debut for Texans in London against Jaguars, Parker Washington",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872996",
-      "summary": "\u2014 Plenty of attention will be on Marvin Harrison Jr. when the receiver makes his Houston Texans debut on Sunday against the Jacksonville Jaguars in London.",
-      "published": "2026-10-15T20:09:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Colts RB Jonathan Taylor not fretting slower start than usual",
-      "url": "https://www.espn.com/nfl/story/_/id/50191115/colts-jonathan-taylor-low-rushing-stats",
-      "summary": "Taylor may have lower numbers than usual, but he's still in the top 10 in rushing yards and rushing TDs.",
-      "published": "2026-10-15T21:05:29Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND"
+        "CHI"
       ]
     },
     {
@@ -836,20 +626,6 @@
       "teams": [
         "DAL",
         "GB"
-      ]
-    },
-    {
-      "title": "NFL addresses safety concerns for Steelers-Saints game in France as protests in Paris continue",
-      "url": "https://www.cbssports.com/nfl/news/nfl-addresses-safety-concerns-steelers-saints-france-protests-paris/",
-      "summary": "The league says it is still planning to play the game as originally scheduled",
-      "published": "Wed, 14 Oct 2026 21:48:34 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NO",
-        "PIT"
       ]
     }
   ],
