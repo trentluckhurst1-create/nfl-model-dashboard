@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-16T20:05:28.961729+00:00",
-  "checked_at_utc": "2026-10-16T20:05:28.961729+00:00",
+  "updated_at_utc": "2026-10-16T22:48:15.868326+00:00",
+  "checked_at_utc": "2026-10-16T22:48:15.868326+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 12,
+      "items": 15,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,35 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 21,
+      "items": 18,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "NFL Week 6 Schedule: How to Watch, TV Channels, Streaming, Game Previews",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-6-schedule-how-watch-tv-channels-streaming-game-previews",
+      "summary": "See the complete NFL Week 6 schedule, TV channels and streaming details for all 14 games, plus previews of top matchups including five FOX games.",
+      "published": "Fri, 16 Oct 2026 17:15:39 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Packers RB Josh Jacobs To Be Removed From Commissioner Exempt List, Eligible for Week 7",
+      "url": "https://www.foxsports.com/stories/nfl/packers-rb-josh-jacobs-removed-from-commissioner-exempt-list-eligible-week-7",
+      "summary": "Green Bay Packers running back Josh Jacobs will be removed from the NFL's Commissioner Exempt list on Monday, and is expected to be eligible to play in Week 7.",
+      "published": "Fri, 16 Oct 2026 16:17:56 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB"
+      ]
+    },
     {
       "title": "Is Ravens QB Lamar Jackson Playing Against Browns In Week 6?",
       "url": "https://www.foxsports.com/stories/nfl/lamar-jackson-injury-update-ravens-browns-week-6",
@@ -217,74 +241,6 @@
       ]
     },
     {
-      "title": "How to Watch Seahawks vs. Broncos: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-seahawks-vs-broncos-tv-channel-live-stream-time-oct-15-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Seattle Seahawks and Denver Broncos game.",
-      "published": "Thu, 15 Oct 2026 11:43:52 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "SEA"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 6: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-6-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 6 matchup in the NFL.",
-      "published": "Thu, 15 Oct 2026 10:54:48 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Fact Or Fiction: Jalen Hurts The Problem In Philly? Jaguars Are Title Contenders?",
-      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-problem-eagles-jaguars-packers-title-contenders",
-      "summary": "We dive into your Week 5 hot takes, from the QB issues in Philadelphia and Denver to the title chances of the Jaguars and Packers.",
-      "published": "Thu, 15 Oct 2026 10:35:30 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "GB",
-        "JAX"
-      ]
-    },
-    {
-      "title": "NFL Catchup: Saquon Barkley Among 24 Eagles On Injury Report; Caleb Williams Returns",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-saquon-barkley-among-24-eagles-injury-report-caleb-williams-returns",
-      "summary": "Here\u2019s the latest from around the NFL on Wednesday.",
-      "published": "Wed, 14 Oct 2026 21:36:43 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "NFL Week 6 Betting Report: Bettors Backing The Over In Caleb Williams' Return",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-6-betting-report-bettors-backing-over-caleb-williams-return",
-      "summary": "Patrick Everson breaks down how Caleb Williams' return is impacting Bears-Falcons action and how the public is wagering the Bills-Raiders showdown.",
-      "published": "Wed, 14 Oct 2026 20:50:38 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "BUF",
-        "CHI",
-        "LV"
-      ]
-    },
-    {
       "title": "Five takeaways from five weeks of the Raiders' season",
       "url": "https://www.espn.com/nfl/story/_/id/50189868/las-vegas-raiders-2026-season-five-takeaways-kirk-cousins",
       "summary": "What should be taken away from the first five weeks of the Raiders' 2026 season?",
@@ -298,10 +254,63 @@
       ]
     },
     {
+      "title": "Titans CEO apologizes to fans, supports Robert Saleh, GM",
+      "url": "https://www.espn.com/nfl/story/_/id/50198584/titans-ceo-apologizes-fans-supports-robert-saleh-gm",
+      "summary": "Titans CEO Burke Nihill said the organization believes that coach Robert Saleh and GM Mike Borgonzi are \"ultimately going to get this team out of the woods.\"",
+      "published": "2026-10-16T22:46:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "TEN"
+      ]
+    },
+    {
+      "title": "Decked-out, diehard Jaguars fans swarm London for pub takeover",
+      "url": "https://www.espn.com/nfl/story/_/id/50196768/jaguars-fans-london-pub-takeover",
+      "summary": "Jaguars fans roll deep in the United Kingdom, and the fandom showed up big at London's briefly renamed ''Tealwood'' pub Thursday night.",
+      "published": "2026-10-16T20:51:48Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Eagles' Saquon Barkley ruled out; DeVonta Smith to return",
+      "url": "https://www.espn.com/nfl/story/_/id/50198056/eagles-saquon-barkley-ruled-devonta-smith-return",
+      "summary": "Eagles RB Saquon Barkley has been ruled out for Sunday's game against the Panthers with a hamstring injury, but it appears WR DeVonta Smith will return.",
+      "published": "2026-10-16T21:09:31Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CAR",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Broncos' Jonathon Cooper off commissioner exempt list, could return Week 7",
+      "url": "https://www.espn.com/nfl/story/_/id/50198029/broncos-jonathon-cooper-removed-nfl-commissioner-exempt-list",
+      "summary": "Broncos linebacker Jonathon Cooper was removed from the commissioner exempt list Friday, meaning he's available to play in Week 7. Cooper, who was arrested twice in a seven-day span in June on domestic violence charges, has been on the list since Aug. 30.",
+      "published": "2026-10-16T21:31:22Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN"
+      ]
+    },
+    {
       "title": "Packers' Josh Jacobs eligible to return next week amid probe",
       "url": "https://www.espn.com/nfl/story/_/id/50197784/packers-josh-jacobs-eligible-return-next-week-amid-probe",
       "summary": "Packers RB Josh Jacobs will be removed from the commissioner exempt list Monday, the league announced, making him eligible to practice and play next week.",
-      "published": "2026-10-16T20:01:40Z",
+      "published": "2026-10-16T21:47:44Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -313,8 +322,8 @@
     {
       "title": "Bears' Caleb Williams questionable after 3 days of practice",
       "url": "https://www.espn.com/nfl/story/_/id/50197730/bears-caleb-williams-questionable-falcons",
-      "summary": "Williams said there are several hurdles to clear before he would be able to face the Falcons on Sunday.",
-      "published": "2026-10-16T20:02:09Z",
+      "summary": "The quarterback said there are several hurdles to clear before he would be able to face the Falcons on Sunday.",
+      "published": "2026-10-16T20:49:09Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -342,7 +351,7 @@
       "title": "Jalen Hurts' health bigger than football, as teammates, coach detail QB concern",
       "url": "https://www.espn.com/nfl/story/_/id/50197708/sirianni-teammates-share-concern-jalen-hurts-diagnosis",
       "summary": "Eagles coach Nick Sirianni declined to offer much detail about Jalen Hurts' health, instead focusing on his connection with the quarterback.",
-      "published": "2026-10-16T19:42:54Z",
+      "published": "2026-10-16T20:16:31Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -434,18 +443,26 @@
       ]
     },
     {
-      "title": "Jets rookie WR Omar Cooper Jr. to return vs. Patriots; RB Hall, WR Mitchell out",
-      "url": "https://www.espn.com/nfl/story/_/id/50196775/jets-rookie-wr-cooper-play-vs-patriots-hall-mitchell-out",
-      "summary": "Jets rookie wide receiver Omar Cooper Jr. (ankle) will play against the Patriots, but running back Breece Hall and wideout Adonai Mitchell have been ruled out for Sunday's game.",
-      "published": "2026-10-16T18:23:12Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 6 injury report: Lamar Jackson, Jalen Hurts sidelined; Caleb Williams could return",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-injury-report-lamar-jackson-jalen-hurts-caleb-williams/",
+      "summary": "Tyler Huntley and Tanner McKee will start in place of Jackson and Hurts, while Michael Penix Jr. is cleared to face Chicago",
+      "published": "Fri, 16 Oct 2026 21:57:37 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
-      "teams": [
-        "NE",
-        "NYJ"
-      ]
+      "teams": []
+    },
+    {
+      "title": "Josh Jacobs, Jonathon Cooper to come off NFL commissioner exempt list, eligible to return in Week 7",
+      "url": "https://www.cbssports.com/nfl/news/josh-jacobs-jonathon-cooper-nfl-commissioner-exempt-list-week-7-return/",
+      "summary": "Both players will become eligible for Week 7, although their teams must determine whether they are ready to play",
+      "published": "Fri, 16 Oct 2026 20:26:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
     },
     {
       "title": "Jaylen Waddle trade revisited: Bo Nix, Broncos struggling to integrate speedy WR who's also dropping passes",
@@ -824,33 +841,6 @@
       "teams": [
         "DEN",
         "SEA"
-      ]
-    },
-    {
-      "title": "Seahawks vs. Broncos odds, prediction, betting preview, start time: Thursday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/seahawks-vs-broncos-odds-prediction-betting-preview-start-time-thursday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Seahawks vs. Broncos on Thursday Night Football",
-      "published": "Thu, 15 Oct 2026 21:58:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Who is Tanner McKee? Eagles QB gets biggest opportunity yet with Jalen Hurts sidelined",
-      "url": "https://www.cbssports.com/nfl/news/who-is-tanner-mckee-eagles-qb-nfl-jalen-hurts/",
-      "summary": "The former Stanford quarterback takes over for Jalen Hurts with Philadelphia trying to end a three-game skid and remain in the NFC East race",
-      "published": "Fri, 16 Oct 2026 14:10:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "PHI"
       ]
     }
   ],
