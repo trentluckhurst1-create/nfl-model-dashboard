@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-16T03:25:06.464274+00:00",
-  "checked_at_utc": "2026-10-16T03:25:31.691509+00:00",
+  "updated_at_utc": "2026-10-16T08:25:48.408434+00:00",
+  "checked_at_utc": "2026-10-16T08:25:48.408434+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 15,
+      "items": 6,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -14,19 +14,18 @@
       "items": 29
     },
     "FOX Sports NFL": {
-      "ok": false,
-      "items": 0,
-      "error": "ReadTimeout",
+      "ok": true,
+      "items": 20,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
-      "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf",
-      "summary": "Follow all the biggest plays and highlights from Thursday night's game between Seattle and Denver.",
-      "published": "2026-10-16T03:22:36Z",
-      "source": "ESPN NFL",
+      "title": "Seattle, Sam Darnold Are Struggling: 3 Takeaways From Broncos' OT Win vs. Seahawks",
+      "url": "https://www.foxsports.com/stories/nfl/seattle-sam-darnold-struggling-3-takeaways-from-broncos-ot-win-vs-seahawks",
+      "summary": "Sam Darnold's woes have continued. Here are three takeaways from the Broncos' overtime win over the Seahawks.",
+      "published": "Fri, 16 Oct 2026 00:01:35 -0400",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -36,197 +35,320 @@
       ]
     },
     {
-      "title": "Browns coach Todd Monken faces his old team as Ravens visit Cleveland, likely with Huntley at QB",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872997",
-      "summary": "Browns coach Todd Monken and Ravens quarterback Tyler Huntley won't be in a sentimental mood when Cleveland hosts Baltimore in an AFC North matchup on Sunday.",
-      "published": "2026-10-16T00:52:33Z",
-      "source": "ESPN NFL",
+      "title": "What Would It Take For Your Favorite Team To Sign Tyreek Hill?",
+      "url": "https://www.foxsports.com/stories/nfl/what-would-take-your-favorite-team-sign-tyreek-hill",
+      "summary": "If you\u2019re wondering whether Hill could end up with your favorite team, here are the key checkmarks Rosenhaus laid out for his next destination.",
+      "published": "Thu, 15 Oct 2026 21:50:46 -0400",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "CLE"
-      ]
+      "category": "transaction",
+      "teams": []
     },
     {
-      "title": "NFL Week 6 uniforms: Broncos, Seahawks throw it back in TNF matchup",
-      "url": "https://www.espn.com/nfl/story/_/id/50175780/nfl-week-6-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 6, led by throwbacks from the Broncos and Seahawks.",
-      "published": "2026-10-16T00:00:42Z",
-      "source": "ESPN NFL",
+      "title": "The Rams Need More From Matthew Stafford To Live Up To \u2018Super Team\u2019 Hype",
+      "url": "https://www.foxsports.com/stories/nfl/super-team-rams-need-more-from-matthew-stafford",
+      "summary": "If the Rams are going to be Super Bowl contenders, they need Matthew Stafford to play more like the MVP he was last year.",
+      "published": "Thu, 15 Oct 2026 21:20:38 -0400",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DEN",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Panthers to visit an Eagles team that was already reeling before losing Hurts to a blood clot",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872998",
-      "summary": "\u2014 The Carolina Panthers had already been installed as road betting favorites as they prepare to visit Philadelphia and face a banged-up Eagles team riding a three-game losing streak.",
-      "published": "2026-10-15T23:23:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Sean McVay faces former offensive coordinator Mike LaFleur for first time when Rams host Cardinals",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873004",
-      "summary": "\u2014 The game between the Rams and Cardinals on Sunday is about more than the latest matchup pitting Sean McVay against one of his former offensive assistants \u2014 in this instance,",
-      "published": "2026-10-15T22:56:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
         "LA"
       ]
     },
     {
-      "title": "Jon Morris, former AFL and NFL center with Patriots, dies at 84",
-      "url": "https://www.espn.com/nfl/story/_/id/50192401/jon-morris-former-afl-nfl-center-patriots-dies-84",
-      "summary": "Jon Morris, who played 11 of his 15-year AFL and NFL career with the Boston and New England Patriots, has died at age 84.",
-      "published": "2026-10-15T23:39:29Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Patriots on upset alert as Geno Smith brings a no-INT streak into Jets matchup with Patriots",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873001",
-      "summary": "\u2014 The New England Patriots are coming off their best performance of the season, doing almost everything they wanted during a 28-point win over the...",
-      "published": "2026-10-15T22:49:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Texans RB Montgomery, S Pitre out for London affair vs. Jaguars",
-      "url": "https://www.espn.com/nfl/story/_/id/50192302/texans-rb-montgomery-s-pitre-london-affair-vs-jaguars",
-      "summary": "Texans starting RB David Montgomery (groin) and safety Jalen Pitre (shoulder) have been ruled out for Sunday's matchup against the Jaguars in London.",
-      "published": "2026-10-15T23:03:48Z",
-      "source": "ESPN NFL",
+      "title": "Does Anyone Actually Want To Win NFC (L)East? Predicting NFL's New Worst Division",
+      "url": "https://www.foxsports.com/stories/nfl/nfc-east-predictions-eagles-giants-cowboys-commanders",
+      "summary": "The race to win the once-strong NFC East is looking like a war of attrition among four flawed and injured teams. Can anybody rise to the top of the pile?",
+      "published": "Thu, 15 Oct 2026 21:09:15 -0400",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "#AskTom: Which Team Would Tom Brady Most Want To Play For? Can Brock Purdy Win Super Bowl?",
+      "url": "https://www.foxsports.com/stories/nfl/asktom-which-team-would-tom-brady-most-want-play-for-can-brock-purdy-win-super-bowl",
+      "summary": "Tom Brady had a \"simple answer\" for which offense he'd most want to quarterback right now, and he's a believer in Brock Purdy.",
+      "published": "Thu, 15 Oct 2026 19:33:15 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "2027 NFL Draft QB Power Rankings: Has Trinidad Chambliss Usurped Arch Manning?",
+      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-qb-power-rankings-has-trinidad-chambliss-usurped-arch-manning",
+      "summary": "With the 2026 season nearing the halfway mark, Rob Rang sorts the 14 best draft-eligible QBs into tiers.",
+      "published": "Thu, 15 Oct 2026 18:28:30 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL Comeback Player of Year Odds: Patrick Mahomes Heavily Favored",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-comeback-player-year",
+      "summary": "Patrick Mahomes is the heavy favorite to win NFL Comeback Player of the Year, but a returning superstar is still in the mix. See the odds.",
+      "published": "Thu, 15 Oct 2026 16:49:28 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL Week 6 Picks: Best Bets For Every Game \u2014 Will's Wagers",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-6-picks-best-bets-every-game-wills-wagers",
+      "summary": "Will Hill delivers his best bet for EVERY NFL Week 6 contest. Dive in.",
+      "published": "Thu, 15 Oct 2026 16:40:40 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Top 10 NFL Coordinators Ready To Become Head Coaches",
+      "url": "https://www.foxsports.com/stories/nfl/top-10-nfl-coordinators-ready-become-head-coaches",
+      "summary": "We identify the NFL coordinators who are the top head-coaching candidates and break down why they're on our list.",
+      "published": "Thu, 15 Oct 2026 16:03:15 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Who Should Be Blamed For Commanders' OT Blunder? NFL Scouts, Execs Differ",
+      "url": "https://www.foxsports.com/stories/nfl/commanders-overtime-tie-giants-jayden-daniels-dan-quinn",
+      "summary": "People around the NFL mostly blame Dan Quinn for what happened on Sunday, but they don't think Jayden Daniels is blameless.",
+      "published": "Thu, 15 Oct 2026 15:22:52 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": [
-        "HOU",
+        "WAS"
+      ]
+    },
+    {
+      "title": "2027 NFL Draft No. 1 Pick Odds: Jeremiah Smith Favored, Arch Manning Tumbles",
+      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
+      "summary": "Could Jeremiah Smith become the first wide receiver since 1996 to be selected No. 1 overall in the NFL Draft? See the latest odds.",
+      "published": "Thu, 15 Oct 2026 15:19:20 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Philadelphia Eagles Detail Blood Clot In QB Jalen Hurts' Calf",
+      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-injury-panthers-eagles-schedule-tanner-mckee",
+      "summary": "The Philadelphia Eagles revealed that quarterback Jalen Hurts is dealing with a blood clot in his calf.",
+      "published": "Thu, 15 Oct 2026 13:33:15 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "How to Watch Seahawks vs. Broncos: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-seahawks-vs-broncos-tv-channel-live-stream-time-oct-15-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Seattle Seahawks and Denver Broncos game.",
+      "published": "Thu, 15 Oct 2026 11:43:52 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "SEA"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 6: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-6-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every Week 6 matchup in the NFL.",
+      "published": "Thu, 15 Oct 2026 10:54:48 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Fact Or Fiction: Jalen Hurts The Problem In Philly? Jaguars Are Title Contenders?",
+      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-problem-eagles-jaguars-packers-title-contenders",
+      "summary": "We dive into your Week 5 hot takes, from the QB issues in Philadelphia and Denver to the title chances of the Jaguars and Packers.",
+      "published": "Thu, 15 Oct 2026 10:35:30 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "GB",
         "JAX"
       ]
     },
     {
-      "title": "Bears QB Williams unsure if he's playing, has to still go through protocols",
-      "url": "https://www.espn.com/nfl/story/_/id/50192123/bears-caleb-williams-yet-know-playing",
-      "summary": "Caleb Williams reached another milestone in his recovery from a hamstring injury, logging full participation in practice for the first time since Sept. 18.",
-      "published": "2026-10-15T23:03:35Z",
-      "source": "ESPN NFL",
+      "title": "NFL Catchup: Saquon Barkley Among 24 Eagles On Injury Report; Caleb Williams Returns",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-saquon-barkley-among-24-eagles-injury-report-caleb-williams-returns",
+      "summary": "Here\u2019s the latest from around the NFL on Wednesday.",
+      "published": "Wed, 14 Oct 2026 21:36:43 -0400",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "CHI"
+        "PHI"
       ]
     },
     {
-      "title": "Bears and Falcons lean on run games but have endured stressful starts to the season at quarterback",
-      "url": "http://www.espn.com/nfl/preview?gameId=401872999",
-      "summary": "\u2014 When Chicago Bears coach Ben Johnson said this week that \u201ca lot of things have gone through our minds\u201d about his quarterback depth chart, the Atlanta Falcons could relate.",
-      "published": "2026-10-15T21:44:27Z",
+      "title": "NFL Week 6 Betting Report: Bettors Backing The Over In Caleb Williams' Return",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-6-betting-report-bettors-backing-over-caleb-williams-return",
+      "summary": "Patrick Everson breaks down how Caleb Williams' return is impacting Bears-Falcons action and how the public is wagering the Bills-Raiders showdown.",
+      "published": "Wed, 14 Oct 2026 20:50:38 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "BUF",
+        "CHI",
+        "LV"
+      ]
+    },
+    {
+      "title": "Tom Brady's NFL Power Rankings: 49ers Clear No. 1? Vikings Have All-Time Defense?",
+      "url": "https://www.foxsports.com/stories/nfl/tom-bradys-nfl-power-rankings-week-6-49ers-vikings-chiefs",
+      "summary": "Who is Tom Brady's top team in the NFL? He's thinking there's a clear answer there.",
+      "published": "Wed, 14 Oct 2026 18:44:05 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN",
+        "SF"
+      ]
+    },
+    {
+      "title": "West Coast Read: Immensely Talented Brock Purdy Is Just Getting Started As He Enters Elite",
+      "url": "https://www.foxsports.com/stories/nfl/brock-purdy-49ers-mvp-elite-qb",
+      "summary": "Brock Purdy playing at an MVP level is no surprise for former 49ers QB coach Brian Griese. And he believes there's room for improvement.",
+      "published": "Wed, 14 Oct 2026 17:53:54 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "Sammy\u2019s Sportsbook Whispers: Oh How The Mighty Ducks Have Fallen",
+      "url": "https://www.foxsports.com/stories/college-football/sammys-sportsbook-whispers-oh-how-mighty-ducks-have-fallen",
+      "summary": "Oregon has rapidly fallen from grace. Does it have time to get its mojo back? Here are Sammy P's latest sportsbook whispers.",
+      "published": "Wed, 14 Oct 2026 17:47:03 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Houston Texans vs. Jacksonville Jaguars: NFL London kick-off time, how to watch in UK, team news",
+      "url": "https://www.espn.com/nfl/story/_/id/50189791/houston-texans-vs-jacksonville-jaguars-nfl-london-kick-how-watch-uk-team-news",
+      "summary": "The NFL is back in London this weekend as the Philadelphia Eagles take on the Jacksonville Jaguars at Tottenham Hotspur Stadium on Sunday.",
+      "published": "2026-10-16T07:17:32Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "JAX",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Seahawks' Sam Darnold owns up to late interceptions in overtime loss to Broncos",
+      "url": "https://www.espn.com/nfl/story/_/id/50194585/seahawks-darnold-owns-turnovers-loss-broncos",
+      "summary": "Seahawks quarterback Sam Darnold called his two late interceptions Thursday night \"unacceptable\" and vowed to be better after a 17-14 loss to the Broncos.",
+      "published": "2026-10-16T07:04:24Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": [
-        "ATL",
-        "CHI"
+        "DEN",
+        "SEA"
       ]
     },
     {
-      "title": "The 49ers look to avoid letdown, while the Commanders try to get past hangover of disappointing tie",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873008",
-      "summary": "\u2014 The San Francisco 49ers were still basking in the glow of an exhilarating road win against division...",
-      "published": "2026-10-15T21:39:27Z",
+      "title": "Defense bails out Broncos in OT win as Nix, offense struggle",
+      "url": "https://www.espn.com/nfl/story/_/id/50194537/broncos-seahawks-defense-bo-nix",
+      "summary": "The Broncos' D came up with five sacks, 17 QB hits and two interceptions, enabling Denver to win even though the offense finished with only 168 net yards.",
+      "published": "2026-10-16T07:26:29Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "DEN"
+      ]
+    },
+    {
+      "title": "Run game, defense power Broncos in OT win against Seahawks",
+      "url": "https://www.espn.com/nfl/story/_/id/50192352/broncos-seahawks-week-6-tnf-run-game-defense-ot",
+      "summary": "Behind two rushing touchdowns and a five-sack night, Denver holds off Seattle on \"Thursday Night Football.\"",
+      "published": "2026-10-16T05:00:03Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "SF",
-        "WAS"
+        "DEN",
+        "SEA"
       ]
     },
     {
-      "title": "The Bills aim to avoid a letdown in Las Vegas as the Raiders seek a rebound",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873005",
-      "summary": "\u2014 Buffalo will come into its game against Las Vegas trying to maintain momentum. The Bills could learn a lesson on what not to do from the Raiders.",
-      "published": "2026-10-15T21:28:27Z",
+      "title": "Broncos beat the Seahawks 17-14 in OT on Ja'Quan McMillian's pick, Wil Lutz's 53-yarder",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872995",
+      "summary": "\u2014 The Denver Broncos are atrocious on offense, depleted on defense and shaky on special teams. All they do is find ways to win.",
+      "published": "2026-10-16T03:47:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BUF",
-        "LV"
+        "DEN",
+        "SEA"
       ]
     },
     {
-      "title": "Jayden Daniels addresses teammates on gaffe, vows 'it'll never happen again'",
-      "url": "https://www.espn.com/nfl/story/_/id/50191830/jayden-daniels-addresses-commanders-teammates-ot-gaffe",
-      "summary": "Jayden Daniels addressed his Commanders teammates, once more blaming himself for the end-of-overtime debacle against the Giants and vowing it won't happen again.",
-      "published": "2026-10-16T02:41:22Z",
+      "title": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
+      "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf",
+      "summary": "Look back at all the biggest plays and highlights from Thursday night's Denver win against Seattle.",
+      "published": "2026-10-16T03:47:40Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Aaron Rodgers vs. Todd Bowles should be quite a chess match when Steelers visit the Buccaneers",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873002",
-      "summary": "\u2014 Todd Bowles will have to be quite creative to surprise Aaron Rodgers.",
-      "published": "2026-10-15T21:07:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PIT",
-        "TB"
-      ]
-    },
-    {
-      "title": "Packers seek to build on their momentum as Cowboys attempt to bounce back from ugly loss",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873007",
-      "summary": "\u2014 Jordan Love and the Green Bay Packers are aiming to build off their best win of the season as they prepare to host a Dallas team attempting to bounce...",
-      "published": "2026-10-15T20:51:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "GB"
+        "DEN",
+        "SEA"
       ]
     },
     {
