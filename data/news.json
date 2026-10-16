@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-16T08:25:48.408434+00:00",
-  "checked_at_utc": "2026-10-16T08:25:48.408434+00:00",
+  "updated_at_utc": "2026-10-16T13:27:25.436654+00:00",
+  "checked_at_utc": "2026-10-16T13:27:25.436654+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 6,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,22 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 20,
+      "items": 21,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "What Was Going On In Sports, Pop Culture Last Time Brewers Reached World Series?",
+      "url": "https://www.foxsports.com/stories/mlb/brewers-history-world-series-winners-1982-sports-facts",
+      "summary": "Here's what was happening in MLB, sports and pop culture the last time the Milwaukee Brewers reached the World Series in 1982.",
+      "published": "Fri, 16 Oct 2026 09:10:26 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "Seattle, Sam Darnold Are Struggling: 3 Takeaways From Broncos' OT Win vs. Seahawks",
       "url": "https://www.foxsports.com/stories/nfl/seattle-sam-darnold-struggling-3-takeaways-from-broncos-ot-win-vs-seahawks",
@@ -268,87 +279,181 @@
       "teams": []
     },
     {
-      "title": "Houston Texans vs. Jacksonville Jaguars: NFL London kick-off time, how to watch in UK, team news",
-      "url": "https://www.espn.com/nfl/story/_/id/50189791/houston-texans-vs-jacksonville-jaguars-nfl-london-kick-how-watch-uk-team-news",
-      "summary": "The NFL is back in London this weekend as the Philadelphia Eagles take on the Jacksonville Jaguars at Tottenham Hotspur Stadium on Sunday.",
-      "published": "2026-10-16T07:17:32Z",
+      "title": "Five takeaways from five weeks of the Raiders' season",
+      "url": "https://www.espn.com/nfl/story/_/id/50189868/las-vegas-raiders-2026-season-five-takeaways-kirk-cousins",
+      "summary": "What should be taken away from the first five weeks of the Raiders' 2026 season?",
+      "published": "2026-10-16T10:00:00Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
+        "LV"
+      ]
+    },
+    {
+      "title": "Harry Kane has talent for NFL - Jags kicker Cam Little",
+      "url": "https://www.espn.com/nfl/story/_/id/50195310/harry-kane-talent-nfl-jacksonville-jaguars-kicker-cam-little",
+      "summary": "Cam Little is confident Harry Kane has the skill to become an NFL kicker.",
+      "published": "2026-10-16T11:58:04Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Ranking all eight NFL divisions this season by strength: NFC North at No. 1?",
+      "url": "https://www.espn.com/nfl/story/_/id/50181965/2026-nfl-season-ranking-eight-nfl-divisions-best-worst",
+      "summary": "Why do we have the NFC North at No. 1 in our annual division power ranking -- even ahead of the mighty NFC West? And is the NFC South at the bottom of our list ... again?",
+      "published": "2026-10-16T10:38:23Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Ranking NFL's best and worst divisions: New leader emerges entering Week 6",
+      "url": "https://www.cbssports.com/nfl/news/nfl-division-power-rankings-afc-north-nfc-west/",
+      "summary": "The AFC North claims the top spot with four winning teams, while the NFC North and former No. 1 NFC West round out the leading contenders",
+      "published": "Fri, 16 Oct 2026 13:06:08 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "End of Dodgers dynasty? Brewers sweep champs en route to World Series; Broncos stifle Seahawks in OT",
+      "url": "https://www.cbssports.com/mlb/news/dodgers-dynasty-brewers-sweep-world-series-mlb-broncos-seahawks-ot-nfl/",
+      "summary": "Plus the College Football Playoff is finalizing a landmark format change",
+      "published": "Fri, 16 Oct 2026 12:46:51 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Week 6 bold predictions: Packers run wild on Cowboys, Marvin Harrison Jr. has stellar debut for Texans, more",
+      "url": "https://www.cbssports.com/nfl/news/week-6-bold-predictions-packers-cowboys-marvin-harrison-jr-texans/",
+      "summary": "Harrison Jr. shines in his Texans debut with C.J. Stroud, Green Bay gets its ground game rolling against Dallas, and Justin Herbert breaks out of an ugly slump",
+      "published": "Fri, 16 Oct 2026 12:39:11 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "GB",
+        "HOU"
+      ]
+    },
+    {
+      "title": "Week 6 breakdown: Josh Allen vs. Maxx Crosby and the keys to pivotal AFC clash",
+      "url": "https://www.cbssports.com/nfl/news/bills-vs-raiders-week-6-maxx-crosby-josh-allen/",
+      "summary": "The Raiders may have to abandon their usual four-man rush and turn up the pressure to slow Allen and Buffalo's play-action attack",
+      "published": "Fri, 16 Oct 2026 12:35:19 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV"
+      ]
+    },
+    {
+      "title": "NFL Week 6 best bets: Texans to shine against Jaguars in London, two anytime TD scorers for Bears-Falcons",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-best-bets-texans-jaguars-london-two-anytime-td-scorers/",
+      "summary": "Back C.J. Stroud and Houston to deliver an upset, Drake Maye and New England to cover, and two tight ends to clear their receiving totals",
+      "published": "Fri, 16 Oct 2026 11:53:06 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "CHI",
         "HOU",
-        "JAX",
+        "JAX"
+      ]
+    },
+    {
+      "title": "NFL Week 6 picks: Our experts face off on Ravens at Browns, Packers vs. Cowboys and more",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-picks-experts-on-seahawks-broncos-ravens-browns/",
+      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict Week 6's top games",
+      "published": "Fri, 16 Oct 2026 11:46:46 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CLE",
+        "DAL",
+        "GB"
+      ]
+    },
+    {
+      "title": "Prisco's Week 6 NFL picks: Buccaneers upset Steelers, Falcons over Bears",
+      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-6-nfl-picks-odds-predictions/",
+      "summary": "Pete Prisco reveals all of his Week 6 picks, including the Packers over the Cowboys on 'Sunday Night Football'",
+      "published": "Fri, 16 Oct 2026 11:44:32 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "CHI",
+        "DAL",
+        "GB",
+        "PIT",
+        "TB"
+      ]
+    },
+    {
+      "title": "Three underrated NFL Week 6 games that could help shape the playoff race",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-games-eagles-without-jalen-hurts/",
+      "summary": "A desperate Eagles team, two elite rushing offenses and an unpredictable division leader highlight three games that should be on your radar",
+      "published": "Fri, 16 Oct 2026 11:41:14 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
         "PHI"
       ]
     },
     {
-      "title": "Seahawks' Sam Darnold owns up to late interceptions in overtime loss to Broncos",
-      "url": "https://www.espn.com/nfl/story/_/id/50194585/seahawks-darnold-owns-turnovers-loss-broncos",
-      "summary": "Seahawks quarterback Sam Darnold called his two late interceptions Thursday night \"unacceptable\" and vowed to be better after a 17-14 loss to the Broncos.",
-      "published": "2026-10-16T07:04:24Z",
-      "source": "ESPN NFL",
+      "title": "Revisiting the Jakobi Meyers trade: How Jacksonville's low-cost gem boosted Trevor Lawrence",
+      "url": "https://www.cbssports.com/nfl/news/revisiting-the-jakobi-meyers-trade-raiders-jacksonville-trevor-lawrence/",
+      "summary": "Meyers has been the perfect piece to make Liam Coen's passing attack come to life",
+      "published": "Fri, 16 Oct 2026 11:33:20 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "DEN",
-        "SEA"
-      ]
+      "category": "transaction",
+      "teams": []
     },
     {
-      "title": "Defense bails out Broncos in OT win as Nix, offense struggle",
-      "url": "https://www.espn.com/nfl/story/_/id/50194537/broncos-seahawks-defense-bo-nix",
-      "summary": "The Broncos' D came up with five sacks, 17 QB hits and two interceptions, enabling Denver to win even though the offense finished with only 168 net yards.",
-      "published": "2026-10-16T07:26:29Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "DEN"
-      ]
-    },
-    {
-      "title": "Run game, defense power Broncos in OT win against Seahawks",
-      "url": "https://www.espn.com/nfl/story/_/id/50192352/broncos-seahawks-week-6-tnf-run-game-defense-ot",
-      "summary": "Behind two rushing touchdowns and a five-sack night, Denver holds off Seattle on \"Thursday Night Football.\"",
-      "published": "2026-10-16T05:00:03Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 6 picks, odds, best bets: Panthers capitalize on Eagles' troubles, Rams dominate Cardinals",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-expert-picks-predictions-odds-panthers-vs-eagles/",
+      "summary": "Jordan Dajani gives his picks for Week 6 of the 2026 NFL season",
+      "published": "Fri, 16 Oct 2026 11:25:32 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DEN",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Broncos beat the Seahawks 17-14 in OT on Ja'Quan McMillian's pick, Wil Lutz's 53-yarder",
-      "url": "http://www.espn.com/nfl/recap?gameId=401872995",
-      "summary": "\u2014 The Denver Broncos are atrocious on offense, depleted on defense and shaky on special teams. All they do is find ways to win.",
-      "published": "2026-10-16T03:47:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Seahawks-Broncos on TNF Week 6: Highlights, TDs, key plays",
-      "url": "https://www.espn.com/nfl/story/_/id/50191945/nfl-week-6-seahawks-broncos-top-plays-tnf",
-      "summary": "Look back at all the biggest plays and highlights from Thursday night's Denver win against Seattle.",
-      "published": "2026-10-16T03:47:40Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "SEA"
+        "ARI",
+        "CAR",
+        "LA",
+        "PHI"
       ]
     },
     {
@@ -609,146 +714,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "Bills' Bradley Chubb reveals what he said that led to Alaric Jackson punch and suspension",
-      "url": "https://www.cbssports.com/nfl/news/bills-bradley-chubb-reveals-what-he-said-alaric-jackson-punch/",
-      "summary": "Chubb was trash-talking Jackson after the Bills' Monday night win",
-      "published": "Thu, 15 Oct 2026 16:47:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF"
-      ]
-    },
-    {
-      "title": "Brewers bash champion Dodgers to brink of NLCS sweep; CBS Sports Preseason All-America team revealed",
-      "url": "https://www.cbssports.com/mlb/news/brewers-bash-champion-dodgers-to-brink-of-nlcs-sweep-cbs-sports-preseason-all-america-team-revealed/",
-      "summary": "Plus, A.J. Brown is one of several injured NFL stars would could return soon",
-      "published": "Thu, 15 Oct 2026 12:54:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "NFL reduces suspension of Rams' Alaric Jackson for punching Bills' Bradley Chubb",
-      "url": "https://www.cbssports.com/nfl/news/rams-left-tackle-punches-bills-bradley-chubb-mnf/",
-      "summary": "Alaric Jackson hit the Bills' pass-rusher with an apparent sucker-punch following Buffalo's wild Monday night win",
-      "published": "Thu, 15 Oct 2026 12:26:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LA"
-      ]
-    },
-    {
-      "title": "Revisiting the Micah Parsons trade: Who got the better of the deal between Cowboys, Packers?",
-      "url": "https://www.cbssports.com/nfl/news/revisiting-the-micah-parsons-trade-packers-cowboys/",
-      "summary": "It hasn't been a lose-lose situation, but it's not going the way either team planned",
-      "published": "Thu, 15 Oct 2026 11:23:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL",
-        "GB"
-      ]
-    },
-    {
-      "title": "Super Bowl stock report for NFL Week 6: 49ers emerge as new favorites, Bears await Caleb Williams' return",
-      "url": "https://www.cbssports.com/nfl/news/super-bowl-stock-report-for-nfl-week-6/",
-      "summary": "We assess the NFL title race after Week 5 and identify three upcoming games that could reshape the Super Bowl picture",
-      "published": "Thu, 15 Oct 2026 11:22:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "SF"
-      ]
-    },
-    {
-      "title": "NFL Week 6 upset alert: Can Titans beat TD-favorite Colts? Will rested Bucs upset Steelers?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-upset-alert-titanscolts-bucs-steelers/",
-      "summary": "These favorites are not only at risk of not covering, but they could lose outright in Week 6",
-      "published": "Thu, 15 Oct 2026 13:23:26 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "PIT",
-        "TB",
-        "TEN"
-      ]
-    },
-    {
-      "title": "It wouldn't shock me IF ... NFL Week 6: Trevor Lawrence melts down at Wembley, Giants extend lead in NFC East",
-      "url": "https://www.cbssports.com/nfl/news/it-wouldnt-shock-me-if-nfl-week-6-trevor-lawrence-giants/",
-      "summary": "Could Tennessee notch its first win of 2026? Will a Packers' RB erupt?",
-      "published": "Thu, 15 Oct 2026 19:37:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "NYG"
-      ]
-    },
-    {
-      "title": "NFL Week 6 picks: Our experts face off on Seahawks at Broncos, Ravens at Browns and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-picks-experts-on-seahawks-broncos-ravens-browns/",
-      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict Week 6's top games",
-      "published": "Thu, 15 Oct 2026 13:10:41 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "CLE",
-        "DEN",
-        "SEA"
-      ]
-    },
-    {
-      "title": "NFL Week 6 injury report: Broncos' Patrick Surtain, Talanoa Hufanga ruled out",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-injury-report-broncos-patrick-surtain-talanoa-hufanga-ruled-out/",
-      "summary": "Lamar Jackson, Caleb Williams and Michael Penix Jr. could be back under center this week, while the Eagles hope to regain Saquon Barkley",
-      "published": "Thu, 15 Oct 2026 01:00:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Cowboys' Joey Porter Jr. breaks silence after missing Week 5 game and how much does he plan to play at Packers",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-joey-porter-jr-breaks-silence-after-missing-week-5/",
-      "summary": "Porter Jr. began to feel sick on the day of Dallas' Thursday Night Football game in Week 5",
-      "published": "Wed, 14 Oct 2026 22:10:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "GB"
-      ]
     }
   ],
   "reporters": []
