@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-16T17:39:14.386196+00:00",
-  "checked_at_utc": "2026-10-16T17:39:14.386196+00:00",
+  "updated_at_utc": "2026-10-16T20:05:28.961729+00:00",
+  "checked_at_utc": "2026-10-16T20:05:28.961729+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 12,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 29
+      "items": 30
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,34 @@
     }
   },
   "items": [
+    {
+      "title": "Is Ravens QB Lamar Jackson Playing Against Browns In Week 6?",
+      "url": "https://www.foxsports.com/stories/nfl/lamar-jackson-injury-update-ravens-browns-week-6",
+      "summary": "Ravens superstar QB Lamar Jackson will miss a second straight game this weekend against the Browns due to his ankle injury.",
+      "published": "Fri, 16 Oct 2026 15:13:08 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "CLE"
+      ]
+    },
+    {
+      "title": "2026 NFL, College Football Odds: Best Bets For Notre Dame-BYU, Jets-Patriots",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-college-football-odds-best-bets-notre-dame-byu-jets-patriots",
+      "summary": "Sammy P is back with his best bets for the weekend, including how he's wagering Notre Dame-BYU and Jets-Patriots.",
+      "published": "Fri, 16 Oct 2026 14:49:41 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE",
+        "NYJ"
+      ]
+    },
     {
       "title": "2026 NFL Week 6 Best Bets, Expert Picks: Back Cowboys-Chiefs Teaser",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-6-best-bets-expert-picks-back-cowboys-chiefs-teaser",
@@ -257,33 +285,6 @@
       ]
     },
     {
-      "title": "Tom Brady's NFL Power Rankings: 49ers Clear No. 1? Vikings Have All-Time Defense?",
-      "url": "https://www.foxsports.com/stories/nfl/tom-bradys-nfl-power-rankings-week-6-49ers-vikings-chiefs",
-      "summary": "Who is Tom Brady's top team in the NFL? He's thinking there's a clear answer there.",
-      "published": "Wed, 14 Oct 2026 18:44:05 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN",
-        "SF"
-      ]
-    },
-    {
-      "title": "West Coast Read: Immensely Talented Brock Purdy Is Just Getting Started As He Enters Elite",
-      "url": "https://www.foxsports.com/stories/nfl/brock-purdy-49ers-mvp-elite-qb",
-      "summary": "Brock Purdy playing at an MVP level is no surprise for former 49ers QB coach Brian Griese. And he believes there's room for improvement.",
-      "published": "Wed, 14 Oct 2026 17:53:54 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
       "title": "Five takeaways from five weeks of the Raiders' season",
       "url": "https://www.espn.com/nfl/story/_/id/50189868/las-vegas-raiders-2026-season-five-takeaways-kirk-cousins",
       "summary": "What should be taken away from the first five weeks of the Raiders' 2026 season?",
@@ -297,10 +298,146 @@
       ]
     },
     {
-      "title": "Jets rookie WR Cooper to play vs. Patriots; RB Hall, WR Mitchell out",
+      "title": "Packers' Josh Jacobs eligible to return next week amid probe",
+      "url": "https://www.espn.com/nfl/story/_/id/50197784/packers-josh-jacobs-eligible-return-next-week-amid-probe",
+      "summary": "Packers RB Josh Jacobs will be removed from the commissioner exempt list Monday, the league announced, making him eligible to practice and play next week.",
+      "published": "2026-10-16T20:01:40Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "Bears' Caleb Williams questionable after 3 days of practice",
+      "url": "https://www.espn.com/nfl/story/_/id/50197730/bears-caleb-williams-questionable-falcons",
+      "summary": "Williams said there are several hurdles to clear before he would be able to face the Falcons on Sunday.",
+      "published": "2026-10-16T20:02:09Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "CHI"
+      ]
+    },
+    {
+      "title": "Cardinals 'do what's right,' rule RB Jeremiyah Love (ankle) out vs. Rams",
+      "url": "https://www.espn.com/nfl/story/_/id/50197712/cardinals-rb-jeremiyah-love-ankle-sunday-vs-rams",
+      "summary": "The Cardinals say they're doing \"what's right\" for RB Jeremiyah Love by ruling the prized rookie out for Sunday's game against the Rams due to his injured left ankle.",
+      "published": "2026-10-16T20:04:22Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ARI",
+        "LA"
+      ]
+    },
+    {
+      "title": "Jalen Hurts' health bigger than football, as teammates, coach detail QB concern",
+      "url": "https://www.espn.com/nfl/story/_/id/50197708/sirianni-teammates-share-concern-jalen-hurts-diagnosis",
+      "summary": "Eagles coach Nick Sirianni declined to offer much detail about Jalen Hurts' health, instead focusing on his connection with the quarterback.",
+      "published": "2026-10-16T19:42:54Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Seahawks sticking with Sam Darnold as starter despite INTs",
+      "url": "https://www.espn.com/nfl/story/_/id/50197704/seahawks-sticking-sam-darnold-starter-ints",
+      "summary": "Seahawks coach Mike Macdonald is standing behind Sam Darnold as the team's starting quarterback despite his seven interceptions over the past four games.",
+      "published": "2026-10-16T19:33:47Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "SEA"
+      ]
+    },
+    {
+      "title": "Chiefs WR Rashee Rice out Sunday vs. Chargers with hamstring injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50197599/chiefs-wr-rashee-rice-vs-chargers-hamstring-injury",
+      "summary": "Kansas City's top receiver Rashee Rice will miss Sunday's game against the Chargers with a right hamstring injury.",
+      "published": "2026-10-16T19:19:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "KC",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Pettine ready to lend support, experience to Cowboys' defense",
+      "url": "https://www.espn.com/nfl/story/_/id/50197559/pettine-ready-lend-support-experience-cowboys-defense",
+      "summary": "Mike Pettine was traveling through Italy, celebrating his 60th birthday when he got a call from Cowboys defensive coordinator Christian Parker a few weeks ago seeing if he would take a role on the staff.",
+      "published": "2026-10-16T19:21:50Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Falcons' Michael Penix Jr. (ribs) cleared to play vs. Bears",
+      "url": "https://www.espn.com/nfl/story/_/id/50197497/falcons-michael-penix-jr-ribs-cleared-play-vs-bears",
+      "summary": "Falcons quarterback Michael Penix Jr., who left last week's game with injured ribs, has been fully cleared to play against the Bears on Sunday.",
+      "published": "2026-10-16T18:46:05Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "CHI"
+      ]
+    },
+    {
+      "title": "Ravens rule out QB Lamar Jackson; Tyler Huntley to start vs. Browns",
+      "url": "https://www.espn.com/nfl/story/_/id/50197342/ravens-rule-qb-jackson-huntley-start-browns",
+      "summary": "The Ravens have ruled quarterback Lamar Jackson out for a second straight week, elevating Tyler Huntley to the starting role for Sunday's game in Cleveland.",
+      "published": "2026-10-16T18:45:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL",
+        "CLE"
+      ]
+    },
+    {
+      "title": "Browns WR KC Concepcion clears concussion protocol, will play vs. Ravens",
+      "url": "https://www.espn.com/nfl/story/_/id/50197266/browns-wr-concepcion-clears-protocol-play-vs-ravens",
+      "summary": "Browns rookie wide receiver KC Concepcion has cleared the concussion protocol and will play against the Ravens.",
+      "published": "2026-10-16T18:33:53Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "CLE"
+      ]
+    },
+    {
+      "title": "Jets rookie WR Omar Cooper Jr. to return vs. Patriots; RB Hall, WR Mitchell out",
       "url": "https://www.espn.com/nfl/story/_/id/50196775/jets-rookie-wr-cooper-play-vs-patriots-hall-mitchell-out",
-      "summary": "Jets rookie WR Omar Cooper Jr. (ankle) will play against the Patriots, but RB Breece Hall and wideout Adonai Mitchell have been ruled out for Sunday's game.",
-      "published": "2026-10-16T16:46:29Z",
+      "summary": "Jets rookie wide receiver Omar Cooper Jr. (ankle) will play against the Patriots, but running back Breece Hall and wideout Adonai Mitchell have been ruled out for Sunday's game.",
+      "published": "2026-10-16T18:23:12Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -308,6 +445,45 @@
       "teams": [
         "NE",
         "NYJ"
+      ]
+    },
+    {
+      "title": "Jaylen Waddle trade revisited: Bo Nix, Broncos struggling to integrate speedy WR who's also dropping passes",
+      "url": "https://www.cbssports.com/nfl/news/jaylen-waddle-trade-revisited-bo-nix-broncos/",
+      "summary": "Neither the Denver passing offense nor Waddle are playing well",
+      "published": "Fri, 16 Oct 2026 18:26:41 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DEN"
+      ]
+    },
+    {
+      "title": "Mike Macdonald shuts down potential Seahawks quarterback change, sticking with Sam Darnold",
+      "url": "https://www.cbssports.com/nfl/news/seahawks-starting-qb-sam-darnold-mike-macdonald-2026/",
+      "summary": "Darnold has thrown an NFL-high seven interceptions, but Macdonald stands behind his starter",
+      "published": "Fri, 16 Oct 2026 17:47:56 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "SEA"
+      ]
+    },
+    {
+      "title": "The Broncos have a Bo Nix problem, and their Super Bowl window may force a tough decision",
+      "url": "https://www.cbssports.com/nfl/news/broncos-super-bowl-bo-nix-stats-2026/",
+      "summary": "Bo Nix keeps winning, but the Broncos can't ignore what the numbers say",
+      "published": "Fri, 16 Oct 2026 17:41:01 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN"
       ]
     },
     {
@@ -674,34 +850,6 @@
       "trust": "NETWORK",
       "category": "qb",
       "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "Jayden Daniels takes blame for Commanders' embarrassing gaffe vs. Giants: 'It was a failure'",
-      "url": "https://www.cbssports.com/nfl/news/jayden-daniels-takes-blame-commanders-gaffe-vs-giants/",
-      "summary": "Daniels defended Dan Quinn on Thursday and shouldered full responsibility for Washington letting the clock run out in field goal range",
-      "published": "Thu, 15 Oct 2026 20:32:07 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Jalen Hurts blood clot: What is a superficial blood clot and how long could Eagles' QB be out",
-      "url": "https://www.cbssports.com/nfl/news/jalen-hurts-what-is-superficial-blood-clot-how-long-eagles-qb-out/",
-      "summary": "Movement in a blood clot detected in a follow-up ultrasound has sidelined Philadelphia's star indefinitely after he initially played through the clot against the Jaguars",
-      "published": "Thu, 15 Oct 2026 19:58:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "JAX",
         "PHI"
       ]
     }
