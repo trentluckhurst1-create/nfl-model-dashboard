@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-17T13:03:40.610569+00:00",
-  "checked_at_utc": "2026-10-17T13:03:40.610569+00:00",
+  "updated_at_utc": "2026-10-17T16:20:34.355965+00:00",
+  "checked_at_utc": "2026-10-17T16:20:34.355965+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 11,
+      "items": 4,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 31
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -228,10 +228,24 @@
       "teams": []
     },
     {
+      "title": "Source: Patriots likely to activate WR A.J. Brown for Sunday's game vs. Jets",
+      "url": "https://www.espn.com/nfl/story/_/id/50200910/source-patriots-likely-activate-aj-brown-jets-game",
+      "summary": "Patriots wide receiver A.J. Brown is likely to be activated after missing the past four games with a right high ankle sprain, a source told NFL Network's Ian Rapoport.",
+      "published": "2026-10-17T13:47:00Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NE",
+        "NYJ"
+      ]
+    },
+    {
       "title": "Jags unlikely to play 3 international games in 2027 during EverBank renovations",
       "url": "https://www.espn.com/nfl/story/_/id/50200792/jaguars-unlikely-play-3-international-home-games-2027",
-      "summary": "Jaguars team president Mark Lamping said the team is unlikely to play three international home games in 2027 while renovations to EverBank Stadium continue.",
-      "published": "2026-10-17T12:26:41Z",
+      "summary": "The Jaguars are unlikely to play three international home games in 2027 while renovations to EverBank Stadium continue, team president Mark Lamping said.",
+      "published": "2026-10-17T15:42:14Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -270,109 +284,140 @@
       ]
     },
     {
-      "title": "Sources: Eagles' Jalen Hurts, out indefinitely with blood clot, not planned for IR",
-      "url": "https://www.espn.com/nfl/story/_/id/50200331/sources-no-ir-plans-hurts-indefinitely-clot",
-      "summary": "The Eagles are not planning to put Jalen Hurts on injured reserve, sources told ESPN, even as he remains sidelined indefinitely with a superficial blood clot.",
-      "published": "2026-10-17T12:17:04Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "NFL Week 6 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50189544/week-6-predictions-upsets-fantasy-sleepers-stats-2026",
-      "summary": "First touchdown of 2026 for Drake London? Aaron Rodgers climbing the NFL record books? The Texans pulling an upset? Let's predict 15 things for Week 6.",
-      "published": "2026-10-17T10:48:57Z",
-      "source": "ESPN NFL",
+      "title": "Texans vs. Jaguars prediction: Marvin Harrison Jr. makes Houston debut in London",
+      "url": "https://www.cbssports.com/nfl/news/texans-vs-jaguars-prediction-where-to-watch-london/",
+      "summary": "Everything you need to know to catch a key AFC South game in London",
+      "published": "Sat, 17 Oct 2026 16:08:44 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "HOU"
+        "HOU",
+        "JAX"
       ]
     },
     {
-      "title": "Ravens believe Browns' Todd Monken wants 'to kick our tail'",
-      "url": "https://www.espn.com/nfl/story/_/id/50190463/baltimore-ravens-browns-todd-monken-rematch-week-6",
-      "summary": "When Cleveland's coach takes the sideline Sunday, Baltimore players will face off against their fiery former OC.",
-      "published": "2026-10-17T10:00:10Z",
-      "source": "ESPN NFL",
+      "title": "Bills vs. Raiders prediction: Can Las Vegas end losing streak? Everything to know for AFC matchup",
+      "url": "https://www.cbssports.com/nfl/news/bills-vs-raiders-prediction-where-to-watch/",
+      "summary": "Everything you need to know to catch this AFC matchup",
+      "published": "Sat, 17 Oct 2026 15:59:30 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL",
-        "CLE"
-      ]
-    },
-    {
-      "title": "Rams can't seem to fix their special teams",
-      "url": "https://www.espn.com/nfl/story/_/id/50190584/los-angeles-rams-special-teams-no-fix-week-6",
-      "summary": "Special teams have played a significant role in five of the Rams' nine losses since the start of last season, including the playoffs.",
-      "published": "2026-10-17T10:41:15Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "Why is Chargers RB Omarion Hampton's snap count decreasing?",
-      "url": "https://www.espn.com/nfl/story/_/id/50192344/los-angeles-chargers-running-back-omarion-hampton-snaps",
-      "summary": "Coach Jim Harbaugh and OC Mike McDaniel on why RB Omarion Hampton is being used differently.",
-      "published": "2026-10-17T10:00:01Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "Five takeaways from five weeks of the Raiders' season",
-      "url": "https://www.espn.com/nfl/story/_/id/50189868/las-vegas-raiders-2026-season-five-takeaways-kirk-cousins",
-      "summary": "What should be taken away from the first five weeks of the Raiders' 2026 season?",
-      "published": "2026-10-16T10:00:00Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
+        "BUF",
         "LV"
       ]
     },
     {
-      "title": "Where is the Tennessee Titans' pass rush?",
-      "url": "https://www.espn.com/nfl/story/_/id/50189538/where-tennessee-titans-pass-rush-week-6",
-      "summary": "The Titans invested more in the defensive front than any other area when Robert Saleh took over. So far, there hasn't been a significant ROI.",
-      "published": "2026-10-17T10:38:28Z",
-      "source": "ESPN NFL",
+      "title": "Steelers vs. Buccaneers prediction: Both teams hoping to build off of impressive Week 5 wins",
+      "url": "https://www.cbssports.com/nfl/news/where-to-watch-steelers-vs-buccaneers-prediction/",
+      "summary": "Plus, where to watch, what to know and a preview from an NFL expert",
+      "published": "Sat, 17 Oct 2026 15:51:31 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "game",
       "teams": [
-        "TEN"
+        "PIT",
+        "TB"
       ]
     },
     {
-      "title": "What Cowboys-Packers' Micah Parsons trade means a year later",
-      "url": "https://www.espn.com/nfl/story/_/id/50195809/cowboys-packers-micah-parsons-trade-winner",
-      "summary": "We examine the fallout and lingering impact on both franchises more than a year after the blockbuster deal.",
-      "published": "2026-10-17T10:00:02Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 6 odds, picks: Brinson's best bets, player props, anytime touchdown scorers for Sunday's matchups",
+      "url": "https://www.cbssports.com/betting/news/nfl-week-6-odds-picks-brinsons-best-bets-player-props-anytime-touchdown-scorers-for-sundays-matchups/",
+      "summary": "Back Andy Reid off the bye against an injured Chargers squad, take the points with the Texans in London and target plus-money value on a Wan'Dale Robinson player prop",
+      "published": "Sat, 17 Oct 2026 15:47:31 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "injury",
+      "teams": [
+        "HOU",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Week 6 NFL score predictions, odds, betting advice, picks: Proven model reveals projections for every game",
+      "url": "https://www.cbssports.com/betting/news/week-6-nfl-score-predictions-odds-betting-advice-picks-proven-model-reveals-projections-every-game/",
+      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model for Week 6",
+      "published": "Sat, 17 Oct 2026 15:41:58 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Eagles not planning to place Jalen Hurts on IR, as he deals with superficial blood clot, per report",
+      "url": "https://www.cbssports.com/nfl/news/eagles-not-planning-to-place-jalen-hurts-on-ir/",
+      "summary": "Hurts is out indefinitely and will miss the game against the Panthers on Sunday",
+      "published": "Sat, 17 Oct 2026 15:17:33 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "PHI"
+      ]
+    },
+    {
+      "title": "NFL Week 6 last-minute best bets: Panthers beat up on banged-up Eagles, Bucs beat Steelers",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-last-minute-best-bets-picks-predictions/",
+      "summary": "Need some last-minute advice on how to bet the Week 6 slate? Allow us to be of assistance",
+      "published": "Sat, 17 Oct 2026 14:58:52 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "PHI",
+        "PIT",
+        "TB"
+      ]
+    },
+    {
+      "title": "Week 6 NFL betting promos: Receive over $3,000 in bonuses from top online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-promos-receive-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 6 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Sat, 17 Oct 2026 14:57:03 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Chargers-Chiefs, Packers-Cowboys",
+      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-odds-spreads-totals-lines/",
+      "summary": "NFL Week 6 continues with Chiefs-Chargers and Packers-Cowboys on Sunday",
+      "published": "Sat, 17 Oct 2026 14:46:51 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": [
         "DAL",
-        "GB"
+        "GB",
+        "KC",
+        "LAC"
+      ]
+    },
+    {
+      "title": "A.J. Brown injury update: Latest rumors, news on WR's status for Patriots in Week 6",
+      "url": "https://www.cbssports.com/nfl/news/a-j-brown-injury-update-rumors-news-wrs-status-patriots/",
+      "summary": "Brown suffered a high ankle sprain in Week 1 and has missed the last four games",
+      "published": "Sat, 17 Oct 2026 14:47:25 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NE"
       ]
     },
     {
@@ -465,7 +510,7 @@
       "title": "NFL Week 6 picks: Our experts face off on Ravens at Browns, Packers vs. Cowboys and more",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-6-picks-experts-on-seahawks-broncos-ravens-browns/",
       "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict Week 6's top games",
-      "published": "Fri, 16 Oct 2026 15:54:06 +0000",
+      "published": "Sat, 17 Oct 2026 15:22:15 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -478,17 +523,6 @@
       ]
     },
     {
-      "title": "Week 6 NFL score predictions, odds, picks, betting advice: Proven model reveals projections for every game",
-      "url": "https://www.cbssports.com/betting/news/week-6-nfl-score-predictions-odds-picks-betting-advice-proven-model-reveals-projections-every-game/",
-      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model for Week 6",
-      "published": "Fri, 16 Oct 2026 14:59:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Christian Parker contradicts Jerry Jones, to stay on sideline as Cowboys defense seeks answers",
       "url": "https://www.cbssports.com/nfl/news/cowboys-defense-christian-parker-booth-move-jerry-jones/",
       "summary": "Parker says he will \"most likely\" remain on the sideline, but the addition of Mike Pettine underscores the urgency in Dallas",
@@ -499,47 +533,6 @@
       "category": "game",
       "teams": [
         "DAL"
-      ]
-    },
-    {
-      "title": "NFL Week 6 odds, picks: Brinson's best bets, player props, anytime touchdown scorers for Sunday's matchups",
-      "url": "https://www.cbssports.com/betting/news/nfl-week-6-odds-picks-brinsons-best-bets-player-props-anytime-touchdown-scorers-for-sundays-matchups/",
-      "summary": "Back Andy Reid off the bye against an injured Chargers squad, take the points with the Texans in London and target plus-money value on a Wan'Dale Robinson player prop",
-      "published": "Fri, 16 Oct 2026 17:17:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "HOU",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Week 6 NFL betting promos: Score over $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-promos-score-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 6 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Fri, 16 Oct 2026 14:29:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Chiefs-Chargers, Packers-Cowboys",
-      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-odds-spreads-lines-totals/",
-      "summary": "NFL Week 6 continues with Chiefs-Chargers and Packers-Cowboys on Sunday",
-      "published": "Fri, 16 Oct 2026 14:19:34 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "GB",
-        "KC",
-        "LAC"
       ]
     },
     {
@@ -711,76 +704,6 @@
       "url": "https://www.cbssports.com/nfl/news/broncos-cheating-accusation-seahawks-mike-macdonald/",
       "summary": "This is one of the wildest stories you'll ever hear in the NFL",
       "published": "Thu, 15 Oct 2026 23:53:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Caleb Williams responds to critics after hamstring injury: 'My character's been attacked'",
-      "url": "https://www.cbssports.com/nfl/news/caleb-williams-injury-update-hamstring-tear-return-timeline/",
-      "summary": "Williams participated fully in consecutive practices, but the Bears quarterback said he has not yet been cleared to return to game action",
-      "published": "Thu, 15 Oct 2026 23:41:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Dak Prescott delivers message to NFL players after Jalen Hurts' blood-clot diagnosis",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-dak-prescott-jalen-hurts-blood-clot/",
-      "summary": "The Cowboys quarterback called Hurts' condition \"scary\" and encouraged athletes to communicate openly with medical personnel",
-      "published": "Thu, 15 Oct 2026 23:13:06 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Broncos vs. Seahawks pick: Bo Nix hopes to rejuvenate offense but has tough task vs. Seattle D on 'TNF'",
-      "url": "https://www.cbssports.com/nfl/news/broncos-vs-seahawks-how-to-watch-preview-prediction/",
-      "summary": "Denver is coming off a lackluster win vs. the Chargers, while Seattle looks to rebound after falling to the 49ers",
-      "published": "Thu, 15 Oct 2026 22:58:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "LAC",
-        "SEA",
-        "SF"
-      ]
-    },
-    {
-      "title": "Broncos vs. Seahawks odds, picks, NFL Week 6 prediction: Best bets, player props for Thursday Night Football",
-      "url": "https://www.cbssports.com/betting/news/broncos-vs-seahawks-odds-picks-nfl-week-6-prediction-best-bets-player-props-for-thursday-night-football/",
-      "summary": "Back Denver as a short home underdog against Seattle, plus target receiving props for R.J. Harvey and A.J. Barner alongside an even-money Jaxson Smith-Njigba touchdown",
-      "published": "Thu, 15 Oct 2026 22:45:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Seahawks vs. Broncos odds, prediction, betting preview, start time: Thursday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/seahawks-vs-broncos-odds-prediction-betting-preview-start-time-thursday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Seahawks vs. Broncos on Thursday Night Football",
-      "published": "Thu, 15 Oct 2026 21:58:30 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
