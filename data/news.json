@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-17T16:20:34.355965+00:00",
-  "checked_at_utc": "2026-10-17T16:20:34.355965+00:00",
+  "updated_at_utc": "2026-10-17T18:38:12.298454+00:00",
+  "checked_at_utc": "2026-10-17T18:38:12.298454+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 4,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -228,60 +228,57 @@
       "teams": []
     },
     {
-      "title": "Source: Patriots likely to activate WR A.J. Brown for Sunday's game vs. Jets",
-      "url": "https://www.espn.com/nfl/story/_/id/50200910/source-patriots-likely-activate-aj-brown-jets-game",
-      "summary": "Patriots wide receiver A.J. Brown is likely to be activated after missing the past four games with a right high ankle sprain, a source told NFL Network's Ian Rapoport.",
-      "published": "2026-10-17T13:47:00Z",
+      "title": "Taylor Moton among 3 Panthers activated ahead of Eagles game",
+      "url": "https://www.espn.com/nfl/story/_/id/50202634/taylor-moton-3-panthers-activated-ahead-eagles-game",
+      "summary": "The Panthers will have RT Taylor Moton and DE Tershawn Wharton available Sunday against the Eagles. RB Trevor Etienne was also activated off IR.",
+      "published": "2026-10-17T18:21:20Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "NE",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Jags unlikely to play 3 international games in 2027 during EverBank renovations",
-      "url": "https://www.espn.com/nfl/story/_/id/50200792/jaguars-unlikely-play-3-international-home-games-2027",
-      "summary": "The Jaguars are unlikely to play three international home games in 2027 while renovations to EverBank Stadium continue, team president Mark Lamping said.",
-      "published": "2026-10-17T15:42:14Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX"
-      ]
-    },
-    {
-      "title": "Where to watch NFL London Games: Texans vs. Jaguars",
-      "url": "https://www.espn.com/nfl/story/_/id/50190428/watch-2026-nfl-london-games-texans-vs-jaguars",
-      "summary": "Texans vs. Jaguars is a part of the NFL's games in London this season.",
-      "published": "2026-10-17T11:53:37Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Houston Texans vs. Jacksonville Jaguars: NFL London kick-off time, how to watch in UK, team news",
-      "url": "https://www.espn.com/nfl/story/_/id/50189791/houston-texans-vs-jacksonville-jaguars-nfl-london-kick-how-watch-uk-team-news",
-      "summary": "The NFL is back in London this weekend as the Philadelphia Eagles take on the Jacksonville Jaguars at Tottenham Hotspur Stadium on Sunday.",
-      "published": "2026-10-17T11:45:58Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "JAX",
+        "CAR",
         "PHI"
       ]
+    },
+    {
+      "title": "Bears CB Kyler Gordon set for 2026 debut after PUP activation",
+      "url": "https://www.espn.com/nfl/story/_/id/50202598/bears-cb-kyler-gordon-set-2026-debut-pup-activation",
+      "summary": "Bears nickel corner Kyler Gordon has been activated off the PUP list and could make his season debut against the Falcons.",
+      "published": "2026-10-17T18:30:38Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "ATL",
+        "CHI"
+      ]
+    },
+    {
+      "title": "Commanders RB Jacory Croskey-Merritt out vs. 49ers with groin injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50202044/commanders-rb-croskey-merritt-vs-49ers-groin-injury",
+      "summary": "Commanders running back Jacory Croskey-Merritt won't play against the 49ers because of a groin injury, coach Dan Quinn said.",
+      "published": "2026-10-17T17:50:22Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SF",
+        "WAS"
+      ]
+    },
+    {
+      "title": "NFL Week 6 injury report: Lamar Jackson, Jalen Hurts sidelined; Caleb Williams could return",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-injury-report-lamar-jackson-jalen-hurts-caleb-williams/",
+      "summary": "Tyler Huntley and Tanner McKee will start in place of Jackson and Hurts, while Michael Penix Jr. is cleared to face Chicago",
+      "published": "Sat, 17 Oct 2026 16:56:23 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
     },
     {
       "title": "Texans vs. Jaguars prediction: Marvin Harrison Jr. makes Houston debut in London",
@@ -381,33 +378,6 @@
       ]
     },
     {
-      "title": "Week 6 NFL betting promos: Receive over $3,000 in bonuses from top online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-promos-receive-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 6 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Sat, 17 Oct 2026 14:57:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 6 NFL odds, spreads, totals, lines for all 14 games, including Chargers-Chiefs, Packers-Cowboys",
-      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-odds-spreads-totals-lines/",
-      "summary": "NFL Week 6 continues with Chiefs-Chargers and Packers-Cowboys on Sunday",
-      "published": "Sat, 17 Oct 2026 14:46:51 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "GB",
-        "KC",
-        "LAC"
-      ]
-    },
-    {
       "title": "A.J. Brown injury update: Latest rumors, news on WR's status for Patriots in Week 6",
       "url": "https://www.cbssports.com/nfl/news/a-j-brown-injury-update-rumors-news-wrs-status-patriots/",
       "summary": "Brown suffered a high ankle sprain in Week 1 and has missed the last four games",
@@ -419,17 +389,6 @@
       "teams": [
         "NE"
       ]
-    },
-    {
-      "title": "NFL Week 6 injury report: Lamar Jackson, Jalen Hurts sidelined; Caleb Williams could return",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-injury-report-lamar-jackson-jalen-hurts-caleb-williams/",
-      "summary": "Tyler Huntley and Tanner McKee will start in place of Jackson and Hurts, while Michael Penix Jr. is cleared to face Chicago",
-      "published": "Fri, 16 Oct 2026 21:57:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
     },
     {
       "title": "Josh Jacobs, Jonathon Cooper to come off NFL commissioner exempt list, eligible to return in Week 7",
@@ -504,22 +463,6 @@
       "teams": [
         "DAL",
         "PHI"
-      ]
-    },
-    {
-      "title": "NFL Week 6 picks: Our experts face off on Ravens at Browns, Packers vs. Cowboys and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-picks-experts-on-seahawks-broncos-ravens-browns/",
-      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict Week 6's top games",
-      "published": "Sat, 17 Oct 2026 15:22:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "CLE",
-        "DAL",
-        "GB"
       ]
     },
     {
@@ -642,24 +585,6 @@
       ]
     },
     {
-      "title": "Prisco's Week 6 NFL picks: Buccaneers upset Steelers, Falcons over Bears",
-      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-6-nfl-picks-odds-predictions/",
-      "summary": "Pete Prisco reveals all of his Week 6 picks, including the Packers over the Cowboys on 'Sunday Night Football'",
-      "published": "Fri, 16 Oct 2026 11:44:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "CHI",
-        "DAL",
-        "GB",
-        "PIT",
-        "TB"
-      ]
-    },
-    {
       "title": "Three underrated NFL Week 6 games that could help shape the playoff race",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-6-games-eagles-without-jalen-hurts/",
       "summary": "A desperate Eagles team, two elite rushing offenses and an unpredictable division leader highlight three games that should be on your radar",
@@ -704,6 +629,62 @@
       "url": "https://www.cbssports.com/nfl/news/broncos-cheating-accusation-seahawks-mike-macdonald/",
       "summary": "This is one of the wildest stories you'll ever hear in the NFL",
       "published": "Thu, 15 Oct 2026 23:53:10 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Caleb Williams responds to critics after hamstring injury: 'My character's been attacked'",
+      "url": "https://www.cbssports.com/nfl/news/caleb-williams-injury-update-hamstring-tear-return-timeline/",
+      "summary": "Williams participated fully in consecutive practices, but the Bears quarterback said he has not yet been cleared to return to game action",
+      "published": "Thu, 15 Oct 2026 23:41:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Dak Prescott delivers message to NFL players after Jalen Hurts' blood-clot diagnosis",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-dak-prescott-jalen-hurts-blood-clot/",
+      "summary": "The Cowboys quarterback called Hurts' condition \"scary\" and encouraged athletes to communicate openly with medical personnel",
+      "published": "Thu, 15 Oct 2026 23:13:06 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Broncos vs. Seahawks pick: Bo Nix hopes to rejuvenate offense but has tough task vs. Seattle D on 'TNF'",
+      "url": "https://www.cbssports.com/nfl/news/broncos-vs-seahawks-how-to-watch-preview-prediction/",
+      "summary": "Denver is coming off a lackluster win vs. the Chargers, while Seattle looks to rebound after falling to the 49ers",
+      "published": "Thu, 15 Oct 2026 22:58:35 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "LAC",
+        "SEA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Broncos vs. Seahawks odds, picks, NFL Week 6 prediction: Best bets, player props for Thursday Night Football",
+      "url": "https://www.cbssports.com/betting/news/broncos-vs-seahawks-odds-picks-nfl-week-6-prediction-best-bets-player-props-for-thursday-night-football/",
+      "summary": "Back Denver as a short home underdog against Seattle, plus target receiving props for R.J. Harvey and A.J. Barner alongside an even-money Jaxson Smith-Njigba touchdown",
+      "published": "Thu, 15 Oct 2026 22:45:47 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
