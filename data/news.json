@@ -1,25 +1,52 @@
 {
-  "updated_at_utc": "2026-10-17T18:38:12.298454+00:00",
-  "checked_at_utc": "2026-10-17T18:38:12.298454+00:00",
+  "updated_at_utc": "2026-10-17T20:58:47.058507+00:00",
+  "checked_at_utc": "2026-10-17T20:58:47.058507+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 33
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 17,
+      "items": 18,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Bears Reportedly Get Breakthrough Caleb Williams Week 6 Injury Update",
+      "url": "https://www.foxsports.com/stories/nfl/caleb-williams-injury-update-bears-quarterbacks-chicago-atlanta-falcons",
+      "summary": "The Chicago Bears are reportedly expected to activate quarterback Caleb Williams for their Week 6 game against the Atlanta Falcons.",
+      "published": "Sat, 17 Oct 2026 16:55:16 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "CHI"
+      ]
+    },
+    {
+      "title": "Eagles Make Roster Decision On QB Jalen Hurts In Wake Of Blood Clot",
+      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-injury-panthers-eagles-schedule-tanner-mckee",
+      "summary": "The Philadelphia Eagles revealed that quarterback Jalen Hurts is dealing with a blood clot in his calf and have placed him on injured reserve.",
+      "published": "Sat, 17 Oct 2026 16:10:26 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PHI"
+      ]
+    },
     {
       "title": "NFL Week 6 Schedule: How to Watch, TV Channels, Streaming, Game Previews",
       "url": "https://www.foxsports.com/stories/nfl/nfl-week-6-schedule-how-watch-tv-channels-streaming-game-previews",
@@ -217,21 +244,50 @@
       ]
     },
     {
-      "title": "2027 NFL Draft No. 1 Pick Odds: Jeremiah Smith Favored, Arch Manning Tumbles",
-      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
-      "summary": "Could Jeremiah Smith become the first wide receiver since 1996 to be selected No. 1 overall in the NFL Draft? See the latest odds.",
-      "published": "Thu, 15 Oct 2026 15:19:20 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Sources: Bears plan to start QB Caleb Williams in Week 6 vs. Falcons",
+      "url": "https://www.espn.com/nfl/story/_/id/50201828/sources-bears-plan-start-qb-caleb-williams-vs-falcons",
+      "summary": "The Bears are planning to start Caleb Williams against the Falcons after the star QB missed the past three games, sources told NFL Network and ESPN.",
+      "published": "2026-10-17T20:47:43Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
+      "category": "qb",
+      "teams": [
+        "ATL",
+        "CHI"
+      ]
+    },
+    {
+      "title": "Eagles QB Jalen Hurts on IR due to blood clot, expected to be out indefinitely",
+      "url": "https://www.espn.com/nfl/story/_/id/50202417/sources-eagles-place-jalen-hurts-ir-due-blood-clot",
+      "summary": "The Eagles have decided to place Jalen Hurts on injured reserve after consultations with numerous doctors and experts, sources told ESPN and NFL Network.",
+      "published": "2026-10-17T20:22:15Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Steelers place Wilson on IR with finger injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50203338/steelers-place-receiver-wilson-ir",
+      "summary": "The Pittsburgh Steelers placed Roman Wilson on the injured reserve list, their second key receiver lost to injury in as many weeks.",
+      "published": "2026-10-17T20:00:08Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PIT"
+      ]
     },
     {
       "title": "Taylor Moton among 3 Panthers activated ahead of Eagles game",
       "url": "https://www.espn.com/nfl/story/_/id/50202634/taylor-moton-3-panthers-activated-ahead-eagles-game",
       "summary": "The Panthers will have RT Taylor Moton and DE Tershawn Wharton available Sunday against the Eagles. RB Trevor Etienne was also activated off IR.",
-      "published": "2026-10-17T18:21:20Z",
+      "published": "2026-10-17T19:23:52Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -245,7 +301,7 @@
       "title": "Bears CB Kyler Gordon set for 2026 debut after PUP activation",
       "url": "https://www.espn.com/nfl/story/_/id/50202598/bears-cb-kyler-gordon-set-2026-debut-pup-activation",
       "summary": "Bears nickel corner Kyler Gordon has been activated off the PUP list and could make his season debut against the Falcons.",
-      "published": "2026-10-17T18:30:38Z",
+      "published": "2026-10-17T19:48:14Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -256,17 +312,56 @@
       ]
     },
     {
-      "title": "Commanders RB Jacory Croskey-Merritt out vs. 49ers with groin injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50202044/commanders-rb-croskey-merritt-vs-49ers-groin-injury",
-      "summary": "Commanders running back Jacory Croskey-Merritt won't play against the 49ers because of a groin injury, coach Dan Quinn said.",
-      "published": "2026-10-17T17:50:22Z",
-      "source": "ESPN NFL",
+      "title": "A.J. Brown injury update: Latest rumors, news on WR's status for Patriots in Week 6",
+      "url": "https://www.cbssports.com/nfl/news/a-j-brown-injury-update-rumors-news-wrs-status-patriots/",
+      "summary": "Brown suffered a high ankle sprain in Week 1 and has missed the last four games",
+      "published": "Sat, 17 Oct 2026 20:23:11 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "SF",
-        "WAS"
+        "NE"
+      ]
+    },
+    {
+      "title": "Jalen Hurts blood clot: Expert weighs in on Eagles' situation, and when QB could return to the field",
+      "url": "https://www.cbssports.com/nfl/news/jalen-hurts-blood-clot-expert-weighs-in-eagles-qb/",
+      "summary": "A cardiologist weighs in on how Hurts' condition contrasts with DVTs, standard treatment methods and what could determine the recovery timeline",
+      "published": "Sat, 17 Oct 2026 20:28:12 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Eagles place Jalen Hurts on IR, as he deals with superficial blood clot",
+      "url": "https://www.cbssports.com/nfl/news/eagles-not-planning-to-place-jalen-hurts-on-ir/",
+      "summary": "Hurts is out indefinitely and will miss the game against the Panthers on Sunday, and at least three more",
+      "published": "Sat, 17 Oct 2026 20:32:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "PHI"
+      ]
+    },
+    {
+      "title": "NFL Week 6 player props, anytime TD best bets: Steelers' Jaylen Warren is on a heater",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-player-props-anytime-td-best-bets/",
+      "summary": "Woody Marks steps into the spotlight in London and Jaylen Warren stays hot among five smart plus-money end zone picks",
+      "published": "Sat, 17 Oct 2026 19:50:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PIT"
       ]
     },
     {
@@ -337,31 +432,6 @@
       ]
     },
     {
-      "title": "Week 6 NFL score predictions, odds, betting advice, picks: Proven model reveals projections for every game",
-      "url": "https://www.cbssports.com/betting/news/week-6-nfl-score-predictions-odds-betting-advice-picks-proven-model-reveals-projections-every-game/",
-      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model for Week 6",
-      "published": "Sat, 17 Oct 2026 15:41:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Eagles not planning to place Jalen Hurts on IR, as he deals with superficial blood clot, per report",
-      "url": "https://www.cbssports.com/nfl/news/eagles-not-planning-to-place-jalen-hurts-on-ir/",
-      "summary": "Hurts is out indefinitely and will miss the game against the Panthers on Sunday",
-      "published": "Sat, 17 Oct 2026 15:17:33 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "PHI"
-      ]
-    },
-    {
       "title": "NFL Week 6 last-minute best bets: Panthers beat up on banged-up Eagles, Bucs beat Steelers",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-6-last-minute-best-bets-picks-predictions/",
       "summary": "Need some last-minute advice on how to bet the Week 6 slate? Allow us to be of assistance",
@@ -375,19 +445,6 @@
         "PHI",
         "PIT",
         "TB"
-      ]
-    },
-    {
-      "title": "A.J. Brown injury update: Latest rumors, news on WR's status for Patriots in Week 6",
-      "url": "https://www.cbssports.com/nfl/news/a-j-brown-injury-update-rumors-news-wrs-status-patriots/",
-      "summary": "Brown suffered a high ankle sprain in Week 1 and has missed the last four games",
-      "published": "Sat, 17 Oct 2026 14:47:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NE"
       ]
     },
     {
