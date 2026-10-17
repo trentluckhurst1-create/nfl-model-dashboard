@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-17T05:08:14.501642+00:00",
-  "checked_at_utc": "2026-10-17T05:08:14.501642+00:00",
+  "updated_at_utc": "2026-10-17T09:19:53.221417+00:00",
+  "checked_at_utc": "2026-10-17T09:19:53.221417+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 6,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -265,46 +265,6 @@
       "category": "game",
       "teams": [
         "TEN"
-      ]
-    },
-    {
-      "title": "Decked-out, diehard Jaguars fans swarm London for pub takeover",
-      "url": "https://www.espn.com/nfl/story/_/id/50196768/jaguars-fans-london-pub-takeover",
-      "summary": "Jaguars fans roll deep in the United Kingdom, and the fandom showed up big at London's briefly renamed ''Tealwood'' pub Thursday night.",
-      "published": "2026-10-16T20:51:48Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX"
-      ]
-    },
-    {
-      "title": "Eagles' Saquon Barkley ruled out; DeVonta Smith likely to return",
-      "url": "https://www.espn.com/nfl/story/_/id/50198056/eagles-saquon-barkley-ruled-devonta-smith-return",
-      "summary": "Eagles RB Saquon Barkley has been ruled out for Sunday's game against the Panthers with a hamstring injury, but it appears WR DeVonta Smith will return.",
-      "published": "2026-10-16T23:42:25Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CAR",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Broncos' Jonathon Cooper off commissioner exempt list, could return Week 7",
-      "url": "https://www.espn.com/nfl/story/_/id/50198029/broncos-jonathon-cooper-removed-nfl-commissioner-exempt-list",
-      "summary": "Broncos linebacker Jonathon Cooper was removed from the commissioner exempt list Friday, meaning he's available to play in Week 7. Cooper, who was arrested twice in a seven-day span in June on domestic violence charges, has been on the list since Aug. 30.",
-      "published": "2026-10-16T23:56:38Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN"
       ]
     },
     {
