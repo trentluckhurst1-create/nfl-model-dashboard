@@ -1,21 +1,21 @@
 {
-  "updated_at_utc": "2026-10-16T22:48:15.868326+00:00",
-  "checked_at_utc": "2026-10-16T22:48:15.868326+00:00",
+  "updated_at_utc": "2026-10-17T00:49:51.766738+00:00",
+  "checked_at_utc": "2026-10-17T00:49:51.766738+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 15,
+      "items": 13,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 30
+      "items": 31
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 18,
+      "items": 17,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
@@ -228,19 +228,6 @@
       "teams": []
     },
     {
-      "title": "Philadelphia Eagles Detail Blood Clot In QB Jalen Hurts' Calf",
-      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-injury-panthers-eagles-schedule-tanner-mckee",
-      "summary": "The Philadelphia Eagles revealed that quarterback Jalen Hurts is dealing with a blood clot in his calf.",
-      "published": "Thu, 15 Oct 2026 13:33:15 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
       "title": "Five takeaways from five weeks of the Raiders' season",
       "url": "https://www.espn.com/nfl/story/_/id/50189868/las-vegas-raiders-2026-season-five-takeaways-kirk-cousins",
       "summary": "What should be taken away from the first five weeks of the Raiders' 2026 season?",
@@ -257,7 +244,7 @@
       "title": "Titans CEO apologizes to fans, supports Robert Saleh, GM",
       "url": "https://www.espn.com/nfl/story/_/id/50198584/titans-ceo-apologizes-fans-supports-robert-saleh-gm",
       "summary": "Titans CEO Burke Nihill said the organization believes that coach Robert Saleh and GM Mike Borgonzi are \"ultimately going to get this team out of the woods.\"",
-      "published": "2026-10-16T22:46:27Z",
+      "published": "2026-10-16T23:49:32Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -280,10 +267,10 @@
       ]
     },
     {
-      "title": "Eagles' Saquon Barkley ruled out; DeVonta Smith to return",
+      "title": "Eagles' Saquon Barkley ruled out; DeVonta Smith likely to return",
       "url": "https://www.espn.com/nfl/story/_/id/50198056/eagles-saquon-barkley-ruled-devonta-smith-return",
       "summary": "Eagles RB Saquon Barkley has been ruled out for Sunday's game against the Panthers with a hamstring injury, but it appears WR DeVonta Smith will return.",
-      "published": "2026-10-16T21:09:31Z",
+      "published": "2026-10-16T23:42:25Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -297,7 +284,7 @@
       "title": "Broncos' Jonathon Cooper off commissioner exempt list, could return Week 7",
       "url": "https://www.espn.com/nfl/story/_/id/50198029/broncos-jonathon-cooper-removed-nfl-commissioner-exempt-list",
       "summary": "Broncos linebacker Jonathon Cooper was removed from the commissioner exempt list Friday, meaning he's available to play in Week 7. Cooper, who was arrested twice in a seven-day span in June on domestic violence charges, has been on the list since Aug. 30.",
-      "published": "2026-10-16T21:31:22Z",
+      "published": "2026-10-16T23:56:38Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -412,34 +399,6 @@
       "teams": [
         "ATL",
         "CHI"
-      ]
-    },
-    {
-      "title": "Ravens rule out QB Lamar Jackson; Tyler Huntley to start vs. Browns",
-      "url": "https://www.espn.com/nfl/story/_/id/50197342/ravens-rule-qb-jackson-huntley-start-browns",
-      "summary": "The Ravens have ruled quarterback Lamar Jackson out for a second straight week, elevating Tyler Huntley to the starting role for Sunday's game in Cleveland.",
-      "published": "2026-10-16T18:45:28Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "CLE"
-      ]
-    },
-    {
-      "title": "Browns WR KC Concepcion clears concussion protocol, will play vs. Ravens",
-      "url": "https://www.espn.com/nfl/story/_/id/50197266/browns-wr-concepcion-clears-protocol-play-vs-ravens",
-      "summary": "Browns rookie wide receiver KC Concepcion has cleared the concussion protocol and will play against the Ravens.",
-      "published": "2026-10-16T18:33:53Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "CLE"
       ]
     },
     {
@@ -834,6 +793,20 @@
       "url": "https://www.cbssports.com/betting/news/broncos-vs-seahawks-odds-picks-nfl-week-6-prediction-best-bets-player-props-for-thursday-night-football/",
       "summary": "Back Denver as a short home underdog against Seattle, plus target receiving props for R.J. Harvey and A.J. Barner alongside an even-money Jaxson Smith-Njigba touchdown",
       "published": "Thu, 15 Oct 2026 22:45:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Seahawks vs. Broncos odds, prediction, betting preview, start time: Thursday Night Football picks, best bets",
+      "url": "https://www.cbssports.com/betting/news/seahawks-vs-broncos-odds-prediction-betting-preview-start-time-thursday-night-football-picks-best-bets/",
+      "summary": "Best bets and betting preview for Seahawks vs. Broncos on Thursday Night Football",
+      "published": "Thu, 15 Oct 2026 21:58:30 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
