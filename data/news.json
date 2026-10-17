@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-17T00:49:51.766738+00:00",
-  "checked_at_utc": "2026-10-17T00:49:51.766738+00:00",
+  "updated_at_utc": "2026-10-17T05:08:14.501642+00:00",
+  "checked_at_utc": "2026-10-17T05:08:14.501642+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 13,
+      "items": 6,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -241,6 +241,20 @@
       ]
     },
     {
+      "title": "Commanders vs. 49ers: Where to watch 'Monday Night Football'",
+      "url": "https://www.espn.com/nfl/story/_/id/50189765/commanders-vs-49ers-watch-monday-night-football-week-6",
+      "summary": "Here's what to know about the Week 6 matchup.",
+      "published": "2026-10-17T03:53:00Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF",
+        "WAS"
+      ]
+    },
+    {
       "title": "Titans CEO apologizes to fans, supports Robert Saleh, GM",
       "url": "https://www.espn.com/nfl/story/_/id/50198584/titans-ceo-apologizes-fans-supports-robert-saleh-gm",
       "summary": "Titans CEO Burke Nihill said the organization believes that coach Robert Saleh and GM Mike Borgonzi are \"ultimately going to get this team out of the woods.\"",
@@ -291,114 +305,6 @@
       "category": "game",
       "teams": [
         "DEN"
-      ]
-    },
-    {
-      "title": "Packers' Josh Jacobs eligible to return next week amid probe",
-      "url": "https://www.espn.com/nfl/story/_/id/50197784/packers-josh-jacobs-eligible-return-next-week-amid-probe",
-      "summary": "Packers RB Josh Jacobs will be removed from the commissioner exempt list Monday, the league announced, making him eligible to practice and play next week.",
-      "published": "2026-10-16T21:47:44Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "GB"
-      ]
-    },
-    {
-      "title": "Bears' Caleb Williams questionable after 3 days of practice",
-      "url": "https://www.espn.com/nfl/story/_/id/50197730/bears-caleb-williams-questionable-falcons",
-      "summary": "The quarterback said there are several hurdles to clear before he would be able to face the Falcons on Sunday.",
-      "published": "2026-10-16T20:49:09Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "CHI"
-      ]
-    },
-    {
-      "title": "Cardinals 'do what's right,' rule RB Jeremiyah Love (ankle) out vs. Rams",
-      "url": "https://www.espn.com/nfl/story/_/id/50197712/cardinals-rb-jeremiyah-love-ankle-sunday-vs-rams",
-      "summary": "The Cardinals say they're doing \"what's right\" for RB Jeremiyah Love by ruling the prized rookie out for Sunday's game against the Rams due to his injured left ankle.",
-      "published": "2026-10-16T20:04:22Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ARI",
-        "LA"
-      ]
-    },
-    {
-      "title": "Jalen Hurts' health bigger than football, as teammates, coach detail QB concern",
-      "url": "https://www.espn.com/nfl/story/_/id/50197708/sirianni-teammates-share-concern-jalen-hurts-diagnosis",
-      "summary": "Eagles coach Nick Sirianni declined to offer much detail about Jalen Hurts' health, instead focusing on his connection with the quarterback.",
-      "published": "2026-10-16T20:16:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "Seahawks sticking with Sam Darnold as starter despite INTs",
-      "url": "https://www.espn.com/nfl/story/_/id/50197704/seahawks-sticking-sam-darnold-starter-ints",
-      "summary": "Seahawks coach Mike Macdonald is standing behind Sam Darnold as the team's starting quarterback despite his seven interceptions over the past four games.",
-      "published": "2026-10-16T19:33:47Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "SEA"
-      ]
-    },
-    {
-      "title": "Chiefs WR Rashee Rice out Sunday vs. Chargers with hamstring injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50197599/chiefs-wr-rashee-rice-vs-chargers-hamstring-injury",
-      "summary": "Kansas City's top receiver Rashee Rice will miss Sunday's game against the Chargers with a right hamstring injury.",
-      "published": "2026-10-16T19:19:10Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "KC",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Pettine ready to lend support, experience to Cowboys' defense",
-      "url": "https://www.espn.com/nfl/story/_/id/50197559/pettine-ready-lend-support-experience-cowboys-defense",
-      "summary": "Mike Pettine was traveling through Italy, celebrating his 60th birthday when he got a call from Cowboys defensive coordinator Christian Parker a few weeks ago seeing if he would take a role on the staff.",
-      "published": "2026-10-16T19:21:50Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Falcons' Michael Penix Jr. (ribs) cleared to play vs. Bears",
-      "url": "https://www.espn.com/nfl/story/_/id/50197497/falcons-michael-penix-jr-ribs-cleared-play-vs-bears",
-      "summary": "Falcons quarterback Michael Penix Jr., who left last week's game with injured ribs, has been fully cleared to play against the Bears on Sunday.",
-      "published": "2026-10-16T18:46:05Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "CHI"
       ]
     },
     {
