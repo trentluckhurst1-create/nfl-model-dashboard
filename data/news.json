@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-17T09:19:53.221417+00:00",
-  "checked_at_utc": "2026-10-17T09:19:53.221417+00:00",
+  "updated_at_utc": "2026-10-17T13:03:40.610569+00:00",
+  "checked_at_utc": "2026-10-17T13:03:40.610569+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 11,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -228,6 +228,114 @@
       "teams": []
     },
     {
+      "title": "Jags unlikely to play 3 international games in 2027 during EverBank renovations",
+      "url": "https://www.espn.com/nfl/story/_/id/50200792/jaguars-unlikely-play-3-international-home-games-2027",
+      "summary": "Jaguars team president Mark Lamping said the team is unlikely to play three international home games in 2027 while renovations to EverBank Stadium continue.",
+      "published": "2026-10-17T12:26:41Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Where to watch NFL London Games: Texans vs. Jaguars",
+      "url": "https://www.espn.com/nfl/story/_/id/50190428/watch-2026-nfl-london-games-texans-vs-jaguars",
+      "summary": "Texans vs. Jaguars is a part of the NFL's games in London this season.",
+      "published": "2026-10-17T11:53:37Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "JAX"
+      ]
+    },
+    {
+      "title": "Houston Texans vs. Jacksonville Jaguars: NFL London kick-off time, how to watch in UK, team news",
+      "url": "https://www.espn.com/nfl/story/_/id/50189791/houston-texans-vs-jacksonville-jaguars-nfl-london-kick-how-watch-uk-team-news",
+      "summary": "The NFL is back in London this weekend as the Philadelphia Eagles take on the Jacksonville Jaguars at Tottenham Hotspur Stadium on Sunday.",
+      "published": "2026-10-17T11:45:58Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "JAX",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Sources: Eagles' Jalen Hurts, out indefinitely with blood clot, not planned for IR",
+      "url": "https://www.espn.com/nfl/story/_/id/50200331/sources-no-ir-plans-hurts-indefinitely-clot",
+      "summary": "The Eagles are not planning to put Jalen Hurts on injured reserve, sources told ESPN, even as he remains sidelined indefinitely with a superficial blood clot.",
+      "published": "2026-10-17T12:17:04Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "NFL Week 6 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50189544/week-6-predictions-upsets-fantasy-sleepers-stats-2026",
+      "summary": "First touchdown of 2026 for Drake London? Aaron Rodgers climbing the NFL record books? The Texans pulling an upset? Let's predict 15 things for Week 6.",
+      "published": "2026-10-17T10:48:57Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU"
+      ]
+    },
+    {
+      "title": "Ravens believe Browns' Todd Monken wants 'to kick our tail'",
+      "url": "https://www.espn.com/nfl/story/_/id/50190463/baltimore-ravens-browns-todd-monken-rematch-week-6",
+      "summary": "When Cleveland's coach takes the sideline Sunday, Baltimore players will face off against their fiery former OC.",
+      "published": "2026-10-17T10:00:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CLE"
+      ]
+    },
+    {
+      "title": "Rams can't seem to fix their special teams",
+      "url": "https://www.espn.com/nfl/story/_/id/50190584/los-angeles-rams-special-teams-no-fix-week-6",
+      "summary": "Special teams have played a significant role in five of the Rams' nine losses since the start of last season, including the playoffs.",
+      "published": "2026-10-17T10:41:15Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "Why is Chargers RB Omarion Hampton's snap count decreasing?",
+      "url": "https://www.espn.com/nfl/story/_/id/50192344/los-angeles-chargers-running-back-omarion-hampton-snaps",
+      "summary": "Coach Jim Harbaugh and OC Mike McDaniel on why RB Omarion Hampton is being used differently.",
+      "published": "2026-10-17T10:00:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
       "title": "Five takeaways from five weeks of the Raiders' season",
       "url": "https://www.espn.com/nfl/story/_/id/50189868/las-vegas-raiders-2026-season-five-takeaways-kirk-cousins",
       "summary": "What should be taken away from the first five weeks of the Raiders' 2026 season?",
@@ -241,30 +349,30 @@
       ]
     },
     {
-      "title": "Commanders vs. 49ers: Where to watch 'Monday Night Football'",
-      "url": "https://www.espn.com/nfl/story/_/id/50189765/commanders-vs-49ers-watch-monday-night-football-week-6",
-      "summary": "Here's what to know about the Week 6 matchup.",
-      "published": "2026-10-17T03:53:00Z",
+      "title": "Where is the Tennessee Titans' pass rush?",
+      "url": "https://www.espn.com/nfl/story/_/id/50189538/where-tennessee-titans-pass-rush-week-6",
+      "summary": "The Titans invested more in the defensive front than any other area when Robert Saleh took over. So far, there hasn't been a significant ROI.",
+      "published": "2026-10-17T10:38:28Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "transaction",
       "teams": [
-        "SF",
-        "WAS"
+        "TEN"
       ]
     },
     {
-      "title": "Titans CEO apologizes to fans, supports Robert Saleh, GM",
-      "url": "https://www.espn.com/nfl/story/_/id/50198584/titans-ceo-apologizes-fans-supports-robert-saleh-gm",
-      "summary": "Titans CEO Burke Nihill said the organization believes that coach Robert Saleh and GM Mike Borgonzi are \"ultimately going to get this team out of the woods.\"",
-      "published": "2026-10-16T23:49:32Z",
+      "title": "What Cowboys-Packers' Micah Parsons trade means a year later",
+      "url": "https://www.espn.com/nfl/story/_/id/50195809/cowboys-packers-micah-parsons-trade-winner",
+      "summary": "We examine the fallout and lingering impact on both franchises more than a year after the blockbuster deal.",
+      "published": "2026-10-17T10:00:02Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "transaction",
       "teams": [
-        "TEN"
+        "DAL",
+        "GB"
       ]
     },
     {
