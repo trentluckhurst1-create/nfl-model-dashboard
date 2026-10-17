@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-17T20:58:47.058507+00:00",
-  "checked_at_utc": "2026-10-17T20:58:47.058507+00:00",
+  "updated_at_utc": "2026-10-17T23:00:55.278077+00:00",
+  "checked_at_utc": "2026-10-17T23:00:55.278077+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 34
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -244,6 +244,20 @@
       ]
     },
     {
+      "title": "49ers rule out Bosa for Monday, still hopeful for Evans, Juszczyk",
+      "url": "https://www.espn.com/nfl/story/_/id/50205015/san-francisco-49ers-rule-de-nick-bosa-monday-night",
+      "summary": "The San Francisco 49ers will have to wait at least another week for the return of defensive end Nick Bosa, though there's at least a chance they'll have both receiver Mike Evans and fullback Kyle Juszczyk for Monday's game vs. the Washington Commanders.",
+      "published": "2026-10-17T22:58:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF",
+        "WAS"
+      ]
+    },
+    {
       "title": "Sources: Bears plan to start QB Caleb Williams in Week 6 vs. Falcons",
       "url": "https://www.espn.com/nfl/story/_/id/50201828/sources-bears-plan-start-qb-caleb-williams-vs-falcons",
       "summary": "The Bears are planning to start Caleb Williams against the Falcons after the star QB missed the past three games, sources told NFL Network and ESPN.",
@@ -258,54 +272,27 @@
       ]
     },
     {
-      "title": "Eagles QB Jalen Hurts on IR due to blood clot, expected to be out indefinitely",
-      "url": "https://www.espn.com/nfl/story/_/id/50202417/sources-eagles-place-jalen-hurts-ir-due-blood-clot",
-      "summary": "The Eagles have decided to place Jalen Hurts on injured reserve after consultations with numerous doctors and experts, sources told ESPN and NFL Network.",
-      "published": "2026-10-17T20:22:15Z",
-      "source": "ESPN NFL",
+      "title": "NFL fines Raiders' Maxx Crosby nearly $24,000 to top list of Week 5 discipline",
+      "url": "https://www.cbssports.com/nfl/news/nfl-fines-raiders-maxx-crosby-nearly-24000-week-5-discipline/",
+      "summary": "A look at the fines handed out by the league this week",
+      "published": "Sat, 17 Oct 2026 21:47:18 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
       "teams": [
-        "PHI"
+        "LV"
       ]
     },
     {
-      "title": "Steelers place Wilson on IR with finger injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50203338/steelers-place-receiver-wilson-ir",
-      "summary": "The Pittsburgh Steelers placed Roman Wilson on the injured reserve list, their second key receiver lost to injury in as many weeks.",
-      "published": "2026-10-17T20:00:08Z",
-      "source": "ESPN NFL",
+      "title": "Bears expected to start Caleb Williams vs. Falcons, per report",
+      "url": "https://www.cbssports.com/nfl/news/bears-expected-to-start-caleb-williams-vs-falcons/",
+      "summary": "The Chicago Bears are likely getting their No. 1 pick back this week",
+      "published": "Sat, 17 Oct 2026 21:03:22 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "Taylor Moton among 3 Panthers activated ahead of Eagles game",
-      "url": "https://www.espn.com/nfl/story/_/id/50202634/taylor-moton-3-panthers-activated-ahead-eagles-game",
-      "summary": "The Panthers will have RT Taylor Moton and DE Tershawn Wharton available Sunday against the Eagles. RB Trevor Etienne was also activated off IR.",
-      "published": "2026-10-17T19:23:52Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "CAR",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Bears CB Kyler Gordon set for 2026 debut after PUP activation",
-      "url": "https://www.espn.com/nfl/story/_/id/50202598/bears-cb-kyler-gordon-set-2026-debut-pup-activation",
-      "summary": "Bears nickel corner Kyler Gordon has been activated off the PUP list and could make his season debut against the Falcons.",
-      "published": "2026-10-17T19:48:14Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
+      "category": "game",
       "teams": [
         "ATL",
         "CHI"
@@ -735,20 +722,6 @@
         "LAC",
         "SEA",
         "SF"
-      ]
-    },
-    {
-      "title": "Broncos vs. Seahawks odds, picks, NFL Week 6 prediction: Best bets, player props for Thursday Night Football",
-      "url": "https://www.cbssports.com/betting/news/broncos-vs-seahawks-odds-picks-nfl-week-6-prediction-best-bets-player-props-for-thursday-night-football/",
-      "summary": "Back Denver as a short home underdog against Seattle, plus target receiving props for R.J. Harvey and A.J. Barner alongside an even-money Jaxson Smith-Njigba touchdown",
-      "published": "Thu, 15 Oct 2026 22:45:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "SEA"
       ]
     }
   ],
