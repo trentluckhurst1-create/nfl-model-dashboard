@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-18T05:27:32.620539+00:00",
-  "checked_at_utc": "2026-10-18T05:27:32.620539+00:00",
+  "updated_at_utc": "2026-10-18T09:49:59.499162+00:00",
+  "checked_at_utc": "2026-10-18T09:49:59.499162+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
@@ -11,15 +11,43 @@
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 34
+      "items": 33
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 18,
+      "items": 20,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Rams vs. Cardinals Prediction, Odds, Pick For NFL Week 6",
+      "url": "https://www.foxsports.com/stories/nfl/rams-vs-cardinals-prediction-odds-pick-nfl-week-6",
+      "summary": "Get the latest odds, prediction and pick for the Week 6 Rams vs. Cardinals game, as well as information on how to watch.",
+      "published": "Sun, 18 Oct 2026 04:05:55 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "LA"
+      ]
+    },
+    {
+      "title": "How to Watch Texans vs. Jaguars: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-texans-vs-jaguars-tv-channel-live-stream-time-oct-18-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Texans and Jaguars game.",
+      "published": "Sun, 18 Oct 2026 01:27:13 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "JAX"
+      ]
+    },
     {
       "title": "Giants vs. Saints Prediction, Odds, Pick For NFL Week 6",
       "url": "https://www.foxsports.com/stories/nfl/giants-vs-saints-prediction-odds-pick-nfl-week-6",
@@ -702,19 +730,6 @@
       "category": "injury",
       "teams": [
         "CHI"
-      ]
-    },
-    {
-      "title": "Dak Prescott delivers message to NFL players after Jalen Hurts' blood-clot diagnosis",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-dak-prescott-jalen-hurts-blood-clot/",
-      "summary": "The Cowboys quarterback called Hurts' condition \"scary\" and encouraged athletes to communicate openly with medical personnel",
-      "published": "Thu, 15 Oct 2026 23:13:06 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "DAL"
       ]
     }
   ],
