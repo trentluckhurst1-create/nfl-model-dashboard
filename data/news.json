@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-18T16:56:10.146067+00:00",
-  "checked_at_utc": "2026-10-18T16:56:10.146067+00:00",
+  "updated_at_utc": "2026-10-18T19:19:53.463829+00:00",
+  "checked_at_utc": "2026-10-18T19:20:18.648309+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 9,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -14,85 +14,19 @@
       "items": 17
     },
     "FOX Sports NFL": {
-      "ok": true,
-      "items": 22,
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout",
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Seahawks Won't Make A Quarterback Change, Sticking With Sam Darnold",
-      "url": "https://www.foxsports.com/stories/nfl/seattle-sticking-sam-darnold-starting-quarterback",
-      "summary": "Is Seattle looking to make a QB change after its overtime loss to the Broncos? Jay Glazer shares the Seahawks are sticking with Sam Darnold.",
-      "published": "Sun, 18 Oct 2026 12:10:31 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "DEN",
-        "SEA"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 6: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-6-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 6 matchup in the NFL.",
-      "published": "Sun, 18 Oct 2026 10:12:10 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "How to Watch Cowboys vs. Packers: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cowboys-vs-packers-tv-channel-live-stream-time-oct-18-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Cowboys and Packers game.",
-      "published": "Sun, 18 Oct 2026 08:37:59 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "GB"
-      ]
-    },
-    {
-      "title": "How to Watch Bills vs. Raiders: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-bills-vs-raiders-tv-channel-live-stream-time-oct-18-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Bills and Raiders game.",
-      "published": "Sun, 18 Oct 2026 08:37:05 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LV"
-      ]
-    },
-    {
-      "title": "How to Watch Chargers vs. Chiefs: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-chargers-vs-chiefs-tv-channel-live-stream-time-oct-18-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Chargers and Chiefs game.",
-      "published": "Sun, 18 Oct 2026 08:36:50 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "LAC"
-      ]
-    },
-    {
-      "title": "How to Watch Jets vs. Patriots: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-jets-vs-patriots-tv-channel-live-stream-time-oct-18-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Jets and Patriots game.",
-      "published": "Sun, 18 Oct 2026 08:36:22 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Patriots' Romeo Doubs hurt on 42-yard TD catch vs. Jets",
+      "url": "https://www.espn.com/nfl/story/_/id/50212069/patriots-romeo-doubs-hurt-42-yard-td-catch-vs-jets",
+      "summary": "WR Romeo Doubs was hurt after diving to haul in a 42-yard touchdown pass from Drake Maye with 4:10 remaining in the first quarter.",
+      "published": "2026-10-18T19:15:43Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -102,223 +36,67 @@
       ]
     },
     {
-      "title": "How to Watch Steelers vs. Buccaneers: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-buccaneers-tv-channel-live-stream-time-oct-18-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Pittsburgh Steelers and Tampa Bay Buccaneers game.",
-      "published": "Sun, 18 Oct 2026 08:34:52 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
+      "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
+      "published": "2026-10-18T18:21:03Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": [
-        "PIT",
-        "TB"
-      ]
-    },
-    {
-      "title": "How to Watch Panthers vs. Eagles: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-panthers-vs-eagles-tv-channel-live-stream-time-oct-18-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Panthers and Eagles game.",
-      "published": "Sun, 18 Oct 2026 08:34:17 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "PHI"
-      ]
-    },
-    {
-      "title": "How to Watch Cardinals vs. Rams: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cardinals-vs-rams-tv-channel-live-stream-time-oct-18-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Cardinals and Rams game.",
-      "published": "Sun, 18 Oct 2026 08:31:53 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "LA"
-      ]
-    },
-    {
-      "title": "How to Watch Bears vs. Falcons: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-bears-vs-falcons-tv-channel-live-stream-time-oct-18-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Chicago Bears and Atlanta Falcons game.",
-      "published": "Sun, 18 Oct 2026 08:31:28 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "CHI"
-      ]
-    },
-    {
-      "title": "How to Watch Saints vs. Giants: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-saints-vs-giants-tv-channel-live-stream-time-oct-18-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Saints and Giants game.",
-      "published": "Sun, 18 Oct 2026 08:30:04 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NO",
-        "NYG"
-      ]
-    },
-    {
-      "title": "How to Watch Ravens vs. Browns: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-ravens-vs-browns-tv-channel-live-stream-time-oct-18-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Ravens and Browns game.",
-      "published": "Sun, 18 Oct 2026 08:28:53 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "CLE"
-      ]
-    },
-    {
-      "title": "How to Watch Titans vs. Colts: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-titans-vs-colts-tv-channel-live-stream-time-oct-18-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Titans and Colts game.",
-      "published": "Sun, 18 Oct 2026 08:25:38 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "TEN"
-      ]
-    },
-    {
-      "title": "NFL DFS Week 6: Best Picks, Lineup Advice and Value Plays",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-dfs-week-6-best-picks-lineup-advice-value-plays",
-      "summary": "Top NFL DFS picks for Week 6, including value plays, lineup strategy and sleepers to target for your daily fantasy roster this week.",
-      "published": "Sun, 18 Oct 2026 06:00:52 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
       "teams": []
     },
     {
-      "title": "Rams vs. Cardinals Prediction, Odds, Pick For NFL Week 6",
-      "url": "https://www.foxsports.com/stories/nfl/rams-vs-cardinals-prediction-odds-pick-nfl-week-6",
-      "summary": "Get the latest odds, prediction and pick for the Week 6 Rams vs. Cardinals game, as well as information on how to watch.",
-      "published": "Sun, 18 Oct 2026 04:05:55 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Fairbairn's last-second 49-yard FG gives Texans 34-31 win over Jaguars at Wembley Stadium",
+      "url": "http://www.espn.com/nfl/recap?gameId=401872996",
+      "summary": "\u2014 Trying to seal a desperately needed win, Houston Texans quarterback C.J. Stroud threw an interception in the end zone and gave the Jacksonville Jaguars another chance on Sunday.",
+      "published": "2026-10-18T17:13:29Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "LA"
-      ]
-    },
-    {
-      "title": "How to Watch Texans vs. Jaguars: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-texans-vs-jaguars-tv-channel-live-stream-time-oct-18-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 6 Texans and Jaguars game.",
-      "published": "Sun, 18 Oct 2026 01:27:13 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
+      "category": "qb",
       "teams": [
         "HOU",
         "JAX"
       ]
     },
     {
-      "title": "Giants vs. Saints Prediction, Odds, Pick For NFL Week 6",
-      "url": "https://www.foxsports.com/stories/nfl/giants-vs-saints-prediction-odds-pick-nfl-week-6",
-      "summary": "Get the latest odds, prediction and pick for the Week 6 Giants vs. Saints game, as well as information on how to watch.",
-      "published": "Sun, 18 Oct 2026 01:00:34 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Cowboys-Packers rivalry rewind: Micah Parsons' return, Dez Bryant's catch, Ice Bowl",
+      "url": "https://www.espn.com/nfl/story/_/id/46382966/packers-cowboys-rivalry-micah-parsons-dez-bryant-ice-bowl",
+      "summary": "Their \"Sunday Night Football\" matchup could add another memorable chapter to Packers-Cowboys lore.",
+      "published": "2026-10-18T17:27:04Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "GB"
+      ]
+    },
+    {
+      "title": "NFL Week 6: Big takeaways, questions and fantasy spin from Sunday's games",
+      "url": "https://www.espn.com/nfl/story/_/id/50181469/week-6-sunday-games-takeaways-questions-2026",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 6.",
+      "published": "2026-10-18T18:03:06Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL: Steelers-Saints in Paris still on despite civil unrest, protests in France",
+      "url": "https://www.espn.com/nfl/story/_/id/50211207/nfl-says-steelers-saints-game-paris-amid-unrest",
+      "summary": "The Week 7 game between the New Orleans Saints and Pittsburgh Steelers on Oct. 25 in Paris is still scheduled as planned despite civil unrest and protests in France, the NFL said.",
+      "published": "2026-10-18T17:42:10Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
         "NO",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Falcons vs. Bears Prediction, Odds, Pick For NFL Week 6",
-      "url": "https://www.foxsports.com/stories/nfl/falcons-vs-bears-prediction-odds-pick-nfl-week-6",
-      "summary": "Get the latest odds, prediction and pick for the Week 6 Falcons vs. Bears game, as well as information on how to watch.",
-      "published": "Sun, 18 Oct 2026 01:00:14 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "CHI"
-      ]
-    },
-    {
-      "title": "Colts vs. Titans Prediction, Odds, Pick For NFL Week 6",
-      "url": "https://www.foxsports.com/stories/nfl/colts-vs-titans-prediction-odds-pick-nfl-week-6",
-      "summary": "Get the latest odds, prediction and pick for the Week 6 Colts vs. Titans game, as well as information on how to watch.",
-      "published": "Sun, 18 Oct 2026 01:00:08 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Browns vs. Ravens Prediction, Odds, Pick For NFL Week 6",
-      "url": "https://www.foxsports.com/stories/nfl/browns-vs-ravens-prediction-odds-pick-nfl-week-6",
-      "summary": "Get the latest odds, prediction and pick for the Week 6 Browns vs. Ravens game, as well as information on how to watch.",
-      "published": "Sun, 18 Oct 2026 01:00:07 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "CLE"
-      ]
-    },
-    {
-      "title": "Bears Reportedly Get Breakthrough Caleb Williams Week 6 Injury Update",
-      "url": "https://www.foxsports.com/stories/nfl/caleb-williams-injury-update-bears-quarterbacks-chicago-atlanta-falcons",
-      "summary": "The Chicago Bears are reportedly expected to activate quarterback Caleb Williams for their Week 6 game against the Atlanta Falcons.",
-      "published": "Sat, 17 Oct 2026 16:55:16 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "CHI"
-      ]
-    },
-    {
-      "title": "Eagles Make Roster Decision On QB Jalen Hurts In Wake Of Blood Clot",
-      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-injury-panthers-eagles-schedule-tanner-mckee",
-      "summary": "The Philadelphia Eagles revealed that quarterback Jalen Hurts is dealing with a blood clot in his calf and have placed him on injured reserve.",
-      "published": "Sat, 17 Oct 2026 16:10:26 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PHI"
+        "PIT"
       ]
     },
     {
@@ -351,8 +129,8 @@
     {
       "title": "Texans safety Reed Blankenship suffers concussion vs. Jaguars in London",
       "url": "https://www.espn.com/nfl/story/_/id/50210735/texans-safety-reed-blankenship-suffers-concussion-london",
-      "summary": "The Houston Texans lost starting safety Reed Blankenship to a concussion in the second quarter of Sunday's game against the Jacksonville Jaguars in London.",
-      "published": "2026-10-18T16:49:31Z",
+      "summary": "The Texans lost starting safety Reed Blankenship to a concussion in the second quarter of Sunday's game against the Jaguars in London.",
+      "published": "2026-10-18T17:23:27Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -363,29 +141,42 @@
       ]
     },
     {
-      "title": "Week 6 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50209856/week-6-nfl-highlights-best-plays-moments-touchdowns",
-      "summary": "Here's a look at the best plays from Sunday's NFL action in Week 6.",
-      "published": "2026-10-18T14:20:54Z",
-      "source": "ESPN NFL",
+      "title": "Eagles lose another starter to injury after team already without Jalen Hurts, Saquon Barkley, others",
+      "url": "https://www.cbssports.com/nfl/news/nolan-smith-injury-eagles-lose-another-starter/",
+      "summary": "Nolan Smith exited with a concussion and will not return",
+      "published": "Sun, 18 Oct 2026 18:52:41 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
+      "category": "injury",
+      "teams": [
+        "PHI"
+      ]
     },
     {
-      "title": "Houston Texans vs. Jacksonville Jaguars: NFL London kick-off time, how to watch in UK, team news",
-      "url": "https://www.espn.com/nfl/story/_/id/50189791/houston-texans-vs-jacksonville-jaguars-nfl-london-kick-how-watch-uk-team-news",
-      "summary": "The NFL is back in London this weekend as the Philadelphia Eagles take on the Jacksonville Jaguars at Tottenham Hotspur Stadium on Sunday.",
-      "published": "2026-10-18T13:51:03Z",
-      "source": "ESPN NFL",
+      "title": "Has the Travis Hunter breakout arrived? Jacksonville CB/WR showcases long-term, two-way potential vs. Texans",
+      "url": "https://www.cbssports.com/nfl/news/jaguars-travis-hunter-breakout-two-way-potential-vs-texans/",
+      "summary": "Hunter is hitting his stride with his utilization in 2026, making history with an interception and a receiving touchdown in Week 6",
+      "published": "Sun, 18 Oct 2026 18:52:49 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "HOU",
-        "JAX",
-        "PHI"
+        "HOU"
+      ]
+    },
+    {
+      "title": "NFL, Saints address plans for Paris game during Week 6 as protests escalate in France",
+      "url": "https://www.cbssports.com/nfl/news/nfl-saints-address-paris-game-plans-week-6-protests/",
+      "summary": "The league says its continuing with its original plans and monitoring the situation",
+      "published": "Sun, 18 Oct 2026 17:41:04 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NO"
       ]
     },
     {
@@ -574,54 +365,6 @@
       "teams": [
         "HOU",
         "JAX"
-      ]
-    },
-    {
-      "title": "NFL Week 6 picks, odds: Our experts face off on Ravens at Browns, Packers vs. Cowboys and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-picks-experts-on-seahawks-broncos-ravens-browns/",
-      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict Week 6's top games",
-      "published": "Sun, 18 Oct 2026 10:00:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "CLE",
-        "DAL",
-        "GB"
-      ]
-    },
-    {
-      "title": "Prisco's Week 6 NFL picks: Buccaneers upset Steelers, Packers over Cowboys",
-      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-6-nfl-picks-odds-predictions/",
-      "summary": "Pete Prisco reveals all of his Week 6 picks, including the Bills to rout the Raiders",
-      "published": "Sun, 18 Oct 2026 10:01:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "DAL",
-        "GB",
-        "LV",
-        "PIT",
-        "TB"
-      ]
-    },
-    {
-      "title": "Cowboys vs. Packers prediction: Dak Prescott, Jordan Love set for high-flying showdown on 'SNF'",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-vs-packers-prediction-where-to-watch-snf/",
-      "summary": "The last time these two teams met in Week 4 of the 2025 season, they combined for the highest-scoring tie in the Super Bowl era",
-      "published": "Sun, 18 Oct 2026 00:00:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "GB"
       ]
     }
   ],
