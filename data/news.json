@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-17T23:00:55.278077+00:00",
-  "checked_at_utc": "2026-10-17T23:00:55.278077+00:00",
+  "updated_at_utc": "2026-10-18T00:54:06.072917+00:00",
+  "checked_at_utc": "2026-10-18T00:54:06.072917+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -247,7 +247,7 @@
       "title": "49ers rule out Bosa for Monday, still hopeful for Evans, Juszczyk",
       "url": "https://www.espn.com/nfl/story/_/id/50205015/san-francisco-49ers-rule-de-nick-bosa-monday-night",
       "summary": "The San Francisco 49ers will have to wait at least another week for the return of defensive end Nick Bosa, though there's at least a chance they'll have both receiver Mike Evans and fullback Kyle Juszczyk for Monday's game vs. the Washington Commanders.",
-      "published": "2026-10-17T22:58:30Z",
+      "published": "2026-10-17T23:11:15Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -258,17 +258,17 @@
       ]
     },
     {
-      "title": "Sources: Bears plan to start QB Caleb Williams in Week 6 vs. Falcons",
-      "url": "https://www.espn.com/nfl/story/_/id/50201828/sources-bears-plan-start-qb-caleb-williams-vs-falcons",
-      "summary": "The Bears are planning to start Caleb Williams against the Falcons after the star QB missed the past three games, sources told NFL Network and ESPN.",
-      "published": "2026-10-17T20:47:43Z",
-      "source": "ESPN NFL",
+      "title": "Cowboys vs. Packers prediction: Dak Prescott, Jordan Love set for high-flying showdown on 'SNF'",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-vs-packers-prediction-where-to-watch-snf/",
+      "summary": "The last time these two teams met in Week 4 of the 2025 season, they combined for the highest-scoring tie in the Super Bowl era",
+      "published": "Sun, 18 Oct 2026 00:00:57 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": [
-        "ATL",
-        "CHI"
+        "DAL",
+        "GB"
       ]
     },
     {
@@ -706,22 +706,6 @@
       "category": "qb",
       "teams": [
         "DAL"
-      ]
-    },
-    {
-      "title": "Broncos vs. Seahawks pick: Bo Nix hopes to rejuvenate offense but has tough task vs. Seattle D on 'TNF'",
-      "url": "https://www.cbssports.com/nfl/news/broncos-vs-seahawks-how-to-watch-preview-prediction/",
-      "summary": "Denver is coming off a lackluster win vs. the Chargers, while Seattle looks to rebound after falling to the 49ers",
-      "published": "Thu, 15 Oct 2026 22:58:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "LAC",
-        "SEA",
-        "SF"
       ]
     }
   ],
