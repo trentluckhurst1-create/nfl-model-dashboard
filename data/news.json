@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-19T23:39:19.324518+00:00",
-  "checked_at_utc": "2026-10-19T23:39:19.324518+00:00",
+  "updated_at_utc": "2026-10-20T02:06:11.224183+00:00",
+  "checked_at_utc": "2026-10-20T02:06:11.224183+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 17,
+      "items": 13,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,49 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 18,
+      "items": 21,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Commanders WR Terry McLaurin Carted Off, Ruled Out With Knee Injury vs. 49ers",
+      "url": "https://www.foxsports.com/stories/nfl/terry-mclaurin-carted-off-apparent-knee-injury-loss-49ers",
+      "summary": "Terry McLaurin was carted to the locker room in the first quarter of Monday night\u2019s game at San Francisco, and the veteran receiver has officially been ruled out for the rest of the night.",
+      "published": "Mon, 19 Oct 2026 21:49:03 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SF",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Big Bets Report: $66 On 18-leg Parlay Cashes For More Than $203k",
+      "url": "https://www.foxsports.com/stories/nfl/big-bets-report-66-18-leg-parlay-cashes-more-than-203k",
+      "summary": "An 18-leg parlay cashed in big for one bettor and Caleb Williams' return was money, too. Patrick Everson breaks down the weekend's big bets.",
+      "published": "Mon, 19 Oct 2026 19:39:21 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "The Week 6 Plays That Stood Out: The Rams' Subpar Defense To C.J. Stroud's Heroics",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-6-plays-that-stood-out-rams-subpar-defense-cj-stroud-heroics",
+      "summary": "Here are the plays that stood out in Week 6, from Dak Prescott's failures to C.J. Stroud thriving.",
+      "published": "Mon, 19 Oct 2026 19:38:06 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA"
+      ]
+    },
     {
       "title": "Jameis Winston's Super Surprise For Breast Cancer Survivors: 'Nothing Short Of Amazing'",
       "url": "https://www.foxsports.com/stories/nfl/jameis-winston-surprises-survivors-super-gesture-during-breast-cancer-awareness-month",
@@ -267,10 +305,24 @@
       ]
     },
     {
+      "title": "Commanders' Terry McLaurin carted off field with knee injury, ruled out for MNF",
+      "url": "https://www.espn.com/nfl/story/_/id/50222846/commanders-terry-mclaurin-carted-knee-injury-ruled-mnf-vs-49ers",
+      "summary": "Commanders wide receiver Terry McLaurin was carted off the field with his left leg in an air cast after injuring his knee in the first quarter of Monday night's game against the 49ers.",
+      "published": "2026-10-20T01:55:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SF",
+        "WAS"
+      ]
+    },
+    {
       "title": "Stephen Jones says Brian Schottenheimer has full support of Cowboys' ownership",
       "url": "https://www.espn.com/nfl/story/_/id/50222284/brian-schottenheimer-full-support-cowboys-ownership",
       "summary": "Brian Schottenheimer has the full support of Cowboys ownership, Stephen Jones said Monday on 105.3 The Fan in Dallas.",
-      "published": "2026-10-19T23:37:55Z",
+      "published": "2026-10-20T00:19:07Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -293,16 +345,15 @@
       ]
     },
     {
-      "title": "LaFleur enthused Packers RB Jacobs, 'an elite-level back,' might play Sunday",
+      "title": "Packers' Josh Jacobs to practice Wednesday, may play Sunday",
       "url": "https://www.espn.com/nfl/story/_/id/50221818/packers-josh-jacobs-practice-wednesday-play-sunday",
-      "summary": "Green Bay's Josh Jacobs, ''an elite-level back'' in the eyes of Packers coach Matt LaFleur, will return to practice Wednesday and has a chance to play Sunday against the Detroit Lions after missing six games while on the NFL's commissioner exempt list.",
-      "published": "2026-10-19T22:21:38Z",
+      "summary": "Running back Josh Jacobs missed Green Bay's first six games while on the NFL's commissioner exempt list.",
+      "published": "2026-10-20T01:18:35Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "DET",
         "GB"
       ]
     },
@@ -310,7 +361,7 @@
       "title": "Rams suffer several major injuries, including to WR Adams, who's out 6-10 weeks",
       "url": "https://www.espn.com/nfl/story/_/id/50221426/rams-lose-star-wr-davante-adams-6-10-weeks-mcvay-says",
       "summary": "Rams wideout Davante Adams ruptured a hamstring in Sunday's loss to the Cardinals, and he will be sidelined for six to 10 weeks, coach Sean McVay announced.",
-      "published": "2026-10-19T22:35:03Z",
+      "published": "2026-10-19T23:53:56Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -324,7 +375,7 @@
       "title": "Patriots place WR Romeo Doubs (shoulder) on IR",
       "url": "https://www.espn.com/nfl/story/_/id/50221307/patriots-place-romeo-doubs-shoulder-ir",
       "summary": "The Patriots have placed Romeo Doubs on IR.",
-      "published": "2026-10-19T21:16:48Z",
+      "published": "2026-10-20T00:36:36Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -430,68 +481,17 @@
       ]
     },
     {
-      "title": "Can the Saints carry their winning momentum into Paris?",
-      "url": "https://www.espn.com/nfl/story/_/id/50220069/can-new-orleans-saints-carry-winning-momentum-paris",
-      "summary": "After New Orleans snapped its three-game losing streak, the team's focus quickly turns to Week 7 in France.",
-      "published": "2026-10-19T18:56:13Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NO"
-      ]
-    },
-    {
-      "title": "Mayfield to practice this week but Buccaneers to prep as if Daniels will play",
-      "url": "https://www.espn.com/nfl/story/_/id/50219961/mayfield-practice-buccaneers-prep-daniels-play",
-      "summary": "Baker Mayfield will return to practice Wednesday for the Buccaneers, but the team will prepare as if Jalon Daniels will start at QB, coach Todd Bowles said.",
-      "published": "2026-10-19T18:14:12Z",
-      "source": "ESPN NFL",
+      "title": "Commanders' Terry McLaurin carted off after knee injury vs. 49ers, ruled out",
+      "url": "https://www.cbssports.com/nfl/news/commanders-terry-mclaurin-knee-injury-monday-night-football/",
+      "summary": "McLaurin went down while running a route late in the first quarter",
+      "published": "Tue, 20 Oct 2026 01:10:11 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "TB"
-      ]
-    },
-    {
-      "title": "What does firing GM Ballard mean for Colts coach Steichen?",
-      "url": "https://www.espn.com/nfl/story/_/id/50218623/colts-fire-gm-chris-ballard-shane-steichen",
-      "summary": "Carlie Irsay-Gordon made a big change Monday, but is it the first of many as the trade deadline nears?",
-      "published": "2026-10-19T20:10:33Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "Sean Payton: Broncos not considering benching Bo Nix amid offense's struggles",
-      "url": "https://www.espn.com/nfl/story/_/id/50219761/broncos-not-considering-benching-qb-bo-nix-sean-payton-says",
-      "summary": "The Broncos are not considering benching quarterback Bo Nix as the team struggles on offense, coach Sean Payton said Monday.",
-      "published": "2026-10-19T18:22:21Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "DEN"
-      ]
-    },
-    {
-      "title": "Jets' Aaron Glenn backs Frank Reich despite team's struggles to score points",
-      "url": "https://www.espn.com/nfl/story/_/id/50219601/jets-aaron-glenn-backs-frank-reich-amid-scoring-struggles",
-      "summary": "Jets coach Aaron Glenn backed offensive coordinator Frank Reich on Monday despite his team's struggles on offense this season.",
-      "published": "2026-10-19T18:01:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYJ"
+        "SF",
+        "WAS"
       ]
     },
     {
@@ -884,19 +884,6 @@
       "category": "game",
       "teams": [
         "DAL"
-      ]
-    },
-    {
-      "title": "Giants have a QB controversy: J.J. McCarthy makes case to replace Jameis Winston",
-      "url": "https://www.cbssports.com/nfl/news/j-j-mccarthy-vs-jameis-winston-giants-starting-qb-texans/",
-      "summary": "The Giants must decide whether to ride McCarthy's momentum immediately or give him the Week 8 bye to prepare for a potential change",
-      "published": "Mon, 19 Oct 2026 11:31:12 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NYG"
       ]
     }
   ],
