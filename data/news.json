@@ -1,31 +1,32 @@
 {
-  "updated_at_utc": "2026-10-20T20:56:01.116318+00:00",
-  "checked_at_utc": "2026-10-20T20:56:01.116318+00:00",
+  "updated_at_utc": "2026-10-20T23:41:12.715404+00:00",
+  "checked_at_utc": "2026-10-20T23:41:37.894964+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 4,
+      "items": 6,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 34
+      "items": 33
     },
     "FOX Sports NFL": {
-      "ok": true,
-      "items": 21,
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout",
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Report Details Expected Eagles Punishment For Handling Of Jalen Hurts Blood Clot",
-      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-blood-clot-eagles-nfl-discipline",
-      "summary": "The Philadelphia Eagles are reportedly not being punished for how they handled quarterback Jalen Hurts\u2019 blood clots.",
-      "published": "Tue, 20 Oct 2026 16:05:22 -0400",
-      "source": "FOX Sports NFL",
+      "title": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+      "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded",
+      "summary": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing reporters in a media availability.",
+      "published": "2026-10-20T23:26:18Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
@@ -34,268 +35,49 @@
       ]
     },
     {
-      "title": "2026 NFL DPOY Odds: Will Anderson Jr. Favored; Nik Bonitto Moves Up",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
-      "summary": "Check out the latest odds for the 2026 NFL Defensive Player of the Year award and see which linebacker from the AFC West moved up.",
-      "published": "Tue, 20 Oct 2026 15:56:06 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "QB Stock Market Week 7: Is C.J. Stroud Back? Is Patrick Mahomes Evolving?",
-      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-7-c-j-stroud-back-patrick-mahomes-evolving",
-      "summary": "C.J. Stroud looks better than he has in years. Jordan Love looks underrated still. Bo Nix looks lost. Here are Henry McKenna's latest QB rankings.",
-      "published": "Tue, 20 Oct 2026 14:36:52 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "5 Colts Players Contenders Could Trade For Following Chris Ballard\u2019s Firing",
-      "url": "https://www.foxsports.com/stories/nfl/colts-trade-rumors-gm-chris-ballard-fired",
-      "summary": "Here are five players NFL contenders could look to acquire from the Indianapolis Colts at the NFL trade deadline.",
-      "published": "Tue, 20 Oct 2026 13:00:51 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "Giants Release Najee Harris Days After RB Voices Frustration Over Backfield Role",
-      "url": "https://www.foxsports.com/stories/nfl/giants-are-releasing-running-back-najee-harris-ap-source-says",
-      "summary": "The New York Giants are releasing running back Najee Harris, according to a person with knowledge of the decision",
-      "published": "Tue, 20 Oct 2026 12:23:35 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "2026 NFL AFC, NFC Title Odds: Bills-49ers Favored For Super Bowl LXI",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-afc-nfc-title-odds",
-      "summary": "Six weeks in, the odds say the Bills and 49ers are on a Super Bowl collision course. See the latest.",
-      "published": "Tue, 20 Oct 2026 12:07:04 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "SF"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-7-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 7 matchup in the NFL.",
-      "published": "Tue, 20 Oct 2026 11:35:09 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 6 All-Stars: Welcome Back From The Bye, Kenneth Walker; Hello, Titans!",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-6-all-stars-cj-stroud-malik-nabers-kenneth-walker-travis-hunter",
-      "summary": "Our Week 6 All-Stars might be the most random list of players we'll have in our weekly All-Star series this season.",
-      "published": "Tue, 20 Oct 2026 00:11:04 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "TEN"
-      ]
-    },
-    {
-      "title": "2026 Super Bowl Odds: 49ers Claim Top Spot After 6-0 Start",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "summary": "A new favorite tops the oddsboard for the first time this season. Check out the latest Super Bowl odds after Week 6.",
-      "published": "Tue, 20 Oct 2026 00:02:46 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "49ers Are 6-0 Despite Late Scare: 3 Takeaways From The Niners' Win Over The Commanders",
-      "url": "https://www.foxsports.com/stories/nfl/49ers-are-6-0-3-takeaways-from-the-niners-win-over-the-commanders",
-      "summary": "The San Francisco 49ers remain an unstoppable force, but it wasn't convincing. Here are the takeaways from their win over the Commanders.",
-      "published": "Mon, 19 Oct 2026 23:48:58 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SF",
-        "WAS"
-      ]
-    },
-    {
-      "title": "2026 NFL Power Rankings Week 7: Are The Packers For Real? Are The Rams Frauds?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-7",
-      "summary": "Are the 49ers still No. 1 after their close win? How far did the Cowboys and Rams fall after their losses?",
-      "published": "Mon, 19 Oct 2026 23:44:17 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "GB",
-        "LA",
-        "SF"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds: Which Teams Are Favored To Make The Playoffs?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
-      "summary": "See the latest NFL postseason odds after Week 6.",
-      "published": "Mon, 19 Oct 2026 23:32:07 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Best And Worst: Josh Allen Puts On A Show; The Rams Hit A New Low",
-      "url": "https://www.foxsports.com/stories/nfl/josh-allen-brilliance-rams-problems-caleb-williams-jalen-hurts",
-      "summary": "Breaking down the best and worst of NFL Week 6, featuring Josh Allen's epic TD flip, Caleb Williams' triumphant return and more Rams woes.",
-      "published": "Mon, 19 Oct 2026 23:31:11 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "49ers WR Mike Evans Departs Early vs. Commanders Due To Achilles Injury, Ruled Out",
-      "url": "https://www.foxsports.com/stories/nfl/mike-evans-49ers-commanders-achilles-injury-update",
-      "summary": "49ers wide receiver Mike Evans headed to the locker room in the second quarter of Monday night\u2019s game against the Washington Commanders.",
-      "published": "Mon, 19 Oct 2026 22:41:43 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Steelers bring back veteran Marquez Valdes-Scantling amid receiver injury woes",
+      "url": "https://www.espn.com/nfl/story/_/id/50232379/steelers-bring-back-marquez-valdes-scantling-amid-wr-injuries",
+      "summary": "The Steelers, in need of help at wide receiver with Michael Pittman Jr. and Roman Wilson out because of injuries, signed veteran Marquez Valdes-Scantling on Tuesday.",
+      "published": "2026-10-20T22:49:56Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "SF",
-        "WAS"
+        "PIT"
       ]
     },
     {
-      "title": "Commanders WR Terry McLaurin Suffers Season-Ending Torn Patellar Tendon",
-      "url": "https://www.foxsports.com/stories/nfl/terry-mclaurin-carted-off-apparent-knee-injury-loss-49ers",
-      "summary": "Terry McLaurin was carted to the locker room in the first quarter of Monday night\u2019s game at San Francisco, and the veteran receiver has officially been ruled out for the rest of the night.",
-      "published": "Mon, 19 Oct 2026 21:49:03 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SF",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Big Bets Report: $66 On 18-leg Parlay Cashes For More Than $203k",
-      "url": "https://www.foxsports.com/stories/nfl/big-bets-report-66-18-leg-parlay-cashes-more-than-203k",
-      "summary": "An 18-leg parlay cashed in big for one bettor and Caleb Williams' return was money, too. Patrick Everson breaks down the weekend's big bets.",
-      "published": "Mon, 19 Oct 2026 19:39:21 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "The Week 6 Plays That Stood Out: The Rams' Subpar Defense To C.J. Stroud's Heroics",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-6-plays-that-stood-out-rams-subpar-defense-cj-stroud-heroics",
-      "summary": "Here are the plays that stood out in Week 6, from Dak Prescott's failures to C.J. Stroud thriving.",
-      "published": "Mon, 19 Oct 2026 19:38:06 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "Jameis Winston's Super Surprise For Breast Cancer Survivors: 'Nothing Short Of Amazing'",
-      "url": "https://www.foxsports.com/stories/nfl/jameis-winston-surprises-survivors-super-gesture-during-breast-cancer-awareness-month",
-      "summary": "Giants QB Jameis Winston continued his dedication to breast cancer awareness on Sunday by bringing 10 survivors to a game and sending on to Super Bowl LXI.",
-      "published": "Mon, 19 Oct 2026 17:51:44 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Commanders' Quinn, Daniels discuss QB's throwaway on fourth-down play",
+      "url": "https://www.espn.com/nfl/story/_/id/50231812/quinn-daniels-discuss-qb-throwaway-fourth-play",
+      "summary": "Commanders quarterback Jayden Daniels shouldn't have thrown a fourth-down pass away in the second quarter of Monday night's loss, coach Dan Quinn said.",
+      "published": "2026-10-20T22:12:12Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": [
-        "NYG"
+        "WAS"
       ]
     },
     {
-      "title": "Rams WR Davante Adams Out 6-10 Weeks; K Blake Grupe Done For Season",
-      "url": "https://www.foxsports.com/stories/nfl/davante-adams-rams-cardinals-injury-update",
-      "summary": "Wide receiver Davante Adams left the game with an apparent non-contact injury in the final minute of Sunday\u2019s game at SoFi Stadium and did not return.",
-      "published": "Mon, 19 Oct 2026 17:10:41 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Sources: Rams signing free agent kicker Brandon McManus",
+      "url": "https://www.espn.com/nfl/story/_/id/50231705/sources-rams-signing-free-agent-kicker-brandon-mcmanus",
+      "summary": "The Rams, after releasing Harrison Mevis and an injury to Blake Grupe, are signing free agent kicker Brandon McManus, sources told NFL Network.",
+      "published": "2026-10-20T21:17:52Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
         "LA"
-      ]
-    },
-    {
-      "title": "Bills DB C.J. Gardner-Johnson Suspended One Game For Spitting vs. Raiders",
-      "url": "https://www.foxsports.com/stories/nfl/c-j-gardner-johnson-ejected-bills-raiders-spit-video",
-      "summary": "Buffalo Bills safety C.J. Gardner-Johnson\u2019s eventful start to the 2026 season added another chapter Sunday.",
-      "published": "Mon, 19 Oct 2026 15:17:19 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LV"
-      ]
-    },
-    {
-      "title": "Falcons Sign Veteran QB Andy Dalton, Release Cooper Rush",
-      "url": "https://www.foxsports.com/stories/nfl/atlanta-falcons-qb-andy-dalton-cooper-rush",
-      "summary": "The Atlanta Falcons have signed veteran quarterback Andy Dalton and released backup Cooper Rush.",
-      "published": "Mon, 19 Oct 2026 14:39:40 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "ATL"
       ]
     },
     {
       "title": "Reports: NFL won't punish Eagles for letting Jalen Hurts play with blood clot",
       "url": "https://www.espn.com/nfl/story/_/id/50230816/reports-nfl-punish-eagles-jalen-hurts-situation",
       "summary": "The NFL will not punish the Eagles for how they handled the process surrounding quarterback Jalen Hurts being cleared to play Week 5 against the Jaguars, according to multiple reports.",
-      "published": "2026-10-20T20:27:55Z",
+      "published": "2026-10-20T23:25:30Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -320,29 +102,29 @@
       ]
     },
     {
-      "title": "Commanders WR Terry McLaurin has torn patellar tendon, ending his season",
-      "url": "https://www.espn.com/nfl/story/_/id/50230371/commanders-wr-terry-mclaurin-torn-patellar-tendon",
-      "summary": "Commanders wide receiver Terry McLaurin suffered a torn patellar tendon, an injury that will end his season, coach Dan Quinn announced Tuesday.",
-      "published": "2026-10-20T19:28:02Z",
-      "source": "ESPN NFL",
+      "title": "NFL, Saints address plans for Paris game during Week 6 as protests escalate in France",
+      "url": "https://www.cbssports.com/nfl/news/nfl-saints-address-paris-game-plans-week-6-protests/",
+      "summary": "The league says its continuing with its original plans and monitoring the situation",
+      "published": "Tue, 20 Oct 2026 22:26:16 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
       "teams": [
-        "WAS"
+        "NO"
       ]
     },
     {
-      "title": "Dolphins release Riley Patterson after Week 5 problems defending kickoffs",
-      "url": "https://www.espn.com/nfl/story/_/id/50229491/sources-dolphins-release-riley-patterson-amid-kickoff-woes",
-      "summary": "The Dolphins released kicker Riley Patterson in a move aimed to improve one of the NFL's worst special teams units.",
-      "published": "2026-10-20T18:11:46Z",
-      "source": "ESPN NFL",
+      "title": "Eagles will not be punished for how team handled Jalen Hurts' blood clots situation, per report",
+      "url": "https://www.cbssports.com/nfl/news/eagles-will-not-be-punished-jalen-hurts-blood-clots-situation/",
+      "summary": "The NFL concluded the process to clear Hurts for Week 5 in London was handled appropriately",
+      "published": "Tue, 20 Oct 2026 20:54:56 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "game",
       "teams": [
-        "MIA"
+        "PHI"
       ]
     },
     {
@@ -370,19 +152,6 @@
       "teams": [
         "SF",
         "WAS"
-      ]
-    },
-    {
-      "title": "Eagles will not be punished for how team handled Jalen Hurts' blood clots situation, per report",
-      "url": "https://www.cbssports.com/nfl/news/eagles-will-not-be-punished-jalen-hurts-blood-clots-situation/",
-      "summary": "The NFL concluded the process to clear Hurts for Week 5 in London was handled appropriately",
-      "published": "Tue, 20 Oct 2026 18:53:48 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PHI"
       ]
     },
     {
@@ -768,33 +537,6 @@
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "49ers vs. Commanders prediction: Can San Francisco remain unbeaten? Full 'Monday Night Football' breakdown",
-      "url": "https://www.cbssports.com/nfl/news/49ers-vs-commanders-where-to-watch-tv-channel-odds-prediction/",
-      "summary": "San Francisco can improve to 6-0 and strengthen its NFC West lead, while Washington enters Levi's Stadium looking to pull off a sizable road upset",
-      "published": "Mon, 19 Oct 2026 21:16:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SF",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Rams special teams woes continue: Kicker Blake Grupe placed on injured reserve after knee injury",
-      "url": "https://www.cbssports.com/nfl/news/rams-kicker-blake-grupe-suffers-knee-injury-updates/",
-      "summary": "Grupe suffered the injury while making a tackle on a kickoff",
-      "published": "Mon, 19 Oct 2026 20:59:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
       "teams": [
         "LA"
       ]
