@@ -1,31 +1,269 @@
 {
-  "updated_at_utc": "2026-10-20T23:41:12.715404+00:00",
-  "checked_at_utc": "2026-10-20T23:41:37.894964+00:00",
+  "updated_at_utc": "2026-10-21T02:03:52.540483+00:00",
+  "checked_at_utc": "2026-10-21T02:03:52.540483+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 6,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 34
     },
     "FOX Sports NFL": {
-      "ok": false,
-      "items": 0,
-      "error": "ReadTimeout",
+      "ok": true,
+      "items": 18,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
+      "title": "2026 NFL Coach Of The Year Odds: Shanahan Favored; Monken, Johnson Chasing",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-coach-of-the-year-odds",
+      "summary": "There's a new favorite on the Coach Of The Year oddsboard after NFL Week 4. Here's the latest.",
+      "published": "Tue, 20 Oct 2026 20:51:41 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Miss The Playoffs?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-to-miss-playoffs",
+      "summary": "Somehow, the Rams \u2014 with a top-five defense and top-five offense \u2014 are now favored to miss the playoffs. See the latest odds.",
+      "published": "Tue, 20 Oct 2026 20:31:45 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "NFL Trade Deadline: Who Are The 10 Best Players That Could Be Available?",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-best-available-players",
+      "summary": "Who could be on the move ahead of the Nov. 10 trade deadline? Here are 10 of the best possible names.",
+      "published": "Tue, 20 Oct 2026 19:54:25 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Upon Further Review: Just How Off We Were On Rams, Chargers; Ashton Jeanty A Bust?",
+      "url": "https://www.foxsports.com/stories/nfl/upon-further-review-just-how-off-we-were-rams-chargers-ashton-jeanty-bust",
+      "summary": "How were we so wrong in expecting big things from Los Angeles teams this year? And how long before you can say Ashton Jeanty isn't very good?",
+      "published": "Tue, 20 Oct 2026 19:53:46 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "LAC"
+      ]
+    },
+    {
+      "title": "2026 NFL OPOY Odds: Kansas City's Kenneth Walker III Back On Top As Favorite",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
+      "summary": "One of Kansas City's best offensive weapons is back atop the oddsboard for the 2026 NFL Offensive Player of the Year. Here's the latest.",
+      "published": "Tue, 20 Oct 2026 19:18:17 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Report Details Expected Eagles Punishment For Handling Of Jalen Hurts Blood Clot",
+      "url": "https://www.foxsports.com/stories/nfl/jalen-hurts-blood-clot-eagles-nfl-discipline",
+      "summary": "The Philadelphia Eagles are reportedly not being punished for how they handled quarterback Jalen Hurts\u2019 blood clots.",
+      "published": "Tue, 20 Oct 2026 16:05:22 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "2026 NFL DPOY Odds: Will Anderson Jr. Favored; Nik Bonitto Moves Up",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
+      "summary": "Check out the latest odds for the 2026 NFL Defensive Player of the Year award and see which linebacker from the AFC West moved up.",
+      "published": "Tue, 20 Oct 2026 15:56:06 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "QB Stock Market Week 7: Is C.J. Stroud Back? Is Patrick Mahomes Evolving?",
+      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-7-c-j-stroud-back-patrick-mahomes-evolving",
+      "summary": "C.J. Stroud looks better than he has in years. Jordan Love looks underrated still. Bo Nix looks lost. Here are Henry McKenna's latest QB rankings.",
+      "published": "Tue, 20 Oct 2026 14:36:52 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "5 Colts Players Contenders Could Trade For Following Chris Ballard\u2019s Firing",
+      "url": "https://www.foxsports.com/stories/nfl/colts-trade-rumors-gm-chris-ballard-fired",
+      "summary": "Here are five players NFL contenders could look to acquire from the Indianapolis Colts at the NFL trade deadline.",
+      "published": "Tue, 20 Oct 2026 13:00:51 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "Giants Release Najee Harris Days After RB Voices Frustration Over Backfield Role",
+      "url": "https://www.foxsports.com/stories/nfl/giants-are-releasing-running-back-najee-harris-ap-source-says",
+      "summary": "The New York Giants are releasing running back Najee Harris, according to a person with knowledge of the decision",
+      "published": "Tue, 20 Oct 2026 12:23:35 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "2026 NFL AFC, NFC Title Odds: Bills-49ers Favored For Super Bowl LXI",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-afc-nfc-title-odds",
+      "summary": "Six weeks in, the odds say the Bills and 49ers are on a Super Bowl collision course. See the latest.",
+      "published": "Tue, 20 Oct 2026 12:07:04 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "SF"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-7-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every Week 7 matchup in the NFL.",
+      "published": "Tue, 20 Oct 2026 11:35:09 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 6 All-Stars: Welcome Back From The Bye, Kenneth Walker; Hello, Titans!",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-6-all-stars-cj-stroud-malik-nabers-kenneth-walker-travis-hunter",
+      "summary": "Our Week 6 All-Stars might be the most random list of players we'll have in our weekly All-Star series this season.",
+      "published": "Tue, 20 Oct 2026 00:11:04 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "TEN"
+      ]
+    },
+    {
+      "title": "2026 Super Bowl Odds: 49ers Claim Top Spot After 6-0 Start",
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "summary": "A new favorite tops the oddsboard for the first time this season. Check out the latest Super Bowl odds after Week 6.",
+      "published": "Tue, 20 Oct 2026 00:02:46 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "49ers Are 6-0 Despite Late Scare: 3 Takeaways From The Niners' Win Over The Commanders",
+      "url": "https://www.foxsports.com/stories/nfl/49ers-are-6-0-3-takeaways-from-the-niners-win-over-the-commanders",
+      "summary": "The San Francisco 49ers remain an unstoppable force, but it wasn't convincing. Here are the takeaways from their win over the Commanders.",
+      "published": "Mon, 19 Oct 2026 23:48:58 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF",
+        "WAS"
+      ]
+    },
+    {
+      "title": "2026 NFL Power Rankings Week 7: Are The Packers For Real? Are The Rams Frauds?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-7",
+      "summary": "Are the 49ers still No. 1 after their close win? How far did the Cowboys and Rams fall after their losses?",
+      "published": "Mon, 19 Oct 2026 23:44:17 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "GB",
+        "LA",
+        "SF"
+      ]
+    },
+    {
+      "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Make The Playoffs?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
+      "summary": "See the latest NFL postseason odds after Week 6.",
+      "published": "Mon, 19 Oct 2026 23:32:07 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Best And Worst: Josh Allen Puts On A Show; The Rams Hit A New Low",
+      "url": "https://www.foxsports.com/stories/nfl/josh-allen-brilliance-rams-problems-caleb-williams-jalen-hurts",
+      "summary": "Breaking down the best and worst of NFL Week 6, featuring Josh Allen's epic TD flip, Caleb Williams' triumphant return and more Rams woes.",
+      "published": "Mon, 19 Oct 2026 23:31:11 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "NFLPA calls for 'full investigation' into medical care provided to Eagles' Hurts",
+      "url": "https://www.espn.com/nfl/story/_/id/50233573/nflpa-demands-full-investigation-hurts-medical-care",
+      "summary": "After NFL chief medical officer Allen Sills staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue Tuesday, the NFLPA issued a statement calling for a \"full investigation\" into his medical care.",
+      "published": "2026-10-21T01:49:53Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
       "title": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
       "url": "https://www.espn.com/nfl/story/_/id/50232968/eagles-approach-hurts-was-appropriately-guarded",
       "summary": "At the owners meetings Tuesday in New York, NFL officials staunchly defended the process involving Philadelphia Eagles quarterback Jalen Hurts and his blood clot issue, with chief medical officer Allen Sills addressing reporters in a media availability.",
-      "published": "2026-10-20T23:26:18Z",
+      "published": "2026-10-21T01:17:48Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -74,31 +312,16 @@
       ]
     },
     {
-      "title": "Reports: NFL won't punish Eagles for letting Jalen Hurts play with blood clot",
-      "url": "https://www.espn.com/nfl/story/_/id/50230816/reports-nfl-punish-eagles-jalen-hurts-situation",
-      "summary": "The NFL will not punish the Eagles for how they handled the process surrounding quarterback Jalen Hurts being cleared to play Week 5 against the Jaguars, according to multiple reports.",
-      "published": "2026-10-20T23:25:30Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "JAX",
-        "PHI"
-      ]
-    },
-    {
-      "title": "NFL to increase security in Paris for Steelers-Saints game",
-      "url": "https://www.espn.com/nfl/story/_/id/50230791/nfl-increase-security-paris-steelers-saints-game",
-      "summary": "The NFL said security will be heightened for the game in Paris between the Steelers and Saints after civil unrest engulfed the French capital last weekend.",
-      "published": "2026-10-20T20:41:33Z",
-      "source": "ESPN NFL",
+      "title": "Eagles will not be punished for how team handled Jalen Hurts' blood clots situation, NFLPA responds",
+      "url": "https://www.cbssports.com/nfl/news/eagles-will-not-be-punished-jalen-hurts-blood-clots-situation/",
+      "summary": "The NFL concluded the process to clear Hurts for Week 5 in London was handled appropriately",
+      "published": "Wed, 21 Oct 2026 00:46:53 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "NO",
-        "PIT"
+        "PHI"
       ]
     },
     {
@@ -112,19 +335,6 @@
       "category": "game",
       "teams": [
         "NO"
-      ]
-    },
-    {
-      "title": "Eagles will not be punished for how team handled Jalen Hurts' blood clots situation, per report",
-      "url": "https://www.cbssports.com/nfl/news/eagles-will-not-be-punished-jalen-hurts-blood-clots-situation/",
-      "summary": "The NFL concluded the process to clear Hurts for Week 5 in London was handled appropriately",
-      "published": "Tue, 20 Oct 2026 20:54:56 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PHI"
       ]
     },
     {
@@ -539,6 +749,20 @@
       "category": "game",
       "teams": [
         "LA"
+      ]
+    },
+    {
+      "title": "49ers vs. Commanders prediction: Can San Francisco remain unbeaten? Full 'Monday Night Football' breakdown",
+      "url": "https://www.cbssports.com/nfl/news/49ers-vs-commanders-where-to-watch-tv-channel-odds-prediction/",
+      "summary": "San Francisco can improve to 6-0 and strengthen its NFC West lead, while Washington enters Levi's Stadium looking to pull off a sizable road upset",
+      "published": "Mon, 19 Oct 2026 21:16:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF",
+        "WAS"
       ]
     }
   ],
