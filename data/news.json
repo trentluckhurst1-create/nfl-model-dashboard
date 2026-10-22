@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-21T21:36:03.293415+00:00",
-  "checked_at_utc": "2026-10-21T21:36:03.293415+00:00",
+  "updated_at_utc": "2026-10-22T00:11:58.599001+00:00",
+  "checked_at_utc": "2026-10-22T00:11:58.599001+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 12,
+      "items": 10,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,24 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 19,
+      "items": 20,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Tom Brady's NFL Power Rankings: Are The Patriots The Best Non-Undefeated Team?",
+      "url": "https://www.foxsports.com/stories/nfl/tom-bradys-nfl-power-rankings-49ers-chiefs-vikings-patriots",
+      "summary": "The top three of Tom Brady's most recent power rankings was pretty simple. After that, things get tough as Brady threw a surprise in his most recent rankings.",
+      "published": "Wed, 21 Oct 2026 18:12:06 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE"
+      ]
+    },
     {
       "title": "Sammy\u2019s Sportsbook Whispers: Why UCLA Is The Best Betting Story Of The Season",
       "url": "https://www.foxsports.com/stories/college-football/sammys-sportsbook-whispers-ucla-bruins-best-betting-story-season",
@@ -223,7 +236,7 @@
       ]
     },
     {
-      "title": "NFL Trade Deadline: Who Are The 10 Best Players That Could Be Available?",
+      "title": "NFL Trade Deadline: Who Are 10 Of The Top Players That Could Be Available?",
       "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-best-available-players",
       "summary": "Who could be on the move ahead of the Nov. 10 trade deadline? Here are 10 of the best possible names.",
       "published": "Tue, 20 Oct 2026 19:54:25 -0400",
@@ -259,6 +272,87 @@
       "teams": []
     },
     {
+      "title": "Bucs QB Jalon Daniels swaps jerseys with idol, Steelers QB Aaron Rodgers",
+      "url": "https://www.espn.com/nfl/story/_/id/50242155/bucs-jalon-daniels-jersey-idol-steelers-aaron-rodgers",
+      "summary": "Following Pittsburgh's 26-19 overtime victory, Jalon Daniels left with a keepsake from his idol, Aaron Rodgers.",
+      "published": "2026-10-21T23:52:18Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PIT",
+        "TB"
+      ]
+    },
+    {
+      "title": "Packers' Josh Jacobs says he is trying to learn from 'mistake,' move forward",
+      "url": "https://www.espn.com/nfl/story/_/id/50242627/green-bay-packers-josh-jacobs-first-comments-arrest",
+      "summary": "Josh Jacobs, in his first comments since his arrest in May following an incident with a woman at his home, said he is trying to move forward from the \"mistake.\"",
+      "published": "2026-10-22T00:07:05Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "Cornell Green, 5-time Pro Bowl DB on Cowboys' Doomsday Defense, dies at 86",
+      "url": "https://www.espn.com/nfl/story/_/id/50242602/cornell-green-five-pro-bowl-db-cowboys-dies-86",
+      "summary": "Cornell Green, who never missed a game in 13 seasons while playing for the Cowboys from 1962-74, died at age 86.",
+      "published": "2026-10-22T00:05:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Kansas City Chiefs WR Xavier Worthy thriving in expanded role as Seahawks loom",
+      "url": "https://www.espn.com/nfl/story/_/id/50241533/chiefs-wr-xavier-worthy-expanded-role-offense",
+      "summary": "The Chiefs will likely need similar improved play -- or even better -- from Worthy in Sunday's showdown vs. Seattle.",
+      "published": "2026-10-22T00:03:44Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Broncos OLB Jonathon Cooper on absence due to arrests: 'No excuses'",
+      "url": "https://www.espn.com/nfl/story/_/id/50242318/broncos-olb-cooper-absence-due-arrests-no-excuses",
+      "summary": "Broncos OLB Jonathon Cooper, now off the exempt list following two arrests on domestic violence charges in June, said he holds himself accountable.",
+      "published": "2026-10-21T23:27:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN"
+      ]
+    },
+    {
+      "title": "Texans' Tank Dell says he won't fear being hit in return Sunday against Giants",
+      "url": "https://www.espn.com/nfl/story/_/id/50242240/texans-tank-dell-fear-being-hit-sunday-giants",
+      "summary": "Texans WR Tank Dell said he is \"ready to get tackled\" on Sunday when he returns for his first game since suffering a gruesome knee injury in December 2024.",
+      "published": "2026-10-21T23:17:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "HOU",
+        "NYG"
+      ]
+    },
+    {
       "title": "Ravens' Lamar Jackson returns to practice but status remains unclear vs. Bengals",
       "url": "https://www.espn.com/nfl/story/_/id/50241195/lamar-jackson-practice-unclear-vs-bengals-week-7",
       "summary": "After practice, Jackson was favoring his injured left ankle, walking into the team facility with a noticeable limp.",
@@ -276,7 +370,7 @@
       "title": "Panthers LB Jaelan Phillips (hamstring) set to miss Week 7 game vs. Bucs",
       "url": "https://www.espn.com/nfl/story/_/id/50241322/panthers-jaelan-phillips-set-miss-week-7-game-vs-buccaneers-hamstring-injury",
       "summary": "Panthers coach Dave Canales said the team is preparing to host the Buccaneers on Sunday without top outside linebacker Jaelan Phillips.",
-      "published": "2026-10-21T20:57:34Z",
+      "published": "2026-10-21T22:35:58Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -312,114 +406,6 @@
       "teams": [
         "CHI",
         "NE"
-      ]
-    },
-    {
-      "title": "Chiefs mourn Allen Bailey after former NFL player found dead at age 37",
-      "url": "https://www.espn.com/nfl/story/_/id/50240343/allen-bailey-former-nfl-player-found-dead-age-37",
-      "summary": "Allen Bailey, a former NFL player who spent the majority of his 10-year career with the Chiefs, has died at age 37.",
-      "published": "2026-10-21T19:19:34Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC"
-      ]
-    },
-    {
-      "title": "Raheem Morris is back in Atlanta -- and he's bringing his surging 49ers defense",
-      "url": "https://www.espn.com/nfl/story/_/id/50238009/san-francisco-49ers-raheem-morris-atlanta-falcons-return",
-      "summary": "Raheem Morris is returning to Atlanta for the first time since being fired as head coach. And his tenure as the 49ers' defensive coordinator is off to an amazing start.",
-      "published": "2026-10-21T19:03:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Patriots' Alijah Vera-Tucker, Ben Brown ruled out vs. Bears",
-      "url": "https://www.espn.com/nfl/story/_/id/50240235/patriots-alijah-vera-tucker-ben-brown-ruled-vs-bears",
-      "summary": "The Patriots will be without starting guards Alijah Vera-Tucker and Ben Brown for Thursday's game against the Bears due to injuries, coach Mike Vrabel said.",
-      "published": "2026-10-21T19:56:08Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "NE"
-      ]
-    },
-    {
-      "title": "It's Drake Maye versus Caleb Williams as the New England Patriots visit the Chicago Bears",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873010",
-      "summary": "\u2014 Caleb Williams and Drake Maye have known each other for years. They were part of the same draft class, and they grew up going to the same football camps.",
-      "published": "2026-10-21T18:37:10Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "NE"
-      ]
-    },
-    {
-      "title": "Sam LaPorta not feeling contract 'love' from Lions ahead of 2027 free agency",
-      "url": "https://www.espn.com/nfl/story/_/id/50240100/sam-laporta-extension-not-feeling-love-lions",
-      "summary": "Tight end Sam LaPorta, who will be a free agent after the season, expressed some frustration that the Lions are \"not showing the love\" and indicated he would be OK with playing elsewhere in 2027.",
-      "published": "2026-10-21T19:22:14Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "Jameis Winston vs. J.J. McCarthy: Pros and cons of Giants' QBs",
-      "url": "https://www.espn.com/nfl/story/_/id/50219771/jameis-winston-jj-mccarthy-qb-pros-cons-new-york-giants",
-      "summary": "Coach John Harbaugh must weigh the options in his QB conundrum, with two players who could start at Houston.",
-      "published": "2026-10-21T18:27:08Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Goodell defends Giants' Tisch, 49ers' York attending NFL's fall meeting",
-      "url": "https://www.espn.com/nfl/story/_/id/50239882/goodell-defends-tisch-york-attending-nfl-fall-meeting",
-      "summary": "NFL commissioner Roger Goodell defended the presence of the Giants' Steve Tisch and 49ers' Jed York at the NFL's two-day annual fall meeting.",
-      "published": "2026-10-21T18:03:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "SF"
-      ]
-    },
-    {
-      "title": "Goodell comfortable with security for NFL's Paris game",
-      "url": "https://www.espn.com/nfl/story/_/id/50239811/goodell-comfortable-security-nfl-paris-game",
-      "summary": "NFL commissioner Roger Goodell said Wednesday he has a high comfort level in the Saints and Steelers safely playing in Paris on Sunday in light of the civil unrest in the city.",
-      "published": "2026-10-21T17:59:35Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NO",
-        "PIT"
       ]
     },
     {
@@ -494,7 +480,7 @@
       "title": "Who will be NFL's last undefeated team? Evaluating odds, schedules for 49ers, Vikings and Chiefs",
       "url": "https://www.cbssports.com/betting/news/who-will-be-nfls-last-undefeated-team-evaluating-odds-schedules-for-49ers-vikings-and-chiefs/",
       "summary": "A Week 8 bye gives San Francisco a massive mathematical edge, while tricky road tests await Kansas City in Seattle and Minnesota down the stretch",
-      "published": "Wed, 21 Oct 2026 18:05:26 +0000",
+      "published": "Wed, 21 Oct 2026 21:41:59 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -635,6 +621,21 @@
       ]
     },
     {
+      "title": "NFL Week 7 picks, odds: Vikings and Chiefs stay undefeated, while Cardinals pull off another upset",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-picks-against-the-spread-vikings-bengals-jets/",
+      "summary": "Tyler Sullivan picks every game on the Week 7 schedule, including five locks against the spread",
+      "published": "Wed, 21 Oct 2026 12:07:00 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "KC",
+        "MIN"
+      ]
+    },
+    {
       "title": "Who will win the NFC East: Panel of experts states case for each team",
       "url": "https://www.cbssports.com/nfl/news/nfc-east-standings-2026-giants-cowboys-eagles-commanders-week-7/",
       "summary": "The Giants currently sit atop the NFC East, but the Cowboys, Commanders and Eagles all have arguments for emerging from the NFL's most chaotic division race",
@@ -648,21 +649,6 @@
         "NYG",
         "PHI",
         "WAS"
-      ]
-    },
-    {
-      "title": "NFL Week 7 picks, odds: Vikings and Chiefs stay undefeated, while Cardinals pull off another upset",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-picks-against-the-spread-vikings-bengals-jets/",
-      "summary": "Tyler Sullivan picks every game on the Week 7 schedule, including five locks against the spread",
-      "published": "Wed, 21 Oct 2026 12:07:00 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "KC",
-        "MIN"
       ]
     },
     {
