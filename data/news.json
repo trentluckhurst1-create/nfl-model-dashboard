@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-22T09:52:13.471121+00:00",
-  "checked_at_utc": "2026-10-22T09:52:13.471121+00:00",
+  "updated_at_utc": "2026-10-22T14:48:44.695760+00:00",
+  "checked_at_utc": "2026-10-22T14:48:44.695760+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 27,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 36
+      "items": 31
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,55 @@
     }
   },
   "items": [
+    {
+      "title": "2027 NFL Draft No. 1 Pick Odds: Jeremiah Smith Favored, Arch Manning Plummets",
+      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
+      "summary": "Arch Manning was favored to go No. 1 overall for most of the season, but not anymore. See how far he\u2019s fallen down the oddsboard.",
+      "published": "Thu, 22 Oct 2026 09:48:19 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Fact Or Fiction: Bills Overrated? Rams Are Frauds? A Chiefs-49ers Super Bowl?",
+      "url": "https://www.foxsports.com/stories/nfl/bills-overrated-rams-frauds-chiefs-49ers-super-bowl-bound",
+      "summary": "We dive into your Week 6 hot takes, putting Bills skepticism, Rams fraudulence and a certain Super Bowl matchup to the test.",
+      "published": "Thu, 22 Oct 2026 09:38:01 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "KC",
+        "LA",
+        "SF"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-7-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every Week 7 matchup in the NFL.",
+      "published": "Thu, 22 Oct 2026 08:38:16 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "How Texas QB Arch Manning Fell From Projected No. 1 Pick To Potential Benching",
+      "url": "https://www.foxsports.com/stories/nfl/how-texas-qb-arch-manning-fell-from-projected-no-1-pick-potential-benching",
+      "summary": "A deep dive into Arch Manning's college tape elucidates how he's struggling and why his NFL draft stock might be tumbling.",
+      "published": "Thu, 22 Oct 2026 08:00:29 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
     {
       "title": "NFL Awards Ballot: Can Josh Allen Run His Way To MVP? Will Kenneth Walker Buck Trend?",
       "url": "https://www.foxsports.com/stories/nfl/nfl-awards-ballot-mvp-candidates-josh-allen-brock-purdy-patrick-mahomes-kenneth-walker",
@@ -199,17 +248,6 @@
       "teams": []
     },
     {
-      "title": "2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-7-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 7 matchup in the NFL.",
-      "published": "Wed, 21 Oct 2026 13:48:44 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Roger Goodell Explains Why He's 'Comfortable' With Eagles' Handling Of Jalen Hurts",
       "url": "https://www.foxsports.com/stories/nfl/nfl-roger-goodell-jalen-hurts-update-eagles-medical-staff",
       "summary": "NFL Commissioner Roger Goodell says the league welcomes an investigation into the Philadelphia Eagles' handling of Jalen Hurts' blood clots.",
@@ -299,48 +337,24 @@
       "teams": []
     },
     {
-      "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Miss The Playoffs?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-to-miss-playoffs",
-      "summary": "Somehow, the Rams \u2014 with a top-five defense and top-five offense \u2014 are now favored to miss the playoffs. See the latest odds.",
-      "published": "Tue, 20 Oct 2026 20:31:45 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Sources: Eagles RB Barkley (hamstring) expected to practice, play vs. Cowboys",
+      "url": "https://www.espn.com/nfl/story/_/id/50248869/sources-eagles-barkley-expected-practice-play-vs-cowboys",
+      "summary": "Eagles RB Saquon Barkley is expected to return to practice Thursday and is in line to play Monday against the Cowboys, sources told NFL Network's Mike Garafolo.",
+      "published": "2026-10-22T14:18:04Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "injury",
       "teams": [
-        "LA"
+        "DAL",
+        "PHI"
       ]
     },
     {
-      "title": "NFL Trade Deadline: Who Are 10 Of The Top Players That Could Be Available?",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-best-available-players",
-      "summary": "Who could be on the move ahead of the Nov. 10 trade deadline? Here are 10 of the best possible names.",
-      "published": "Tue, 20 Oct 2026 19:54:25 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Upon Further Review: Just How Off We Were On Rams, Chargers; Ashton Jeanty A Bust?",
-      "url": "https://www.foxsports.com/stories/nfl/upon-further-review-just-how-off-we-were-rams-chargers-ashton-jeanty-bust",
-      "summary": "How were we so wrong in expecting big things from Los Angeles teams this year? And how long before you can say Ashton Jeanty isn't very good?",
-      "published": "Tue, 20 Oct 2026 19:53:46 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Report: $250K fines for Sirianni, Vrabel, Glenn temporarily on hold",
-      "url": "https://www.espn.com/nfl/story/_/id/50244013/sirianni-vrabel-glenn-fined-250k-ref-conduct",
-      "summary": "Nick Sirianni was fined $250,000 for conduct toward officials, a source said, confirming an SI report that noted Mike Vrabel and Aaron Glenn were similarly fined.",
-      "published": "2026-10-22T04:45:46Z",
+      "title": "JJ Watt lands new deal as full-time CBS lead analyst replacement for Tony Romo",
+      "url": "https://www.espn.com/nfl/story/_/id/50248820/jj-watt-gets-deal-full-cbs-replacement-tony-romo",
+      "summary": "J.J. Watt will be the full-time lead NFL game analyst for CBS Sports, filling the role previously held by Tony Romo.",
+      "published": "2026-10-22T14:35:29Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -348,65 +362,121 @@
       "teams": []
     },
     {
-      "title": "Bucs QB Jalon Daniels swaps jerseys with idol, Steelers QB Aaron Rodgers",
-      "url": "https://www.espn.com/nfl/story/_/id/50242155/bucs-jalon-daniels-jersey-idol-steelers-aaron-rodgers",
-      "summary": "Following Pittsburgh's 26-19 overtime victory, Jalon Daniels left with a keepsake from his idol, Aaron Rodgers.",
-      "published": "2026-10-21T23:52:18Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "PIT",
-        "TB"
-      ]
-    },
-    {
-      "title": "Packers' Josh Jacobs says he is trying to learn from 'mistake,' move forward",
-      "url": "https://www.espn.com/nfl/story/_/id/50242627/green-bay-packers-josh-jacobs-first-comments-arrest",
-      "summary": "Josh Jacobs, in his first comments since his arrest in May following an incident with a woman at his home, said he is trying to move forward from the \"mistake.\"",
-      "published": "2026-10-22T00:55:35Z",
-      "source": "ESPN NFL",
+      "title": "CBS Sports names future Hall of Famer J.J. Watt lead analyst for the 'NFL ON CBS'",
+      "url": "https://www.cbssports.com/nfl/news/cbs-sports-names-j-j-watt-lead-analyst-nfl-on-cbs/",
+      "summary": "Watt began calling games with Jim Nantz and Tracy Wolfson at the start of the 2026 season",
+      "published": "Thu, 22 Oct 2026 14:16:45 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": [
-        "GB"
-      ]
+      "teams": []
     },
     {
-      "title": "Cornell Green, 5-time Pro Bowl DB on Cowboys' Doomsday Defense, dies at 86",
-      "url": "https://www.espn.com/nfl/story/_/id/50242602/cornell-green-five-pro-bowl-db-cowboys-dies-86",
-      "summary": "Cornell Green, who never missed a game in 13 seasons while playing for the Cowboys from 1962-74, died at age 86.",
-      "published": "2026-10-22T01:41:38Z",
-      "source": "ESPN NFL",
+      "title": "Week 7 NFL score predictions, odds, picks, betting advice: Proven model reveals projections for every game",
+      "url": "https://www.cbssports.com/betting/news/week-7-nfl-score-predictions-odds-picks-betting-advice-proven-model-reveals-projections-for-every-game/",
+      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model for Week 7",
+      "published": "Thu, 22 Oct 2026 14:01:04 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": [
-        "DAL"
-      ]
+      "teams": []
     },
     {
-      "title": "Kansas City Chiefs WR Xavier Worthy thriving in expanded role as Seahawks loom",
-      "url": "https://www.espn.com/nfl/story/_/id/50241533/chiefs-wr-xavier-worthy-expanded-role-offense",
-      "summary": "The Chiefs will likely need similar improved play -- or even better -- from Worthy in Sunday's showdown vs. Seattle.",
-      "published": "2026-10-22T00:03:44Z",
-      "source": "ESPN NFL",
+      "title": "Are Chiefs, 49ers on collision course for third Super Bowl meeting? Here are teams that could stop them",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-49ers-collision-course-super-bowl-brock-purdy-patrick-mahomes/",
+      "summary": "Kansas City beat San Francisco in 2020 and 2024",
+      "published": "Thu, 22 Oct 2026 13:47:43 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
         "KC",
-        "SEA"
+        "SF"
       ]
     },
     {
-      "title": "Broncos OLB Jonathon Cooper on absence due to arrests: 'No excuses'",
-      "url": "https://www.espn.com/nfl/story/_/id/50242318/broncos-olb-cooper-absence-due-arrests-no-excuses",
-      "summary": "Broncos OLB Jonathon Cooper, now off the exempt list following two arrests on domestic violence charges in June, said he holds himself accountable.",
-      "published": "2026-10-22T00:14:12Z",
-      "source": "ESPN NFL",
+      "title": "NFL punishes Patriots, Eagles and Jets head coaches with near-record fines, per report",
+      "url": "https://www.cbssports.com/nfl/news/nfl-punishes-patriots-eagles-jets-head-coaches-record-fines/",
+      "summary": "Mike Vrabel, Nick Sirianni and Aaron Glenn will be taking a massive hit to their bank account",
+      "published": "Thu, 22 Oct 2026 13:01:56 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE",
+        "NYJ",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Bears vs. Patriots: How to watch as Chicago aims to stop Drake Maye's hot streak on 'TNF'",
+      "url": "https://www.cbssports.com/nfl/news/bears-vs-patriots-how-to-watch-odds-preview-prediction/",
+      "summary": "Here's how to watch, what to know, and an expert prediction before the Pats and Bears face off in Chicago",
+      "published": "Thu, 22 Oct 2026 14:29:23 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "NE"
+      ]
+    },
+    {
+      "title": "Prisco's NFL Week 7 picks ahead of Patriots vs. Bears; Dream take WNBA Finals lead on Valkyries",
+      "url": "https://www.cbssports.com/nfl/news/prisco-nfl-picks-patriots-bears-dream-wnba-finals-valkyries/",
+      "summary": "Plus, the Giants have announced J.J. McCarthy as their new starting quarterback",
+      "published": "Thu, 22 Oct 2026 12:39:48 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI",
+        "NE",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Titans release DT Jordan Elliott after incident with firearm at team facility",
+      "url": "https://www.cbssports.com/nfl/news/titans-release-jordan-elliott-after-incident/",
+      "summary": "The veteran defensive tackle appeared in five games this season after following Robert Saleh to Tennessee from San Francisco",
+      "published": "Thu, 22 Oct 2026 12:38:32 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "SF",
+        "TEN"
+      ]
+    },
+    {
+      "title": "5 most important games for playoff races in Week 7: Ravens-Bengals has huge implications",
+      "url": "https://www.cbssports.com/nfl/news/5-most-important-games-playoff-races-week-7/",
+      "summary": "Plus, the 'TNF' showdown between the Bears and the Patriots is big",
+      "published": "Thu, 22 Oct 2026 14:21:45 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CHI",
+        "CIN",
+        "NE"
+      ]
+    },
+    {
+      "title": "It wouldn't shock me IF ... NFL Week 7: Broncos bench Bo Nix, Kenneth Walker III has muted return to Seattle",
+      "url": "https://www.cbssports.com/nfl/news/it-wouldnt-shock-me-if-nfl-week-7-bold-predictions-bo-nix/",
+      "summary": "Could Aaron Glenn finally get a divisional win? How will JJ McCarthy fare?",
+      "published": "Thu, 22 Oct 2026 12:04:36 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -415,107 +485,11 @@
       ]
     },
     {
-      "title": "Texans' Tank Dell says he won't fear being hit in return Sunday against Giants",
-      "url": "https://www.espn.com/nfl/story/_/id/50242240/texans-tank-dell-fear-being-hit-sunday-giants",
-      "summary": "Texans WR Tank Dell said he is \"ready to get tackled\" on Sunday when he returns for his first game since suffering a gruesome knee injury in December 2024.",
-      "published": "2026-10-21T23:17:11Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "HOU",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Ravens' Lamar Jackson returns to practice but status remains unclear vs. Bengals",
-      "url": "https://www.espn.com/nfl/story/_/id/50241195/lamar-jackson-practice-unclear-vs-bengals-week-7",
-      "summary": "After practice, Jackson was favoring his injured left ankle, walking into the team facility with a noticeable limp.",
-      "published": "2026-10-21T20:54:38Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "CIN"
-      ]
-    },
-    {
-      "title": "Panthers LB Jaelan Phillips (hamstring) set to miss Week 7 game vs. Bucs",
-      "url": "https://www.espn.com/nfl/story/_/id/50241322/panthers-jaelan-phillips-set-miss-week-7-game-vs-buccaneers-hamstring-injury",
-      "summary": "Panthers coach Dave Canales said the team is preparing to host the Buccaneers on Sunday without top outside linebacker Jaelan Phillips.",
-      "published": "2026-10-21T22:35:58Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "TB"
-      ]
-    },
-    {
-      "title": "Bears RB Kyle Monangai (toe, thumb) out Thursday vs. Patriots",
-      "url": "https://www.espn.com/nfl/story/_/id/50240756/bears-rb-kyle-monangai-toe-thumb-thursday-vs-patriots",
-      "summary": "The Bears have ruled RB Kyle Monangai out for Thursday night's matchup against the Patriots with lingering toe and thumb injuries.",
-      "published": "2026-10-21T20:07:47Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "NE"
-      ]
-    },
-    {
-      "title": "Chiefs mourn Allen Bailey after former NFL player found dead at age 37",
-      "url": "https://www.espn.com/nfl/story/_/id/50240343/allen-bailey-former-nfl-player-found-dead-age-37",
-      "summary": "Allen Bailey, a former NFL player who spent the majority of his 10-year career with the Chiefs, has died at age 37.",
-      "published": "2026-10-21T19:19:34Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC"
-      ]
-    },
-    {
-      "title": "Raheem Morris is back in Atlanta -- and he's bringing his surging 49ers defense",
-      "url": "https://www.espn.com/nfl/story/_/id/50238009/san-francisco-49ers-raheem-morris-atlanta-falcons-return",
-      "summary": "Raheem Morris is returning to Atlanta for the first time since being fired as head coach. And his tenure as the 49ers' defensive coordinator is off to an amazing start.",
-      "published": "2026-10-21T19:03:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Patriots' Alijah Vera-Tucker, Ben Brown ruled out vs. Bears",
-      "url": "https://www.espn.com/nfl/story/_/id/50240235/patriots-alijah-vera-tucker-ben-brown-ruled-vs-bears",
-      "summary": "The Patriots will be without starting guards Alijah Vera-Tucker and Ben Brown for Thursday's game against the Bears due to injuries, coach Mike Vrabel said.",
-      "published": "2026-10-21T19:56:08Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "NE"
-      ]
-    },
-    {
-      "title": "It's Drake Maye versus Caleb Williams as the New England Patriots visit the Chicago Bears",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873010",
-      "summary": "\u2014 Caleb Williams and Drake Maye have known each other for years. They were part of the same draft class, and they grew up going to the same football camps.",
-      "published": "2026-10-21T18:37:10Z",
-      "source": "ESPN NFL",
+      "title": "Week 7 NFL betting promos: Get over $3,000 in bonuses from online betting apps, sportsbooks for Bears-Patriots",
+      "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-promos-get-over-3000-in-bonuses-from-online-betting-apps-sportsbooks-bears-patriots/",
+      "summary": "Top Week 7 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Thu, 22 Oct 2026 12:04:26 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -525,177 +499,63 @@
       ]
     },
     {
-      "title": "Sam LaPorta not feeling contract 'love' from Lions ahead of 2027 free agency",
-      "url": "https://www.espn.com/nfl/story/_/id/50240100/sam-laporta-extension-not-feeling-love-lions",
-      "summary": "Tight end Sam LaPorta, who will be a free agent after the season, expressed some frustration that the Lions are \"not showing the love\" and indicated he would be OK with playing elsewhere in 2027.",
-      "published": "2026-10-21T19:22:14Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "Jameis Winston vs. J.J. McCarthy: Pros and cons of Giants' QBs",
-      "url": "https://www.espn.com/nfl/story/_/id/50219771/jameis-winston-jj-mccarthy-qb-pros-cons-new-york-giants",
-      "summary": "Coach John Harbaugh must weigh the options in his QB conundrum, with two players who could start at Houston.",
-      "published": "2026-10-21T18:27:08Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Goodell defends Giants' Tisch, 49ers' York attending NFL's fall meeting",
-      "url": "https://www.espn.com/nfl/story/_/id/50239882/goodell-defends-tisch-york-attending-nfl-fall-meeting",
-      "summary": "NFL commissioner Roger Goodell defended the presence of the Giants' Steve Tisch and 49ers' Jed York at the NFL's two-day annual fall meeting.",
-      "published": "2026-10-21T18:03:46Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 7 picks: Our experts face off on Patriots at Bears, Cowboys at Eagles and more",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-picks-experts-patriots-bears-cowboys-eagles/",
+      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
+      "published": "Thu, 22 Oct 2026 12:03:48 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "NYG",
-        "SF"
-      ]
-    },
-    {
-      "title": "Goodell comfortable with security for NFL's Paris game",
-      "url": "https://www.espn.com/nfl/story/_/id/50239811/goodell-comfortable-security-nfl-paris-game",
-      "summary": "NFL commissioner Roger Goodell said Wednesday he has a high comfort level in the Saints and Steelers safely playing in Paris on Sunday in light of the civil unrest in the city.",
-      "published": "2026-10-21T17:59:35Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NO",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Goodell says NFL welcomes investigation into Eagles QB Hurts' medical care",
-      "url": "https://www.espn.com/nfl/story/_/id/50239029/roger-goodell-nfl-welcomes-probe-hurts-medical-care",
-      "summary": "NFL commissioner Roger Goodell said Wednesday that the league welcomes an investigation into the Eagles' handling of Jalen Hurts' blood clots.",
-      "published": "2026-10-21T22:12:14Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
+        "CHI",
+        "DAL",
+        "NE",
         "PHI"
       ]
     },
     {
-      "title": "Why the Bills have been historically good, and bad, through six weeks",
-      "url": "https://www.espn.com/nfl/story/_/id/50230871/bills-qb-josh-allen-good-bad-bye",
-      "summary": "As Buffalo heads into its Week 7 bye, quarterback Josh Allen and the offense have thrived, while the defense has not.",
-      "published": "2026-10-21T16:43:11Z",
-      "source": "ESPN NFL",
+      "title": "Bears vs. Patriots odds, prediction, betting preview, start time: Thursday Night Football picks, best bets",
+      "url": "https://www.cbssports.com/betting/news/bears-patriots-odds-prediction-betting-preview-start-time-thursday-night-football-picks-best-bets/",
+      "summary": "Best bets and betting preview for Patriots vs. Bears on Thursday Night Football",
+      "published": "Thu, 22 Oct 2026 11:38:25 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": [
-        "BUF"
+        "CHI",
+        "NE"
       ]
     },
     {
-      "title": "Giants turning to J.J. McCarthy as QB1 this weekend against Texans",
-      "url": "https://www.espn.com/nfl/story/_/id/50238746/giants-start-jj-mccarthy-qb-week",
-      "summary": "The Giants plan to start J.J. McCarthy at quarterback this week against the Texans.",
-      "published": "2026-10-21T22:28:43Z",
-      "source": "ESPN NFL",
+      "title": "Super Bowl stock report for Week 7: Caleb Williams puts Bears back in contention, Rams devolve into disaster",
+      "url": "https://www.cbssports.com/nfl/news/super-bowl-61-stock-report-nfl-week-bears-rams/",
+      "summary": "We assess the NFL title race after Week 6 and identify three upcoming games that could reshape the Super Bowl picture",
+      "published": "Thu, 22 Oct 2026 11:00:52 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": [
+        "CHI",
+        "LA"
+      ]
+    },
+    {
+      "title": "NFL Week 7 upset alert: Can Giants upset Texans with JJ McCarthy at QB? Can Falcons beat 49ers?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-upset-alert-why-five-favorites-could-fall-texans-49ers-seahawks/",
+      "summary": "Baltimore and Denver are two other teams firmly at risk of being upset",
+      "published": "Thu, 22 Oct 2026 10:00:46 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
         "HOU",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Titans' Robert Saleh defends Jordan Elliott: Gun incident was not 'criminal act'",
-      "url": "https://www.espn.com/nfl/story/_/id/50238315/source-jordan-elliott-attempted-retrieve-gun-car",
-      "summary": "Titans coach Robert Saleh defended Jordan Elliott's character and said that last week's gun-related incident was \"a call for help more than a criminal act.\"",
-      "published": "2026-10-21T19:33:48Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "TEN"
-      ]
-    },
-    {
-      "title": "Saints GM Mickey Loomis asks for patience with 'young developing team'",
-      "url": "https://www.espn.com/nfl/story/_/id/50237982/saints-gm-loomis-asks-patience-young-developing-team",
-      "summary": "Saints general manager Mickey Loomis said he understands the recent criticism from owner Gayle Benson but asked for patience with what he called a \"young developing team.\"",
-      "published": "2026-10-21T15:09:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NO"
-      ]
-    },
-    {
-      "title": "Bills' Sam Franklin suspended one game for spitting; appealing, per sources",
-      "url": "https://www.espn.com/nfl/story/_/id/50237503/bills-sam-franklin-suspended-spitting-appeal",
-      "summary": "Bills defensive back Sam Franklin Jr. was suspended one game for unsportsmanlike conduct that the league said was a spitting incident against the Raiders.",
-      "published": "2026-10-21T18:17:50Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "LV"
-      ]
-    },
-    {
-      "title": "NFL Week 7 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-      "url": "https://www.espn.com/nfl/story/_/id/50228657/week-7-buzz-fantasy-predictions-graziano-fowler-2026",
-      "summary": "Will the Seahawks stick with Sam Darnold past this season? Could Vita Vea get trade interest? What's next for the NFC East teams? And could the Colts make more changes?",
-      "published": "2026-10-21T16:06:52Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Cowboys' season looks bleak but schedule offers some hope",
-      "url": "https://www.espn.com/nfl/story/_/id/50229188/dallas-cowboys-dak-prescott-season-looks-bleak",
-      "summary": "Cowboys players and coaches are focused on a stretch of games versus teams that are struggling just like them.",
-      "published": "2026-10-21T13:41:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "The case for (and against) the Colts keeping Shane Steichen",
-      "url": "https://www.espn.com/nfl/story/_/id/50229437/colts-shane-steichen-daniel-jones-anthony-richardson",
-      "summary": "With GM Chris Ballard gone, can Steichen avoid following him out the door?",
-      "published": "2026-10-21T12:29:36Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND"
+        "NYG",
+        "SF"
       ]
     },
     {
@@ -806,20 +666,6 @@
         "KC",
         "MIN",
         "SF"
-      ]
-    },
-    {
-      "title": "Titans release DT Jordan Elliott after incident with firearm at team facility, per report",
-      "url": "https://www.cbssports.com/nfl/news/titans-release-jordan-elliott-after-incident/",
-      "summary": "The veteran defensive tackle appeared in five games this season after following Robert Saleh to Tennessee from San Francisco",
-      "published": "Wed, 21 Oct 2026 17:31:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "SF",
-        "TEN"
       ]
     },
     {
@@ -935,242 +781,6 @@
       "category": "game",
       "teams": [
         "PHI"
-      ]
-    },
-    {
-      "title": "NFL Week 7 picks, odds: Vikings and Chiefs stay undefeated, while Cardinals pull off another upset",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-picks-against-the-spread-vikings-bengals-jets/",
-      "summary": "Tyler Sullivan picks every game on the Week 7 schedule, including five locks against the spread",
-      "published": "Wed, 21 Oct 2026 12:07:00 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "KC",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Who will win the NFC East: Panel of experts states case for each team",
-      "url": "https://www.cbssports.com/nfl/news/nfc-east-standings-2026-giants-cowboys-eagles-commanders-week-7/",
-      "summary": "The Giants currently sit atop the NFC East, but the Cowboys, Commanders and Eagles all have arguments for emerging from the NFL's most chaotic division race",
-      "published": "Wed, 21 Oct 2026 14:46:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "NYG",
-        "PHI",
-        "WAS"
-      ]
-    },
-    {
-      "title": "2026 NFL Quarterback Power Rankings, Week 7: Brock Purdy holds No. 1 as Josh Allen rises",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-qb-power-rankings-week-7-brock-purdy-josh-allen/",
-      "summary": "Brock Purdy keeps the top spot, Patrick Mahomes out of the top three and a resurgent C.J. Stroud makes the week's biggest leap",
-      "published": "Wed, 21 Oct 2026 18:10:06 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Prisco's Week 7 NFL picks: Patriots upset Bears, Lions edge Packers",
-      "url": "https://www.cbssports.com/nfl/news/priscos-week-7-nfl-picks-odds-expert-picks-upsets/",
-      "summary": "Pete Prisco reveals all of his Week 7 picks, including the Chiefs over the Seahawks in Kenneth Walker's revenge game",
-      "published": "Wed, 21 Oct 2026 10:00:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "DET",
-        "GB",
-        "KC",
-        "NE",
-        "SEA"
-      ]
-    },
-    {
-      "title": "NFL, Saints address plans for Paris game during Week 6 as protests escalate in France",
-      "url": "https://www.cbssports.com/nfl/news/nfl-saints-address-paris-game-plans-week-6-protests/",
-      "summary": "The league says its continuing with its original plans and monitoring the situation",
-      "published": "Tue, 20 Oct 2026 22:26:16 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NO"
-      ]
-    },
-    {
-      "title": "Lions expect Kerby Joseph to play in 2026, Brian Branch nears return: Can Detroit defense turn a corner?",
-      "url": "https://www.cbssports.com/nfl/news/lions-kerby-joseph-brian-branch-can-detroit-defense-turn-corner/",
-      "summary": "With a healthy safety tandem, the Lions might be in for a defensive renaissance",
-      "published": "Tue, 20 Oct 2026 19:58:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "Commanders' Terry McLaurin out for the season after knee injury on 'MNF'",
-      "url": "https://www.cbssports.com/nfl/news/commanders-terry-mclaurin-knee-injury-monday-night-football/",
-      "summary": "McLaurin suffered a torn patellar tendon in Washington's loss vs. the 49ers",
-      "published": "Tue, 20 Oct 2026 19:26:55 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SF",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Mr. Irrelevant to Mr. Efficient: How Brock Purdy became NFL's all-time passer rating king",
-      "url": "https://www.cbssports.com/nfl/news/mr-irrelevant-to-mr-efficient-brock-purdy-nfls-all-time-passer-rating/",
-      "summary": "A former seventh-round draft pick is now the greatest per-throw passer in league history",
-      "published": "Tue, 20 Oct 2026 18:39:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Are the Rams cooked? A look at why Sean McVay's team is so disappointing, and if they can bounce back",
-      "url": "https://www.cbssports.com/nfl/news/inside-look-at-why-rams-are-so-disappointing/",
-      "summary": "A disastrous special teams unit, Matthew Stafford's missing deep ball and a flurry of key injuries have sent the preseason Super Bowl favorites spiraling to a 2-4 start",
-      "published": "Tue, 20 Oct 2026 18:26:41 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "Jalen Hurts blood clot diagnosis timeline: Where the situation started, how it developed and what now",
-      "url": "https://www.cbssports.com/nfl/news/jalen-hurts-blood-clot-timeline-what-to-know/",
-      "summary": "A look at everything that's happened with Hurts' health",
-      "published": "Tue, 20 Oct 2026 18:22:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Rams QB Matthew Stafford on verge of tying NFL record for most losses ever by a quarterback",
-      "url": "https://www.cbssports.com/nfl/news/rams-matthew-stafford-verge-tying-nfl-record-most-qb-losses/",
-      "summary": "While it's not a record Stafford likely wants to hold, it does show he's been solid enough to stick around this long",
-      "published": "Tue, 20 Oct 2026 18:21:20 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "What is the 'Peanut Punch' showing up across NFL? Why it's changing how defenses attack the football",
-      "url": "https://www.cbssports.com/nfl/news/what-is-the-peanut-punch-nfl-football/",
-      "summary": "What was once a novelty is now a tool every defensive player uses",
-      "published": "Tue, 20 Oct 2026 17:57:40 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Jim Nantz says viral 'Peanut Punch' sparked calls from Josh Allen and a former U.S. President",
-      "url": "https://www.cbssports.com/nfl/news/jim-nantz-viral-peanut-punch-sparked-calls-josh-allen-u-s-president/",
-      "summary": "Nantz had some notable names checking in on him after the viral punch-out attempt in Week 6",
-      "published": "Tue, 20 Oct 2026 17:47:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Giants release Najee Harris days after criticizing New York's running back rotation",
-      "url": "https://www.cbssports.com/nfl/news/giants-release-najee-harris-critical-of-coaching/",
-      "summary": "The move comes right after the veteran voiced frustration over his limited role and a crowded backfield rotation in Week 6",
-      "published": "Tue, 20 Oct 2026 15:30:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Mike Evans injury update: WR avoids long-term injury, but how will 49ers fare if he misses time?",
-      "url": "https://www.cbssports.com/nfl/news/mike-evans-injury-update-achilles-49ers/",
-      "summary": "The 49ers' offense struggled mightily in Evans' second-half absence against the Commanders",
-      "published": "Tue, 20 Oct 2026 15:12:21 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SF",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Dan Quinn denies confusion after viral fourth-down clip in Commanders loss to 49ers",
-      "url": "https://www.cbssports.com/nfl/news/dan-quinn-viral-fourth-down-clip-commanders-vs-49ers/",
-      "summary": "Broadcast cameras appeared to catch Washington's head coach surprised by a turnover on downs against the 49ers, but he insists he was just fielding a question from his staff",
-      "published": "Tue, 20 Oct 2026 13:12:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SF",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Grading and ranking NFL first-year head coaches in new places after Week 6",
-      "url": "https://www.cbssports.com/nfl/news/grading-ranking-nfl-first-year-head-coaches/",
-      "summary": "How the league's 10 new head coaches rank through the first third of the 2026 regular season",
-      "published": "Tue, 20 Oct 2026 19:03:29 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "6-0 Niners survive Commanders' late charge; Rays reach World Series; Reese lights up WNBA Finals",
-      "url": "https://www.cbssports.com/nfl/news/49ers-commanders-nfl-rays-world-series-mlb-reese-wnba-finals/",
-      "summary": "Plus, our 2026-27 NBA season predictions are in as the season tips off today",
-      "published": "Tue, 20 Oct 2026 12:53:40 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SF",
-        "WAS"
       ]
     }
   ],
