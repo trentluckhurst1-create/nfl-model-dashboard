@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3",
   "status": "PARTIAL",
-  "updated_at_utc": "2026-10-22T01:49:02.225926+00:00",
+  "updated_at_utc": "2026-10-22T07:56:00.688293+00:00",
   "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
   "coverage": {
     "rosters": 32,
@@ -49,7 +49,7 @@
   ],
   "teams": {
     "ARI": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4373626",
@@ -738,7 +738,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/22/depthcharts"
     },
     "ATL": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4568510",
@@ -1387,7 +1387,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/1/depthcharts"
     },
     "BAL": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4690013",
@@ -2020,7 +2020,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/33/depthcharts"
     },
     "BUF": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "3918298",
@@ -2307,7 +2307,7 @@
           "name": "Sam Franklin Jr.",
           "position": "S",
           "jersey": "28",
-          "status": "Active",
+          "status": "News",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044133.png"
         },
         {
@@ -2621,7 +2621,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/2/depthcharts"
     },
     "CAR": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4576075",
@@ -3254,7 +3254,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/29/depthcharts"
     },
     "CHI": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4434153",
@@ -3919,7 +3919,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/3/depthcharts"
     },
     "CIN": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4427834",
@@ -4528,7 +4528,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/4/depthcharts"
     },
     "CLE": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4597310",
@@ -5193,7 +5193,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/5/depthcharts"
     },
     "DAL": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4685120",
@@ -5834,7 +5834,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/6/depthcharts"
     },
     "DEN": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4383440",
@@ -6475,7 +6475,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/7/depthcharts"
     },
     "DET": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4241217",
@@ -7140,7 +7140,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/8/depthcharts"
     },
     "GB": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4242390",
@@ -7797,7 +7797,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/9/depthcharts"
     },
     "HOU": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4362732",
@@ -8408,6 +8408,14 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361707.png"
         },
         {
+          "id": "4241394",
+          "name": "Kenneth Murray Jr.",
+          "position": "LB",
+          "jersey": "50",
+          "status": "Practice Squad",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241394.png"
+        },
+        {
           "id": "5081880",
           "name": "James Neal III",
           "position": "OT",
@@ -8478,7 +8486,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/34/depthcharts"
     },
     "IND": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "2998565",
@@ -9073,14 +9081,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242415.png"
         },
         {
-          "id": "4039243",
-          "name": "Josh Sills",
-          "position": "G",
-          "jersey": "66",
-          "status": "Practice Squad",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039243.png"
-        },
-        {
           "id": "4599160",
           "name": "Trey Washington",
           "position": "S",
@@ -9111,7 +9111,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/11/depthcharts"
     },
     "JAX": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "2576336",
@@ -9760,7 +9760,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/30/depthcharts"
     },
     "KC": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4912218",
@@ -10377,7 +10377,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/12/depthcharts"
     },
     "LAC": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4683487",
@@ -11018,7 +11018,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/24/depthcharts"
     },
     "LA": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4426553",
@@ -11683,7 +11683,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/14/depthcharts"
     },
     "LV": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "5150247",
@@ -12324,7 +12324,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/13/depthcharts"
     },
     "MIA": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4685246",
@@ -12933,7 +12933,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/15/depthcharts"
     },
     "MIN": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4429205",
@@ -13558,7 +13558,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/16/depthcharts"
     },
     "NE": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4683308",
@@ -14223,7 +14223,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/17/depthcharts"
     },
     "NO": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4698597",
@@ -14762,6 +14762,14 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4696043.png"
         },
         {
+          "id": "4372758",
+          "name": "Kevin Austin Jr.",
+          "position": "WR",
+          "jersey": "81",
+          "status": "Practice Squad",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372758.png"
+        },
+        {
           "id": "4429073",
           "name": "Fadil Diggs",
           "position": "DE",
@@ -14880,7 +14888,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/18/depthcharts"
     },
     "NYG": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4570296",
@@ -15033,6 +15041,14 @@
           "jersey": "61",
           "status": "Active",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240771.png"
+        },
+        {
+          "id": "4039243",
+          "name": "Josh Sills",
+          "position": "G",
+          "jersey": "",
+          "status": "Active",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039243.png"
         },
         {
           "id": "4040761",
@@ -15545,7 +15561,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/19/depthcharts"
     },
     "NYJ": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4685247",
@@ -16210,7 +16226,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/20/depthcharts"
     },
     "PHI": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "3929630",
@@ -16851,7 +16867,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/21/depthcharts"
     },
     "PIT": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4714771",
@@ -17156,14 +17172,6 @@
           "jersey": "55",
           "status": "Active",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116689.png"
-        },
-        {
-          "id": "2969961",
-          "name": "Rayshawn Jenkins",
-          "position": "S",
-          "jersey": "20",
-          "status": "Active",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2969961.png"
         },
         {
           "id": "5084849",
@@ -17508,7 +17516,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/23/depthcharts"
     },
     "SEA": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4678006",
@@ -18181,7 +18189,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/26/depthcharts"
     },
     "SF": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4360438",
@@ -18902,7 +18910,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/25/depthcharts"
     },
     "TB": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4429251",
@@ -19503,7 +19511,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/27/depthcharts"
     },
     "TEN": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "4883647",
@@ -20160,7 +20168,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/10/depthcharts"
     },
     "WAS": {
-      "as_of": "2026-10-22T01:49:02.225926+00:00",
+      "as_of": "2026-10-22T07:56:00.688293+00:00",
       "roster": [
         {
           "id": "3115922",
