@@ -1,25 +1,51 @@
 {
-  "updated_at_utc": "2026-10-23T15:19:28.525560+00:00",
-  "checked_at_utc": "2026-10-23T15:19:28.525560+00:00",
+  "updated_at_utc": "2026-10-23T19:21:39.598074+00:00",
+  "checked_at_utc": "2026-10-23T19:21:39.598074+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 16,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 29
+      "items": 30
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 23,
+      "items": 22,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "What We Know About Colts QB Anthony Richardson's Marijuana Possession Charge",
+      "url": "https://www.foxsports.com/stories/nfl/anthony-richardson-news-colts-quarterbacks",
+      "summary": "Colts backup QB Anthony Richardson faces a misdemeanor possession of marijuana charge following a traffic stop earlier this month.",
+      "published": "Fri, 23 Oct 2026 13:35:30 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "Jaguars Get Devastating Injury Update On Left Tackle Anton Harrison",
+      "url": "https://www.foxsports.com/stories/nfl/anton-harrison-injury-news-jaguars-offensive-tackles",
+      "summary": "Jacksonville Jaguars starting left tackle Anton Harrison will miss the remainder of the season after tearing a ligament in his right knee.",
+      "published": "Fri, 23 Oct 2026 13:01:39 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "JAX"
+      ]
+    },
     {
       "title": "2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-7-lines-spreads-results-all-14-games",
@@ -281,50 +307,326 @@
       ]
     },
     {
-      "title": "NFL Catchup: Giants To Start J.J. McCarthy; Josh Jacobs Back At Packers Practice",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-giants-go-j-j-mccarthy-josh-jacobs-back-practice",
-      "summary": "Here\u2019s the latest from around the NFL on Wednesday.",
-      "published": "Wed, 21 Oct 2026 21:31:18 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "GB",
-        "NYG"
-      ]
-    },
-    {
-      "title": "No Elite Teams In The NFL This Year? 49ers, Chiefs Lead Through Seven Weeks",
-      "url": "https://www.foxsports.com/stories/nfl/no-elite-teams-nfl-year-49ers-chiefs-lead-weird-season",
-      "summary": "Nick Wright has the 49ers atop his Week 7 tiers, with the Chiefs right behind them, and a history lesson Wright says should worry San Francisco.",
-      "published": "Wed, 21 Oct 2026 21:03:35 -0400",
-      "source": "FOX Sports NFL",
+      "title": "David Andrews' blood clot diagnosis illuminates what's going on with Jalen Hurts",
+      "url": "https://www.espn.com/nfl/story/_/id/50257261/patriots-david-andrews-blood-clots-eagles-jalen-hurts",
+      "summary": "The former NFL center tells ESPN about his experience as it might provide a window into the Eagles QB's situation.",
+      "published": "2026-10-23T17:41:35Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "KC",
-        "SF"
+        "PHI"
       ]
     },
     {
-      "title": "NFL Trade Deadline: The Top Trade Candidate On All 32 Teams",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-top-trade-candidate-all-32-teams",
-      "summary": "Not every team will trade a player ahead of the deadline, but we look at the possible trade candidate for all 32 squads.",
-      "published": "Wed, 21 Oct 2026 20:49:12 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Falcons' throwback logo doesn't include viral stripe pattern",
+      "url": "https://www.espn.com/nfl/story/_/id/50259857/falcons-throwback-logo-include-viral-stripe-pattern",
+      "summary": "A vertical stripe pattern that the Falcons used in a social media post announcing the use of the team's throwback logo is not a part of the team's uniform. An important distinction after significant online backlash.",
+      "published": "2026-10-23T19:15:52Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
+      "teams": [
+        "ATL"
+      ]
+    },
+    {
+      "title": "Cam Skattebo set to return to Giants RB mix after being 'taught a lesson'",
+      "url": "https://www.espn.com/nfl/story/_/id/50259856/cam-skattebo-set-return-giants-rb-mix",
+      "summary": "After a zero-carry day in Week 6, Cam Skattebo says he took a step back to evaluate and correct, and he should return to the Giants' running back mix against the Texans.",
+      "published": "2026-10-23T19:19:16Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Rams WR Puka Nacua misses practice, questionable vs. Raiders with calf injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50259748/rams-wr-puka-nacua-questionable-vs-raiders-calf-injury",
+      "summary": "Rams wide receiver Puka Nacua (calf) will not practice Friday and is questionable to play Sunday against the Raiders, coach Sean McVay said.",
+      "published": "2026-10-23T19:17:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA",
+        "LV"
+      ]
+    },
+    {
+      "title": "Cards rookie RB Jeremiyah Love to miss second straight game with ankle injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50259624/cardinals-rookie-rb-jeremiyah-love-miss-second-straight-game",
+      "summary": "Cardinals rookie RB Jeremiyah Love will miss his second straight game Sunday as he continues to recover from an ankle injury.",
+      "published": "2026-10-23T18:46:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ARI"
+      ]
+    },
+    {
+      "title": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
+      "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms",
+      "summary": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
+      "published": "2026-10-23T18:23:48Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "HOU"
+      ]
+    },
+    {
+      "title": "Colts' Tyler Warren to miss second game with groin injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50259536/colts-tyler-warren-miss-second-game-groin-injury",
+      "summary": "Tight end Tyler Warren will miss his second consecutive game with a groin injury when the Colts travel to face the Vikings on Sunday.",
+      "published": "2026-10-23T18:37:51Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "IND",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Baker Mayfield returns for Bucs, but WR Emeka Egbuka, RT Luke Goedeke out",
+      "url": "https://www.espn.com/nfl/story/_/id/50259196/baker-mayfield-returns-emeka-egbuka-luke-goedeke-out",
+      "summary": "Buccaneers quarterback Baker Mayfield will make his return following a three-game absence, but he will be without his top target in wide receiver Emeka Egbuka.",
+      "published": "2026-10-23T18:56:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "TB"
+      ]
+    },
+    {
+      "title": "Dolphins rookie WR Caleb Douglas set to return vs. Jets",
+      "url": "https://www.espn.com/nfl/story/_/id/50259154/dolphins-rookie-wr-caleb-douglas-set-return-vs-jets",
+      "summary": "Miami Dolphins rookie receiver Caleb Douglas will play Sunday against the New York Jets after missing the past three games with a right ankle injury.",
+      "published": "2026-10-23T17:58:17Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIA",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Cowboys vs. Eagles: Where to watch 'Monday Night Football'",
+      "url": "https://www.espn.com/nfl/story/_/id/50249186/cowboys-vs-eagles-watch-monday-night-football-week-7",
+      "summary": "Here's what to know about the Week 7 matchup.",
+      "published": "2026-10-23T17:43:58Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Lions' Dan Campbell downplays Sam LaPorta's contract comments",
+      "url": "https://www.espn.com/nfl/story/_/id/50258967/lions-dan-campbell-downplays-sam-laporta-contract-comments",
+      "summary": "Lions coach Dan Campbell is downplaying comments made by Sam LaPorta about the tight end's displeasure with where contract talks stand with the organization. LaPorta later softened the tone on his comments.",
+      "published": "2026-10-23T19:09:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "Roger Goodell says NFL targeting Tokyo game in 2027 or 2028",
+      "url": "https://www.espn.com/nfl/story/_/id/50258811/roger-goodell-says-nfl-targeting-tokyo-game-2027-2028",
+      "summary": "NFL commissioner Roger Goodell reiterated his goal to hold a regular-season game in Tokyo and said he thinks it could happen in 2027 or 2028.",
+      "published": "2026-10-23T17:23:44Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": []
     },
     {
-      "title": "Colts QB Anthony Richardson Sr. charged with possession of marijuana",
-      "url": "https://www.espn.com/nfl/story/_/id/50257962/colts-qb-anthony-richardson-sr-charged-marijuana-possession",
-      "summary": "Colts quarterback Anthony Richardson Sr. is facing a misdemeanor charge for marijuana possession following a traffic stop earlier this month, court records show.",
-      "published": "2026-10-23T14:57:19Z",
+      "title": "Bills' Sam Franklin wins appeal; suspension for spitting reduced to fine",
+      "url": "https://www.espn.com/nfl/story/_/id/50258709/bills-franklin-wins-appeal-suspension-spitting-overturned",
+      "summary": "Bills safety and special teams captain Sam Franklin Jr., has won his appeal to overturn the one-game suspension for supposedly spitting at an opponent in the win over the Raiders.",
+      "published": "2026-10-23T17:01:44Z",
       "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LV"
+      ]
+    },
+    {
+      "title": "Packers linebacker Zaire Franklin out Sunday with shin injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50258680/packers-linebacker-zaire-franklin-sunday-shin-injury",
+      "summary": "Packers linebacker Zaire Franklin will miss Sunday's game against the Lions with a shin injury.",
+      "published": "2026-10-23T17:03:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET",
+        "GB"
+      ]
+    },
+    {
+      "title": "Where to watch NFL Paris game: Steelers vs. Saints",
+      "url": "https://www.espn.com/nfl/story/_/id/50249185/watch-2026-nfl-paris-game-steelers-vs-saints",
+      "summary": "The NFL takes a trip to France.",
+      "published": "2026-10-23T16:19:14Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NO",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Jets WR Adonai Mitchell to play, RB Breece Hall questionable vs. Dolphins",
+      "url": "https://www.espn.com/nfl/story/_/id/50258482/jets-wr-mitchell-play-rb-hall-questionable-vs-dolphins",
+      "summary": "Jets WR Adonai Mitchell, sidelined four games with a finger injury that required a surgical procedure, practiced all week and will play against the Dolphins.",
+      "published": "2026-10-23T15:56:55Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIA",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "NFL Week 7 picks and score predictions: Chiefs edge Seahawks, Bengals over Ravens",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-picks-score-predictions-odds-chiefs-seahawks/",
+      "summary": "Here's your weekly dose of John Breech's NFL picks",
+      "published": "Fri, 23 Oct 2026 18:36:29 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CIN",
+        "KC",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Prisco's Week 7 NFL picks: Lions edge Packers, Steelers top Saints in Paris",
+      "url": "https://www.cbssports.com/nfl/news/priscos-week-7-nfl-picks-odds-expert-picks-upsets/",
+      "summary": "Pete Prisco reveals all of his Week 7 picks, including the Chiefs over the Seahawks in Kenneth Walker's revenge game",
+      "published": "Fri, 23 Oct 2026 18:34:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "GB",
+        "KC",
+        "NO",
+        "PIT",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Revisiting the 2026 NFL Draft: Can Akheem Mesidor be a building block for Chargers defense?",
+      "url": "https://www.cbssports.com/nfl/news/revisiting-the-2026-nfl-draft-akheem-mesidor/",
+      "summary": "An 0-6 start shifts the conversation in Los Angeles to the future and which first-year contributors can serve as foundational pieces",
+      "published": "Fri, 23 Oct 2026 18:25:57 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
+      "title": "Bears fear season-ending injury for Cole Kmet after veteran tight end is carted off field",
+      "url": "https://www.cbssports.com/nfl/news/bears-cole-kmet-season-ending-knee-injury/",
+      "summary": "Chicago's longest-tenured player suffered a likely season-ending knee injury against New England",
+      "published": "Fri, 23 Oct 2026 18:15:51 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Baker Mayfield set to return for Buccaneers after three-game absence, will wear custom glove",
+      "url": "https://www.cbssports.com/nfl/news/buccaneers-baker-mayfield-cleared-to-play-thumb-injury-glove/",
+      "summary": "After a three-week absence, Mayfield is back under center for Tampa Bay",
+      "published": "Fri, 23 Oct 2026 17:21:11 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "TB"
+      ]
+    },
+    {
+      "title": "Aaron Rodgers sounds annoyed with Steelers' travel plans for Paris: Why the QB is unhappy",
+      "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-steelers-travel-plans-nfl-paris-game-saints/",
+      "summary": "The Steelers quarterback is set to become the first QB in NFL history to play international games in three straight seasons in three different countries",
+      "published": "Fri, 23 Oct 2026 16:32:54 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Saquon Barkley on Jalen Hurts situation: 'It sucks that people tried to make it an Eagles vs. Jalen thing'",
+      "url": "https://www.cbssports.com/nfl/news/saquon-barkley-breaks-silence-jalen-hurts-situation/",
+      "summary": "Philadelphia has faced heavy scrutiny after the quarterback was ruled out for the season with blood clots in his lungs, prompting the NFLPA to demand an investigation into his medical care",
+      "published": "Fri, 23 Oct 2026 15:56:22 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Colts' Anthony Richardson facing charge for marijuana possession, per report",
+      "url": "https://www.cbssports.com/nfl/news/colts-anthony-richardson-charge-marijuana-possession/",
+      "summary": "Police cited the quarterback during an Oct. 12 traffic stop after officers discovered marijuana and THC gummies inside his vehicle",
+      "published": "Fri, 23 Oct 2026 15:39:56 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
@@ -333,17 +635,15 @@
       ]
     },
     {
-      "title": "Sources: Jaguars LT Harrison out for season after surgery reveals torn ACL",
-      "url": "https://www.espn.com/nfl/story/_/id/50256842/sources-jaguars-lt-anton-harrison-season-torn-acl",
-      "summary": "Jaguars left tackle Anton Harrison will miss the rest of the season because of a torn ACL in his right knee, league sources told NFL Network's Ian Rapoport.",
-      "published": "2026-10-23T12:03:52Z",
-      "source": "ESPN NFL",
+      "title": "Week 7 NFL score predictions, odds, picks, betting advice: Proven model gives projections for every game",
+      "url": "https://www.cbssports.com/betting/news/week-7-nfl-score-predictions-odds-picks-betting-advice-proven-model-gives-projections-for-every-game/",
+      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model for Week 7",
+      "published": "Fri, 23 Oct 2026 15:09:17 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "JAX"
-      ]
+      "category": "game",
+      "teams": []
     },
     {
       "title": "Week 7 NFL betting promos: Get over $3,000 in bonuses from online betting apps, sportsbooks for Sunday",
@@ -360,7 +660,7 @@
       "title": "NFL Week 7 odds, picks: Brinson's best bets, player props, anytime touchdown scorers for Sunday games",
       "url": "https://www.cbssports.com/betting/news/nfl-week-7-odds-picks-brinsons-best-bets-player-props-anytime-touchdown-scorers-for-sunday-games/",
       "summary": "Coming off a 6-2 run, Sunday's card features an explosive total in Detroit, value on the underdog Dolphins, and a smash spot for Ja'Marr Chase against the Ravens",
-      "published": "Fri, 23 Oct 2026 14:49:13 +0000",
+      "published": "Fri, 23 Oct 2026 17:24:04 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -368,19 +668,6 @@
       "teams": [
         "BAL",
         "MIA"
-      ]
-    },
-    {
-      "title": "Colts' Anthony Richardson facing charge for marijuana possession, per report",
-      "url": "https://www.cbssports.com/nfl/news/colts-anthony-richardson-charge-marijuana-possession/",
-      "summary": "Police cited the quarterback during an Oct. 12 traffic stop after officers discovered marijuana and THC gummies inside his vehicle",
-      "published": "Fri, 23 Oct 2026 14:46:29 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "IND"
       ]
     },
     {
@@ -648,97 +935,6 @@
       "teams": [
         "LAC",
         "MIA"
-      ]
-    },
-    {
-      "title": "DeForest Buckner landing spots: Where Colts Pro Bowl DT could go in wake of Chris Ballard's firing",
-      "url": "https://www.cbssports.com/nfl/news/mock-trades-deforest-buckner-chris-ballard/",
-      "summary": "'I'm sick and tired of the same song and dance every year,' Buckner told reporters postgame on Sunday.",
-      "published": "Thu, 22 Oct 2026 20:02:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "Cowboys' Jerry Jones says Dallas could be 'active' at trade deadline: Here's who it should target",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-jerry-jones-dallas-active-trade-deadline-three-targets/",
-      "summary": "Jones still believes his 2-4 squad could turn things around in a wide-open NFC East in 2026",
-      "published": "Thu, 22 Oct 2026 19:14:16 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Chiefs to place Josh Simmons on injured reserve; LT not eligible to return until Week 11",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-to-place-josh-simmons-on-injured-reserve/",
-      "summary": "Simmons has been dealing with a bulging disc in his back",
-      "published": "Thu, 22 Oct 2026 21:50:07 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "KC"
-      ]
-    },
-    {
-      "title": "Re-drafting top 10 of the 2024 NFL Draft: Caleb Williams holds onto top spot, Drake Maye moves up",
-      "url": "https://www.cbssports.com/nfl/news/re-drafting-top-10-2024-nfl-draft-caleb-williams-drake-maye/",
-      "summary": "Drake Maye jumps over Jayden Daniels to No. 2 after a Super Bowl run, while Caleb Williams holds onto the top spot and Malik Nabers crashes the top five",
-      "published": "Thu, 22 Oct 2026 18:14:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL trade rumors: 5 receivers the Rams should target in a deal, including Cowboys' George Pickens",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-rumors-5-receivers-rams-should-target-george-pickens/",
-      "summary": "With Davante Adams out, the Rams suddenly need some help at wide receiver",
-      "published": "Thu, 22 Oct 2026 18:09:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL",
-        "LA"
-      ]
-    },
-    {
-      "title": "Should Vikings trade for Justin Herbert? Making the case for and against potential blockbuster deal",
-      "url": "https://www.cbssports.com/nfl/news/should-vikings-trade-for-justin-herbert-chargers/",
-      "summary": "Minnesota has a championship-level defense, but the offense could use a spark",
-      "published": "Thu, 22 Oct 2026 17:51:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "Pick Six: Patriots-Bears predictions for Thursday night, plus NFL Week 7 picks and possible upsets",
-      "url": "https://www.cbssports.com/nfl/news/pick-six-patriots-bears-predictions-plus-nfl-week-7-picks-upsets/",
-      "summary": "Here's everything you need to know about the NFL for Oct. 22",
-      "published": "Thu, 22 Oct 2026 16:02:06 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "NE"
       ]
     }
   ],
