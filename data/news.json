@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-23T10:22:14.200490+00:00",
-  "checked_at_utc": "2026-10-23T10:22:14.200490+00:00",
+  "updated_at_utc": "2026-10-23T15:19:28.525560+00:00",
+  "checked_at_utc": "2026-10-23T15:19:28.525560+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 4,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,49 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 22,
+      "items": 23,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-7-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every Week 7 matchup in the NFL.",
+      "published": "Fri, 23 Oct 2026 11:13:18 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Giants DC Dennard Wilson Rips Team's Defensive 'Traitors'",
+      "url": "https://www.foxsports.com/stories/nfl/giants-dc-dennard-wilson-traitors-comment-nfl-defense-stats",
+      "summary": "New York Giants defensive coordinator Dennard Wilson reprimanded members of his defense for their Week 6 performance.",
+      "published": "Fri, 23 Oct 2026 10:23:05 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "2026 NFL Week 7 Best Bets, Expert Picks: Back The Under In Chiefs-Seahawks",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-7-best-bets-expert-picks-expects-under-chiefs-seahawks",
+      "summary": "Geoff Schwartz sees a low-scoring affair in Seattle and CMC being Brock Purdy's greatest pass-catching threat in Atlanta.",
+      "published": "Fri, 23 Oct 2026 10:20:34 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "SEA"
+      ]
+    },
     {
       "title": "Caleb Williams Outduels Drake Maye: 4 Takeaways From The Bears' Win",
       "url": "https://www.foxsports.com/stories/nfl/new-england-patriots-vs-chicago-bears-takeaways-october-22",
@@ -195,17 +233,6 @@
       ]
     },
     {
-      "title": "2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-7-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 7 matchup in the NFL.",
-      "published": "Thu, 22 Oct 2026 08:38:16 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "How Texas QB Arch Manning Fell From Projected No. 1 Pick To Potential Benching",
       "url": "https://www.foxsports.com/stories/nfl/how-texas-qb-arch-manning-fell-from-projected-no-1-pick-potential-benching",
       "summary": "A deep dive into Arch Manning's college tape elucidates how he's struggling and why his NFL draft stock might be tumbling.",
@@ -293,69 +320,213 @@
       "teams": []
     },
     {
-      "title": "Tom Brady's NFL Power Rankings: Are The Patriots The Best Non-Undefeated Team?",
-      "url": "https://www.foxsports.com/stories/nfl/tom-bradys-nfl-power-rankings-49ers-chiefs-vikings-patriots",
-      "summary": "The top three of Tom Brady's most recent power rankings was pretty simple. After that, things get tough as Brady threw a surprise in his most recent rankings.",
-      "published": "Wed, 21 Oct 2026 18:12:06 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Colts QB Anthony Richardson Sr. charged with possession of marijuana",
+      "url": "https://www.espn.com/nfl/story/_/id/50257962/colts-qb-anthony-richardson-sr-charged-marijuana-possession",
+      "summary": "Colts quarterback Anthony Richardson Sr. is facing a misdemeanor charge for marijuana possession following a traffic stop earlier this month, court records show.",
+      "published": "2026-10-23T14:57:19Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "qb",
       "teams": [
-        "NE"
+        "IND"
       ]
     },
     {
-      "title": "What's led to Titans' recent success? Under center",
-      "url": "https://www.espn.com/nfl/story/_/id/50251843/tennessee-titans-center-success",
-      "summary": "Titans run the ball better from under center, so why not put it into practice more?",
-      "published": "2026-10-23T10:00:10Z",
+      "title": "Sources: Jaguars LT Harrison out for season after surgery reveals torn ACL",
+      "url": "https://www.espn.com/nfl/story/_/id/50256842/sources-jaguars-lt-anton-harrison-season-torn-acl",
+      "summary": "Jaguars left tackle Anton Harrison will miss the rest of the season because of a torn ACL in his right knee, league sources told NFL Network's Ian Rapoport.",
+      "published": "2026-10-23T12:03:52Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "TEN"
+        "JAX"
       ]
     },
     {
-      "title": "Inside Marvin Harrison Jr.s' exit from the Cardinals",
-      "url": "https://www.espn.com/nfl/story/_/id/50249407/marvin-harrison-jr-cardinals-texans",
-      "summary": "Harrison never reached his potential in Arizona, but all sides are hoping for a fresh start moving forward.",
-      "published": "2026-10-23T10:00:00Z",
-      "source": "ESPN NFL",
+      "title": "Week 7 NFL betting promos: Get over $3,000 in bonuses from online betting apps, sportsbooks for Sunday",
+      "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-promos-get-over-3000-in-bonuses-from-online-betting-apps-sportsbooks-for-sunday/",
+      "summary": "Top Week 7 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Fri, 23 Oct 2026 14:59:21 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 7 odds, picks: Brinson's best bets, player props, anytime touchdown scorers for Sunday games",
+      "url": "https://www.cbssports.com/betting/news/nfl-week-7-odds-picks-brinsons-best-bets-player-props-anytime-touchdown-scorers-for-sunday-games/",
+      "summary": "Coming off a 6-2 run, Sunday's card features an explosive total in Detroit, value on the underdog Dolphins, and a smash spot for Ja'Marr Chase against the Ravens",
+      "published": "Fri, 23 Oct 2026 14:49:13 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ARI"
+        "BAL",
+        "MIA"
       ]
     },
     {
-      "title": "What's wrong with Bo Nix? Exploring the Broncos QB's struggles, long-term status",
-      "url": "https://www.espn.com/nfl/story/_/id/50250196/quarterback-bo-nix-struggles-broncos-long-term-questions",
-      "summary": "The Broncos are winning, but Nix is dealing with the roughest stretch of his career. Why is he struggling -- and is he still Denver's long-term QB?",
-      "published": "2026-10-23T10:00:00Z",
-      "source": "ESPN NFL",
+      "title": "Colts' Anthony Richardson facing charge for marijuana possession, per report",
+      "url": "https://www.cbssports.com/nfl/news/colts-anthony-richardson-charge-marijuana-possession/",
+      "summary": "Police cited the quarterback during an Oct. 12 traffic stop after officers discovered marijuana and THC gummies inside his vehicle",
+      "published": "Fri, 23 Oct 2026 14:46:29 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "qb",
       "teams": [
-        "DEN"
+        "IND"
       ]
     },
     {
-      "title": "Kenneth Walker III is thriving with Chiefs. Why did the Seahawks let him go?",
-      "url": "https://www.espn.com/nfl/story/_/id/50233140/seattle-seahawks-kansas-city-chiefs-kenneth-walker",
-      "summary": "While the Seahawks' run game is struggling, the Super Bowl MVP is on a historic pace for the Chiefs this season.",
-      "published": "2026-10-23T10:21:34Z",
-      "source": "ESPN NFL",
+      "title": "Week 7 NFL betting odds, spreads, totals, lines for every game, including Saints-Steelers, Chiefs-Seahawks",
+      "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-lines-spreads-odds-totals/",
+      "summary": "The Week 7 NFL betting lines, including spreads and totals, are out for every game",
+      "published": "Fri, 23 Oct 2026 14:45:50 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
         "KC",
+        "NO",
+        "PIT",
         "SEA"
+      ]
+    },
+    {
+      "title": "NFL Week 7 bold predictions: Cardinals stun Broncos without scoring TD, Bijan Robinson shreds 49ers",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-bold-predictions-cardinals-broncos-bijan-robinson-49ers/",
+      "summary": "The Cardinals produce another improbable victory behind a barrage of field goals, and the Dolphins finally hold their first lead of the season",
+      "published": "Fri, 23 Oct 2026 14:08:22 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "DEN",
+        "MIA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Jaguars LT Anton Harrison done for season with torn ACL, per report: options for Jaguars at the trade deadline",
+      "url": "https://www.cbssports.com/nfl/news/anton-harrison-injury-jaguars-lt-out-for-season-torn-acl/",
+      "summary": "Walker Little will take over protecting Trevor Lawrence's blind side",
+      "published": "Fri, 23 Oct 2026 13:48:26 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Cowboys vs. Eagles rivalry game headlines three matchups with underrated big stakes",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-underrated-games-cowboys-eagles-giants-texan/",
+      "summary": "The unpredictable NFC East supplies two of this week's most intriguing under-the-radar matchups",
+      "published": "Fri, 23 Oct 2026 13:20:41 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Caleb Williams wins duel of 2024 NFL Draft QBs; Brewers-Rays World Series opens with a twist",
+      "url": "https://www.cbssports.com/nfl/news/caleb-williams-drake-maye-nfl-draft-qb-brewers-rays-world-series-mlb/",
+      "summary": "Plus the Top 100 And 1 college basketball players for 2026-27",
+      "published": "Fri, 23 Oct 2026 12:49:21 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 7 odds, predictions, expert picks: Who wins Ravens-Bengals AFC North showdown? Texans keep rolling?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-picks-odds-predictions-expert-picks-against-the-spread/",
+      "summary": "Our experts make their selections for Bengals-Ravens, Packers-Lions, Chiefs-Seahawks, Cowboys-Eagles and every other game on the Week 7 schedule",
+      "published": "Fri, 23 Oct 2026 12:47:17 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CIN",
+        "DAL",
+        "DET",
+        "GB",
+        "HOU",
+        "KC",
+        "PHI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "NFL Week 7 picks, odds, best bets: Why Bengals will beat Ravens, Saints to cover in Paris",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-picks-chiefs-saints-steelers-paris/",
+      "summary": "This week's five best bets include Kansas City and Cincinnati as road underdogs",
+      "published": "Fri, 23 Oct 2026 12:30:08 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CIN",
+        "NO"
+      ]
+    },
+    {
+      "title": "Should the Chiefs trade for Garrett Wilson? Why blockbuster deal makes sense, and why it probably won't happen",
+      "url": "https://www.cbssports.com/nfl/news/garrett-wilson-trade-chiefs-jets-star-receiver-2026/",
+      "summary": "Pairing the dynamic Jets wideout with Patrick Mahomes could solve Kansas City's receiver concerns, but several obstacles stand in the way",
+      "published": "Fri, 23 Oct 2026 11:44:30 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "KC",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Week 7 best bets: Browns keep stacking wins, two big-name running back under props to target",
+      "url": "https://www.cbssports.com/nfl/news/week-7-best-bets-browns-running-backs-2026/",
+      "summary": "Cleveland should move to 5-2 with a win in Tennessee",
+      "published": "Fri, 23 Oct 2026 11:30:34 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE"
+      ]
+    },
+    {
+      "title": "Jared Goff vs. Packers' stifling secondary: How this crucial NFC North showdown will be won",
+      "url": "https://www.cbssports.com/nfl/news/jared-goff-vs-packers-nfc-north-showdown-breakdown/",
+      "summary": "How aggressive Goff decides to be against Green Bay's defensive backs with tight window throws will be critical",
+      "published": "Fri, 23 Oct 2026 11:24:36 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB"
       ]
     },
     {
@@ -424,20 +595,6 @@
       "category": "game",
       "teams": [
         "PIT"
-      ]
-    },
-    {
-      "title": "Week 7 NFL betting promos: Get over $3,000 in bonuses from online betting apps, sportsbooks for Patriots-Bears",
-      "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-promos-get-over-3000-in-bonuses-from-online-betting-apps-sportsbooks-patriots-bears/",
-      "summary": "Top Week 7 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Thu, 22 Oct 2026 22:34:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "NE"
       ]
     },
     {
@@ -582,177 +739,6 @@
       "teams": [
         "CHI",
         "NE"
-      ]
-    },
-    {
-      "title": "Week 7 NFL betting odds, spreads, totals, lines for every game, including Bears-Patriots, Chiefs-Seahawks",
-      "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-lines-odds-spreads-totals/",
-      "summary": "The Week 7 NFL betting lines, including spreads and totals, are out for every game",
-      "published": "Thu, 22 Oct 2026 14:45:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "KC",
-        "NE",
-        "SEA"
-      ]
-    },
-    {
-      "title": "CBS Sports names future Hall of Famer JJ Watt lead analyst for the 'NFL ON CBS'",
-      "url": "https://www.cbssports.com/nfl/news/cbs-sports-names-j-j-watt-lead-analyst-nfl-on-cbs/",
-      "summary": "Watt began calling games with Jim Nantz and Tracy Wolfson at the start of the 2026 season",
-      "published": "Thu, 22 Oct 2026 14:59:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 7 NFL score predictions, odds, picks, betting advice: Proven model reveals projections for every game",
-      "url": "https://www.cbssports.com/betting/news/week-7-nfl-score-predictions-odds-picks-betting-advice-proven-model-reveals-projections-for-every-game/",
-      "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model for Week 7",
-      "published": "Thu, 22 Oct 2026 14:01:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Are Chiefs, 49ers on collision course for third Super Bowl meeting? Here are teams that could stop them",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-49ers-collision-course-super-bowl-brock-purdy-patrick-mahomes/",
-      "summary": "Kansas City beat San Francisco in 2020 and 2024",
-      "published": "Thu, 22 Oct 2026 15:26:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "SF"
-      ]
-    },
-    {
-      "title": "NFL punishes Patriots, Eagles and Jets head coaches with near-record fines, per report",
-      "url": "https://www.cbssports.com/nfl/news/nfl-punishes-patriots-eagles-jets-head-coaches-record-fines/",
-      "summary": "Mike Vrabel, Nick Sirianni and Aaron Glenn will be taking a massive hit to their bank account",
-      "published": "Thu, 22 Oct 2026 13:01:56 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE",
-        "NYJ",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Prisco's NFL Week 7 picks ahead of Patriots vs. Bears; Dream take WNBA Finals lead on Valkyries",
-      "url": "https://www.cbssports.com/nfl/news/prisco-nfl-picks-patriots-bears-dream-wnba-finals-valkyries/",
-      "summary": "Plus, the Giants have announced J.J. McCarthy as their new starting quarterback",
-      "published": "Thu, 22 Oct 2026 12:39:48 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CHI",
-        "NE",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Titans release DT Jordan Elliott after incident with firearm at team facility",
-      "url": "https://www.cbssports.com/nfl/news/titans-release-jordan-elliott-after-incident/",
-      "summary": "The veteran defensive tackle appeared in five games this season after following Robert Saleh to Tennessee from San Francisco",
-      "published": "Thu, 22 Oct 2026 12:38:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "SF",
-        "TEN"
-      ]
-    },
-    {
-      "title": "5 most important games for playoff races in Week 7: Ravens-Bengals has huge implications",
-      "url": "https://www.cbssports.com/nfl/news/5-most-important-games-playoff-races-week-7/",
-      "summary": "Plus, the 'TNF' showdown between the Bears and the Patriots is big",
-      "published": "Thu, 22 Oct 2026 14:21:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "CHI",
-        "CIN",
-        "NE"
-      ]
-    },
-    {
-      "title": "It wouldn't shock me IF ... NFL Week 7: Broncos bench Bo Nix, Kenneth Walker III has muted return to Seattle",
-      "url": "https://www.cbssports.com/nfl/news/it-wouldnt-shock-me-if-nfl-week-7-bold-predictions-bo-nix/",
-      "summary": "Could Aaron Glenn finally get a divisional win? How will JJ McCarthy fare?",
-      "published": "Thu, 22 Oct 2026 12:04:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN"
-      ]
-    },
-    {
-      "title": "NFL Week 7 picks: Our experts face off on Patriots at Bears, Cowboys at Eagles and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-picks-experts-patriots-bears-cowboys-eagles/",
-      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
-      "published": "Thu, 22 Oct 2026 23:22:34 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "DAL",
-        "NE",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Super Bowl stock report for Week 7: Caleb Williams puts Bears back in contention, Rams devolve into disaster",
-      "url": "https://www.cbssports.com/nfl/news/super-bowl-61-stock-report-nfl-week-bears-rams/",
-      "summary": "We assess the NFL title race after Week 6 and identify three upcoming games that could reshape the Super Bowl picture",
-      "published": "Thu, 22 Oct 2026 11:00:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "LA"
-      ]
-    },
-    {
-      "title": "NFL Week 7 upset alert: Can Giants upset Texans with JJ McCarthy at QB? Can Falcons beat 49ers?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-upset-alert-why-five-favorites-could-fall-texans-49ers-seahawks/",
-      "summary": "Baltimore and Denver are two other teams firmly at risk of being upset",
-      "published": "Thu, 22 Oct 2026 10:00:46 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "HOU",
-        "NYG",
-        "SF"
       ]
     }
   ],
