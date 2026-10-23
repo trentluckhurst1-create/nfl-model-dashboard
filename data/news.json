@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-23T00:37:58.768846+00:00",
-  "checked_at_utc": "2026-10-23T00:37:58.768846+00:00",
+  "updated_at_utc": "2026-10-23T05:23:24.300123+00:00",
+  "checked_at_utc": "2026-10-23T05:23:24.300123+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 18,
+      "items": 9,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,25 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 21,
+      "items": 22,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Caleb Williams Outduels Drake Maye: 4 Takeaways From The Bears' Win",
+      "url": "https://www.foxsports.com/stories/nfl/new-england-patriots-vs-chicago-bears-takeaways-october-22",
+      "summary": "Two of the NFL's best young quarterbacks were on full display on Thursday night, when Caleb Williams' Bears beat Drake Maye's Patriots.",
+      "published": "Thu, 22 Oct 2026 23:37:30 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI",
+        "NE"
+      ]
+    },
     {
       "title": "Why Tom Brady Believes A Pair Of Veteran QBs Throw The Prettiest Passes In The NFL",
       "url": "https://www.foxsports.com/stories/nfl/why-tom-brady-believes-pair-veteran-qbs-throw-prettiest-passes-nfl",
@@ -294,8 +308,8 @@
     {
       "title": "Week 7 NFL TNF highlights: Best plays, moments, TDs, more",
       "url": "https://www.espn.com/nfl/story/_/id/50253179/week-7-nfl-tnf-highlights-best-plays-moments-touchdowns",
-      "summary": "Here's a look at the best plays from the Bears vs. the Patriots on TNF.",
-      "published": "2026-10-23T00:32:07Z",
+      "summary": "Here's a look at the best plays from the Bears' win over the Patriots on TNF.",
+      "published": "2026-10-23T04:24:54Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -303,6 +317,71 @@
       "teams": [
         "CHI",
         "NE"
+      ]
+    },
+    {
+      "title": "Caleb Williams throws 2 TD passes as the Bears beat Drake Maye and the Patriots 30-24",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873010",
+      "summary": "\u2014 Round 2 went to Caleb Williams and the Chicago Bears.",
+      "published": "2026-10-23T03:32:08Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "NE"
+      ]
+    },
+    {
+      "title": "Caleb Williams, Bears find just enough to hold off Pats",
+      "url": "https://www.espn.com/nfl/story/_/id/50254157/bears-patriots-thursday-night-football-luther-burden",
+      "summary": "The Bears never trailed, but they never seemed comfortable with the lead.",
+      "published": "2026-10-23T04:19:49Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "What are the longest field goals in NFL history?",
+      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
+      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
+      "published": "2026-10-23T03:27:16Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "TE Cole Kmet exits Bears' win vs. Patriots with knee injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50254858/bears-te-cole-kmet-exits-late-vs-patriots-knee-injury",
+      "summary": "Bears tight end Cole Kmet exited Thursday night's game against the Patriots on a cart after injuring his right knee in the fourth quarter.",
+      "published": "2026-10-23T03:32:59Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "NE"
+      ]
+    },
+    {
+      "title": "Chicago Bears honor late Mike Ditka with fake mustaches, knit headbands on TNF",
+      "url": "https://www.espn.com/nfl/story/_/id/50253588/chicago-bears-mike-ditka-tribute-game",
+      "summary": "The Bears played their first home game Thursday since Mike Ditka's death Oct. 9.",
+      "published": "2026-10-23T02:50:52Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
       ]
     },
     {
@@ -346,195 +425,30 @@
       ]
     },
     {
-      "title": "Baker Mayfield set to make return vs. Panthers, looks to turn around struggling Buccaneers",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873018",
-      "summary": "\u2014 The last-place Tampa Bay Buccaneers are in need of a spark.",
-      "published": "2026-10-22T23:24:08Z",
-      "source": "ESPN NFL",
+      "title": "Rare NFL penalty: Bears become first team in 16 years to get flagged for illegal forward handoff",
+      "url": "https://www.cbssports.com/nfl/news/what-is-illegal-forward-handing-bears-patriots-nfl-penalty/",
+      "summary": "The failed trick play against the Patriots sent viewers scrambling to learn about one of the most obscure rules in the NFL rulebook",
+      "published": "Fri, 23 Oct 2026 02:16:44 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CAR",
-        "TB"
+        "CHI",
+        "NE"
       ]
     },
     {
-      "title": "Lions kick off quest to win NFC North with 1st division game of year against surging Packers at home",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873020",
-      "summary": "\u2014 The Detroit Lions are kicking off their first of six NFC North games against the Green Bay Packers and Minnesota Vikings in the Motor City over...",
-      "published": "2026-10-22T23:12:08Z",
-      "source": "ESPN NFL",
+      "title": "Brian Schottenheimer issues challenge to George Pickens as Cowboys search for answers on offense",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-brian-schottenheimer-challenges-george-pickens/",
+      "summary": "With Dallas sitting at 2-4, Schottenheimer acknowledged that he must coach better",
+      "published": "Fri, 23 Oct 2026 01:37:34 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET",
-        "GB",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Rams WR Puka Nacua leaves practice with calf injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50252934/rams-wr-puka-nacua-leaves-practice-calf-injury",
-      "summary": "Los Angeles Rams wide receiver Puka Nacua left Thursday's practice with a calf injury, a team spokesperson said.",
-      "published": "2026-10-22T23:37:34Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-      "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-      "published": "2026-10-22T22:43:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "HOU"
-      ]
-    },
-    {
-      "title": "Bears QB Caleb Williams leads NFL Week 7's best arrivals",
-      "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-22T22:13:38Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Source: Several teams interested in Colts RB Taylor as trade deadline approaches",
-      "url": "https://www.espn.com/nfl/story/_/id/50252635/several-teams-interested-trade-colts-jonathan-taylor",
-      "summary": "As the Colts plot their next moves after firing GM Chris Ballard, a source told ESPN that several teams would be open to a potential trade for Jonathan Taylor.",
-      "published": "2026-10-22T22:44:23Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "The Broncos' defense has carried the team. Now QB Bo Nix wants to shoulder the load vs. Cardinals",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873019",
-      "summary": "\u2014 Denver's ball-hawking defense has made it one of the better NFL teams so far this season.",
-      "published": "2026-10-22T21:31:20Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ARI",
-        "DEN"
-      ]
-    },
-    {
-      "title": "Ravens' Humphrey expresses displeasure over 'slander' against QB Jackson",
-      "url": "https://www.espn.com/nfl/story/_/id/50252129/ravens-humphrey-calls-slander-qb-lamar-jackson",
-      "summary": "Ravens cornerback Marlon Humphrey voiced his displeasure over what he called \"slander\" against quarterback Lamar Jackson.",
-      "published": "2026-10-22T22:39:30Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "The Seahawks prepare to face former teammate Kenneth Walker III while Zach Charbonnet could return",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873022",
-      "summary": "As the Seahawks prepare to face former teammate Kenneth Walker III, they may be getting some help with their own running game.",
-      "published": "2026-10-22T20:48:20Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SEA"
-      ]
-    },
-    {
-      "title": "Barring setbacks, Bucs QB Baker Mayfield expected to start vs. Panthers",
-      "url": "https://www.espn.com/nfl/story/_/id/50252035/barring-setbacks-mayfield-expects-start-buccaneers",
-      "summary": "Baker Mayfield expects to return from a thumb injury, barring any setbacks, and play when the Buccaneers face the Panthers on Sunday.",
-      "published": "2026-10-22T22:36:39Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CAR",
-        "TB"
-      ]
-    },
-    {
-      "title": "Morris returns to Atlanta, leading a 49ers defense that will try to pressure Falcons QB Penix",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873017",
-      "summary": "\u2014 Raheem Morris, part of the Atlanta Falcons' leadership team that made Michael Penix Jr. the No. 8 overall pick in the 2024 draft, will return to Atlanta on Sunday as the defensive coordinator of an undefeated San Francisco 49ers team that will try...",
-      "published": "2026-10-22T20:40:23Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ATL",
-        "SF"
-      ]
-    },
-    {
-      "title": "Titans chase a rare 2nd straight win as the Browns arrive atop the AFC North",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873013",
-      "summary": "\u2014 Tennessee safety Amani Hooker couldn't remember the most recent time the Titans strung together back-to-back wins, and his guess off.",
-      "published": "2026-10-22T20:12:09Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "TEN"
-      ]
-    },
-    {
-      "title": "C.J. Stroud powers Houston Texans vs New York Giants as J.J. McCarthy starts",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873016",
-      "summary": "\u2014 The New York Giants know better than to underestimate the Houston Texans entering Sunday\u2019s matchup even though they\u2019ve won just two games this season.",
-      "published": "2026-10-22T19:53:11Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Unbeaten Vikings' dominant defense presents an untimely test for Daniel Jones and the reeling Colts",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873014",
-      "summary": "\u2014 Daniel Jones made a pit stop with the Minnesota Vikings two years ago, when the eighth-year quarterback got an up-close look at the",
-      "published": "2026-10-22T19:40:19Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "IND",
-        "MIN"
+        "DAL"
       ]
     },
     {
@@ -905,33 +819,6 @@
         "HOU",
         "NYG",
         "SF"
-      ]
-    },
-    {
-      "title": "NFL Week 7 injury report: Ravens' Lamar Jackson limited, Jets' Breece Hall a non-participant",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-injury-report-ravens-lamar-jackson-jets-breece-hall/",
-      "summary": "All the latest injury news as Week 7 gets set to kick off",
-      "published": "Thu, 22 Oct 2026 18:26:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "NFL trade deadline 2026: Saquon Barkley to Seahawks among 10 moves that need to happen",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-10-moves-saquon-barkley-seahawks/",
-      "summary": "These needle-moving deals would define the trade deadline",
-      "published": "Thu, 22 Oct 2026 00:28:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "SEA"
       ]
     }
   ],
