@@ -1,25 +1,50 @@
 {
-  "updated_at_utc": "2026-10-23T19:21:39.598074+00:00",
-  "checked_at_utc": "2026-10-23T19:21:39.598074+00:00",
+  "updated_at_utc": "2026-10-23T22:27:21.442195+00:00",
+  "checked_at_utc": "2026-10-23T22:27:21.442195+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 16,
+      "items": 17,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 30
+      "items": 31
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 22,
+      "items": 20,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Favorite 'Dogs: Back Ole Miss Over Texas; Falcons To Upset 49ers",
+      "url": "https://www.foxsports.com/stories/nfl/favorite-dogs-back-ole-miss-over-texas-falcons-upset-49ers",
+      "summary": "Find out why Will Hill is backing Ole Miss to give Texas its third consecutive loss and why he believes the Falcons will put a blemish on the 49ers' record.",
+      "published": "Fri, 23 Oct 2026 16:11:54 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "SF"
+      ]
+    },
+    {
+      "title": "2026 NFL Comeback Player of Year Odds: Patrick Mahomes Favored; Nabers Rising",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-comeback-player-year",
+      "summary": "Patrick Mahomes is the heavy favorite to win NFL Comeback Player of the Year, but one Giant's odds are getting shorter. Here's the latest.",
+      "published": "Fri, 23 Oct 2026 16:08:54 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "What We Know About Colts QB Anthony Richardson's Marijuana Possession Charge",
       "url": "https://www.foxsports.com/stories/nfl/anthony-richardson-news-colts-quarterbacks",
@@ -259,54 +284,6 @@
       ]
     },
     {
-      "title": "How Texas QB Arch Manning Fell From Projected No. 1 Pick To Potential Benching",
-      "url": "https://www.foxsports.com/stories/nfl/how-texas-qb-arch-manning-fell-from-projected-no-1-pick-potential-benching",
-      "summary": "A deep dive into Arch Manning's college tape elucidates how he's struggling and why his NFL draft stock might be tumbling.",
-      "published": "Thu, 22 Oct 2026 08:00:29 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "NFL Awards Ballot: Can Josh Allen Run His Way To MVP? Will Kenneth Walker Buck Trend?",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-awards-ballot-mvp-candidates-josh-allen-brock-purdy-patrick-mahomes-kenneth-walker",
-      "summary": "Josh Allen is playing elite again, and Kenneth Walker is on track to break the rushing record. However, we have another player leading the MVP race.",
-      "published": "Thu, 22 Oct 2026 01:14:48 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Roll The Tape: Has CB/WR Travis Hunter Arrived? Is Packers' Defense Elite?",
-      "url": "https://www.foxsports.com/stories/nfl/roll-tape-has-cb-wr-travis-hunter-arrived-packers-defense-elite",
-      "summary": "After diving into the All-22 coaches' film from Week 6, Bucky Brooks examines three new developments to watch.",
-      "published": "Thu, 22 Oct 2026 00:41:00 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB"
-      ]
-    },
-    {
-      "title": "Lions' Sam LaPorta Is Open To 'Get Paid Somewhere Else\u2019 If Contract Negotiations Loom",
-      "url": "https://www.foxsports.com/stories/nfl/te-sam-laporta-prepared-get-paid-somewhere-else-lions-dont-get-deal-done",
-      "summary": "Sam LaPorta\u2019s time in Detroit could be coming to an end as the tight end's contract negotiations loom.",
-      "published": "Wed, 21 Oct 2026 21:32:54 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
       "title": "David Andrews' blood clot diagnosis illuminates what's going on with Jalen Hurts",
       "url": "https://www.espn.com/nfl/story/_/id/50257261/patriots-david-andrews-blood-clots-eagles-jalen-hurts",
       "summary": "The former NFL center tells ESPN about his experience as it might provide a window into the Eagles QB's situation.",
@@ -320,10 +297,106 @@
       ]
     },
     {
-      "title": "Falcons' throwback logo doesn't include viral stripe pattern",
+      "title": "Seahawks rule out RB Zach Charbonnet vs. Chiefs",
+      "url": "https://www.espn.com/nfl/story/_/id/50261029/seahawks-rule-rb-zach-charbonnet-vs-chiefs",
+      "summary": "RB Zach Charbonnet's season debut will have to wait at least one more week as the Seahawks have ruled him out for Sunday's game against the Chiefs.",
+      "published": "2026-10-23T22:15:50Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Giants LB Tremaine Edmunds (chest) out for year, source says",
+      "url": "https://www.espn.com/nfl/story/_/id/50260899/giants-lb-tremaine-edmunds-chest-year-source-says",
+      "summary": "Giants linebacker Tremaine Edmunds will miss the rest of the season with a torn chest muscle, a source told ESPN's Jordan Raanan. Edmunds leads the team with 50 tackles and wears the green dot to make the calls on defense.",
+      "published": "2026-10-23T22:23:59Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "49ers WR Evans, DE Bosa, WR Samuel out vs. Atlanta; WR Kirk may return",
+      "url": "https://www.espn.com/nfl/story/_/id/50260609/49ers-wr-evans-de-bosa-wr-samuel-vs-atlanta-wr-kirk-return",
+      "summary": "49ers receivers Mike Evans and Deebo Samuel Sr., and defensive end Nick Bosa are among a half dozen players who have been ruled out for Sunday's game against the Falcons.",
+      "published": "2026-10-23T21:49:20Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "SF"
+      ]
+    },
+    {
+      "title": "Cowboys say still time to turn things around after 2-4 start",
+      "url": "https://www.espn.com/nfl/story/_/id/50260535/cowboys-say-turn-things-2-4-start",
+      "summary": "Cowboys stars Dak Prescott and CeeDee Lamb express belief that there's still time for the team to turn things around despite a 2-4 start.",
+      "published": "2026-10-23T21:53:23Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Ravens' Lamar Jackson (high ankle sprain) unsure if he'll play",
+      "url": "https://www.espn.com/nfl/story/_/id/50260001/ravens-lamar-jackson-high-ankle-sprain-unsure-play",
+      "summary": "Ravens quarterback Lamar Jackson said he's dealing with a high ankle sprain and is unsure if he'll play this week against the Bengals, but is \"heading in the right direction\" after missing the past two games.",
+      "published": "2026-10-23T20:55:19Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL",
+        "CIN"
+      ]
+    },
+    {
+      "title": "Browns RBs Quinshon Judkins, Dylan Sampson expected to play",
+      "url": "https://www.espn.com/nfl/story/_/id/50259999/browns-rbs-quinshon-judkins-dylan-sampson-expected-play",
+      "summary": "The Browns' top two running backs, Quinshon Judkins and Dylan Sampson, are expected to play against the Titans after being sidelined with injuries.",
+      "published": "2026-10-23T20:19:54Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CLE",
+        "TEN"
+      ]
+    },
+    {
+      "title": "Bears TE Cole Kmet out for season after knee injury vs. Patriots",
+      "url": "https://www.espn.com/nfl/story/_/id/50259989/bears-te-cole-kmet-season-knee-injury-vs-pats",
+      "summary": "Bears tight end Cole Kmet will miss the remainder of the 2026 season after he suffered a serious right knee injury during Chicago's 30-24 win over New England.",
+      "published": "2026-10-23T20:33:18Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "NE"
+      ]
+    },
+    {
+      "title": "Falcons' viral stripes will appear down center of helmets",
       "url": "https://www.espn.com/nfl/story/_/id/50259857/falcons-throwback-logo-include-viral-stripe-pattern",
-      "summary": "A vertical stripe pattern that the Falcons used in a social media post announcing the use of the team's throwback logo is not a part of the team's uniform. An important distinction after significant online backlash.",
-      "published": "2026-10-23T19:15:52Z",
+      "summary": "A vertical stripe pattern that the Falcons used in a social media post will appear down the middle of the team's throwback helmets. The stripes drew significant online backlash as some saw similarity to Nazi Germany imagery.",
+      "published": "2026-10-23T21:18:40Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -335,8 +408,8 @@
     {
       "title": "Cam Skattebo set to return to Giants RB mix after being 'taught a lesson'",
       "url": "https://www.espn.com/nfl/story/_/id/50259856/cam-skattebo-set-return-giants-rb-mix",
-      "summary": "After a zero-carry day in Week 6, Cam Skattebo says he took a step back to evaluate and correct, and he should return to the Giants' running back mix against the Texans.",
-      "published": "2026-10-23T19:19:16Z",
+      "summary": "After zero carries in Week 6, Cam Skattebo says he took a step back to evaluate and correct, and Giants' coach says he should return to the running back mix vs. the Texans.",
+      "published": "2026-10-23T21:13:54Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -443,83 +516,57 @@
       ]
     },
     {
-      "title": "Lions' Dan Campbell downplays Sam LaPorta's contract comments",
-      "url": "https://www.espn.com/nfl/story/_/id/50258967/lions-dan-campbell-downplays-sam-laporta-contract-comments",
-      "summary": "Lions coach Dan Campbell is downplaying comments made by Sam LaPorta about the tight end's displeasure with where contract talks stand with the organization. LaPorta later softened the tone on his comments.",
-      "published": "2026-10-23T19:09:26Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 7 injury report: Seahawks' Zach Charbonnet won't return for Sunday's game vs. Chiefs",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-injury-report-baker-mayfield-lamar-jackson-questionable/",
+      "summary": "A look at game statuses across the league",
+      "published": "Fri, 23 Oct 2026 22:23:32 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "KC",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Lamar Jackson says he's 'heading in the right direction' for potential return vs. Bengals",
+      "url": "https://www.cbssports.com/nfl/news/lamar-jackson-injury-update-ravens-qb-return-bengals/",
+      "summary": "Baltimore's offense could be back at full strength soon as Jackson progresses toward a possible return against Cincinnati",
+      "published": "Fri, 23 Oct 2026 19:27:40 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN"
+      ]
+    },
+    {
+      "title": "Giants RB Cam Skattebo says he 'got taught a lesson' after surprise benching",
+      "url": "https://www.cbssports.com/nfl/news/cam-skattebo-giants-benching-najee-harris-release/",
+      "summary": "After being effectively benched and watching New York release Najee Harris days later, Skattebo acknowledged his situation",
+      "published": "Fri, 23 Oct 2026 19:04:47 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "DET"
+        "NYG"
       ]
     },
     {
-      "title": "Roger Goodell says NFL targeting Tokyo game in 2027 or 2028",
-      "url": "https://www.espn.com/nfl/story/_/id/50258811/roger-goodell-says-nfl-targeting-tokyo-game-2027-2028",
-      "summary": "NFL commissioner Roger Goodell reiterated his goal to hold a regular-season game in Tokyo and said he thinks it could happen in 2027 or 2028.",
-      "published": "2026-10-23T17:23:44Z",
-      "source": "ESPN NFL",
+      "title": "Should Seahawks trade for Jonathan Taylor? Pros, cons for reigning champions to add Colts superstar",
+      "url": "https://www.cbssports.com/nfl/news/should-seahawks-trade-for-jonathan-taylor-pros-cons/",
+      "summary": "The Colts could fetch a pretty penny for Taylor, but is it worth it for Seattle?",
+      "published": "Fri, 23 Oct 2026 18:56:14 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Bills' Sam Franklin wins appeal; suspension for spitting reduced to fine",
-      "url": "https://www.espn.com/nfl/story/_/id/50258709/bills-franklin-wins-appeal-suspension-spitting-overturned",
-      "summary": "Bills safety and special teams captain Sam Franklin Jr., has won his appeal to overturn the one-game suspension for supposedly spitting at an opponent in the win over the Raiders.",
-      "published": "2026-10-23T17:01:44Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
+      "category": "transaction",
       "teams": [
-        "BUF",
-        "LV"
-      ]
-    },
-    {
-      "title": "Packers linebacker Zaire Franklin out Sunday with shin injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50258680/packers-linebacker-zaire-franklin-sunday-shin-injury",
-      "summary": "Packers linebacker Zaire Franklin will miss Sunday's game against the Lions with a shin injury.",
-      "published": "2026-10-23T17:03:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DET",
-        "GB"
-      ]
-    },
-    {
-      "title": "Where to watch NFL Paris game: Steelers vs. Saints",
-      "url": "https://www.espn.com/nfl/story/_/id/50249185/watch-2026-nfl-paris-game-steelers-vs-saints",
-      "summary": "The NFL takes a trip to France.",
-      "published": "2026-10-23T16:19:14Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NO",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Jets WR Adonai Mitchell to play, RB Breece Hall questionable vs. Dolphins",
-      "url": "https://www.espn.com/nfl/story/_/id/50258482/jets-wr-mitchell-play-rb-hall-questionable-vs-dolphins",
-      "summary": "Jets WR Adonai Mitchell, sidelined four games with a finger injury that required a surgical procedure, practiced all week and will play against the Dolphins.",
-      "published": "2026-10-23T15:56:55Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIA",
-        "NYJ"
+        "IND",
+        "SEA"
       ]
     },
     {
@@ -896,45 +943,6 @@
       "teams": [
         "NYG",
         "PHI"
-      ]
-    },
-    {
-      "title": "Patriots vs. Bears odds, prediction, betting preview, start time: Thursday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/patriots-bears-odds-prediction-betting-preview-start-time-thursday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Patriots vs. Bears on Thursday Night Football",
-      "published": "Thu, 22 Oct 2026 22:18:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "NE"
-      ]
-    },
-    {
-      "title": "NFL legend Marshall Faulk diagnosed with Parkinson's disease, says he is 'in a good place'",
-      "url": "https://www.cbssports.com/nfl/news/marshall-faulk-parkinsons-diagnosis-nfl/",
-      "summary": "The Hall of Fame running back said he was diagnosed after noticing an issue with his hand and has been managing the condition through treatment",
-      "published": "Thu, 22 Oct 2026 22:19:21 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL best bets, predictions: Who will be last winless team? Evaluating odds, schedules for Dolphins, Chargers",
-      "url": "https://www.cbssports.com/betting/news/nfl-best-bets-predictions-who-will-be-last-winless-team-evaluating-odds-schedules-for-dolphins-chargers/",
-      "summary": "A Week 7 bye ensures the Chargers won't lose this weekend, but how long will their streak of futility last?",
-      "published": "Thu, 22 Oct 2026 21:37:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC",
-        "MIA"
       ]
     }
   ],
