@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-24T19:24:29.306872+00:00",
-  "checked_at_utc": "2026-10-24T19:24:54.532871+00:00",
+  "updated_at_utc": "2026-10-24T21:45:09.416173+00:00",
+  "checked_at_utc": "2026-10-24T21:45:09.416173+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 1,
+      "items": 4,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -14,26 +14,369 @@
       "items": 34
     },
     "FOX Sports NFL": {
-      "ok": false,
-      "items": 0,
-      "error": "ReadTimeout",
+      "ok": true,
+      "items": 20,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-      "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-      "published": "2026-10-24T17:02:08Z",
+      "title": "Ravens Announce QB Lamar Jackson Week 7 Game Status vs. Bengals",
+      "url": "https://www.foxsports.com/stories/nfl/lamar-jackson-news-bengals-ravens-injury-report",
+      "summary": "The Baltimore Ravens announced superstar quarterback Lamar Jackson's status for their Week 7 matchup against the Cincinnati Bengals.",
+      "published": "Sat, 24 Oct 2026 16:29:43 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL",
+        "CIN"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-7-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every Week 7 matchup in the NFL.",
+      "published": "Sat, 24 Oct 2026 11:00:40 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL, College Football Odds: Best Bets For Indiana-Michigan, Colts-Vikings",
+      "url": "https://www.foxsports.com/stories/college-football/2026-nfl-college-football-odds-best-bets-indiana-michigan-colts-vikings",
+      "summary": "Sammy P is back with his best bets for the weekend, including his wagers for Indiana-Michigan and Colts-Vikings.",
+      "published": "Fri, 23 Oct 2026 19:11:37 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Favorite 'Dogs: Back Ole Miss Over Texas; Falcons To Upset 49ers",
+      "url": "https://www.foxsports.com/stories/nfl/favorite-dogs-back-ole-miss-over-texas-falcons-upset-49ers",
+      "summary": "Find out why Will Hill is backing Ole Miss to give Texas its third consecutive loss and why he believes the Falcons will put a blemish on the 49ers' record.",
+      "published": "Fri, 23 Oct 2026 16:11:54 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "SF"
+      ]
+    },
+    {
+      "title": "2026 NFL Comeback Player of Year Odds: Patrick Mahomes Favored; Nabers Rising",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-comeback-player-year",
+      "summary": "Patrick Mahomes is the heavy favorite to win NFL Comeback Player of the Year, but one Giant's odds are getting shorter. Here's the latest.",
+      "published": "Fri, 23 Oct 2026 16:08:54 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "What We Know About Colts QB Anthony Richardson's Marijuana Possession Charge",
+      "url": "https://www.foxsports.com/stories/nfl/anthony-richardson-news-colts-quarterbacks",
+      "summary": "Colts backup QB Anthony Richardson faces a misdemeanor possession of marijuana charge following a traffic stop earlier this month.",
+      "published": "Fri, 23 Oct 2026 13:35:30 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "Jaguars Get Devastating Injury Update On Left Tackle Anton Harrison",
+      "url": "https://www.foxsports.com/stories/nfl/anton-harrison-injury-news-jaguars-offensive-tackles",
+      "summary": "Jacksonville Jaguars starting left tackle Anton Harrison will miss the remainder of the season after tearing a ligament in his right knee.",
+      "published": "Fri, 23 Oct 2026 13:01:39 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Giants DC Dennard Wilson Rips Team's Defensive 'Traitors'",
+      "url": "https://www.foxsports.com/stories/nfl/giants-dc-dennard-wilson-traitors-comment-nfl-defense-stats",
+      "summary": "New York Giants defensive coordinator Dennard Wilson reprimanded members of his defense for their Week 6 performance.",
+      "published": "Fri, 23 Oct 2026 10:23:05 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "2026 NFL Week 7 Best Bets, Expert Picks: Back The Under In Chiefs-Seahawks",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-7-best-bets-expert-picks-expects-under-chiefs-seahawks",
+      "summary": "Geoff Schwartz sees a low-scoring affair in Seattle and CMC being Brock Purdy's greatest pass-catching threat in Atlanta.",
+      "published": "Fri, 23 Oct 2026 10:20:34 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Caleb Williams Outduels Drake Maye: 4 Takeaways From The Bears' Win",
+      "url": "https://www.foxsports.com/stories/nfl/new-england-patriots-vs-chicago-bears-takeaways-october-22",
+      "summary": "Two of the NFL's best young quarterbacks were on full display on Thursday night, when Caleb Williams' Bears beat Drake Maye's Patriots.",
+      "published": "Thu, 22 Oct 2026 23:37:30 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI",
+        "NE"
+      ]
+    },
+    {
+      "title": "Why Tom Brady Believes A Pair Of Veteran QBs Throw The Prettiest Passes In The NFL",
+      "url": "https://www.foxsports.com/stories/nfl/why-tom-brady-believes-pair-veteran-qbs-throw-prettiest-passes-nfl",
+      "summary": "Tom Brady was quick to name a pair of star veteran QBs when he was asked who throws the prettiest passes.",
+      "published": "Thu, 22 Oct 2026 20:09:01 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Will Hill's Parlay Of The Week: Back Seahawks To Win, Falcons To Cover",
+      "url": "https://www.foxsports.com/stories/nfl/will-hills-parlay-week-back-seahawks-win-falcons-cover",
+      "summary": "Check out Will Hill's five-leg parlay, featuring a Seattle win over Kansas City and a barnburner in Atlanta.",
+      "published": "Thu, 22 Oct 2026 19:40:17 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "SEA"
+      ]
+    },
+    {
+      "title": "More Bad News For Rams: Star WR Puka Nacua Leaves Practice Early With Calf Injury",
+      "url": "https://www.foxsports.com/stories/nfl/rams-star-wr-puka-nacua-leaves-practice-early-calf-injury",
+      "summary": "Los Angeles Rams wide receiver Puke Nacua leaves practice early on Thursday with a calf injury.",
+      "published": "Thu, 22 Oct 2026 19:32:51 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "The 20-Year-Old Behind Two-Minute Drill \u2014 And A Story Bigger Than The Game",
+      "url": "https://www.foxsports.com/stories/college-football/two-minute-drill-viral-game-tennessee-commanders-giants-nfl",
+      "summary": "Tennessee student Max Ashton built a viral football game in two days. His story of perseverance goes far beyond the gridiron.",
+      "published": "Thu, 22 Oct 2026 18:08:05 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Buccaneers QB Baker Mayfield Plans To Start Vs. Panthers On Sunday",
+      "url": "https://www.foxsports.com/stories/nfl/tampa-bay-buccaneers-baker-mayfield-qb-carolina-panthers-injury",
+      "summary": "Barring a setback, Baker Mayfield expects to return from a thumb injury and play when the Tampa Bay Buccaneers face the Carolina Panthers on Sunday.",
+      "published": "Thu, 22 Oct 2026 16:41:51 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CAR",
+        "TB"
+      ]
+    },
+    {
+      "title": "NFL Week 7 Betting Report: Books Seeing Surprising Action On Key Showdowns",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-7-betting-report-books-seeing-surprising-action-key-showdowns",
+      "summary": "How are bettors eyeing Lions-Packers, Chiefs-Seahawks and Patriots-Bears? Patrick Everson reports.",
+      "published": "Thu, 22 Oct 2026 15:31:04 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "DET",
+        "GB",
+        "KC",
+        "NE",
+        "SEA"
+      ]
+    },
+    {
+      "title": "2026 NFL Week 7 Picks: Best Bets For Every Game \u2014 Will's Wagers",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-7-picks-best-bets-every-game-wills-wagers",
+      "summary": "Will Hill delivers his best best for EVERY NFL Week 7 game. Dive in.",
+      "published": "Thu, 22 Oct 2026 14:44:29 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "The Raiders Are Getting Better, So Why Is RB Ashton Jeanty Getting Worse?",
+      "url": "https://www.foxsports.com/stories/nfl/raiders-rb-ashton-jeanty-trending-like-trent-richardson",
+      "summary": "Former first-round pick Ashton Jeanty is averaging just 3.2 yards per carry and might see a reduced workload. What\u2019s behind his regression?",
+      "published": "Thu, 22 Oct 2026 14:15:54 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV"
+      ]
+    },
+    {
+      "title": "Eagles Reportedly Get Auspicious Saquon Barkley Injury Update",
+      "url": "https://www.foxsports.com/stories/nfl/saquon-barkley-news-eagles-running-backs-cowboys-matchup",
+      "summary": "The Eagles are reportedly expected to get star running back Saquon Barkley back for their Week 7 game against the Cowboys.",
+      "published": "Thu, 22 Oct 2026 11:31:08 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "How to Watch Patriots vs. Bears: TV Channel, Live Stream, Time - October 22, 2026",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-patriots-vs-bears-tv-channel-live-stream-time-october-22-2026",
+      "summary": "The Week 7 NFL matchup between Chicago Bears and New England Patriots is set for Thursday, October 22, 2026, at 8:15 PM EDT at Soldier Field in Chicago.",
+      "published": "Thu, 22 Oct 2026 10:49:28 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "NE"
+      ]
+    },
+    {
+      "title": "Eagles' DeVonta Smith, Dontayvion Wicks out vs. Cowboys",
+      "url": "https://www.espn.com/nfl/story/_/id/50269752/eagles-devonta-smith-dontayvion-wicks-vs-cowboys",
+      "summary": "The Eagles' top two receivers -- DeVonta Smith and Dontayvion Wicks -- have been ruled out of Monday night's game against the Cowboys.",
+      "published": "2026-10-24T21:17:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Vikings activate RB Jordan Mason off injured reserve",
+      "url": "https://www.espn.com/nfl/story/_/id/50269656/vikings-activate-rb-jordan-mason-injured-reserve",
+      "summary": "The Vikings activated running back Jordan Mason from injured reserve Saturday, completing his recovery from a fractured thumb that required surgery last month.",
+      "published": "2026-10-24T20:49:35Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "Packers activate RB Josh Jacobs for 2026 debut",
+      "url": "https://www.espn.com/nfl/story/_/id/50269266/packers-activate-rb-josh-jacobs-2026-debut",
+      "summary": "Packers running back Josh Jacobs will make his 2026 season debut against the Lions after spending the first six weeks on the NFL's commissioner exempt list.",
+      "published": "2026-10-24T21:01:12Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
         "DET",
-        "HOU"
+        "GB"
       ]
+    },
+    {
+      "title": "Ravens rule out Lamar Jackson (ankle) vs. Bengals; Tyler 'Snoop' Huntley to start",
+      "url": "https://www.espn.com/nfl/story/_/id/50268816/ravens-rule-lamar-jackson-high-ankle-sprain-vs-bengals",
+      "summary": "The Baltimore Ravens have ruled QB Lamar Jackson out of Sundays game vs. the Cincinnati Bengals as he continues to deal with a high ankle sprain. Tyler \"Snoop\" Huntley will get the start.",
+      "published": "2026-10-24T20:41:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL",
+        "CIN"
+      ]
+    },
+    {
+      "title": "Ravens vs. Bengals: How to watch AFC North showdown with big playoff implications",
+      "url": "https://www.cbssports.com/nfl/news/bengals-vs-ravens-how-to-watch-odds-preview-prediction/",
+      "summary": "Everything you need to know to catch the Week 7 matchup",
+      "published": "Sat, 24 Oct 2026 20:19:56 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CIN"
+      ]
+    },
+    {
+      "title": "NFL Week 7 injury report: Lamar Jackson downgraded to out for Ravens matchup vs. Bengals",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-injury-report-baker-mayfield-lamar-jackson-questionable/",
+      "summary": "A look at game statuses across the league",
+      "published": "Sat, 24 Oct 2026 20:12:15 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "CIN"
+      ]
+    },
+    {
+      "title": "Rise of the Peanut Punch: Why it's changing how defenses attack the football",
+      "url": "https://www.cbssports.com/nfl/news/what-is-the-peanut-punch-nfl-football/",
+      "summary": "What was once a novelty is now a tool every defensive player uses",
+      "published": "Sat, 24 Oct 2026 19:10:46 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
     },
     {
       "title": "Aaron Rodgers, Kenneth Walker III address Eagles' handling of Jalen Hurts blood clot situation: 'That's crazy'",
@@ -191,20 +534,6 @@
       "category": "game",
       "teams": [
         "DAL"
-      ]
-    },
-    {
-      "title": "NFL Week 7 injury report: Seahawks' Zach Charbonnet won't return for Sunday's game vs. Chiefs",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-injury-report-baker-mayfield-lamar-jackson-questionable/",
-      "summary": "A look at game statuses across the league",
-      "published": "Fri, 23 Oct 2026 22:23:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "KC",
-        "SEA"
       ]
     },
     {
@@ -455,33 +784,6 @@
       "url": "https://www.cbssports.com/nfl/news/what-is-illegal-forward-handing-bears-patriots-nfl-penalty/",
       "summary": "The failed trick play against the Patriots sent viewers scrambling to learn about one of the most obscure rules in the NFL rulebook",
       "published": "Fri, 23 Oct 2026 02:16:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "NE"
-      ]
-    },
-    {
-      "title": "Brian Schottenheimer issues challenge to George Pickens as Cowboys search for answers on offense",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-brian-schottenheimer-challenges-george-pickens/",
-      "summary": "With Dallas sitting at 2-4, Schottenheimer acknowledged that he must coach better",
-      "published": "Fri, 23 Oct 2026 01:37:34 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Bears vs. Patriots prediction: Chicago aims to stop Drake Maye's hot streak on 'TNF'",
-      "url": "https://www.cbssports.com/nfl/news/bears-vs-patriots-how-to-watch-odds-preview-prediction/",
-      "summary": "Here's how to watch, what to know, and an expert prediction before the Pats and Bears face off in Chicago",
-      "published": "Fri, 23 Oct 2026 00:12:06 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
