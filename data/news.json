@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-23T22:27:21.442195+00:00",
-  "checked_at_utc": "2026-10-23T22:27:21.442195+00:00",
+  "updated_at_utc": "2026-10-24T00:59:12.636784+00:00",
+  "checked_at_utc": "2026-10-24T00:59:12.636784+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 17,
+      "items": 13,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -20,6 +20,20 @@
     }
   },
   "items": [
+    {
+      "title": "2026 NFL, College Football Odds: Best Bets For Indiana-Michigan, Colts-Vikings",
+      "url": "https://www.foxsports.com/stories/college-football/2026-nfl-college-football-odds-best-bets-indiana-michigan-colts-vikings",
+      "summary": "Sammy P is back with his best bets for the weekend, including his wagers for Indiana-Michigan and Colts-Vikings.",
+      "published": "Fri, 23 Oct 2026 19:11:37 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "MIN"
+      ]
+    },
     {
       "title": "Favorite 'Dogs: Back Ole Miss Over Texas; Falcons To Upset 49ers",
       "url": "https://www.foxsports.com/stories/nfl/favorite-dogs-back-ole-miss-over-texas-falcons-upset-49ers",
@@ -268,22 +282,6 @@
       "teams": []
     },
     {
-      "title": "NFL Fact Or Fiction: Bills Overrated? Rams Are Frauds? A Chiefs-49ers Super Bowl?",
-      "url": "https://www.foxsports.com/stories/nfl/bills-overrated-rams-frauds-chiefs-49ers-super-bowl-bound",
-      "summary": "We dive into your Week 6 hot takes, putting Bills skepticism, Rams fraudulence and a certain Super Bowl matchup to the test.",
-      "published": "Thu, 22 Oct 2026 09:38:01 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "KC",
-        "LA",
-        "SF"
-      ]
-    },
-    {
       "title": "David Andrews' blood clot diagnosis illuminates what's going on with Jalen Hurts",
       "url": "https://www.espn.com/nfl/story/_/id/50257261/patriots-david-andrews-blood-clots-eagles-jalen-hurts",
       "summary": "The former NFL center tells ESPN about his experience as it might provide a window into the Eagles QB's situation.",
@@ -297,10 +295,36 @@
       ]
     },
     {
+      "title": "Lawrence McCutcheon, 5-time Pro Bowl RB for Rams, dies at 76",
+      "url": "https://www.espn.com/nfl/story/_/id/50261735/lawrence-mccutcheon-dies-76",
+      "summary": "Lawrence McCutcheon, a five-time Pro Bowl running back for the Los Angeles Rams who went on to a long career in the team's front office, died Friday. He was 76.",
+      "published": "2026-10-24T00:39:46Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "Dallas Cowboys cheerleaders unionize, will begin collective bargaining",
+      "url": "https://www.espn.com/nfl/story/_/id/50261267/dallas-cowboys-cheerleaders-announce-unionizing",
+      "summary": "The Dallas Cowboys have agreed to recognize the Dallas Cowboys Cheerleaders Association as the collective bargaining representative for the team's cheer squad.",
+      "published": "2026-10-24T00:35:45Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
       "title": "Seahawks rule out RB Zach Charbonnet vs. Chiefs",
       "url": "https://www.espn.com/nfl/story/_/id/50261029/seahawks-rule-rb-zach-charbonnet-vs-chiefs",
       "summary": "RB Zach Charbonnet's season debut will have to wait at least one more week as the Seahawks have ruled him out for Sunday's game against the Chiefs.",
-      "published": "2026-10-23T22:15:50Z",
+      "published": "2026-10-23T22:41:56Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -314,7 +338,7 @@
       "title": "Giants LB Tremaine Edmunds (chest) out for year, source says",
       "url": "https://www.espn.com/nfl/story/_/id/50260899/giants-lb-tremaine-edmunds-chest-year-source-says",
       "summary": "Giants linebacker Tremaine Edmunds will miss the rest of the season with a torn chest muscle, a source told ESPN's Jordan Raanan. Edmunds leads the team with 50 tackles and wears the green dot to make the calls on defense.",
-      "published": "2026-10-23T22:23:59Z",
+      "published": "2026-10-23T23:55:25Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -327,7 +351,7 @@
       "title": "49ers WR Evans, DE Bosa, WR Samuel out vs. Atlanta; WR Kirk may return",
       "url": "https://www.espn.com/nfl/story/_/id/50260609/49ers-wr-evans-de-bosa-wr-samuel-vs-atlanta-wr-kirk-return",
       "summary": "49ers receivers Mike Evans and Deebo Samuel Sr., and defensive end Nick Bosa are among a half dozen players who have been ruled out for Sunday's game against the Falcons.",
-      "published": "2026-10-23T21:49:20Z",
+      "published": "2026-10-24T00:00:04Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -341,7 +365,7 @@
       "title": "Cowboys say still time to turn things around after 2-4 start",
       "url": "https://www.espn.com/nfl/story/_/id/50260535/cowboys-say-turn-things-2-4-start",
       "summary": "Cowboys stars Dak Prescott and CeeDee Lamb express belief that there's still time for the team to turn things around despite a 2-4 start.",
-      "published": "2026-10-23T21:53:23Z",
+      "published": "2026-10-24T00:10:08Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -434,85 +458,17 @@
       ]
     },
     {
-      "title": "Cards rookie RB Jeremiyah Love to miss second straight game with ankle injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50259624/cardinals-rookie-rb-jeremiyah-love-miss-second-straight-game",
-      "summary": "Cardinals rookie RB Jeremiyah Love will miss his second straight game Sunday as he continues to recover from an ankle injury.",
-      "published": "2026-10-23T18:46:10Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ARI"
-      ]
-    },
-    {
-      "title": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
-      "url": "https://www.espn.com/nfl/story/_/id/50240486/nfl-week-7-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 7, led by alternate looks from Houston, Detroit and Dallas.",
-      "published": "2026-10-23T18:23:48Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 7 odds, picks: Brinson's best bets, player props, anytime touchdown scorers for Sunday games",
+      "url": "https://www.cbssports.com/betting/news/nfl-week-7-odds-picks-brinsons-best-bets-player-props-anytime-touchdown-scorers-for-sunday-games/",
+      "summary": "Coming off a 6-2 run, Sunday's card features an explosive total in Detroit, value on the underdog Dolphins, and a smash spot for Ja'Marr Chase against the Ravens",
+      "published": "Fri, 23 Oct 2026 23:57:36 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET",
-        "HOU"
-      ]
-    },
-    {
-      "title": "Colts' Tyler Warren to miss second game with groin injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50259536/colts-tyler-warren-miss-second-game-groin-injury",
-      "summary": "Tight end Tyler Warren will miss his second consecutive game with a groin injury when the Colts travel to face the Vikings on Sunday.",
-      "published": "2026-10-23T18:37:51Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "IND",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Baker Mayfield returns for Bucs, but WR Emeka Egbuka, RT Luke Goedeke out",
-      "url": "https://www.espn.com/nfl/story/_/id/50259196/baker-mayfield-returns-emeka-egbuka-luke-goedeke-out",
-      "summary": "Buccaneers quarterback Baker Mayfield will make his return following a three-game absence, but he will be without his top target in wide receiver Emeka Egbuka.",
-      "published": "2026-10-23T18:56:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "TB"
-      ]
-    },
-    {
-      "title": "Dolphins rookie WR Caleb Douglas set to return vs. Jets",
-      "url": "https://www.espn.com/nfl/story/_/id/50259154/dolphins-rookie-wr-caleb-douglas-set-return-vs-jets",
-      "summary": "Miami Dolphins rookie receiver Caleb Douglas will play Sunday against the New York Jets after missing the past three games with a right ankle injury.",
-      "published": "2026-10-23T17:58:17Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIA",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Cowboys vs. Eagles: Where to watch 'Monday Night Football'",
-      "url": "https://www.espn.com/nfl/story/_/id/50249186/cowboys-vs-eagles-watch-monday-night-football-week-7",
-      "summary": "Here's what to know about the Week 7 matchup.",
-      "published": "2026-10-23T17:43:58Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
+        "BAL",
+        "MIA"
       ]
     },
     {
@@ -702,20 +658,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "NFL Week 7 odds, picks: Brinson's best bets, player props, anytime touchdown scorers for Sunday games",
-      "url": "https://www.cbssports.com/betting/news/nfl-week-7-odds-picks-brinsons-best-bets-player-props-anytime-touchdown-scorers-for-sunday-games/",
-      "summary": "Coming off a 6-2 run, Sunday's card features an explosive total in Detroit, value on the underdog Dolphins, and a smash spot for Ja'Marr Chase against the Ravens",
-      "published": "Fri, 23 Oct 2026 17:24:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "MIA"
-      ]
     },
     {
       "title": "Week 7 NFL betting odds, spreads, totals, lines for every game, including Saints-Steelers, Chiefs-Seahawks",
