@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-24T00:59:12.636784+00:00",
-  "checked_at_utc": "2026-10-24T00:59:12.636784+00:00",
+  "updated_at_utc": "2026-10-24T05:40:49.075852+00:00",
+  "checked_at_utc": "2026-10-24T05:40:49.075852+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 13,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -298,7 +298,7 @@
       "title": "Lawrence McCutcheon, 5-time Pro Bowl RB for Rams, dies at 76",
       "url": "https://www.espn.com/nfl/story/_/id/50261735/lawrence-mccutcheon-dies-76",
       "summary": "Lawrence McCutcheon, a five-time Pro Bowl running back for the Los Angeles Rams who went on to a long career in the team's front office, died Friday. He was 76.",
-      "published": "2026-10-24T00:39:46Z",
+      "published": "2026-10-24T02:03:23Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -311,7 +311,7 @@
       "title": "Dallas Cowboys cheerleaders unionize, will begin collective bargaining",
       "url": "https://www.espn.com/nfl/story/_/id/50261267/dallas-cowboys-cheerleaders-announce-unionizing",
       "summary": "The Dallas Cowboys have agreed to recognize the Dallas Cowboys Cheerleaders Association as the collective bargaining representative for the team's cheer squad.",
-      "published": "2026-10-24T00:35:45Z",
+      "published": "2026-10-24T01:24:21Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -321,140 +321,16 @@
       ]
     },
     {
-      "title": "Seahawks rule out RB Zach Charbonnet vs. Chiefs",
-      "url": "https://www.espn.com/nfl/story/_/id/50261029/seahawks-rule-rb-zach-charbonnet-vs-chiefs",
-      "summary": "RB Zach Charbonnet's season debut will have to wait at least one more week as the Seahawks have ruled him out for Sunday's game against the Chiefs.",
-      "published": "2026-10-23T22:41:56Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Giants LB Tremaine Edmunds (chest) out for year, source says",
-      "url": "https://www.espn.com/nfl/story/_/id/50260899/giants-lb-tremaine-edmunds-chest-year-source-says",
-      "summary": "Giants linebacker Tremaine Edmunds will miss the rest of the season with a torn chest muscle, a source told ESPN's Jordan Raanan. Edmunds leads the team with 50 tackles and wears the green dot to make the calls on defense.",
-      "published": "2026-10-23T23:55:25Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "49ers WR Evans, DE Bosa, WR Samuel out vs. Atlanta; WR Kirk may return",
-      "url": "https://www.espn.com/nfl/story/_/id/50260609/49ers-wr-evans-de-bosa-wr-samuel-vs-atlanta-wr-kirk-return",
-      "summary": "49ers receivers Mike Evans and Deebo Samuel Sr., and defensive end Nick Bosa are among a half dozen players who have been ruled out for Sunday's game against the Falcons.",
-      "published": "2026-10-24T00:00:04Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "SF"
-      ]
-    },
-    {
-      "title": "Cowboys say still time to turn things around after 2-4 start",
-      "url": "https://www.espn.com/nfl/story/_/id/50260535/cowboys-say-turn-things-2-4-start",
-      "summary": "Cowboys stars Dak Prescott and CeeDee Lamb express belief that there's still time for the team to turn things around despite a 2-4 start.",
-      "published": "2026-10-24T00:10:08Z",
-      "source": "ESPN NFL",
+      "title": "Cowboys' George Pickens brushes off Brian Schottenheimer's critique, says team needs to improve",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-george-pickens-deflects-brian-schottenheimers-critique/",
+      "summary": "Schottenheimer challenged Pro Bowl WR George Pickens on his effort in the run game, Pickens talked about the team",
+      "published": "Sat, 24 Oct 2026 00:14:10 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
         "DAL"
-      ]
-    },
-    {
-      "title": "Ravens' Lamar Jackson (high ankle sprain) unsure if he'll play",
-      "url": "https://www.espn.com/nfl/story/_/id/50260001/ravens-lamar-jackson-high-ankle-sprain-unsure-play",
-      "summary": "Ravens quarterback Lamar Jackson said he's dealing with a high ankle sprain and is unsure if he'll play this week against the Bengals, but is \"heading in the right direction\" after missing the past two games.",
-      "published": "2026-10-23T20:55:19Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "CIN"
-      ]
-    },
-    {
-      "title": "Browns RBs Quinshon Judkins, Dylan Sampson expected to play",
-      "url": "https://www.espn.com/nfl/story/_/id/50259999/browns-rbs-quinshon-judkins-dylan-sampson-expected-play",
-      "summary": "The Browns' top two running backs, Quinshon Judkins and Dylan Sampson, are expected to play against the Titans after being sidelined with injuries.",
-      "published": "2026-10-23T20:19:54Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CLE",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Bears TE Cole Kmet out for season after knee injury vs. Patriots",
-      "url": "https://www.espn.com/nfl/story/_/id/50259989/bears-te-cole-kmet-season-knee-injury-vs-pats",
-      "summary": "Bears tight end Cole Kmet will miss the remainder of the 2026 season after he suffered a serious right knee injury during Chicago's 30-24 win over New England.",
-      "published": "2026-10-23T20:33:18Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "NE"
-      ]
-    },
-    {
-      "title": "Falcons' viral stripes will appear down center of helmets",
-      "url": "https://www.espn.com/nfl/story/_/id/50259857/falcons-throwback-logo-include-viral-stripe-pattern",
-      "summary": "A vertical stripe pattern that the Falcons used in a social media post will appear down the middle of the team's throwback helmets. The stripes drew significant online backlash as some saw similarity to Nazi Germany imagery.",
-      "published": "2026-10-23T21:18:40Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "ATL"
-      ]
-    },
-    {
-      "title": "Cam Skattebo set to return to Giants RB mix after being 'taught a lesson'",
-      "url": "https://www.espn.com/nfl/story/_/id/50259856/cam-skattebo-set-return-giants-rb-mix",
-      "summary": "After zero carries in Week 6, Cam Skattebo says he took a step back to evaluate and correct, and Giants' coach says he should return to the running back mix vs. the Texans.",
-      "published": "2026-10-23T21:13:54Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Rams WR Puka Nacua misses practice, questionable vs. Raiders with calf injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50259748/rams-wr-puka-nacua-questionable-vs-raiders-calf-injury",
-      "summary": "Rams wide receiver Puka Nacua (calf) will not practice Friday and is questionable to play Sunday against the Raiders, coach Sean McVay said.",
-      "published": "2026-10-23T19:17:30Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA",
-        "LV"
       ]
     },
     {
@@ -871,20 +747,6 @@
       "category": "game",
       "teams": [
         "PIT"
-      ]
-    },
-    {
-      "title": "Saquon Barkley trade proposals: Six deals Eagles could consider, including stunning Giants reunion",
-      "url": "https://www.cbssports.com/nfl/news/eagles-saquon-barkley-trade-proposals-giants-bengals/",
-      "summary": "A return to New York headlines six potential landing spots for Barkley if Philadelphia decides to reset its roster",
-      "published": "Thu, 22 Oct 2026 22:26:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYG",
-        "PHI"
       ]
     }
   ],
