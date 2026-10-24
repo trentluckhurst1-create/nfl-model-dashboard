@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-24T21:45:09.416173+00:00",
-  "checked_at_utc": "2026-10-24T21:45:09.416173+00:00",
+  "updated_at_utc": "2026-10-24T23:47:28.199884+00:00",
+  "checked_at_utc": "2026-10-24T23:47:28.199884+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 4,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -285,58 +285,59 @@
       ]
     },
     {
-      "title": "Eagles' DeVonta Smith, Dontayvion Wicks out vs. Cowboys",
-      "url": "https://www.espn.com/nfl/story/_/id/50269752/eagles-devonta-smith-dontayvion-wicks-vs-cowboys",
-      "summary": "The Eagles' top two receivers -- DeVonta Smith and Dontayvion Wicks -- have been ruled out of Monday night's game against the Cowboys.",
-      "published": "2026-10-24T21:17:02Z",
+      "title": "Inside the silent messages Boye Mafe sends every game day",
+      "url": "https://www.espn.com/nfl/story/_/id/50258881/cincinnati-bengals-boye-mafe-sign-language",
+      "summary": "The Bengals defensive end uses sign language to say \"I love you\" to his mother, Bola, who died of pancreatic cancer in 2018.",
+      "published": "2026-10-24T23:35:44Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "transaction",
       "teams": [
-        "DAL",
-        "PHI"
+        "CIN"
       ]
     },
     {
-      "title": "Vikings activate RB Jordan Mason off injured reserve",
-      "url": "https://www.espn.com/nfl/story/_/id/50269656/vikings-activate-rb-jordan-mason-injured-reserve",
-      "summary": "The Vikings activated running back Jordan Mason from injured reserve Saturday, completing his recovery from a fractured thumb that required surgery last month.",
-      "published": "2026-10-24T20:49:35Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "Packers activate RB Josh Jacobs for 2026 debut",
-      "url": "https://www.espn.com/nfl/story/_/id/50269266/packers-activate-rb-josh-jacobs-2026-debut",
-      "summary": "Packers running back Josh Jacobs will make his 2026 season debut against the Lions after spending the first six weeks on the NFL's commissioner exempt list.",
-      "published": "2026-10-24T21:01:12Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "GB"
-      ]
-    },
-    {
-      "title": "Ravens rule out Lamar Jackson (ankle) vs. Bengals; Tyler 'Snoop' Huntley to start",
-      "url": "https://www.espn.com/nfl/story/_/id/50268816/ravens-rule-lamar-jackson-high-ankle-sprain-vs-bengals",
-      "summary": "The Baltimore Ravens have ruled QB Lamar Jackson out of Sundays game vs. the Cincinnati Bengals as he continues to deal with a high ankle sprain. Tyler \"Snoop\" Huntley will get the start.",
-      "published": "2026-10-24T20:41:27Z",
-      "source": "ESPN NFL",
+      "title": "Giants' John Harbaugh details J.J. McCarthy decision with convincing explanation: 'Heck of a skill set'",
+      "url": "https://www.cbssports.com/nfl/news/giants-john-harbaugh-details-j-j-mccarthy-start/",
+      "summary": "The switch from Jameis Winston to McCarthy comes after the third-year quarterback has been with the team for four weeks",
+      "published": "Sat, 24 Oct 2026 22:18:20 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": [
-        "BAL",
-        "CIN"
+        "NYG"
+      ]
+    },
+    {
+      "title": "NFL levies two fines to 49ers LB Fred Warner for hit on Commanders TE Chig Okonkwo",
+      "url": "https://www.cbssports.com/nfl/news/nfl-levies-two-fines-to-49ers-lb-fred-warner/",
+      "summary": "Warner was initially flagged for the violation, but the officials picked it up",
+      "published": "Sat, 24 Oct 2026 22:12:23 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF",
+        "WAS"
+      ]
+    },
+    {
+      "title": "NFL Week 7 last-minute best bets: Cardinals upset Broncos, Vikings cruise to win over Colts",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-last-minute-best-bets-cardinals-broncos-vikings-colts/",
+      "summary": "Need some last-minute advice on how to bet the Week 7 slate? Allow us to be of assistance",
+      "published": "Sat, 24 Oct 2026 21:30:46 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "DEN",
+        "IND",
+        "MIN"
       ]
     },
     {
@@ -751,46 +752,6 @@
       "teams": [
         "KC",
         "NYJ"
-      ]
-    },
-    {
-      "title": "Week 7 best bets: Browns keep stacking wins, two big-name running back under props to target",
-      "url": "https://www.cbssports.com/nfl/news/week-7-best-bets-browns-running-backs-2026/",
-      "summary": "Cleveland should move to 5-2 with a win in Tennessee",
-      "published": "Fri, 23 Oct 2026 11:30:34 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE"
-      ]
-    },
-    {
-      "title": "Jared Goff vs. Packers' stifling secondary: How this crucial NFC North showdown will be won",
-      "url": "https://www.cbssports.com/nfl/news/jared-goff-vs-packers-nfc-north-showdown-breakdown/",
-      "summary": "How aggressive Goff decides to be against Green Bay's defensive backs with tight window throws will be critical",
-      "published": "Fri, 23 Oct 2026 11:24:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB"
-      ]
-    },
-    {
-      "title": "Rare NFL penalty: Bears become first team in 16 years to get flagged for illegal forward handoff",
-      "url": "https://www.cbssports.com/nfl/news/what-is-illegal-forward-handing-bears-patriots-nfl-penalty/",
-      "summary": "The failed trick play against the Patriots sent viewers scrambling to learn about one of the most obscure rules in the NFL rulebook",
-      "published": "Fri, 23 Oct 2026 02:16:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "NE"
       ]
     }
   ],
