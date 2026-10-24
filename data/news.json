@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-24T09:48:23.350823+00:00",
-  "checked_at_utc": "2026-10-24T09:48:23.350823+00:00",
+  "updated_at_utc": "2026-10-24T13:39:34.847140+00:00",
+  "checked_at_utc": "2026-10-24T13:39:34.847140+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 1,
+      "items": 4,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -282,16 +282,55 @@
       "teams": []
     },
     {
-      "title": "David Andrews' blood clot diagnosis illuminates what's going on with Jalen Hurts",
-      "url": "https://www.espn.com/nfl/story/_/id/50257261/patriots-david-andrews-blood-clots-eagles-jalen-hurts",
-      "summary": "The former NFL center tells ESPN about his experience as it might provide a window into the Eagles QB's situation.",
-      "published": "2026-10-23T17:41:35Z",
+      "title": "Vrabel's four pillars: One area the Patriots must improve if they want to win",
+      "url": "https://www.espn.com/nfl/story/_/id/50262387/new-england-patriots-week-7-loss-notebook",
+      "summary": "It's one of Mike Vrabel's four pillars of the team identity -- and New England is struggling with it after losing to the Bears on Thursday.",
+      "published": "2026-10-24T10:00:24Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "PHI"
+        "CHI",
+        "NE"
+      ]
+    },
+    {
+      "title": "NFL House in Paris closes ahead of street protests in French capital",
+      "url": "https://www.espn.com/nfl/story/_/id/50264705/nfl-house-paris-closes-ahead-street-protests",
+      "summary": "The NFL closed its \"NFL House\" in Paris as the city braced for street protests with a heavy police presence and storefronts boarded up.",
+      "published": "2026-10-24T12:21:04Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 7 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50249972/week-7-predictions-upsets-fantasy-sleepers-stats-2026",
+      "summary": "Touchdowns for Tucker Kraft and Germie Bernard? Cardinals pull another upset? Revenge game for Trey Hendrickson? Let's predict 15 things for Week 7.",
+      "published": "2026-10-24T10:00:03Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI"
+      ]
+    },
+    {
+      "title": "Will Niners have edge with ex-Falcons coach facing Penix?",
+      "url": "https://www.espn.com/nfl/story/_/id/50253343/atlanta-falcons-san-francisco-49er-raheem-morris",
+      "summary": "With all of the familiarity between Morris and the Falcons, Sunday's game should come down to execution.",
+      "published": "2026-10-24T10:00:21Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "SF"
       ]
     },
     {
