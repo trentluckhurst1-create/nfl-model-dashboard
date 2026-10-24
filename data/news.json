@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-24T05:40:49.075852+00:00",
-  "checked_at_utc": "2026-10-24T05:40:49.075852+00:00",
+  "updated_at_utc": "2026-10-24T09:48:23.350823+00:00",
+  "checked_at_utc": "2026-10-24T09:48:23.350823+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -292,32 +292,6 @@
       "category": "game",
       "teams": [
         "PHI"
-      ]
-    },
-    {
-      "title": "Lawrence McCutcheon, 5-time Pro Bowl RB for Rams, dies at 76",
-      "url": "https://www.espn.com/nfl/story/_/id/50261735/lawrence-mccutcheon-dies-76",
-      "summary": "Lawrence McCutcheon, a five-time Pro Bowl running back for the Los Angeles Rams who went on to a long career in the team's front office, died Friday. He was 76.",
-      "published": "2026-10-24T02:03:23Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "Dallas Cowboys cheerleaders unionize, will begin collective bargaining",
-      "url": "https://www.espn.com/nfl/story/_/id/50261267/dallas-cowboys-cheerleaders-announce-unionizing",
-      "summary": "The Dallas Cowboys have agreed to recognize the Dallas Cowboys Cheerleaders Association as the collective bargaining representative for the team's cheer squad.",
-      "published": "2026-10-24T01:24:21Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
       ]
     },
     {
