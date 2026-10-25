@@ -1,25 +1,63 @@
 {
-  "updated_at_utc": "2026-10-25T16:46:04.843774+00:00",
-  "checked_at_utc": "2026-10-25T16:46:04.843774+00:00",
+  "updated_at_utc": "2026-10-25T19:20:04.893460+00:00",
+  "checked_at_utc": "2026-10-25T19:20:04.893460+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 7,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 23
+      "items": 24
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 25,
+      "items": 18,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "49ers RB Christian McCaffrey Departs, Then Returns vs. Falcons",
+      "url": "https://www.foxsports.com/stories/nfl/49ers-christian-mccaffrey-thigh-injury-update-falcons",
+      "summary": "The already depleted San Francisco 49ers are dealing with another injury to a key player.",
+      "published": "Sun, 25 Oct 2026 15:01:19 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "SF"
+      ]
+    },
+    {
+      "title": "Terry Bradshaw Calls Out Cowboys, Saying 'Focus Isn\u2019t Where It Should Be\u2019",
+      "url": "https://www.foxsports.com/stories/nfl/terry-bradshaw-calls-out-cowboys-focus-dak-prescott",
+      "summary": "On \"FOX NFL Sunday,\" Terry Bradshaw sounded off on Dallas, calling out what he sees as a lack of focus from Dak Prescott and the offense.",
+      "published": "Sun, 25 Oct 2026 14:07:34 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Jay Glazer Shares Jalen Hurts Health Update, NFL And NFLPA Joint Investigation",
+      "url": "https://www.foxsports.com/stories/nfl/jay-glazer-jalen-hurts-health-update-nfl-nflpa-joint-investigation",
+      "summary": "On \"FOX NFL Sunday,\" Jay Glazer shared the latest on Jalen Hurts' health and said that the NFL and NFLPA are doing a joint investigation.",
+      "published": "Sun, 25 Oct 2026 13:17:58 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "Which Active TEs Remind Rob Gronkowski Of Himself? His Answer Will Surprise You",
       "url": "https://www.foxsports.com/stories/nfl/which-active-nfl-tight-ends-remind-rob-gronkowski-himself",
@@ -224,152 +262,68 @@
       ]
     },
     {
-      "title": "How to Watch Broncos vs. Cardinals: TV Channel, Live Stream, Time - October 25, 2026",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-broncos-vs-cardinals-tv-channel-live-stream-time-october-25-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 7 Denver Broncos and Arizona Cardinals game.",
-      "published": "Sun, 25 Oct 2026 08:00:20 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Panthers RT Taylor Moton carted off field with ankle and fibula injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50279064/panthers-taylor-moton-carted-ankle-fibula-injury",
+      "summary": "Panthers right tackle Taylor Moton left Sunday's matchup against the Buccaneers on a cart in the third quarter with a left ankle and fibula injury.",
+      "published": "2026-10-25T19:19:33Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "DEN"
-      ]
-    },
-    {
-      "title": "How to Watch Colts vs. Vikings: TV Channel, Live Stream, Time - October 25, 2026",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-colts-vs-vikings-tv-channel-live-stream-time-october-25-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 7 Colts and Vikings game.",
-      "published": "Sun, 25 Oct 2026 08:00:10 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Lions vs. Packers Prediction, Odds, Pick For NFL Week 7",
-      "url": "https://www.foxsports.com/stories/nfl/lions-vs-packers-prediction-odds-pick-nfl-week-7",
-      "summary": "Get the latest odds, prediction and pick for the Week 7 Lions vs. Packers game, as well as information on how to watch.",
-      "published": "Sun, 25 Oct 2026 04:25:35 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "GB"
-      ]
-    },
-    {
-      "title": "Raiders vs. Rams Prediction, Odds, Pick For NFL Week 7",
-      "url": "https://www.foxsports.com/stories/nfl/raiders-vs-rams-prediction-odds-pick-nfl-week-7",
-      "summary": "Get the latest odds, prediction and pick for the Week 7 Raiders vs. Rams game, as well as information on how to watch.",
-      "published": "Sun, 25 Oct 2026 04:25:09 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "LV"
-      ]
-    },
-    {
-      "title": "Panthers vs. Buccaneers Prediction, Odds, Pick For NFL Week 7",
-      "url": "https://www.foxsports.com/stories/nfl/panthers-vs-buccaneers-prediction-odds-pick-nfl-week-7",
-      "summary": "Get the latest odds, prediction and pick for the Week 7 Panthers vs. Buccaneers game, as well as information on how to watch.",
-      "published": "Sun, 25 Oct 2026 01:00:49 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
+      "category": "injury",
       "teams": [
         "CAR",
         "TB"
       ]
     },
     {
-      "title": "Texans vs. Giants Prediction, Odds, Pick For NFL Week 7",
-      "url": "https://www.foxsports.com/stories/nfl/texans-vs-giants-prediction-odds-pick-nfl-week-7",
-      "summary": "Get the latest odds, prediction and pick for the Week 7 Texans vs. Giants game, as well as information on how to watch.",
-      "published": "Sun, 25 Oct 2026 01:00:35 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Falcons vs. 49ers Prediction, Odds, Pick For NFL Week 7",
-      "url": "https://www.foxsports.com/stories/nfl/falcons-vs-49ers-prediction-odds-pick-nfl-week-7",
-      "summary": "Get the latest odds, prediction and pick for the Week 7 Falcons vs. 49ers game, as well as information on how to watch.",
-      "published": "Sun, 25 Oct 2026 01:00:33 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "SF"
-      ]
-    },
-    {
-      "title": "NFL DFS Week 7: Best Picks, Lineup Advice and Value Plays",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-dfs-week-7-best-picks-lineup-advice-value-plays",
-      "summary": "Top NFL DFS picks for Week 7, including value plays, lineup strategy and sleepers to target for your daily fantasy roster this week.",
-      "published": "Sun, 25 Oct 2026 00:00:30 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Ravens Announce QB Lamar Jackson Week 7 Game Status vs. Bengals",
-      "url": "https://www.foxsports.com/stories/nfl/lamar-jackson-news-bengals-ravens-injury-report",
-      "summary": "The Baltimore Ravens announced superstar quarterback Lamar Jackson's status for their Week 7 matchup against the Cincinnati Bengals.",
-      "published": "Sat, 24 Oct 2026 16:29:43 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "CIN"
-      ]
-    },
-    {
-      "title": "2026 NFL, College Football Odds: Best Bets For Indiana-Michigan, Colts-Vikings",
-      "url": "https://www.foxsports.com/stories/college-football/2026-nfl-college-football-odds-best-bets-indiana-michigan-colts-vikings",
-      "summary": "Sammy P is back with his best bets for the weekend, including his wagers for Indiana-Michigan and Colts-Vikings.",
-      "published": "Fri, 23 Oct 2026 19:11:37 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "MIN"
-      ]
-    },
-    {
       "title": "Week 7 NFL highlights: Best plays, moments, touchdowns, more",
       "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026",
-      "summary": "Check here for Sunday's top moments, including Aaron Rodgers and Pittsburgh beating New Orleans.",
-      "published": "2026-10-25T16:38:10Z",
+      "summary": "Check here for Sunday's top moments and TDs from J.J. McCarthy, Bucky Irving, Jonathan Taylor, Aaron Rodgers and more.",
+      "published": "2026-10-25T19:10:23Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
+    },
+    {
+      "title": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
+      "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
+      "published": "2026-10-25T17:33:18Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Aaron Rodgers breaks tie with Peyton Manning for third-most TD passes",
+      "url": "https://www.espn.com/nfl/story/_/id/50277960/rodgers-throws-historic-td-pass-steelers-win-1st-paris-game",
+      "summary": "Aaron Rodgers threw one touchdown pass to move alone to third on the career list during the Steelers' 16-10 win over the Saints as the NFL held its first regular-season game in France.",
+      "published": "2026-10-25T18:49:59Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NO",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Rodgers throws TD pass in Paris as Steelers beat Saints 16-10 in NFL's regular-season France debut",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873011",
+      "summary": "\u2014 Pittsburgh Steelers quarterback Aaron Rodgers knew a protective slide was out of the question when he scrambled on a key fourth-quarter play in New Orleans territory Sunday.",
+      "published": "2026-10-25T16:54:45Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "NO",
+        "PIT"
+      ]
     },
     {
       "title": "NFL depth charts for all 32 teams for 2026 season",
@@ -396,27 +350,59 @@
       ]
     },
     {
-      "title": "NFL, NFLPA handling joint review of Jalen Hurts' blood clot diagnosis",
-      "url": "https://www.espn.com/nfl/story/_/id/50276432/nfl-nflpa-handling-joint-review-jalen-hurts-diagnosis",
-      "summary": "The NFL and NFL Players Association are working together to review the handling of Jalen Hurts' blood clot diagnosis.",
-      "published": "2026-10-25T14:14:37Z",
-      "source": "ESPN NFL",
+      "title": "49ers RB Christian McCaffrey returns vs. Falcons after going to locker room with thigh injury",
+      "url": "https://www.cbssports.com/nfl/news/49ers-rb-christian-mccaffrey-injury-updates-falcons/",
+      "summary": "The Niners can breathe a sigh of relief with CMC back on the field",
+      "published": "Sun, 25 Oct 2026 19:07:53 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "SF"
+      ]
     },
     {
-      "title": "Sources: Peyton Manning not expected to be candidate for Colts' vacant GM job",
-      "url": "https://www.espn.com/nfl/story/_/id/50267058/sources-peyton-manning-not-candidate-colts-gm-job",
-      "summary": "The Colts have not approached Peyton Manning about their vacant GM job nor would the ex-QB be expected to be interested in the position, according to sources.",
-      "published": "2026-10-25T13:20:50Z",
-      "source": "ESPN NFL",
+      "title": "LOOK: Marvin Harrison Jr. catches first touchdown as a member of the Texans",
+      "url": "https://www.cbssports.com/nfl/news/look-marvin-harrison-jr-catches-first-touchdown-texans/",
+      "summary": "Marvin Harrison Jr. is catching TD passes from C.J. Stroud, just like old times",
+      "published": "Sun, 25 Oct 2026 19:05:37 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "IND"
+        "HOU"
+      ]
+    },
+    {
+      "title": "Broncos vs. Cardinals odds, picks, prediction, spread: Start time, NFL Week 7 betting preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/broncos-vs-cardinals-odds-picks-prediction-spread-start-time-nfl-week-7-betting-preview-best-bets/",
+      "summary": "We have everything bettors need to know before placing any wagers on Sunday's Broncos vs. Cardinals matchup in NFL Week 7",
+      "published": "Sun, 25 Oct 2026 18:45:41 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "DEN"
+      ]
+    },
+    {
+      "title": "NFL Week 7 odds, predictions, expert picks: Who wins Packers-Lions showdown? Rams get back on track?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-picks-odds-predictions-expert-picks-against-the-spread/",
+      "summary": "Our experts make their selections for every game on the Week 7 schedule",
+      "published": "Sun, 25 Oct 2026 17:01:28 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "GB",
+        "LA"
       ]
     },
     {
@@ -447,17 +433,6 @@
       "teams": [
         "TB"
       ]
-    },
-    {
-      "title": "Week 7 NFL betting promos: Get over $3,000 in bonuses from online betting apps, sportsbooks for NFL Sunday",
-      "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-promos-get-over-3000-in-bonuses-from-online-betting-apps-sportsbooks-for-nfl-sunday/",
-      "summary": "Top Week 7 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Sun, 25 Oct 2026 16:11:18 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "2026 Week 7 NFL player props, odds, picks, best bets for Sunday's games feature Patrick Mahomes, Jahmyr Gibbs",
@@ -537,27 +512,6 @@
       "category": "game",
       "teams": [
         "PIT"
-      ]
-    },
-    {
-      "title": "NFL Week 7 odds, predictions, expert picks: Who wins Packers-Lions showdown? Texans keep rolling?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-picks-odds-predictions-expert-picks-against-the-spread/",
-      "summary": "Our experts make their selections for Bengals-Ravens, Packers-Lions, Chiefs-Seahawks, Cowboys-Eagles and every other game on the Week 7 schedule",
-      "published": "Sun, 25 Oct 2026 16:09:22 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "CIN",
-        "DAL",
-        "DET",
-        "GB",
-        "HOU",
-        "KC",
-        "PHI",
-        "SEA"
       ]
     },
     {
@@ -722,19 +676,6 @@
       "category": "game",
       "teams": [
         "PHI"
-      ]
-    },
-    {
-      "title": "John Harbaugh challenges Tom Brady to leave retirement: 'I doubt for one second he could'",
-      "url": "https://www.cbssports.com/nfl/news/giants-john-harbaugh-challenges-tom-brady-retirement/",
-      "summary": "The New York Giants coach sent a playful jab toward the future Pro Football Hall of Famer when assessing his quarterback situation",
-      "published": "Sat, 24 Oct 2026 17:40:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NYG"
       ]
     }
   ],
