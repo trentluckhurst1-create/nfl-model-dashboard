@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-25T21:56:15.274636+00:00",
-  "checked_at_utc": "2026-10-25T21:56:15.274636+00:00",
+  "updated_at_utc": "2026-10-25T23:58:30.305885+00:00",
+  "checked_at_utc": "2026-10-25T23:58:30.305885+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 11,
+      "items": 18,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -20,6 +20,20 @@
     }
   },
   "items": [
+    {
+      "title": "Detroit Holds Onto Valuable Win: 3 Takeaways From The Lions' Win Over The Packers",
+      "url": "https://www.foxsports.com/stories/nfl/green-bay-packers-vs-detroit-lions-takeaways-week-7-october-25",
+      "summary": "The Lions improved to 4-2 with a dramatic win over the Packers. Here are our takeaways from the Week 7 matchup.",
+      "published": "Sun, 25 Oct 2026 19:39:14 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "GB"
+      ]
+    },
     {
       "title": "FOX Sports To Broadcast Special Veterans Day Weekend From Military Academies",
       "url": "https://www.foxsports.com/stories/nfl/fox-sports-broadcast-special-veterans-day-weekend-from-military-academies",
@@ -46,23 +60,215 @@
       ]
     },
     {
-      "title": "Terry Bradshaw Calls Out Cowboys, Saying 'Focus Isn\u2019t Where It Should Be\u2019",
-      "url": "https://www.foxsports.com/stories/nfl/terry-bradshaw-calls-out-cowboys-focus-dak-prescott",
-      "summary": "On \"FOX NFL Sunday,\" Terry Bradshaw sounded off on Dallas, calling out what he sees as a lack of focus from Dak Prescott and the offense.",
-      "published": "Sun, 25 Oct 2026 14:07:34 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Jake Bates kicks 22-yard FG as time expires to give Lions 20-17 win over Packers",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873020",
+      "summary": "\u2014 Jake Bates made a 22-yard field goal as time expired to give the Detroit Lions a 20-17 win over the Green Bay Packers on Sunday.",
+      "published": "2026-10-25T23:53:46Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL"
+        "DET",
+        "GB"
+      ]
+    },
+    {
+      "title": "Matthew Stafford sets Rams TD pass record as Los Angeles rolls past Raiders 35-21",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873021",
+      "summary": "\u2014 Matthew Stafford threw for 195 yards and three touchdowns to become the Rams' career leader in passing TDs, and Los...",
+      "published": "2026-10-25T23:51:45Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "LV"
+      ]
+    },
+    {
+      "title": "Bo Nix runs for a 62-yard TD, leads Broncos past the Cardinals for a 30-16 win",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873019",
+      "summary": "\u2014 Bo Nix ran for a 62-yard touchdown, RJ Harvey turned a short screen pass into a 52-yard touchdown and the Denver Broncos...",
+      "published": "2026-10-25T23:44:45Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "DEN"
+      ]
+    },
+    {
+      "title": "Cam Skattebo & Co. answer John Harbaugh's call, lead Giants to OT win",
+      "url": "https://www.espn.com/nfl/story/_/id/50282376/cam-skattebo-co-answer-john-harbaugh-call-pace-giants",
+      "summary": "The Giants' running back group was called out this past week by coach John Harbaugh. They all stepped up Sunday in Houston.",
+      "published": "2026-10-25T23:54:36Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Even Tyler Shough can't save Saints as run game falls to new lows",
+      "url": "https://www.espn.com/nfl/story/_/id/50281161/tyler-shough-cant-save-new-orleans-saints-run-game-lows",
+      "summary": "The Saints' run game wasn't just bad in the loss to Pittsburgh -- it struggled on levels unseen in several decades.",
+      "published": "2026-10-25T23:48:14Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NO"
+      ]
+    },
+    {
+      "title": "Baker Mayfield needs to attempt only 11 passes in Buccaneers' blowout win",
+      "url": "https://www.espn.com/nfl/story/_/id/50282250/buccaneers-mayfield-only-attempts-11-passes-winning-return",
+      "summary": "Baker Mayfield needed to attempt only 11 passes in the Buccaneers' 43-13 victory against the Carolina Panthers on Sunday.",
+      "published": "2026-10-25T23:56:06Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "TB"
+      ]
+    },
+    {
+      "title": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
+      "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-10-25T23:18:44Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Jets' Garrett Wilson says sideline screaming wasn't directed at Geno Smith",
+      "url": "https://www.espn.com/nfl/story/_/id/50282050/jets-garrett-wilson-says-sideline-screaming-directed-geno-smith",
+      "summary": "Garrett Wilson said he was just expressing frustration after cameras caught the Jets star WR screaming on the sideline during a disappointing loss to Miami.",
+      "published": "2026-10-25T23:23:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "After collapsing vs. Bengals, Jesse Minter says Ravens need identity check",
+      "url": "https://www.espn.com/nfl/story/_/id/50281972/after-loss-jesse-minter-says-ravens-need-identity-check",
+      "summary": "After the Ravens' 35-13 loss to the Bengals on Sunday -- which included the worst half in team history -- coach Jesse Minter said his team is at a crossroads.",
+      "published": "2026-10-25T23:14:32Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CIN"
+      ]
+    },
+    {
+      "title": "Colts' Shane Steichen says he's not considering benching QB Daniel Jones",
+      "url": "https://www.espn.com/nfl/story/_/id/50281882/colts-shane-steichen-says-not-considering-qb-change",
+      "summary": "Colts coach Shane Steichen said Sunday he hasn't thought about a quarterback change following Daniel Jones' struggles.",
+      "published": "2026-10-25T23:48:25Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "49ers 'took a step back' in first loss of season against Falcons",
+      "url": "https://www.espn.com/nfl/story/_/id/50281333/49ers-step-back-first-loss-season-falcons",
+      "summary": "On Sunday, after the Niners blew an 11-point lead and lost their first game of the season to the Atlanta Falcons, Warner had the distinct feeling that the outcome directly aligned with a lack of progress.",
+      "published": "2026-10-25T23:49:24Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "SF"
+      ]
+    },
+    {
+      "title": "Vikings rally to reach 6-0 even as offense hits historic lows for unbeaten team",
+      "url": "https://www.espn.com/nfl/story/_/id/50281597/vikings-rally-beat-colts-reach-6-0-lagging-offense",
+      "summary": "As his offense continued to grind Sunday at historically low levels for an undefeated team, Vikings coach Kevin O'Connell had a simple message: \"We're not far off.\"",
+      "published": "2026-10-25T23:16:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "Chase's fiery halftime speech inspires Bengals to comeback win vs. Ravens",
+      "url": "https://www.espn.com/nfl/story/_/id/50281493/jamarr-chase-fiery-half-speech-inspires-bengals-win",
+      "summary": "Ja'Marr Chase unloaded on his Bengals teammates in a halftime speech that inspired Cincinnati to a comeback victory over the Ravens.",
+      "published": "2026-10-25T23:46:50Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CIN"
+      ]
+    },
+    {
+      "title": "Jeff Hafley, Dolphins hold off Jets, then revel in first win of season",
+      "url": "https://www.espn.com/nfl/story/_/id/50281453/jeff-hafley-dolphins-revel-first-win-season",
+      "summary": "The Dolphins snapped a five-game losing streak to win their first game of the season, holding off a late New York Jets rally for a 28-25 victory.",
+      "published": "2026-10-25T22:55:20Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Breaking down Cowboys-Eagles MNF matchup in wide-open NFC East",
+      "url": "https://www.espn.com/nfl/story/_/id/50257820/cowboys-eagles-matchup-wide-open-nfc-east-mnf-week-7",
+      "summary": "Both teams enter the game 2-4, looking far from formidable and staring up at the 4-2-1 division-leading Giants.",
+      "published": "2026-10-25T22:18:03Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "NYG",
+        "PHI"
       ]
     },
     {
       "title": "Kendal Daniels seals Falcons' win with INT one week after trip to hospital",
       "url": "https://www.espn.com/nfl/story/_/id/50280836/kendal-daniels-seals-falcons-win-fourth-quarter-int",
       "summary": "Kendal Daniels had the game-sealing interception to help the Falcons beat the 49ers one week after he was immobilized by medical personnel.",
-      "published": "2026-10-25T21:56:12Z",
+      "published": "2026-10-25T23:58:06Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -76,7 +282,7 @@
       "title": "Falcons hand 49ers first loss, deliver petty post to top NFL Week 7 trolls",
       "url": "https://www.espn.com/nfl/story/_/id/50280779/nfl-week-7-trolls",
       "summary": "The Atlanta Falcons' petty jab at the San Francisco 49ers leads the way for NFL's Week 7 trolls.",
-      "published": "2026-10-25T21:44:16Z",
+      "published": "2026-10-25T22:01:52Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -90,7 +296,7 @@
       "title": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
       "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026",
       "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
-      "published": "2026-10-25T21:44:53Z",
+      "published": "2026-10-25T22:18:59Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -98,112 +304,127 @@
       "teams": []
     },
     {
-      "title": "Singletary's 30-yard run in OT gives Giants 27-21 win over Texans",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873016",
-      "summary": "\u2014 Devin Singletary\u2019s 30-yard touchdown run in overtime lifted the New York Giants to a 27-21 win over the Houston Texans on Sunday.",
-      "published": "2026-10-25T20:45:01Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 7 overreactions: Worst Panthers loss of the season? Ravens to miss playoffs after another blown lead?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-overreactions-panthers-bryce-young-ravens/",
+      "summary": "Plus, should the Vikings regret their quarterback choice?",
+      "published": "Sun, 25 Oct 2026 23:05:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL",
+        "CAR",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Chiefs vs. Seahawks prediction, odds, start time, betting preview: Sunday Night Football picks, best bets",
+      "url": "https://www.cbssports.com/betting/news/chiefs-seahawks-prediction-odds-start-time-betting-preview-sunday-night-football-picks-best-bets/",
+      "summary": "Best bets and betting preview for Chiefs vs. Seahawks on Sunday Night Football",
+      "published": "Sun, 25 Oct 2026 23:05:30 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "HOU",
-        "NYG"
+        "KC",
+        "SEA"
       ]
     },
     {
-      "title": "Deshaun Watson leads another game-winning drive as the Browns beat the Titans 27-24",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873013",
-      "summary": "\u2014 Deshaun Watson led his fifth game-winning drive in the fourth quarter this season, connecting with Harold Fannin Jr. on a 36-yard catch-and run that set up Andre Szmyt's 32-yard field goal...",
-      "published": "2026-10-25T20:35:46Z",
-      "source": "ESPN NFL",
+      "title": "Chiefs vs. Seahawks picks, prediction, player props: Expert's best bets for Sunday Night Football NFL Week 7",
+      "url": "https://www.cbssports.com/betting/news/chiefs-vs-seahawks-picks-prediction-player-props-experts-best-bets-for-sunday-night-football-nfl-week-7/",
+      "summary": "Backing Patrick Mahomes as a road underdog leads Sunday night's top betting plays, along with props on Kenneth Walker and Jaxson Smith-Njigba",
+      "published": "Sun, 25 Oct 2026 23:00:48 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CLE",
-        "TEN"
+        "KC",
+        "SEA"
       ]
     },
     {
-      "title": "Malik Willis sparks first win for Jeff Hafley and Dolphins hold off late Jets rally in 28-25 victory",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873015",
-      "summary": "\u2014 Jeff Hafley had a towel draped around his neck as he stepped to the podium and the Miami Dolphins coach wiped his face one last time before taking questions from reporters.",
-      "published": "2026-10-25T20:25:45Z",
-      "source": "ESPN NFL",
+      "title": "Steelers' Aaron Rodgers reveals NFL once had a completely different plan for its international games",
+      "url": "https://www.cbssports.com/nfl/news/steelers-aaron-rodgers-nfl-once-considered-week-all-international-games/",
+      "summary": "Rodgers is now the first quarterback to play an international game in three different countries in three straight years",
+      "published": "Sun, 25 Oct 2026 22:57:07 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "qb",
       "teams": [
-        "MIA",
-        "NYJ"
+        "PIT"
       ]
     },
     {
-      "title": "Michael Penix Jr. throws 3 TD passes, Falcons force 4 turnovers to give 49ers first loss, 29-20",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873017",
-      "summary": "\u2014 Michael Penix Jr. threw three touchdown passes, Atlanta scored 13 points off four turnovers and the Falcons handed the San Francisco 49ers their first loss, 29-20 on Sunday.",
-      "published": "2026-10-25T20:22:46Z",
-      "source": "ESPN NFL",
+      "title": "Christian McCaffrey injury: 49ers' RB says leg 'just died' on him during loss to Falcons",
+      "url": "https://www.cbssports.com/nfl/news/49ers-rb-christian-mccaffrey-injury-updates-falcons/",
+      "summary": "McCaffrey expressed his frustrations with his limitations during the game",
+      "published": "Sun, 25 Oct 2026 22:43:42 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "injury",
       "teams": [
         "ATL",
         "SF"
       ]
     },
     {
-      "title": "Vikings defense clamps down on Daniel Jones and the Colts for a 16-10 victory to stay undefeated",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873014",
-      "summary": "\u2014 Harrison Smith capped another dominant performance by Minnesota's defense with the game-sealing interception, and the Vikings overcame another sluggish start to stay unbeaten with a 16-10...",
-      "published": "2026-10-25T20:16:52Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 7 grades: Falcons earn solid 'A' mark, while Panthers flop with a resounding 'F'",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-grades-falcons-buccaneers-giants-panthers/",
+      "summary": "We're grading every game from Week 7 that has been played so far",
+      "published": "Sun, 25 Oct 2026 22:34:08 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "IND",
-        "MIN"
+        "ATL",
+        "CAR"
       ]
     },
     {
-      "title": "Week 7 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026",
-      "summary": "Check here for Sunday's top moments and TDs from J.J. McCarthy, Bucky Irving, Jonathan Taylor, Aaron Rodgers and more.",
-      "published": "2026-10-25T21:23:20Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Burrow throws 4 TD passes as Bengals storm past Jackson-less Ravens in 2nd half of 35-13 win",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873012",
-      "summary": "\u2014 Joe Burrow threw four touchdown passes in the second half, and the Cincinnati Bengals rebounded from a desultory first two quarters to beat Baltimore 35-13 on Sunday, handing the Ravens a second straight divisional loss with Lamar Jackson sidelined.",
-      "published": "2026-10-25T20:12:58Z",
-      "source": "ESPN NFL",
+      "title": "J.J. McCarthy, Cam Skattebo seize second chances as John Harbaugh's surprising Giants keep rolling",
+      "url": "https://www.cbssports.com/nfl/news/giants-overtime-win-john-harbaugh-j-j-mccarthy-cam-skattebo/",
+      "summary": "McCarthy impressed in his first start for New York, and Skattebo responded emphatically to his Week 6 benching",
+      "published": "Sun, 25 Oct 2026 22:07:19 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL",
-        "CIN"
+        "NYG"
       ]
     },
     {
-      "title": "Bucky Irving runs for 2 TDs and Bucs force 4 turnovers in 43-13 rout of Panthers",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873018",
-      "summary": "\u2014 The Tampa Bay Buccaneers wanted to make sure not to put too much on Baker Mayfield's plate with their quarterback still healing from a dislocated thumb and wearing a protective glove on his throwing hand.",
-      "published": "2026-10-25T20:06:46Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 7 winners and losers: Cam Skattebo, J.J. McCarthy lift Giants; Aaron Glenn's seat heats up",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-winners-losers-cam-skattebo-j-j-mccarthy-giants-aaron-glenn/",
+      "summary": "One of the New York teams is in much better shape than the other. Plus, what happened to the Panthers?",
+      "published": "Sun, 25 Oct 2026 22:05:45 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": [
         "CAR",
-        "TB"
+        "NYG"
+      ]
+    },
+    {
+      "title": "Cam Skattebo redemption game: Giants RB returns with stellar performance after benching",
+      "url": "https://www.cbssports.com/nfl/news/new-york-giants-cam-skattebo-shines-vs-houston-texans/",
+      "summary": "Fresh out of the dog house, the second-year back erupted for 124 yards and set up Devin Singletary's overtime touchdown to revive New York's run game",
+      "published": "Sun, 25 Oct 2026 21:51:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
       ]
     },
     {
@@ -232,20 +453,6 @@
       "teams": [
         "DET",
         "GB"
-      ]
-    },
-    {
-      "title": "49ers RB Christian McCaffrey returns vs. Falcons after going to locker room with thigh injury",
-      "url": "https://www.cbssports.com/nfl/news/49ers-rb-christian-mccaffrey-injury-updates-falcons/",
-      "summary": "The Niners can breathe a sigh of relief with CMC back on the field",
-      "published": "Sun, 25 Oct 2026 19:07:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "SF"
       ]
     },
     {
@@ -409,121 +616,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "Cam Skattebo expected to reprise his role as Giants' lead running back vs. Texans, per report",
-      "url": "https://www.cbssports.com/nfl/news/cam-skattebo-giants-return-lead-running-back-vs-texans/",
-      "summary": "Skattebo had zero carries during last week's loss to the Saints",
-      "published": "Sun, 25 Oct 2026 13:15:21 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "NO",
-        "NYG"
-      ]
-    },
-    {
-      "title": "National Tight Ends Day betting guide: 10 who will score on this special Sunday in NFL Week 7",
-      "url": "https://www.cbssports.com/nfl/news/national-tight-ends-day-betting-guide-10-te-to-score/",
-      "summary": "George Kittle headlines the top anytime TD scorer picks as the league celebrates its annual holiday with big plus-money value across the board",
-      "published": "Sun, 25 Oct 2026 13:09:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Saints vs. Steelers prediction: Aaron Rodgers, Tyler Shough to duel in first-ever game in Paris",
-      "url": "https://www.cbssports.com/nfl/news/steelers-vs-saints-how-to-watch-odds-preview-prediction/",
-      "summary": "Plus, how to watch, what to know and a preview from an NFL expert",
-      "published": "Sun, 25 Oct 2026 11:40:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NO",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Prisco's Week 7 NFL picks: Lions edge Packers, Steelers top Saints in Paris",
-      "url": "https://www.cbssports.com/nfl/news/priscos-week-7-nfl-picks-odds-expert-picks-upsets/",
-      "summary": "Pete Prisco reveals all of his Week 7 picks, including the Chiefs over the Seahawks in Kenneth Walker's revenge game",
-      "published": "Sun, 25 Oct 2026 03:00:51 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "GB",
-        "KC",
-        "NO",
-        "PIT",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Giants' John Harbaugh details J.J. McCarthy decision with convincing explanation: 'Heck of a skill set'",
-      "url": "https://www.cbssports.com/nfl/news/giants-john-harbaugh-details-j-j-mccarthy-start/",
-      "summary": "The switch from Jameis Winston to McCarthy comes after the third-year quarterback has been with the team for four weeks",
-      "published": "Sat, 24 Oct 2026 22:18:20 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "NFL levies two fines to 49ers LB Fred Warner for hit on Commanders TE Chig Okonkwo",
-      "url": "https://www.cbssports.com/nfl/news/nfl-levies-two-fines-to-49ers-lb-fred-warner/",
-      "summary": "Warner was initially flagged for the violation, but the officials picked it up",
-      "published": "Sat, 24 Oct 2026 22:12:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SF",
-        "WAS"
-      ]
-    },
-    {
-      "title": "NFL Week 7 last-minute best bets: Cardinals upset Broncos, Vikings cruise to win over Colts",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-last-minute-best-bets-cardinals-broncos-vikings-colts/",
-      "summary": "Need some last-minute advice on how to bet the Week 7 slate? Allow us to be of assistance",
-      "published": "Sun, 25 Oct 2026 16:09:08 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "DEN",
-        "IND",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Ravens vs. Bengals: How to watch AFC North showdown with big playoff implications",
-      "url": "https://www.cbssports.com/nfl/news/bengals-vs-ravens-how-to-watch-odds-preview-prediction/",
-      "summary": "Everything you need to know to catch the Week 7 matchup",
-      "published": "Sat, 24 Oct 2026 20:19:56 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "CIN"
-      ]
     }
   ],
   "reporters": []
