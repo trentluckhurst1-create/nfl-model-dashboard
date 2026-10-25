@@ -1,25 +1,235 @@
 {
-  "updated_at_utc": "2026-10-25T06:59:58.296994+00:00",
-  "checked_at_utc": "2026-10-25T06:59:58.296994+00:00",
+  "updated_at_utc": "2026-10-25T12:30:42.586794+00:00",
+  "checked_at_utc": "2026-10-25T12:30:42.586794+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 1,
+      "items": 9,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 35
+      "items": 31
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 20,
+      "items": 26,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "How to Watch Chiefs vs. Seahawks: TV Channel, Live Stream, Time - October 25, 2026",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-chiefs-vs-seahawks-tv-channel-live-stream-time-october-25-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 7 Chiefs and Seahawks game.",
+      "published": "Sun, 25 Oct 2026 08:00:49 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "SEA"
+      ]
+    },
+    {
+      "title": "How to Watch Giants vs. Texans: TV Channel, Live Stream, Time - October 25, 2026",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-giants-vs-texans-tv-channel-live-stream-time-october-25-2026",
+      "summary": "It sets up as an early measuring-stick game for both teams.",
+      "published": "Sun, 25 Oct 2026 08:00:49 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "NYG"
+      ]
+    },
+    {
+      "title": "How to Watch Browns vs. Titans: TV Channel, Live Stream, Time - October 25, 2026",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-browns-vs-titans-tv-channel-live-stream-time-october-25-2026",
+      "summary": "It is a matchup between a division leader and a team trying to build on its first win.",
+      "published": "Sun, 25 Oct 2026 08:00:48 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "TEN"
+      ]
+    },
+    {
+      "title": "How to Watch 49ers vs. Falcons: TV Channel, Live Stream, Time - October 25, 2026",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-49ers-vs-falcons-tv-channel-live-stream-time-october-25-2026",
+      "summary": "The matchup brings an early measuring-stick feel to Week 7, with the San Francisco 49ers visiting the Atlanta Falcons in the 2026 NFL regular season on...",
+      "published": "Sun, 25 Oct 2026 08:00:47 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "SF"
+      ]
+    },
+    {
+      "title": "How to Watch Buccaneers vs. Panthers: TV Channel, Live Stream, Time - October 25, 2026",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-buccaneers-vs-panthers-tv-channel-live-stream-time-october-25-2026",
+      "summary": "This NFC South matchup brings the Carolina Panthers and Tampa Bay Buccaneers together in the 2026 NFL regular season, with kickoff set for Sunday, October...",
+      "published": "Sun, 25 Oct 2026 08:00:44 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "TB"
+      ]
+    },
+    {
+      "title": "How to Watch Steelers vs. Saints: TV Channel, Live Stream, Time - October 25, 2026",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-saints-tv-channel-live-stream-time-october-25-2026",
+      "summary": "The Saints head into this Week 7 NFL matchup against the Steelers on Sunday, October 25, 2026 at 9:30 AM EDT at Stade de France in Saint-Denis, France,...",
+      "published": "Sun, 25 Oct 2026 08:00:43 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NO",
+        "PIT"
+      ]
+    },
+    {
+      "title": "How to Watch Packers vs. Lions: TV Channel, Live Stream, Time - October 25, 2026",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-packers-vs-lions-tv-channel-live-stream-time-october-25-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 7 Packers and Lions game.",
+      "published": "Sun, 25 Oct 2026 08:00:38 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "GB"
+      ]
+    },
+    {
+      "title": "How to Watch Rams vs. Raiders: TV Channel, Live Stream, Time - October 25, 2026",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-rams-vs-raiders-tv-channel-live-stream-time-october-25-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 7 Rams and Raiders game.",
+      "published": "Sun, 25 Oct 2026 08:00:31 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "LV"
+      ]
+    },
+    {
+      "title": "How to Watch Dolphins vs. Jets: TV Channel, Live Stream, Time - October 25, 2026",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-dolphins-vs-jets-tv-channel-live-stream-time-october-25-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 7 Miami Dolphins and New York Jets game.",
+      "published": "Sun, 25 Oct 2026 08:00:31 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "How to Watch Cowboys vs. Eagles: TV Channel, Live Stream, Time - October 26, 2026",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cowboys-vs-eagles-tv-channel-live-stream-time-october-26-2026",
+      "summary": "It has been a rough opening stretch for both sides heading into this NFC East matchup.",
+      "published": "Sun, 25 Oct 2026 08:00:29 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "How to Watch Bengals vs. Ravens: TV Channel, Live Stream, Time - October 25, 2026",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-bengals-vs-ravens-tv-channel-live-stream-time-october-25-2026",
+      "summary": "The AFC North matchup comes into focus this week as the Baltimore Ravens host the Cincinnati Bengals in the 2026 NFL regular season on Sunday, October 25 at...",
+      "published": "Sun, 25 Oct 2026 08:00:26 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CIN"
+      ]
+    },
+    {
+      "title": "How to Watch Broncos vs. Cardinals: TV Channel, Live Stream, Time - October 25, 2026",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-broncos-vs-cardinals-tv-channel-live-stream-time-october-25-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 7 Denver Broncos and Arizona Cardinals game.",
+      "published": "Sun, 25 Oct 2026 08:00:20 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "DEN"
+      ]
+    },
+    {
+      "title": "How to Watch Colts vs. Vikings: TV Channel, Live Stream, Time - October 25, 2026",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-colts-vs-vikings-tv-channel-live-stream-time-october-25-2026",
+      "summary": "Learn which TV channel or how to live stream the NFL Week 7 Colts and Vikings game.",
+      "published": "Sun, 25 Oct 2026 08:00:10 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Lions vs. Packers Prediction, Odds, Pick For NFL Week 7",
+      "url": "https://www.foxsports.com/stories/nfl/lions-vs-packers-prediction-odds-pick-nfl-week-7",
+      "summary": "Get the latest odds, prediction and pick for the Week 7 Lions vs. Packers game, as well as information on how to watch.",
+      "published": "Sun, 25 Oct 2026 04:25:35 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "GB"
+      ]
+    },
+    {
+      "title": "Raiders vs. Rams Prediction, Odds, Pick For NFL Week 7",
+      "url": "https://www.foxsports.com/stories/nfl/raiders-vs-rams-prediction-odds-pick-nfl-week-7",
+      "summary": "Get the latest odds, prediction and pick for the Week 7 Raiders vs. Rams game, as well as information on how to watch.",
+      "published": "Sun, 25 Oct 2026 04:25:09 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "LV"
+      ]
+    },
     {
       "title": "Panthers vs. Buccaneers Prediction, Odds, Pick For NFL Week 7",
       "url": "https://www.foxsports.com/stories/nfl/panthers-vs-buccaneers-prediction-odds-pick-nfl-week-7",
@@ -164,138 +374,181 @@
       ]
     },
     {
-      "title": "Giants DC Dennard Wilson Rips Team's Defensive 'Traitors'",
-      "url": "https://www.foxsports.com/stories/nfl/giants-dc-dennard-wilson-traitors-comment-nfl-defense-stats",
-      "summary": "New York Giants defensive coordinator Dennard Wilson reprimanded members of his defense for their Week 6 performance.",
-      "published": "Fri, 23 Oct 2026 10:23:05 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Sources: Peyton Manning not expected to be candidate for Colts' vacant GM job",
+      "url": "https://www.espn.com/nfl/story/_/id/50267058/sources-peyton-manning-not-candidate-colts-gm-job",
+      "summary": "The Colts have not approached Peyton Manning about their vacant GM job, nor would the ex-QB be expected to be interested in the position, according to sources.",
+      "published": "2026-10-25T12:30:05Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "NYG"
+        "IND"
       ]
     },
     {
-      "title": "2026 NFL Week 7 Best Bets, Expert Picks: Back The Under In Chiefs-Seahawks",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-7-best-bets-expert-picks-expects-under-chiefs-seahawks",
-      "summary": "Geoff Schwartz sees a low-scoring affair in Seattle and CMC being Brock Purdy's greatest pass-catching threat in Atlanta.",
-      "published": "Fri, 23 Oct 2026 10:20:34 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Caleb Williams Outduels Drake Maye: 4 Takeaways From The Bears' Win",
-      "url": "https://www.foxsports.com/stories/nfl/new-england-patriots-vs-chicago-bears-takeaways-october-22",
-      "summary": "Two of the NFL's best young quarterbacks were on full display on Thursday night, when Caleb Williams' Bears beat Drake Maye's Patriots.",
-      "published": "Thu, 22 Oct 2026 23:37:30 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Week 7 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026",
+      "summary": "Check here for Sunday's top moments, starting with Aaron Rodgers, Jaylen Warren, Tyler Shough and Alvin Kamara in France.",
+      "published": "2026-10-25T12:07:46Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
-      "teams": [
-        "CHI",
-        "NE"
-      ]
-    },
-    {
-      "title": "Why Tom Brady Believes A Pair Of Veteran QBs Throw The Prettiest Passes In The NFL",
-      "url": "https://www.foxsports.com/stories/nfl/why-tom-brady-believes-pair-veteran-qbs-throw-prettiest-passes-nfl",
-      "summary": "Tom Brady was quick to name a pair of star veteran QBs when he was asked who throws the prettiest passes.",
-      "published": "Thu, 22 Oct 2026 20:09:01 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
       "teams": []
     },
     {
-      "title": "Will Hill's Parlay Of The Week: Back Seahawks To Win, Falcons To Cover",
-      "url": "https://www.foxsports.com/stories/nfl/will-hills-parlay-week-back-seahawks-win-falcons-cover",
-      "summary": "Check out Will Hill's five-leg parlay, featuring a Seattle win over Kansas City and a barnburner in Atlanta.",
-      "published": "Thu, 22 Oct 2026 19:40:17 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Rams optimistic that star WR Puka Nacua will play vs. Raiders, source says",
+      "url": "https://www.espn.com/nfl/story/_/id/50275162/source-rams-optimistic-puka-nacua-play-vs-raiders",
+      "summary": "The Rams are optimistic that star wide receiver Puka Nacua will play Sunday against the Raiders, a source told ESPN.",
+      "published": "2026-10-25T11:57:25Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL",
-        "SEA"
+        "LA",
+        "LV"
       ]
     },
     {
-      "title": "More Bad News For Rams: Star WR Puka Nacua Leaves Practice Early With Calf Injury",
-      "url": "https://www.foxsports.com/stories/nfl/rams-star-wr-puka-nacua-leaves-practice-early-calf-injury",
-      "summary": "Los Angeles Rams wide receiver Puke Nacua leaves practice early on Thursday with a calf injury.",
-      "published": "Thu, 22 Oct 2026 19:32:51 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "The 20-Year-Old Behind Two-Minute Drill \u2014 And A Story Bigger Than The Game",
-      "url": "https://www.foxsports.com/stories/college-football/two-minute-drill-viral-game-tennessee-commanders-giants-nfl",
-      "summary": "Tennessee student Max Ashton built a viral football game in two days. His story of perseverance goes far beyond the gridiron.",
-      "published": "Thu, 22 Oct 2026 18:08:05 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Buccaneers QB Baker Mayfield Plans To Start Vs. Panthers On Sunday",
-      "url": "https://www.foxsports.com/stories/nfl/tampa-bay-buccaneers-baker-mayfield-qb-carolina-panthers-injury",
-      "summary": "Barring a setback, Baker Mayfield expects to return from a thumb injury and play when the Tampa Bay Buccaneers face the Carolina Panthers on Sunday.",
-      "published": "Thu, 22 Oct 2026 16:41:51 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CAR",
-        "TB"
-      ]
-    },
-    {
-      "title": "NFL Week 7 Betting Report: Books Seeing Surprising Action On Key Showdowns",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-7-betting-report-books-seeing-surprising-action-key-showdowns",
-      "summary": "How are bettors eyeing Lions-Packers, Chiefs-Seahawks and Patriots-Bears? Patrick Everson reports.",
-      "published": "Thu, 22 Oct 2026 15:31:04 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "DET",
-        "GB",
-        "KC",
-        "NE",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Inside the silent messages Boye Mafe sends every game day",
-      "url": "https://www.espn.com/nfl/story/_/id/50258881/cincinnati-bengals-boye-mafe-sign-language",
-      "summary": "The Bengals defensive end uses sign language to say \"I love you\" to his mother, Bola, who died of pancreatic cancer in 2018.",
-      "published": "2026-10-24T23:35:44Z",
+      "title": "Sources: Colts face big decisions on star players as NFL trade deadline looms",
+      "url": "https://www.espn.com/nfl/story/_/id/50272352/sources-decisions-loom-colts-nfl-trade-deadline",
+      "summary": "The Colts are expected to field trade inquiries on some of their star players, including Jonathan Taylor, DeForest Buckner and Quenton Nelson.",
+      "published": "2026-10-25T12:09:46Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "Browns DT Maliek Collins lands 2-year extension worth $30 million, agent says",
+      "url": "https://www.espn.com/nfl/story/_/id/50275489/browns-maliek-collins-lands-2-year-extension-agent-says",
+      "summary": "The Browns and DT Maliek Collins have agreed to terms on a two-year, $30M extension that includes $23M guaranteed, his agent told ESPN and NFL Network.",
+      "published": "2026-10-25T11:13:54Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CLE"
+      ]
+    },
+    {
+      "title": "Sources: Cam Skattebo expected to resume role as Giants' lead RB vs. Texans",
+      "url": "https://www.espn.com/nfl/story/_/id/50268018/sources-cam-skattebo-expected-giants-lead-rb",
+      "summary": "Cam Skattebo is expected to return to his role as the Giants' lead running back Sunday against the Texans, sources told NFL Network.",
+      "published": "2026-10-25T11:58:35Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Sources: Josh Simmons told to leave Chiefs meeting by Andy Reid, Patrick Mahomes",
+      "url": "https://www.espn.com/nfl/story/_/id/50268181/sources-josh-simmons-told-leave-chiefs-team-meeting",
+      "summary": "Josh Simmons was kicked out of a team meeting by Chiefs coach Andy Reid and QB Patrick Mahomes, but the OT later apologized, sources told NFL Network.",
+      "published": "2026-10-25T12:29:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "NFL execs, coaches rank the league's top five MVP candidates entering Week 7",
+      "url": "https://www.espn.com/nfl/story/_/id/50239053/2026-nfl-season-mvp-early-ranking-watch-list-execs-coaches",
+      "summary": "Brock Purdy? Josh Allen? Or maybe even a non-QB? Sixteen execs and coaches voted on the top five contenders for the MVP award through six weeks.",
+      "published": "2026-10-25T10:00:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Why Derrick Henry has taken Jets RB Braelon Allen under his wing",
+      "url": "https://www.espn.com/nfl/story/_/id/50260368/jets-braelon-allen-encouraged-derrick-henry",
+      "summary": "After Henry saw Allen wearing his shirt in college, he reached out to him, and the two running backs have kept in touch since.",
+      "published": "2026-10-25T10:35:57Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Saints vs. Steelers prediction: Aaron Rodgers, Tyler Shough to duel in first-ever game in Paris",
+      "url": "https://www.cbssports.com/nfl/news/steelers-vs-saints-how-to-watch-odds-preview-prediction/",
+      "summary": "Plus, how to watch, what to know and a preview from an NFL expert",
+      "published": "Sun, 25 Oct 2026 11:40:23 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NO",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Bengals vs. Ravens odds, picks, prediction, spread: Start time, NFL Week 7 betting preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/bengals-vs-ravens-odds-picks-prediction-spread-start-time-nfl-week-7-betting-preview-best-bets/",
+      "summary": "Here's everything bettors need to know for Bengals vs. Ravens in NFL Week 7 action",
+      "published": "Sun, 25 Oct 2026 10:01:16 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
         "CIN"
+      ]
+    },
+    {
+      "title": "NFL Week 7 odds, predictions, expert picks: Who wins Packers-Lions showdown? Texans keep rolling?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-picks-odds-predictions-expert-picks-against-the-spread/",
+      "summary": "Our experts make their selections for Bengals-Ravens, Packers-Lions, Chiefs-Seahawks, Cowboys-Eagles and every other game on the Week 7 schedule",
+      "published": "Sun, 25 Oct 2026 10:01:01 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CIN",
+        "DAL",
+        "DET",
+        "GB",
+        "HOU",
+        "KC",
+        "PHI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Browns vs. Titans odds, picks, prediction, spread: Start time, NFL Week 7 betting preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/browns-vs-titans-odds-picks-prediction-spread-start-time-nfl-week-7-betting-preview-best-bets/",
+      "summary": "Here's everything bettors need to know for Browns vs. Titans in NFL Week 7 action",
+      "published": "Sun, 25 Oct 2026 09:00:58 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "TEN"
       ]
     },
     {
@@ -409,20 +662,6 @@
       "category": "game",
       "teams": [
         "PHI"
-      ]
-    },
-    {
-      "title": "Saints vs. Steelers: Aaron Rodgers, Tyler Shough to duel in first-ever game in Paris",
-      "url": "https://www.cbssports.com/nfl/news/steelers-vs-saints-how-to-watch-odds-preview-prediction/",
-      "summary": "Plus, how to watch, what to know and a preview from an NFL expert",
-      "published": "Sat, 24 Oct 2026 17:51:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NO",
-        "PIT"
       ]
     },
     {
@@ -675,102 +914,6 @@
       "category": "injury",
       "teams": [
         "PHI"
-      ]
-    },
-    {
-      "title": "Colts' Anthony Richardson facing charge for marijuana possession, per report",
-      "url": "https://www.cbssports.com/nfl/news/colts-anthony-richardson-charge-marijuana-possession/",
-      "summary": "Police cited the quarterback during an Oct. 12 traffic stop after officers discovered marijuana and THC gummies inside his vehicle",
-      "published": "Fri, 23 Oct 2026 15:39:56 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "NFL Week 7 bold predictions: Cardinals stun Broncos without scoring TD, Bijan Robinson shreds 49ers",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-bold-predictions-cardinals-broncos-bijan-robinson-49ers/",
-      "summary": "The Cardinals produce another improbable victory behind a barrage of field goals, and the Dolphins finally hold their first lead of the season",
-      "published": "Fri, 23 Oct 2026 14:08:22 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "DEN",
-        "MIA",
-        "SF"
-      ]
-    },
-    {
-      "title": "Jaguars LT Anton Harrison done for season with torn ACL, per report: options for Jaguars at the trade deadline",
-      "url": "https://www.cbssports.com/nfl/news/anton-harrison-injury-jaguars-lt-out-for-season-torn-acl/",
-      "summary": "Walker Little will take over protecting Trevor Lawrence's blind side",
-      "published": "Fri, 23 Oct 2026 13:48:26 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "JAX"
-      ]
-    },
-    {
-      "title": "Cowboys vs. Eagles rivalry game headlines three matchups with underrated big stakes",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-underrated-games-cowboys-eagles-giants-texan/",
-      "summary": "The unpredictable NFC East supplies two of this week's most intriguing under-the-radar matchups",
-      "published": "Fri, 23 Oct 2026 13:20:41 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Caleb Williams wins duel of 2024 NFL Draft QBs; Brewers-Rays World Series opens with a twist",
-      "url": "https://www.cbssports.com/nfl/news/caleb-williams-drake-maye-nfl-draft-qb-brewers-rays-world-series-mlb/",
-      "summary": "Plus the Top 100 And 1 college basketball players for 2026-27",
-      "published": "Fri, 23 Oct 2026 12:49:21 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 7 picks, odds, best bets: Why Bengals will beat Ravens, Saints to cover in Paris",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-picks-chiefs-saints-steelers-paris/",
-      "summary": "This week's five best bets include Kansas City and Cincinnati as road underdogs",
-      "published": "Fri, 23 Oct 2026 12:30:08 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "CIN",
-        "NO"
-      ]
-    },
-    {
-      "title": "Should the Chiefs trade for Garrett Wilson? Why blockbuster deal makes sense, and why it probably won't happen",
-      "url": "https://www.cbssports.com/nfl/news/garrett-wilson-trade-chiefs-jets-star-receiver-2026/",
-      "summary": "Pairing the dynamic Jets wideout with Patrick Mahomes could solve Kansas City's receiver concerns, but several obstacles stand in the way",
-      "published": "Fri, 23 Oct 2026 11:44:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "KC",
-        "NYJ"
       ]
     }
   ],
