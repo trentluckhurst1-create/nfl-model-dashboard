@@ -1,25 +1,36 @@
 {
-  "updated_at_utc": "2026-10-25T19:20:04.893460+00:00",
-  "checked_at_utc": "2026-10-25T19:20:04.893460+00:00",
+  "updated_at_utc": "2026-10-25T21:56:15.274636+00:00",
+  "checked_at_utc": "2026-10-25T21:56:15.274636+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 7,
+      "items": 11,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 24
+      "items": 23
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 18,
+      "items": 3,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "FOX Sports To Broadcast Special Veterans Day Weekend From Military Academies",
+      "url": "https://www.foxsports.com/stories/nfl/fox-sports-broadcast-special-veterans-day-weekend-from-military-academies",
+      "summary": "For the United States' historic 250th birthday celebration FOX Sports will be honoring its heroes on Veterans Day weekend.",
+      "published": "Sun, 25 Oct 2026 16:30:40 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "49ers RB Christian McCaffrey Departs, Then Returns vs. Falcons",
       "url": "https://www.foxsports.com/stories/nfl/49ers-christian-mccaffrey-thigh-injury-update-falcons",
@@ -48,113 +59,11 @@
       ]
     },
     {
-      "title": "Jay Glazer Shares Jalen Hurts Health Update, NFL And NFLPA Joint Investigation",
-      "url": "https://www.foxsports.com/stories/nfl/jay-glazer-jalen-hurts-health-update-nfl-nflpa-joint-investigation",
-      "summary": "On \"FOX NFL Sunday,\" Jay Glazer shared the latest on Jalen Hurts' health and said that the NFL and NFLPA are doing a joint investigation.",
-      "published": "Sun, 25 Oct 2026 13:17:58 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Which Active TEs Remind Rob Gronkowski Of Himself? His Answer Will Surprise You",
-      "url": "https://www.foxsports.com/stories/nfl/which-active-nfl-tight-ends-remind-rob-gronkowski-himself",
-      "summary": "On \"FOX NFL Kickoff,\" Rob Gronkowski revealed the two current tight ends who remind him most of himself. One might come as quite the surprise.",
-      "published": "Sun, 25 Oct 2026 12:34:14 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "When Will Lamar Jackson, Myles Garrett Return? Jay Glazer Provides Updates",
-      "url": "https://www.foxsports.com/stories/nfl/myles-garrett-lamar-jackson-return-jay-glazer-update",
-      "summary": "On \"FOX NFL Kickoff,\" NFL insider Jay Glazer shared key injury updates on Ravens QB Lamar Jackson and Rams edge Myles Garrett.",
-      "published": "Sun, 25 Oct 2026 12:16:20 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "LA"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-7-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 7 matchup in the NFL.",
-      "published": "Sun, 25 Oct 2026 11:54:55 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Will The Rams Be Able To Turn It Around? What NFL Execs, Scouts Make Of L.A.'s 2-4 Start",
-      "url": "https://www.foxsports.com/stories/nfl/will-rams-able-turn-around-what-nfl-execs-scouts-make-l-a-s-2-4-start",
-      "summary": "What in the world is happening in L.A.? We asked that question and more to execs and scouts this week.",
-      "published": "Sun, 25 Oct 2026 11:41:13 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "How to Watch Chiefs vs. Seahawks: TV Channel, Live Stream, Time - October 25, 2026",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-chiefs-vs-seahawks-tv-channel-live-stream-time-october-25-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 7 Chiefs and Seahawks game.",
-      "published": "Sun, 25 Oct 2026 08:00:49 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "SEA"
-      ]
-    },
-    {
-      "title": "How to Watch Giants vs. Texans: TV Channel, Live Stream, Time - October 25, 2026",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-giants-vs-texans-tv-channel-live-stream-time-october-25-2026",
-      "summary": "It sets up as an early measuring-stick game for both teams.",
-      "published": "Sun, 25 Oct 2026 08:00:49 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "NYG"
-      ]
-    },
-    {
-      "title": "How to Watch Browns vs. Titans: TV Channel, Live Stream, Time - October 25, 2026",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-browns-vs-titans-tv-channel-live-stream-time-october-25-2026",
-      "summary": "It is a matchup between a division leader and a team trying to build on its first win.",
-      "published": "Sun, 25 Oct 2026 08:00:48 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "TEN"
-      ]
-    },
-    {
-      "title": "How to Watch 49ers vs. Falcons: TV Channel, Live Stream, Time - October 25, 2026",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-49ers-vs-falcons-tv-channel-live-stream-time-october-25-2026",
-      "summary": "The matchup brings an early measuring-stick feel to Week 7, with the San Francisco 49ers visiting the Atlanta Falcons in the 2026 NFL regular season on...",
-      "published": "Sun, 25 Oct 2026 08:00:47 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Kendal Daniels seals Falcons' win with INT one week after trip to hospital",
+      "url": "https://www.espn.com/nfl/story/_/id/50280836/kendal-daniels-seals-falcons-win-fourth-quarter-int",
+      "summary": "Kendal Daniels had the game-sealing interception to help the Falcons beat the 49ers one week after he was immobilized by medical personnel.",
+      "published": "2026-10-25T21:56:12Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -164,67 +73,64 @@
       ]
     },
     {
-      "title": "How to Watch Buccaneers vs. Panthers: TV Channel, Live Stream, Time - October 25, 2026",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-buccaneers-vs-panthers-tv-channel-live-stream-time-october-25-2026",
-      "summary": "This NFC South matchup brings the Carolina Panthers and Tampa Bay Buccaneers together in the 2026 NFL regular season, with kickoff set for Sunday, October...",
-      "published": "Sun, 25 Oct 2026 08:00:44 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Falcons hand 49ers first loss, deliver petty post to top NFL Week 7 trolls",
+      "url": "https://www.espn.com/nfl/story/_/id/50280779/nfl-week-7-trolls",
+      "summary": "The Atlanta Falcons' petty jab at the San Francisco 49ers leads the way for NFL's Week 7 trolls.",
+      "published": "2026-10-25T21:44:16Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CAR",
-        "TB"
+        "ATL",
+        "SF"
       ]
     },
     {
-      "title": "How to Watch Steelers vs. Saints: TV Channel, Live Stream, Time - October 25, 2026",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-saints-tv-channel-live-stream-time-october-25-2026",
-      "summary": "The Saints head into this Week 7 NFL matchup against the Steelers on Sunday, October 25, 2026 at 9:30 AM EDT at Stade de France in Saint-Denis, France,...",
-      "published": "Sun, 25 Oct 2026 08:00:43 -0400",
-      "source": "FOX Sports NFL",
+      "title": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
+      "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
+      "published": "2026-10-25T21:44:53Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Singletary's 30-yard run in OT gives Giants 27-21 win over Texans",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873016",
+      "summary": "\u2014 Devin Singletary\u2019s 30-yard touchdown run in overtime lifted the New York Giants to a 27-21 win over the Houston Texans on Sunday.",
+      "published": "2026-10-25T20:45:01Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "NO",
-        "PIT"
+        "HOU",
+        "NYG"
       ]
     },
     {
-      "title": "How to Watch Packers vs. Lions: TV Channel, Live Stream, Time - October 25, 2026",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-packers-vs-lions-tv-channel-live-stream-time-october-25-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 7 Packers and Lions game.",
-      "published": "Sun, 25 Oct 2026 08:00:38 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Deshaun Watson leads another game-winning drive as the Browns beat the Titans 27-24",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873013",
+      "summary": "\u2014 Deshaun Watson led his fifth game-winning drive in the fourth quarter this season, connecting with Harold Fannin Jr. on a 36-yard catch-and run that set up Andre Szmyt's 32-yard field goal...",
+      "published": "2026-10-25T20:35:46Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET",
-        "GB"
+        "CLE",
+        "TEN"
       ]
     },
     {
-      "title": "How to Watch Rams vs. Raiders: TV Channel, Live Stream, Time - October 25, 2026",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-rams-vs-raiders-tv-channel-live-stream-time-october-25-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 7 Rams and Raiders game.",
-      "published": "Sun, 25 Oct 2026 08:00:31 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "LV"
-      ]
-    },
-    {
-      "title": "How to Watch Dolphins vs. Jets: TV Channel, Live Stream, Time - October 25, 2026",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-dolphins-vs-jets-tv-channel-live-stream-time-october-25-2026",
-      "summary": "Learn which TV channel or how to live stream the NFL Week 7 Miami Dolphins and New York Jets game.",
-      "published": "Sun, 25 Oct 2026 08:00:31 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Malik Willis sparks first win for Jeff Hafley and Dolphins hold off late Jets rally in 28-25 victory",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873015",
+      "summary": "\u2014 Jeff Hafley had a towel draped around his neck as he stepped to the podium and the Miami Dolphins coach wiped his face one last time before taking questions from reporters.",
+      "published": "2026-10-25T20:25:45Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -234,25 +140,50 @@
       ]
     },
     {
-      "title": "How to Watch Cowboys vs. Eagles: TV Channel, Live Stream, Time - October 26, 2026",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cowboys-vs-eagles-tv-channel-live-stream-time-october-26-2026",
-      "summary": "It has been a rough opening stretch for both sides heading into this NFC East matchup.",
-      "published": "Sun, 25 Oct 2026 08:00:29 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Michael Penix Jr. throws 3 TD passes, Falcons force 4 turnovers to give 49ers first loss, 29-20",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873017",
+      "summary": "\u2014 Michael Penix Jr. threw three touchdown passes, Atlanta scored 13 points off four turnovers and the Falcons handed the San Francisco 49ers their first loss, 29-20 on Sunday.",
+      "published": "2026-10-25T20:22:46Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL",
-        "PHI"
+        "ATL",
+        "SF"
       ]
     },
     {
-      "title": "How to Watch Bengals vs. Ravens: TV Channel, Live Stream, Time - October 25, 2026",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-bengals-vs-ravens-tv-channel-live-stream-time-october-25-2026",
-      "summary": "The AFC North matchup comes into focus this week as the Baltimore Ravens host the Cincinnati Bengals in the 2026 NFL regular season on Sunday, October 25 at...",
-      "published": "Sun, 25 Oct 2026 08:00:26 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Vikings defense clamps down on Daniel Jones and the Colts for a 16-10 victory to stay undefeated",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873014",
+      "summary": "\u2014 Harrison Smith capped another dominant performance by Minnesota's defense with the game-sealing interception, and the Vikings overcame another sluggish start to stay unbeaten with a 16-10...",
+      "published": "2026-10-25T20:16:52Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Week 7 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026",
+      "summary": "Check here for Sunday's top moments and TDs from J.J. McCarthy, Bucky Irving, Jonathan Taylor, Aaron Rodgers and more.",
+      "published": "2026-10-25T21:23:20Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Burrow throws 4 TD passes as Bengals storm past Jackson-less Ravens in 2nd half of 35-13 win",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873012",
+      "summary": "\u2014 Joe Burrow threw four touchdown passes in the second half, and the Cincinnati Bengals rebounded from a desultory first two quarters to beat Baltimore 35-13 on Sunday, handing the Ravens a second straight divisional loss with Lamar Jackson sidelined.",
+      "published": "2026-10-25T20:12:58Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -262,91 +193,45 @@
       ]
     },
     {
-      "title": "Panthers RT Taylor Moton carted off field with ankle and fibula injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50279064/panthers-taylor-moton-carted-ankle-fibula-injury",
-      "summary": "Panthers right tackle Taylor Moton left Sunday's matchup against the Buccaneers on a cart in the third quarter with a left ankle and fibula injury.",
-      "published": "2026-10-25T19:19:33Z",
+      "title": "Bucky Irving runs for 2 TDs and Bucs force 4 turnovers in 43-13 rout of Panthers",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873018",
+      "summary": "\u2014 The Tampa Bay Buccaneers wanted to make sure not to put too much on Baker Mayfield's plate with their quarterback still healing from a dislocated thumb and wearing a protective glove on his throwing hand.",
+      "published": "2026-10-25T20:06:46Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "qb",
       "teams": [
         "CAR",
         "TB"
       ]
     },
     {
-      "title": "Week 7 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026",
-      "summary": "Check here for Sunday's top moments and TDs from J.J. McCarthy, Bucky Irving, Jonathan Taylor, Aaron Rodgers and more.",
-      "published": "2026-10-25T19:10:23Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
-      "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
-      "published": "2026-10-25T17:33:18Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Aaron Rodgers breaks tie with Peyton Manning for third-most TD passes",
-      "url": "https://www.espn.com/nfl/story/_/id/50277960/rodgers-throws-historic-td-pass-steelers-win-1st-paris-game",
-      "summary": "Aaron Rodgers threw one touchdown pass to move alone to third on the career list during the Steelers' 16-10 win over the Saints as the NFL held its first regular-season game in France.",
-      "published": "2026-10-25T18:49:59Z",
-      "source": "ESPN NFL",
+      "title": "Week 7 NFL betting promos, Chiefs-Seahawks: Get over $3,000 in bonuses from online betting apps, sportsbooks",
+      "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-promos-chiefs-seahawks-get-over-3000-in-bonuses-from-online-betting-apps-sportsbooks/",
+      "summary": "Top Week 7 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Sun, 25 Oct 2026 21:26:30 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "NO",
-        "PIT"
+        "KC",
+        "SEA"
       ]
     },
     {
-      "title": "Rodgers throws TD pass in Paris as Steelers beat Saints 16-10 in NFL's regular-season France debut",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873011",
-      "summary": "\u2014 Pittsburgh Steelers quarterback Aaron Rodgers knew a protective slide was out of the question when he scrambled on a key fourth-quarter play in New Orleans territory Sunday.",
-      "published": "2026-10-25T16:54:45Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NO",
-        "PIT"
-      ]
-    },
-    {
-      "title": "NFL depth charts for all 32 teams for 2026 season",
-      "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
-      "summary": "Here are the latest NFL depth charts for all 32 teams.",
-      "published": "2026-10-25T16:21:45Z",
-      "source": "ESPN NFL",
+      "title": "Packers vs. Lions odds, picks, prediction, spread: Start time, betting preview, best bets for NFL Week 7",
+      "url": "https://www.cbssports.com/betting/news/packers-vs-lions-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-nfl-week-7/",
+      "summary": "Here's everything bettors need to know for Packers vs. Lions in NFL Week 7",
+      "published": "Sun, 25 Oct 2026 19:20:39 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Steelers Aaron Rodgers, QB room lead NFL Week 7's best arrivals",
-      "url": "https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-10-25T16:34:16Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
       "teams": [
-        "PIT"
+        "DET",
+        "GB"
       ]
     },
     {
@@ -638,44 +523,6 @@
       "teams": [
         "BAL",
         "CIN"
-      ]
-    },
-    {
-      "title": "NFL Week 7 injury report: Lamar Jackson downgraded to out for Ravens matchup vs. Bengals",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-injury-report-baker-mayfield-lamar-jackson-questionable/",
-      "summary": "A look at game statuses across the league",
-      "published": "Sat, 24 Oct 2026 20:12:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "CIN"
-      ]
-    },
-    {
-      "title": "Rise of the Peanut Punch: Why it's changing how defenses attack the football",
-      "url": "https://www.cbssports.com/nfl/news/what-is-the-peanut-punch-nfl-football/",
-      "summary": "What was once a novelty is now a tool every defensive player uses",
-      "published": "Sat, 24 Oct 2026 19:10:46 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Aaron Rodgers, Kenneth Walker III address Eagles' handling of Jalen Hurts blood clot situation: 'That's crazy'",
-      "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-kenneth-walker-iii-eagles-handling-jalen-hurts-blood-clot/",
-      "summary": "Hurts is presumed to miss the rest of the 2026 regular season",
-      "published": "Sat, 24 Oct 2026 18:58:18 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PHI"
       ]
     }
   ],
