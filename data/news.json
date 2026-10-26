@@ -1,25 +1,89 @@
 {
-  "updated_at_utc": "2026-10-26T10:26:55.391079+00:00",
-  "checked_at_utc": "2026-10-26T10:26:55.391079+00:00",
+  "updated_at_utc": "2026-10-26T16:54:27.766988+00:00",
+  "checked_at_utc": "2026-10-26T16:54:27.766988+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 7,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 23
+      "items": 28
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 11,
+      "items": 16,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "How to Watch Cowboys vs. Eagles: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cowboys-vs-eagles-tv-channel-live-stream-time-october-26-2026",
+      "summary": "It has been a rough opening stretch for both sides heading into this NFC East matchup.",
+      "published": "Mon, 26 Oct 2026 10:36:05 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Happy National Tight Ends Day! The Top 5 Plays From TEs In Week 7",
+      "url": "https://www.foxsports.com/stories/nfl/trey-mcbride-davis-allen-los-angeles-rams-arizona-cardinals-green-bay-packers",
+      "summary": "The tight ends showed out on National Tight Ends Day. Here are the top five moments from tight ends in Week 7.",
+      "published": "Mon, 26 Oct 2026 10:24:54 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL, CFB Weekend Recap: Chiefs' Loss Was 'Best Result For The Book'",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-cfb-weekend-recap-chiefs-loss-best-result-book",
+      "summary": "Bettors tried to overcome a tough Sunday by backing K.C. over Seattle. Well, that strategy failed. That and more from Patrick Everson.",
+      "published": "Mon, 26 Oct 2026 10:08:43 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "Monday Morning NFL Top 10 Rankings: A New No. 1 After Two Undefeated Teams Lose",
+      "url": "https://www.foxsports.com/stories/nfl/monday-morning-nfl-top-10-rankings-new-no-1-after-two-undefeated-teams-lose",
+      "summary": "There's a new number one (and two) in the NFL rankings on Monday morning following Week 7, which saw two undefeated teams go down.",
+      "published": "Mon, 26 Oct 2026 09:46:23 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "The Obvious Solution To Fix Chiefs\u2019 Offense; Packers Can't Stop Beating Themselves",
+      "url": "https://www.foxsports.com/stories/nfl/solution-chiefs-offense-packers-beating-themselves-caleb-williams-jj-mccarthy",
+      "summary": "Insights on age-old issues for the Chiefs and Packers, Caleb Williams' rise, J.J. McCarthy's resurgence, and whether the Vikings are legit.",
+      "published": "Mon, 26 Oct 2026 09:29:32 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "KC",
+        "MIN"
+      ]
+    },
     {
       "title": "2026 Super Bowl Odds: 49ers Remain Favored After Loss; Steelers Surge",
       "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
@@ -178,10 +242,36 @@
       "teams": []
     },
     {
-      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-10-26T10:00:11Z",
+      "title": "Can Lamar Jackson solve the Ravens' historic identity crisis?",
+      "url": "https://www.espn.com/nfl/story/_/id/50286278/can-lamar-jackson-solve-ravens-historic-identity-crisis",
+      "summary": "The Ravens are the NFL's best team in the first half, outscoring teams by 65 points. But they are the worst team in the second half, getting outscored by 70 points.",
+      "published": "2026-10-26T15:49:00Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Aaron Glenn says Garrett Wilson's outburst 'overblown,' defends Jets' offense",
+      "url": "https://www.espn.com/nfl/story/_/id/50287902/aaron-glenn-says-talked-garrett-wilson-outburst",
+      "summary": "Commenting for the first time on Garrett Wilson's sideline outburst during Sunday's loss to Miami, Jets coach Aaron Glenn said it was \"overblown\" by the media.",
+      "published": "2026-10-26T16:52:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Aaron Rodgers suggests full week of international games, jabs at NFL owners",
+      "url": "https://www.espn.com/nfl/story/_/id/50287522/aaron-rodgers-suggests-full-week-nfl-international-games",
+      "summary": "Aaron Rodgers advocated for the NFL to schedule a full week of international games and also jabbed at owners, hinting that they pay lip service to player safety.",
+      "published": "2026-10-26T15:24:48Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -189,22 +279,122 @@
       "teams": []
     },
     {
-      "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
-      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
-      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
-      "published": "2026-10-26T10:06:53Z",
+      "title": "Breaking down Cowboys-Eagles MNF matchup in wide-open NFC East",
+      "url": "https://www.espn.com/nfl/story/_/id/50257820/cowboys-eagles-matchup-wide-open-nfc-east-mnf-week-7",
+      "summary": "Both teams enter the game 2-4, looking far from formidable and staring up at the 4-2-1 division-leading Giants.",
+      "published": "2026-10-26T14:33:51Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "DAL",
+        "NYG",
+        "PHI"
+      ]
     },
     {
-      "title": "Jaxon Smith-Njigba has 150 receiving yards, TD in Seahawks' win vs. Chiefs",
-      "url": "https://www.espn.com/nfl/story/_/id/50285418/jaxon-smith-njigba-stars-seahawks-deal-chiefs-first-loss",
-      "summary": "Jaxon Smith-Njigba wasn't the main story heading into Sunday night's Chiefs-Seahawks matchup -- but he emerged as the game's biggest star, continuing his own historic start by catching nine passes for 150 yards and a touchdown in Seattle's 20-3 win.",
-      "published": "2026-10-26T07:02:28Z",
+      "title": "Sources: Packers LB Zaire Franklin has hairline fracture in leg",
+      "url": "https://www.espn.com/nfl/story/_/id/50287123/sources-packers-zaire-franklin-hairline-fracture-leg",
+      "summary": "Packers linebacker Zaire Franklin has a hairline fracture in his leg and center Sean Rhyan is believed to have a high ankle sprain, sources told NFL Network's Ian Rapoport.",
+      "published": "2026-10-26T14:56:26Z",
       "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "Cowboys vs. Eagles: Where to watch 'Monday Night Football'",
+      "url": "https://www.espn.com/nfl/story/_/id/50249186/cowboys-vs-eagles-watch-monday-night-football-week-7",
+      "summary": "Here's what to know about the Week 7 matchup.",
+      "published": "2026-10-26T13:31:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Will Saquon Barkley play vs. Cowboys? Eagles RB trending toward Monday night return",
+      "url": "https://www.cbssports.com/nfl/news/saquon-barkley-injury-update-eagles-cowboys/",
+      "summary": "Philadelphia has averaged just 28.5 rushing yards per game without Barkley, compared with 109.0 yards when he has played",
+      "published": "Mon, 26 Oct 2026 15:40:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Packers blast officiating after loss to Lions: 'It's bulls---' and 'f---ing up the games'",
+      "url": "https://www.cbssports.com/nfl/news/packers-blast-refs-after-loss-vs-lions-xavier-mckinney/",
+      "summary": "Safety Xavier McKinney unloaded on the referees following a 20-17 defeat, calling out phantom penalties that kept key drives alive for Detroit and that drew criticism from Tom Brady",
+      "published": "Mon, 26 Oct 2026 15:30:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "GB"
+      ]
+    },
+    {
+      "title": "Cowboys announce halftime show artist for Thanksgiving game vs. Eagles",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-halftime-show-thanksgiving-miranda-lambert/",
+      "summary": "Miranda Lambert is the 30th Red Kettle Kickoff halftime performer",
+      "published": "Mon, 26 Oct 2026 15:03:48 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Eagles vs. Cowboys odds, picks, player props: Expert's best bets for NFL Week 7 Monday Night Football",
+      "url": "https://www.cbssports.com/betting/news/eagles-vs-cowboys-odds-picks-player-props-experts-best-bets-for-nfl-week-7-monday-night-football/",
+      "summary": "Take the underdog Eagles getting 4.5 points, back CeeDee Lamb to bounce back through the air and target value on a pair of red-zone tight ends",
+      "published": "Mon, 26 Oct 2026 14:23:04 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Raiders considering 'everything' amid losing streak, including potential Fernando Mendoza turn",
+      "url": "https://www.cbssports.com/nfl/news/raiders-quarterback-fernando-mendoza-kirk-cousins-fourth-straight-loss/",
+      "summary": "Las Vegas has dropped four consecutive games after a 3-0 start, potentially moving the franchise closer to Mendoza",
+      "published": "Mon, 26 Oct 2026 13:49:09 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV"
+      ]
+    },
+    {
+      "title": "Chiefs may have a Harrison Butker problem: Andy Reid says KC kicker 'gotta fix it'",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-harrison-butker-problem-andy-reid-kicker-gotta-fix-it/",
+      "summary": "Butker missed two field goals during Kansas City's Week 7 loss to the Seahawks on Sunday",
+      "published": "Mon, 26 Oct 2026 13:40:25 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -214,24 +404,92 @@
       ]
     },
     {
-      "title": "Seahawks contain Chiefs' Kenneth Walker III in RB's return to Seattle",
-      "url": "https://www.espn.com/nfl/story/_/id/50285364/seahawks-limit-chiefs-rb-kenneth-walker-iii-seattle-return",
-      "summary": "Chiefs running back Kenneth Walker III had his worst game of the season in his return to Seattle on Sunday night.",
-      "published": "2026-10-26T06:46:37Z",
-      "source": "ESPN NFL",
+      "title": "Giants among NFL's biggest Week 7 winners; today's rare Sports Equinox with World Series, MNF, WNBA Finals",
+      "url": "https://www.cbssports.com/nfl/news/giants-among-nfls-biggest-week-7-winners-todays-rare-sports-equinox-with-world-series-mnf-wnba-finals/",
+      "summary": "Plus highlights from UFC 333, another chaotic weekend of college football and blockbuster NHL trade",
+      "published": "Mon, 26 Oct 2026 12:56:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Peyton Manning for Colts GM after Chris Ballard's firing? Why timing isn't right for Hall of Fame QB",
+      "url": "https://www.cbssports.com/nfl/news/peyton-manning-not-interested-colts-gm-chris-ballard/",
+      "summary": "The franchise legend spent 14 seasons in Indianapolis, winning Super Bowl XLI with the Colts",
+      "published": "Mon, 26 Oct 2026 12:26:23 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "Eagles vs. Cowboys prediction, odds, pick: Dallas visits injury-ravaged Philadelphia on Monday Night Football",
+      "url": "https://www.cbssports.com/nfl/news/eagles-vs-cowboys-prediction-odds-monday-night-football-2026/",
+      "summary": "Dallas has dropped two straight games, but Philadelphia enters the NFC East matchup without Jalen Hurts",
+      "published": "Mon, 26 Oct 2026 11:51:40 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Cover 32: There is a very clear Jonathan Taylor trade destination, plus game balls, biggest gaffes from Week 7",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-analysis-why-bengals-trade-colts-jonathan-taylor/",
+      "summary": "Why Cincinnati should make a blockbuster offer for Jonathan Taylor, plus Week 7 game balls for Joe Burrow and Malik Willis",
+      "published": "Mon, 26 Oct 2026 13:37:30 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 8 early odds: Undefeated Vikings gain respect, Chiefs-Broncos line flips",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-odds-lines-spreads-picks-vikings-lions-chiefs-broncos/",
+      "summary": "Minnesota is gaining ground ahead of its NFC North showdown with Detroit, while the Chiefs-Broncos and Eagles-Commanders lines have flipped",
+      "published": "Mon, 26 Oct 2026 11:33:40 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
+        "DEN",
         "KC",
-        "SEA"
+        "MIN",
+        "PHI",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Can the Vikings actually win the Super Bowl with this offense? You're telling me there's a chance",
+      "url": "https://www.cbssports.com/nfl/news/vikings-super-bowl-brian-flores-2026-defense/",
+      "summary": "Minnesota has one of the NFL's worst offenses and a defense playing at a historically dominant level -- the 2015 Broncos provide a blueprint, but there are reasons to be skeptical",
+      "published": "Mon, 26 Oct 2026 11:30:43 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "MIN"
       ]
     },
     {
       "title": "NFL Week 7 grades: Falcons earn solid 'A' mark, while Panthers flop with a resounding 'F'",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-7-grades-falcons-buccaneers-giants-panthers/",
       "summary": "We're grading every game from Week 7 that has been played so far",
-      "published": "Mon, 26 Oct 2026 03:24:47 +0000",
+      "published": "Mon, 26 Oct 2026 12:56:29 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -363,20 +621,6 @@
       ]
     },
     {
-      "title": "Week 7 NFL betting promos, Chiefs-Seahawks: Get over $3,000 in bonuses from online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-promos-chiefs-seahawks-get-over-3000-in-bonuses-from-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 7 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Sun, 25 Oct 2026 21:26:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "SEA"
-      ]
-    },
-    {
       "title": "Packers vs. Lions odds, picks, prediction, spread: Start time, betting preview, best bets for NFL Week 7",
       "url": "https://www.cbssports.com/betting/news/packers-vs-lions-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-nfl-week-7/",
       "summary": "Here's everything bettors need to know for Packers vs. Lions in NFL Week 7",
@@ -459,86 +703,6 @@
       "category": "injury",
       "teams": [
         "TB"
-      ]
-    },
-    {
-      "title": "2026 Week 7 NFL player props, odds, picks, best bets for Sunday's games feature Patrick Mahomes, Jahmyr Gibbs",
-      "url": "https://www.cbssports.com/betting/news/2026-week-7-nfl-player-props-odds-picks-best-bets-sundays-games-feature-patrick-mahomes-jahmyr-gibbs/",
-      "summary": "Bet on NFL player props Week 7 at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
-      "published": "Sun, 25 Oct 2026 15:53:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Colts vs. Vikings NFL Week 7 odds, picks, prediction, spread: Start time, betting preview, best bets",
-      "url": "https://www.cbssports.com/betting/news/colts-vs-vikings-nfl-week-7-odds-picks-prediction-spread-start-time-betting-preview-best-bets/",
-      "summary": "Here's everything bettors need to know for Colts vs. Vikings in NFL Week 7 action",
-      "published": "Sun, 25 Oct 2026 15:45:46 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Browns vs. Titans odds, picks, prediction, spread: Start time, betting preview, best bets for NFL Week 7",
-      "url": "https://www.cbssports.com/betting/news/browns-vs-titans-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-nfl-week-7/",
-      "summary": "Here's everything bettors need to know for Browns vs. Titans in NFL Week 7 action",
-      "published": "Sun, 25 Oct 2026 15:40:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Bengals vs. Ravens odds, picks, prediction, spread: Start time, betting preview, best bets for NFL Week 7",
-      "url": "https://www.cbssports.com/betting/news/bengals-vs-ravens-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-nfl-week-7/",
-      "summary": "Here's everything bettors need to know for Bengals vs. Ravens in NFL Week 7",
-      "published": "Sun, 25 Oct 2026 15:35:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "CIN"
-      ]
-    },
-    {
-      "title": "NFL Week 7 odds, picks: Brinson's player props, best bets, anytime touchdown scorers for Sunday",
-      "url": "https://www.cbssports.com/betting/news/nfl-week-7-odds-picks-brinsons-player-props-best-bets-anytime-touchdown-scorers-for-sunday/",
-      "summary": "Coming off a 6-2 run, Sunday's card features an explosive total in Detroit, value on the underdog Dolphins, and a smash spot for Ja'Marr Chase against the Ravens",
-      "published": "Sun, 25 Oct 2026 15:02:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "MIA"
-      ]
-    },
-    {
-      "title": "Steelers' Aaron Rodgers makes history during NFL's first game in Paris",
-      "url": "https://www.cbssports.com/nfl/news/steelers-aaron-rodgers-makes-history-nfls-first-game-in-paris/",
-      "summary": "Rodgers continues to make history during his final season",
-      "published": "Sun, 25 Oct 2026 14:43:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PIT"
       ]
     }
   ],
