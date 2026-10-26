@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-26T16:54:27.766988+00:00",
-  "checked_at_utc": "2026-10-26T16:54:27.766988+00:00",
+  "updated_at_utc": "2026-10-26T21:23:58.069898+00:00",
+  "checked_at_utc": "2026-10-26T21:23:58.069898+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 7,
+      "items": 10,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,35 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 16,
+      "items": 17,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "2026 NFL Odds Week 8: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-8-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every Week 8 matchup in the NFL.",
+      "published": "Mon, 26 Oct 2026 16:53:49 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Kubiak Says \u2018We\u2019re Thinking About Everything\u2019 As Raiders Consider QB Change",
+      "url": "https://www.foxsports.com/stories/nfl/klint-kubiak-las-vegas-raiders-kirk-cousins-fernando-mendoza-qb1",
+      "summary": "After four straight losses, changes could be on the horizon for the Raiders' offense.",
+      "published": "Mon, 26 Oct 2026 13:44:47 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "LV"
+      ]
+    },
     {
       "title": "How to Watch Cowboys vs. Eagles: TV Channel, Live Stream, Time",
       "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cowboys-vs-eagles-tv-channel-live-stream-time-october-26-2026",
@@ -139,17 +163,6 @@
       ]
     },
     {
-      "title": "2026 NFL Odds Week 8: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-8-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 8 matchup in the NFL.",
-      "published": "Mon, 26 Oct 2026 00:17:48 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "2026 NFL Odds Week 7: Lines, Spreads, Results For All 14 Games",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-7-lines-spreads-results-all-14-games",
       "summary": "Check out the lines for every Week 7 matchup in the NFL.",
@@ -242,6 +255,97 @@
       "teams": []
     },
     {
+      "title": "Ex-Cowboy Dez Bryant calls out police investigation after he's cited for assault",
+      "url": "https://www.espn.com/nfl/story/_/id/50290470/dez-bryant-calls-police-cited-assault",
+      "summary": "Dez Bryant is calling for a thorough investigation by the Southlake Police Department of an incident that resulted in him receiving a citation for assault.",
+      "published": "2026-10-26T21:01:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Ravens' Jesse Minter optimistic QB Lamar Jackson can return vs. Bills",
+      "url": "https://www.espn.com/nfl/story/_/id/50290411/ravens-coach-minter-optimistic-qb-jackson-returns-vs-bills",
+      "summary": "Ravens coach Jesse Minter expressed optimism Monday that quarterback Lamar Jackson could be available for Sunday's game against the Bills.",
+      "published": "2026-10-26T21:19:46Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL",
+        "BUF"
+      ]
+    },
+    {
+      "title": "Browns activate Gabriel off IR, now have 4 QBs on roster",
+      "url": "https://www.espn.com/nfl/story/_/id/50290389/browns-activate-gabriel-ir-now-4-qbs-roster",
+      "summary": "The Browns activated quarterback Dillon Gabriel off injured reserve Monday, giving the team four passers on the 53-man roster.",
+      "published": "2026-10-26T21:03:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CLE"
+      ]
+    },
+    {
+      "title": "Kirk Cousins to remain Raiders' starting QB vs. Jets, Klint Kubiak says",
+      "url": "https://www.espn.com/nfl/story/_/id/50289866/kirk-cousins-remain-raiders-starting-qb-klint-kubiak-says",
+      "summary": "Kirk Cousins will remain the Raiders' starting quarterback for Sunday's game against the Jets, coach Klint Kubiak announced Monday.",
+      "published": "2026-10-26T20:40:25Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "LV",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Vikings RB Jones avoids serious knee injury, day-to-day",
+      "url": "https://www.espn.com/nfl/story/_/id/50289047/vikings-rb-jones-avoids-serious-knee-injury-day-day",
+      "summary": "Vikings running back Aaron Jones Sr. avoided a serious knee injury Sunday and is considered day-to-day, coach Kevin O'Connell confirmed Monday.",
+      "published": "2026-10-26T18:52:49Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "Source: Seahawks LT Charles Cross has high ankle sprain, likely to miss time",
+      "url": "https://www.espn.com/nfl/story/_/id/50288850/source-seahawks-lt-charles-cross-high-ankle-sprain",
+      "summary": "Seahawks left tackle Charles Cross suffered a high ankle sprain and is expected to miss time, a source told NFL Network's Ian Rapoport.",
+      "published": "2026-10-26T18:12:57Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SEA"
+      ]
+    },
+    {
+      "title": "Browns balance relishing close wins, lamenting slow starts",
+      "url": "https://www.espn.com/nfl/story/_/id/50288083/cleveland-browns-balance-close-wins-slow-starts-week-7",
+      "summary": "Despite a \"complete game\" by Deshaun Watson, offensive struggles are still lingering for the AFC North-leading Browns.",
+      "published": "2026-10-26T18:34:24Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE"
+      ]
+    },
+    {
       "title": "Can Lamar Jackson solve the Ravens' historic identity crisis?",
       "url": "https://www.espn.com/nfl/story/_/id/50286278/can-lamar-jackson-solve-ravens-historic-identity-crisis",
       "summary": "The Ravens are the NFL's best team in the first half, outscoring teams by 65 points. But they are the worst team in the second half, getting outscored by 70 points.",
@@ -258,7 +362,7 @@
       "title": "Aaron Glenn says Garrett Wilson's outburst 'overblown,' defends Jets' offense",
       "url": "https://www.espn.com/nfl/story/_/id/50287902/aaron-glenn-says-talked-garrett-wilson-outburst",
       "summary": "Commenting for the first time on Garrett Wilson's sideline outburst during Sunday's loss to Miami, Jets coach Aaron Glenn said it was \"overblown\" by the media.",
-      "published": "2026-10-26T16:52:07Z",
+      "published": "2026-10-26T18:08:25Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -268,63 +372,10 @@
       ]
     },
     {
-      "title": "Aaron Rodgers suggests full week of international games, jabs at NFL owners",
-      "url": "https://www.espn.com/nfl/story/_/id/50287522/aaron-rodgers-suggests-full-week-nfl-international-games",
-      "summary": "Aaron Rodgers advocated for the NFL to schedule a full week of international games and also jabbed at owners, hinting that they pay lip service to player safety.",
-      "published": "2026-10-26T15:24:48Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Breaking down Cowboys-Eagles MNF matchup in wide-open NFC East",
-      "url": "https://www.espn.com/nfl/story/_/id/50257820/cowboys-eagles-matchup-wide-open-nfc-east-mnf-week-7",
-      "summary": "Both teams enter the game 2-4, looking far from formidable and staring up at the 4-2-1 division-leading Giants.",
-      "published": "2026-10-26T14:33:51Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "NYG",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Sources: Packers LB Zaire Franklin has hairline fracture in leg",
-      "url": "https://www.espn.com/nfl/story/_/id/50287123/sources-packers-zaire-franklin-hairline-fracture-leg",
-      "summary": "Packers linebacker Zaire Franklin has a hairline fracture in his leg and center Sean Rhyan is believed to have a high ankle sprain, sources told NFL Network's Ian Rapoport.",
-      "published": "2026-10-26T14:56:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB"
-      ]
-    },
-    {
-      "title": "Cowboys vs. Eagles: Where to watch 'Monday Night Football'",
-      "url": "https://www.espn.com/nfl/story/_/id/50249186/cowboys-vs-eagles-watch-monday-night-football-week-7",
-      "summary": "Here's what to know about the Week 7 matchup.",
-      "published": "2026-10-26T13:31:01Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Will Saquon Barkley play vs. Cowboys? Eagles RB trending toward Monday night return",
-      "url": "https://www.cbssports.com/nfl/news/saquon-barkley-injury-update-eagles-cowboys/",
-      "summary": "Philadelphia has averaged just 28.5 rushing yards per game without Barkley, compared with 109.0 yards when he has played",
-      "published": "Mon, 26 Oct 2026 15:40:47 +0000",
+      "title": "Cowboys vs. Eagles odds: First touchdown scorer picks, predictions for NFL Week 7 Monday Night Football",
+      "url": "https://www.cbssports.com/prediction/news/cowboys-vs-eagles-odds-first-touchdown-scorer-picks-predictions-nfl-week-7-monday-night-football/",
+      "summary": "Here's who we think are the best choices for first touchdown prediction markets on Monday Night Football between the Cowboys and Eagles",
+      "published": "Mon, 26 Oct 2026 21:12:49 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -332,6 +383,104 @@
       "teams": [
         "DAL",
         "PHI"
+      ]
+    },
+    {
+      "title": "NFL trade rumors: 4 potential landing spots for Maxx Crosby if Raiders decide to sell at deadline",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trade-rumors-landing-spots-maxx-crosby-raiders/",
+      "summary": "As the Raiders stumble to 3-4 ahead of the Nov. 10 deadline, contenders like the Bears and Bills could pursue the star pass rusher to fuel a playoff push",
+      "published": "Mon, 26 Oct 2026 20:43:53 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BUF",
+        "CHI",
+        "LV"
+      ]
+    },
+    {
+      "title": "NFL trade deadline matchmaker: Vikings add Jonathan Taylor to boost offense, Chiefs nab WR",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-matchmaker-vikings-jonathan-taylor-chiefs/",
+      "summary": "Moves for several contenders who could look to buy",
+      "published": "Mon, 26 Oct 2026 19:07:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "KC",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Will Saquon Barkley play vs. Cowboys? A look at the Eagles RB's status against Cowboys",
+      "url": "https://www.cbssports.com/nfl/news/saquon-barkley-injury-update-eagles-cowboys/",
+      "summary": "Philadelphia has averaged just 28.5 rushing yards per game without Barkley, compared with 109.0 yards when he has played",
+      "published": "Mon, 26 Oct 2026 18:19:32 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Garrett Wilson trade destinations: Chiefs, 49ers among three potential landing spots for Jets star",
+      "url": "https://www.cbssports.com/nfl/news/jets-garrett-wilson-trade-landing-spots-chiefs-49ers/",
+      "summary": "Kansas City needs another weapon for Patrick Mahomes, but two other teams should also consider calling New York",
+      "published": "Mon, 26 Oct 2026 18:05:46 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "KC",
+        "NYJ",
+        "SF"
+      ]
+    },
+    {
+      "title": "Pick Six: 10 crazy stats from NFL's Week 7, plus Cowboys-Eagles picks for Monday night",
+      "url": "https://www.cbssports.com/nfl/news/pick-six-nfl-week-7-winners-losers-grades-cowboys-eagles-picks/",
+      "summary": "Here's everything you need to know about the NFL for Oct. 26",
+      "published": "Mon, 26 Oct 2026 16:38:48 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Garrett Wilson explains heated Jets sideline moment, says frustration wasn't directed at Geno Smith",
+      "url": "https://www.cbssports.com/nfl/news/garrett-wilson-geno-smith-heated-jets-sideline-exchange/",
+      "summary": "The star receiver acknowledged that he was unhappy with New York's red-zone play calls during an animated conversation",
+      "published": "Mon, 26 Oct 2026 16:26:33 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Colts' Shane Steichen has 'not thought' about QB change despite Daniel Jones' struggles",
+      "url": "https://www.cbssports.com/nfl/news/colts-bench-daniel-jones-shane-steichen-quarterback/",
+      "summary": "Anthony Richardson and Riley Leonard offer little evidence that either would represent an upgrade",
+      "published": "Mon, 26 Oct 2026 15:58:30 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "IND"
       ]
     },
     {
@@ -353,20 +502,6 @@
       "url": "https://www.cbssports.com/nfl/news/cowboys-halftime-show-thanksgiving-miranda-lambert/",
       "summary": "Miranda Lambert is the 30th Red Kettle Kickoff halftime performer",
       "published": "Mon, 26 Oct 2026 15:03:48 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Eagles vs. Cowboys odds, picks, player props: Expert's best bets for NFL Week 7 Monday Night Football",
-      "url": "https://www.cbssports.com/betting/news/eagles-vs-cowboys-odds-picks-player-props-experts-best-bets-for-nfl-week-7-monday-night-football/",
-      "summary": "Take the underdog Eagles getting 4.5 points, back CeeDee Lamb to bounce back through the air and target value on a pair of red-zone tight ends",
-      "published": "Mon, 26 Oct 2026 14:23:04 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -618,91 +753,6 @@
       "category": "game",
       "teams": [
         "NYG"
-      ]
-    },
-    {
-      "title": "Packers vs. Lions odds, picks, prediction, spread: Start time, betting preview, best bets for NFL Week 7",
-      "url": "https://www.cbssports.com/betting/news/packers-vs-lions-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-nfl-week-7/",
-      "summary": "Here's everything bettors need to know for Packers vs. Lions in NFL Week 7",
-      "published": "Sun, 25 Oct 2026 19:20:39 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "GB"
-      ]
-    },
-    {
-      "title": "LOOK: Marvin Harrison Jr. catches first touchdown as a member of the Texans",
-      "url": "https://www.cbssports.com/nfl/news/look-marvin-harrison-jr-catches-first-touchdown-texans/",
-      "summary": "Marvin Harrison Jr. is catching TD passes from C.J. Stroud, just like old times",
-      "published": "Sun, 25 Oct 2026 19:05:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU"
-      ]
-    },
-    {
-      "title": "Broncos vs. Cardinals odds, picks, prediction, spread: Start time, NFL Week 7 betting preview, best bets",
-      "url": "https://www.cbssports.com/betting/news/broncos-vs-cardinals-odds-picks-prediction-spread-start-time-nfl-week-7-betting-preview-best-bets/",
-      "summary": "We have everything bettors need to know before placing any wagers on Sunday's Broncos vs. Cardinals matchup in NFL Week 7",
-      "published": "Sun, 25 Oct 2026 18:45:41 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "DEN"
-      ]
-    },
-    {
-      "title": "NFL Week 7 odds, predictions, expert picks: Who wins Packers-Lions showdown? Rams get back on track?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-picks-odds-predictions-expert-picks-against-the-spread/",
-      "summary": "Our experts make their selections for every game on the Week 7 schedule",
-      "published": "Sun, 25 Oct 2026 17:01:28 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "GB",
-        "LA"
-      ]
-    },
-    {
-      "title": "Week 7 NFL betting odds, spreads, totals, lines for every game, including Lions-Packers, Chiefs-Seahawks",
-      "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-odds-totals-spreads-lines/",
-      "summary": "The Week 7 NFL betting lines, including spreads and totals, are out for every game",
-      "published": "Sun, 25 Oct 2026 16:20:39 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "GB",
-        "KC",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Buccaneers' Baker Mayfield gets unexpected help from World Series team to make return after injury",
-      "url": "https://www.cbssports.com/nfl/news/tampa-bay-rays-help-buccaneers-baker-mayfield-glove/",
-      "summary": "Mayfield is returning after missing three games with a thumb injury to his throwing hand",
-      "published": "Sun, 25 Oct 2026 16:17:17 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "TB"
       ]
     }
   ],
