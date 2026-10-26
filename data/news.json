@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-26T04:30:26.637489+00:00",
-  "checked_at_utc": "2026-10-26T04:30:26.637489+00:00",
+  "updated_at_utc": "2026-10-26T10:26:55.391079+00:00",
+  "checked_at_utc": "2026-10-26T10:26:55.391079+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 13,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,65 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 7,
+      "items": 11,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "2026 Super Bowl Odds: 49ers Remain Favored After Loss; Steelers Surge",
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "summary": "The 49ers remain favorites despite their first loss, but two division rivals are climbing. Check out the latest Super Bowl odds.",
+      "published": "Mon, 26 Oct 2026 03:44:31 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PIT",
+        "SF"
+      ]
+    },
+    {
+      "title": "NFL Week 7 Defining Stats: Rodgers Passes Manning, Burrow Catches Fire",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-7-defining-stats-aaron-rodgers-passes-peyton-manning-joe-burrow-catches-fire",
+      "summary": "Aaron Rodgers and Matthew Stafford rewrote the record books on Sunday. Check out the numbers that defined Week 7 of the NFL season.",
+      "published": "Mon, 26 Oct 2026 03:15:03 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Overreaction Monday: Chiefs Not A Super Bowl Contender? Steelers Are Legit?",
+      "url": "https://www.foxsports.com/stories/nfl/overreaction-monday-chiefs-patrick-mahomes-packers-steelers-buccaneers-giants",
+      "summary": "Are the Chiefs still far away from being contenders? Do we need to take the Steelers seriously? We overreact to Week 7.",
+      "published": "Mon, 26 Oct 2026 01:44:23 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "PIT"
+      ]
+    },
+    {
+      "title": "NFL Fallout Week 7: Lions Announce Themselves As Super Bowl Contenders",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-fallout-week-7-lions-announce-themselves-super-bowl-contenders",
+      "summary": "The Lions have enough defense to contend. Do the the Bengals have enough coaching? Do the Steelers have enough firepower? Here are Ralph Vacchiano's top takeaways from Week 7.",
+      "published": "Mon, 26 Oct 2026 01:08:22 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "DET",
+        "PIT"
+      ]
+    },
     {
       "title": "2026 NFL Odds Week 8: Lines, Spreads, Results For All 14 Games",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-8-lines-spreads-results-all-14-games",
@@ -124,10 +178,32 @@
       "teams": []
     },
     {
-      "title": "Jaxon Smith-Njigba, stifling defense help Seahawks hand Chiefs first loss",
-      "url": "https://www.espn.com/nfl/story/_/id/50252989/seahawks-beat-chiefs-sunday-night-football-smith-njigba",
-      "summary": "Seattle's bread and butter from its Super Bowl championship season -- Jaxon Smith-Njigba and defense -- was too much for the Chiefs.",
-      "published": "2026-10-26T04:27:47Z",
+      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-10-26T10:00:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
+      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+      "published": "2026-10-26T10:06:53Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Jaxon Smith-Njigba has 150 receiving yards, TD in Seahawks' win vs. Chiefs",
+      "url": "https://www.espn.com/nfl/story/_/id/50285418/jaxon-smith-njigba-stars-seahawks-deal-chiefs-first-loss",
+      "summary": "Jaxon Smith-Njigba wasn't the main story heading into Sunday night's Chiefs-Seahawks matchup -- but he emerged as the game's biggest star, continuing his own historic start by catching nine passes for 150 yards and a touchdown in Seattle's 20-3 win.",
+      "published": "2026-10-26T07:02:28Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -138,21 +214,10 @@
       ]
     },
     {
-      "title": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
-      "url": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 7.",
-      "published": "2026-10-26T04:29:51Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Seahawks troll Taylor Swift, Travis Kelce to top NFL Week 7's petty posts",
-      "url": "https://www.espn.com/nfl/story/_/id/50280779/nfl-week-7-trolls",
-      "summary": "The Seattle Seahawks' petty post at Taylor Swift and Kansas City Chiefs' Travis Kelce leads the way for NFL's Week 7 trolls.",
-      "published": "2026-10-26T04:28:52Z",
+      "title": "Seahawks contain Chiefs' Kenneth Walker III in RB's return to Seattle",
+      "url": "https://www.espn.com/nfl/story/_/id/50285364/seahawks-limit-chiefs-rb-kenneth-walker-iii-seattle-return",
+      "summary": "Chiefs running back Kenneth Walker III had his worst game of the season in his return to Seattle on Sunday night.",
+      "published": "2026-10-26T06:46:37Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -160,122 +225,6 @@
       "teams": [
         "KC",
         "SEA"
-      ]
-    },
-    {
-      "title": "Week 7 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50275344/week-7-sunday-highlights-best-plays-touchdowns-2026",
-      "summary": "Check here for Sunday's top moments and TDs from J.J. McCarthy, Bucky Irving, Jonathan Taylor, Aaron Rodgers and more.",
-      "published": "2026-10-26T04:06:05Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Jaxon Smith-Njigba has 150 receiving yards and a score in the Seahawks' 20-3 win over the Chiefs",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873022",
-      "summary": "\u2014 Frustrated by a two-game skid, the Seattle Seahawks went into playoff mode.",
-      "published": "2026-10-26T03:33:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Packers rip officiating after roughing penalties prove costly in loss",
-      "url": "https://www.espn.com/nfl/story/_/id/50284205/packers-rip-officiating-roughing-penalties-prove-costly-loss",
-      "summary": "Several Packers players lit up the crew that officiated Sunday's game in Detroit, arguing against roughing penalties that have plagued the team all season.",
-      "published": "2026-10-26T04:00:14Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB"
-      ]
-    },
-    {
-      "title": "Bo Nix wows with 62-yard run as Broncos stand by 'our guy' at QB after win",
-      "url": "https://www.espn.com/nfl/story/_/id/50284110/bo-nix-breaks-slump-carries-broncos-cardinals",
-      "summary": "Sean Payton issued a firm vote of confidence for his embattled quarterback Bo Nix after Sunday's win over the Cardinals.",
-      "published": "2026-10-26T03:12:59Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ARI",
-        "DEN"
-      ]
-    },
-    {
-      "title": "Raiders' Kubiak on switching to QB Mendoza: 'We're thinking about everything'",
-      "url": "https://www.espn.com/nfl/story/_/id/50284090/thinking-everything",
-      "summary": "Raiders coach Klint Kubiak said the team is thinking about everything, including turning to QB Fernando Mendoza, amid a four-game losing streak.",
-      "published": "2026-10-26T04:22:57Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "LV"
-      ]
-    },
-    {
-      "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
-      "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
-      "summary": "The Pittsburgh QB is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\"",
-      "published": "2026-10-26T03:03:21Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Matthew Stafford makes history after 3-TD showing for Rams",
-      "url": "https://www.espn.com/nfl/story/_/id/50283596/matthew-stafford-makes-history-3-td-showing-rams",
-      "summary": "Matthew Stafford on Sunday became the first player to hold the franchise record for passing scores for multiple active teams (Rams, Lions).",
-      "published": "2026-10-26T01:42:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "LA"
-      ]
-    },
-    {
-      "title": "National Tight Ends Day 2026: Davis Allen, Mason Taylor put on a show during holiday",
-      "url": "https://www.espn.com/nfl/story/_/id/50281768/national-tight-end-day-highlights",
-      "summary": "The fourth weekend in October means National Tight Ends Day, and the NFL's tight ends made sure to bring their best.",
-      "published": "2026-10-26T00:53:03Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Judging overreactions to NFL Week 7: McCarthy-led Giants are NFC East favorites?",
-      "url": "https://www.espn.com/nfl/story/_/id/50278065/week-7-overreactions-2026-graziano-mccarthy-giants-bengals",
-      "summary": "Are Giants playoff bound? Are Vikings the NFC top seed? How bad do 49ers need Mike Evans back? We're judging overreactions to Sunday's games.",
-      "published": "2026-10-26T02:03:04Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN",
-        "NYG",
-        "SF"
       ]
     },
     {
