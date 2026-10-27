@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-27T11:00:00.740613+00:00",
-  "checked_at_utc": "2026-10-27T11:00:00.740613+00:00",
+  "updated_at_utc": "2026-10-27T16:26:29.166336+00:00",
+  "checked_at_utc": "2026-10-27T16:26:29.166336+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
@@ -15,11 +15,71 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 23,
+      "items": 25,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "2026 NFL Odds Week 8: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-8-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every Week 8 matchup in the NFL.",
+      "published": "Tue, 27 Oct 2026 11:06:41 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "QB Stock Market Week 8: The Next Step Is The Hardest For Drake Maye, Caleb Williams",
+      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-8-next-step-hardest-drake-maye-caleb-williams",
+      "summary": "How much more can Drake Maye, Caleb Williams and Bryce Young improve? Less is more for Aaron Rodgers. Here are Henry McKenna's latest QB rankings.",
+      "published": "Tue, 27 Oct 2026 11:04:49 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL AFC, NFC Title Odds: Bills-49ers Favored For Super Bowl LXI",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-afc-nfc-title-odds",
+      "summary": "Seven weeks in, the odds say the Bills and 49ers are on a Super Bowl collision course. See the latest.",
+      "published": "Tue, 27 Oct 2026 11:03:47 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "SF"
+      ]
+    },
+    {
+      "title": "Return Of The 'X-Factor': Brian Branch Makes Lions A Legit Super Bowl Contender",
+      "url": "https://www.foxsports.com/stories/nfl/brian-branch-makes-lions-super-bowl-contender",
+      "summary": "The return of safety Brian Branch from last season's Achilles injury makes Detroit one of the NFL\u2019s scariest teams \u2014 and a title contender.",
+      "published": "Tue, 27 Oct 2026 10:56:30 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Miss The Playoffs?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-to-miss-playoffs",
+      "summary": "Two squads with injured quarterbacks are watching their odds to miss the playoffs move in the wrong direction. See the latest.",
+      "published": "Tue, 27 Oct 2026 10:16:36 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
     {
       "title": "2026 Super Bowl Odds: 49ers Remain Favored After Loss; Cowboys Rise",
       "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
@@ -48,15 +108,15 @@
     {
       "title": "NFL Best & Worst: From Cam Skattebo\u2019s Giant Spark To The Chiefs\u2019 Offensive Sputter",
       "url": "https://www.foxsports.com/stories/nfl/cam-skattebo-sparks-giants-chiefs-offense-stalls-seahawks-defense",
-      "summary": "NFL Week 7 Highs and Lows: The Giants and Rams break out offensively, while the Seahawks' suffocating defense locks down the Chiefs.",
+      "summary": "NFL Week 7 Highs and Lows: The Giants and Cowboys break out offensively, while the Seahawks' suffocating defense locks down the Chiefs.",
       "published": "Tue, 27 Oct 2026 00:29:22 -0400",
       "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
+        "DAL",
         "KC",
-        "LA",
         "NYG",
         "SEA"
       ]
@@ -150,17 +210,6 @@
         "DET",
         "GB"
       ]
-    },
-    {
-      "title": "2026 NFL Odds Week 8: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-8-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 8 matchup in the NFL.",
-      "published": "Mon, 26 Oct 2026 16:53:49 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "Kubiak Says \u2018We\u2019re Thinking About Everything\u2019 As Raiders Consider QB Change",
@@ -291,52 +340,21 @@
       "teams": []
     },
     {
-      "title": "49ers' First Loss Makes It Clear: Their Toughest Opponent Is Their Health",
-      "url": "https://www.foxsports.com/stories/nfl/49ers-falcons-loss-injuries-health-christian-mccaffrey-brock-purdy",
-      "summary": "The 49ers picked up their first loss of the season on Sunday, but it wasn't what the Falcons did that caused them to stumble.",
-      "published": "Sun, 25 Oct 2026 23:38:11 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "SF"
-      ]
-    },
-    {
-      "title": "Seattle Suffocates Patrick Mahomes: 4 Takeaways From The Seahawks' Win Over The Chiefs",
-      "url": "https://www.foxsports.com/stories/nfl/seattle-suffocates-patrick-mahomes-4-takeaways-from-seahawks-win-over-chiefs",
-      "summary": "The Seahawks defense suffocated Patrick Mahomes on Sunday night. Here was takeaways from Seattle's win over the Chiefs.",
-      "published": "Sun, 25 Oct 2026 23:33:29 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Seven things Solak thinks entering NFL Week 8: WR trade for Chiefs? Goff for MVP?",
-      "url": "https://www.espn.com/nfl/story/_/id/50278890/week-8-seven-things-solak-thinks-chiefs-trade-goff-mvp",
-      "summary": "Get ready for Week 8 with takes on the Chiefs' trade deadline plan, Jared Goff's sneaky season, Kevin Stefanski's Coach of the Year case and the Ravens' struggling defense.",
-      "published": "2026-10-27T10:51:21Z",
+      "title": "'You can overcome this': Students of Jalen Hurts' mom wrote get-well cards for QB",
+      "url": "https://www.espn.com/nfl/story/_/id/50298232/jalen-hurts-philadelphia-eagles-mom-get-well-cards",
+      "summary": "Pamela Hurts, a schoolteacher, was clearly touched by the cards from her students on \"Jalen Hurts Day.\"",
+      "published": "2026-10-27T16:20:24Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "BAL",
-        "KC"
-      ]
+      "category": "qb",
+      "teams": []
     },
     {
-      "title": "NFL Power Rankings: How all 32 teams stack up for Week 8, plus offseason adds",
-      "url": "https://www.espn.com/nfl/story/_/id/50288293/nfl-power-rankings-week-8-teams-best-offseason-additions",
-      "summary": "How does every NFL team stack up heading into Week 8? We made our 1-32 list and picked the best offseason additions -- coach or players -- for every team.",
-      "published": "2026-10-27T10:29:54Z",
+      "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
+      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+      "published": "2026-10-27T15:14:26Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -344,29 +362,162 @@
       "teams": []
     },
     {
-      "title": "Is Bills' Josh Allen the best goal line rusher ever?",
-      "url": "https://www.espn.com/nfl/story/_/id/50288152/bills-josh-allen-greatest-td-rusher",
-      "summary": "Out of the 153 players who've carried from the 1- or 2-yard line at least 30 times since 1977, Allen has done it best.",
-      "published": "2026-10-27T10:00:07Z",
+      "title": "2026 NFL pass rush, run stop, blocking win rate rankings",
+      "url": "https://www.espn.com/nfl/story/_/id/49742016/2026-win-rates-team-player-rankings-pass-rush-run-stop-blocking",
+      "summary": "Our win rate metrics stack the NFL's top teams and players in run blocking, run stopping, pass protection and pass rushing.",
+      "published": "2026-10-27T13:39:19Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Sources: Ravens rookie G Olaivavega Ioane expected to miss time with MCL sprain",
+      "url": "https://www.espn.com/nfl/story/_/id/50297114/sources-ravens-olaivavega-ioane-mcl-sprain",
+      "summary": "Ravens rookie guard Olaivavega Ioane is expected to miss time after spraining his MCL in Sunday's loss to the Bengals, sources told NFL Network.",
+      "published": "2026-10-27T13:54:09Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BUF"
+        "BAL",
+        "CIN"
       ]
     },
     {
-      "title": "How Chargers' 2026 first-round pick Akheem Mesidor is faring so far",
-      "url": "https://www.espn.com/nfl/story/_/id/50278837/los-angeles-chargers-akheem-mesidor-2026-performance",
-      "summary": "We spoke to Derwin James Jr., coach Jim Harbaugh and others about the Chargers first rounder.",
-      "published": "2026-10-27T10:44:11Z",
-      "source": "ESPN NFL",
+      "title": "Jerry Jones on a possible role for Troy Aikman with the Cowboys: 'Don't rule it out'",
+      "url": "https://www.cbssports.com/nfl/news/jerry-jones-on-possible-role-for-troy-aikman-with-cowboys-dont-rule-it-out/",
+      "summary": "Aikman won three Super Bowls with the Cowboys in the 1990s",
+      "published": "Tue, 27 Oct 2026 16:07:50 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LAC"
+        "DAL"
+      ]
+    },
+    {
+      "title": "Raiders have 'no controversy' at QB as Klint Kubiak commits to Kirk Cousins over Fernando Mendoza",
+      "url": "https://www.cbssports.com/nfl/news/raiders-no-qb-controversy-klint-kubiak-commits-to-kirk-cousins/",
+      "summary": "Kubiak said Mendoza will play this season, but with Cousins locked into the lineup, when will his opportunity arise?",
+      "published": "Tue, 27 Oct 2026 15:18:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "LV"
+      ]
+    },
+    {
+      "title": "NFL trade deadline: Four Eagles, three Colts and two starting QBs included among top 25 candidates",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-rankings-top-25-eagles-colts/",
+      "summary": "Saquon Barkley, Jonathan Taylor, Kirk Cousins and more could fetch returns at the trade deadline",
+      "published": "Tue, 27 Oct 2026 15:06:18 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Why Giants coach John Harbaugh is backing Cam Skattebo's plan to defy the NFL rulebook",
+      "url": "https://www.cbssports.com/nfl/news/giants-john-harbaugh-backing-cam-skattebos-plan-to-defy-nfl-rulebook/",
+      "summary": "New York's running back refuses to change his hard-nosed approach and his coach wants clarity from the league",
+      "published": "Tue, 27 Oct 2026 15:49:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Lessons from NFL Week 7: Jaxon Smith-Njigba could make WR history, Seahawks look like champs again",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-lessons-seahawks-super-bowl-jaxson-smith-njigba/",
+      "summary": "Seattle delivered a championship-caliber performance, while Cincinnati discovered that its best offensive formula may also be its simplest",
+      "published": "Tue, 27 Oct 2026 13:45:06 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SEA"
+      ]
+    },
+    {
+      "title": "NFL hot-seat rankings: Nick Sirianni's seat getting warmer? Shane Steichen running out of time",
+      "url": "https://www.cbssports.com/nfl/news/nfl-hot-seat-rankings-2026-head-coach-aaron-glenn-jets-shane-steichen-colts/",
+      "summary": "These coaches are feeling the most heat entering Week 8",
+      "published": "Tue, 27 Oct 2026 14:16:12 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Cowboys crush Eagles to revive NFC East hopes; Brewers hammer Rays for 3-0 World Series lead",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-eagles-nfc-east-nfl-brewers-rays-world-series-mlb/",
+      "summary": "Plus, the Valkyries won a defensive struggle in Game 5 of the WNBA Finals",
+      "published": "Tue, 27 Oct 2026 12:50:24 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Should the Giants trade for Saquon Barkley? Making the case for and against potential blockbuster deal",
+      "url": "https://www.cbssports.com/nfl/news/case-for-against-giants-trading-for-saquon-barkley/",
+      "summary": "A look at the pros and cons of signing Barkley",
+      "published": "Tue, 27 Oct 2026 12:46:45 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Why Cowboys' offensive revival could launch an NFC East run",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-nfc-east-run-dak-prescott-offense-eagles/",
+      "summary": "The Cowboys still have work to do, but their offensive ceiling and favorable upcoming schedule give them a chance",
+      "published": "Tue, 27 Oct 2026 12:23:39 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "NFL Week 8 picks and score predictions: Bills survive Baltimore, Browns end 38-year drought",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-picks-predictions-odds-bills-ravens-browns-steelers-vikings/",
+      "summary": "Week 8 brings Halloween scares for several contenders, including the Bills, Vikings, Chiefs and Seahawks",
+      "published": "Tue, 27 Oct 2026 14:34:37 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "CLE",
+        "KC",
+        "MIN",
+        "SEA"
       ]
     },
     {
@@ -422,7 +573,7 @@
       "title": "Who will Jay-Z bring out for the 2027 Super Bowl halftime show? Four possible guests",
       "url": "https://www.cbssports.com/nfl/news/2027-super-bowl-halftime-special-guests-jay-z/",
       "summary": "Will Jay Z bring out any guests? If he does, here are some guesses of who they could be",
-      "published": "Tue, 27 Oct 2026 02:39:11 +0000",
+      "published": "Tue, 27 Oct 2026 13:04:45 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -543,7 +694,7 @@
       "title": "NFL trade deadline matchmaker: Vikings add Jonathan Taylor to boost offense, Chiefs nab WR",
       "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-matchmaker-vikings-jonathan-taylor-chiefs/",
       "summary": "Moves for several contenders who could look to buy",
-      "published": "Mon, 26 Oct 2026 19:07:59 +0000",
+      "published": "Tue, 27 Oct 2026 12:52:44 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -647,142 +798,6 @@
       "category": "game",
       "teams": [
         "LV"
-      ]
-    },
-    {
-      "title": "Chiefs may have a Harrison Butker problem: Andy Reid says KC kicker 'gotta fix it'",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-harrison-butker-problem-andy-reid-kicker-gotta-fix-it/",
-      "summary": "Butker missed two field goals during Kansas City's Week 7 loss to the Seahawks on Sunday",
-      "published": "Mon, 26 Oct 2026 13:40:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Giants among NFL's biggest Week 7 winners; today's rare Sports Equinox with World Series, MNF, WNBA Finals",
-      "url": "https://www.cbssports.com/nfl/news/giants-among-nfls-biggest-week-7-winners-todays-rare-sports-equinox-with-world-series-mnf-wnba-finals/",
-      "summary": "Plus highlights from UFC 333, another chaotic weekend of college football and blockbuster NHL trade",
-      "published": "Mon, 26 Oct 2026 12:56:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Peyton Manning for Colts GM after Chris Ballard's firing? Why timing isn't right for Hall of Fame QB",
-      "url": "https://www.cbssports.com/nfl/news/peyton-manning-not-interested-colts-gm-chris-ballard/",
-      "summary": "The franchise legend spent 14 seasons in Indianapolis, winning Super Bowl XLI with the Colts",
-      "published": "Mon, 26 Oct 2026 12:26:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "Cover 32: There is a very clear Jonathan Taylor trade destination, plus game balls, biggest gaffes from Week 7",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-analysis-why-bengals-trade-colts-jonathan-taylor/",
-      "summary": "Why Cincinnati should make a blockbuster offer for Jonathan Taylor, plus Week 7 game balls for Joe Burrow and Malik Willis",
-      "published": "Mon, 26 Oct 2026 13:37:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 8 early odds: Undefeated Vikings gain respect, Chiefs-Broncos line flips",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-odds-lines-spreads-picks-vikings-lions-chiefs-broncos/",
-      "summary": "Minnesota is gaining ground ahead of its NFC North showdown with Detroit, while the Chiefs-Broncos and Eagles-Commanders lines have flipped",
-      "published": "Mon, 26 Oct 2026 11:33:40 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "KC",
-        "MIN",
-        "PHI",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Can the Vikings actually win the Super Bowl with this offense? You're telling me there's a chance",
-      "url": "https://www.cbssports.com/nfl/news/vikings-super-bowl-brian-flores-2026-defense/",
-      "summary": "Minnesota has one of the NFL's worst offenses and a defense playing at a historically dominant level -- the 2015 Broncos provide a blueprint, but there are reasons to be skeptical",
-      "published": "Mon, 26 Oct 2026 11:30:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Cam Skattebo says he's going to keep breaking NFL rules after getting flagged for rarely enforced penalty",
-      "url": "https://www.cbssports.com/nfl/news/cam-skattebo-rare-penalty-giants-texans-2026/",
-      "summary": "Skattebo made it clear he intends to keep seeking out contact",
-      "published": "Mon, 26 Oct 2026 03:40:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 7 overreactions: Panthers have season's worst loss? Dan Campbell was right? Ravens to miss playoffs?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-overreactions-panthers-bryce-young-ravens/",
-      "summary": "Plus, did the Vikings choose the right quarterback?",
-      "published": "Mon, 26 Oct 2026 00:53:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "CAR",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Chiefs vs. Seahawks picks, prediction, player props: Expert's best bets for Sunday Night Football NFL Week 7",
-      "url": "https://www.cbssports.com/betting/news/chiefs-vs-seahawks-picks-prediction-player-props-experts-best-bets-for-sunday-night-football-nfl-week-7/",
-      "summary": "Backing Patrick Mahomes as a road underdog leads Sunday night's top betting plays, along with props on Kenneth Walker and Jaxson Smith-Njigba",
-      "published": "Mon, 26 Oct 2026 00:07:40 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "SEA"
-      ]
-    },
-    {
-      "title": "NFL Week 7 winners and losers: Cam Skattebo, J.J. McCarthy lift Giants; Aaron Glenn's seat heats up",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-7-winners-losers-cam-skattebo-j-j-mccarthy-giants-aaron-glenn/",
-      "summary": "One of the New York teams is in much better shape than the other. Plus, what happened to the Panthers?",
-      "published": "Mon, 26 Oct 2026 00:01:42 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "NYG"
       ]
     }
   ],
