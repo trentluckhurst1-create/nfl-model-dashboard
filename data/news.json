@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-27T05:38:42.483057+00:00",
-  "checked_at_utc": "2026-10-27T05:38:42.483057+00:00",
+  "updated_at_utc": "2026-10-27T11:00:00.740613+00:00",
+  "checked_at_utc": "2026-10-27T11:00:00.740613+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 8,
+      "items": 4,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -319,101 +319,68 @@
       ]
     },
     {
-      "title": "Eagles' Saquon Barkley says hamstring 'great' in return, not sweating back issue",
-      "url": "https://www.espn.com/nfl/story/_/id/50294604/eagles-saquon-barkley-hobbled-highly-efficient-gutsy-losing-effort-vs-cowboys",
-      "summary": "Eagles running back Saquon Barkley said his \"hamstring came out great\" and doesn't believe his back issue will keep him out moving forward following a gutty and highly-efficient performance in a loss to the Cowboys on Monday night.",
-      "published": "2026-10-27T05:29:24Z",
+      "title": "Seven things Solak thinks entering NFL Week 8: WR trade for Chiefs? Goff for MVP?",
+      "url": "https://www.espn.com/nfl/story/_/id/50278890/week-8-seven-things-solak-thinks-chiefs-trade-goff-mvp",
+      "summary": "Get ready for Week 8 with takes on the Chiefs' trade deadline plan, Jared Goff's sneaky season, Kevin Stefanski's Coach of the Year case and the Ravens' struggling defense.",
+      "published": "2026-10-27T10:51:21Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "KC"
+      ]
+    },
+    {
+      "title": "NFL Power Rankings: How all 32 teams stack up for Week 8, plus offseason adds",
+      "url": "https://www.espn.com/nfl/story/_/id/50288293/nfl-power-rankings-week-8-teams-best-offseason-additions",
+      "summary": "How does every NFL team stack up heading into Week 8? We made our 1-32 list and picked the best offseason additions -- coach or players -- for every team.",
+      "published": "2026-10-27T10:29:54Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Is Bills' Josh Allen the best goal line rusher ever?",
+      "url": "https://www.espn.com/nfl/story/_/id/50288152/bills-josh-allen-greatest-td-rusher",
+      "summary": "Out of the 153 players who've carried from the 1- or 2-yard line at least 30 times since 1977, Allen has done it best.",
+      "published": "2026-10-27T10:00:07Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL",
-        "PHI"
+        "BUF"
       ]
     },
     {
-      "title": "Dak Prescott throws 3 TD passes, Javonte Williams runs for 155 yards as Cowboys beat Eagles 38-21",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873009",
-      "summary": "\u2014 Tanner McKee and the Philadelphia Eagles still had a potential victory within their grasp in the fourth quarter when the career backup threw a pass into the outstretched hands of DeMarvion Overshown.",
-      "published": "2026-10-27T03:36:48Z",
+      "title": "How Chargers' 2026 first-round pick Akheem Mesidor is faring so far",
+      "url": "https://www.espn.com/nfl/story/_/id/50278837/los-angeles-chargers-akheem-mesidor-2026-performance",
+      "summary": "We spoke to Derwin James Jr., coach Jim Harbaugh and others about the Chargers first rounder.",
+      "published": "2026-10-27T10:44:11Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL",
-        "PHI"
+        "LAC"
       ]
     },
     {
-      "title": "Cowboys handle Eagles on Javonte Williams' career night",
-      "url": "https://www.espn.com/nfl/story/_/id/50292494/cowboys-eagles-mnf-javonte-williams-career-night",
-      "summary": "Williams rushed for a career-high 155 yards and added a touchdown for Dallas.",
-      "published": "2026-10-27T04:58:31Z",
-      "source": "ESPN NFL",
+      "title": "Prisco's NFL Week 8 Power Rankings: Lone unbeaten Vikings take over top spot",
+      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-8-power-rankings-vikings/",
+      "summary": "Pete Prisco shares his Week 8 Power Rankings for the 2026 NFL season, including some big risers and fallers",
+      "published": "Tue, 27 Oct 2026 10:00:54 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL",
-        "PHI"
+        "MIN"
       ]
-    },
-    {
-      "title": "What are the longest field goals in NFL history?",
-      "url": "https://www.espn.com/nfl/story/_/id/40994229/what-longest-field-goals-nfl-history",
-      "summary": "Timely field goals can change game trajectories in a dramatic fashion. Check out the longest field goals in NFL history now.",
-      "published": "2026-10-26T04:07:12Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Who has performed at the Super Bowl halftime show? Jay-Z to join the list",
-      "url": "https://www.espn.com/nfl/story/_/id/41193697/who-performed-super-bowl-half-show-all-list",
-      "summary": "Bad Bunny owned the Super Bowl LX halftime show. Check out every artist that graced NFL's biggest stage.",
-      "published": "2026-10-27T02:27:39Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Jay-Z to headline Super Bowl LXI halftime show",
-      "url": "https://www.espn.com/nfl/story/_/id/50293241/jay-z-headline-super-bowl-lxi-half-show",
-      "summary": "Jay-Z will be the featured performer for the halftime festivities on Feb. 14 at SoFi Stadium in Inglewood, California.",
-      "published": "2026-10-27T04:19:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Jay-Z's road to the Super Bowl: Were the clues there all along?",
-      "url": "https://www.espn.com/nfl/story/_/id/50244728/jay-z-super-bowl-half-hints",
-      "summary": "With Hov headed to SoFi Stadium's halftime stage in Los Angeles, we revisit the breadcrumbs that might have pointed us there.",
-      "published": "2026-10-27T03:06:13Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "ManningCast 2026 schedule: How to watch MNF games and guests",
-      "url": "https://www.espn.com/nfl/story/_/id/34636537/maningcast-schedule-monday-night-football-guests-mnf",
-      "summary": "Monday Night Football with Eli and Peyton Manning is back. Here's the 2026 game lineup, special guests and more.",
-      "published": "2026-10-26T21:45:57Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     },
     {
       "title": "NFL Week 7 grades: Cowboys earn high mark for big Monday night win, Panthers flop with an 'F'",
@@ -816,20 +783,6 @@
       "teams": [
         "CAR",
         "NYG"
-      ]
-    },
-    {
-      "title": "Chiefs vs. Seahawks prediction, odds, start time, betting preview: Sunday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/chiefs-seahawks-prediction-odds-start-time-betting-preview-sunday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Chiefs vs. Seahawks on Sunday Night Football",
-      "published": "Sun, 25 Oct 2026 23:05:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "SEA"
       ]
     }
   ],
