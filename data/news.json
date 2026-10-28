@@ -1,25 +1,125 @@
 {
-  "updated_at_utc": "2026-10-28T17:26:40.789318+00:00",
-  "checked_at_utc": "2026-10-28T17:26:40.789318+00:00",
+  "updated_at_utc": "2026-10-28T21:51:36.430894+00:00",
+  "checked_at_utc": "2026-10-28T21:51:36.430894+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 10,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 34
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 19,
+      "items": 17,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "The Brilliance Behind NFL's Best WR, Jaxon Smith-Njigba; Inside NFC West Arms Race",
+      "url": "https://www.foxsports.com/stories/nfl/jaxon-smith-njigba-best-wide-receiver-seahawks-49ers-deforest-buckner-quenton-nelson-trades",
+      "summary": "We found out how Jaxon Smith-Njigba has established himself as the NFL's best wide receiver, and how the Seahawks' and 49ers' trades will impact the NFC West race.",
+      "published": "Wed, 28 Oct 2026 17:12:11 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "SEA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Will Hill's Parlay Of The Week: Back Bucs To Beat Falcons, Ravens To Cover",
+      "url": "https://www.foxsports.com/stories/nfl/will-hills-parlay-week-back-bucs-beat-falcons-ravens-cover",
+      "summary": "Check out Will Hill's five-leg parlay, featuring a Tampa Bay win in-division and a close one in Buffalo.",
+      "published": "Wed, 28 Oct 2026 15:58:16 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "BAL",
+        "TB"
+      ]
+    },
+    {
+      "title": "2026 NFL DROY Odds: Jets, Giants Rising Stars Vie For Top Spot",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-defensive-rookie-year-odds",
+      "summary": "Two rising stars in the Big Apple are battling atop the NFL Defensive Rookie of the Year oddsboard after Week 7. See the latest.",
+      "published": "Wed, 28 Oct 2026 15:26:58 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Lions Clear Kerby Joseph To Practice, But Activation Or IR Decision Looms",
+      "url": "https://www.foxsports.com/stories/nfl/detroit-lions-kerby-joseph-injury-injured-reserve",
+      "summary": "The Detroit Lions cleared Kerby Joseph to practice on Wednesday, kicking off a 21-day process to determine whether he should be activated or placed on injured reserve.",
+      "published": "Wed, 28 Oct 2026 15:25:04 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "2026 NFL OROY Odds: Carnell Tate Favored; KC Concepcion Skyrockets",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-offensive-rookie-year-odds",
+      "summary": "Carnell Tate leads the NFL Offensive Rookie of the Year odds as KC Concepcion surges after a historic Week 7 performance. See the latest.",
+      "published": "Wed, 28 Oct 2026 14:39:32 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL Odds Week 8: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-8-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every Week 8 matchup in the NFL.",
+      "published": "Wed, 28 Oct 2026 14:25:10 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL MVP Odds: Allen Leads As Purdy, Burrow Gain Ground",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
+      "summary": "Joe Burrow is rising after a historic second-half performance. See the latest MVP odds after Week 7.",
+      "published": "Wed, 28 Oct 2026 14:21:13 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Sammy\u2019s Sportsbook Whispers: Ohio State Has A Question Mark At QB",
+      "url": "https://www.foxsports.com/stories/college-football/sammys-sportsbook-whispers-ohio-state-has-question-mark-qb",
+      "summary": "With Julian Sayin out, who will Ryan Day turn to? And will that QB turn OSU into a contender? Sammy P shares the latest whispers.",
+      "published": "Wed, 28 Oct 2026 14:05:40 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
     {
       "title": "Favorite 'Dogs: Back Northwestern Over Oregon; Ravens To Upset Bills",
       "url": "https://www.foxsports.com/stories/nfl/favorite-dogs-college-football-week-9-nfl-week-8",
@@ -134,200 +234,175 @@
       "teams": []
     },
     {
-      "title": "2026 NFL DPOY Odds: Houston's Will Anderson Jr. Favored",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
-      "summary": "Check out the latest odds for the 2026 NFL Defensive Player of the Year award.",
-      "published": "Tue, 27 Oct 2026 14:37:38 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Texans put WR Jaylin Noel on IR with expected season-ending turf toe injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50311414/texans-put-wr-jaylin-noel-ir-turf-toe-injury",
+      "summary": "The Texans placed wide receiver Jaylin Noel on injured reserve; he is expected to miss the rest of the season with turf toe, a source confirmed.",
+      "published": "2026-10-28T21:50:20Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "HOU"
+      ]
+    },
+    {
+      "title": "Rams' DE Garrett, TE Ferguson won't practice this week",
+      "url": "https://www.espn.com/nfl/story/_/id/50311303/rams-de-garrett-te-ferguson-practice-week",
+      "summary": "Rams pass rusher Myles Garrett (knee) and tight end Terrance Ferguson (ankle) will not return to practice this week, coach Sean McVay said Wednesday.",
+      "published": "2026-10-28T21:48:40Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "Bills' Sam Franklin ready to play this week after suspension reduced to fine",
+      "url": "https://www.espn.com/nfl/story/_/id/50311224/bills-sam-franklin-ready-play-ban-reduced-fine",
+      "summary": "Bills DB and special teams captain Sam Franklin Jr., doesn't want to fixate on the incident that briefly landed him a suspension that was later reduced to a fine upon appeal.",
+      "published": "2026-10-28T21:34:42Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "BUF"
+      ]
     },
     {
-      "title": "Trade! Colts Reportedly Send All-Pro Guard Quenton Nelson To Seahawks",
-      "url": "https://www.foxsports.com/stories/nfl/quenton-nelson-trade-details-seahawks-colts-nfl-trade-deadline",
-      "summary": "Blockbuster! The Seattle Seahawks are reportedly trading for Indianapolis Colts All-Pro guard Quenton Nelson.",
-      "published": "Tue, 27 Oct 2026 13:38:11 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Jets WR Garrett Wilson says he doesn't want to be traded but does want to win",
+      "url": "https://www.espn.com/nfl/story/_/id/50308919/jets-wr-garrett-wilson-says-want-traded",
+      "summary": "Jets receiver Garrett Wilson says he doesn't want to be traded but he expressed that he's frustrated by his target share and, most of all, losing.",
+      "published": "2026-10-28T21:24:48Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "IND",
-        "SEA"
+        "NYJ"
       ]
     },
     {
-      "title": "2026 NFL Odds Week 8: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-8-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 8 matchup in the NFL.",
-      "published": "Tue, 27 Oct 2026 11:06:41 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Brian Thomas Jr. trying to ignore trade talk, 'keep working hard' for Jaguars",
+      "url": "https://www.espn.com/nfl/story/_/id/50311100/jaguars-brian-thomas-jr-trying-ignore-trade-talk",
+      "summary": "Jaguars receiver Brian Thomas Jr. said Wednesday that he isn't concerned about being the subject of recent trade rumors.",
+      "published": "2026-10-28T21:42:47Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
+      "category": "transaction",
+      "teams": [
+        "JAX"
+      ]
     },
     {
-      "title": "QB Stock Market Week 8: The Next Step Is The Hardest For Drake Maye, Caleb Williams",
-      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-8-next-step-hardest-drake-maye-caleb-williams",
-      "summary": "How much more can Drake Maye, Caleb Williams and Bryce Young improve? Less is more for Aaron Rodgers. Here are Henry McKenna's latest QB rankings.",
-      "published": "Tue, 27 Oct 2026 11:04:49 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL AFC, NFC Title Odds: Bills-49ers Favored For Super Bowl LXI",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-afc-nfc-title-odds",
-      "summary": "Seven weeks in, the odds say the Bills and 49ers are on a Super Bowl collision course. See the latest.",
-      "published": "Tue, 27 Oct 2026 11:03:47 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Packers and Panthers trying to bounce back as they face off at Lambeau Field",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873023",
+      "summary": "\u2014 A pair of ticked-off teams will square off when the Green Bay Packers face the Carolina Panthers on Thursday night.",
+      "published": "2026-10-28T20:34:58Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BUF",
+        "CAR",
+        "GB"
+      ]
+    },
+    {
+      "title": "Winless Chargers sticking with Mike McDaniel as offensive playcaller",
+      "url": "https://www.espn.com/nfl/story/_/id/50310259/chargers-sticking-mike-mcdaniel-offensive-playcaller",
+      "summary": "Embattled offensive coordinator Mike McDaniel will continue as the Chargers' playcaller, coach Jim Harbaugh announced Wednesday.",
+      "published": "2026-10-28T20:41:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
+      "title": "After bringing back DeForest Buckner, will the 49ers make more trades?",
+      "url": "https://www.espn.com/nfl/story/_/id/50308923/san-francisco-49ers-deforest-buckner-trade-deadline-plans",
+      "summary": "The 49ers addressed their defensive line by adding Buckner, but will they make more big moves to help the WR room before the Nov. 10 deadline?",
+      "published": "2026-10-28T19:32:05Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
         "SF"
       ]
     },
     {
-      "title": "Return Of The 'X-Factor': Brian Branch Makes Lions A Legit Super Bowl Contender",
-      "url": "https://www.foxsports.com/stories/nfl/brian-branch-makes-lions-super-bowl-contender",
-      "summary": "The return of safety Brian Branch from last season's Achilles injury makes Detroit one of the NFL\u2019s scariest teams \u2014 and a title contender.",
-      "published": "Tue, 27 Oct 2026 10:56:30 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Pass rusher Jaelan Phillips among four Panthers ruled out for TNF vs. Packers",
+      "url": "https://www.espn.com/nfl/story/_/id/50309816/pass-rusher-jaelan-phillips-4-panthers-ruled-tnf",
+      "summary": "The Panthers ruled out four players, including starting OLB Jaelan Phillips (hamstring) and left guard Damien Lewis (knee) for \"Thursday Night Football.\"",
+      "published": "2026-10-28T20:00:29Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
+      "teams": [
+        "CAR",
+        "GB"
+      ]
+    },
+    {
+      "title": "Eagles star Saquon Barkley says he was forced to divest Polymarket equity stake",
+      "url": "https://www.espn.com/nfl/story/_/id/50309777/saquon-barkley-says-was-forced-divest-polymarket-stake",
+      "summary": "Eagles star Saquon Barkley said he was forced to divest his equity stake in Polymarket to comply with NFL rules.",
+      "published": "2026-10-28T20:28:42Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Two NFL teams set to unveil a new uniform in Week 8 with special 'Rivalries' helmet and jersey",
+      "url": "https://www.cbssports.com/nfl/news/jaguars-lions-set-to-unveil-rivalries-uniform-week-8/",
+      "summary": "The Lions and Jaguars will both be debuting new uniforms on Sunday",
+      "published": "Wed, 28 Oct 2026 19:22:14 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "JAX"
+      ]
+    },
+    {
+      "title": "Agent's Take: Detroit Lions' Sam LaPorta contract problem isn't going away",
+      "url": "https://www.cbssports.com/nfl/news/agents-take-lions-sam-laporta-contract-problem/",
+      "summary": "LaPorta may have reason to wait if the Lions use the franchise tag, especially with Brock Bowers positioned to dramatically reshape the tight end market",
+      "published": "Wed, 28 Oct 2026 20:24:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
       "teams": [
         "DET"
       ]
     },
     {
-      "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Miss The Playoffs?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-to-miss-playoffs",
-      "summary": "Two squads with injured quarterbacks are watching their odds to miss the playoffs move in the wrong direction. See the latest.",
-      "published": "Tue, 27 Oct 2026 10:16:36 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "2026 Super Bowl Odds: 49ers Remain Favored After Loss; Cowboys Rise",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "summary": "The 49ers remain the Super Bowl favorites despite their first loss, while the Cowboys are rising. Check out the latest Super Bowl odds after Week 7.",
-      "published": "Tue, 27 Oct 2026 00:57:07 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "SF"
-      ]
-    },
-    {
-      "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Make The Playoffs?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
-      "summary": "See the latest NFL postseason odds after Week 7.",
-      "published": "Tue, 27 Oct 2026 00:40:13 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Best & Worst: From Cam Skattebo\u2019s Giant Spark To The Chiefs\u2019 Offensive Sputter",
-      "url": "https://www.foxsports.com/stories/nfl/cam-skattebo-sparks-giants-chiefs-offense-stalls-seahawks-defense",
-      "summary": "NFL Week 7 Highs and Lows: The Giants and Cowboys break out offensively, while the Seahawks' suffocating defense locks down the Chiefs.",
-      "published": "Tue, 27 Oct 2026 00:29:22 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "KC",
-        "NYG",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Source: Colts' Josh Downs requests trade; Jonathan Taylor hasn't, per coach",
-      "url": "https://www.espn.com/nfl/story/_/id/50309159/source-wr-downs-requests-trade-rb-taylor-per-coach",
-      "summary": "Colts wide receiver Josh Downs is requesting a trade amid the team's rebuilding efforts, a source told ESPN's Jeremy Fowler on Wednesday.",
-      "published": "2026-10-28T17:25:55Z",
-      "source": "ESPN NFL",
+      "title": "Josh Downs landing spots after Colts WR reportedly asks out, Indy continues fire sale",
+      "url": "https://www.cbssports.com/nfl/news/colts-josh-downs-request-trade-landing-spots/",
+      "summary": "Downs is in the final year of his rookie deal and drawing trade interest",
+      "published": "Wed, 28 Oct 2026 18:03:23 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
         "IND"
-      ]
-    },
-    {
-      "title": "NFL trade deadline grades: DeForest Buckner, Quenton Nelson dealt by Colts, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-      "summary": "Does Buckner make the 49ers Super Bowl hopefuls? Will Quenton Nelson upgrade the Seahawks' O-line? We're grading NFL trades ahead of November's deadline.",
-      "published": "2026-10-28T16:41:49Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "SEA",
-        "SF"
-      ]
-    },
-    {
-      "title": "With Davante Adams out, Rams leaning on the run game",
-      "url": "https://www.espn.com/nfl/story/_/id/50299981/davante-adams-rams-lean-run-game-blake-corum-kyren-williams",
-      "summary": "In Sunday's victory over the Raiders, the Rams looked to be leaning on the running game, something Los Angeles has struggled to find consistently in this season.",
-      "published": "2026-10-28T16:00:01Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "LV"
-      ]
-    },
-    {
-      "title": "NFL Week 8 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-      "url": "https://www.espn.com/nfl/story/_/id/50297734/week-8-buzz-fantasy-predictions-graziano-fowler-2026",
-      "summary": "Are changes coming for the Jets? Could the Chiefs add at the trade deadline? Will the Colts keep unloading? And what's going on in the AFC North standings?",
-      "published": "2026-10-28T16:40:39Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "KC",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Sources: Chiefs sign former Ravens kicker Justin Tucker to practice squad",
-      "url": "https://www.espn.com/nfl/story/_/id/50307506/sources-chiefs-sign-justin-tucker-practice-squad",
-      "summary": "The Chiefs have signed five-time All-Pro kicker Justin Tucker to their practice squad, sources told NFL Network and ESPN.",
-      "published": "2026-10-28T15:16:08Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "KC"
       ]
     },
     {
@@ -402,7 +477,7 @@
       "title": "NFL QB Power Rankings, Week 8: There's a new name at No. 1, Patrick Mahomes out of the top 10",
       "url": "https://www.cbssports.com/nfl/news/nfl-qb-power-rankings-week-8-jared-goff-patrick-mahomes/",
       "summary": "Jared Goff seizes the top spot, Joe Burrow climbs into the top five and Mahomes drops out of the top 10",
-      "published": "Wed, 28 Oct 2026 13:37:53 +0000",
+      "published": "Wed, 28 Oct 2026 19:59:06 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -747,31 +822,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "NFL makes rare double flex move by tweaking the schedule in Week 9 and Week 11",
-      "url": "https://www.cbssports.com/nfl/news/nfl-rare-double-flex-move-tweaking-schedule-in-week-9-week-11/",
-      "summary": "The NFL just tweaked the schedule for two different weeks in November",
-      "published": "Tue, 27 Oct 2026 01:36:12 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Cowboys vs. Eagles odds: First touchdown scorer picks, predictions for NFL Week 7 Monday Night Football",
-      "url": "https://www.cbssports.com/prediction/news/cowboys-vs-eagles-odds-first-touchdown-scorer-picks-predictions-nfl-week-7-monday-night-football/",
-      "summary": "Here's who we think are the best choices for first touchdown prediction markets on Monday Night Football between the Cowboys and Eagles",
-      "published": "Mon, 26 Oct 2026 23:03:20 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
     }
   ],
   "reporters": []
