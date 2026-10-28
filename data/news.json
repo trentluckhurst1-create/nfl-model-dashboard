@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-28T11:42:25.316072+00:00",
-  "checked_at_utc": "2026-10-28T11:42:25.316072+00:00",
+  "updated_at_utc": "2026-10-28T17:26:40.789318+00:00",
+  "checked_at_utc": "2026-10-28T17:26:40.789318+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -20,6 +20,34 @@
     }
   },
   "items": [
+    {
+      "title": "Favorite 'Dogs: Back Northwestern Over Oregon; Ravens To Upset Bills",
+      "url": "https://www.foxsports.com/stories/nfl/favorite-dogs-college-football-week-9-nfl-week-8",
+      "summary": "Find out which underdogs Will Hill is backing this weekend, including a desperate Baltimore squad with a potentially returning QB.",
+      "published": "Wed, 28 Oct 2026 13:19:57 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "BUF"
+      ]
+    },
+    {
+      "title": "Chiefs Reportedly Add Former Ravens Controversial Star Justin Tucker",
+      "url": "https://www.foxsports.com/stories/nfl/chiefs-sign-justin-tucker-allegations-harrison-butker-stats-ravens",
+      "summary": "The Kansas City Chiefs have reportedly signed former Baltimore Ravens All-Pro kicker Justin Tucker.",
+      "published": "Wed, 28 Oct 2026 11:29:12 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "KC"
+      ]
+    },
     {
       "title": "NFL Trade Deadline Grades: Who Won The DeForest Buckner, Quenton Nelson Deals?",
       "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-grades",
@@ -232,37 +260,52 @@
       ]
     },
     {
-      "title": "NFL Week 7 All-Stars: Joe Burrow Makes A Big Statement; One Team Dominates",
-      "url": "https://www.foxsports.com/stories/nfl/week-7-nfl-all-stars-joe-burrow-tony-pollard-jaxon-smith-njigba",
-      "summary": "Our weekly look at the league's best players starts with the Cincinnati quarterback, who threw four touchdowns in the second half vs. Ravens.",
-      "published": "Tue, 27 Oct 2026 00:01:09 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Source: Colts' Josh Downs requests trade; Jonathan Taylor hasn't, per coach",
+      "url": "https://www.espn.com/nfl/story/_/id/50309159/source-wr-downs-requests-trade-rb-taylor-per-coach",
+      "summary": "Colts wide receiver Josh Downs is requesting a trade amid the team's rebuilding efforts, a source told ESPN's Jeremy Fowler on Wednesday.",
+      "published": "2026-10-28T17:25:55Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "transaction",
       "teams": [
-        "BAL"
+        "IND"
       ]
     },
     {
-      "title": "Dallas Ends Skid, But Questions Remain: 3 Takeaways From Cowboys Victory vs. Eagles",
-      "url": "https://www.foxsports.com/stories/nfl/cowboys-eagles-monday-night-football-takeaways",
-      "summary": "The Cowboys won on Monday night, but it wasn't pretty. Here are our takeaways.",
-      "published": "Mon, 26 Oct 2026 23:53:24 -0400",
-      "source": "FOX Sports NFL",
+      "title": "NFL trade deadline grades: DeForest Buckner, Quenton Nelson dealt by Colts, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "summary": "Does Buckner make the 49ers Super Bowl hopefuls? Will Quenton Nelson upgrade the Seahawks' O-line? We're grading NFL trades ahead of November's deadline.",
+      "published": "2026-10-28T16:41:49Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND",
+        "SEA",
+        "SF"
+      ]
+    },
+    {
+      "title": "With Davante Adams out, Rams leaning on the run game",
+      "url": "https://www.espn.com/nfl/story/_/id/50299981/davante-adams-rams-lean-run-game-blake-corum-kyren-williams",
+      "summary": "In Sunday's victory over the Raiders, the Rams looked to be leaning on the running game, something Los Angeles has struggled to find consistently in this season.",
+      "published": "2026-10-28T16:00:01Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL",
-        "PHI"
+        "LA",
+        "LV"
       ]
     },
     {
       "title": "NFL Week 8 latest intel, buzz questions, news, fantasy tips: What we're hearing",
       "url": "https://www.espn.com/nfl/story/_/id/50297734/week-8-buzz-fantasy-predictions-graziano-fowler-2026",
       "summary": "Are changes coming for the Jets? Could the Chiefs add at the trade deadline? Will the Colts keep unloading? And what's going on in the AFC North standings?",
-      "published": "2026-10-28T11:13:36Z",
+      "published": "2026-10-28T16:40:39Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -274,11 +317,38 @@
       ]
     },
     {
-      "title": "2026 NFL trade deadline: Ranking the top 25 candidates to move, plus team fits",
-      "url": "https://www.espn.com/nfl/story/_/id/50278445/2026-nfl-trade-deadline-ranking-top-25-candidates-available",
-      "summary": "Could the Colts listen on Jonathan Taylor? Would Josh Sweat help a contender's defense? We stacked the top players who might move before the Nov. 10 deadline.",
-      "published": "2026-10-28T11:33:16Z",
+      "title": "Sources: Chiefs sign former Ravens kicker Justin Tucker to practice squad",
+      "url": "https://www.espn.com/nfl/story/_/id/50307506/sources-chiefs-sign-justin-tucker-practice-squad",
+      "summary": "The Chiefs have signed five-time All-Pro kicker Justin Tucker to their practice squad, sources told NFL Network and ESPN.",
+      "published": "2026-10-28T15:16:08Z",
       "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "KC"
+      ]
+    },
+    {
+      "title": "2027 NFL Mock Draft: Jets positioned with 3 top-12 picks, plus each team makes at least one selection",
+      "url": "https://www.cbssports.com/nfl/draft/news/2027-nfl-mock-draft-week-8-jets-three-top-12-picks/",
+      "summary": "Top quarterback prospects head back to school, while the Jets load up with three first-round picks and Jeremiah Smith headlines the class",
+      "published": "Wed, 28 Oct 2026 15:17:35 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Jonathan Taylor's wife speaks out on Colts trade rumors: 'My mind is spiraling'",
+      "url": "https://www.cbssports.com/nfl/news/jonathan-taylors-wife-speaks-colts-trade-rumors/",
+      "summary": "Indianapolis dealt Quenton Nelson and DeForest Buckner, leaving the star running back's family wondering if he is the next veteran on the move before the Nov. 10 trade deadline",
+      "published": "Wed, 28 Oct 2026 14:35:02 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
@@ -287,16 +357,85 @@
       ]
     },
     {
-      "title": "Inside the complicated injury history of Ravens' Lamar Jackson",
-      "url": "https://www.espn.com/nfl/story/_/id/50299565/inside-complicated-injury-history-ravens-lamar-jackson",
-      "summary": "If Jackson's injury history has taught the football world anything, his timeline to return can be complicated.",
-      "published": "2026-10-28T10:00:01Z",
-      "source": "ESPN NFL",
+      "title": "Saquon Barkley trade rumors: Should the Seahawks trade for the Eagles' running back?",
+      "url": "https://www.cbssports.com/nfl/news/case-for-against-seahawks-trading-for-saquon-barkley/",
+      "summary": "Here are the pros and cons of a Barkley trade for the defending Super Bowl champs",
+      "published": "Wed, 28 Oct 2026 13:58:55 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "transaction",
       "teams": [
-        "BAL"
+        "PHI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Chiefs sign former Ravens kicker Justin Tucker after Harrison Butker struggles",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-sign-former-ravens-kicker-justin-tucker/",
+      "summary": "Tucker is back with a team for the first time since 2024",
+      "published": "Wed, 28 Oct 2026 13:47:01 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "KC"
+      ]
+    },
+    {
+      "title": "Predicting the full 14-team NFL playoff bracket entering Week 8: Cowboys steal NFC East, Bills make Super Bowl",
+      "url": "https://www.cbssports.com/nfl/news/predicting-full-14-team-nfl-playoff-bracket-week-8/",
+      "summary": "The Bills in the Super Bowl? Here's our playoff projection heading into Week 8",
+      "published": "Wed, 28 Oct 2026 13:44:37 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "DAL"
+      ]
+    },
+    {
+      "title": "NFL QB Power Rankings, Week 8: There's a new name at No. 1, Patrick Mahomes out of the top 10",
+      "url": "https://www.cbssports.com/nfl/news/nfl-qb-power-rankings-week-8-jared-goff-patrick-mahomes/",
+      "summary": "Jared Goff seizes the top spot, Joe Burrow climbs into the top five and Mahomes drops out of the top 10",
+      "published": "Wed, 28 Oct 2026 13:37:53 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Week 8 NFL betting odds, lines, totals, spreads for every game, including Packers-Panthers, Bills-Ravens",
+      "url": "https://www.cbssports.com/betting/news/week-8-nfl-betting-odds-lines-totals-spreads/",
+      "summary": "Check out the Week 8 NFL betting odds, spreads and totals for all 14 games, including Packers-Panthers and Bills-Ravens.",
+      "published": "Wed, 28 Oct 2026 13:19:55 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "BUF",
+        "CAR",
+        "GB"
+      ]
+    },
+    {
+      "title": "Rays stay alive vs. Brewers in extra-innings World Series classic; Colts begin NFL trade deadline sale",
+      "url": "https://www.cbssports.com/mlb/news/rays-brewers-world-series-classic-mlb-colts-nfl-trade-deadline-sale/",
+      "summary": "Plus the Top 100 And 1 college basketball teams for the 2026-27 season",
+      "published": "Wed, 28 Oct 2026 12:44:32 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
       ]
     },
     {
@@ -632,120 +771,6 @@
       "teams": [
         "DAL",
         "PHI"
-      ]
-    },
-    {
-      "title": "Week 7 NFL betting promos, Cowboys-Eagles: Claim over $3,000 in bonuses from online betting apps, sportsbooks",
-      "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-promos-cowboys-eagles-claim-over-3000-in-bonuses-from-online-betting-apps-sportsbooks/",
-      "summary": "Top Week 7 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Mon, 26 Oct 2026 23:02:26 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Cowboys vs. Eagles odds, betting preview, prediction, start time: Monday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/cowboys-eagles-odds-betting-preview-prediction-start-time-monday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Cowboys vs. Eagles on Monday Night Football",
-      "published": "Mon, 26 Oct 2026 23:01:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Will Saquon Barkley play vs. Cowboys? A look at the Eagles RB's status against Cowboys",
-      "url": "https://www.cbssports.com/nfl/news/saquon-barkley-injury-update-eagles-cowboys/",
-      "summary": "Philadelphia has averaged just 28.5 rushing yards per game without Barkley, compared with 109.0 yards when he has played",
-      "published": "Mon, 26 Oct 2026 22:46:21 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Eagles vs. Cowboys odds, picks, player props: Expert's NFL Week 7 best bets for Monday Night Football",
-      "url": "https://www.cbssports.com/betting/news/eagles-vs-cowboys-odds-picks-player-props-experts-nfl-week-7-best-bets-for-monday-night-football/",
-      "summary": "Take the underdog Eagles getting 4.5 points, back CeeDee Lamb to bounce back through the air and target value on a pair of red-zone tight ends",
-      "published": "Mon, 26 Oct 2026 22:45:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Eagles vs. Cowboys prediction: Dallas visits injury-ravaged Philadelphia on 'Monday Night Football'",
-      "url": "https://www.cbssports.com/nfl/news/eagles-vs-cowboys-prediction-odds-monday-night-football-2026/",
-      "summary": "Dallas has dropped two straight games, but Philadelphia enters the NFC East matchup without Jalen Hurts",
-      "published": "Mon, 26 Oct 2026 22:58:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "NFL trade rumors: 4 potential landing spots for Maxx Crosby if Raiders decide to sell at deadline",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-rumors-landing-spots-maxx-crosby-raiders/",
-      "summary": "As the Raiders stumble to 3-4 ahead of the Nov. 10 deadline, contenders like the Bears and Bills could pursue the star pass rusher to fuel a playoff push",
-      "published": "Mon, 26 Oct 2026 20:43:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "BUF",
-        "CHI",
-        "LV"
-      ]
-    },
-    {
-      "title": "NFL trade deadline matchmaker: Vikings add Jonathan Taylor to boost offense, Chiefs nab WR",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-matchmaker-vikings-jonathan-taylor-chiefs/",
-      "summary": "Moves for several contenders who could look to buy",
-      "published": "Tue, 27 Oct 2026 12:52:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "KC",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Garrett Wilson trade destinations: Chiefs, 49ers among three potential landing spots for Jets star",
-      "url": "https://www.cbssports.com/nfl/news/jets-garrett-wilson-trade-landing-spots-chiefs-49ers/",
-      "summary": "Kansas City needs another weapon for Patrick Mahomes, but two other teams should also consider calling New York",
-      "published": "Mon, 26 Oct 2026 18:05:46 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "KC",
-        "NYJ",
-        "SF"
       ]
     }
   ],
