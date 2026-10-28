@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-27T20:52:15.753828+00:00",
-  "checked_at_utc": "2026-10-27T20:52:15.753828+00:00",
+  "updated_at_utc": "2026-10-28T00:12:33.724702+00:00",
+  "checked_at_utc": "2026-10-28T00:12:33.724702+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 6,
+      "items": 7,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,36 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 22,
+      "items": 18,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Which Bad Team Emerges to Win NFC South? Outlining Which Team Might Have Inside Track",
+      "url": "https://www.foxsports.com/stories/nfl/nfc-south-projection-buccaneers-falcons-panthers-saints",
+      "summary": "After seven weeks, it feels like the NFC South is back to where things where in Week 1. Which team will breakthrough?",
+      "published": "Tue, 27 Oct 2026 19:45:40 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Reunion In The Bay: 49ers Reportedly Land DT DeForest Buckner From Colts In Trade",
+      "url": "https://www.foxsports.com/stories/nfl/deforest-buckner-trade-49ers-colts-details",
+      "summary": "The Indianapolis Colts are trading the three-time Pro Bowl defensive tackle to the San Francisco 49ers for a 2027 fourth-round pick, according to The Ringer.",
+      "published": "Tue, 27 Oct 2026 17:10:00 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND",
+        "SF"
+      ]
+    },
     {
       "title": "Cowboys Have An Opportunity They Can't Waste, And They Should Be 'Pissed-Off' If They Do",
       "url": "https://www.foxsports.com/stories/nfl/cowboys-eagles-nfc-east-dak-prescott-brian-schottenheimer",
@@ -223,80 +248,84 @@
       ]
     },
     {
-      "title": "Jay-Z To Headline Super Bowl LXI Halftime Show At SoFi Stadium",
-      "url": "https://www.foxsports.com/stories/nfl/who-is-super-bowl-lxi-haltime-show-performer-jay-z",
-      "summary": "Jay-Z has spent the last seven years helping choose who performs at the Super Bowl halftime show. This year, he decided to pick himself.",
-      "published": "Mon, 26 Oct 2026 22:01:48 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Buckner, Nelson trades signal Colts' rebuild under way",
+      "url": "https://www.espn.com/nfl/story/_/id/50302002/colts-deforest-buckner-quenton-nelson-jonathan-taylor",
+      "summary": "DeForest Buckner and Quenton Nelson are headed to contending teams, could Jonathan Taylor be next?",
+      "published": "2026-10-27T23:30:17Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
     },
     {
-      "title": "The Week 7 Plays That Stood Out: The 49ers' Woes To The Seahawks' Dominant Defense",
-      "url": "https://www.foxsports.com/stories/nfl/week-7-plays-stood-out-49ers-woes-giants-run-game",
-      "summary": "Here are the most important plays from NFL Week 7, ranging from the 49ers' struggles to the Seahawks' impressive defense.",
-      "published": "Mon, 26 Oct 2026 20:42:25 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Matt LaFleur isn't ruling out imminent practice return for Micah Parsons",
+      "url": "https://www.espn.com/nfl/story/_/id/50302347/matt-lafleur-hints-possible-practice-return-micah-parsons",
+      "summary": "Green Bay Packers edge rusher Micah Parsons might finally be back on the practice field next week, more than 10 months after he underwent surgery on his left knee.",
+      "published": "2026-10-28T00:10:22Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "injury",
       "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "NFL trade deadline grades: DeForest Buckner, Quenton Nelson dealt by Colts, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "summary": "Does Buckner make 49ers Super Bowl hopefuls? Will Quenton Nelson upgrade the Seahawks' O-line? We're grading NFL trades ahead of November's deadline.",
+      "published": "2026-10-27T23:05:06Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND",
         "SEA",
         "SF"
       ]
     },
     {
-      "title": "Big Bets Report: $5, 8-leg Parlay Narrowly Misses Million-Dollar Payday",
-      "url": "https://www.foxsports.com/stories/nfl/big-bets-report-5-8-leg-parlay-narrowly-misses-million-dollar-payday",
-      "summary": "One bettor's $5 wager almost turned into $1 million, while another bettor turned $10k into $400k. Patrick Everson breaks down the weekend's big bets.",
-      "published": "Mon, 26 Oct 2026 18:31:06 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Officiating Under Fire: Packers, Tom Brady Question Controversial Calls vs. Lions",
-      "url": "https://www.foxsports.com/stories/nfl/officiating-under-fire-packers-tom-brady-question-controversial-calls-vs-lions",
-      "summary": "Eight flags, 81 yards and zero restraint post-game. The Green Bay Packers didn\u2019t hold back on NFL officiating following a frustrating 20-17 loss to the Detroit Lions on Sunday afternoon.",
-      "published": "Mon, 26 Oct 2026 18:25:25 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Montez Sweat returns to Bears following 'devastating' 2-game suspension",
+      "url": "https://www.espn.com/nfl/story/_/id/50301493/montez-sweat-back-bears-devastating-2-game-suspension",
+      "summary": "Bears DE Montez Sweat is back with the team following his \"devastating\" two-game suspension violating the NFL's performance enhancing substances policy.",
+      "published": "2026-10-27T22:29:20Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET",
-        "GB"
+        "CHI"
       ]
     },
     {
-      "title": "Kubiak Says \u2018We\u2019re Thinking About Everything\u2019 As Raiders Consider QB Change",
-      "url": "https://www.foxsports.com/stories/nfl/klint-kubiak-las-vegas-raiders-kirk-cousins-fernando-mendoza-qb1",
-      "summary": "After four straight losses, changes could be on the horizon for the Raiders' offense.",
-      "published": "Mon, 26 Oct 2026 13:44:47 -0400",
-      "source": "FOX Sports NFL",
+      "title": "2026 NFL trade deadline updates: DeForest Buckner, Quenton Nelson on the move",
+      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
+      "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including the Colts dealing Quenton Nelson and DeForest Buckner.",
+      "published": "2026-10-27T22:53:53Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "transaction",
       "teams": [
-        "LV"
+        "IND"
       ]
     },
     {
-      "title": "How to Watch Cowboys vs. Eagles: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cowboys-vs-eagles-tv-channel-live-stream-time-october-26-2026",
-      "summary": "It has been a rough opening stretch for both sides heading into this NFC East matchup.",
-      "published": "Mon, 26 Oct 2026 10:36:05 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Colts trade DT DeForest Buckner to 49ers in another major move",
+      "url": "https://www.espn.com/nfl/story/_/id/50301125/colts-trade-de-deforest-buckner-49ers",
+      "summary": "The Colts have traded DeForest Buckner to the Colts for a 2027 fourth-round pick.",
+      "published": "2026-10-28T00:06:09Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "transaction",
       "teams": [
-        "DAL",
-        "PHI"
+        "IND",
+        "SF"
       ]
     },
     {
@@ -313,72 +342,44 @@
       ]
     },
     {
-      "title": "Why did Seahawks trade for Quenton Nelson? Are the Colts just getting started?",
-      "url": "https://www.espn.com/nfl/story/_/id/50299293/nfl-trade-seahawks-quenton-nelson-colts-deadline",
-      "summary": "The Seahawks acquired an All-Pro guard two weeks before the deadline. What does this mean for them and the Colts?",
-      "published": "2026-10-27T20:31:37Z",
-      "source": "ESPN NFL",
+      "title": "DeForest Buckner trade grades: 49ers get reunion with three-time Pro Bowler, Colts work toward rebuild",
+      "url": "https://www.cbssports.com/nfl/news/deforest-buckner-trade-grades-49ers-colts/",
+      "summary": "The trade makes sense for both sides",
+      "published": "Tue, 27 Oct 2026 22:33:47 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
         "IND",
-        "SEA"
+        "SF"
       ]
     },
     {
-      "title": "Bengals put TE Erick All Jr. on IR; believed to be torn ACL, per source",
-      "url": "https://www.espn.com/nfl/story/_/id/50299803/bengals-te-all-put-ir-likely-due-torn-acl-per-source",
-      "summary": "Bengals put TE Erick All Jr. on injured reserve Tuesday with an injury that's believed to be a torn ACL, a source told NFL Network's Ian Rapoport.",
-      "published": "2026-10-27T18:43:53Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CIN"
-      ]
-    },
-    {
-      "title": "NFL trade deadline grades: Colts deal Quenton Nelson to Seahawks, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-      "summary": "Will Quenton Nelson upgrade the Seahawks' O-line? Can Marvin Harrison Jr. boost Houston's offense? We're grading NFL trades ahead of November's deadline.",
-      "published": "2026-10-27T18:46:28Z",
-      "source": "ESPN NFL",
+      "title": "DeForest Buckner trade: Colts send DT to 49ers in exchange for 2027 fourth-round pick",
+      "url": "https://www.cbssports.com/nfl/news/deforest-buckner-trade-colts-49ers/",
+      "summary": "Buckner began his NFL career with the Niners as a first round pick in 2016",
+      "published": "Tue, 27 Oct 2026 22:04:07 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
         "IND",
-        "SEA"
+        "SF"
       ]
     },
     {
-      "title": "2026 NFL trade deadline updates: Quenton Nelson, Marvin Harrison Jr. on the move",
-      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-      "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including the Colts sending Quenton Nelson to the Seahawks.",
-      "published": "2026-10-27T19:53:09Z",
-      "source": "ESPN NFL",
+      "title": "NFL trade deadline: Four Eagles, a star Colt and two starting QBs included among top 25 candidates",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-rankings-top-25-eagles-colts/",
+      "summary": "Saquon Barkley, Jonathan Taylor, Kirk Cousins and more could fetch returns at the trade deadline",
+      "published": "Tue, 27 Oct 2026 21:11:05 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "IND",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Seahawks acquire Pro Bowl guard Quenton Nelson in trade with Colts",
-      "url": "https://www.espn.com/nfl/story/_/id/50298913/sources-seahawks-get-pro-bowl-guard-nelson-trade-colts",
-      "summary": "The Colts have traded eight-time Pro Bowl guard Quenton Nelson to the Seahawks.",
-      "published": "2026-10-27T20:25:48Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "SEA"
+        "PHI"
       ]
     },
     {
@@ -405,20 +406,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "NFL trade deadline: Four Eagles, two more Colts and two starting QBs included among top 25 candidates",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-rankings-top-25-eagles-colts/",
-      "summary": "Saquon Barkley, Jonathan Taylor, Kirk Cousins and more could fetch returns at the trade deadline",
-      "published": "Tue, 27 Oct 2026 17:35:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "PHI"
-      ]
     },
     {
       "title": "Quenton Nelson trade: Seahawks acquire All-Pro guard from Colts for two draft picks, per report",
@@ -767,32 +754,6 @@
       "teams": [
         "DAL",
         "PHI"
-      ]
-    },
-    {
-      "title": "Garrett Wilson explains heated Jets sideline moment, says frustration wasn't directed at Geno Smith",
-      "url": "https://www.cbssports.com/nfl/news/garrett-wilson-geno-smith-heated-jets-sideline-exchange/",
-      "summary": "The star receiver acknowledged that he was unhappy with New York's red-zone play calls during an animated conversation",
-      "published": "Mon, 26 Oct 2026 16:26:33 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Colts' Shane Steichen has 'not thought' about QB change despite Daniel Jones' struggles",
-      "url": "https://www.cbssports.com/nfl/news/colts-bench-daniel-jones-shane-steichen-quarterback/",
-      "summary": "Anthony Richardson and Riley Leonard offer little evidence that either would represent an upgrade",
-      "published": "Mon, 26 Oct 2026 15:58:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "IND"
       ]
     }
   ],
