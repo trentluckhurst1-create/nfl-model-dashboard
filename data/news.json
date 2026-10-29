@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-28T21:51:36.430894+00:00",
-  "checked_at_utc": "2026-10-28T21:51:36.430894+00:00",
+  "updated_at_utc": "2026-10-29T01:27:16.533541+00:00",
+  "checked_at_utc": "2026-10-29T01:27:16.533541+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 10,
+      "items": 11,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 34
+      "items": 33
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,55 @@
     }
   },
   "items": [
+    {
+      "title": "NFL Catchup: Josh Downs Requests Trade; Lamar Jackson Practices In Full",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-josh-downs-requests-trade-lamar-jackson-practices-full",
+      "summary": "Here\u2019s the latest from around the NFL on Wednesday.",
+      "published": "Wed, 28 Oct 2026 21:18:27 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "Tom Brady's NFL Power Rankings: The GOAT Is Taking A Mini Victory Lap With New No. 1",
+      "url": "https://www.foxsports.com/stories/nfl/tom-bradys-nfl-power-rankings-vikings-49ers-chiefs-bills-patriots-bears",
+      "summary": "Tom Brady has a new No. 1 in his power rankings, and he's taking extra pride in being right about this team (so far).",
+      "published": "Wed, 28 Oct 2026 20:59:05 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Josh Downs Requests Trade From Indy: Who Are The Colts Top Remaining Trade Chips?",
+      "url": "https://www.foxsports.com/stories/nfl/josh-downs-requests-trade-out-indy-who-colts-top-remaining-trade-chips",
+      "summary": "With the trade deadline less than two weeks away, Josh Downs could be the next Colt on the move under interim general manager Ed Dodds.",
+      "published": "Wed, 28 Oct 2026 19:01:03 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "A Sign of Hope: Lamar Jackson Returns To Practice As Ravens Prepare For Bills",
+      "url": "https://www.foxsports.com/stories/nfl/nothing-kills-the-vibe-in-baltimore-quite-like-an-injury-to-lamar-jackson-this-year-is-no-different",
+      "summary": "Lamar Jackson was a full participant in practice for the Baltimore Ravens, which suggests his latest injury saga could be over sooner rather than later.",
+      "published": "Wed, 28 Oct 2026 18:46:39 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "BUF"
+      ]
+    },
     {
       "title": "The Brilliance Behind NFL's Best WR, Jaxon Smith-Njigba; Inside NFC West Arms Race",
       "url": "https://www.foxsports.com/stories/nfl/jaxon-smith-njigba-best-wide-receiver-seahawks-49ers-deforest-buckner-quenton-nelson-trades",
@@ -184,60 +233,75 @@
       "teams": []
     },
     {
-      "title": "Reunion In The Bay: 49ers Reportedly Land DT DeForest Buckner From Colts In Trade",
-      "url": "https://www.foxsports.com/stories/nfl/deforest-buckner-trade-49ers-colts-details",
-      "summary": "The Indianapolis Colts are trading the three-time Pro Bowl defensive tackle to the San Francisco 49ers for a 2027 fourth-round pick, according to The Ringer.",
-      "published": "Tue, 27 Oct 2026 17:10:00 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Cardinals' Budda Baker hopes to stay with Arizona at trade deadline",
+      "url": "https://www.espn.com/nfl/story/_/id/50312624/cardinals-budda-baker-stay-arizona-trade-deadline",
+      "summary": "Budda Baker hopes that when the trade deadline passes, he'll still be in Arizona.",
+      "published": "2026-10-29T00:53:42Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "IND",
-        "SF"
+        "ARI"
       ]
     },
     {
-      "title": "Cowboys Have An Opportunity They Can't Waste, And They Should Be 'Pissed-Off' If They Do",
-      "url": "https://www.foxsports.com/stories/nfl/cowboys-eagles-nfc-east-dak-prescott-brian-schottenheimer",
-      "summary": "After Brian Schottenheimer felt oddly angry following the Cowboys' win over the Eagles, it's clear that Dallas can't slip up this season.",
-      "published": "Tue, 27 Oct 2026 16:43:07 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Justin Jefferson on down year amid Vikes' 6-0 start: 'What we're doing is working'",
+      "url": "https://www.espn.com/nfl/story/_/id/50311965/justin-jefferson-addresses-year-amid-vikings-6-0-start",
+      "summary": "Justin Jefferson, whose 23 catches are a career low through the first seven weeks of a season, said ultimately what the 6-0 Vikings are doing now \"is working.\"",
+      "published": "2026-10-29T00:35:22Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL",
-        "PHI"
+        "MIN"
       ]
     },
     {
-      "title": "2026 NFL Coach Of The Year Odds: John Harbaugh Surged To Top As Favorite",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-coach-of-the-year-odds",
-      "summary": "A new favorite has surged to the top of Coach Of The Year oddsboard after NFL Week 7. Here's the latest.",
-      "published": "Tue, 27 Oct 2026 16:01:43 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Shemar Stewart focuses on giving Bengals 'confidence' to play him",
+      "url": "https://www.espn.com/nfl/story/_/id/50311866/shemar-stewart-focused-giving-bengals-confidence-play-him",
+      "summary": "After watching his teammates play Sunday when he was a healthy scratch, Bengals DE Shemar Stewart knows what he has to show and prove moving forward.",
+      "published": "2026-10-28T23:49:19Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "CIN"
+      ]
     },
     {
-      "title": "2026 NFL OPOY Odds: Jahmyr Gibbs Favored; Jaxon Smith-Njigba Closing In",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
-      "summary": "Detroit's Jahmyr Gibbs is favored to win 2026 NFL Offensive Player of the Year, but another player from the NFC is surging. Here's the latest.",
-      "published": "Tue, 27 Oct 2026 15:31:52 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Bears' Caleb Williams to continue wearing Caddix 'smart cleats' despite fine",
+      "url": "https://www.espn.com/nfl/story/_/id/50311661/bears-qb-caleb-williams-continue-wearing-caddix-cleats-fine",
+      "summary": "Bears quarterback Caleb Williams said Wednesday he will continue to sport the Caddix cleats he was fined $11,941 for wearing during Chicago's Week 6 win at Atlanta -- a fine that he has appealed, according to a source.",
+      "published": "2026-10-28T23:33:40Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
+      "category": "qb",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Ravens list Lamar Jackson as full participant in practice",
+      "url": "https://www.espn.com/nfl/story/_/id/50311435/ravens-list-lamar-jackson-full-participant-practice",
+      "summary": "Lamar Jackson was a full participant in Wednesday's practice for the Ravens.",
+      "published": "2026-10-28T22:57:41Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL"
+      ]
     },
     {
       "title": "Texans put WR Jaylin Noel on IR with expected season-ending turf toe injury",
       "url": "https://www.espn.com/nfl/story/_/id/50311414/texans-put-wr-jaylin-noel-ir-turf-toe-injury",
       "summary": "The Texans placed wide receiver Jaylin Noel on injured reserve; he is expected to miss the rest of the season with turf toe, a source confirmed.",
-      "published": "2026-10-28T21:50:20Z",
+      "published": "2026-10-28T22:44:31Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -250,7 +314,7 @@
       "title": "Rams' DE Garrett, TE Ferguson won't practice this week",
       "url": "https://www.espn.com/nfl/story/_/id/50311303/rams-de-garrett-te-ferguson-practice-week",
       "summary": "Rams pass rusher Myles Garrett (knee) and tight end Terrance Ferguson (ankle) will not return to practice this week, coach Sean McVay said Wednesday.",
-      "published": "2026-10-28T21:48:40Z",
+      "published": "2026-10-28T22:34:34Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -260,10 +324,10 @@
       ]
     },
     {
-      "title": "Bills' Sam Franklin ready to play this week after suspension reduced to fine",
+      "title": "Bills' Sam Franklin Jr. ready to play this week after suspension reduced to fine",
       "url": "https://www.espn.com/nfl/story/_/id/50311224/bills-sam-franklin-ready-play-ban-reduced-fine",
-      "summary": "Bills DB and special teams captain Sam Franklin Jr., doesn't want to fixate on the incident that briefly landed him a suspension that was later reduced to a fine upon appeal.",
-      "published": "2026-10-28T21:34:42Z",
+      "summary": "Bills DB and special teams captain Sam Franklin Jr., doesn't want to fixate on the incident that briefly landed him a suspension that was reduced to a fine upon appeal.",
+      "published": "2026-10-28T21:55:56Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -276,7 +340,7 @@
       "title": "Jets WR Garrett Wilson says he doesn't want to be traded but does want to win",
       "url": "https://www.espn.com/nfl/story/_/id/50308919/jets-wr-garrett-wilson-says-want-traded",
       "summary": "Jets receiver Garrett Wilson says he doesn't want to be traded but he expressed that he's frustrated by his target share and, most of all, losing.",
-      "published": "2026-10-28T21:24:48Z",
+      "published": "2026-10-28T23:58:59Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -313,56 +377,16 @@
       ]
     },
     {
-      "title": "Winless Chargers sticking with Mike McDaniel as offensive playcaller",
-      "url": "https://www.espn.com/nfl/story/_/id/50310259/chargers-sticking-mike-mcdaniel-offensive-playcaller",
-      "summary": "Embattled offensive coordinator Mike McDaniel will continue as the Chargers' playcaller, coach Jim Harbaugh announced Wednesday.",
-      "published": "2026-10-28T20:41:11Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "After bringing back DeForest Buckner, will the 49ers make more trades?",
-      "url": "https://www.espn.com/nfl/story/_/id/50308923/san-francisco-49ers-deforest-buckner-trade-deadline-plans",
-      "summary": "The 49ers addressed their defensive line by adding Buckner, but will they make more big moves to help the WR room before the Nov. 10 deadline?",
-      "published": "2026-10-28T19:32:05Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Pass rusher Jaelan Phillips among four Panthers ruled out for TNF vs. Packers",
-      "url": "https://www.espn.com/nfl/story/_/id/50309816/pass-rusher-jaelan-phillips-4-panthers-ruled-tnf",
-      "summary": "The Panthers ruled out four players, including starting OLB Jaelan Phillips (hamstring) and left guard Damien Lewis (knee) for \"Thursday Night Football.\"",
-      "published": "2026-10-28T20:00:29Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 8 injury report: Lamar Jackson practices in full, Lions star Kerby Joseph returns",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-kerby-joseph-updates/",
+      "summary": "Get the latest Week 8 injury updates on Lamar Jackson, Kerby Joseph, Matthew Golden, Ja'Marr Chase, Saquon Barkley and other notable NFL players",
+      "published": "Thu, 29 Oct 2026 00:24:26 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "Eagles star Saquon Barkley says he was forced to divest Polymarket equity stake",
-      "url": "https://www.espn.com/nfl/story/_/id/50309777/saquon-barkley-says-was-forced-divest-polymarket-stake",
-      "summary": "Eagles star Saquon Barkley said he was forced to divest his equity stake in Polymarket to comply with NFL rules.",
-      "published": "2026-10-28T20:28:42Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PHI"
+        "DET"
       ]
     },
     {
@@ -800,28 +824,6 @@
         "CAR",
         "DAL"
       ]
-    },
-    {
-      "title": "Every Super Bowl halftime performer ever: Full list as Jay Z announces himself as the 2027 artist",
-      "url": "https://www.cbssports.com/nfl/news/every-super-bowl-halftime-performer-in-history/",
-      "summary": "Explore the full list of halftime show performers",
-      "published": "Tue, 27 Oct 2026 02:41:42 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Who will Jay-Z bring out for the 2027 Super Bowl halftime show? Four possible guests",
-      "url": "https://www.cbssports.com/nfl/news/2027-super-bowl-halftime-special-guests-jay-z/",
-      "summary": "Will Jay Z bring out any guests? If he does, here are some guesses of who they could be",
-      "published": "Tue, 27 Oct 2026 13:04:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     }
   ],
   "reporters": []
