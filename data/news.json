@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-10-29T01:27:16.533541+00:00",
-  "checked_at_utc": "2026-10-29T01:27:16.533541+00:00",
+  "updated_at_utc": "2026-10-29T07:37:25.226872+00:00",
+  "checked_at_utc": "2026-10-29T07:37:25.226872+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 11,
+      "items": 26,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 35
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -236,7 +236,7 @@
       "title": "Cardinals' Budda Baker hopes to stay with Arizona at trade deadline",
       "url": "https://www.espn.com/nfl/story/_/id/50312624/cardinals-budda-baker-stay-arizona-trade-deadline",
       "summary": "Budda Baker hopes that when the trade deadline passes, he'll still be in Arizona.",
-      "published": "2026-10-29T00:53:42Z",
+      "published": "2026-10-29T01:30:56Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -377,10 +377,211 @@
       ]
     },
     {
+      "title": "Winless Chargers sticking with Mike McDaniel as offensive playcaller",
+      "url": "https://www.espn.com/nfl/story/_/id/50310259/chargers-sticking-mike-mcdaniel-offensive-playcaller",
+      "summary": "Embattled offensive coordinator Mike McDaniel will continue as the Chargers' playcaller, coach Jim Harbaugh announced Wednesday.",
+      "published": "2026-10-28T20:41:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
+      "title": "After bringing back DeForest Buckner, will the 49ers make more trades?",
+      "url": "https://www.espn.com/nfl/story/_/id/50308923/san-francisco-49ers-deforest-buckner-trade-deadline-plans",
+      "summary": "The 49ers addressed their defensive line by adding Buckner, but will they make more big moves to help the WR room before the Nov. 10 deadline?",
+      "published": "2026-10-28T19:32:05Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "Pass rusher Jaelan Phillips among four Panthers ruled out for TNF vs. Packers",
+      "url": "https://www.espn.com/nfl/story/_/id/50309816/pass-rusher-jaelan-phillips-4-panthers-ruled-tnf",
+      "summary": "The Panthers ruled out four players, including starting OLB Jaelan Phillips (hamstring) and left guard Damien Lewis (knee) for \"Thursday Night Football.\"",
+      "published": "2026-10-28T20:00:29Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CAR",
+        "GB"
+      ]
+    },
+    {
+      "title": "Eagles star Saquon Barkley says he was forced to divest Polymarket equity stake",
+      "url": "https://www.espn.com/nfl/story/_/id/50309777/saquon-barkley-says-was-forced-divest-polymarket-stake",
+      "summary": "Eagles star Saquon Barkley said he was forced to divest his equity stake in Polymarket to comply with NFL rules.",
+      "published": "2026-10-28T20:28:42Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Sources: Colts' Josh Downs requests trade; Jonathan Taylor hasn't, per coach",
+      "url": "https://www.espn.com/nfl/story/_/id/50309159/source-wr-downs-requests-trade-rb-taylor-per-coach",
+      "summary": "Colts wide receiver Josh Downs is requesting a trade amid the team's rebuilding efforts, sources told ESPN's Jeremy Fowler on Wednesday.",
+      "published": "2026-10-28T18:29:23Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "NFL trade deadline grades: DeForest Buckner, Quenton Nelson dealt by Colts, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "summary": "Does Buckner make the 49ers Super Bowl hopefuls? Will Quenton Nelson upgrade the Seahawks' O-line? We're grading NFL trades ahead of November's deadline.",
+      "published": "2026-10-28T16:41:49Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND",
+        "SEA",
+        "SF"
+      ]
+    },
+    {
+      "title": "With Davante Adams out, Rams leaning on the run game",
+      "url": "https://www.espn.com/nfl/story/_/id/50299981/davante-adams-rams-lean-run-game-blake-corum-kyren-williams",
+      "summary": "In Sunday's victory over the Raiders, the Rams looked to be leaning on the running game, something Los Angeles has struggled to find consistently in this season.",
+      "published": "2026-10-28T16:00:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "LV"
+      ]
+    },
+    {
+      "title": "NFL Week 8 latest intel, buzz questions, news, fantasy tips: What we're hearing",
+      "url": "https://www.espn.com/nfl/story/_/id/50297734/week-8-buzz-fantasy-predictions-graziano-fowler-2026",
+      "summary": "Are changes coming for the Jets? Could the Chiefs add at the trade deadline? Will the Colts keep unloading? And what's going on in the AFC North standings?",
+      "published": "2026-10-28T16:40:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND",
+        "KC",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Justin Tucker, out of NFL since sexual misconduct allegations, signs with Chiefs",
+      "url": "https://www.espn.com/nfl/story/_/id/50307506/sources-chiefs-sign-justin-tucker-practice-squad",
+      "summary": "The Chiefs have signed five-time All-Pro kicker Justin Tucker to their practice squad.",
+      "published": "2026-10-28T18:21:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "2026 NFL trade deadline: Ranking the top 25 candidates to move, plus team fits",
+      "url": "https://www.espn.com/nfl/story/_/id/50278445/2026-nfl-trade-deadline-ranking-top-25-candidates-available",
+      "summary": "Could the Colts listen on Jonathan Taylor? Would Josh Sweat help a contender's defense? We stacked the top players who might move before the Nov. 10 deadline.",
+      "published": "2026-10-29T00:45:59Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "Inside the complicated injury history of Ravens' Lamar Jackson",
+      "url": "https://www.espn.com/nfl/story/_/id/50299565/inside-complicated-injury-history-ravens-lamar-jackson",
+      "summary": "If the QB's health record has taught the football world anything, his timeline to return can be challenging.",
+      "published": "2026-10-28T12:40:45Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Buckner, Nelson trades signal Colts' rebuild underway",
+      "url": "https://www.espn.com/nfl/story/_/id/50302002/colts-deforest-buckner-quenton-nelson-jonathan-taylor",
+      "summary": "DeForest Buckner and Quenton Nelson are headed to contending teams. Could Jonathan Taylor be next?",
+      "published": "2026-10-28T00:38:48Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "Matt LaFleur isn't ruling out imminent practice return for Micah Parsons",
+      "url": "https://www.espn.com/nfl/story/_/id/50302347/matt-lafleur-hints-possible-practice-return-micah-parsons",
+      "summary": "Green Bay Packers edge rusher Micah Parsons might finally be back on the practice field next week, more than 10 months after he underwent surgery on his left knee.",
+      "published": "2026-10-28T10:36:20Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "Why Commanders believe they aren't done yet in the NFC East",
+      "url": "https://www.espn.com/nfl/story/_/id/50302003/washington-commanders-jayden-daniels-nfc-east-chase",
+      "summary": "Washington returns from its bye with renewed belief despite a 1-4-1 start. And its QB is a big reason why.",
+      "published": "2026-10-28T19:10:17Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "WAS"
+      ]
+    },
+    {
+      "title": "Montez Sweat returns to Bears following 'devastating' 2-game suspension",
+      "url": "https://www.espn.com/nfl/story/_/id/50301493/montez-sweat-back-bears-devastating-2-game-suspension",
+      "summary": "Bears DE Montez Sweat is back with the team following his \"devastating\" two-game suspension violating the NFL's performance enhancing substances policy.",
+      "published": "2026-10-28T14:58:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
       "title": "NFL Week 8 injury report: Lamar Jackson practices in full, Lions star Kerby Joseph returns",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-kerby-joseph-updates/",
       "summary": "Get the latest Week 8 injury updates on Lamar Jackson, Kerby Joseph, Matthew Golden, Ja'Marr Chase, Saquon Barkley and other notable NFL players",
-      "published": "Thu, 29 Oct 2026 00:24:26 +0000",
+      "published": "Thu, 29 Oct 2026 04:25:40 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -501,7 +702,7 @@
       "title": "NFL QB Power Rankings, Week 8: There's a new name at No. 1, Patrick Mahomes out of the top 10",
       "url": "https://www.cbssports.com/nfl/news/nfl-qb-power-rankings-week-8-jared-goff-patrick-mahomes/",
       "summary": "Jared Goff seizes the top spot, Joe Burrow climbs into the top five and Mahomes drops out of the top 10",
-      "published": "Wed, 28 Oct 2026 19:59:06 +0000",
+      "published": "Thu, 29 Oct 2026 04:27:09 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -824,6 +1025,28 @@
         "CAR",
         "DAL"
       ]
+    },
+    {
+      "title": "Every Super Bowl halftime performer ever: Full list as Jay Z announces himself as the 2027 artist",
+      "url": "https://www.cbssports.com/nfl/news/every-super-bowl-halftime-performer-in-history/",
+      "summary": "Explore the full list of halftime show performers",
+      "published": "Tue, 27 Oct 2026 02:41:42 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Who will Jay-Z bring out for the 2027 Super Bowl halftime show? Four possible guests",
+      "url": "https://www.cbssports.com/nfl/news/2027-super-bowl-halftime-special-guests-jay-z/",
+      "summary": "Will Jay Z bring out any guests? If he does, here are some guesses of who they could be",
+      "published": "Tue, 27 Oct 2026 13:04:45 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
     }
   ],
   "reporters": []
