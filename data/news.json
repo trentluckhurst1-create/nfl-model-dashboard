@@ -1,25 +1,111 @@
 {
-  "updated_at_utc": "2026-10-29T14:39:14.888922+00:00",
-  "checked_at_utc": "2026-10-29T14:39:14.888922+00:00",
+  "updated_at_utc": "2026-10-29T19:52:16.995615+00:00",
+  "checked_at_utc": "2026-10-29T19:52:16.995615+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 9,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 34
+      "items": 29
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 20,
+      "items": 24,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "2026 NFL No. 1 Seed Odds: Bills Overtake Chiefs In AFC; 49ers Atop NFC",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-no-1-seed-chiefs-49ers",
+      "summary": "A new favorite leads the race for the AFC\u2019s No. 1 seed, while the 49ers remain the favorites in the NFC. Check out the latest odds.",
+      "published": "Thu, 29 Oct 2026 15:01:00 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "KC",
+        "SF"
+      ]
+    },
+    {
+      "title": "NFL Week 8 Betting Report: Is Lamar Back? Bettors Still Backing Bills, The Over",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-8-betting-report-bettors-backing-over-ravens-bills-tilt",
+      "summary": "Bettors are expecting point in Ravens-Bills, and there's two-way action on Chiefs-Broncos. Patrick Everson has the NFL midweek betting scoop.",
+      "published": "Thu, 29 Oct 2026 14:15:32 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "BUF",
+        "DEN",
+        "KC"
+      ]
+    },
+    {
+      "title": "2026 Super Bowl Odds: Bears Surge After Blockbuster Trade For Jeffery Simmons",
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "summary": "The Bears have gone all in. Check out the latest Super Bowl odds after Chicago's blockbuster trade for Jeffery Simmons.",
+      "published": "Thu, 29 Oct 2026 13:29:19 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Jets Star Garrett Wilson Explains Why He Won't Request Trade",
+      "url": "https://www.foxsports.com/stories/nfl/garrett-wilson-trade-rumors-jets-stats",
+      "summary": "New York Jets star Garrett Wilson explained why he won't force a trade to depart the team that drafted him.",
+      "published": "Thu, 29 Oct 2026 11:33:51 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "NFL Fact Or Fiction: Vikings Destined For A Fall? Chiefs No Longer Elite? Giants Legit?",
+      "url": "https://www.foxsports.com/stories/nfl/vikings-destined-fall-chiefs-no-longer-elite-giants-legit",
+      "summary": "We dive into your Week 7 hot takes: Are the Vikings and Giants legit? What\u2019s going on with the Chiefs? Plus, is Jared Goff just a system QB?",
+      "published": "Thu, 29 Oct 2026 11:06:01 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "MIN",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Bears Are Going For It! Chicago Acquires Titans Star Jeffery Simmons",
+      "url": "https://www.foxsports.com/stories/nfl/bears-titans-jeffery-simmons-trade-details",
+      "summary": "The Chicago Bears have acquired Tennessee Titans star defensive tackle Jeffery Simmons.",
+      "published": "Thu, 29 Oct 2026 10:35:03 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "TEN"
+      ]
+    },
     {
       "title": "How to Watch Panthers vs. Packers: TV Channel, Live Stream, Time",
       "url": "https://www.foxsports.com/stories/nfl/how-to-watch-panthers-vs-packers-tv-channel-live-stream-time-oct-29-2026",
@@ -234,7 +320,7 @@
       ]
     },
     {
-      "title": "NFL Trade Deadline Grades: Who Won The DeForest Buckner, Quenton Nelson Deals?",
+      "title": "NFL Trade Deadline Grades: Who Won The Jeffery Simmons, DeForest Buckner Deals?",
       "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-grades",
       "summary": "Who has won the most notable trades ahead of the deadline? We grade all the top deals.",
       "published": "Tue, 27 Oct 2026 23:19:18 -0400",
@@ -245,35 +331,261 @@
       "teams": []
     },
     {
-      "title": "QB Notebook: Settle Down With Your J.J. McCarthy Narratives; Time To Bench Daniel Jones?",
-      "url": "https://www.foxsports.com/stories/nfl/week-7-qb-notebook-jj-mccarthy-giants-daniel-jones-colts",
-      "summary": "J.J. McCarthy's first start with the Giants was promising, but there are reasons to still be skeptical.",
-      "published": "Tue, 27 Oct 2026 20:58:09 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Patriots' A.J. Brown misses practice Thursday due to new knee ailment",
+      "url": "https://www.espn.com/nfl/story/_/id/50321006/patriots-aj-brown-misses-practice-due-new-knee-ailment",
+      "summary": "The Patriots' A.J. Brown missed his first practice since returning from IR, with a new knee ailment, in addition to his injured ankle.",
+      "published": "2026-10-29T19:41:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "Raiders and Jets will try to stop struggles and quiet some outside noise when they square off Sunday",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873029",
+      "summary": "\u2014 Las Vegas Raiders fans are getting restless, while New York Jets fans are fully frustrated.",
+      "published": "2026-10-29T18:18:46Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "NYG"
+        "LV",
+        "NYJ"
       ]
     },
     {
-      "title": "Which Bad Team Emerges to Win NFC South? Outlining Which Team Might Have Inside Track",
-      "url": "https://www.foxsports.com/stories/nfl/nfc-south-projection-buccaneers-falcons-panthers-saints",
-      "summary": "After seven weeks, it feels like the NFC South is back to where things where in Week 1. Which team will breakthrough?",
-      "published": "Tue, 27 Oct 2026 19:45:40 -0400",
-      "source": "FOX Sports NFL",
+      "title": "In Pittsburgh, the Browns chase a rare win and sole possession of the AFC North lead",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873027",
+      "summary": "\u2014 Time to find out if the Cleveland Browns are for real.",
+      "published": "2026-10-29T17:45:47Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "CLE"
+      ]
     },
     {
-      "title": "Sources: Bears acquire All-Pro DT Jeffery Simmons in trade with Titans",
-      "url": "https://www.espn.com/nfl/story/_/id/50318351/sources-bears-trade-all-pro-dt-jeffery-simmons",
-      "summary": "The Bears are acquiring All-Pro defensive tackle Jeffery Simmons from the Titans, sources told ESPN's Adam Schefter.",
-      "published": "2026-10-29T14:32:42Z",
+      "title": "Dolphins look to build momentum against defending AFC champion Patriots as Willis faces former coach",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873034",
+      "summary": "\u2014 Most of the current players on the Miami Dolphins roster haven't faced the New England Patriots very much.",
+      "published": "2026-10-29T17:45:46Z",
       "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "MIA",
+        "NE"
+      ]
+    },
+    {
+      "title": "Burrow, Bengals go into November with momentum as they host struggling Titans",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873031",
+      "summary": "Joe Burrow and the Cincinnati Bengals find themselves in an unusual position going into November \u2014 healthy and with momentum.",
+      "published": "2026-10-29T17:44:52Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "TEN"
+      ]
+    },
+    {
+      "title": "Bears get Jeffery Simmons: Key intel on blockbuster trade",
+      "url": "https://www.espn.com/nfl/story/_/id/50319153/jeffery-simmons-trade-titans-bears-draft-picks-deadline",
+      "summary": "Is Jeffery Simmons the key missing piece for the Bears' Super Bowl puzzle? Here are key takeaways from the blockbuster trade.",
+      "published": "2026-10-29T19:32:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Colts' Jonathan Taylor confirms he hasn't requested trade: 'Proud to be here'",
+      "url": "https://www.espn.com/nfl/story/_/id/50319874/colts-jonathan-taylor-confirms-requested-trade",
+      "summary": "The Colts' Jonathan Taylor confirmed he has not asked for a trade amid the team's roster overhaul, but he acknowledged that any and all changes are possible.",
+      "published": "2026-10-29T17:29:43Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "NFL trade deadline grades: Jeffery Simmons, DeForest Buckner, Quenton Nelson",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "summary": "Did the Bears give up too much to go all-in with Simmons? How did the Colts do in their DeForest Buckner and Quenton Nelson deals?",
+      "published": "2026-10-29T17:06:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CHI",
+        "IND"
+      ]
+    },
+    {
+      "title": "Have teams figured out DeMeco Ryans and the Texans' defense?",
+      "url": "https://www.espn.com/nfl/story/_/id/50308256/what-happened-texans-defense-struggle",
+      "summary": "Houston has gone from one of the best defenses in the NFL to one of the most scored upon.",
+      "published": "2026-10-29T16:04:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU"
+      ]
+    },
+    {
+      "title": "Packers vs. Panthers prediction: Green Bay, Carolina both look to get back into win column on 'TNF'",
+      "url": "https://www.cbssports.com/nfl/news/packers-vs-panthers-how-to-watch-preview-prediction-odds/",
+      "summary": "How to watch as these two teams take center stage on \"Thursday Night Football\" after Week 7 losses",
+      "published": "Thu, 29 Oct 2026 18:50:16 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "GB"
+      ]
+    },
+    {
+      "title": "Week 8 NFL betting odds, lines, totals, spreads for every game, including Panthers-Packers, Bills-Ravens",
+      "url": "https://www.cbssports.com/betting/news/week-8-nfl-betting-odds-lines-spreads-totals/",
+      "summary": "Check out the Week 8 NFL betting odds, spreads and totals for all 14 games, including Packers-Panthers and Bills-Ravens.",
+      "published": "Thu, 29 Oct 2026 18:10:17 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "BUF",
+        "CAR",
+        "GB"
+      ]
+    },
+    {
+      "title": "Who's to blame for Eagles shocking collapse? Five places to point fingers",
+      "url": "https://www.cbssports.com/nfl/news/whos-to-blame-eagles-shocking-collapse-five-places-to-point-fingers/",
+      "summary": "There's plenty of blame to go around in Philadelphia",
+      "published": "Thu, 29 Oct 2026 18:05:35 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Packers vs. Panthers odds, picks, NFL Week 8 prediction: Best bets, player props for Thursday Night Football",
+      "url": "https://www.cbssports.com/betting/news/packers-vs-panthers-odds-picks-nfl-week-8-prediction-best-bets-player-props-for-thursday-night-football/",
+      "summary": "Target the Over in an expected prime-time shootout, plus high-value player props featuring Josh Jacobs and Christian Watson",
+      "published": "Thu, 29 Oct 2026 18:00:41 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "GB"
+      ]
+    },
+    {
+      "title": "Revisiting Panthers' blockbuster trade with Bears to draft Bryce Young: Chicago, Caleb Williams won big",
+      "url": "https://www.cbssports.com/nfl/news/revisiting-panthers-trade-bears-to-draft-bryce-young-caleb-williams/",
+      "summary": "Ahead of Young's crucial 'TNF' start, we revisit a stunning trade",
+      "published": "Thu, 29 Oct 2026 17:47:55 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CAR",
+        "CHI"
+      ]
+    },
+    {
+      "title": "Caleb Williams plans to defy NFL: Bears QB to stick with unapproved cleat also worn by former Super Bowl MVP",
+      "url": "https://www.cbssports.com/nfl/news/caleb-williams-defy-nfl-stick-with-unapproved-caddix-cleat/",
+      "summary": "Joe Flacco also says he plans to cover any future fines the NFL throws at Williams for wearing the cleats",
+      "published": "Thu, 29 Oct 2026 17:32:00 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Jeffery Simmons is Bears' all-in move. Caleb Williams and Ben Johnson make it worth the risk",
+      "url": "https://www.cbssports.com/nfl/news/jeffery-simmons-trade-bears-all-in-caleb-williams-ben-johnson/",
+      "summary": "The Bears have a superstar defender to complement their superstar-in-the-making quarterback",
+      "published": "Thu, 29 Oct 2026 17:11:31 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Pick Six: What to know about the NFL ahead of Week 8, plus picks and playoff projections",
+      "url": "https://www.cbssports.com/nfl/news/pick-six-what-to-know-about-nfl-week-8-picks-projections/",
+      "summary": "Details on the Jeffrey Simmons trade, plus Packers-Panthers picks and the full playoff picture projections",
+      "published": "Thu, 29 Oct 2026 16:18:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CAR",
+        "GB"
+      ]
+    },
+    {
+      "title": "Titans trade Jeffery Simmons, join Jets and Browns in draft stockpile: History offers hope -- and a warning",
+      "url": "https://www.cbssports.com/nfl/news/nfl-draft-first-round-gamble-what-jets-browns-can-learn/",
+      "summary": "Multiple first-round picks helped the Chiefs, Eagles and Seahawks win Super Bowls, but the Titans, Jets and Browns know the other side of the story",
+      "published": "Thu, 29 Oct 2026 15:59:41 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CLE",
+        "KC",
+        "NYJ",
+        "PHI",
+        "SEA",
+        "TEN"
+      ]
+    },
+    {
+      "title": "Jeffery Simmons trade grades: Bears earn high marks by going all-in, Titans start yet another rebuild",
+      "url": "https://www.cbssports.com/nfl/news/jeffery-simmons-trade-grades-bears-titans-nfl-draft/",
+      "summary": "Chicago has taken a massive step in its Super Bowl pursuit",
+      "published": "Thu, 29 Oct 2026 15:50:14 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
@@ -283,77 +595,51 @@
       ]
     },
     {
-      "title": "2026 NFL trade deadline updates: Jeffery Simmons, Quenton Nelson on the move",
-      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-      "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including a blockbuster sending Jeffery Simmons to Chicago.",
-      "published": "2026-10-29T14:38:21Z",
-      "source": "ESPN NFL",
+      "title": "NFL trade deadline: Four Eagles, two more Colts and two starting QBs included among top 25 candidates",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-rankings-top-25-eagles-colts/",
+      "summary": "Saquon Barkley, Jonathan Taylor, Kirk Cousins and more could fetch returns at the trade deadline",
+      "published": "Thu, 29 Oct 2026 15:19:31 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
-      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "published": "2026-10-29T13:25:23Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
       "teams": [
-        "DET",
-        "JAX"
+        "IND",
+        "PHI"
       ]
     },
     {
-      "title": "Packers vs. Panthers odds, prediction, betting preview, start time: Thursday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/packers-vs-panthers-odds-prediction-betting-preview-start-time-thursday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Panthers vs. Packers on Thursday Night Football",
-      "published": "Thu, 29 Oct 2026 14:02:24 +0000",
+      "title": "Jets 2027 mock draft: How New York uses its three first-rounders to rebuild",
+      "url": "https://www.cbssports.com/nfl/news/jets-2027-mock-draft-how-new-york-uses-three-first-rounders/",
+      "summary": "Notre Dame quarterback CJ Carr headlines a massive first-round haul that also lands defensive replacements for Sauce Gardner and Quinnen Williams",
+      "published": "Thu, 29 Oct 2026 15:08:39 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "qb",
       "teams": [
-        "CAR",
-        "GB"
+        "NYJ"
       ]
     },
     {
-      "title": "Packers vs. Panthers: Green Bay, Carolina both look to get back into win column on 'TNF'",
-      "url": "https://www.cbssports.com/nfl/news/packers-vs-panthers-how-to-watch-preview-prediction-odds/",
-      "summary": "How to watch as these two teams take center stage on \"Thursday Night Football\" after Week 7 losses",
-      "published": "Thu, 29 Oct 2026 13:59:04 +0000",
+      "title": "Jeffery Simmons trade: Titans deal All-Pro defensive tackle to the Bears, per CBS Sports insider",
+      "url": "https://www.cbssports.com/nfl/news/titans-trade-jeffery-simmons-to-chicago-bears-grades/",
+      "summary": "Simmons is getting a chance to play for a contender, according to CBS Sports' Matt Zenitz",
+      "published": "Thu, 29 Oct 2026 14:37:21 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "transaction",
       "teams": [
-        "CAR",
-        "GB"
+        "CHI",
+        "TEN"
       ]
     },
     {
-      "title": "Week 8 NFL betting promos: Get over $3,000 in bonuses from betting apps, sportsbooks for Panthers-Packers",
-      "url": "https://www.cbssports.com/betting/news/week-8-nfl-betting-promos-get-over-3000-in-bonuses-from-betting-apps-sportsbooks-for-panthers-packers/",
-      "summary": "Top Week 8 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Thu, 29 Oct 2026 13:55:56 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "Ravens' Lamar Jackson expect to start vs. Bills, per CBS Sports insider",
+      "title": "Ravens' Lamar Jackson expected to start vs. Bills, per CBS Sports insider",
       "url": "https://www.cbssports.com/nfl/news/ravens-lamar-jackson-injury-update-bills/",
       "summary": "The two-time MVP hasn't played since Week 4 after suffering a high ankle sprain",
-      "published": "Thu, 29 Oct 2026 13:44:41 +0000",
+      "published": "Thu, 29 Oct 2026 15:03:32 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -390,20 +676,6 @@
       ]
     },
     {
-      "title": "Packers vs. Panthers odds, picks, NFL Week 8 prediction: Best bets, player props for Thursday Night Football",
-      "url": "https://www.cbssports.com/betting/news/packers-vs-panthers-odds-picks-nfl-week-8-prediction-best-bets-player-props-for-thursday-night-football/",
-      "summary": "Target the Over in an expected prime-time shootout, plus high-value player props featuring Josh Jacobs and Christian Watson",
-      "published": "Thu, 29 Oct 2026 13:07:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
       "title": "Brewers win franchise's first World Series; marquee AFC clash headlines Week 8 NFL picks",
       "url": "https://www.cbssports.com/mlb/news/brewers-win-franchises-first-world-series-marquee-afc-clash-headlines-week-8-nfl-picks/",
       "summary": "Plus, the Rockets are off to a flying start in 2026-27 NBA season",
@@ -418,7 +690,7 @@
       "title": "Why extending Bo Nix will cripple Broncos, slam Denver's Super Bowl window shut",
       "url": "https://www.cbssports.com/nfl/news/why-extending-bo-nix-cripple-broncos-slam-denvers-super-bowl/",
       "summary": "Nix's throwing the ball downfield like a 41-year-old Drew Brees with a degenerative right shoulder, despite being 26 years old",
-      "published": "Thu, 29 Oct 2026 12:26:05 +0000",
+      "published": "Thu, 29 Oct 2026 14:47:21 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -575,202 +847,6 @@
       "teams": [
         "IND"
       ]
-    },
-    {
-      "title": "Saquon Barkley trade rumors: Should the Seahawks trade for the Eagles' running back?",
-      "url": "https://www.cbssports.com/nfl/news/case-for-against-seahawks-trading-for-saquon-barkley/",
-      "summary": "Here are the pros and cons of a Barkley trade for the defending Super Bowl champs",
-      "published": "Wed, 28 Oct 2026 13:58:55 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "PHI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Chiefs sign former Ravens kicker Justin Tucker after Harrison Butker struggles",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-sign-former-ravens-kicker-justin-tucker/",
-      "summary": "Tucker is back with a team for the first time since 2024",
-      "published": "Wed, 28 Oct 2026 13:47:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "BAL",
-        "KC"
-      ]
-    },
-    {
-      "title": "Predicting the full 14-team NFL playoff bracket entering Week 8: Cowboys steal NFC East, Bills make Super Bowl",
-      "url": "https://www.cbssports.com/nfl/news/predicting-full-14-team-nfl-playoff-bracket-week-8/",
-      "summary": "The Bills in the Super Bowl? Here's our playoff projection heading into Week 8",
-      "published": "Wed, 28 Oct 2026 13:44:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "DAL"
-      ]
-    },
-    {
-      "title": "NFL QB Power Rankings, Week 8: There's a new name at No. 1, Patrick Mahomes out of the top 10",
-      "url": "https://www.cbssports.com/nfl/news/nfl-qb-power-rankings-week-8-jared-goff-patrick-mahomes/",
-      "summary": "Jared Goff seizes the top spot, Joe Burrow climbs into the top five and Mahomes drops out of the top 10",
-      "published": "Thu, 29 Oct 2026 04:27:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Week 8 NFL betting odds, lines, totals, spreads for every game, including Packers-Panthers, Bills-Ravens",
-      "url": "https://www.cbssports.com/betting/news/week-8-nfl-betting-odds-lines-totals-spreads/",
-      "summary": "Check out the Week 8 NFL betting odds, spreads and totals for all 14 games, including Packers-Panthers and Bills-Ravens.",
-      "published": "Wed, 28 Oct 2026 13:19:55 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "BUF",
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "Rays stay alive vs. Brewers in extra-innings World Series classic; Colts begin NFL trade deadline sale",
-      "url": "https://www.cbssports.com/mlb/news/rays-brewers-world-series-classic-mlb-colts-nfl-trade-deadline-sale/",
-      "summary": "Plus the Top 100 And 1 college basketball teams for the 2026-27 season",
-      "published": "Wed, 28 Oct 2026 12:44:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "NFL Week 8 picks, best bets: Commanders handle disadvantaged Eagles, Jaguars rout Colts",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-picks-predictions-odds-best-bets-commanders-vs-eagles/",
-      "summary": "Tyler Sullivan picks every game on the Week 8 schedule, including five locks against the spread",
-      "published": "Wed, 28 Oct 2026 11:20:18 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "JAX",
-        "PHI",
-        "WAS"
-      ]
-    },
-    {
-      "title": "One year later, regrading the 10 biggest deals from the 2025 NFL trade deadline",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-grades-for-biggest-2025-deals/",
-      "summary": "From the Colts' disastrous gamble on Sauce Gardner to the Eagles' productive Jaelan Phillips rental, here is how last year's biggest deals have aged",
-      "published": "Wed, 28 Oct 2026 11:17:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Prisco's Week 8 NFL picks: Packers over Panthers, Lions hand Vikings their first loss",
-      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-8-nfl-picks-odds-predictions/",
-      "summary": "Pete Prisco reveals all of his Week 8 picks, including the Bills to top the Ravens in a high-scoring game",
-      "published": "Wed, 28 Oct 2026 10:00:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "BUF",
-        "CAR",
-        "DET",
-        "GB",
-        "MIN"
-      ]
-    },
-    {
-      "title": "DeForest Buckner trade grades: 49ers get reunion with three-time Pro Bowler, Colts work toward rebuild",
-      "url": "https://www.cbssports.com/nfl/news/deforest-buckner-trade-grades-49ers-colts/",
-      "summary": "The trade makes sense for both sides",
-      "published": "Tue, 27 Oct 2026 22:33:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "SF"
-      ]
-    },
-    {
-      "title": "DeForest Buckner trade: Colts send DT to 49ers in exchange for 2027 fourth-round pick",
-      "url": "https://www.cbssports.com/nfl/news/deforest-buckner-trade-colts-49ers/",
-      "summary": "Buckner began his NFL career with the Niners as a first round pick in 2016",
-      "published": "Tue, 27 Oct 2026 22:04:07 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "SF"
-      ]
-    },
-    {
-      "title": "NFL trade deadline: Four Eagles, a star Colt and two starting QBs included among top 25 candidates",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-rankings-top-25-eagles-colts/",
-      "summary": "Saquon Barkley, Jonathan Taylor, Kirk Cousins and more could fetch returns at the trade deadline",
-      "published": "Tue, 27 Oct 2026 21:11:05 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "Quenton Nelson trade grades: Seahawks add eight-time Pro Bowler, while Colts look to sell pieces",
-      "url": "https://www.cbssports.com/nfl/news/quenton-nelson-trade-grades-seahawks-colts/",
-      "summary": "Seattle shores up protection for Sam Darnold with an eight-time Pro Bowler, while Indianapolis opens the door to sell more",
-      "published": "Tue, 27 Oct 2026 18:29:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "SEA"
-      ]
-    },
-    {
-      "title": "2027 Super Bowl halftime show: Jay-Z picks himself to perform for Super Bowl LXI",
-      "url": "https://www.cbssports.com/nfl/news/2027-super-bowl-headliner-announced-jay-z-super-bowl-lxi/",
-      "summary": "This is a public service announcement sponsored by Roc Nation",
-      "published": "Tue, 27 Oct 2026 17:29:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     }
   ],
   "reporters": []
