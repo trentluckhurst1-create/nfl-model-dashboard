@@ -1,25 +1,36 @@
 {
-  "updated_at_utc": "2026-10-29T23:45:24.471893+00:00",
-  "checked_at_utc": "2026-10-29T23:45:24.471893+00:00",
+  "updated_at_utc": "2026-10-30T03:00:26.868998+00:00",
+  "checked_at_utc": "2026-10-30T03:00:26.868998+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 14,
+      "items": 11,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 27
+      "items": 29
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 20,
+      "items": 17,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Tom Brady Isn't Sure If Defenders Are Being Treated Fair On Roughing The Passer Calls",
+      "url": "https://www.foxsports.com/stories/nfl/tom-brady-isnt-sure-defenders-being-treated-fair-roughing-passer-calls",
+      "summary": "Tom Brady wants officials to give defenses some grace when it comes to hitting the quarterback.",
+      "published": "Thu, 29 Oct 2026 21:07:06 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
     {
       "title": "The 5 Trades I Want To See Before The NFL Trade Deadline",
       "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-deals-i-want-to-see-jonathan-taylor-xavier-worthy-cowboys",
@@ -229,66 +240,78 @@
       "teams": []
     },
     {
-      "title": "Josh Downs Requests Trade From Indy: Who Are The Colts Top Remaining Trade Chips?",
-      "url": "https://www.foxsports.com/stories/nfl/josh-downs-requests-trade-out-indy-who-colts-top-remaining-trade-chips",
-      "summary": "With the trade deadline less than two weeks away, Josh Downs could be the next Colt on the move under interim general manager Ed Dodds.",
-      "published": "Wed, 28 Oct 2026 19:01:03 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "A Sign of Hope: Lamar Jackson Returns To Practice As Ravens Prepare For Bills",
-      "url": "https://www.foxsports.com/stories/nfl/nothing-kills-the-vibe-in-baltimore-quite-like-an-injury-to-lamar-jackson-this-year-is-no-different",
-      "summary": "Lamar Jackson was a full participant in practice for the Baltimore Ravens, which suggests his latest injury saga could be over sooner rather than later.",
-      "published": "Wed, 28 Oct 2026 18:46:39 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Packers' Christian Watson returns to game after hospital trip for chest injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50324081/packers-christian-watson-hospital-chest-injury-panthers",
+      "summary": "Christian Watson was taken to a hospital, which the team said was for precautionary reasons, during the first half of Thursday's game against the Panthers.",
+      "published": "2026-10-30T02:53:49Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "BAL",
-        "BUF"
+        "CAR",
+        "GB"
       ]
     },
     {
-      "title": "The Brilliance Behind NFL's Best WR, Jaxon Smith-Njigba; Inside NFC West Arms Race",
-      "url": "https://www.foxsports.com/stories/nfl/jaxon-smith-njigba-best-wide-receiver-seahawks-49ers-deforest-buckner-quenton-nelson-trades",
-      "summary": "We found out how Jaxon Smith-Njigba has established himself as the NFL's best wide receiver, and how the Seahawks' and 49ers' trades will impact the NFC West race.",
-      "published": "Wed, 28 Oct 2026 17:12:11 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Panthers' ailing secondary loses rookie CB Will Lee to injury in first half",
+      "url": "https://www.espn.com/nfl/story/_/id/50323927/panthers-lee-injures-hamstring-ruled-vs-packers",
+      "summary": "The Panthers, already down two starting cornerbacks, lost rookie Will Lee to a first-half hamstring injury Thursday night against the Packers.",
+      "published": "2026-10-30T02:14:03Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "injury",
       "teams": [
-        "SEA",
-        "SF"
+        "CAR",
+        "GB"
       ]
     },
     {
-      "title": "Will Hill's Parlay Of The Week: Back Bucs To Beat Falcons, Ravens To Cover",
-      "url": "https://www.foxsports.com/stories/nfl/will-hills-parlay-week-back-bucs-beat-falcons-ravens-cover",
-      "summary": "Check out Will Hill's five-leg parlay, featuring a Tampa Bay win in-division and a close one in Buffalo.",
-      "published": "Wed, 28 Oct 2026 15:58:16 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Week 8 TNF Panthers at Packers: Highlights, key plays",
+      "url": "https://www.espn.com/nfl/story/_/id/50322459/nfl-thursday-night-football-packers-panthers-jordan-love-bryce-young",
+      "summary": "Check out the biggest touchdowns and highlights as the Packers host the Panthers at Lambeau Field.",
+      "published": "2026-10-30T02:39:26Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL",
-        "BAL",
-        "TB"
+        "CAR",
+        "GB"
+      ]
+    },
+    {
+      "title": "Source: Bears quarterback Caleb Williams fined again for cleats",
+      "url": "https://www.espn.com/nfl/story/_/id/50323203/bears-quarterback-caleb-williams-fined-again-cleats",
+      "summary": "The NFL fined Caleb Williams $23,882 for sporting Caddix cleats in Week 7, a source confirmed to ESPN on Thursday.",
+      "published": "2026-10-30T01:53:54Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "NFL Week 8's best arrivals, led by Panthers' Bryce Young",
+      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
+      "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
+      "published": "2026-10-30T00:01:06Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR"
       ]
     },
     {
       "title": "Quenton Nelson: Cherished time with Colts but excited to play for Seahawks",
       "url": "https://www.espn.com/nfl/story/_/id/50322754/quenton-nelson-awesome-play-seahawks-colts-trade",
       "summary": "Eight-time Pro Bowl guard Quenton Nelson expressed excitement over what he called \"a new opportunity\" with the Seahawks following eight-plus seasons with the Colts.",
-      "published": "2026-10-29T23:40:19Z",
+      "published": "2026-10-30T01:14:47Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -330,7 +353,7 @@
       "title": "Jeffery Simmons traded to Bears: Does dealing multiple first-round picks work?",
       "url": "https://www.espn.com/nfl/story/_/id/50319184/jeffery-simmons-trade-two-first-round-picks-bears-titans",
       "summary": "The Bears' aggressive move for Simmons marks the 10th time in the past decade that a team has traded multiple first-round picks for a star player. But the hit rate isn't great.",
-      "published": "2026-10-29T23:37:24Z",
+      "published": "2026-10-30T01:26:24Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -365,112 +388,35 @@
       "teams": []
     },
     {
-      "title": "Josh Allen looks to renew rivalry with Lamar Jackson as Bills host Ravens",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873026",
-      "summary": "\u2014 Josh Allen can appreciate how heated discussions can get over bar stools, on talk radio and social media over whether he or Lamar Jackson are the better quarterback.",
-      "published": "2026-10-29T21:39:45Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "BUF"
-      ]
-    },
-    {
-      "title": "Jags' home winning streak against Indy is 'weird, quirky' and a long shot to end Sunday",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873028",
-      "summary": "\u2014 Jaguars left tackle Walker Little perfectly summed up Jacksonville's 11-game home winning streak against Indianapolis.",
-      "published": "2026-10-29T21:31:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX"
-      ]
-    },
-    {
-      "title": "Falcons' Penix and Buccaneers' Mayfield aiming to help rebounding teams take control of NFC South",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873025",
-      "summary": "\u2014 Welcome to the NFC South, where inconsistency and seemingly disastrous starts to this season have not undermined the aspirations of the Atlanta Falcons and Tampa Bay Buccaneers.",
-      "published": "2026-10-29T21:25:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "TB"
-      ]
-    },
-    {
-      "title": "Jets' Brownlee says he was benched for missing meetings, but 'good' for Sunday",
-      "url": "https://www.espn.com/nfl/story/_/id/50322007/jets-jarvis-brownlee-says-was-benched-missing-meetings",
-      "summary": "Jets nickelback Jarvis Brownlee Jr. was benched last Sunday and fined by the team because he missed multiple mandatory meetings.",
-      "published": "2026-10-29T21:46:44Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Cowboys look for rare winning streak under Brian Schottenheimer in visit from Cardinals",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873024",
-      "summary": "\u2014 Sustainability is the next challenge for the Dallas Cowboys, who have just one winning streak in nearly a season and a half under coach Brian Schottenheimer.",
-      "published": "2026-10-29T21:24:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "DAL"
-      ]
-    },
-    {
-      "title": "Seahawks' dominant defense faces challenge in Bears QB Caleb Williams and NFL's top rushing offense",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873036",
-      "summary": "Now it's Chicago's turn to face Seattle's \u201cDark Side.\u201d",
-      "published": "2026-10-29T20:46:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CHI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Toub: Butker still Chiefs' kicker despite struggles, Tucker signing",
-      "url": "https://www.espn.com/nfl/story/_/id/50321154/toub-butker-chiefs-kicker-tucker-signing",
-      "summary": "Chiefs special teams coordinator Dave Toub expressed rather emphatically that Harrison Butker is the team's kicker despite the team signing Justin Tucker, who hasn't played in the NFL since 2024, to their practice squad.",
-      "published": "2026-10-29T20:39:50Z",
-      "source": "ESPN NFL",
+      "title": "Packers' Christian Watson returns against Panthers after chest injury, hospital visit",
+      "url": "https://www.cbssports.com/nfl/news/christian-watson-injury-update-packers-wr-hospital/",
+      "summary": "The Packers wide receiver was injured on a 53-yard reception in the first half",
+      "published": "Fri, 30 Oct 2026 02:34:38 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "KC"
+        "CAR",
+        "GB"
       ]
     },
     {
-      "title": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
-      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "published": "2026-10-29T19:57:50Z",
-      "source": "ESPN NFL",
+      "title": "Prisco's Week 8 NFL picks: Lions hand Vikings their first loss, Chiefs over Broncos",
+      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-8-nfl-picks-odds-predictions/",
+      "summary": "Pete Prisco reveals all of his Week 8 picks, including the Bills to top the Ravens in a high-scoring game",
+      "published": "Fri, 30 Oct 2026 00:13:10 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
+        "BAL",
+        "BUF",
+        "DEN",
         "DET",
-        "JAX"
+        "KC",
+        "MIN"
       ]
     },
     {
