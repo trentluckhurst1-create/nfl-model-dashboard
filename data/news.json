@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-30T03:00:26.868998+00:00",
-  "checked_at_utc": "2026-10-30T03:00:26.868998+00:00",
+  "updated_at_utc": "2026-10-30T09:53:20.368969+00:00",
+  "checked_at_utc": "2026-10-30T09:53:20.368969+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 11,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,39 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 17,
+      "items": 19,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "After Dreadful Cowboys Loss, Where Do Eagles Go From Here? Answering Philly's Biggest Qs",
+      "url": "https://www.foxsports.com/stories/nfl/eagles-nfl-trade-deadline-rumors-saquon-barkley-jalen-hurts-nick-sirianni",
+      "summary": "Will the Eagles trade Saquon Barkley? Will they start preparing for life without Jalen Hurts and Nick Sirianni? We answer the biggest questions surrounding the Eagles, with some insight around the league.",
+      "published": "Fri, 30 Oct 2026 00:07:36 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Jordan Love For MVP? 3 Takeaways From Packers' Win Over Panthers",
+      "url": "https://www.foxsports.com/stories/nfl/jordan-love-mvp-packers-panthers-takeaways",
+      "summary": "Jordan Love should be considered an MVP candidate is among the things we learned from the Packers' win over the Panthers.",
+      "published": "Thu, 29 Oct 2026 23:42:36 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "GB"
+      ]
+    },
     {
       "title": "Tom Brady Isn't Sure If Defenders Are Being Treated Fair On Roughing The Passer Calls",
       "url": "https://www.foxsports.com/stories/nfl/tom-brady-isnt-sure-defenders-being-treated-fair-roughing-passer-calls",
@@ -240,158 +268,23 @@
       "teams": []
     },
     {
-      "title": "Packers' Christian Watson returns to game after hospital trip for chest injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50324081/packers-christian-watson-hospital-chest-injury-panthers",
-      "summary": "Christian Watson was taken to a hospital, which the team said was for precautionary reasons, during the first half of Thursday's game against the Panthers.",
-      "published": "2026-10-30T02:53:49Z",
+      "title": "Packers' Josh Jacobs: TD celebration was ode to gospel song, not mocking arrest",
+      "url": "https://www.espn.com/nfl/story/_/id/50325876/packers-josh-jacobs-says-td-celebration-mocking-arrest",
+      "summary": "The Packers' Josh Jacobs said he was surprised his first-half TD celebration was perceived by some as mocking his May arrest, saying it was an ode to a gospel song.",
+      "published": "2026-10-30T06:53:19Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
       "teams": [
-        "CAR",
         "GB"
       ]
-    },
-    {
-      "title": "Panthers' ailing secondary loses rookie CB Will Lee to injury in first half",
-      "url": "https://www.espn.com/nfl/story/_/id/50323927/panthers-lee-injures-hamstring-ruled-vs-packers",
-      "summary": "The Panthers, already down two starting cornerbacks, lost rookie Will Lee to a first-half hamstring injury Thursday night against the Packers.",
-      "published": "2026-10-30T02:14:03Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "Week 8 TNF Panthers at Packers: Highlights, key plays",
-      "url": "https://www.espn.com/nfl/story/_/id/50322459/nfl-thursday-night-football-packers-panthers-jordan-love-bryce-young",
-      "summary": "Check out the biggest touchdowns and highlights as the Packers host the Panthers at Lambeau Field.",
-      "published": "2026-10-30T02:39:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "Source: Bears quarterback Caleb Williams fined again for cleats",
-      "url": "https://www.espn.com/nfl/story/_/id/50323203/bears-quarterback-caleb-williams-fined-again-cleats",
-      "summary": "The NFL fined Caleb Williams $23,882 for sporting Caddix cleats in Week 7, a source confirmed to ESPN on Thursday.",
-      "published": "2026-10-30T01:53:54Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "NFL Week 8's best arrivals, led by Panthers' Bryce Young",
-      "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
-      "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
-      "published": "2026-10-30T00:01:06Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR"
-      ]
-    },
-    {
-      "title": "Quenton Nelson: Cherished time with Colts but excited to play for Seahawks",
-      "url": "https://www.espn.com/nfl/story/_/id/50322754/quenton-nelson-awesome-play-seahawks-colts-trade",
-      "summary": "Eight-time Pro Bowl guard Quenton Nelson expressed excitement over what he called \"a new opportunity\" with the Seahawks following eight-plus seasons with the Colts.",
-      "published": "2026-10-30T01:14:47Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Commanders and Eagles head into 'Sunday Night Football' with season-defining matchup on deck",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873035",
-      "summary": "\u2014 The Washington Commanders and Philadelphia Eagles are each facing a...",
-      "published": "2026-10-29T22:32:52Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PHI",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Vikings and Lions match up NFL's stingiest defense vs. high-scoring offense in NFC North showdown",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873030",
-      "summary": "\u2014 The Minnesota Vikings are the NFL's only unbeaten team thanks to their stingy defense and stellar special teams.",
-      "published": "2026-10-29T22:22:58Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Jeffery Simmons traded to Bears: Does dealing multiple first-round picks work?",
-      "url": "https://www.espn.com/nfl/story/_/id/50319184/jeffery-simmons-trade-two-first-round-picks-bears-titans",
-      "summary": "The Bears' aggressive move for Simmons marks the 10th time in the past decade that a team has traded multiple first-round picks for a star player. But the hit rate isn't great.",
-      "published": "2026-10-30T01:26:24Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Rams and Chargers share a city, not a rivalry as they head into their first meeting in 4 seasons",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873032",
-      "summary": "\u2014 Although the Los Angeles Rams and the Los Angeles Chargers share a stadium, they don't share a rivalry.",
-      "published": "2026-10-29T22:02:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "LAC"
-      ]
-    },
-    {
-      "title": "AFC West lead at stake as Patrick Mahomes and Bo Nix grind through injury comebacks",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873033",
-      "summary": "\u2014 The AFC West lead is at stake Sunday as Patrick Mahomes and",
-      "published": "2026-10-29T21:44:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
     },
     {
       "title": "Packers' Christian Watson returns against Panthers after chest injury, hospital visit",
       "url": "https://www.cbssports.com/nfl/news/christian-watson-injury-update-packers-wr-hospital/",
       "summary": "The Packers wide receiver was injured on a 53-yard reception in the first half",
-      "published": "Fri, 30 Oct 2026 02:34:38 +0000",
+      "published": "Fri, 30 Oct 2026 04:02:55 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
