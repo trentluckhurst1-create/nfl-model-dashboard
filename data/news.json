@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-30T16:31:35.416604+00:00",
-  "checked_at_utc": "2026-10-30T16:31:35.416604+00:00",
+  "updated_at_utc": "2026-10-30T21:00:19.723233+00:00",
+  "checked_at_utc": "2026-10-30T21:00:19.723233+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 8,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,64 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 19,
+      "items": 18,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Lamar Jackson, Jesse Minter Talk Ravens' Superstar's Potential Return",
+      "url": "https://www.foxsports.com/stories/nfl/ravens-lamar-jackson-injury-update-jesse-minter-comments",
+      "summary": "Baltimore Ravens head coach Jesse Minter provided an update on the status of superstar quarterback Lamar Jackson's health.",
+      "published": "Fri, 30 Oct 2026 14:29:36 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 8: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-8-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every Week 8 matchup in the NFL.",
+      "published": "Fri, 30 Oct 2026 13:07:12 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Packers Receiver Christian Watson Talks Epic 'WWE' Return Against Panthers",
+      "url": "https://www.foxsports.com/stories/nfl/christian-watson-return-packers-wide-receivers-injuries",
+      "summary": "Packers wide receiver Christian Watson, who went to the hospital during the game, discussed his return to play against the Panthers.",
+      "published": "Fri, 30 Oct 2026 12:51:09 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "GB"
+      ]
+    },
+    {
+      "title": "2026 NFL Week 8 Best Bets, Expert Picks: Back The Under In Broncos-Chiefs",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-8-best-bets-expert-picks-back-under-broncos-chiefs",
+      "summary": "Geoff Schwartz isn't so sure about the Cowboys, and is also looking at the Under in an AFC showdown.",
+      "published": "Fri, 30 Oct 2026 12:31:00 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "DEN",
+        "KC"
+      ]
+    },
     {
       "title": "Panthers Make Multiple Major Coaching Changes After Loss To Packers",
       "url": "https://www.foxsports.com/stories/nfl/panthers-fire-dc-ejiro-evero-carolina-coaching-staff",
@@ -206,102 +259,10 @@
       ]
     },
     {
-      "title": "NFL Fact Or Fiction: Vikings Destined For A Fall? Chiefs No Longer Elite? Giants Legit?",
-      "url": "https://www.foxsports.com/stories/nfl/vikings-destined-fall-chiefs-no-longer-elite-giants-legit",
-      "summary": "We dive into your Week 7 hot takes: Are the Vikings and Giants legit? What\u2019s going on with the Chiefs? Plus, is Jared Goff just a system QB?",
-      "published": "Thu, 29 Oct 2026 11:06:01 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "MIN",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Bears Are Going For It! Chicago Acquires Titans Star Jeffery Simmons",
-      "url": "https://www.foxsports.com/stories/nfl/bears-titans-jeffery-simmons-trade-details",
-      "summary": "The Chicago Bears have acquired Tennessee Titans star defensive tackle Jeffery Simmons.",
-      "published": "Thu, 29 Oct 2026 10:35:03 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "TEN"
-      ]
-    },
-    {
-      "title": "How to Watch Panthers vs. Packers: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-panthers-vs-packers-tv-channel-live-stream-time-oct-29-2026",
-      "summary": "How to watch the Carolina Panthers vs. Green Bay Packers on Thursday, October 29, 2026, at 8:15 p.m. ET from Lambeau Field in Green Bay, Wisconsin.",
-      "published": "Thu, 29 Oct 2026 10:14:56 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "NFL Trade Deadline: 1 Player Every Playoff Hopeful Should Target",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-rumors-1-player-every-playoff-hopeful-should-target",
-      "summary": "Which player should your favorite team trade for ahead of the trade deadline? We pick the top target for every playoff hopeful.",
-      "published": "Thu, 29 Oct 2026 08:00:58 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Roll The Tape: Goff Is Built To Beat Minnesota; Why McCarthy Is Thriving In New York",
-      "url": "https://www.foxsports.com/stories/nfl/roll-tape-goff-built-beat-minnesota-why-mccarthy-thriving-new-york",
-      "summary": "After diving into the All-22 coaches' film from Week 7, Bucky Brooks examines three new developments to watch.",
-      "published": "Thu, 29 Oct 2026 08:00:46 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Inside how Titans were convinced to trade their best player",
-      "url": "https://www.espn.com/nfl/story/_/id/50327830/titans-call-too-good-pass-next-trading-jeffery-simmons",
-      "summary": "Titans GM Mike Borgonzi got an offer he couldn't refuse, and now Jeffery Simmons is a Chicago Bear.",
-      "published": "2026-10-30T16:04:40Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "TEN"
-      ]
-    },
-    {
-      "title": "Jets dealing with defensive injuries for matchup vs. Raiders, RB Ashton Jeanty",
-      "url": "https://www.espn.com/nfl/story/_/id/50328612/jets-rule-tvondre-sweat-say-bailey-doubtful-vs-raiders",
-      "summary": "Jets nose tackle T'Vondre Sweat has been ruled out with a knee injury, and rookie edge rusher David Bailey, unable to practice this week due to a strained groin, is listed as doubtful.",
-      "published": "2026-10-30T16:25:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LV",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Panthers relieve Ejiro Evero of defensive coordinator duties",
-      "url": "https://www.espn.com/nfl/story/_/id/50328239/panthers-relieve-ejiro-evero-defensive-coordinator-duties",
-      "summary": "The Carolina Panthers are moving on from defensive coordinator Ejiro Evero, the team announced Firday, with defensive line coach Todd Wash taking over on an interim basis.",
-      "published": "2026-10-30T15:17:23Z",
+      "title": "With 10 games left and Ejiro Evero out, what's next for Panthers' defense?",
+      "url": "https://www.espn.com/nfl/story/_/id/50329806/carolina-panthers-defense-ejiro-evero-next-todd-wash",
+      "summary": "Here are three reasons for optimism as Carolina makes a defensive coordinator change to Todd Wash.",
+      "published": "2026-10-30T20:56:49Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -309,6 +270,167 @@
       "teams": [
         "CAR"
       ]
+    },
+    {
+      "title": "Eagles' Saquon Barkley carries no injury designation for Commanders matchup",
+      "url": "https://www.espn.com/nfl/story/_/id/50330421/eagles-saquon-barkley-carries-no-injury-designation-commanders-matchup",
+      "summary": "Saquon Barkley, who did not practice Wednesday or Thursday and was a limited participant Friday, carries no designation into Sunday's game.",
+      "published": "2026-10-30T20:24:50Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PHI",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Bears vs. Seahawks: Where to watch 'Monday Night Football'",
+      "url": "https://www.espn.com/nfl/story/_/id/50329759/bears-vs-seahawks-watch-monday-night-football-week-8",
+      "summary": "Here's what to know about the Week 8 matchup.",
+      "published": "2026-10-30T19:25:06Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Bills making contingencies if hurt starters aren't available",
+      "url": "https://www.espn.com/nfl/story/_/id/50329615/bills-making-contingencies-hurt-starters-available",
+      "summary": "The Bills have listed starters DJ Moore (shoulder), right tackle Spencer Brown (back) and nickel Dee Alford (ankle) as questionable vs. the Ravens.",
+      "published": "2026-10-30T19:30:57Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "BUF"
+      ]
+    },
+    {
+      "title": "Chiefs get Rashee Rice back from injury for Broncos game",
+      "url": "https://www.espn.com/nfl/story/_/id/50329594/chiefs-get-rashee-rice-back-injury-broncos-game",
+      "summary": "Chiefs receiver Rashee Rice is expected back from a hamstring injury against the Broncos on Sunday.",
+      "published": "2026-10-30T19:53:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DEN",
+        "KC"
+      ]
+    },
+    {
+      "title": "Cardinals rookie RB Jeremiyah Love (ankle) set to return",
+      "url": "https://www.espn.com/nfl/story/_/id/50329508/cardinals-rookie-rb-jeremiyah-love-ankle-set-return",
+      "summary": "Jeremiyah Love is expected to return to the field for the Cardinals on Sunday after missing the past two weeks with an ankle injury.",
+      "published": "2026-10-30T18:51:36Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ARI"
+      ]
+    },
+    {
+      "title": "Ravens QB Jackson to return for Bills clash, calls ankle pain 'bearable'",
+      "url": "https://www.espn.com/nfl/story/_/id/50329330/ravens-qb-lamar-jackson-expected-return-vs-bills",
+      "summary": "Ravens quarterback Lamar Jackson will return to play Sunday at Buffalo, saying the pain in his injured left ankle is \"bearable.\"",
+      "published": "2026-10-30T19:55:05Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "BUF"
+      ]
+    },
+    {
+      "title": "Patriots WR A.J. Brown (ankle, knee) listed as questionable",
+      "url": "https://www.espn.com/nfl/story/_/id/50329240/patriots-wr-aj-brown-ankle-knee-listed-questionable",
+      "summary": "Patriots wide receiver A.J. Brown is questionable for Sunday's road game against the Dolphins after missing the past two practices due to knee and ankle issues.",
+      "published": "2026-10-30T18:03:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIA",
+        "NE"
+      ]
+    },
+    {
+      "title": "NFL Week 8 final injury report: Latest on Lamar Jackson, AJ Brown, Emeka Egbuka, more",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-aj-brown-emeka-egbuka-more/",
+      "summary": "A rundown of each team's final Week 8 injury report",
+      "published": "Fri, 30 Oct 2026 20:31:33 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "CeeDee Lamb says Cowboys have a Cardinals boogeyman: 'They've punched us in the mouth every single time'",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-ceedee-lamb-long-haunted-cardinals/",
+      "summary": "Dallas five-time Pro Bowl wide receiver CeeDee Lamb has never beaten Arizona, and they have won eight of the last nine matchups",
+      "published": "Fri, 30 Oct 2026 18:45:33 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Ravens coach Jesse Minter confirms Lamar Jackson will return from ankle injury, start vs. Bills",
+      "url": "https://www.cbssports.com/nfl/news/ravens-lamar-jackson-injury-update-bills/",
+      "summary": "The two-time MVP hasn't played since Week 4 after suffering a high ankle sprain",
+      "published": "Fri, 30 Oct 2026 17:50:27 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "BUF"
+      ]
+    },
+    {
+      "title": "Browns trying to end stunning 38-year drought against Steelers in Week 8 AFC North showdown",
+      "url": "https://www.cbssports.com/nfl/news/browns-trying-to-end-stunning-38-year-drought-against-steelers/",
+      "summary": "A win in Pittsburgh would secure Cleveland's first season sweep of its rival since 1988",
+      "published": "Fri, 30 Oct 2026 17:33:54 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "NFL Halloween costumes 2026: Roundup of some of the best looks ahead of the holiday",
+      "url": "https://www.cbssports.com/nfl/news/nfl-halloween-costumes-2026-roundup/",
+      "summary": "A look at some of the funniest and most iconic costumes from this year",
+      "published": "Fri, 30 Oct 2026 17:31:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
     },
     {
       "title": "Bryce Young and the Panthers' passing game are running into familiar problems, can they be fixed?",
@@ -458,7 +580,7 @@
       "title": "Steelers legend Kordell Stewart changes narrative on his NFL career in new HBO documentary",
       "url": "https://www.cbssports.com/nfl/news/steelers-legend-kordell-stewart-changes-narrative-hbo-documentary/",
       "summary": "Stewart wants his career to be remembered for what happened on the field",
-      "published": "Fri, 30 Oct 2026 14:03:39 +0000",
+      "published": "Fri, 30 Oct 2026 17:58:38 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -593,74 +715,6 @@
       "category": "transaction",
       "teams": [
         "IND"
-      ]
-    },
-    {
-      "title": "Panthers vs. Packers odds, prediction, betting preview, start time: Thursday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/panthers-packers-odds-prediction-betting-preview-start-time-thursday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Panthers vs. Packers on Thursday Night Football",
-      "published": "Thu, 29 Oct 2026 23:02:29 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "Packers vs. Panthers odds, picks, NFL Week 8 prediction: Best bets, player props for Thursday Night Football",
-      "url": "https://www.cbssports.com/betting/news/packers-vs-panthers-odds-picks-nfl-week-8-prediction-best-bets-player-props-for-thursday-night-football/",
-      "summary": "Target the Over in an expected prime-time shootout, plus high-value player props featuring Josh Jacobs and Christian Watson",
-      "published": "Thu, 29 Oct 2026 23:01:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "Packers vs. Panthers prediction: Green Bay, Carolina both look to get back into win column on 'TNF'",
-      "url": "https://www.cbssports.com/nfl/news/packers-vs-panthers-how-to-watch-preview-prediction-odds/",
-      "summary": "How to watch as these two teams take center stage on \"Thursday Night Football\" after Week 7 losses",
-      "published": "Thu, 29 Oct 2026 22:48:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "Chiefs stand by Harrison Butker despite struggles, Justin Tucker waiting in wings",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-harrison-butker-struggles-justin-tucker-signs/",
-      "summary": "Tucker's perfect tryout turned heads, but Kansas City views the veteran as both insurance and a resource",
-      "published": "Thu, 29 Oct 2026 22:45:11 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC"
-      ]
-    },
-    {
-      "title": "Jason Kelce rants, calls out refs over unnecessary roughness penalty on Giants' Cam Skattebo",
-      "url": "https://www.cbssports.com/nfl/news/travis-kelce-rant-unnecessary-roughness-penalty-giants-cam-skattebo/",
-      "summary": "The Kelce brothers did not mince words when they voiced displeasure with the NFL's officials",
-      "published": "Thu, 29 Oct 2026 19:55:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG"
       ]
     }
   ],
