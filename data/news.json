@@ -1,51 +1,294 @@
 {
-  "updated_at_utc": "2026-10-31T06:20:18.755514+00:00",
-  "checked_at_utc": "2026-10-31T06:20:43.923717+00:00",
+  "updated_at_utc": "2026-10-31T12:52:35.025250+00:00",
+  "checked_at_utc": "2026-10-31T12:52:35.025250+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 7,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 28
+      "items": 29
     },
     "FOX Sports NFL": {
-      "ok": false,
-      "items": 0,
-      "error": "ReadTimeout",
+      "ok": true,
+      "items": 14,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Records show 3 other women accused Packers' Josh Jacobs of abuse after arrest",
-      "url": "https://www.espn.com/nfl/story/_/id/50333636/records-show-3-other-women-accused-packers-josh-jacobs-abuse",
-      "summary": "Multiple women contacted police to detail allegations against Packers running back Josh Jacobs following his May arrest for an altercation with his then-girlfriend.",
-      "published": "2026-10-31T06:19:23Z",
-      "source": "ESPN NFL",
+      "title": "Lamar Jackson, Jesse Minter Talk Ravens' Superstar's Potential Return",
+      "url": "https://www.foxsports.com/stories/nfl/ravens-lamar-jackson-injury-update-jesse-minter-comments",
+      "summary": "Baltimore Ravens head coach Jesse Minter provided an update on the status of superstar quarterback Lamar Jackson's health.",
+      "published": "Fri, 30 Oct 2026 14:29:36 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 8: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-8-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every Week 8 matchup in the NFL.",
+      "published": "Fri, 30 Oct 2026 13:07:12 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Packers Receiver Christian Watson Talks Epic 'WWE' Return Against Panthers",
+      "url": "https://www.foxsports.com/stories/nfl/christian-watson-return-packers-wide-receivers-injuries",
+      "summary": "Packers wide receiver Christian Watson, who went to the hospital during the game, discussed his return to play against the Panthers.",
+      "published": "Fri, 30 Oct 2026 12:51:09 -0400",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
+        "CAR",
         "GB"
       ]
     },
     {
-      "title": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
-      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "published": "2026-10-31T02:02:22Z",
+      "title": "2026 NFL Week 8 Best Bets, Expert Picks: Back The Under In Broncos-Chiefs",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-8-best-bets-expert-picks-back-under-broncos-chiefs",
+      "summary": "Geoff Schwartz isn't so sure about the Cowboys, and is also looking at the Under in an AFC showdown.",
+      "published": "Fri, 30 Oct 2026 12:31:00 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "DEN",
+        "KC"
+      ]
+    },
+    {
+      "title": "Panthers Make Multiple Major Coaching Changes After Loss To Packers",
+      "url": "https://www.foxsports.com/stories/nfl/panthers-fire-dc-ejiro-evero-carolina-coaching-staff",
+      "summary": "The Carolina Panthers fired defensive coordinator Ejiro Evero and defensive passing game coordinator Jonathan Cooley.",
+      "published": "Fri, 30 Oct 2026 11:12:19 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "GB"
+      ]
+    },
+    {
+      "title": "2027 NFL Draft Big Board: 6 QBs Rank Among Top 50 Overall Prospects",
+      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-big-board-6-qbs-rank-among-top-50-overall-prospects",
+      "summary": "With the college football season past the halfway point, here are Rob Rang's 50 best prospects in the 2027 NFL Draft.",
+      "published": "Fri, 30 Oct 2026 08:00:08 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "After Dreadful Cowboys Loss, Where Do Eagles Go From Here? Answering Philly's Biggest Qs",
+      "url": "https://www.foxsports.com/stories/nfl/eagles-nfl-trade-deadline-rumors-saquon-barkley-jalen-hurts-nick-sirianni",
+      "summary": "Will the Eagles trade Saquon Barkley? Will they start preparing for life without Jalen Hurts and Nick Sirianni? We answer the biggest questions surrounding the Eagles, with some insight around the league.",
+      "published": "Fri, 30 Oct 2026 00:07:36 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Jordan Love For MVP? 3 Takeaways From Packers' Win Over Panthers",
+      "url": "https://www.foxsports.com/stories/nfl/jordan-love-mvp-packers-panthers-takeaways",
+      "summary": "Jordan Love should be considered an MVP candidate is among the things we learned from the Packers' win over the Panthers.",
+      "published": "Thu, 29 Oct 2026 23:42:36 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "GB"
+      ]
+    },
+    {
+      "title": "Tom Brady Wonders If Defenders Are Being Treated Fairly On Roughing The Passer Calls",
+      "url": "https://www.foxsports.com/stories/nfl/tom-brady-isnt-sure-defenders-being-treated-fair-roughing-passer-calls",
+      "summary": "Tom Brady wants officials to give defenses some grace when it comes to hitting the quarterback.",
+      "published": "Thu, 29 Oct 2026 21:07:06 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "The 5 Trades I Want To See Before The NFL Trade Deadline",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-deals-i-want-to-see-jonathan-taylor-xavier-worthy-cowboys",
+      "summary": "Here are five NFL trade deadline deals that make sense for both sides and \u2014 that we want to see.",
+      "published": "Thu, 29 Oct 2026 19:37:11 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "2027 NFL Draft No. 1 Pick Odds: Jeremiah Smith Favored, Drew Mestemaker Surging",
+      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
+      "summary": "From high school punter to No. 1 overall pick? Drew Mestemaker is surging up the oddsboard. See the latest 2027 NFL Draft odds.",
+      "published": "Thu, 29 Oct 2026 17:06:04 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL Week 8 Picks: Best Bets For Every Game \u2014 Will's Wagers",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-8-picks-best-bets-every-game-wills-wagers",
+      "summary": "Check out Will Hill's best bet for EVERY NFL Week 8 contest, beginning with Panthers-Packers on Thursday.",
+      "published": "Thu, 29 Oct 2026 17:05:51 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "GB"
+      ]
+    },
+    {
+      "title": "NFL Trade Deadline: Is Saquon Barkley Next Star To Move? Who Execs Expect To Buy & Sell",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-rumors-saquon-barkley-eagles-chargers-giants-rams-colts",
+      "summary": "Which other teams will be buyers and sellers, and who could get moved? From the Eagles possibly selling to the Giants potentially buying, here's what we're hearing.",
+      "published": "Thu, 29 Oct 2026 17:00:20 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYG",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Bears Land Jeffery Simmons: Why Execs Love Deal For Chicago; Who Will Titans Trade Next?",
+      "url": "https://www.foxsports.com/stories/nfl/bears-jeffery-simmons-titans-nfl-trade-deadline-rumors",
+      "summary": "Who won the Jeffery Simmons trade? Will the Titans trade more notable players? Here's what we learned from our conversations around the league.",
+      "published": "Thu, 29 Oct 2026 16:48:42 -0400",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CHI",
+        "TEN"
+      ]
+    },
+    {
+      "title": "'No way' that Jets trade star WR Garrett Wilson before deadline, source says",
+      "url": "https://www.espn.com/nfl/story/_/id/50331651/no-way-jets-trade-garrett-wilson-deadline-source-says",
+      "summary": "The Jets are not expected to trade Garrett Wilson, sources told ESPN, despite increased speculation about the star wide receiver's future.",
+      "published": "2026-10-31T12:33:18Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Sources: Colts willing to trade RB Jonathan Taylor, active in talks with teams",
+      "url": "https://www.espn.com/nfl/story/_/id/50323095/sources-colts-willing-trade-star-rb-jonathan-taylor",
+      "summary": "The Colts now are open to trading Jonathan Taylor, sources told ESPN and NFL Network, and multiple teams have reached out to Indianapolis.",
+      "published": "2026-10-31T12:07:22Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "NFL Week 8 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50319868/week-8-predictions-upsets-fantasy-sleepers-stats-2026",
+      "summary": "Tough day coming for Derrick Henry? Browns pulling an upset over the Steelers? Fantasy potential for Geno Smith? Let's predict 15 things for Week 8.\ufeff",
+      "published": "2026-10-31T10:57:35Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET",
-        "JAX"
+        "CLE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Where the 2026 Vikings rank among worst 6-0 NFL teams ever",
+      "url": "https://www.espn.com/nfl/story/_/id/50329579/2026-minnesota-vikings-worst-undefeated-team-ever",
+      "summary": "Aaron Schatz ranked the worst 6-0 teams ever by DVOA and point differential. Where do the 2026 Vikings land, and what's next for them?",
+      "published": "2026-10-31T10:58:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "Joe Burrow's trust makes Tee Higgins level up for Bengals",
+      "url": "https://www.espn.com/nfl/story/_/id/50331179/cincinnati-bengals-tee-higgins-joe-burrow",
+      "summary": "No receiver in the NFL has been better on tight window throws this season than the Bengals' Tee Higgins.",
+      "published": "2026-10-31T10:00:00Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN"
+      ]
+    },
+    {
+      "title": "Michael Penix Jr. shows he could be Atlanta's QB1",
+      "url": "https://www.espn.com/nfl/story/_/id/50321280/atlanta-falcons-michael-penix-future",
+      "summary": "Penix has been mostly above average after 17 games as an NFL starter, and that's really all Atlanta needs him to be.",
+      "published": "2026-10-31T10:00:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Will the Bills' defense stop them from winning a Super Bowl?",
+      "url": "https://www.espn.com/nfl/story/_/id/50312381/bill-defense-super-bowl-gardner-johnson-rousseau",
+      "summary": "Buffalo's defense ranks among the worst in several key statistical areas, including the third-most points allowed.",
+      "published": "2026-10-31T10:24:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF"
       ]
     },
     {
@@ -408,6 +651,20 @@
       "category": "transaction",
       "teams": [
         "IND"
+      ]
+    },
+    {
+      "title": "Panthers vs. Packers odds, prediction, betting preview, start time: Thursday Night Football picks, best bets",
+      "url": "https://www.cbssports.com/betting/news/panthers-packers-odds-prediction-betting-preview-start-time-thursday-night-football-picks-best-bets/",
+      "summary": "Best bets and betting preview for Panthers vs. Packers on Thursday Night Football",
+      "published": "Thu, 29 Oct 2026 23:02:29 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "GB"
       ]
     }
   ],
