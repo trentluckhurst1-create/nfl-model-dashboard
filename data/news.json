@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-31T00:41:22.128900+00:00",
-  "checked_at_utc": "2026-10-31T00:41:22.128900+00:00",
+  "updated_at_utc": "2026-10-31T06:20:18.755514+00:00",
+  "checked_at_utc": "2026-10-31T06:20:43.923717+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 8,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -14,299 +14,38 @@
       "items": 28
     },
     "FOX Sports NFL": {
-      "ok": true,
-      "items": 14,
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout",
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Lamar Jackson, Jesse Minter Talk Ravens' Superstar's Potential Return",
-      "url": "https://www.foxsports.com/stories/nfl/ravens-lamar-jackson-injury-update-jesse-minter-comments",
-      "summary": "Baltimore Ravens head coach Jesse Minter provided an update on the status of superstar quarterback Lamar Jackson's health.",
-      "published": "Fri, 30 Oct 2026 14:29:36 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 8: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-8-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 8 matchup in the NFL.",
-      "published": "Fri, 30 Oct 2026 13:07:12 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Packers Receiver Christian Watson Talks Epic 'WWE' Return Against Panthers",
-      "url": "https://www.foxsports.com/stories/nfl/christian-watson-return-packers-wide-receivers-injuries",
-      "summary": "Packers wide receiver Christian Watson, who went to the hospital during the game, discussed his return to play against the Panthers.",
-      "published": "Fri, 30 Oct 2026 12:51:09 -0400",
-      "source": "FOX Sports NFL",
+      "title": "Records show 3 other women accused Packers' Josh Jacobs of abuse after arrest",
+      "url": "https://www.espn.com/nfl/story/_/id/50333636/records-show-3-other-women-accused-packers-josh-jacobs-abuse",
+      "summary": "Multiple women contacted police to detail allegations against Packers running back Josh Jacobs following his May arrest for an altercation with his then-girlfriend.",
+      "published": "2026-10-31T06:19:23Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CAR",
         "GB"
       ]
     },
     {
-      "title": "2026 NFL Week 8 Best Bets, Expert Picks: Back The Under In Broncos-Chiefs",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-8-best-bets-expert-picks-back-under-broncos-chiefs",
-      "summary": "Geoff Schwartz isn't so sure about the Cowboys, and is also looking at the Under in an AFC showdown.",
-      "published": "Fri, 30 Oct 2026 12:31:00 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "DEN",
-        "KC"
-      ]
-    },
-    {
-      "title": "Panthers Make Multiple Major Coaching Changes After Loss To Packers",
-      "url": "https://www.foxsports.com/stories/nfl/panthers-fire-dc-ejiro-evero-carolina-coaching-staff",
-      "summary": "The Carolina Panthers fired defensive coordinator Ejiro Evero and defensive passing game coordinator Jonathan Cooley.",
-      "published": "Fri, 30 Oct 2026 11:12:19 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "2027 NFL Draft Big Board: 6 QBs Rank Among Top 50 Overall Prospects",
-      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-big-board-6-qbs-rank-among-top-50-overall-prospects",
-      "summary": "With the college football season past the halfway point, here are Rob Rang's 50 best prospects in the 2027 NFL Draft.",
-      "published": "Fri, 30 Oct 2026 08:00:08 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "After Dreadful Cowboys Loss, Where Do Eagles Go From Here? Answering Philly's Biggest Qs",
-      "url": "https://www.foxsports.com/stories/nfl/eagles-nfl-trade-deadline-rumors-saquon-barkley-jalen-hurts-nick-sirianni",
-      "summary": "Will the Eagles trade Saquon Barkley? Will they start preparing for life without Jalen Hurts and Nick Sirianni? We answer the biggest questions surrounding the Eagles, with some insight around the league.",
-      "published": "Fri, 30 Oct 2026 00:07:36 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Jordan Love For MVP? 3 Takeaways From Packers' Win Over Panthers",
-      "url": "https://www.foxsports.com/stories/nfl/jordan-love-mvp-packers-panthers-takeaways",
-      "summary": "Jordan Love should be considered an MVP candidate is among the things we learned from the Packers' win over the Panthers.",
-      "published": "Thu, 29 Oct 2026 23:42:36 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "Tom Brady Wonders If Defenders Are Being Treated Fairly On Roughing The Passer Calls",
-      "url": "https://www.foxsports.com/stories/nfl/tom-brady-isnt-sure-defenders-being-treated-fair-roughing-passer-calls",
-      "summary": "Tom Brady wants officials to give defenses some grace when it comes to hitting the quarterback.",
-      "published": "Thu, 29 Oct 2026 21:07:06 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "The 5 Trades I Want To See Before The NFL Trade Deadline",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-deals-i-want-to-see-jonathan-taylor-xavier-worthy-cowboys",
-      "summary": "Here are five NFL trade deadline deals that make sense for both sides and \u2014 that we want to see.",
-      "published": "Thu, 29 Oct 2026 19:37:11 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "2027 NFL Draft No. 1 Pick Odds: Jeremiah Smith Favored, Drew Mestemaker Surging",
-      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
-      "summary": "From high school punter to No. 1 overall pick? Drew Mestemaker is surging up the oddsboard. See the latest 2027 NFL Draft odds.",
-      "published": "Thu, 29 Oct 2026 17:06:04 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Week 8 Picks: Best Bets For Every Game \u2014 Will's Wagers",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-8-picks-best-bets-every-game-wills-wagers",
-      "summary": "Check out Will Hill's best bet for EVERY NFL Week 8 contest, beginning with Panthers-Packers on Thursday.",
-      "published": "Thu, 29 Oct 2026 17:05:51 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "NFL Trade Deadline: Is Saquon Barkley Next Star To Move? Who Execs Expect To Buy & Sell",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-rumors-saquon-barkley-eagles-chargers-giants-rams-colts",
-      "summary": "Which other teams will be buyers and sellers, and who could get moved? From the Eagles possibly selling to the Giants potentially buying, here's what we're hearing.",
-      "published": "Thu, 29 Oct 2026 17:00:20 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYG",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Bears Land Jeffery Simmons: Why Execs Love Deal For Chicago; Who Will Titans Trade Next?",
-      "url": "https://www.foxsports.com/stories/nfl/bears-jeffery-simmons-titans-nfl-trade-deadline-rumors",
-      "summary": "Who won the Jeffery Simmons trade? Will the Titans trade more notable players? Here's what we learned from our conversations around the league.",
-      "published": "Thu, 29 Oct 2026 16:48:42 -0400",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "CHI",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Falcons' Anterio Thompson says he can't play football due to spinal cord issue",
-      "url": "https://www.espn.com/nfl/story/_/id/50332073/falcons-thompson-play-football-due-spinal-cord-issue",
-      "summary": "Falcons rookie DT Anterio Thompson revealed on Instagram this week that he was told he would never play football again due to a genetic mutation of his spinal cord.",
-      "published": "2026-10-31T00:31:29Z",
+      "title": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
+      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
+      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
+      "published": "2026-10-31T02:02:22Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL"
-      ]
-    },
-    {
-      "title": "Sources: Commanders' Daron Payne likely IR-bound after practice injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50331710/sources-commanders-daron-payne-injures-foot-practice",
-      "summary": "Commanders DT Daron Payne suffered a significant foot injury in practice Friday that likely will land him on injured reserve, sources told NFL Network.",
-      "published": "2026-10-31T00:05:38Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "WAS"
-      ]
-    },
-    {
-      "title": "Colts' Shane Steichen: WR Josh Downs 'ready to go' despite trade request",
-      "url": "https://www.espn.com/nfl/story/_/id/50331045/colts-steichen-wr-downs-ready-go-trade-demand",
-      "summary": "Colts coach Shane Steichen says receiver Josh Downs practiced all week and is \"ready to go\" despite the trade request he made earlier this week.",
-      "published": "2026-10-30T22:19:00Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "With 10 games left and Ejiro Evero out, what's next for Panthers' defense?",
-      "url": "https://www.espn.com/nfl/story/_/id/50329806/carolina-panthers-defense-ejiro-evero-next-todd-wash",
-      "summary": "Here are three reasons for optimism as Carolina makes a defensive coordinator change to Todd Wash.",
-      "published": "2026-10-30T20:56:49Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR"
-      ]
-    },
-    {
-      "title": "Eagles' Saquon Barkley carries no injury designation for Commanders matchup",
-      "url": "https://www.espn.com/nfl/story/_/id/50330421/eagles-saquon-barkley-carries-no-injury-designation-commanders-matchup",
-      "summary": "Saquon Barkley, who did not practice Wednesday or Thursday and was a limited participant Friday, carries no designation into Sunday's game.",
-      "published": "2026-10-30T21:13:22Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PHI",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Bears vs. Seahawks: Where to watch 'Monday Night Football'",
-      "url": "https://www.espn.com/nfl/story/_/id/50329759/bears-vs-seahawks-watch-monday-night-football-week-8",
-      "summary": "Here's what to know about the Week 8 matchup.",
-      "published": "2026-10-30T19:25:06Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Bills making contingencies if hurt starters aren't available",
-      "url": "https://www.espn.com/nfl/story/_/id/50329615/bills-making-contingencies-hurt-starters-available",
-      "summary": "The Bills have listed starters DJ Moore (shoulder), right tackle Spencer Brown (back) and nickel Dee Alford (ankle) as questionable vs. the Ravens.",
-      "published": "2026-10-30T19:30:57Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "BUF"
-      ]
-    },
-    {
-      "title": "Chiefs get Rashee Rice back from injury for Broncos game",
-      "url": "https://www.espn.com/nfl/story/_/id/50329594/chiefs-get-rashee-rice-back-injury-broncos-game",
-      "summary": "Chiefs receiver Rashee Rice is expected back from a hamstring injury against the Broncos on Sunday.",
-      "published": "2026-10-30T19:53:39Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN",
-        "KC"
+        "DET",
+        "JAX"
       ]
     },
     {
