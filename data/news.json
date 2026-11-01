@@ -1,26 +1,215 @@
 {
-  "updated_at_utc": "2026-11-01T09:45:17.742604+00:00",
-  "checked_at_utc": "2026-11-01T09:45:17.742604+00:00",
+  "updated_at_utc": "2026-11-01T16:27:57.317901+00:00",
+  "checked_at_utc": "2026-11-01T16:27:57.317901+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
-      "ok": false,
-      "items": 0,
-      "error": "RuntimeError",
+      "ok": true,
+      "items": 6,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 25
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 16,
+      "items": 24,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "2026 NFL Odds Week 8: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-8-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every Week 8 matchup in the NFL.",
+      "published": "Sun, 01 Nov 2026 10:55:55 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "How to Watch Eagles vs. Commanders: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-eagles-vs-commanders-tv-channel-live-stream-time-nov-1-2026",
+      "summary": "It's a prime-time NFC East matchup under the lights.",
+      "published": "Sun, 01 Nov 2026 07:34:39 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI",
+        "WAS"
+      ]
+    },
+    {
+      "title": "How to Watch Chiefs vs. Broncos: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-chiefs-vs-broncos-tv-channel-live-stream-time-nov-1-2026",
+      "summary": "It's a strong late-afternoon AFC West matchup in Denver.",
+      "published": "Sun, 01 Nov 2026 07:34:20 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "KC"
+      ]
+    },
+    {
+      "title": "How to Watch Patriots vs. Dolphins: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-patriots-vs-dolphins-tv-channel-live-stream-time-nov-1-2026",
+      "summary": "Find out how to watch the New England Patriots vs. Miami Dolphins game on Sunday, November 1, including kickoff time, TV channel, streaming options and location.",
+      "published": "Sun, 01 Nov 2026 07:33:59 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA",
+        "NE"
+      ]
+    },
+    {
+      "title": "How to Watch Chargers vs. Rams: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-chargers-vs-rams-tv-channel-live-stream-time-nov-1-2026",
+      "summary": "It's a clean, straightforward NFL watch window in Los Angeles.",
+      "published": "Sun, 01 Nov 2026 07:33:41 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "LAC"
+      ]
+    },
+    {
+      "title": "How to Watch Titans vs. Bengals: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-titans-vs-bengals-tv-channel-live-stream-time-nov-1-2026",
+      "summary": "It's a straightforward Sunday afternoon AFC matchup in Cincinnati.",
+      "published": "Sun, 01 Nov 2026 07:32:18 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "TEN"
+      ]
+    },
+    {
+      "title": "How to Watch Raiders vs. Jets: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-raiders-vs-jets-tv-channel-live-stream-time-nov-1-2026",
+      "summary": "It's a straightforward Sunday afternoon kickoff in North Jersey.",
+      "published": "Sun, 01 Nov 2026 07:31:38 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "How to Watch Vikings vs. Lions: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-vikings-vs-lions-tv-channel-live-stream-time-nov-1-2026",
+      "summary": "It's a strong NFC North matchup at Ford Field.",
+      "published": "Sun, 01 Nov 2026 07:30:38 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "MIN"
+      ]
+    },
+    {
+      "title": "How to Watch Ravens vs. Bills: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-ravens-vs-bills-tv-channel-live-stream-time-nov-1-2026",
+      "summary": "It's a strong AFC matchup in Orchard Park.",
+      "published": "Sun, 01 Nov 2026 07:23:42 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "BUF"
+      ]
+    },
+    {
+      "title": "How to Watch Browns vs. Steelers: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-browns-vs-steelers-tv-channel-live-stream-time-nov-1-2026",
+      "summary": "It's a big AFC North matchup on the schedule.",
+      "published": "Sun, 01 Nov 2026 07:23:35 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "How to Watch Colts vs. Jaguars: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-colts-vs-jaguars-tv-channel-live-stream-time-nov-1-2026",
+      "summary": "It's a straightforward AFC South matchup on the Sunday slate.",
+      "published": "Sun, 01 Nov 2026 07:23:24 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "JAX"
+      ]
+    },
+    {
+      "title": "How to Watch Cardinals vs. Cowboys: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cardinals-vs-cowboys-tv-channel-live-stream-time-nov-1-2026",
+      "summary": "It's a straightforward Sunday afternoon NFC matchup in Arlington.",
+      "published": "Sun, 01 Nov 2026 07:22:53 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "DAL"
+      ]
+    },
+    {
+      "title": "How to Watch Falcons vs. Buccaneers: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-falcons-vs-buccaneers-tv-channel-live-stream-time-nov-1-2026",
+      "summary": "It's an NFC South matchup with real division stakes on the line.",
+      "published": "Sun, 01 Nov 2026 07:22:38 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "TB"
+      ]
+    },
+    {
+      "title": "NFL DFS Week 8: Best Picks, Lineup Advice and Value Plays",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-dfs-week-8-best-picks-lineup-advice-value-plays",
+      "summary": "Top NFL DFS picks for Week 8, including value plays, lineup strategy and sleepers to target for your daily fantasy roster this week.",
+      "published": "Sun, 01 Nov 2026 06:00:50 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
     {
       "title": "Rams vs. Chargers Prediction, Odds, Pick For NFL Week 8",
       "url": "https://www.foxsports.com/stories/nfl/rams-vs-chargers-prediction-odds-pick-nfl-week-8",
@@ -92,17 +281,6 @@
       ]
     },
     {
-      "title": "2026 NFL Odds Week 8: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-8-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every Week 8 matchup in the NFL.",
-      "published": "Sat, 31 Oct 2026 14:38:40 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Philip Rivers Reportedly Emerges As Focus Of NC State's Coaching Search",
       "url": "https://www.foxsports.com/stories/college-football/philip-rivers-consideration-north-carolina-state-head-coaching-job",
       "summary": "Former NC State standout Philip Rivers has reportedly emerged as the \"focus\" of the Wolfpack's head coaching search.",
@@ -170,552 +348,184 @@
       ]
     },
     {
-      "title": "2027 NFL Draft Big Board: 6 QBs Rank Among Top 50 Overall Prospects",
-      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-big-board-6-qbs-rank-among-top-50-overall-prospects",
-      "summary": "With the college football season past the halfway point, here are Rob Rang's 50 best prospects in the 2027 NFL Draft.",
-      "published": "Fri, 30 Oct 2026 07:00:08 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Week 8 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50347464/week-8-sunday-highlights-best-plays-touchdowns-2026",
+      "summary": "Check here for Sunday's top moments and TDs as Josh Allen, Lamar Jackson and Jonathan Taylor take the field.",
+      "published": "2026-11-01T16:05:05Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "After Dreadful Cowboys Loss, Where Do Eagles Go From Here? Answering Philly's Biggest Qs",
-      "url": "https://www.foxsports.com/stories/nfl/eagles-nfl-trade-deadline-rumors-saquon-barkley-jalen-hurts-nick-sirianni",
-      "summary": "Will the Eagles trade Saquon Barkley? Will they start preparing for life without Jalen Hurts and Nick Sirianni? We answer the biggest questions surrounding the Eagles, with some insight around the league.",
-      "published": "Thu, 29 Oct 2026 23:07:36 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Jordan Love For MVP? 3 Takeaways From Packers' Win Over Panthers",
-      "url": "https://www.foxsports.com/stories/nfl/jordan-love-mvp-packers-panthers-takeaways",
-      "summary": "Jordan Love should be considered an MVP candidate is among the things we learned from the Packers' win over the Panthers.",
-      "published": "Thu, 29 Oct 2026 22:42:36 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Sources: Ray Lewis delivered intense Friday speech to struggling Ravens team",
+      "url": "https://www.espn.com/nfl/story/_/id/50348012/sources-ray-lewis-delivered-intense-speech-ravens",
+      "summary": "Ravens legend Ray Lewis spent his Friday talking to his former team, issuing a message emphasizing togetherness and cohesiveness, sources told NFL Network.",
+      "published": "2026-11-01T15:42:18Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CAR",
-        "GB"
+        "BAL"
       ]
     },
     {
-      "title": "Tom Brady Wonders If Defenders Are Being Treated Fairly On Roughing The Passer Calls",
-      "url": "https://www.foxsports.com/stories/nfl/tom-brady-isnt-sure-defenders-being-treated-fair-roughing-passer-calls",
-      "summary": "Tom Brady wants officials to give defenses some grace when it comes to hitting the quarterback.",
-      "published": "Thu, 29 Oct 2026 20:07:06 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "The 5 Trades I Want To See Before The NFL Trade Deadline",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-deals-i-want-to-see-jonathan-taylor-xavier-worthy-cowboys",
-      "summary": "Here are five NFL trade deadline deals that make sense for both sides and \u2014 that we want to see.",
-      "published": "Thu, 29 Oct 2026 18:37:11 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Fantasy football rankings Week 8: PPR and superflex",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26main-49797082/fantasy-football-rankings-2026-qb-rb-wr-te-dst",
-      "summary": "Weekly composite ranks for each position in PPR and IDP formats, as well as Eric Karabell's superflex ranks.",
-      "published": "2026-11-01T04:20:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Fantasy football rankings for Week 8: Running back",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804068/nfl-fantasy-football-rankings-2026-rb-running-back",
-      "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "published": "2026-11-01T04:20:16Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Fantasy football rankings for Week 8: Tight end",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804164/nfl-fantasy-football-rankings-2026-te-tight-end",
-      "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "published": "2026-11-01T04:19:36Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Fantasy football rankings for Week 8: Wide receiver",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804149/nfl-fantasy-football-rankings-2026-wr-wide-receiver",
-      "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "published": "2026-11-01T04:19:57Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Fantasy football rankings for Week 8: D/ST",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804273/nfl-fantasy-football-rankings-2026-dst-defense",
-      "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "published": "2026-11-01T04:19:18Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Fantasy football rankings for Week 8: Kicker",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804233/nfl-fantasy-football-rankings-2026-k-kicker",
-      "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "published": "2026-11-01T04:18:32Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Fantasy football rankings for Week 8: Quarterback",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804022/nfl-fantasy-football-rankings-2026-qb-quarterback",
-      "summary": "Fantasy football rankings from Matt Bowen, Mike Clay, Tristan H. Cockcroft, Daniel Dopp, Eric Karabell, Liz Loza, Eric Moody and Field Yates.",
-      "published": "2026-11-01T04:18:56Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Fantasy football rankings for Week 8: IDP",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFWeeklyPlayerRank26-49804332/nfl-fantasy-football-rankings-2026-idp",
-      "summary": "Weekly fantasy football draft rankings for IDP leagues from Mike Clay, Tristan H. Cockcroft and Eric Moody.",
-      "published": "2026-11-01T04:18:05Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Fantasy football flex and superflex rankings for Week 8",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/49803708/fantasy-football-superflex-rankings-2026-qb-rb-wr-te",
-      "summary": "Trying to decide between a couple of closely ranked players this week? Eric Karabell's rankings are here to help.",
-      "published": "2026-11-01T04:17:02Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 8 betting guide: The value bets to make on lines, props and anytime TDs",
-      "url": "https://www.espn.com/espn/betting/story/_/id/50314438/week-8-nfl-odds-touchdown-props-best-bets-sunday-games",
-      "summary": "Our experts dive into the odds and player props for Week 8 and offer their betting tips and favorite plays.",
-      "published": "2026-11-01T03:40:37Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Fantasy football Week 8 inactives: Chase, Price to play; Brown, Egbuka out",
-      "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50289130/fantasy-football-injuries-nfl-week-8-inactive-active",
-      "summary": "Updated inactives and analysis based on the latest reports and official announcements leading up to kickoff.",
-      "published": "2026-11-01T01:58:45Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Halloween 2026: Breaking down top athlete costumes from across the sports world",
-      "url": "https://www.espn.com/nba/story/_/id/50321862/halloween-athlete-costumes-2026",
-      "summary": "Athletes far and wide across the sports world showed off special costumes for Halloween.",
-      "published": "2026-10-31T23:13:32Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Derwin James placed on injured reserve after hamstring rehab setback",
-      "url": "https://www.espn.com/nfl/story/_/id/50340504/chargers-safety-james-hamstring-placed-injured-reserve",
-      "summary": "The Chargers have placed safety Derwin James Jr. on injured reserve because of a hamstring injury.",
-      "published": "2026-10-31T23:17:53Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "Fantasy football last-minute pickups: Geno Smith, Ryan Flournoy are top options",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/50319414/fantasy-football-streamers-last-minute-pickups-week-8",
-      "summary": "If injuries, bye weeks or tough matchups have you seeking lineup help, Matt Bowen lists potential options.",
-      "published": "2026-10-31T22:13:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "Zach Charbonnet, Jadarian Price have no game designations for Monday",
-      "url": "https://www.espn.com/nfl/story/_/id/50340383/seahawks-rbs-charbonnet-price-healthy-play-monday-night",
-      "summary": "Seahawks running backs Zach Charbonnet and Jadarian Price have no game designations, meaning both are healthy enough to play Monday night against the Bears.",
-      "published": "2026-10-31T23:05:04Z",
+      "title": "Sources: Bears, Titans used Myles Garrett deal as framework for Simmons trade",
+      "url": "https://www.espn.com/nfl/story/_/id/50343678/bears-trade-jeffery-simmons-based-myles-garrett-deal",
+      "summary": "The Bears and Titans came up with a Jeffery Simmons proposal that was based off this year's Myles Garrett trade, sources told ESPN.",
+      "published": "2026-11-01T14:41:28Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
         "CHI",
+        "TEN"
+      ]
+    },
+    {
+      "title": "Bears QB Caleb Williams won't 'spat' custom cleats out of principle, source says",
+      "url": "https://www.espn.com/nfl/story/_/id/50343312/source-caleb-williams-spat-cleats-principle",
+      "summary": "Caleb Williams believes in his custom Caddix cleats, a source told NFL Network, and won't cover the logo in accordance with NFL rules out of principle.",
+      "published": "2026-11-01T15:39:29Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Sources: Saquon Barkley won't be traded by deadline despite Eagles' struggles",
+      "url": "https://www.espn.com/nfl/story/_/id/50336880/sources-eagles-trade-star-rb-saquon-barkley",
+      "summary": "Saquon Barkley will not be traded before the trade deadline, sources told NFL Network, putting an end to speculation that the Eagles RB could be on the move.",
+      "published": "2026-11-01T14:35:27Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Sources: Raiders not planning on trading Maxx Crosby, who wants to stay",
+      "url": "https://www.espn.com/nfl/story/_/id/50335308/raiders-not-planning-trading-maxx-crosby-sources-say",
+      "summary": "The Raiders do not plan on trading Maxx Crosby, who wants to stay in Las Vegas, sources told ESPN.",
+      "published": "2026-11-01T14:44:52Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV"
+      ]
+    },
+    {
+      "title": "2026 Week 8 NFL player props, odds, picks, best bets for Sunday's games include Justin Jefferson, Bo Nix",
+      "url": "https://www.cbssports.com/betting/news/2026-week-8-nfl-player-props-odds-picks-best-bets-for-sundays-games-include-justin-jefferson-bo-nix/",
+      "summary": "Bet on Week 8 NFL player props at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
+      "published": "Sun, 01 Nov 2026 16:04:16 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Jonathan Taylor mock trades: How Giants, Broncos, Seahawks could target Colts star RB",
+      "url": "https://www.cbssports.com/nfl/news/jonathan-taylor-trade-destinations-colts-rb/",
+      "summary": "The Colts need to replenish their draft assets, and dealing their three-time Pro Bowl running back could produce a significant return",
+      "published": "Sun, 01 Nov 2026 15:32:33 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DEN",
+        "IND",
+        "NYG",
         "SEA"
       ]
     },
     {
-      "title": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
-      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
-      "published": "2026-10-31T21:53:28Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 8 picks and score predictions: Browns end 38-year drought, Bills survive Baltimore",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-picks-predictions-odds-bills-ravens-browns-steelers-vikings/",
+      "summary": "Week 8 brings Halloween scares for several contenders, including the Bills, Vikings, Chiefs and Seahawks",
+      "published": "Sun, 01 Nov 2026 13:43:45 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET",
-        "JAX"
-      ]
-    },
-    {
-      "title": "T'Vondre Sweat placed on injured reserve with knee injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50339066/tvondre-sweat-placed-injured-reserve-knee-injury",
-      "summary": "The Jets will be without T'Vondre Sweat for at least the next four games, as the starting nose tackle was placed on injured reserve Saturday with a knee sprain.",
-      "published": "2026-10-31T20:20:30Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYJ"
-      ]
-    },
-    {
-      "title": "NFL to review additional allegations against Packers RB Josh Jacobs",
-      "url": "https://www.espn.com/nfl/story/_/id/50338005/nfl-review-additional-allegations-packers-jacobs",
-      "summary": "The NFL said it will look into additional allegations of physical and verbal abuse by Packers RB Josh Jacobs that were revealed as part of a public records release from the Hobart/Lawrence Police Department.",
-      "published": "2026-10-31T19:31:38Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "GB"
-      ]
-    },
-    {
-      "title": "Patriots rule out A.J. Brown, TreVeyon Henderson vs. Dolphins",
-      "url": "https://www.espn.com/nfl/story/_/id/50337296/patriots-rule-aj-brown-treveyon-henderson-vs-dolphins",
-      "summary": "Patriots wide receiver A.J. Brown has been ruled out for Sunday's game against the Dolphins. In addition, No. 2 running back TreVeyon Henderson has been ruled out due to an illness.",
-      "published": "2026-10-31T20:09:53Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIA",
-        "NE"
-      ]
-    },
-    {
-      "title": "Source: Commanders DT Daron Payne suffered season-ending foot injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50336399/source-commanders-dt-payne-suffered-season-ending-foot-injury",
-      "summary": "Commanders defensive tackle Daron Payne suffered a season-ending Jones fracture in practice Friday, a source told ESPN's Adam Schefter.",
-      "published": "2026-10-31T20:12:47Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "WAS"
-      ]
-    },
-    {
-      "title": "Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'",
-      "url": "https://www.espn.com/video/clip/_/id/50336119/interest-jonathan-taylor-heavy-real",
-      "summary": "Jeremy Fowler: Interest in Jonathan Taylor is 'heavy' and 'real'",
-      "published": "2026-10-31T14:44:08Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL scouts favor Drew Mestemaker as first QB taken in draft",
-      "url": "https://www.espn.com/college-football/story/_/id/50335830/nfl-scouts-favor-drew-mestemaker-first-qb-taken-draft",
-      "summary": "In a midseason poll of 25 NFL scouts, Oklahoma State's Drew Mestemaker was the overwhelming choice to be the first quarterback selected in the 2027 NFL draft.",
-      "published": "2026-10-31T16:18:43Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Sources: Packers, Micah Parsons target return for Thanksgiving Eve game vs. Rams",
-      "url": "https://www.espn.com/nfl/story/_/id/50335391/sources-packers-micah-parsons-eye-thanksgiving-eve-return",
-      "summary": "The Packers and Micah Parsons are targeting the Thanksgiving Eve game against the Rams for his return to the field, sources told NFL Network.",
-      "published": "2026-10-31T13:28:28Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "LA"
-      ]
-    },
-    {
-      "title": "Appellate court revives 'Sunday Ticket' antitrust verdict against NFL",
-      "url": "https://www.espn.com/nfl/story/_/id/50335296/appeals-court-revives-sunday-ticket-verdict-nfl",
-      "summary": "A verdict in a class action lawsuit filed by \"Sunday Ticket\" subscribers claiming the NFL broke antitrust laws has been revived by a federal appeals court, more than two years after a $4.7 billion ruling against the league was reversed.",
-      "published": "2026-10-31T13:49:42Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "'No way' that Jets trade star WR Garrett Wilson before deadline, source says",
-      "url": "https://www.espn.com/nfl/story/_/id/50331651/no-way-jets-trade-garrett-wilson-deadline-source-says",
-      "summary": "The Jets are not expected to trade Garrett Wilson, sources told ESPN, despite increased speculation about the star wide receiver's future.",
-      "published": "2026-10-31T20:25:52Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Sources: Colts willing to trade RB Jonathan Taylor, active in talks with teams",
-      "url": "https://www.espn.com/nfl/story/_/id/50323095/sources-colts-willing-trade-star-rb-jonathan-taylor",
-      "summary": "The Colts now are open to trading Jonathan Taylor, sources told ESPN and NFL Network, and multiple teams have reached out to Indianapolis.",
-      "published": "2026-11-01T01:06:23Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "NFL Week 8 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50319868/week-8-predictions-upsets-fantasy-sleepers-stats-2026",
-      "summary": "Tough day coming for Derrick Henry? Browns pulling an upset over the Steelers? Fantasy potential for Geno Smith? Let's predict 15 things for Week 8.\ufeff",
-      "published": "2026-10-31T10:57:35Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
+        "BUF",
         "CLE",
-        "PIT"
+        "KC",
+        "MIN",
+        "SEA"
       ]
     },
     {
-      "title": "Where the 2026 Vikings rank among worst 6-0 NFL teams ever",
-      "url": "https://www.espn.com/nfl/story/_/id/50329579/2026-minnesota-vikings-worst-undefeated-team-ever",
-      "summary": "Aaron Schatz ranked the worst 6-0 teams ever by DVOA and point differential. Where do the 2026 Vikings land, and what's next for them?",
-      "published": "2026-10-31T10:58:10Z",
-      "source": "ESPN NFL",
+      "title": "Chiefs vs. Broncos odds, picks, prediction, spread: Start time, betting preview, best bets for NFL Week 8",
+      "url": "https://www.cbssports.com/betting/news/chiefs-vs-broncos-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-nfl-week-8/",
+      "summary": "Here's everything bettors need to know for Chiefs vs. Broncos in NFL Week 8 action",
+      "published": "Sun, 01 Nov 2026 13:30:48 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
+        "DEN",
+        "KC"
+      ]
+    },
+    {
+      "title": "Saquon Barkley trade rumors: Eagles send a clear message about RB's future in Philadelphia",
+      "url": "https://www.cbssports.com/nfl/news/saquon-barkley-trade-rumors-eagles/",
+      "summary": "The NFL's trade deadline is coming up on Nov. 10 with teams poking around on the former first-rounder",
+      "published": "Sun, 01 Nov 2026 13:20:05 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "It wouldn't shock me if ... NFL Week 8: Colts reduce Jonathan Taylor's reps, Lamar Jackson shows no rust",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-shocking-predictions-colts-jonathan-taylors-lamar-jackson/",
+      "summary": "A Vikings' tight end breaks out? The first place Atlanta Falcons?",
+      "published": "Sun, 01 Nov 2026 13:07:24 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "IND",
         "MIN"
       ]
     },
     {
-      "title": "Joe Burrow's trust makes Tee Higgins level up for Bengals",
-      "url": "https://www.espn.com/nfl/story/_/id/50331179/cincinnati-bengals-tee-higgins-joe-burrow",
-      "summary": "No receiver in the NFL has been better on tight window throws this season than the Bengals' Tee Higgins.",
-      "published": "2026-10-31T10:00:00Z",
-      "source": "ESPN NFL",
+      "title": "Prisco's Week 8 NFL expert picks: Lions hand Vikings their first loss, Chiefs over Broncos",
+      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-8-nfl-picks-odds-predictions/",
+      "summary": "Pete Prisco reveals all of his Week 8 picks, including the Bills to top the Ravens in a high-scoring game",
+      "published": "Sun, 01 Nov 2026 12:00:57 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CIN"
-      ]
-    },
-    {
-      "title": "Michael Penix Jr. shows he could be Atlanta's QB1",
-      "url": "https://www.espn.com/nfl/story/_/id/50321280/atlanta-falcons-michael-penix-future",
-      "summary": "Penix has been mostly above average after 17 games as an NFL starter, and that's really all Atlanta needs him to be.",
-      "published": "2026-10-31T10:00:02Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Will the Bills' defense stop them from winning a Super Bowl?",
-      "url": "https://www.espn.com/nfl/story/_/id/50312381/bill-defense-super-bowl-gardner-johnson-rousseau",
-      "summary": "Buffalo's defense ranks among the worst in several key statistical areas, including the third-most points allowed.",
-      "published": "2026-10-31T10:24:11Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF"
-      ]
-    },
-    {
-      "title": "Records show 3 other women accused Packers' Josh Jacobs of abuse after arrest",
-      "url": "https://www.espn.com/nfl/story/_/id/50333636/records-show-3-other-women-accused-packers-josh-jacobs-abuse",
-      "summary": "Three other women contacted police to detail allegations of abuse against Packers RB Josh Jacobs following his May arrest for an altercation with his then-girlfriend.",
-      "published": "2026-10-31T17:03:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB"
-      ]
-    },
-    {
-      "title": "Fantasy playbook: NFL Week 8 Shadow Reports, lineup locks and projected scores",
-      "url": "https://www.espn.com/fantasy/football/story/_/id/50289069/fantasy-playbook-projections-lineup-locks-week-8-shadow",
-      "summary": "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games.",
-      "published": "2026-10-31T03:02:50Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Falcons' Anterio Thompson says he can't play football due to spinal cord issue",
-      "url": "https://www.espn.com/nfl/story/_/id/50332073/falcons-thompson-play-football-due-spinal-cord-issue",
-      "summary": "Falcons rookie DT Anterio Thompson revealed on Instagram this week that he was told he would never play football again due to a genetic mutation of his spinal cord.",
-      "published": "2026-10-31T00:31:29Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL"
-      ]
-    },
-    {
-      "title": "Sources: Commanders' Daron Payne likely IR-bound after practice injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50331710/sources-commanders-daron-payne-injures-foot-practice",
-      "summary": "Commanders DT Daron Payne suffered a significant foot injury in practice Friday that likely will land him on injured reserve, sources told NFL Network.",
-      "published": "2026-10-31T00:05:38Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "WAS"
-      ]
-    },
-    {
-      "title": "Colts' Shane Steichen: WR Josh Downs 'ready to go' despite trade request",
-      "url": "https://www.espn.com/nfl/story/_/id/50331045/colts-steichen-wr-downs-ready-go-trade-demand",
-      "summary": "Colts coach Shane Steichen says receiver Josh Downs practiced all week and is \"ready to go\" despite the trade request he made earlier this week.",
-      "published": "2026-10-30T22:19:00Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "Budda Baker fields trade rumor questions in costume",
-      "url": "https://www.espn.com/video/clip/_/id/50330916/budda-baker-fields-trade-rumor-questions-costume",
-      "summary": "Budda Baker fields trade rumor questions in costume",
-      "published": "2026-10-30T21:08:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Defensive tweaks on deck for the Cowboys",
-      "url": "https://www.espn.com/video/clip/_/id/50330890/defensive-tweaks-deck-cowboys",
-      "summary": "Todd Archer details Dallas Cowboys DC Christian Parker's adjustments following a league-high number of opening-possession touchdowns allowed.",
-      "published": "2026-10-30T21:40:29Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "With 10 games left and Ejiro Evero out, what's next for Panthers' defense?",
-      "url": "https://www.espn.com/nfl/story/_/id/50329806/carolina-panthers-defense-ejiro-evero-next-todd-wash",
-      "summary": "Here are three reasons for optimism as Carolina makes a defensive coordinator change to Todd Wash.",
-      "published": "2026-10-30T20:56:49Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR"
-      ]
-    },
-    {
-      "title": "Eagles' Saquon Barkley carries no injury designation for Commanders matchup",
-      "url": "https://www.espn.com/nfl/story/_/id/50330421/eagles-saquon-barkley-carries-no-injury-designation-commanders-matchup",
-      "summary": "Saquon Barkley, who did not practice Wednesday or Thursday and was a limited participant Friday, carries no designation into Sunday's game.",
-      "published": "2026-10-30T21:13:22Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PHI",
-        "WAS"
+        "BAL",
+        "BUF",
+        "DEN",
+        "DET",
+        "KC",
+        "MIN"
       ]
     },
     {
@@ -963,199 +773,6 @@
       "category": "transaction",
       "teams": [
         "ARI"
-      ]
-    },
-    {
-      "title": "CeeDee Lamb says Cowboys have a Cardinals boogeyman: 'They've punched us in the mouth every single time'",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-ceedee-lamb-long-haunted-cardinals/",
-      "summary": "Dallas five-time Pro Bowl wide receiver CeeDee Lamb has never beaten Arizona, and they have won eight of the last nine matchups",
-      "published": "Fri, 30 Oct 2026 18:45:33 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "DAL"
-      ]
-    },
-    {
-      "title": "Ravens coach Jesse Minter confirms Lamar Jackson will return from ankle injury, start vs. Bills",
-      "url": "https://www.cbssports.com/nfl/news/ravens-lamar-jackson-injury-update-bills/",
-      "summary": "The two-time MVP hasn't played since Week 4 after suffering a high ankle sprain",
-      "published": "Fri, 30 Oct 2026 17:50:27 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "BUF"
-      ]
-    },
-    {
-      "title": "Browns trying to end stunning 38-year drought against Steelers in Week 8 AFC North showdown",
-      "url": "https://www.cbssports.com/nfl/news/browns-trying-to-end-stunning-38-year-drought-against-steelers/",
-      "summary": "A win in Pittsburgh would secure Cleveland's first season sweep of its rival since 1988",
-      "published": "Fri, 30 Oct 2026 17:33:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "NFL Halloween costumes 2026: Roundup of some of the best looks ahead of the holiday",
-      "url": "https://www.cbssports.com/nfl/news/nfl-halloween-costumes-2026-roundup/",
-      "summary": "A look at some of the funniest and most iconic costumes from this year",
-      "published": "Fri, 30 Oct 2026 17:31:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Bryce Young and the Panthers' passing game are running into familiar problems, can they be fixed?",
-      "url": "https://www.cbssports.com/nfl/news/bryce-young-panthers-passing-game-familiar-problems-can-they-be-fixed/",
-      "summary": "Young struggled again as Carolina lost to the Packers and fell below .500",
-      "published": "Fri, 30 Oct 2026 15:52:40 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "Cam Skattebo says he feared amputation after gruesome injury that ended his 2025 season",
-      "url": "https://www.cbssports.com/nfl/news/giants-cam-skattebo-feared-amputation-after-2025-injury/",
-      "summary": "In a new documentary about his recovery, he also said he had a pregame premonition about his injury",
-      "published": "Fri, 30 Oct 2026 15:46:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 8 schedule: Why you should watch these three underrated games",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-schedule-where-to-watch-these-three-underrated-games/",
-      "summary": "Here are three games you should watch that people may not be talking about",
-      "published": "Fri, 30 Oct 2026 21:24:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL trade deadline: One position of need and potential options for all 32 teams",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-needs-potential-options-all-32-teams/",
-      "summary": "Following Chicago's blockbuster deal for Jeffery Simmons, contenders and sellers across the league have less than two weeks to reshape their rosters",
-      "published": "Fri, 30 Oct 2026 15:08:12 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Panthers fire defensive coordinator Ejiro Evero, make other defensive changes after Packers loss",
-      "url": "https://www.cbssports.com/nfl/news/panthers-fire-defensive-coordinator-ejiro-evero/",
-      "summary": "Evero has had the league's No. 30 scoring defense (26.3 points per game) after four years in Carolina",
-      "published": "Fri, 30 Oct 2026 14:48:13 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "Cowboys already won 2026 NFL trade deadline with Joey Porter Jr. trade",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-already-won-2026-nfl-trade-deadline-joey-porter-jr-trade/",
-      "summary": "In Porter Jr.'s three games with Dallas, he profiles as the league's best cornerback",
-      "published": "Fri, 30 Oct 2026 14:39:11 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Browns vs. Steelers NFL picks, parlay: Surprising Cleveland would make history with road upset Sunday on CBS",
-      "url": "https://www.cbssports.com/betting/news/browns-vs-steelers-nfl-picks-parlay-surprising-cleveland-would-make-history-with-road-upset-sunday-on-cbs/",
-      "summary": "The Browns would end two shocking droughts with a win in Pittsburgh on Sunday on CBS",
-      "published": "Fri, 30 Oct 2026 15:46:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Week 8 best bets: Zay Flowers tallies big day in Lamar Jackson's return, Steelers win AFC North showdown",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-best-bets-zay-flowers-lamar-jackson-ravens-steelers/",
-      "summary": "Plus, a forgotten superstar just keeps on chugging",
-      "published": "Fri, 30 Oct 2026 14:13:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "Steelers legend Kordell Stewart changes narrative on his NFL career in new HBO documentary",
-      "url": "https://www.cbssports.com/nfl/news/steelers-legend-kordell-stewart-changes-narrative-hbo-documentary/",
-      "summary": "Stewart wants his career to be remembered for what happened on the field",
-      "published": "Fri, 30 Oct 2026 17:58:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "Josh Jacobs explains controversial touchdown celebration vs. Panthers that seemed to mimic arrest",
-      "url": "https://www.cbssports.com/nfl/news/packers-josh-jacobs-explains-touchdown-celebration-panthers/",
-      "summary": "Jacobs says the celebration was a reference to a gospel song titled \"Break Every Chain\"",
-      "published": "Fri, 30 Oct 2026 13:48:29 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR"
-      ]
-    },
-    {
-      "title": "Deshaun Watson vs. Steelers' suffocating secondary: How pivotal AFC North duel will be won",
-      "url": "https://www.cbssports.com/nfl/news/deshaun-watson-vs-steelers-how-pivotal-afc-north-duel-won/",
-      "summary": "How Watson attacks Pittsburgh's zone coverage will be crucial",
-      "published": "Fri, 30 Oct 2026 13:12:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PIT"
       ]
     }
   ],
