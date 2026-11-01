@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-10-31T23:45:35.458531+00:00",
-  "checked_at_utc": "2026-10-31T23:45:35.458531+00:00",
+  "updated_at_utc": "2026-11-01T02:39:49.852475+00:00",
+  "checked_at_utc": "2026-11-01T02:39:49.852475+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -223,6 +223,20 @@
       "teams": [
         "CHI",
         "SEA"
+      ]
+    },
+    {
+      "title": "NFL Week 8 uniforms: Jaguars, Lions become latest team to debut Rivalries look",
+      "url": "https://www.espn.com/nfl/story/_/id/50302364/nfl-week-8-uniforms",
+      "summary": "Here's a look at what each NFL team is wearing in Week 8, led by Rivalries looks from Jacksonville and Detroit.",
+      "published": "2026-10-31T21:53:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "JAX"
       ]
     },
     {
