@@ -1,25 +1,135 @@
 {
-  "updated_at_utc": "2026-11-01T23:57:46.830036+00:00",
-  "checked_at_utc": "2026-11-01T23:57:46.830036+00:00",
+  "updated_at_utc": "2026-11-02T05:46:57.541100+00:00",
+  "checked_at_utc": "2026-11-02T05:46:57.541100+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 18,
+      "items": 14,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 19
+      "items": 24
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 6,
+      "items": 14,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "2026 Super Bowl Odds: 49ers Favored; Ravens Plummet Amid Lamar Jackson Injury",
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "summary": "The Ravens\u2019 Super Bowl odds have taken a huge hit after Lamar Jackson\u2019s injury. See the latest.",
+      "published": "Sun, 01 Nov 2026 23:58:10 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "SF"
+      ]
+    },
+    {
+      "title": "The Birds Get Blown Out: 3 Takeaways From The Commanders' Win Over The Eagles",
+      "url": "https://www.foxsports.com/stories/nfl/3-takeaways-from-the-commanders-win-over-the-eagles",
+      "summary": "The Commanders handed the Eagles a comprehensive defeat on Sunday night. Here are Ben Arthur's takeaways.",
+      "published": "Sun, 01 Nov 2026 23:41:53 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI",
+        "WAS"
+      ]
+    },
+    {
+      "title": "NFL Week 8 Defining Stats: Bucs Win Without Passing; Cowboys Collapse",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-8-defining-stats",
+      "summary": "The Buccaneers became just the second team in the Super Bowl era to win without completing a pass. See the stats that defined Week 8.",
+      "published": "Sun, 01 Nov 2026 23:23:20 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "TB"
+      ]
+    },
+    {
+      "title": "Tough Mudders: Inside All The Oddities Of Buccaneers Completion-Less Win vs. Falcons",
+      "url": "https://www.foxsports.com/stories/nfl/tough-mudders-inside-all-oddities-buccaneers-completion-less-win-vs-falcons",
+      "summary": "Tampa Bay got a huge division win over Atlanta on Sunday, running the ball in rainy conditions so well they didn't need to complete a single pass.",
+      "published": "Sun, 01 Nov 2026 23:19:44 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "TB"
+      ]
+    },
+    {
+      "title": "NFL Fallout Week 8: Ravens Must Plan For A Future Without Lamar Jackson",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-fallout-week-8-ravens-must-plan-future-without-lamar-jackson",
+      "summary": "The Ravens can't commit long term to Lamar Jackson. The Vikings shouldn't commit this entire season to Kyler Murray. Here are Ralph Vacchiano's top takeaways from Week 8.",
+      "published": "Sun, 01 Nov 2026 23:18:58 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "MIN"
+      ]
+    },
+    {
+      "title": "How Bears QB Caleb Williams Developed Into \u2018A Jedi, Like Neo From The Matrix\u2019",
+      "url": "https://www.foxsports.com/stories/nfl/bears-qb-caleb-williams-built-clutch-moments-jedi-neo",
+      "summary": "Caleb Williams' former high school and college coaches and teammates reveal what makes the Bears QB uniquely built for clutch moments.",
+      "published": "Sun, 01 Nov 2026 21:50:28 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Denver Takes Control Of AFC West: 3 Takeaways From The Broncos' Win Over The Chiefs",
+      "url": "https://www.foxsports.com/stories/nfl/denver-takes-control-afc-west-3-takeaways-from-broncos-win-over-chiefs",
+      "summary": "The Denver Broncos delivered the biggest win of their season by taking down the Kansas City Chiefs. Here are Greg Auman's takeaways.",
+      "published": "Sun, 01 Nov 2026 19:53:42 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "KC"
+      ]
+    },
+    {
+      "title": "Best Fits For Jonathan Taylor: Which 6 Teams Make The Most Sense For Colts RB?",
+      "url": "https://www.foxsports.com/stories/nfl/jonathan-taylor-best-fits-nfl-trade-deadline-rumors",
+      "summary": "Indianapolis Colts RB Jonathan Taylor is the hottest name on the trade market with the deadline Nov. 10. Here are six teams that would make sense for Taylor.",
+      "published": "Sun, 01 Nov 2026 19:49:08 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
+    },
     {
       "title": "LFGibbs? Jahmyr Gibbs Powers His Way To LFG Player Of The Game In Lions' Win vs. Vikings",
       "url": "https://www.foxsports.com/stories/nfl/lfgibbs-jahmyr-gibbs-powers-his-way-lfg-player-game-lions-win-vs-vikings",
@@ -103,64 +213,10 @@
       ]
     },
     {
-      "title": "Jerry Jones backs Brian Schottenheimer, says Cowboys let coach down in loss",
-      "url": "https://www.espn.com/nfl/story/_/id/50353004/jones-backs-schottenheimer-says-cowboys-let-coach-down",
-      "summary": "Despite matching the largest blown fourth-quarter lead in team history, Cowboys owner Jerry Jones said the loss to Arizona will not trigger a coaching change.",
-      "published": "2026-11-01T23:53:50Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Steelers roll by Browns, say Jared Verse 'should have kept mouth shut'",
-      "url": "https://www.espn.com/nfl/story/_/id/50352885/steelers-say-browns-verse-kept-mouth-shut",
-      "summary": "The Steelers got the last word after Browns defensive end Jared Verse's trash talk ahead of Sunday's matchup.",
-      "published": "2026-11-01T23:43:50Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Josh Allen's halftime words fuel Bills' 2nd-half surge in win over Ravens",
-      "url": "https://www.espn.com/nfl/story/_/id/50352713/josh-allen-half-words-fuel-bills-second-half-vs-ravens",
-      "summary": "QB Josh Allen said the Bills \"didn't play up to our standard\" in the first half Sunday against the Ravens -- and delivered a halftime message to his teammates that essentially said \"we're way better than this.\"",
-      "published": "2026-11-01T23:43:50Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "BUF"
-      ]
-    },
-    {
-      "title": "Additional allegations against Packers' Josh Jacobs 'unsupported,' attorneys say",
-      "url": "https://www.espn.com/nfl/story/_/id/50352501/jacobs-attorneys-say-additional-allegations-unsupported",
-      "summary": "The attorneys for Green Bay's Josh Jacobs called the additional allegations of physical and verbal abuse \"unsupported and stale allegations\" in a statement on Sunday, two days after a police department in Wisconsin released records related to his arrest.",
-      "published": "2026-11-01T23:56:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "GB"
-      ]
-    },
-    {
       "title": "NFL Week 8: Big takeaways, questions and fantasy spin from Sunday's games",
       "url": "https://www.espn.com/nfl/story/_/id/50349340/week-8-sunday-games-takeaways-questions-2026",
       "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 8.",
-      "published": "2026-11-01T23:32:58Z",
+      "published": "2026-11-02T05:21:34Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -168,24 +224,37 @@
       "teams": []
     },
     {
-      "title": "Joe Burrow throws 5 TD passes, runs for score in OT as Bengals rally for 43-36 win over Titans",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873031",
-      "summary": "\u2014 Joe Burrow threw five touchdown passes in regulation and then scrambled untouched for a 9-yard score in overtime as the Cincinnati Bengals rallied for a 43-36 victory over the Tennessee...",
-      "published": "2026-11-01T22:07:46Z",
+      "title": "Jayden Daniels throws TD pass and Commanders shut out Eagles over final 3 quarters of 27-10 win",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873035",
+      "summary": "\u2014 Jayden Daniels threw for 217 yards and a touchdown, and the Washington Commanders shut out the Philadelphia Eagles over the final three quarters of a 27-10 victory on Sunday night.",
+      "published": "2026-11-02T04:43:46Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CIN",
-        "TEN"
+        "PHI",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Jim Harbaugh backs Mike McDaniel, Justin Herbert despite Chargers' post-bye dud",
+      "url": "https://www.espn.com/nfl/story/_/id/50355492/chargers-jim-harbaugh-backs-mike-mcdaniel-justin-herbert",
+      "summary": "Jim Harbaugh continued to back both offensive coordinator Mike McDaniel and quarterback Justin Herbert after the Chargers' latest loss Sunday.",
+      "published": "2026-11-02T05:12:14Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "LAC"
       ]
     },
     {
       "title": "Week 8 NFL highlights: Best plays, moments, touchdowns, more",
       "url": "https://www.espn.com/nfl/story/_/id/50347464/week-8-sunday-highlights-best-plays-touchdowns-2026",
       "summary": "Check here for Sunday's top moments and TDs as Josh Allen, Dak Prescott and Jonathan Taylor take the field.",
-      "published": "2026-11-01T23:11:39Z",
+      "published": "2026-11-02T04:57:01Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -193,121 +262,62 @@
       "teams": []
     },
     {
-      "title": "Chad Ryland kicks winner after PAT miss that forced OT as Cards beat Cowboys 33-30 with wild rally",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873024",
-      "summary": "\u2014 Tyler Allgeier jolted his Arizona offense, which gave Gardner Minshew and Michael Wilson a chance to stun the Dallas Cowboys.",
-      "published": "2026-11-01T21:52:45Z",
+      "title": "Broncos use last-second goal-line stand to hold off Chiefs",
+      "url": "https://www.espn.com/nfl/story/_/id/50355124/broncos-use-last-second-goal-line-stand-hold-chiefs",
+      "summary": "Kansas City and Patrick Mahomes got the ball to the Denver 4-yard line with 35 seconds to play but were held out of the end zone on five straight plays.",
+      "published": "2026-11-02T04:24:00Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL"
+        "DEN",
+        "KC"
       ]
     },
     {
-      "title": "Bills surge in 2nd half in 36-10 win over Baltimore in outing Ravens lose Jackson, Huntley to injury",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873026",
-      "summary": "\u2014 Josh Allen threw two touchdown passes and scored another rushing, and the Buffalo Bills overcame a sloppy first half in a 36-10 win over Baltimore on Sunday in an outing the Ravens lost starting quarterback Lamar Jackson and his backup Tyler Huntley...",
-      "published": "2026-11-01T21:41:46Z",
+      "title": "Aaron Rodgers' 2026 NFL season: Tracking records, milestones",
+      "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
+      "summary": "The Pittsburgh passer is chasing records in his 22nd NFL season, and ESPN is chronicling his \"last rodeo.\"",
+      "published": "2026-11-02T01:38:07Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "BUF"
-      ]
+      "category": "game",
+      "teams": []
     },
     {
-      "title": "Raiders rally past the Jets 38-33 as Kirk Cousins leads a comeback to snap a 4-game skid",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873029",
-      "summary": "\u2014 Kirk Cousins got up after his 1-yard touchdown run, crouched near the Raiders' sideline and started flapping his right elbow like a chicken wing.",
-      "published": "2026-11-01T21:40:46Z",
+      "title": "Judging overreactions to NFL Week 8: Days numbered for Schottenheimer, Jackson?",
+      "url": "https://www.espn.com/nfl/story/_/id/50349514/week-8-overreactions-2026-graziano-schottenheimer-jackson",
+      "summary": "Changes coming in Dallas? Have we seen Lamar's final pass for the Ravens? Could the NFC North go four-for-four? Let's overreact to Sunday's games.",
+      "published": "2026-11-02T02:51:57Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LV",
-        "NYJ"
+        "BAL"
       ]
     },
     {
-      "title": "Goff throws go-ahead touchdown pass to Williams and Lions beat Vikings 19-15 for their 1st loss",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873030",
-      "summary": "\u2014 The Detroit Lions handed the Minnesota Vikings their first loss of the season and had a muted celebration because All-Pro linebacker",
-      "published": "2026-11-01T21:21:58Z",
+      "title": "On fourth-and-goal, Roach drops Mahomes and flips the AFC West race as Broncos beat Chiefs 28-24",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873033",
+      "summary": "\u2014 The one thing the Denver Broncos do really well is win close games.",
+      "published": "2026-11-02T01:05:49Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Steelers bulldoze Browns 27-6 to take AFC North lead, extend home streak over rivals to 23 straight",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873027",
-      "summary": "\u2014 The Pittsburgh Steelers spent all week hearing the chatter coming from Cleveland, then spent all Sunday emphatically and repeatedly putting their longtime rivals in their place.",
-      "published": "2026-11-01T21:17:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Bucs down Falcons without pass completion; Bucky Irving, Kenny Gainwell run wild",
-      "url": "https://www.espn.com/nfl/story/_/id/50351129/buccaneers-silence-falcons-pass-completion",
-      "summary": "Baker Mayfield didn't complete a pass, but the Buccaneers beat the Falcons 16-0 behind Bucky Irving and Kenny Gainwell's rushing on a wet, sloppy field.",
-      "published": "2026-11-01T23:04:56Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "TB"
-      ]
-    },
-    {
-      "title": "Jaguars deliver big plays on both sides of the ball in 42-7 romp over rebuilding Colts",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873028",
-      "summary": "\u2014 The Jacksonville Jaguars' latest home blowout gave them a three-game lead in the AFC South \u2014 and put them in a spot they haven't been in since 1999.",
-      "published": "2026-11-01T21:14:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Buccaneers beat Falcons 16-0 despite failing to complete a single pass in wet, sloppy conditions",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873025",
-      "summary": "\u2014 Baker Mayfield threw more downfield blocks than he had completions.",
-      "published": "2026-11-01T21:05:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "TB"
+        "DEN",
+        "KC"
       ]
     },
     {
       "title": "NFL Week 8's best arrivals, led by Rams' Quentin Lake",
       "url": "https://www.espn.com/nfl/story/_/id/50323084/nfl-week-8-fashion",
       "summary": "Here's a look at the best-dressed players around the NFL in Week 8.",
-      "published": "2026-11-01T21:05:01Z",
+      "published": "2026-11-02T01:07:37Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -317,37 +327,132 @@
       ]
     },
     {
-      "title": "Inside the complicated injury history of Ravens' Lamar Jackson",
-      "url": "https://www.espn.com/nfl/story/_/id/50299565/inside-complicated-injury-history-ravens-lamar-jackson",
-      "summary": "If the QB's health record has taught the football world anything, his timeline to return can be challenging.",
-      "published": "2026-11-01T21:44:57Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "Lions linebacker Jack Campbell placed on backboard, carted off vs. Vikings",
-      "url": "https://www.espn.com/nfl/story/_/id/50350934/lions-linebacker-jack-campbell-placed-backboard-carted-off",
-      "summary": "Lions All-Pro linebacker Jack Campbell was placed on a backboard and carted off the field early in the fourth quarter Sunday against the Vikings.",
-      "published": "2026-11-01T22:37:45Z",
+      "title": "'Jets being Jets': Minkah Fitzpatrick sums up team's latest tough loss",
+      "url": "https://www.espn.com/nfl/story/_/id/50353796/jets-being-jets-fitzpatrick-sums-team-latest-loss",
+      "summary": "After the Jets dropped another one-score game, Minkah Fitzpatrick had a label for the way they lose games: \"Jets being Jets.\"",
+      "published": "2026-11-02T02:18:07Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Steelers' multiple dog-themed jabs at Browns headline NFL Week 8 trolls",
+      "url": "https://www.espn.com/nfl/story/_/id/50353702/nfl-week-8-trolls",
+      "summary": "NFL teams remained petty in Week 8, led by jabs from the Pittsburgh Steelers aimed at the Cleveland Browns.",
+      "published": "2026-11-02T02:28:00Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Larry Csonka, member of undefeated '72 Dolphins, celebrates Vikings' first loss",
+      "url": "https://www.espn.com/nfl/story/_/id/50353305/larry-csonka-1972-miami-dolphins-celebrates",
+      "summary": "The Minnesota Vikings' loss Sunday ensured that another NFL season will pass without an undefeated team.",
+      "published": "2026-11-02T00:49:25Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA",
         "MIN"
+      ]
+    },
+    {
+      "title": "Maye has 3 touchdowns as Patriots rally to beat Dolphins 24-19",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873034",
+      "summary": "\u2014 Drake Maye was without a pair of top receivers and a running back Sunday against the Miami Dolphins.",
+      "published": "2026-11-02T00:41:46Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIA",
+        "NE"
+      ]
+    },
+    {
+      "title": "Cardinals' LaFleur noncommittal on QB after Minshew replaces Brissett in win",
+      "url": "https://www.espn.com/nfl/story/_/id/50353468/cardinals-mike-lafleur-noncommittal-starting-qb-gardner-minshew-replaces-jacoby-brissett-win",
+      "summary": "Cardinals coach Mike LaFleur wouldn't commit to next week's starting quarterback after Gardner Minshew replaced Jacoby Brissett in the third quarter Sunday and led Arizona to a comeback win over Dallas.",
+      "published": "2026-11-02T02:19:15Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ARI"
+      ]
+    },
+    {
+      "title": "Five things we learned as Broncos stun Chiefs, seize first place in AFC West",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-broncos-five-things-we-learned-bo-nix/",
+      "summary": "Denver's quarterback delivered another remarkable finish, while a vastly improved defense and two emerging running backs helped the Broncos take control of the AFC West",
+      "published": "Mon, 02 Nov 2026 04:20:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "DEN",
+        "KC"
+      ]
+    },
+    {
+      "title": "Andy Reid questions controversial false start that erased Chiefs' apparent winning TD",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-controversial-penalty-andy-reid-broncos/",
+      "summary": "A controversial false start on Jaylon Moore wiped out a go-ahead touchdown before Malcolm Roach sealed the win with a sack on Patrick Mahomes",
+      "published": "Mon, 02 Nov 2026 03:38:43 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "Former Cowboys QB rips Dallas for 'embarrassing' loss to Cardinals: 'They stink'",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-loss-to-cardinals-qb-ben-dinucci/",
+      "summary": "The loss was bad enough, but the way the Cowboys crumbled did not sit well with the 2020 draft pick",
+      "published": "Mon, 02 Nov 2026 03:27:17 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ARI",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Andy Reid backs decision to trust Harrison Butker despite Chiefs kicker's struggles",
+      "url": "https://www.cbssports.com/nfl/news/andy-reid-harrison-butker-decision-chiefs-broncos/",
+      "summary": "Butker's late miss helped give Denver an opportunity to complete its comeback and intensified questions about Kansas City's kicker situation",
+      "published": "Mon, 02 Nov 2026 03:19:05 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC"
       ]
     },
     {
       "title": "NFL Week 8 winners and losers: Cowboys suffer epic collapse, Joe Burrow delivers historic heroics",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-8-winners-losers-cowboys-joe-burrow/",
       "summary": "Burrow produced a historic six-touchdown performance, while the Cowboys squandered a late lead and the Ravens endured another devastating Lamar Jackson injury",
-      "published": "Sun, 01 Nov 2026 23:07:12 +0000",
+      "published": "Mon, 02 Nov 2026 01:57:37 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -355,6 +460,87 @@
       "teams": [
         "BAL",
         "DAL"
+      ]
+    },
+    {
+      "title": "Week 8 overreactions: Time for Vikings to bench Kyler Murray? Colts should fire Steichen?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-overreactions-vikings-kyler-murray-colts/",
+      "summary": "Plus, does the NFC South run through the Buccaneers?",
+      "published": "Mon, 02 Nov 2026 02:11:45 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "MIN",
+        "TB"
+      ]
+    },
+    {
+      "title": "Why is Ashton Jeanty not getting carries? Another Raider emerges as Vegas' top RB in Week 8",
+      "url": "https://www.cbssports.com/nfl/news/why-is-ashton-jeanty-not-getting-ball-raiders-mike-washington-jr/",
+      "summary": "Jeanty's rushing workload continues to decrease on a weekly basis",
+      "published": "Mon, 02 Nov 2026 01:20:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Why Jerry Jones 'doesn't see' firing Brian Schottenheimer midseason after disaster Cowboys loss to Cardinals",
+      "url": "https://www.cbssports.com/nfl/news/jerry-jones-cowboys-fire-brian-schottenheimer-midseason-cardinals-loss/",
+      "summary": "Dallas squandered a 14-point fourth-quarter lead in its overtime loss to Arizona, but Jones says he is not considering an in-season coaching change",
+      "published": "Mon, 02 Nov 2026 00:35:15 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Bengals wild overtime win ends with final score that's never happened before in NFL history",
+      "url": "https://www.cbssports.com/nfl/news/bengals-wild-overtime-win-ends-scorigami/",
+      "summary": "Ladies and gentlemen, we have a scorigami!",
+      "published": "Mon, 02 Nov 2026 00:20:16 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN"
+      ]
+    },
+    {
+      "title": "Eagles vs. Commanders prediction, odds, start time, betting preview: Sunday Night Football picks, best bets",
+      "url": "https://www.cbssports.com/betting/news/eagles-commanders-prediction-odds-start-time-betting-preview-sunday-night-football-picks-best-bets/",
+      "summary": "Best bets and betting preview for Eagles vs. Commanders on Sunday Night Football",
+      "published": "Mon, 02 Nov 2026 00:01:31 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Eagles vs. Commanders NFL Week 8 picks, prediction, player props: Expert's best bets for Sunday Night Football",
+      "url": "https://www.cbssports.com/betting/news/eagles-vs-commanders-nfl-week-8-picks-prediction-player-props-experts-best-bets-for-sunday-night-football/",
+      "summary": "With Jalen Hurts sidelined and Tanner McKee stepping in, Washington has a prime opportunity to cover at home while Jayden Daniels makes plays with his legs",
+      "published": "Sun, 01 Nov 2026 23:45:49 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI",
+        "WAS"
       ]
     },
     {
@@ -534,75 +720,6 @@
       "teams": [
         "BAL",
         "BUF"
-      ]
-    },
-    {
-      "title": "Browns vs. Steelers odds, picks, prediction, spread, line: Start time, NFL Week 8 betting preview, best bets",
-      "url": "https://www.cbssports.com/betting/news/browns-vs-steelers-odds-picks-prediction-spread-line-start-time-nfl-week-8-betting-preview-best-bets/",
-      "summary": "Here's everything bettors need to know for Browns vs. Steelers in NFL Week 8",
-      "published": "Sun, 01 Nov 2026 16:35:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Lions vs. Vikings odds, picks, prediction, spread, line: Start time, NFL Week 8 betting preview, best bets",
-      "url": "https://www.cbssports.com/betting/news/lions-vs-vikings-odds-picks-prediction-spread-line-start-time-nfl-week-8-betting-preview-best-bets/",
-      "summary": "Here's everything bettors need to know for Lions vs. Vikings in NFL Week 8",
-      "published": "Sun, 01 Nov 2026 16:32:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Titans vs. Bengals odds, picks, prediction, spread: Start time, NFL Week 8 betting preview, best bets",
-      "url": "https://www.cbssports.com/betting/news/titans-vs-bengals-odds-picks-prediction-spread-start-time-nfl-week-8-betting-preview-best-bets/",
-      "summary": "Here's everything bettors need to know for Titans vs. Bengals in NFL Week 8",
-      "published": "Sun, 01 Nov 2026 16:33:07 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "TEN"
-      ]
-    },
-    {
-      "title": "2026 Week 8 NFL player props, odds, picks, best bets for Sunday's games include Justin Jefferson, Bo Nix",
-      "url": "https://www.cbssports.com/betting/news/2026-week-8-nfl-player-props-odds-picks-best-bets-for-sundays-games-include-justin-jefferson-bo-nix/",
-      "summary": "Bet on Week 8 NFL player props at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
-      "published": "Sun, 01 Nov 2026 16:04:16 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Jonathan Taylor mock trades: How Giants, Broncos, Seahawks could target Colts star RB",
-      "url": "https://www.cbssports.com/nfl/news/jonathan-taylor-trade-destinations-colts-rb/",
-      "summary": "The Colts need to replenish their draft assets, and dealing their three-time Pro Bowl running back could produce a significant return",
-      "published": "Sun, 01 Nov 2026 15:32:33 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DEN",
-        "IND",
-        "NYG",
-        "SEA"
       ]
     }
   ],
