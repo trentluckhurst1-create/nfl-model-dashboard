@@ -1,25 +1,186 @@
 {
-  "updated_at_utc": "2026-11-02T13:53:36.970018+00:00",
-  "checked_at_utc": "2026-11-02T13:53:36.970018+00:00",
+  "updated_at_utc": "2026-11-02T22:35:13.014892+00:00",
+  "checked_at_utc": "2026-11-02T22:35:13.014892+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 13,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 26
+      "items": 29
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 14,
+      "items": 21,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Colin Cowherd Compares Cowboys To 'Robbers In Home Alone' After Cardinals Loss",
+      "url": "https://www.foxsports.com/stories/nfl/colin-cowherd-compares-cowboys-robbers-home-alone-after-cardinals-loss",
+      "summary": "Colin Cowherd has a new comparison for the Dallas Cowboys, and it involves two burglars from a classic holiday movie.",
+      "published": "Mon, 02 Nov 2026 17:15:49 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Matt LaFleur Confirms Micah Parsons Set To Return To Packers Practice",
+      "url": "https://www.foxsports.com/stories/nfl/green-bay-packers-micah-parsons-injury-practice",
+      "summary": "Fresh off a Week 8 win over the Carolina Panthers to move to 5-2, the Green Packers may have reinforcements on the way.",
+      "published": "Mon, 02 Nov 2026 16:58:06 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CAR",
+        "GB"
+      ]
+    },
+    {
+      "title": "Vikings QB Kyler Murray Has Hamstring Soreness; Status vs. Bills Unclear",
+      "url": "https://www.foxsports.com/stories/nfl/murray-has-hamstring-soreness-but-the-vikings-arent-ready-to-say-if-his-availability-is-a-question",
+      "summary": "Minnesota Vikings quarterback Kyler Murray was under evaluation for hamstring soreness that developed at Detroit during the team\u2019s first defeat of the season.",
+      "published": "Mon, 02 Nov 2026 16:01:39 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BUF",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Lions' Jack Campbell Remains In The Hospital; Early Indications Positive On Neck Injury",
+      "url": "https://www.foxsports.com/stories/nfl/lions-lb-jack-campbell-carted-off-sundays-game-vs-vikings",
+      "summary": "Detroit Lions linebacker Jack Campbell suffered a serious injury in Sunday's game against the Minnesota Vikings.",
+      "published": "Mon, 02 Nov 2026 15:00:38 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET",
+        "MIN"
+      ]
+    },
+    {
+      "title": "How to Watch Bears vs. Seahawks: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-bears-vs-seahawks-tv-channel-live-stream-time-nov-2-2026",
+      "summary": "Find out how to watch the Chicago Bears vs. Seattle Seahawks on Monday, November 2, 2026, including kickoff time, TV channel, streaming options, and location.",
+      "published": "Mon, 02 Nov 2026 14:57:14 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "NFL, TMRW Sports Launch Premier Flag Pro League Ahead Of Olympic Debut In 2028",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-and-tmrw-sports-unveil-pro-flag-football-league-launching-before-the-sport-makes-olympic-debut",
+      "summary": "Before flag football makes its Olympic debut in 2028, the NFL and TMRW Sports are giving the sport\u2019s top players a chance to go pro with Premier Flag, launching in 2027.",
+      "published": "Mon, 02 Nov 2026 13:47:54 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Jaguars DT DaVon Hamilton Suffers Torn Quad, Reportedly Out For Season",
+      "url": "https://www.foxsports.com/stories/nfl/jacksonville-jaguars-davon-hamilton-quad-injury",
+      "summary": "Jaguar's star defensive end DaVon Hamilton suffered a torn quad after defeating the Colts 42-7, and is reportedly out for the season.",
+      "published": "Mon, 02 Nov 2026 12:01:32 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "JAX"
+      ]
+    },
+    {
+      "title": "Saquon Barkley Wants To Stay And Help Eagles 'Fix It', Philly Plans To Keep Him",
+      "url": "https://www.foxsports.com/stories/nfl/philadelphia-eagles-trade-rumors-deadline-saquon-barkley",
+      "summary": "Eagles running back Saquon Barkley said he\u2019d love to stay with the team amidst trade rumors after six straight losses.",
+      "published": "Mon, 02 Nov 2026 10:43:52 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 9: Lines, Spreads, Results For All 15 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-9-lines-spreads-results-all-15-games",
+      "summary": "Check out the odds for every Week 9 NFL game.",
+      "published": "Mon, 02 Nov 2026 09:45:18 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL, CFB Weekend Recap: Broncos' Win Over Chiefs Helps Limit Books' Damage",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-cfb-weekend-recap-broncos-win-over-chiefs-helps-limit-books-damage",
+      "summary": "Bettors comfortably won Week 8, but a few key results made it not-so-bad for the house. Patrick Everson breaks down the weekend.",
+      "published": "Mon, 02 Nov 2026 09:39:09 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "KC"
+      ]
+    },
+    {
+      "title": "Monday Morning NFL Top 10 Rankings: Big Movement At Top With Undefeated Vikings' Loss",
+      "url": "https://www.foxsports.com/stories/nfl/monday-morning-nfl-top-10-rankings-big-movement-top-undefeated-vikings-loss",
+      "summary": "There's a new No. 1 in the NFL after the undefeated Vikings lost. Check out Bucky Brooks' latest top-10 rankings.",
+      "published": "Mon, 02 Nov 2026 09:26:14 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "It\u2019s Time For A Coaching Change In Dallas; Lions QB Jared Goff Silences The Noise",
+      "url": "https://www.foxsports.com/stories/nfl/its-time-coaching-change-dallas-lions-qb-jared-goff-beats-vikings",
+      "summary": "What is Jerry Jones waiting for? Plus, Jared Goff beats the heat, what the Broncos finally found and what the Chiefs are still missing.",
+      "published": "Mon, 02 Nov 2026 09:17:49 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "DEN",
+        "DET",
+        "KC"
+      ]
+    },
     {
       "title": "Overreaction Monday: Time For Cowboys To Make Big Changes? Bo Nix Is Mr. Clutch?",
       "url": "https://www.foxsports.com/stories/nfl/overreaction-monday-cowboys-bo-nix-vikings-lamar-jackson-eagles-rams",
@@ -145,25 +306,126 @@
       ]
     },
     {
-      "title": "LFGibbs? Jahmyr Gibbs Powers His Way To LFG Player Of The Game In Lions' Win vs. Vikings",
-      "url": "https://www.foxsports.com/stories/nfl/lfgibbs-jahmyr-gibbs-powers-his-way-lfg-player-game-lions-win-vs-vikings",
-      "summary": "Jahmyr Gibbs was named Tom Brady\u2019s LFG Player of the Game after rushing for 153 yards and a touchdown on 23 carries in a 19-15 win over the Minnesota Vikings.",
-      "published": "Sun, 01 Nov 2026 17:42:02 -0500",
-      "source": "FOX Sports NFL",
+      "title": "NFL depth charts for all 32 teams for 2026 season",
+      "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
+      "summary": "Here are the latest NFL depth charts for all 32 teams.",
+      "published": "2026-11-02T21:49:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Nick Sirianni not making changes at OC or QB despite Eagles' losing streak",
+      "url": "https://www.espn.com/nfl/story/_/id/50361174/sirianni-no-changes-oc-qb-eagles-six-game-skid",
+      "summary": "Eagles coach Nick Sirianni said Monday that he is not making a change at offensive coordinator or quarterback amid his team's six-game losing streak.",
+      "published": "2026-11-02T22:04:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Dolphins' blown lead another lesson in a season full of them",
+      "url": "https://www.espn.com/nfl/story/_/id/50360735/miami-dolphins-blow-lead-vs-patriots-improving",
+      "summary": "The Dolphins are hoping to learn another lesson from the Patiots: It takes from kickoff until the final whistle.",
+      "published": "2026-11-02T21:47:45Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET",
+        "MIA"
+      ]
+    },
+    {
+      "title": "Cardinals move forward with Gardner Minshew as new starting QB",
+      "url": "https://www.espn.com/nfl/story/_/id/50361163/cardinals-move-forward-gardner-minshew-starting-qb",
+      "summary": "The Cardinals are moving forward with veteran Gardner Minshew as the team's new starting QB, beginning Sunday at Seattle.",
+      "published": "2026-11-02T22:29:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ARI"
+      ]
+    },
+    {
+      "title": "Vikings uncertain of QB Kyler Murray's status vs. Bills due to sore hamstring",
+      "url": "https://www.espn.com/nfl/story/_/id/50361004/vikings-uncertain-qb-kyler-murray-status-vs-bills",
+      "summary": "Vikings QB Kyler Murray's status for the Week 9 game against the Bills is uncertain due to a sore hamstring.",
+      "published": "2026-11-02T21:49:48Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BUF",
         "MIN"
       ]
     },
     {
-      "title": "Tom Brady\u2019s Advice to Lions After Jack Campbell Stretchered Off With Neck Injury",
-      "url": "https://www.foxsports.com/stories/nfl/tom-bradys-advice-lions-after-jack-campbell-stretchered-off-neck-injury",
-      "summary": "During the FOX broadcast, Kevin Burkhardt asked Tom Brady how players mentally cope when a teammate suffers a major injury.",
-      "published": "Sun, 01 Nov 2026 17:34:01 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Packers expect Parsons at practice 'sometime this week'",
+      "url": "https://www.espn.com/nfl/story/_/id/50360850/packers-expect-parsons-practice-some-week",
+      "summary": "Packers defensive end Micah Parsons will practice this week for the first time since he tore the ACL and meniscus in his left knee Dec. 14 of last year.",
+      "published": "2026-11-02T22:31:25Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "Chiefs' Reid says he didn't bench OL Suamataia as punishment",
+      "url": "https://www.espn.com/nfl/story/_/id/50360808/chiefs-reid-says-bench-ol-suamataia-punishment",
+      "summary": "Chiefs coach Andy Reid explained Monday that his decision to bench left guard Kingsley Suamataia for Sunday's game against the Denver Broncos was not punishment toward the three-year player.",
+      "published": "2026-11-02T22:24:14Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "KC"
+      ]
+    },
+    {
+      "title": "Packers sticking with RB Josh Jacobs despite latest abuse allegations",
+      "url": "https://www.espn.com/nfl/story/_/id/50360755/packers-sticking-rb-jacobs-latest-abuse-allegations",
+      "summary": "Packers coach Matt LaFleur says the team is sticking with RB Josh Jacobs despite new allegations of abuse levied by multiple women in addition to a May incident that led to his arrest.",
+      "published": "2026-11-02T21:08:52Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "Brandon Aiyuk hires Drew Rosenhaus as agent, eyes return to NFL",
+      "url": "https://www.espn.com/nfl/story/_/id/50360681/brandon-aiyuk-hires-drew-rosenhaus-agent-eyes-return-nfl",
+      "summary": "Brandon Aiyuk has hired agent Drew Rosenhaus, who told ESPN's Adam Schefter that he is \"working on getting him back to work and playing again in the NFL.\"",
+      "published": "2026-11-02T21:32:32Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Lions LB Jack Campbell still in hospital, but signs positive",
+      "url": "https://www.espn.com/nfl/story/_/id/50360680/lions-lb-jack-campbell-hospital-signs-positive",
+      "summary": "Lions linebacker Jack Campbell is still in the hospital for evaluation and monitoring of a neck injury, but the team said in a statement \"preliminary indications are positive.\"",
+      "published": "2026-11-02T20:29:55Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
@@ -172,39 +434,25 @@
       ]
     },
     {
-      "title": "Minnesota Suffers First Defeat: 3 Takeaways From The Lions' Win Over The Vikings",
-      "url": "https://www.foxsports.com/stories/nfl/3-takeaways-from-lions-win-over-vikings",
-      "summary": "The Vikings are undefeated no more, and a clear problem has emerged in Minnesota.",
-      "published": "Sun, 01 Nov 2026 17:13:25 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Shane Steichen sticking with Daniel Jones as Colts' QB1 for Week 9 vs. Cowboys",
+      "url": "https://www.espn.com/nfl/story/_/id/50360220/colts-sticking-daniel-jones-qb1-week-9",
+      "summary": "Daniel Jones will remain the Colts' starting quarterback for Sunday's game against the Cowboys.",
+      "published": "2026-11-02T21:34:31Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "qb",
       "teams": [
-        "DET",
-        "MIN"
+        "DAL",
+        "IND"
       ]
     },
     {
-      "title": "Buccaneers Become First NFL Team In 52 Years To Win Without Completing A Pass",
-      "url": "https://www.foxsports.com/stories/nfl/buccaneers-beat-falcons-without-completing-pass",
-      "summary": "In a driving rain in Tampa, the Buccaneers beat the Atlanta Falcons 16-0 without completing a pass, a feat unseen in the NFL for 52 years.",
-      "published": "Sun, 01 Nov 2026 16:59:58 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "TB"
-      ]
-    },
-    {
-      "title": "Ravens Star Lamar Jackson To Be Placed On IR With Potential Season-Ending Thumb Injury",
-      "url": "https://www.foxsports.com/stories/nfl/ravens-star-qb-lamar-jackson-departs-vs-bills-thumb-injury",
-      "summary": "Lamar Jackson's return from an ankle injury might not have lasted very long.",
-      "published": "Sun, 01 Nov 2026 16:54:38 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Record-setting deal? Trade? A look at Lamar Jackson's cloudy future with Ravens",
+      "url": "https://www.espn.com/nfl/story/_/id/50359850/look-lamar-jackson-cloudy-future-baltimore-ravens",
+      "summary": "It's possible that Jackson's final snap with the Ravens ended with injury Sunday night.",
+      "published": "2026-11-02T19:31:11Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
@@ -213,67 +461,183 @@
       ]
     },
     {
-      "title": "Sizing up wild NFL Week 8: Lamar Jackson's injury, Bucs' win, Cowboys' collapse",
-      "url": "https://www.espn.com/nfl/story/_/id/50349483/week-8-barnwell-lamar-bengals-cowboys-buccaneers-chiefs",
-      "summary": "Lamar Jackson's return lasted one snap, the Cardinals upset the Cowboys with their QB2 and RB2, and the Buccaneers won by 16 despite 0 passing yards.",
-      "published": "2026-11-02T13:45:52Z",
+      "title": "Bengals defensive end Cashius Howell out indefinitely after wrist surgery",
+      "url": "https://www.espn.com/nfl/story/_/id/50360179/bengals-cashius-howell-indefinitely-wrist-surgery",
+      "summary": "Bengals defensive end Cashius Howell will be out indefinitely after having surgery to repair his right wrist, which he injured in Cincinnati's win against the Titans on Sunday.",
+      "published": "2026-11-02T19:59:43Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "ARI",
-        "DAL",
-        "TB"
+        "CIN",
+        "TEN"
       ]
     },
     {
-      "title": "A child playcaller? The Bears' Ben Johnson was born for this",
-      "url": "https://www.espn.com/nfl/story/_/id/50341080/bears-ben-johnson-playcalling-caleb-williams",
-      "summary": "Johnson was in middle school when he first started diagramming plays, and we have one of the originals.",
-      "published": "2026-11-02T11:23:15Z",
-      "source": "ESPN NFL",
+      "title": "Cardinals name Gardner Minshew as starter, Carson Beck No. 2: What's next for Jacoby Brissett?",
+      "url": "https://www.cbssports.com/nfl/news/cardinals-name-gardner-minshew-carson-beck-no-2-jacoby-brissett/",
+      "summary": "Brissett has been demoted to third string after Arizona's comeback win against the Cowboys",
+      "published": "Mon, 02 Nov 2026 22:27:10 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ARI",
+        "DAL"
+      ]
+    },
+    {
+      "title": "Seahawks vs. Bears prediction: Caleb Williams faces toughest test yet in Seattle defense",
+      "url": "https://www.cbssports.com/nfl/news/seahawks-vs-bears-how-to-watch-prediction-odds-caleb-williams/",
+      "summary": "The Bears take their surging offense into Seattle for a matchup with one of the NFL's best defenses",
+      "published": "Mon, 02 Nov 2026 22:12:55 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Can Seahawks' Rashid Shaheed become a complementary WR to Jaxon Smith-Njigba?",
-      "url": "https://www.espn.com/nfl/story/_/id/50352650/seattle-seahawks-trade-rashid-shadeed-jaxon-smith-njigba",
-      "summary": "Shaheed was a big part of the Seahawks' Super Bowl run as a returner and earned a new three-year contract. But he has been quiet as a receiver since his trade to Seattle.",
-      "published": "2026-11-02T13:32:56Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
+        "CHI",
         "SEA"
       ]
     },
     {
-      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
-      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
-      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
-      "published": "2026-11-02T11:00:02Z",
-      "source": "ESPN NFL",
+      "title": "1-on-1 with Pittsburgh's Jalen Ramsey: How he views state of the Steelers, offense's improvement",
+      "url": "https://www.cbssports.com/nfl/news/interview-pittsburghs-jalen-ramsey-state-of-steelers/",
+      "summary": "A Super Bowl champion with the Rams, Ramsey spoke with CBS Sports about where he sees the Steelers organization at 6-2 this season",
+      "published": "Mon, 02 Nov 2026 22:03:58 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "LA",
+        "PIT"
+      ]
     },
     {
-      "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
-      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
-      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
-      "published": "2026-11-02T11:00:00Z",
-      "source": "ESPN NFL",
+      "title": "Jack Campbell injury updates: Lions LB remains in hospital, but 'indications are positive'",
+      "url": "https://www.cbssports.com/nfl/news/lions-jack-campbell-injury-updates-vikings/",
+      "summary": "The All-Pro linebacker suffered what appeared to be a serious injury vs. the Vikings",
+      "published": "Mon, 02 Nov 2026 20:12:52 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET",
+        "MIN"
+      ]
+    },
+    {
+      "title": "2026 NFL trade deadline QB rankings: Mac Jones, Kirk Cousins lead 10 best targets",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-qb-rankings-mac-jones-kirk-cousins/",
+      "summary": "With the Ravens, Eagles and other teams potentially searching for help, we rank 10 quarterbacks who could be available before the Nov. 10 deadline",
+      "published": "Mon, 02 Nov 2026 20:41:46 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Should Ravens trade for QB after Lamar Jackson, Tyler Huntley injuries? Possible candidates to watch",
+      "url": "https://www.cbssports.com/nfl/news/ravens-quarterback-trade-rumors-lamar-jackson-tyson-bagent/",
+      "summary": "Baltimore could be without Jackson for the rest of the year",
+      "published": "Mon, 02 Nov 2026 18:35:51 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Is Jadarian Price playing against the Bears? Latest Seahawks RB injury update for 'Monday Night Football'",
+      "url": "https://www.cbssports.com/nfl/news/is-jadarian-price-playing-seahawks-bears-monday-night-football/",
+      "summary": "The Seahawks could activate Jadarian Price from injured reserve before Monday night's game, but Mike Macdonald offered few clues about the rookie's status",
+      "published": "Mon, 02 Nov 2026 18:31:15 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CHI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Pick Six: Seahawks, Bears picks for 'MNF'; plus 15 crazy stats from Week 8",
+      "url": "https://www.cbssports.com/nfl/news/pick-six-seahawks-bears-picks-mnf-15-crazy-stats-week-8/",
+      "summary": "Here's everything you need to know about the NFL for Nov. 2",
+      "published": "Mon, 02 Nov 2026 17:46:32 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "CHI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Jaguars lose standout DT DaVon Hamilton: Trade partners for Jacksonville include Cowboys, Colts",
+      "url": "https://www.cbssports.com/nfl/news/jaguars-lose-davon-hamilton-trade-deadline-options/",
+      "summary": "Hamilton has been a stud for one of the league's best run defenses",
+      "published": "Mon, 02 Nov 2026 16:17:48 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DAL",
+        "IND",
+        "JAX"
+      ]
+    },
+    {
+      "title": "Trey McBride taunts Caleb Downs as Cowboys rookie's struggles reach alarming level",
+      "url": "https://www.cbssports.com/nfl/news/caleb-downs-cowboys-defense-trey-mcbride/",
+      "summary": "Dallas rebuilt its defense around first-round pick Caleb Downs, but his coverage struggles and costly mistakes were exposed",
+      "published": "Mon, 02 Nov 2026 15:53:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Lamar Jackson injury throws huge wrench into looming contract talks with Ravens",
+      "url": "https://www.cbssports.com/nfl/news/lamar-jackson-injury-ravens-contract-extension/",
+      "summary": "Jackson's current contract runs through the 2027 season",
+      "published": "Mon, 02 Nov 2026 14:34:30 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Cowboys biggest loser from NFL Week 8; FSU starts coaching search after firing Mike Norvell",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-biggest-loser-from-nfl-week-8-fsu-starts-coaching-search-after-firing-mike-norvell/",
+      "summary": "Plus, Lamar Jackson played one snap before suffering another long-term injury",
+      "published": "Mon, 02 Nov 2026 13:57:46 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DAL"
+      ]
     },
     {
       "title": "Cowboys should consider trading George Pickens: 5 logical NFL deadline destinations",
@@ -316,24 +680,10 @@
       ]
     },
     {
-      "title": "Seahawks vs. Bears how to watch, prediction, odds: Caleb Williams faces toughest test yet",
-      "url": "https://www.cbssports.com/nfl/news/seahawks-vs-bears-how-to-watch-prediction-odds-caleb-williams/",
-      "summary": "The Bears take their surging offense into Seattle for a matchup with one of the NFL's best defenses",
-      "published": "Mon, 02 Nov 2026 12:37:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "SEA"
-      ]
-    },
-    {
       "title": "Wilson's 2027 NFL mock draft: Browns trade up for QB, five passers land in Round 1",
       "url": "https://www.cbssports.com/nfl/draft/news/ryan-wilsons-2027-nfl-mock-draft-browns-trade-up-for-qb/",
       "summary": "Jets, Titans and Browns all have multiple first-round picks",
-      "published": "Mon, 02 Nov 2026 12:37:06 +0000",
+      "published": "Mon, 02 Nov 2026 18:38:55 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -518,116 +868,6 @@
       "teams": [
         "PHI",
         "WAS"
-      ]
-    },
-    {
-      "title": "Lions' Jack Campbell placed on backboard, carted off field after suffering serious injury",
-      "url": "https://www.cbssports.com/nfl/news/lions-jack-campbell-injury-updates-vikings/",
-      "summary": "The All-Pro linebacker suffered what appeared to be a serious injury vs. the Vikings",
-      "published": "Mon, 02 Nov 2026 13:39:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DET",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Lamar Jackson headed for injured reserve: Ravens QB to undergo surgery after injuring thumb vs. Bills",
-      "url": "https://www.cbssports.com/nfl/news/lamar-jackson-injury-updates-ravens-bills/",
-      "summary": "Jackson made his first start on Sunday after missing the last three games",
-      "published": "Sun, 01 Nov 2026 21:59:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "BUF"
-      ]
-    },
-    {
-      "title": "Baker Mayfield, Buccaneers complete win against Falcons with statistics not seen since 1933",
-      "url": "https://www.cbssports.com/nfl/news/buccaneers-falcons-baker-mayfield-no-completions-nfl-history/",
-      "summary": "Tampa Bay quarterback Baker Mayfield didn't complete any of his three throws in a 16-0 win",
-      "published": "Sun, 01 Nov 2026 21:48:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ATL",
-        "TB"
-      ]
-    },
-    {
-      "title": "Who is Ravens' Joe Fagnano? Baltimore turns to third QB after Lamar Jackson, Tyler Huntley injuries",
-      "url": "https://www.cbssports.com/nfl/news/who-is-ravens-joe-fagnano-baltimore-quarterbacks-lamar-jackson/",
-      "summary": "Baltimore is down to its third-string quarterback, an undrafted rookie",
-      "published": "Sun, 01 Nov 2026 21:54:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "Deshaun Watson injury: Browns QB temporarily exits vs. Steelers after taking a big hit early",
-      "url": "https://www.cbssports.com/nfl/news/deshaun-watson-injury-browns-qb-steelers/",
-      "summary": "Shedeur Sanders briefly replaced Watson at quarterback",
-      "published": "Sun, 01 Nov 2026 18:23:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CLE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Jauan Jennings declined trade to return to 49ers after Vikings had framework set, per report",
-      "url": "https://www.cbssports.com/nfl/news/vikings-jauan-jennings-declined-trade-to-49ers/",
-      "summary": "The veteran receiver chose to stay with the undefeated Vikings over a reunion with Kyle Shanahan and Brock Purdy, despite having caught just four passes this season",
-      "published": "Sun, 01 Nov 2026 17:44:29 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "MIN",
-        "SF"
-      ]
-    },
-    {
-      "title": "Jonathan Taylor trade rumors: Colts not actively shopping around star running back before deadline",
-      "url": "https://www.cbssports.com/nfl/news/jonathan-taylor-trade-rumors-colts-not-shopping-around/",
-      "summary": "However, in a meeting with ownership, Taylor was not given any assurances that a deal would not happen, according to CBS Sports' Aditi Kinkhabwala",
-      "published": "Sun, 01 Nov 2026 17:42:39 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "NFL Thanksgiving schedule: Lions announce halftime show performer for game vs. Bears",
-      "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-schedule-lions-halftime-show-performer-wu-tang-clan/",
-      "summary": "Wu-Tang Clan will perform at halftime for a huge holiday game",
-      "published": "Sun, 01 Nov 2026 17:33:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "DET"
       ]
     }
   ],
