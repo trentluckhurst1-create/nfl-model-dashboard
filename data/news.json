@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-11-03T18:33:54.269158+00:00",
-  "checked_at_utc": "2026-11-03T18:33:54.269158+00:00",
+  "updated_at_utc": "2026-11-03T23:38:55.328969+00:00",
+  "checked_at_utc": "2026-11-03T23:38:55.328969+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 7,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,87 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 20,
+      "items": 19,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Tom Brady Says Caleb Williams Is \u2018Perfect\u2019 Quarterback For Ben Johnson\u2019s Offense",
+      "url": "https://www.foxsports.com/stories/nfl/tom-brady-says-caleb-williams-perfect-quarterback-ben-johnsons-offense",
+      "summary": "Caleb Williams is perfect for the Ben Johnson's offense, according to FOX Sports' Tom Brady, and it showed on Monday.",
+      "published": "Tue, 03 Nov 2026 17:17:02 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Tom Brady Explains The Transition Steelers QB Aaron Rodgers Has Made",
+      "url": "https://www.foxsports.com/stories/nfl/tom-brady-aaron-rodgers-quote-steelers-offense-stats",
+      "summary": "Tom Brady broke down the changes Pittsburgh Steelers quarterback Aaron Rodgers has made to remain an impactful NFL signal-caller.",
+      "published": "Tue, 03 Nov 2026 15:55:17 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Tom Brady Ready For 'Emotional' Return To Gillette Stadium: 'I Love This Game'",
+      "url": "https://www.foxsports.com/stories/nfl/tom-brady-return-patriots-packers",
+      "summary": "Tom Brady is more than excited to call Sunday's Packers-Patriots as he returns to Gillette Stadium to call the game on FOX.",
+      "published": "Tue, 03 Nov 2026 14:59:50 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "NE"
+      ]
+    },
+    {
+      "title": "The Bears Have Arrived: Caleb Williams & Co. Emerge As A Top Super Bowl Contender",
+      "url": "https://www.foxsports.com/stories/nfl/bears-signal-arrive-top-nfc-contender-dominating-seahawks",
+      "summary": "Caleb Williams, Jeffery Simmons and the Bears proved they're \"a force to be reckoned with\" by whipping the Super Bowl champs in Seattle.",
+      "published": "Tue, 03 Nov 2026 14:45:58 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Favorite 'Dogs: Back Panthers Over Broncos; Minnesota To Cover vs. UCLA",
+      "url": "https://www.foxsports.com/stories/nfl/favorite-dogs-back-panthers-over-broncos-minnesota-cover-vs-ucla",
+      "summary": "Will Hill delivers his best underdog bets for the weekend ahead, including the Broncos' good fortune to hit a snag.",
+      "published": "Tue, 03 Nov 2026 14:19:27 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "DEN"
+      ]
+    },
+    {
+      "title": "2026 NFL Coach Of The Year Odds: New York's John Harbaugh Favored",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-coach-of-the-year-odds",
+      "summary": "Find out which coaches are near the top of the oddsboard for NFL Coach Of The Year after Week 8.",
+      "published": "Tue, 03 Nov 2026 13:40:23 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "2026 NFL OPOY Odds: Jahmyr Gibbs Favored; Jaxon Smith-Njigba Closing In",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
@@ -182,106 +258,21 @@
       ]
     },
     {
-      "title": "Jaguars DT DaVon Hamilton Suffers Torn Quad, Officially Out For Season",
-      "url": "https://www.foxsports.com/stories/nfl/jacksonville-jaguars-davon-hamilton-quad-injury",
-      "summary": "Jaguar's star defensive end DaVon Hamilton suffered a torn quad after defeating the Colts 42-7, and is reportedly out for the season.",
-      "published": "Mon, 02 Nov 2026 19:09:41 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Packers Plan To Keep Josh Jacobs On Roster As NFL Conducts Investigation",
-      "url": "https://www.foxsports.com/stories/nfl/packers-plan-keep-josh-jacobs-roster-nfl-conducts-investigation",
-      "summary": "Green Bay coach Matt LaFleur says the Packers plan to keep Josh Jacobs on their roster following the news of previous allegations against the three-time Pro Bowl running back",
-      "published": "Mon, 02 Nov 2026 19:05:43 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Josh Allen-produced short doc on Buffalo storm gets release date, trailer",
+      "url": "https://www.espn.com/nfl/story/_/id/50370431/buffalo-miracle-hbo-trailer-josh-allen",
+      "summary": "The short documentary on the once-in-a-generation Buffalo blizzard will be released on Nov. 24.",
+      "published": "2026-11-03T22:13:50Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
-      "teams": [
-        "GB"
-      ]
+      "teams": []
     },
     {
-      "title": "Big Bets Report: 3-Leg Moneyline Parlay Cashes In For Almost $600k",
-      "url": "https://www.foxsports.com/stories/nfl/big-bets-report-huge-wager-3-leg-parlay-cashes-almost-600k",
-      "summary": "One high roller hit the $600k jackpot on a 3-leg parlay, while another lost almost $800k on the Eagles. Patrick Everson breaks down those bets and more.",
-      "published": "Mon, 02 Nov 2026 18:17:52 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "Brady Returns: Tom Brady Set To Broadcast First Game At Gillette Stadium",
-      "url": "https://www.foxsports.com/stories/nfl/brady-returns-tom-brady-set-broadcast-first-game-gillette-stadium-packers-patriots",
-      "summary": "Tom Brady makes his return to Foxborough for the first time as an announcer when the New England Patriots host the Green Bay Packers on FOX's \u201cAmerica's Game of the Week.\"",
-      "published": "Mon, 02 Nov 2026 17:59:37 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "NE"
-      ]
-    },
-    {
-      "title": "Cardinals To Start Gardner Minshew vs. Seahawks; Rookie Carson Beck To Be Backup",
-      "url": "https://www.foxsports.com/stories/nfl/cardinals-start-gardner-minshew-vs-seahawks-rookie-carson-beck-backup",
-      "summary": "The Arizona Cardinals are making a QB change. Gardner Minshew will start Arizona\u2019s Week 9 game against the Seattle Seahawks, head coach Mike LaFleur announced Monday.",
-      "published": "Mon, 02 Nov 2026 17:47:14 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ARI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Colin Cowherd Compares Cowboys To 'Robbers In Home Alone' After Cardinals Loss",
-      "url": "https://www.foxsports.com/stories/nfl/colin-cowherd-compares-cowboys-robbers-home-alone-after-cardinals-loss",
-      "summary": "Colin Cowherd has a new comparison for the Dallas Cowboys, and it involves two burglars from a classic holiday movie.",
-      "published": "Mon, 02 Nov 2026 17:15:49 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "DAL"
-      ]
-    },
-    {
-      "title": "Matt LaFleur Confirms Micah Parsons Set To Return To Packers Practice",
-      "url": "https://www.foxsports.com/stories/nfl/green-bay-packers-micah-parsons-injury-practice",
-      "summary": "Fresh off a Week 8 win over the Carolina Panthers to move to 5-2, the Green Packers may have reinforcements on the way.",
-      "published": "Mon, 02 Nov 2026 16:58:06 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CAR",
-        "GB"
-      ]
-    },
-    {
-      "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
-      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
-      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
-      "published": "2026-11-03T16:09:49Z",
+      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
+      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
+      "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
+      "published": "2026-11-03T22:00:54Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -289,11 +280,172 @@
       "teams": []
     },
     {
-      "title": "2026 NFL trade deadline updates: Jeffery Simmons, Quenton Nelson on the move",
-      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-      "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including a blockbuster sending Jeffery Simmons to Chicago.",
-      "published": "2026-11-03T15:23:09Z",
+      "title": "Bills release C.J. Gardner-Johnson after one-game spitting suspension",
+      "url": "https://www.espn.com/nfl/story/_/id/50372292/bills-release-safety-cj-gardner-johnson",
+      "summary": "The Bills have released safety C.J. Gardner-Johnson, the team announced Tuesday.",
+      "published": "2026-11-03T22:45:59Z",
       "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BUF"
+      ]
+    },
+    {
+      "title": "Saints release veteran kicker Daniel Carlson after he posted 2nd-worst FG% in NFL",
+      "url": "https://www.espn.com/nfl/story/_/id/50372284/saints-release-veteran-kicker-daniel-carlson-7-games",
+      "summary": "Veteran kicker Daniel Carlson, whose 66.7% accuracy on field goals was tied for second worst in the NFL this season, was released by the Saints on Tuesday.",
+      "published": "2026-11-03T22:52:56Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NO"
+      ]
+    },
+    {
+      "title": "Giants, CB Greg Newsome II agree to 3-year, $46M extension",
+      "url": "https://www.espn.com/nfl/story/_/id/50372281/giants-cb-greg-newsome-ii-agree-3-year-46m-extension",
+      "summary": "The Giants have reached agreement with cornerback Greg Newsome II on a three-year, $46 million extension, his agents told ESPN's Adam Schefter.",
+      "published": "2026-11-03T22:50:15Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Source: Colts, Adetomiwa Adebawore agree to 2-year, $35M extension",
+      "url": "https://www.espn.com/nfl/story/_/id/50371976/source-colts-adetomiwa-adebawore-reach-2-year-35m-deal",
+      "summary": "The Colts and defensive tackle Adetomiwa Adebawore have agreed to terms on a two-year, $35 million extension, a source told NFL Network's Mike Garafolo.",
+      "published": "2026-11-03T22:23:25Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "Rookie Joe Fagnano to start Thursday night vs. Jaguars, Jesse Minter says",
+      "url": "https://www.espn.com/nfl/story/_/id/50371730/rookie-joe-fagnano-start-thursday-night-vs-jaguars",
+      "summary": "Ravens rookie quarterback Joe Fagnano will start Thursday night's game against the Jaguars, coach Jesse Minter announced Tuesday.",
+      "published": "2026-11-03T23:33:00Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL",
+        "JAX"
+      ]
+    },
+    {
+      "title": "Bills release C.J. Gardner-Johnson just days after being suspended for spitting incident",
+      "url": "https://www.cbssports.com/nfl/news/bills-release-c-j-gardner-johnson-days-after-being-suspended-spitting-incident/",
+      "summary": "Gardner-Johnson signed a one-year deal with Buffalo back in March",
+      "published": "Tue, 03 Nov 2026 22:04:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BUF"
+      ]
+    },
+    {
+      "title": "Giants sign Greg Newsome to three-year, $46 million extension, per report",
+      "url": "https://www.cbssports.com/nfl/news/giants-sign-greg-newsome-three-year-46-million-extension/",
+      "summary": "Newsome was playing on a one-year deal he signed with New York in March",
+      "published": "Tue, 03 Nov 2026 21:40:41 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Ravens name Joe Fagnano starter for Week 9 matchup vs. Jaguars with Lamar Jackson, Tyler Huntley injured",
+      "url": "https://www.cbssports.com/nfl/news/ravens-starting-qb-joe-fagnano-jaguars-lamar-jackson-tyler-huntley-injured/",
+      "summary": "Joe Fagnano will make his first NFL start Thursday against the Jaguars, with Lamar Jackson and Tyler Huntley likely headed to injured reserve",
+      "published": "Tue, 03 Nov 2026 21:29:18 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "JAX"
+      ]
+    },
+    {
+      "title": "Why Bears' Caleb Williams gave up his fight against the NFL over his unapproved cleats",
+      "url": "https://www.cbssports.com/nfl/news/why-bears-caleb-williams-gave-fight-against-nfl-over-cleats/",
+      "summary": "For the first time this season, Caleb Williams actually followed the NFL's uniform policy",
+      "published": "Tue, 03 Nov 2026 21:02:18 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "2026 midseason rookie grades: Ranking the early hits, misses and biggest surprises",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-rookie-grades-midseason-surprises/",
+      "summary": "Grading every first-round pick after eight weeks, from breakout stars to disappointing starts. Plus, 10 Day 2 and Day 3 rookies making their mark.",
+      "published": "Tue, 03 Nov 2026 21:15:29 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 9 NFL odds, lines, totals, spreads for every game, including Jaguars-Ravens, Jets-Chiefs, Giants-Eagles",
+      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-odds-lines-totals-spreads/",
+      "summary": "Check the Week 9 NFL odds, spreads, moneylines, and totals for all 15 games, including Ravens-Jaguars on TNF.",
+      "published": "Tue, 03 Nov 2026 20:05:56 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "JAX",
+        "KC",
+        "NYG",
+        "NYJ",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Jeremiyah Love's difficult rookie season takes another hit with trip to injured reserve",
+      "url": "https://www.cbssports.com/nfl/news/cardinals-jeremiyah-loves-injured-reserve-ankle-2026/",
+      "summary": "Love suffered a high ankle sprain against the Cowboys and now heads to injured reserve",
+      "published": "Tue, 03 Nov 2026 19:26:53 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "2026 NFL trade deadline: 12 players with no-trade clauses, including Joe Burrow, Patrick Mahomes",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-no-trade-clause-joe-burrow-patrick-mahomes/",
+      "summary": "Joe Burrow, Patrick Mahomes and 10 other prominent players would have to approve any trade before the Nov. 10 deadline, but one quarterback may have reason to listen",
+      "published": "Tue, 03 Nov 2026 18:46:48 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
@@ -408,7 +560,7 @@
       "title": "Ranking NFL's best new coordinators: Packers, Steelers assistants lead top 10 at midseason",
       "url": "https://www.cbssports.com/nfl/news/nfl-coordinator-rankings-midseason-packers-jonathan-gannon-steelers/",
       "summary": "These 10 coordinators inherited difficult circumstances, adapted to significant injuries and delivered immediate results in their new homes",
-      "published": "Tue, 03 Nov 2026 12:54:54 +0000",
+      "published": "Tue, 03 Nov 2026 18:55:07 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -422,7 +574,7 @@
       "title": "Six lessons from Week 8: Bears emerge as top-tier Super Bowl contenders, Chiefs must address glaring flaws",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-8-lessons-bears-super-bowl-chiefs-kicker/",
       "summary": "Jeffery Simmons transforms Chicago's defense and the Chiefs need to address their biggest issue before it's too late",
-      "published": "Tue, 03 Nov 2026 12:46:13 +0000",
+      "published": "Tue, 03 Nov 2026 20:09:06 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -628,115 +780,6 @@
       "teams": [
         "LA",
         "PIT"
-      ]
-    },
-    {
-      "title": "Jack Campbell injury updates: Lions LB remains in hospital, but 'indications are positive'",
-      "url": "https://www.cbssports.com/nfl/news/lions-jack-campbell-injury-updates-vikings/",
-      "summary": "The All-Pro linebacker suffered what appeared to be a serious injury vs. the Vikings",
-      "published": "Mon, 02 Nov 2026 20:12:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DET",
-        "MIN"
-      ]
-    },
-    {
-      "title": "2026 NFL trade deadline QB rankings: Mac Jones, Kirk Cousins lead 10 best targets",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-qb-rankings-mac-jones-kirk-cousins/",
-      "summary": "With the Ravens, Eagles and other teams potentially searching for help, we rank 10 quarterbacks who could be available before the Nov. 10 deadline",
-      "published": "Mon, 02 Nov 2026 20:41:46 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "BAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Should Ravens trade for QB after Lamar Jackson, Tyler Huntley injuries? Possible candidates to watch",
-      "url": "https://www.cbssports.com/nfl/news/ravens-quarterback-trade-rumors-lamar-jackson-tyson-bagent/",
-      "summary": "Baltimore could be without Jackson for the rest of the year",
-      "published": "Mon, 02 Nov 2026 18:35:51 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "Pick Six: Seahawks, Bears picks for 'MNF'; plus 15 crazy stats from Week 8",
-      "url": "https://www.cbssports.com/nfl/news/pick-six-seahawks-bears-picks-mnf-15-crazy-stats-week-8/",
-      "summary": "Here's everything you need to know about the NFL for Nov. 2",
-      "published": "Mon, 02 Nov 2026 17:46:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Jaguars lose standout DT DaVon Hamilton: Trade partners for Jacksonville include Cowboys, Colts",
-      "url": "https://www.cbssports.com/nfl/news/jaguars-lose-davon-hamilton-trade-deadline-options/",
-      "summary": "Hamilton has been a stud for one of the league's best run defenses",
-      "published": "Mon, 02 Nov 2026 16:17:48 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL",
-        "IND",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Trey McBride taunts Caleb Downs as Cowboys rookie's struggles reach alarming level",
-      "url": "https://www.cbssports.com/nfl/news/caleb-downs-cowboys-defense-trey-mcbride/",
-      "summary": "Dallas rebuilt its defense around first-round pick Caleb Downs, but his coverage struggles and costly mistakes were exposed",
-      "published": "Mon, 02 Nov 2026 15:53:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Lamar Jackson injury throws huge wrench into looming contract talks with Ravens",
-      "url": "https://www.cbssports.com/nfl/news/lamar-jackson-injury-ravens-contract-extension/",
-      "summary": "Jackson's current contract runs through the 2027 season",
-      "published": "Mon, 02 Nov 2026 14:34:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "Cowboys biggest loser from NFL Week 8; FSU starts coaching search after firing Mike Norvell",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-biggest-loser-from-nfl-week-8-fsu-starts-coaching-search-after-firing-mike-norvell/",
-      "summary": "Plus, Lamar Jackson played one snap before suffering another long-term injury",
-      "published": "Mon, 02 Nov 2026 13:57:46 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DAL"
       ]
     }
   ],
