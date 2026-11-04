@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-11-04T11:14:22.532209+00:00",
-  "checked_at_utc": "2026-11-04T11:14:22.532209+00:00",
+  "updated_at_utc": "2026-11-04T18:41:32.407208+00:00",
+  "checked_at_utc": "2026-11-04T18:41:32.407208+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 7,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -20,6 +20,117 @@
     }
   },
   "items": [
+    {
+      "title": "\u2018A Long Time Coming\u2019: Micah Parsons Returns to Packers Practice After ACL Tear",
+      "url": "https://www.foxsports.com/stories/nfl/green-bay-packers-micah-parsons-2026-season-debut-practice",
+      "summary": "Micah Parsons is practicing again with the Green Bay Packers as the All-Pro edge rusher approaches a return from a torn ACL that has sidelined him since mid-December.",
+      "published": "Wed, 04 Nov 2026 13:32:08 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "Lions LB Jack Campbell Says He Has \u2018Full Movement\u2019 in Lower Body After Injury",
+      "url": "https://www.foxsports.com/stories/nfl/lions-lb-jack-campbell-carted-off-sundays-game-vs-vikings",
+      "summary": "The Detroit Lions linebacker, who was carted off Sunday against the Minnesota Vikings, said he\u2019s also making progress with movement in his upper body.",
+      "published": "Wed, 04 Nov 2026 13:27:25 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET",
+        "MIN"
+      ]
+    },
+    {
+      "title": "2026 NFL Comeback Player of Year Odds: Patrick Mahomes Clear Favorite",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-comeback-player-year",
+      "summary": "Patrick Mahomes is the heavy favorite to win NFL Comeback Player of the Year, but one Giant's odds keep getting shorter. Here's the latest.",
+      "published": "Wed, 04 Nov 2026 13:22:34 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Miss The Playoffs?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-to-miss-playoffs",
+      "summary": "Two squads with injured quarterbacks are watching their odds to miss the playoffs move in the wrong direction. See the latest.",
+      "published": "Wed, 04 Nov 2026 12:56:31 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "Brandon Aiyuk Files For NFL Reinstatement, Plans To Report To 49ers Facility Friday",
+      "url": "https://www.foxsports.com/stories/nfl/49ers-wr-brandon-aiyuk-formally-submits-reinstatement-paperwork-agent-says",
+      "summary": "Receiver Brandon Aiyuk has applied to be reinstated to the San Francisco 49ers from the reserve/left squad list and plans to report to the team later this week.",
+      "published": "Wed, 04 Nov 2026 12:05:45 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "2026 NFL MVP Odds: Allen Favored; Can Burrow, Williams Get In The Mix?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
+      "summary": "Joe Burrow is rising after a historic second-half performance. See the latest MVP odds after Week 7.",
+      "published": "Wed, 04 Nov 2026 11:37:44 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Browns QB Deshaun Watson In Concussion Protocol; Will Shedeur Sanders Start?",
+      "url": "https://www.foxsports.com/stories/nfl/deshaun-watson-concussion-injury-update-browns-shedeur-sanders",
+      "summary": "Cleveland Browns quarterback Deshaun Watson has been placed in the concussion protocol after experiencing symptoms on Monday night.",
+      "published": "Wed, 04 Nov 2026 11:24:23 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CLE"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds: Win Totals Shift For Surprise Teams, Super Bowl Favorites",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-win-totals-shift-surprise-teams-super-bowl-favorites",
+      "summary": "Nine weeks in, and a handful of win totals look nothing like the beginning of the year. See which teams are aiming to blow past expectations.",
+      "published": "Wed, 04 Nov 2026 11:04:31 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL AFC, NFC Title Odds: Steelers, Cowboys Headed In Opposite Directions",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-afc-nfc-title-odds",
+      "summary": "Eight weeks in, two historic franchises are watching their odds go in opposite directions. See the latest.",
+      "published": "Wed, 04 Nov 2026 09:49:58 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PIT"
+      ]
+    },
     {
       "title": "QB Notebook: Caleb Williams Has Erased All Doubts; The QB Teams Should Trade For",
       "url": "https://www.foxsports.com/stories/nfl/qb-notebook-caleb-williams-has-erased-all-doubts-qb-teams-should-trade",
@@ -163,133 +274,50 @@
       "teams": []
     },
     {
-      "title": "2026 NFL OPOY Odds: Jahmyr Gibbs Favored; Jaxon Smith-Njigba Closing In",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
-      "summary": "Detroit's Jahmyr Gibbs is favored to win 2026 NFL Offensive Player of the Year. Find out who else is near the top of the oddsboard.",
-      "published": "Tue, 03 Nov 2026 12:52:42 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL DPOY Odds: Houston's Will Anderson Jr. Favored",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
-      "summary": "Check out the latest odds for the 2026 NFL Defensive Player of the Year award.",
-      "published": "Tue, 03 Nov 2026 12:29:22 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "QB Stock Market Week 9: Who's Been The Best Starter In The First Half Of 2026?",
-      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-9-whos-been-best-starter-first-half-2026",
-      "summary": "Josh Allen dominated on an off day. Jared Goff was quietly brilliant. Kyler Murray further regressed. Here are Henry McKenna's latest QB rankings.",
-      "published": "Tue, 03 Nov 2026 12:24:42 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL AFC, NFC Title Odds: Steelers, Cowboys Headed In Opposite Directions",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-afc-nfc-title-odds",
-      "summary": "Eight weeks in, two historic franchises are watching their odds go in opposite directions. See the latest.",
-      "published": "Tue, 03 Nov 2026 11:32:05 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PIT"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds: When Will The Chargers Earn Their First Win?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-when-will-chargers-earn-first-win",
-      "summary": "Assuming the Chargers do get a win, when will it arrive? Check out the odds regarding L.A.'s first victory of the season.",
-      "published": "Tue, 03 Nov 2026 11:15:48 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 9: Lines, Spreads, Results For All 15 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-9-lines-spreads-results-all-15-games",
-      "summary": "Check out the odds for every Week 9 NFL game.",
-      "published": "Tue, 03 Nov 2026 10:18:25 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Make The Playoffs?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
-      "summary": "See the latest NFL postseason odds after Week 8, with a both Baltimore and Seattle taking a dip.",
-      "published": "Tue, 03 Nov 2026 10:03:39 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 8 Plays That Stood Out: Cardinals Beat Dallas' Secondary; Lions Crack Flores Code",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-8-plays-that-stood-out-cardinals-beat-dallas-secondary-lions-crack-flores-code",
-      "summary": "The Cardinals and Lions' second-half successes highlight the best plays from NFL Week 8.",
-      "published": "Mon, 02 Nov 2026 23:44:34 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "DET"
-      ]
-    },
-    {
-      "title": "Chicago Makes A Statement: 3 Takeaways From The Bears' Win Over The Seahawks",
-      "url": "https://www.foxsports.com/stories/nfl/chicago-makes-statement-3-takeaways-from-bears-win-over-seahawks",
-      "summary": "The Bears made a statement with a win on the road against the reigning-champion Seahawks. Here are our takeaways.",
-      "published": "Mon, 02 Nov 2026 23:41:16 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Aaron Glenn says Breece Hall is Jets' starter despite Braelon Allen's emergence",
-      "url": "https://www.espn.com/nfl/story/_/id/50360481/jets-breece-hall-starter-braelon-allen",
-      "summary": "Braelon Allen has rushed for the second-most yards behind Bucky Irving in Breece Hall's five-game absence.",
-      "published": "2026-11-04T11:00:03Z",
+      "title": "Ravens are down to their No. 3 quarterback with the AFC South-leading Jaguars in town",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873037",
+      "summary": "\u2014 Joe Fagnano's NFL career is beginning with two games in five days. There's not a lot of time to stop and think.",
+      "published": "2026-11-04T18:09:34Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
+      "teams": [
+        "BAL",
+        "JAX"
+      ]
+    },
+    {
+      "title": "Jets' Garrett Wilson in concussion protocol, Breece Hall trending toward return",
+      "url": "https://www.espn.com/nfl/story/_/id/50380113/jets-wr-wilson-protocol-rb-hall-trending-return",
+      "summary": "Jets wide receiver Garrett Wilson is in the concussion protocol, but running back Breece Hall is \"trending in the right direction\" toward returning.",
+      "published": "2026-11-04T18:41:24Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
       "teams": [
         "NYJ"
       ]
     },
     {
-      "title": "How Gary Kubiak paved the way for his sons, Klint, Klay and Klein, in the NFL",
-      "url": "https://www.espn.com/nfl/story/_/id/50373566/gary-klint-klay-klein-kubiak-family-legacy-raiders-49ers",
-      "summary": "Klint, Klay and Klein Kubiak are all on their respective NFL journeys. But their father, Gary, helped each along the way.",
-      "published": "2026-11-04T11:00:10Z",
+      "title": "Lions' Jack Campbell has full movement in lower body after neck injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50380067/lions-lb-campbell-full-movement-lower-body-neck-injury",
+      "summary": "Lions All-Pro linebacker Jack Campbell released a statement Wednesday saying he has full movement in his lower body and is making progress with movement in his upper body as he recovers from a neck injury, suffered in Sunday's game.",
+      "published": "2026-11-04T18:17:12Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "Hall of Fame names Doug Williams, Robert Kraft among 5 contributor candidates",
+      "url": "https://www.espn.com/nfl/story/_/id/50379976/doug-williams-kraft-5-hof-contributor-candidates",
+      "summary": "The Pro Football Hall of Fame on Wednesday announced the list of five contributor candidates, with the final candidate to be decided in 2027.",
+      "published": "2026-11-04T18:21:40Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -297,24 +325,10 @@
       "teams": []
     },
     {
-      "title": "Sam Darnold is struggling under pressure, but Seahawks being patient with O-line",
-      "url": "https://www.espn.com/nfl/story/_/id/50371759/nfl-seahawks-bears-sam-darnold-pressure",
-      "summary": "Seattle's trade for Quenton Nelson last week shuffled the offensive line ahead of their decisive loss to the Bears. Will the pass protection get better?",
-      "published": "2026-11-04T11:10:49Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "CHI",
-        "SEA"
-      ]
-    },
-    {
       "title": "NFL Week 9 latest intel, buzz questions, fantasy tips and trade deadline news",
       "url": "https://www.espn.com/nfl/story/_/id/50369642/week-9-buzz-fantasy-predictions-graziano-fowler-2026-trades",
       "summary": "What now for the Ravens without Lamar Jackson? What are people around the NFL saying about Justin Herbert's struggles? And what's the latest on the looming trade deadline?",
-      "published": "2026-11-04T11:04:55Z",
+      "published": "2026-11-04T16:16:21Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -324,18 +338,182 @@
       ]
     },
     {
-      "title": "Why Broncos rookie Jonah Coleman is primed to be Denver's primary running back",
-      "url": "https://www.espn.com/nfl/story/_/id/50370194/jonah-coleman-broncos-rookie-top-running-back",
-      "summary": "Coleman was Denver's primary running back during Sunday's comeback against the Chiefs and could thrive against the Panthers on Sunday.",
-      "published": "2026-11-04T11:00:10Z",
+      "title": "Browns QB Deshaun Watson in concussion protocol; status vs. Saints unclear",
+      "url": "https://www.espn.com/nfl/story/_/id/50378819/browns-qb-watson-concussion-protocol-status-vs-saints-unclear",
+      "summary": "The Browns have placed starting QB Deshaun Watson in the concussion protocol, leaving his status for Sunday's matchup against the Saints in question.",
+      "published": "2026-11-04T18:01:03Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CLE",
+        "NO"
+      ]
+    },
+    {
+      "title": "Brandon Aiyuk files to be reinstated, plans to report to 49ers on Friday",
+      "url": "https://www.espn.com/nfl/story/_/id/50378691/brandon-aiyuk-applies-reinstated-plans-report-49ers",
+      "summary": "Brandon Aiyuk has turned in paperwork to be reinstated, agent Drew Rosenhaus told ESPN's Adam Schefter on Wednesday.",
+      "published": "2026-11-04T16:11:35Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CAR",
-        "DEN",
-        "KC"
+        "SF"
+      ]
+    },
+    {
+      "title": "Lions' Jack Campbell issues statement updating condition after scary injury vs. Vikings",
+      "url": "https://www.cbssports.com/nfl/news/lions-jack-campbell-issues-statement-after-injury-vikings/",
+      "summary": "The Lions linebacker says he has full movement in his lower body and is making progress with his upper body following a scary collision against the Vikings",
+      "published": "Wed, 04 Nov 2026 18:11:08 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Ravens trade candidates: Three quarterbacks Baltimore should consider amid injury crisis",
+      "url": "https://www.cbssports.com/nfl/news/ravens-trade-candidates-quarterback-injuries-lamar-jackson/",
+      "summary": "With Lamar Jackson sidelined and Tyler Huntley out for the year, Baltimore could look to Jacoby Brissett or Anthony Richardson before the trade deadline to keep its 4-4 season alive",
+      "published": "Wed, 04 Nov 2026 17:21:19 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Jadeveon Clowney mock trades: Cowboys reunion headlines four deals Texans can make before NFL trade deadline",
+      "url": "https://www.cbssports.com/nfl/news/jadeveon-clowney-mock-trades-cowboys-texans-nfl-trade-deadline/",
+      "summary": "Clowney's name has surfaced in trade discussions this week",
+      "published": "Wed, 04 Nov 2026 17:05:35 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DAL",
+        "HOU"
+      ]
+    },
+    {
+      "title": "Browns' Deshaun Watson in concussion protocol: Shedeur Sanders potentially in line to start Week 9 at Saints",
+      "url": "https://www.cbssports.com/nfl/news/browns-deshaun-watson-concussion-protocol-shedeur-sanders-week-9-saints/",
+      "summary": "Watson cleared evaluation Sunday but started having symptoms Monday night",
+      "published": "Wed, 04 Nov 2026 15:31:37 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CLE",
+        "NO"
+      ]
+    },
+    {
+      "title": "Brandon Aiyuk files to be reinstated, will report to 49ers facility this week, per report",
+      "url": "https://www.cbssports.com/nfl/news/brandon-aiyuk-files-to-be-reinstated-49ers/",
+      "summary": "San Francisco now has the option to trade or release the disgruntled wide receiver, with an outright cut viewed as the most likely outcome after a turbulent year away from the team",
+      "published": "Wed, 04 Nov 2026 15:17:19 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "Midseason All-Rookie Team: QB Jalon Daniels leads team filled with multiple Browns, Jets",
+      "url": "https://www.cbssports.com/nfl/news/nfl-midseason-all-rookie-team-jalon-daniels-browns-jets/",
+      "summary": "A dynamic Browns wide receiver duo and Titans standout Carnell Tate highlight the offensive playmakers making an immediate impact through the first eight weeks",
+      "published": "Wed, 04 Nov 2026 14:28:48 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CLE",
+        "NYJ",
+        "TEN"
+      ]
+    },
+    {
+      "title": "NFL Week 9 picks, best bets: Bears continue to surge in primetime, Vikings lose second straight vs. Bills",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-picks-best-bets-bears-surge-vikings-lose/",
+      "summary": "Tyler Sullivan picks every game on the Week 9 schedule, including five locks against the spread",
+      "published": "Wed, 04 Nov 2026 14:00:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "CHI",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Biggest surprises from initial CFP Rankings; Ravens starting an undrafted rookie QB on 'TNF'",
+      "url": "https://www.cbssports.com/fantasy/football/news/biggest-surprises-from-initial-cfp-rankings-ravens-starting-an-undrafted-rookie-qb-on-tnf/",
+      "summary": "Plus NBA Bracketology and Pete Prisco's Week 9 NFL Power Rankings",
+      "published": "Wed, 04 Nov 2026 13:53:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Tyler Huntley out for season: Ravens lose top backup with Lamar Jackson already out, per report",
+      "url": "https://www.cbssports.com/nfl/news/ravens-tyler-huntley-injury-update-turf-toe-out-for-season/",
+      "summary": "Baltimore will start undrafted rookie Joe Fagnano on Thursday",
+      "published": "Wed, 04 Nov 2026 13:49:16 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Week 9 QB Power Rankings: Familiar name returns to No. 1, Cam Ward crawls out of basement",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-qb-power-rankings-josh-allen-cam-ward/",
+      "summary": "Josh Allen returns to the top spot, Joe Burrow climbs into the top five and Patrick Mahomes moves up once again",
+      "published": "Wed, 04 Nov 2026 13:14:00 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Prisco's Week 9 NFL expert picks: Jaguars roll over Lamar Jackson-less Ravens, Cowboys rebound",
+      "url": "https://www.cbssports.com/nfl/news/priscos-week-9-nfl-expert-picks-jaguars-roll-over-lamar-jackson-less-ravens-cowboys-rebound/",
+      "summary": "Pete Prisco reveals all of his Week 9 picks, including the Bills handing the Vikings their second straight loss",
+      "published": "Wed, 04 Nov 2026 11:00:43 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "BUF",
+        "DAL",
+        "JAX",
+        "MIN"
       ]
     },
     {
@@ -401,24 +579,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "Week 9 NFL odds, lines, totals, spreads for every game, including Jaguars-Ravens, Jets-Chiefs, Giants-Eagles",
-      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-odds-lines-totals-spreads/",
-      "summary": "Check the Week 9 NFL odds, spreads, moneylines, and totals for all 15 games, including Ravens-Jaguars on TNF.",
-      "published": "Tue, 03 Nov 2026 20:05:56 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "JAX",
-        "KC",
-        "NYG",
-        "NYJ",
-        "PHI"
-      ]
     },
     {
       "title": "Jeremiyah Love's difficult rookie season takes another hit with trip to injured reserve",
@@ -662,145 +822,6 @@
         "CHI",
         "DAL",
         "SEA"
-      ]
-    },
-    {
-      "title": "NFL reinstates James Pearce Jr. after eight-game suspension: Why EDGE returns at critical time for Falcons",
-      "url": "https://www.cbssports.com/nfl/news/nfl-reinstates-james-pearce-jr-after-eight-game-suspension-falcons/",
-      "summary": "Pearce's insertion into the lineup could be the lift the Falcons need to emerge as the NFC South's top team",
-      "published": "Tue, 03 Nov 2026 01:09:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL"
-      ]
-    },
-    {
-      "title": "Bears vs. Seahawks odds, picks, player props: Expert's best bets for Monday Night Football in NFL Week 8",
-      "url": "https://www.cbssports.com/betting/news/bears-vs-seahawks-odds-picks-player-props-experts-best-bets-for-monday-night-football-in-nfl-week-8/",
-      "summary": "Take the points with the underdog in a projected prime-time shootout, plus target high-volume value on Jaxson Smith-Njigba and plus-money tight end props",
-      "published": "Tue, 03 Nov 2026 00:01:21 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Bears vs. Seahawks odds, betting preview, prediction, start time: Monday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/bears-vs-seahawks-odds-betting-preview-prediction-start-time-monday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Bears vs. Seahawks on Monday Night Football",
-      "published": "Mon, 02 Nov 2026 23:47:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Week 8 NFL betting promos: Get over $3,000 in bonuses from betting apps, sportsbooks for Bears-Seahawks",
-      "url": "https://www.cbssports.com/betting/news/week-8-nfl-betting-promos-get-over-3000-in-bonuses-from-betting-apps-sportsbooks-for-bears-seahawks/",
-      "summary": "Top Week 8 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Mon, 02 Nov 2026 23:44:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Is Jadarian Price playing on MNF? Latest Seahawks RB injury update for game vs. Bears",
-      "url": "https://www.cbssports.com/nfl/news/is-jadarian-price-playing-seahawks-bears-monday-night-football/",
-      "summary": "The Seahawks could activate Jadarian Price from injured reserve before Monday night's game, but Mike Macdonald offered few clues about the rookie's status",
-      "published": "Mon, 02 Nov 2026 23:25:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CHI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "Cardinals name Gardner Minshew as starter, Carson Beck No. 2: What's next for Jacoby Brissett?",
-      "url": "https://www.cbssports.com/nfl/news/cardinals-name-gardner-minshew-carson-beck-no-2-jacoby-brissett/",
-      "summary": "Brissett has been demoted to third string after Arizona's comeback win against the Cowboys",
-      "published": "Mon, 02 Nov 2026 22:27:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ARI",
-        "DAL"
-      ]
-    },
-    {
-      "title": "Seahawks vs. Bears prediction: Caleb Williams faces toughest test yet in Seattle defense",
-      "url": "https://www.cbssports.com/nfl/news/seahawks-vs-bears-how-to-watch-prediction-odds-caleb-williams/",
-      "summary": "The Bears take their surging offense into Seattle for a matchup with one of the NFL's best defenses",
-      "published": "Mon, 02 Nov 2026 22:12:55 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "1-on-1 with Pittsburgh's Jalen Ramsey: How he views state of the Steelers, offense's improvement",
-      "url": "https://www.cbssports.com/nfl/news/interview-pittsburghs-jalen-ramsey-state-of-steelers/",
-      "summary": "A Super Bowl champion with the Rams, Ramsey spoke with CBS Sports about where he sees the Steelers organization at 6-2 this season",
-      "published": "Mon, 02 Nov 2026 22:03:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Jack Campbell injury updates: Lions LB remains in hospital, but 'indications are positive'",
-      "url": "https://www.cbssports.com/nfl/news/lions-jack-campbell-injury-updates-vikings/",
-      "summary": "The All-Pro linebacker suffered what appeared to be a serious injury vs. the Vikings",
-      "published": "Mon, 02 Nov 2026 20:12:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DET",
-        "MIN"
-      ]
-    },
-    {
-      "title": "2026 NFL trade deadline QB rankings: Mac Jones, Kirk Cousins lead 10 best targets",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-qb-rankings-mac-jones-kirk-cousins/",
-      "summary": "With the Ravens, Eagles and other teams potentially searching for help, we rank 10 quarterbacks who could be available before the Nov. 10 deadline",
-      "published": "Mon, 02 Nov 2026 20:41:46 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "BAL",
-        "PHI"
       ]
     }
   ],
