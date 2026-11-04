@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-11-04T03:18:47.482440+00:00",
-  "checked_at_utc": "2026-11-04T03:18:47.482440+00:00",
+  "updated_at_utc": "2026-11-04T11:14:22.532209+00:00",
+  "checked_at_utc": "2026-11-04T11:14:22.532209+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 1,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -20,6 +20,20 @@
     }
   },
   "items": [
+    {
+      "title": "QB Notebook: Caleb Williams Has Erased All Doubts; The QB Teams Should Trade For",
+      "url": "https://www.foxsports.com/stories/nfl/qb-notebook-caleb-williams-has-erased-all-doubts-qb-teams-should-trade",
+      "summary": "Caleb Williams is disproving one narrative at a time, and there's one QB who has emerged as a clear trade candidate for the Ravens and Vikings.",
+      "published": "Tue, 03 Nov 2026 23:48:20 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "MIN"
+      ]
+    },
     {
       "title": "North Carolina State Considering 2 Former NFL Quarterbacks For Head Coaching Job",
       "url": "https://www.foxsports.com/stories/college-football/north-carolina-state-considering-2-former-nfl-quarterbacks-head-coaching-job",
@@ -259,27 +273,69 @@
       ]
     },
     {
-      "title": "NFL Week 8 All-Stars: Who Had A Better Sunday, Joe Burrow Or Trevor Lawrence?",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-8-all-stars-trevor-lawrence-bucky-irving-tee-higgins-jaguars-bengals",
-      "summary": "Week 8 brought an interesting debate over which QB performance was better between Joe Burrow and Trevor Lawrence.",
-      "published": "Mon, 02 Nov 2026 23:37:11 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Aaron Glenn says Breece Hall is Jets' starter despite Braelon Allen's emergence",
+      "url": "https://www.espn.com/nfl/story/_/id/50360481/jets-breece-hall-starter-braelon-allen",
+      "summary": "Braelon Allen has rushed for the second-most yards behind Bucky Irving in Breece Hall's five-game absence.",
+      "published": "2026-11-04T11:00:03Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "How Gary Kubiak paved the way for his sons, Klint, Klay and Klein, in the NFL",
+      "url": "https://www.espn.com/nfl/story/_/id/50373566/gary-klint-klay-klein-kubiak-family-legacy-raiders-49ers",
+      "summary": "Klint, Klay and Klein Kubiak are all on their respective NFL journeys. But their father, Gary, helped each along the way.",
+      "published": "2026-11-04T11:00:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": []
     },
     {
-      "title": "Panthers defenders: We're in 'great hands' after DC switch-up",
-      "url": "https://www.espn.com/nfl/story/_/id/50374068/carolina-panthers-defense-good-hands-coordinator-switch",
-      "summary": "Promoted from defensive line coach to coordinator, Todd Wash already has the support of the unit's leaders.",
-      "published": "2026-11-04T02:41:11Z",
+      "title": "Sam Darnold is struggling under pressure, but Seahawks being patient with O-line",
+      "url": "https://www.espn.com/nfl/story/_/id/50371759/nfl-seahawks-bears-sam-darnold-pressure",
+      "summary": "Seattle's trade for Quenton Nelson last week shuffled the offensive line ahead of their decisive loss to the Bears. Will the pass protection get better?",
+      "published": "2026-11-04T11:10:49Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CHI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "NFL Week 9 latest intel, buzz questions, fantasy tips and trade deadline news",
+      "url": "https://www.espn.com/nfl/story/_/id/50369642/week-9-buzz-fantasy-predictions-graziano-fowler-2026-trades",
+      "summary": "What now for the Ravens without Lamar Jackson? What are people around the NFL saying about Justin Herbert's struggles? And what's the latest on the looming trade deadline?",
+      "published": "2026-11-04T11:04:55Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Why Broncos rookie Jonah Coleman is primed to be Denver's primary running back",
+      "url": "https://www.espn.com/nfl/story/_/id/50370194/jonah-coleman-broncos-rookie-top-running-back",
+      "summary": "Coleman was Denver's primary running back during Sunday's comeback against the Chiefs and could thrive against the Panthers on Sunday.",
+      "published": "2026-11-04T11:00:10Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CAR"
+        "CAR",
+        "DEN",
+        "KC"
       ]
     },
     {
