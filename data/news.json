@@ -1,25 +1,77 @@
 {
-  "updated_at_utc": "2026-11-03T23:38:55.328969+00:00",
-  "checked_at_utc": "2026-11-03T23:38:55.328969+00:00",
+  "updated_at_utc": "2026-11-04T03:18:47.482440+00:00",
+  "checked_at_utc": "2026-11-04T03:18:47.482440+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 7,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 34
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 19,
+      "items": 20,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "North Carolina State Considering 2 Former NFL Quarterbacks For Head Coaching Job",
+      "url": "https://www.foxsports.com/stories/college-football/north-carolina-state-considering-2-former-nfl-quarterbacks-head-coaching-job",
+      "summary": "North Carolina State's head coaching search is revolving around multiple former NFL quarterbacks that once called NC State home.",
+      "published": "Tue, 03 Nov 2026 20:31:41 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Herd Hierarchy: Are The Bears The NFL\u2019s Best Team? Seahawks, Chiefs Slide",
+      "url": "https://www.foxsports.com/stories/nfl/herd-hierarchy-bears-nfls-best-team-seahawks-chiefs-slide",
+      "summary": "Cowherd revealed his latest Herd Hierarchy, featuring a new team at No. 1 after the defending champion Seahawks, last week\u2019s top team, fell to 4-4.",
+      "published": "Tue, 03 Nov 2026 20:09:08 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "KC",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Why This Might Be The Year That Joe Burrow, Bengals Get Over The Hump",
+      "url": "https://www.foxsports.com/stories/nfl/why-might-year-joe-burrow-bengals-get-over-hump",
+      "summary": "Our weekly look back on the league asks if Cincinnati is poised to end its playoff drought, ponders Drake London's prolific tackling and the rarity of kickoff return touchdowns.",
+      "published": "Tue, 03 Nov 2026 19:53:41 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN"
+      ]
+    },
+    {
+      "title": "Cardinals Place No. 3 Pick Jeremiyah Love On IR With High Ankle Sprain",
+      "url": "https://www.foxsports.com/stories/nfl/cardinals-rb-jeremiyah-love-goes-to-ir-with-high-ankle-sprain-in-another-setback",
+      "summary": "The Arizona Cardinals placed running back Jeremiyah Love on injured reserve with a high ankle sprain in another setback during his rookie season, the team announced on Tuesday.",
+      "published": "Tue, 03 Nov 2026 19:23:14 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ARI"
+      ]
+    },
     {
       "title": "Tom Brady Says Caleb Williams Is \u2018Perfect\u2019 Quarterback For Ben Johnson\u2019s Offense",
       "url": "https://www.foxsports.com/stories/nfl/tom-brady-says-caleb-williams-perfect-quarterback-ben-johnsons-offense",
@@ -218,131 +270,16 @@
       "teams": []
     },
     {
-      "title": "2026 NFL Power Rankings Week 9: Broncos, Bears Make Moves After Big Wins",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-9",
-      "summary": "Do we have new teams to beat in the AFC and NFC after Week 8? The Bears certainly made their case in the NFC as we determine that in this week's power rankings.",
-      "published": "Mon, 02 Nov 2026 23:36:19 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "DEN"
-      ]
-    },
-    {
-      "title": "NFL Best And Worst: From Christian Watson\u2019s Heroics To The Colts\u2019 Continued Collapse",
-      "url": "https://www.foxsports.com/stories/nfl/christian-watson-heroics-colts-collapse-lamar-jackson-dilemma",
-      "summary": "NFL Week 8 highs and lows: Christian Watson\u2019s dramatic return, Lamar Jackson\u2019s sudden exit, Denver\u2019s big stand and Indy\u2019s collapse.",
-      "published": "Mon, 02 Nov 2026 23:35:39 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "2026 Super Bowl Odds: Bears Soar After Routing Defending Champs",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "summary": "The Bears are surging up the Super Bowl oddsboard after a statement win in Seattle. See the latest odds after Week 8.",
-      "published": "Mon, 02 Nov 2026 23:32:33 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Josh Allen-produced short doc on Buffalo storm gets release date, trailer",
-      "url": "https://www.espn.com/nfl/story/_/id/50370431/buffalo-miracle-hbo-trailer-josh-allen",
-      "summary": "The short documentary on the once-in-a-generation Buffalo blizzard will be released on Nov. 24.",
-      "published": "2026-11-03T22:13:50Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Countdown to Super Bowl LXI: Top-10 lists, projections, rankings, more coverage",
-      "url": "https://www.espn.com/nfl/story/_/id/50119009/super-bowl-2027-lxi-countdown-top-10-lists-rankings",
-      "summary": "The Super Bowl is Feb. 14 on ESPN. We are counting down with all-time lists, predictions and unforgettable moments.",
-      "published": "2026-11-03T22:00:54Z",
+      "title": "Panthers defenders: We're in 'great hands' after DC switch-up",
+      "url": "https://www.espn.com/nfl/story/_/id/50374068/carolina-panthers-defense-good-hands-coordinator-switch",
+      "summary": "Promoted from defensive line coach to coordinator, Todd Wash already has the support of the unit's leaders.",
+      "published": "2026-11-04T02:41:11Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Bills release C.J. Gardner-Johnson after one-game spitting suspension",
-      "url": "https://www.espn.com/nfl/story/_/id/50372292/bills-release-safety-cj-gardner-johnson",
-      "summary": "The Bills have released safety C.J. Gardner-Johnson, the team announced Tuesday.",
-      "published": "2026-11-03T22:45:59Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
       "teams": [
-        "BUF"
-      ]
-    },
-    {
-      "title": "Saints release veteran kicker Daniel Carlson after he posted 2nd-worst FG% in NFL",
-      "url": "https://www.espn.com/nfl/story/_/id/50372284/saints-release-veteran-kicker-daniel-carlson-7-games",
-      "summary": "Veteran kicker Daniel Carlson, whose 66.7% accuracy on field goals was tied for second worst in the NFL this season, was released by the Saints on Tuesday.",
-      "published": "2026-11-03T22:52:56Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NO"
-      ]
-    },
-    {
-      "title": "Giants, CB Greg Newsome II agree to 3-year, $46M extension",
-      "url": "https://www.espn.com/nfl/story/_/id/50372281/giants-cb-greg-newsome-ii-agree-3-year-46m-extension",
-      "summary": "The Giants have reached agreement with cornerback Greg Newsome II on a three-year, $46 million extension, his agents told ESPN's Adam Schefter.",
-      "published": "2026-11-03T22:50:15Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Source: Colts, Adetomiwa Adebawore agree to 2-year, $35M extension",
-      "url": "https://www.espn.com/nfl/story/_/id/50371976/source-colts-adetomiwa-adebawore-reach-2-year-35m-deal",
-      "summary": "The Colts and defensive tackle Adetomiwa Adebawore have agreed to terms on a two-year, $35 million extension, a source told NFL Network's Mike Garafolo.",
-      "published": "2026-11-03T22:23:25Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "Rookie Joe Fagnano to start Thursday night vs. Jaguars, Jesse Minter says",
-      "url": "https://www.espn.com/nfl/story/_/id/50371730/rookie-joe-fagnano-start-thursday-night-vs-jaguars",
-      "summary": "Ravens rookie quarterback Joe Fagnano will start Thursday night's game against the Jaguars, coach Jesse Minter announced Tuesday.",
-      "published": "2026-11-03T23:33:00Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "JAX"
+        "CAR"
       ]
     },
     {
@@ -780,6 +717,34 @@
       "teams": [
         "LA",
         "PIT"
+      ]
+    },
+    {
+      "title": "Jack Campbell injury updates: Lions LB remains in hospital, but 'indications are positive'",
+      "url": "https://www.cbssports.com/nfl/news/lions-jack-campbell-injury-updates-vikings/",
+      "summary": "The All-Pro linebacker suffered what appeared to be a serious injury vs. the Vikings",
+      "published": "Mon, 02 Nov 2026 20:12:52 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET",
+        "MIN"
+      ]
+    },
+    {
+      "title": "2026 NFL trade deadline QB rankings: Mac Jones, Kirk Cousins lead 10 best targets",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-qb-rankings-mac-jones-kirk-cousins/",
+      "summary": "With the Ravens, Eagles and other teams potentially searching for help, we rank 10 quarterbacks who could be available before the Nov. 10 deadline",
+      "published": "Mon, 02 Nov 2026 20:41:46 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "PHI"
       ]
     }
   ],
