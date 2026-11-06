@@ -1,25 +1,89 @@
 {
-  "updated_at_utc": "2026-11-06T16:11:16.318746+00:00",
-  "checked_at_utc": "2026-11-06T16:11:16.318746+00:00",
+  "updated_at_utc": "2026-11-06T21:30:51.914850+00:00",
+  "checked_at_utc": "2026-11-06T21:30:51.914850+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 9,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 28
+      "items": 29
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 20,
+      "items": 23,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Sean McVay Gives Myles Garrett Update For Rams; Superstar Poised To Return?",
+      "url": "https://www.foxsports.com/stories/nfl/myles-garrett-injury-update-rams-news",
+      "summary": "The Los Angeles Rams are expected to activate superstar pass rusher Myles Garrett from injured reserve for Week 9.",
+      "published": "Fri, 06 Nov 2026 14:57:51 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "Patriots RB Henderson Reveals Hospitalization For Neurological Symptoms",
+      "url": "https://www.foxsports.com/stories/nfl/new-england-patriots-treveyon-henderson-hospital-tests",
+      "summary": "The Patriots running back revealed he has spent several days in the hospital to determine the cause of unexplained neurological symptoms that have affected his strength and coordination.",
+      "published": "Fri, 06 Nov 2026 14:13:50 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "Browns QB Deshaun Watson In Concussion Protocol; Will Shedeur Sanders Start?",
+      "url": "https://www.foxsports.com/stories/nfl/deshaun-watson-concussion-injury-update-browns-shedeur-sanders",
+      "summary": "Shedeur Sanders will start at quarterback for the Browns in Week 9 against the Saints, as Deshaun Watson deals with a head injury.",
+      "published": "Fri, 06 Nov 2026 13:57:05 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CLE",
+        "NO"
+      ]
+    },
+    {
+      "title": "NFL Reportedly Tells Brandon Aiyuk He Owes 49ers About $13 Million",
+      "url": "https://www.foxsports.com/stories/nfl/san-francisco-49ers-brandon-aiyuk-reinstatement-bonuses",
+      "summary": "The NFL told receiver Brandon Aiyuk that he needs to repay the San Francisco 49ers about $13 million he in bonuses as he tries to get reinstated to the team\u2019s roster.",
+      "published": "Fri, 06 Nov 2026 13:09:37 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "Where Everybody Knows His Name: Boston Bartenders Reflect On Tom Brady's Impact",
+      "url": "https://www.foxsports.com/stories/nfl/boston-bartenders-reflect-tom-brady-impact-boston",
+      "summary": "As Tom Brady returns to Gillette Stadium as a broadcaster, we spoke with local bartenders about his lasting legacy on the Boston sports community.",
+      "published": "Fri, 06 Nov 2026 11:55:14 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "2026 NFL Odds Week 9: Lines, Spreads, Results For All 15 Games",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-9-lines-spreads-results-all-15-games",
@@ -249,41 +313,193 @@
       "teams": []
     },
     {
-      "title": "NFL Catchup: Ravens Trade For Jacoby Brissett; Myles Garrett, Micah Parsons Practice",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-catchup-ravens-trade-jacoby-brissett-myles-garrett-micah-parsons-practice",
-      "summary": "Here's the latest news from around the NFL ahead of Week 9.",
-      "published": "Wed, 04 Nov 2026 19:56:54 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Joe Burrow makes time for art in Madrid ahead of Bengals-Falcons",
+      "url": "https://www.espn.com/nfl/story/_/id/50400935/joe-burrow-madrid-art-museum-bengals-falcons",
+      "summary": "While in Spain, the Bengals quarterback is finding time for one of his off-field interests: art.",
+      "published": "2026-11-06T19:05:40Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "qb",
       "teams": [
-        "BAL"
+        "ATL",
+        "CIN"
       ]
     },
     {
-      "title": "Tom Brady's NFL Power Rankings: Are The Bears Really The Best Team In The League?",
-      "url": "https://www.foxsports.com/stories/nfl/tom-bradys-nfl-power-rankings-bears-bills-49ers-patriots-chiefs-lions-broncos",
-      "summary": "Was the Bears' win over the Seahawks convincing enough to put them at No. 1 over the Bills, 49ers and Broncos in Tom Brady's power rankings?",
-      "published": "Wed, 04 Nov 2026 19:35:37 -0500",
-      "source": "FOX Sports NFL",
+      "title": "3 ways Browns QB Shedeur Sanders can show growth vs. Saints",
+      "url": "https://www.espn.com/nfl/story/_/id/50399074/cleveland-browns-qb-shedeur-sanders-start-growth-saints",
+      "summary": "The opportunity is a big one as the second-year quarterback's first start of the season comes at a critical time.",
+      "published": "2026-11-06T19:07:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CLE",
+        "NO"
+      ]
+    },
+    {
+      "title": "Cowboys' Jerry Jones says paying coaches never been an issue",
+      "url": "https://www.espn.com/nfl/story/_/id/50400964/cowboys-jerry-jones-says-paying-coaches-never-issue",
+      "summary": "Defending comments he made earlier in the week, Cowboys owner and GM Jerry Jones said it's \"ridiculous\" to think he would let money stop him from hiring a head coach.",
+      "published": "2026-11-06T19:08:28Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BUF",
-        "CHI",
-        "DEN",
-        "SEA",
-        "SF"
+        "DAL"
       ]
     },
     {
-      "title": "Patriots' TreVeyon Henderson affected by neurological symptoms",
-      "url": "https://www.espn.com/nfl/story/_/id/50400016/patriots-treveyon-henderson-affected-neurological-symptoms",
-      "summary": "Patriots RB TreVeyon Henderson said tests have come back positive after he suffered \"unexplained neurological symptoms\" that remain \"unknown and unexplainable.\"",
-      "published": "2026-11-06T16:10:24Z",
+      "title": "Browns to start Sanders at QB vs. Saints with Watson in protocol",
+      "url": "https://www.espn.com/nfl/story/_/id/50400928/browns-start-shedeur-sanders-qb-vs-saints",
+      "summary": "The Browns will start Shedeur Sanders at quarterback against the Saints as Deshaun Watson remains in the concussion protocol.",
+      "published": "2026-11-06T18:56:40Z",
       "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CLE",
+        "NO"
+      ]
+    },
+    {
+      "title": "Rams' Myles Garrett to be activated from injured reserve, play vs. Commanders",
+      "url": "https://www.espn.com/nfl/story/_/id/50400738/sources-rams-myles-garrett-track-return-vs-commanders",
+      "summary": "Rams star pass rusher Myles Garrett is on track to be activated from injured reserve ahead of Sunday's game at the Commanders.",
+      "published": "2026-11-06T20:35:55Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Former NFL WR Antonio Brown avoids jail time in 2025 shooting case in Miami",
+      "url": "https://www.espn.com/nfl/story/_/id/50400733/antonio-brown-pleads-guilty-lesser-charge-shooting-case",
+      "summary": "Former NFL star Antonio Brown was sentenced to three years' probation Friday after pleading guilty to a lesser charge of aggravated assault with a firearm stemming from a 2025 shooting in Miami.",
+      "published": "2026-11-06T19:04:46Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL trade deadline grades: Deals for Jacoby Brissett, Jeffery Simmons, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "summary": "Wise move for the Ravens to add Jacoby Brissett? Did the Bears give up too much to go all-in with Jeffery Simmons? Let's evaluate eight trades before the deadline.",
+      "published": "2026-11-06T18:25:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "CHI"
+      ]
+    },
+    {
+      "title": "Dolphins to get rookie OL Kadyn Proctor back from concussion",
+      "url": "https://www.espn.com/nfl/story/_/id/50400507/dolphins-get-rookie-ol-kadyn-proctor-back-concussion",
+      "summary": "Dolphins left guard Kadyn Proctor has cleared concussion protocol and will play Sunday against the Lions, coach Jeff Hafley said.",
+      "published": "2026-11-06T17:24:08Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET",
+        "MIA"
+      ]
+    },
+    {
+      "title": "2026 NFL trade deadline updates: Jacoby Brissett, Jeffery Simmons on the move",
+      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
+      "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including Jacoby Brissett to Baltimore.",
+      "published": "2026-11-06T20:04:33Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Is Drew Mestemaker really QB1? A troubling trend and lessons from Caleb Williams, Trevor Lawrence",
+      "url": "https://www.cbssports.com/nfl/draft/news/is-drew-mestemaker-really-qb1-troubling-trend-lessons-from-caleb-williams-trevor-lawrence/",
+      "summary": "The Oklahoma State QB has become a popular QB1 choice, but his mistakes under pressure offer a warning \u2013 and some fascinating historical comparisons.",
+      "published": "Fri, 06 Nov 2026 20:16:17 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Antonio Brown avoids jail time, receives punishment after plea deal in Miami shooting",
+      "url": "https://www.cbssports.com/nfl/news/steelers-bucs-antonio-brown-takes-plea-deal-in-miami-shooting/",
+      "summary": "The former NFL star was accused of opening fire at a man last year",
+      "published": "Fri, 06 Nov 2026 20:03:20 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL in Spain: Bengals star Joe Burrow goes full tourist in Madrid, reveals the one thing he hates the most",
+      "url": "https://www.cbssports.com/nfl/news/nfl-spain-bengals-joe-burrow-full-tourist-in-madrid/",
+      "summary": "The Bengals are fully enjoying their time in the Spanish capital, which has been taken over by Cincinnati fans",
+      "published": "Fri, 06 Nov 2026 19:08:24 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN"
+      ]
+    },
+    {
+      "title": "Browns name starting QB for Week 9 game vs. Saints: Shedeur Sanders gets nod over Deshaun Watson",
+      "url": "https://www.cbssports.com/nfl/news/browns-name-starting-qb-week-9-saints-shedeur-sanders-deshaun-watson/",
+      "summary": "Sanders briefly replaced Watson during last Sunday's loss in Pittsburgh",
+      "published": "Fri, 06 Nov 2026 18:56:49 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CLE",
+        "NO"
+      ]
+    },
+    {
+      "title": "Myles Garrett on track to be activated ahead of Rams Week 9 matchup vs. Commanders",
+      "url": "https://www.cbssports.com/nfl/news/myles-garrett-injury-status-rams-week-9-vs-commanders/",
+      "summary": "Los Angeles could be getting its star pass rusher back",
+      "published": "Fri, 06 Nov 2026 19:38:55 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "LA",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Patriots' TreVeyon Henderson provides update on 'unknown and unexplainable' illness",
+      "url": "https://www.cbssports.com/nfl/news/patriots-treveyon-henderson-update-unknown-unexplainable-illness/",
+      "summary": "The second-year back spent several days in the hospital with neurological symptoms that affected his strength and coordination",
+      "published": "Fri, 06 Nov 2026 16:55:37 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -292,31 +508,101 @@
       ]
     },
     {
-      "title": "Where to watch NFL Madrid game: Bengals vs. Falcons",
-      "url": "https://www.espn.com/nfl/story/_/id/50399475/watch-2026-nfl-paris-game-bengals-vs-falcons",
-      "summary": "The NFL takes a trip to Spain.",
-      "published": "2026-11-06T14:47:59Z",
-      "source": "ESPN NFL",
+      "title": "Chargers' Mike McDaniel to begin calling play from the booth: Desperation move or possible fix?",
+      "url": "https://www.cbssports.com/nfl/news/chargers-mike-mcdaniel-calling-play-from-booth-desperation-move/",
+      "summary": "Los Angeles enters Week 9 with a 0-7 record",
+      "published": "Fri, 06 Nov 2026 16:38:58 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL",
-        "CIN"
+        "LAC"
       ]
     },
     {
-      "title": "Bills vs. Vikings: Where to watch 'Monday Night Football'",
-      "url": "https://www.espn.com/nfl/story/_/id/50392822/bills-vs-vikings-watch-monday-night-football-week-9",
-      "summary": "Here's what to know about the Week 9 matchup.",
-      "published": "2026-11-06T13:55:51Z",
-      "source": "ESPN NFL",
+      "title": "Jacoby Brissett trade grades: Cardinals earn high mark, Ravens stay afloat in mutually beneficial trade",
+      "url": "https://www.cbssports.com/nfl/news/jacoby-brissett-trade-grades-cardinals-ravens-trade-deadline/",
+      "summary": "The Ravens needed a quarterback, and the Cardinals got valuable draft capital",
+      "published": "Fri, 06 Nov 2026 16:30:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "ARI",
+        "BAL"
+      ]
+    },
+    {
+      "title": "Week 9 NFL betting promos: Get over $3,000 in bonuses from betting apps, sportsbooks, DraftKings, BetMGM",
+      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-promos-get-over-3000-in-bonuses-from-betting-apps-sportsbooks-draftkings-betmgm/",
+      "summary": "Top Week 9 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Fri, 06 Nov 2026 16:22:16 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 9 NFL odds, lines, totals, spreads for every game, including Cowboys-Colts, Jets-Chiefs, Giants-Eagles",
+      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-lines-odds-spreads-totals/",
+      "summary": "Check the Week 9 NFL odds, spreads, moneylines, and totals for all 15 games, including Bears-Buccaneers",
+      "published": "Fri, 06 Nov 2026 16:15:27 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BUF",
-        "MIN"
+        "CHI",
+        "DAL",
+        "IND",
+        "KC",
+        "NYG",
+        "NYJ",
+        "PHI",
+        "TB"
+      ]
+    },
+    {
+      "title": "Frustrated Derrick Henry responds to trade rumors following Ravens brutal 'TNF' loss to Jaguars",
+      "url": "https://www.cbssports.com/nfl/news/ravens-derrick-henry-trade-rumor-thoughts-nfl-trade-deadline/",
+      "summary": "Henry was not a happy camper after Baltimore's fourth straight setback",
+      "published": "Fri, 06 Nov 2026 16:14:11 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "JAX"
+      ]
+    },
+    {
+      "title": "NFL Week 9 odds, picks: Brinson's best bets, player props, anytime touchdown scorers for Sunday's games",
+      "url": "https://www.cbssports.com/betting/news/nfl-week-9-odds-picks-brinsons-best-bets-player-props-anytime-touchdown-scorers-for-sundays-games/",
+      "summary": "Back the Colts as dogs against Dallas, trust New England in Foxborough and target a low rushing total for Ashton Jeanty",
+      "published": "Fri, 06 Nov 2026 15:52:22 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "NFL Trade Deadline: 4 mock trades that would make Steelers a true Super Bowl contender",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-4-trade-options-steelers-super-bowl-contender/",
+      "summary": "Pittsburgh needs to make the most of its 6-2 start while giving Aaron Rodgers a real chance to win big in his final season",
+      "published": "Fri, 06 Nov 2026 15:30:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PIT"
       ]
     },
     {
@@ -533,163 +819,6 @@
       "teams": [
         "BAL",
         "JAX"
-      ]
-    },
-    {
-      "title": "Week 9 NFL betting promos: Get over $3,000 in bonuses from betting apps, sportsbooks for Ravens vs. Jaguars",
-      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-promos-get-over-3000-in-bonuses-from-betting-apps-sportsbooks-for-ravens-jaguars/",
-      "summary": "Top Week 9 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Thu, 05 Nov 2026 23:17:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Cowboys stars reject George Pickens trade talk ahead of NFL deadline",
-      "url": "https://www.cbssports.com/nfl/news/george-pickens-trade-rumors-cowboys-nfl-deadline/",
-      "summary": "As speculation builds about Pickens' future in Dallas, Prescott praised him as a teammate and Lamb explained how the receiver changes opposing defenses",
-      "published": "Thu, 05 Nov 2026 22:52:14 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Is Bhayshul Tuten playing on TNF? A look at the Jaguars RB's status against Ravens",
-      "url": "https://www.cbssports.com/nfl/news/jaguars-vs-ravens-bhayshul-tuten-status-tnf/",
-      "summary": "Tuten hasn't practiced all week while dealing with ankle and foot injuries",
-      "published": "Thu, 05 Nov 2026 22:14:40 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Why Jordan Love could face an NFL fine over Halloween costume",
-      "url": "https://www.cbssports.com/nfl/news/jordan-love-halloween-costume-nfl-fine/",
-      "summary": "Love and his wife dressed as \"blind refs\" less than a week after controversial calls contributed to a Packers loss",
-      "published": "Thu, 05 Nov 2026 22:11:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB"
-      ]
-    },
-    {
-      "title": "Ravens vs. Jaguars prediction: Does Lamar Jackson-less Baltimore have any chance in 'TNF' matchup?",
-      "url": "https://www.cbssports.com/nfl/news/ravens-vs-jaguars-how-to-watch-odds-spread-prediction/",
-      "summary": "How to watch, what to know and a prediction as Jacksonville heads to Baltimore to open Week 9",
-      "published": "Thu, 05 Nov 2026 20:02:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Vikings make QB change: Carson Wentz to start vs. Bills as Kyler Murray deals with injury",
-      "url": "https://www.cbssports.com/nfl/news/vikings-qb-change-carson-wentz-start-vs-bills-kyler-murry-injury/",
-      "summary": "Wentz is now starting at QB for Minnesota after the underperforming Murray suffered a hamstring strain",
-      "published": "Thu, 05 Nov 2026 19:16:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BUF",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Great player, bad pick? Ashton Jeanty, Jeremiyah Love and the high price of drafting a RB in the top 10",
-      "url": "https://www.cbssports.com/nfl/news/great-player-bad-pick-ashton-jeanty-jeremiyah-love-drafting-rb-in-top-10/",
-      "summary": "The Raiders and Cardinals spent premium picks on RBs. Their slow starts raise a bigger question about draft value and missed opportunities.",
-      "published": "Thu, 05 Nov 2026 17:02:13 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "LV"
-      ]
-    },
-    {
-      "title": "Pick Six: Ravens-Jags picks, plus what you need to know about the NFL heading into Week 9",
-      "url": "https://www.cbssports.com/nfl/news/pick-six-ravens-jags-picks-what-to-know-about-nfl-week-9/",
-      "summary": "Here's everything you need to know about the NFL for Nov. 5",
-      "published": "Thu, 05 Nov 2026 16:43:13 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "Josh Jacobs addresses latest allegations after being accused of abuse by three more women",
-      "url": "https://www.cbssports.com/nfl/news/packers-josh-jacobs-addresses-latest-allegations/",
-      "summary": "Jacobs and his attorneys dismissed the allegations as false",
-      "published": "Thu, 05 Nov 2026 16:21:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 midseason rookie grades: Ranking the early hits, misses and biggest surprises",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-rookie-grades-midseason-surprises/",
-      "summary": "Grading every first-round pick after eight weeks, from breakout stars to disappointing starts. Plus, 10 Day 2 and Day 3 rookies making their mark.",
-      "published": "Thu, 05 Nov 2026 15:41:26 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Why Vikings coach Kevin O'Connell should be on hot seat despite NFL-best 6-1 record",
-      "url": "https://www.cbssports.com/nfl/news/why-vikings-coach-kevin-oconnell-should-be-on-hot-seat/",
-      "summary": "O'Connell's handling of his quarterback position and currently sagging offense merits a closer look",
-      "published": "Thu, 05 Nov 2026 15:34:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "Micah Parsons details why knee recovery has taken so long, refuses to set timeline for Packers return",
-      "url": "https://www.cbssports.com/nfl/news/packers-micah-parsons-update-details-timeline-for-return/",
-      "summary": "Parsons has been out since tearing his ACL late last season",
-      "published": "Thu, 05 Nov 2026 14:57:12 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB"
       ]
     }
   ],
