@@ -1,25 +1,62 @@
 {
-  "updated_at_utc": "2026-11-05T21:12:09.682831+00:00",
-  "checked_at_utc": "2026-11-05T21:12:09.682831+00:00",
+  "updated_at_utc": "2026-11-06T01:35:30.809880+00:00",
+  "checked_at_utc": "2026-11-06T01:35:30.809880+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 11,
+      "items": 18,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 31
+      "items": 30
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 23,
+      "items": 19,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "How A Goofy Rookie Called 'Gronk' Transformed Into The Best Tight End Ever",
+      "url": "https://www.foxsports.com/stories/nfl/how-rob-gronkowski-transformed-best-tight-end-all-time",
+      "summary": "As Rob Gronkowski enters the Patriots' Hall of Fame, we look back at where it all began to unearth the birth of the legend of \"The Gronk.\"",
+      "published": "Thu, 05 Nov 2026 19:21:55 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "Who Are Tom Brady's Top 4 NFL MVP Candidates? The GOAT Assesses The Favorites",
+      "url": "https://www.foxsports.com/stories/nfl/tom-brady-nfl-mvp-candidates-josh-allen",
+      "summary": "Tom Brady shared four players he believes are vying for the NFL MVP award.",
+      "published": "Thu, 05 Nov 2026 18:46:24 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Will Hill's Parlay Of The Week: Back Bears To Keep Winning; Gophers To Cover",
+      "url": "https://www.foxsports.com/stories/nfl/will-hills-parlay-week-back-bears-keep-winning-gophers-cover",
+      "summary": "Check out Will Hill's five-leg parlay, including another win for the Bears and a tight Big Ten contest.",
+      "published": "Thu, 05 Nov 2026 16:57:10 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
     {
       "title": "2026 NFL Week 9 Picks: Best Bets For Every Game \u2014 Will's Wagers",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-9-picks-best-bets-every-game-wills-wagers",
@@ -133,19 +170,6 @@
       ]
     },
     {
-      "title": "How A Goofy Rookie Called 'Gronk' Transformed Into The Best Tight End Ever",
-      "url": "https://www.foxsports.com/stories/nfl/how-rob-gronkowski-transformed-best-tight-end-all-time",
-      "summary": "As Rob Gronkowski enters the Patriots' Hall of Fame, we look back at where it all began to unearth the birth of the legend of \"The Gronk.\"",
-      "published": "Thu, 05 Nov 2026 10:00:17 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
       "title": "2026 NFL Odds Week 9: Lines, Spreads, Results For All 15 Games",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-9-lines-spreads-results-all-15-games",
       "summary": "Check out the odds for every Week 9 NFL game.",
@@ -241,63 +265,173 @@
       ]
     },
     {
-      "title": "Ravens Finalizing Trade For Jacoby Brissett With Lamar Jackson, Tyler Huntley Out",
-      "url": "https://www.foxsports.com/stories/nfl/jacoby-brissett-named-baltimore-ravens-starter-trade",
-      "summary": "The Ravens are reportedly finalizing a trade for Arizona Cardinals quarterback Jacoby Brissett.",
-      "published": "Wed, 04 Nov 2026 15:23:45 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Jaguars-Ravens highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50394179/best-plays-moments-touchdowns-more",
+      "summary": "Here are the best plays from Jags-Ravens on Thursday Night Football.",
+      "published": "2026-11-06T01:13:55Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "game",
       "teams": [
-        "ARI",
-        "BAL"
+        "BAL",
+        "JAX"
       ]
     },
     {
-      "title": "Jets Star Garrett Wilson In Concussion Protocol; Week 9 Status In Doubt",
-      "url": "https://www.foxsports.com/stories/nfl/garrett-wilson-concussion-protocol-jets-chiefs-injury-report",
-      "summary": "Jets star wide receiver Garrett Wilson is in the concussion protocol and his availability for Sunday against the Chiefs is uncertain.",
-      "published": "Wed, 04 Nov 2026 15:08:27 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Browns and Saints try to stay close to their division leaders as they meet in New Orleans",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873039",
+      "summary": "\u2014 The Cleveland Browns are two games above .500 but find themselves in third place in the AFC North and seeking a victory to keep pace with first-place Pittsburgh and second-place Cincinnati.",
+      "published": "2026-11-06T00:39:40Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
       "teams": [
-        "KC",
-        "NYJ"
+        "CLE",
+        "NO"
       ]
     },
     {
-      "title": "2026 NFL Odds: Will There Be A First-Time Super Bowl Winner?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-will-first-time-super-bowl-winner",
-      "summary": "Will one of 12 teams win its first-ever Super Bowl this year? See the odds, the history and what to know.",
-      "published": "Wed, 04 Nov 2026 15:03:59 -0500",
-      "source": "FOX Sports NFL",
+      "title": "NFL Week 9 arrivals: Trevor Lawrence doubles up on denim, Ethan Burke reps Ovechkin",
+      "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
+      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-06T00:38:13Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Seahawks HC Mike Macdonald Reveals QB Sam Darnold Injury, Talks Week 9 Status",
-      "url": "https://www.foxsports.com/stories/nfl/sam-darnold-injury-news-seahawks-cardinals-mike-macdonald-presser",
-      "summary": "Seattle Seahawks head coach Mike Macdonald revealed that quarterback Sam Darnold will miss Week 9 due to a quad injury.",
-      "published": "Wed, 04 Nov 2026 14:54:51 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Jordan Love, Drake Maye represent new era in Packers-Patriots matchup",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873049",
+      "summary": "\u2014 The Green Bay Packers and New England Patriots don\u2019t...",
+      "published": "2026-11-06T00:15:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "NE"
+      ]
+    },
+    {
+      "title": "Jaguars' Bhayshul Tuten, Travon Walker will face Ravens on TNF",
+      "url": "https://www.espn.com/nfl/story/_/id/50393654/jaguars-bhayshul-tuten-travon-walker-active-vs-ravens",
+      "summary": "Jaguars running back Bhayshul Tuten and defensive end Travon Walker are active for Thursday night's game against the Baltimore Ravens.",
+      "published": "2026-11-06T00:16:20Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "JAX"
+      ]
+    },
+    {
+      "title": "Commanders offensive line preparing for challenge from Rams defensive front",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873043",
+      "summary": "\u2014 The Los Angeles Rams ' defensive line can be a massive challenge for opposing offensive lines.",
+      "published": "2026-11-05T23:41:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Jets' Breece Hall says he's ready to play, cites threats for social media exit",
+      "url": "https://www.espn.com/nfl/story/_/id/50393506/jets-breece-hall-return-chiefs-social-media-threats",
+      "summary": "Breece Hall proclaimed himself ready to play Sunday after missing five games with a quad injury -- a period in which he received hostile social media messages.",
+      "published": "2026-11-06T00:10:29Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Justin Jefferson high on Vikings' offensive potential, doesn't want to waste it",
+      "url": "https://www.espn.com/nfl/story/_/id/50393433/justin-jefferson-says-vikings-need-figure-offense",
+      "summary": "Speaking for the first time since his frustrations overflowed in Detroit, Justin Jefferson said of the Vikings' offense: \"We've got to figure out that answer and figure it out fast.\"",
+      "published": "2026-11-05T23:53:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "Dolphins host Lions with Hafley's team aiming for grit that Campbell has built in Detroit",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873042",
+      "summary": "\u2014 When Dan Campbell was hired as the Lions' head coach in 2021, he famously declared that Detroit would be a team that would \u201cbite...",
+      "published": "2026-11-05T23:23:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "MIA"
+      ]
+    },
+    {
+      "title": "Seahawks' Lock says elbow feeling 'better' ahead of start vs. Cardinals",
+      "url": "https://www.espn.com/nfl/story/_/id/50393350/seahawks-drew-lock-says-elbow-feeling-better-ahead-start-vs-cardinals",
+      "summary": "Seattle Seahawks backup quarterback Drew Lock, who's in line to start this week with Sam Darnold sidelined, says the elbow injury that made him inactive for the past two games is \"doing a lot better.\"",
+      "published": "2026-11-06T00:34:45Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ARI",
         "SEA"
       ]
     },
     {
-      "title": "Eagles Reportedly Making QB Change, Will Start Joe Milton vs. Giants",
-      "url": "https://www.foxsports.com/stories/nfl/eagles-name-joe-milton-starter-giants-tanner-mckee",
-      "summary": "Joe Milton III will reportedly start at quarterback for the Philadelphia Eagles against the New York Giants, replacing Tanner McKee.",
-      "published": "Wed, 04 Nov 2026 14:48:34 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Cowboys laud mental health program put in place after Marshawn Kneeland's death",
+      "url": "https://www.espn.com/nfl/story/_/id/50393344/cowboys-laud-program-help-deal-mental-health-issues",
+      "summary": "With Friday marking one year since the death of Marshawn Kneeland, Cowboys players took time to reflect on the team's effort to deal with mental health issues.",
+      "published": "2026-11-06T00:18:14Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Former Cougars QB Minshew returns to Washington with Arizona to face the Seahawks",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873048",
+      "summary": "The Cardinals are looking for quarterback Gardner Minshew to recapture some of his Washington State magic on Sunday when Arizona visits the Seattle Seahawks.",
+      "published": "2026-11-05T23:12:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ARI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Giants try to end 13-game losing streak in Philadelphia, as Eagles turn to 3rd-string QB Milton",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873044",
+      "summary": "\u2014 The New York Giants could practically mark an \u2018L\u2019 on their schedule each season as soon as they saw their date in Philadelphia.",
+      "published": "2026-11-05T22:22:34Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
@@ -307,23 +441,52 @@
       ]
     },
     {
-      "title": "Chiefs Stick With Struggling Harrison Butker Despite Justin Tucker Signing",
-      "url": "https://www.foxsports.com/stories/nfl/chiefs-stick-with-embattled-harrison-butker-for-jets-game-after-another-costly-miss-in-denver",
-      "summary": "The Kansas City Chiefs are sticking with kicker Harrison Butker despite recent struggles",
-      "published": "Wed, 04 Nov 2026 14:39:29 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Stumbling Texans and winless Chargers meet in a matchup of NFL disappointments",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873046",
+      "summary": "\u2014 The Houston Texans and Los Angeles...",
+      "published": "2026-11-05T22:08:35Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Panthers place focus on stopping the run vs. Broncos following defensive coordinator change",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873041",
+      "summary": "\u2014 Carolina Panthers coach Dave Canales offered one overriding requisition to Todd Wash after promoting him to interim defensive coordinator last week: \"Stop the run.\"",
+      "published": "2026-11-05T22:04:36Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "DEN"
+      ]
+    },
+    {
+      "title": "Jonathan Taylor turns trade talk into 'regular scheduled programming' as Colts and Cowboys meet",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873040",
+      "summary": "\u2014 Jonathan Taylor has grown accustomed to playing football as the rumor mill spins.",
+      "published": "2026-11-05T21:38:34Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "KC"
+        "DAL",
+        "IND"
       ]
     },
     {
       "title": "Chiefs WR Rashee Rice files for bankruptcy, claims he owes over $3.45M in debts",
       "url": "https://www.espn.com/nfl/story/_/id/50391911/chiefs-rashee-rice-files-bankruptcy-cites-345m-debt",
       "summary": "Chiefs wide receiver Rashee Rice filed for bankruptcy in federal court, claiming he has more than $3.45 million in debts.",
-      "published": "2026-11-05T20:56:07Z",
+      "published": "2026-11-05T21:20:36Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -336,7 +499,7 @@
       "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
       "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
       "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "published": "2026-11-05T20:42:29Z",
+      "published": "2026-11-06T00:53:52Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -347,125 +510,115 @@
       ]
     },
     {
-      "title": "The Raiders make their return to the Bay Area when they take on the 49ers",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873047",
-      "summary": "\u2014 Maxx Crosby is one of the few remaining players on the Raiders with ties to the team's old home in Oakland, making this week's trip to play the",
-      "published": "2026-11-05T20:11:34Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LV",
-        "SF"
-      ]
-    },
-    {
-      "title": "Irving and the Buccaneers visit Swift and the Bears in a matchup of the NFL's top rushing teams",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873050",
-      "summary": "\u2014 Chicago Bears coach Ben Johnson knows a little something about a successful rushing attack. And he's impressed with Tampa Bay's ground game.",
-      "published": "2026-11-05T20:10:37Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "TB"
-      ]
-    },
-    {
-      "title": "The Chiefs welcome the Jets to Arrowhead Stadium on Sunday with both teams desperate for a win",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873045",
-      "summary": "\u2014 The Kansas City Chiefs started the season with five straight wins, nearly matching their total from all of last season, when their run of three consecutive Super Bowl appearances came crashing down with a forgettable six-win campaign.",
-      "published": "2026-11-05T19:17:35Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Bengals' Burrow is looking to extend 3-game winning streak against Penix and Falcons in Madrid",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873038",
-      "summary": "Cincinnati's Joe Burrow and Atlanta's Michael Penix Jr. experienced dramatically different lead-in games to Sunday's matchup between the Bengals and Falcons in Madrid, Spain.",
-      "published": "2026-11-05T19:17:34Z",
-      "source": "ESPN NFL",
+      "title": "Prisco's Week 9 NFL expert picks: Bengals rout Falcons in Madrid, Cowboys rebound",
+      "url": "https://www.cbssports.com/nfl/news/priscos-week-9-nfl-expert-picks-jaguars-roll-over-lamar-jackson-less-ravens-cowboys-rebound/",
+      "summary": "Pete Prisco reveals all of his Week 9 picks, including the Bills handing the Vikings their second straight loss",
+      "published": "Fri, 06 Nov 2026 01:27:51 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
         "ATL",
-        "CIN"
-      ]
-    },
-    {
-      "title": "Vikings to start QB Carson Wentz against Bills with Kyler Murray ruled out",
-      "url": "https://www.espn.com/nfl/story/_/id/50390732/vikings-start-qb-wentz-bills-murray-injured",
-      "summary": "Vikings quarterback Carson Wentz will start Monday night's game against the Buffalo Bills with Kyler Murray ruled out with a hamstring injury.",
-      "published": "2026-11-05T20:18:53Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
         "BUF",
+        "CIN",
+        "DAL",
         "MIN"
       ]
     },
     {
-      "title": "Jonathan Taylor 'can't avoid' trade speculation as Colts go through talks",
-      "url": "https://www.espn.com/nfl/story/_/id/50390525/colts-rb-jonathan-taylor-awaits-resolution-trade-rumbling",
-      "summary": "Running back Jonathan Taylor, who is the subject of talks between the Colts and multiple teams ahead of the NFL trade deadline, said he's ready for some finality after weeks of speculation about his future.",
-      "published": "2026-11-05T18:42:31Z",
-      "source": "ESPN NFL",
+      "title": "Dak Prescott delivers blunt assessment of Cowboys' offensive identity: 'Are we proud of it? I don't know'",
+      "url": "https://www.cbssports.com/nfl/news/dak-prescott-cowboys-offensive-identity-comment-brian-schottenheimer/",
+      "summary": "Prescott's frustrations could be boiling over as Dallas reaches its midseason point",
+      "published": "Fri, 06 Nov 2026 01:19:02 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Jaguars vs. Ravens odds, picks, NFL Week 9 prediction: Best bets, player props for Thursday Night Football",
+      "url": "https://www.cbssports.com/betting/news/jaguars-vs-ravens-odds-picks-nfl-week-9-prediction-best-bets-player-props-for-thursday-night-football/",
+      "summary": "Baltimore turns to third-string quarterback Joe Fagnano with Lamar Jackson sidelined, making Jacksonville a rare double-digit road favorite on Thursday night",
+      "published": "Thu, 05 Nov 2026 23:45:40 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "BAL",
+        "JAX"
+      ]
+    },
+    {
+      "title": "Jaguars vs. Ravens odds, prediction, betting preview, start time: Thursday Night Football picks, best bets",
+      "url": "https://www.cbssports.com/betting/news/jaguars-vs-ravens-odds-prediction-betting-preview-start-time-thursday-night-football-picks-best-bets/",
+      "summary": "Best bets and betting preview for Jaguars vs. Ravens on Thursday Night Football",
+      "published": "Thu, 05 Nov 2026 23:38:16 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "JAX"
+      ]
+    },
+    {
+      "title": "Week 9 NFL betting promos: Get over $3,000 in bonuses from betting apps, sportsbooks for Ravens vs. Jaguars",
+      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-promos-get-over-3000-in-bonuses-from-betting-apps-sportsbooks-for-ravens-jaguars/",
+      "summary": "Top Week 9 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Thu, 05 Nov 2026 23:17:25 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "JAX"
+      ]
+    },
+    {
+      "title": "Cowboys stars reject George Pickens trade talk ahead of NFL deadline",
+      "url": "https://www.cbssports.com/nfl/news/george-pickens-trade-rumors-cowboys-nfl-deadline/",
+      "summary": "As speculation builds about Pickens' future in Dallas, Prescott praised him as a teammate and Lamb explained how the receiver changes opposing defenses",
+      "published": "Thu, 05 Nov 2026 22:52:14 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "IND"
+        "DAL"
       ]
     },
     {
-      "title": "Jared Verse says he has spoken to Browns teammates about not defending him",
-      "url": "https://www.espn.com/nfl/story/_/id/50390325/jared-verse-upset-browns-teammates-react-penalty",
-      "summary": "The Browns' Jared Verse says he spoke to his teammates about not defending him after a Steelers player was penalized for slamming him on a point-after try.",
-      "published": "2026-11-05T18:22:28Z",
-      "source": "ESPN NFL",
+      "title": "Is Bhayshul Tuten playing on TNF? A look at the Jaguars RB's status against Ravens",
+      "url": "https://www.cbssports.com/nfl/news/jaguars-vs-ravens-bhayshul-tuten-status-tnf/",
+      "summary": "Tuten hasn't practiced all week while dealing with ankle and foot injuries",
+      "published": "Thu, 05 Nov 2026 22:14:40 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL",
+        "JAX"
+      ]
+    },
+    {
+      "title": "Why Jordan Love could face an NFL fine over Halloween costume",
+      "url": "https://www.cbssports.com/nfl/news/jordan-love-halloween-costume-nfl-fine/",
+      "summary": "Love and his wife dressed as \"blind refs\" less than a week after controversial calls contributed to a Packers loss",
+      "published": "Thu, 05 Nov 2026 22:11:58 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CLE",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Bill Belichick again among 5 coaching candidates for Pro Football Hall of Fame",
-      "url": "https://www.espn.com/nfl/story/_/id/50390130/bill-belichick-5-coaching-candidates-hall-fame",
-      "summary": "Bill Belichick again is among five coaching candidates for the Pro Football Hall of Fame. Tom Coughlin, Mike Holmgren, Dan Reeves and Mike Shanahan join Belichick in the Coach category for possible election into the Hall's Class of 2027.",
-      "published": "2026-11-05T18:12:15Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Bijan Robinson says win in Madrid could swing Falcons' season",
-      "url": "https://www.espn.com/nfl/story/_/id/50390044/bijan-robinson-says-win-madrid-wing-falcons-season",
-      "summary": "The way Falcons running back Bijan Robinson framed it, Sunday's game against the Bengals at Madrid's historic Santiago Bernabeu Stadium could be a catalyst for an Atlanta team trying to reshape its season.",
-      "published": "2026-11-05T17:58:47Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "CIN"
+        "GB"
       ]
     },
     {
@@ -559,20 +712,6 @@
       ]
     },
     {
-      "title": "Jaguars vs. Ravens odds, picks, NFL Week 9 prediction: Best bets, player props for Thursday Night Football",
-      "url": "https://www.cbssports.com/betting/news/jaguars-vs-ravens-odds-picks-nfl-week-9-prediction-best-bets-player-props-for-thursday-night-football/",
-      "summary": "Baltimore turns to third-string quarterback Joe Fagnano with Lamar Jackson sidelined, making Jacksonville a rare double-digit road favorite on Thursday night",
-      "published": "Thu, 05 Nov 2026 15:14:41 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "JAX"
-      ]
-    },
-    {
       "title": "Micah Parsons details why knee recovery has taken so long, refuses to set timeline for Packers return",
       "url": "https://www.cbssports.com/nfl/news/packers-micah-parsons-update-details-timeline-for-return/",
       "summary": "Parsons has been out since tearing his ACL late last season",
@@ -583,20 +722,6 @@
       "category": "game",
       "teams": [
         "GB"
-      ]
-    },
-    {
-      "title": "Ravens vs. Jaguars odds, prediction, betting preview, start time: Thursday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/ravens-vs-jaguars-odds-prediction-betting-preview-start-time-thursday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Jaguars vs. Ravens on Thursday Night Football",
-      "published": "Thu, 05 Nov 2026 14:45:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "JAX"
       ]
     },
     {
@@ -701,20 +826,6 @@
       ]
     },
     {
-      "title": "Week 9 NFL betting promos: Get over $3,000 in bonuses from betting apps, sportsbooks for Jaguars vs. Ravens",
-      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-promos-get-over-3000-in-bonuses-from-betting-apps-sportsbooks-for-jaguars-ravens/",
-      "summary": "Top Week 9 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Thu, 05 Nov 2026 13:04:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "JAX"
-      ]
-    },
-    {
       "title": "NFL Week 9 injury report: Micah Parsons returns to Packers practice, Rams lose Jaylen Watson for season",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-micah-parsons-jaylen-watson-rams/",
       "summary": "Parsons has opened his 21-day practice window, while Jackson, Sam Darnold and Deshaun Watson headline the notable quarterback injuries entering Week 9",
@@ -806,87 +917,6 @@
       "teams": [
         "ARI",
         "SEA"
-      ]
-    },
-    {
-      "title": "Eagles to start Joe Milton at quarterback vs. Giants, replacing Tanner McKee",
-      "url": "https://www.cbssports.com/nfl/news/eagles-joe-milton-starting-quarterback-giants-tanner-mckee/",
-      "summary": "Milton will replace Tanner McKee and become Philadelphia's third starting quarterback of the season when the Eagles face the NFC East-leading Giants",
-      "published": "Wed, 04 Nov 2026 19:52:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NYG",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Lions' Jack Campbell issues statement updating condition after scary injury vs. Vikings",
-      "url": "https://www.cbssports.com/nfl/news/lions-jack-campbell-issues-statement-after-injury-vikings/",
-      "summary": "The Lions linebacker says he has full movement in his lower body and is making progress with his upper body following a scary collision against the Vikings",
-      "published": "Wed, 04 Nov 2026 18:58:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DET",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Jets' Garrett Wilson enters concussion protocol a week before 2026 NFL trade deadline",
-      "url": "https://www.cbssports.com/nfl/news/jets-garrett-wilson-enters-concussion-protocol/",
-      "summary": "Could Wilson's status as potential trade bait be impacted by entering the concussion protocol?",
-      "published": "Wed, 04 Nov 2026 18:56:51 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Robert Kraft named one of five contributor nominees for 2027 Pro Football Hall of Fame class",
-      "url": "https://www.cbssports.com/nfl/news/2027-football-hall-of-fame-nominees-robert-kraft/",
-      "summary": "The Patriots owner is one of five contributor nominees still under consideration after falling short of induction in the previous Hall of Fame cycle",
-      "published": "Wed, 04 Nov 2026 18:42:28 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Ravens trade candidates: Three quarterbacks Baltimore should consider amid injury crisis",
-      "url": "https://www.cbssports.com/nfl/news/ravens-trade-candidates-quarterback-injuries-lamar-jackson/",
-      "summary": "With Lamar Jackson sidelined and Tyler Huntley out for the year, Baltimore could look to Jacoby Brissett or Anthony Richardson before the trade deadline to keep its 4-4 season alive",
-      "published": "Wed, 04 Nov 2026 17:21:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "Jadeveon Clowney mock trades: Cowboys reunion headlines four deals Texans can make before NFL trade deadline",
-      "url": "https://www.cbssports.com/nfl/news/jadeveon-clowney-mock-trades-cowboys-texans-nfl-trade-deadline/",
-      "summary": "Clowney's name has surfaced in trade discussions this week",
-      "published": "Wed, 04 Nov 2026 17:05:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL",
-        "HOU"
       ]
     }
   ],
