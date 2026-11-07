@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-11-07T13:59:31.502800+00:00",
-  "checked_at_utc": "2026-11-07T13:59:31.502800+00:00",
+  "updated_at_utc": "2026-11-07T18:39:49.659219+00:00",
+  "checked_at_utc": "2026-11-07T18:39:49.659219+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 7,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 31
+      "items": 33
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,19 @@
     }
   },
   "items": [
+    {
+      "title": "NFL Trade Deadline Rumors: Colts Busy? Derrick Henry Status? Star TE Move?",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-rumors-colts-jonathan-taylor-ravens-derrick-henry",
+      "summary": "Here's the latest buzz around the NFL regarding the 2026 NFL trade deadline.",
+      "published": "Sat, 07 Nov 2026 13:31:41 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
+    },
     {
       "title": "Brady Returns: The Top 5 Tom Brady-Rob Gronkowski Plays At Gillette Stadium",
       "url": "https://www.foxsports.com/stories/nfl/brady-returns-top-5-tom-brady-rob-gronkowski-plays-gillette-stadium",
@@ -186,61 +199,25 @@
       ]
     },
     {
-      "title": "2026 NFL Week 9 Picks: Best Bets For Every Game \u2014 Will's Wagers",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-9-picks-best-bets-every-game-wills-wagers",
-      "summary": "Will Hill delivers his best bets for every NFL Week 9 game. Dive in.",
-      "published": "Thu, 05 Nov 2026 15:22:09 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Sources: Colts among several NFL teams mulling trade offers as deadline looms",
-      "url": "https://www.espn.com/nfl/story/_/id/50403627/trade-talks-pick-nfl-tuesday-deadline-looming",
-      "summary": "Multiple teams have been engaged in serious trade discussions as Tuesday's NFL trade deadline approaches.",
-      "published": "2026-11-07T13:27:07Z",
+      "title": "Browns QB Deshaun Watson out of concussion protocol",
+      "url": "https://www.espn.com/nfl/story/_/id/50409705/browns-qb-deshaun-watson-concussion-protocol",
+      "summary": "Browns QB Deshaun Watson is out of the concussion protocol, but is questionable. Shedeur Sanders will get the start against the Saints.",
+      "published": "2026-11-07T18:33:59Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "injury",
       "teams": [
-        "IND"
+        "CLE",
+        "NO"
       ]
     },
     {
-      "title": "Colts in Daniel Jones trade talks as multiple teams call about QB, sources say",
-      "url": "https://www.espn.com/nfl/story/_/id/50403440/sources-colts-engaged-daniel-jones-trade-talks",
-      "summary": "The Colts have engaged in trade discussions with multiple teams involving quarterback Daniel Jones, sources told NFL Network and ESPN.",
-      "published": "2026-11-07T13:15:57Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "Sources: Ravens not expected to deal RB Derrick Henry before NFL trade deadline",
-      "url": "https://www.espn.com/nfl/story/_/id/50400748/sources-ravens-not-expected-trade-star-rb-derrick-henry",
-      "summary": "Ravens running back Derrick Henry is not expected to be moved by the NFL trade deadline, league sources told ESPN.",
-      "published": "2026-11-07T13:16:10Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "NFL Week 9 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50390199/week-9-predictions-upsets-fantasy-sleepers-stats-2026",
-      "summary": "QB controversy in Minnesota? Browns upsetting the Saints? Touchdowns for two rookie RBs? Let's predict 15 things for Week 9.",
-      "published": "2026-11-07T11:38:29Z",
-      "source": "ESPN NFL",
+      "title": "Saints motivated to face 'smiling' Shedeur Sanders after Browns QB offers bulletin board material",
+      "url": "https://www.cbssports.com/nfl/news/saints-motivated-to-face-browns-shedeur-sanders/",
+      "summary": "The maligned New Orleans defense will have a chip on its shoulder in Sanders' first start of the season",
+      "published": "Sat, 07 Nov 2026 18:00:37 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
@@ -250,41 +227,166 @@
       ]
     },
     {
-      "title": "2026 NFL trade deadline: Proposing deals for Tony Pollard, Riq Woolen, others",
-      "url": "https://www.espn.com/nfl/story/_/id/50389499/2026-nfl-trade-deadline-offers-experts-taylor-woolen-pollard",
-      "summary": "Our NFL experts pitched trade offers they'd love to see get done before Tuesday's deadline, including moves for Tony Pollard, Riq Woolen, Jonathan Taylor and Jessie Bates III.",
-      "published": "2026-11-07T11:37:27Z",
-      "source": "ESPN NFL",
+      "title": "Rams' Quentin Lake apologizes to Justin Herbert for 'deli meat' remarks, Chargers not moving QB via trade",
+      "url": "https://www.cbssports.com/nfl/news/rams-quentin-lake-apologizes-justin-herbert-deli-meat-remarks-chargers/",
+      "summary": "Herbert leads the NFL in interceptions and holds the league's worst QBR through seven games",
+      "published": "Sat, 07 Nov 2026 17:20:13 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "LA",
+        "LAC"
+      ]
+    },
+    {
+      "title": "NFL trade deadline rumors: Could Giants' John Harbaugh reunite with former running back?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-rumors-giants-john-harbaugh-reunite-former-running-back/",
+      "summary": "Harbaugh brought seven players with him from the Ravens when he took the Giants job. Might an eighth be on the way?",
+      "published": "Sat, 07 Nov 2026 17:14:07 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "NYG"
+      ]
+    },
+    {
+      "title": "NFL week 9 anytime TD best bets: Look for Jonah Coleman and Joe Milton III to find end zone",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-anytime-td-best-bets-jonah-coleman-joe-milton-iii/",
+      "summary": "Target strong value in the red zone this week with five picks, including rookie runner Jonah Coleman against a reeling Panthers defense",
+      "published": "Sat, 07 Nov 2026 16:50:56 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR"
+      ]
+    },
+    {
+      "title": "Chargers not interested in Khalil Mack trade, will retain top offensive players despite 0-7 record, per report",
+      "url": "https://www.cbssports.com/nfl/news/trade-deadline-chargers-to-retain-khalil-mack-top-offensive-players-despite-0-7-record/",
+      "summary": "The winless Chargers will stick to the status quo",
+      "published": "Sat, 07 Nov 2026 16:35:19 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
+      "title": "NFL Week 9 odds, best bets: Brinson's top player props, anytime touchdown scorers picks for Sunday's games",
+      "url": "https://www.cbssports.com/betting/news/nfl-week-9-odds-best-bets-brinsons-top-player-props-anytime-touchdown-scorers-picks-for-sundays-games/",
+      "summary": "Back the Colts as dogs against Dallas, trust New England in Foxborough and target a low rushing total for Ashton Jeanty",
+      "published": "Sat, 07 Nov 2026 16:25:18 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "2026 NFL trade deadline candidates: Ranking big-name players into tiers",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-candidates-impact-tiers/",
+      "summary": "From proven stars like Jonathan Taylor and Maxx Crosby to discount playmakers and depth rentals, here is a look at who could switch teams before the window closes",
+      "published": "Sat, 07 Nov 2026 16:24:31 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": []
     },
     {
-      "title": "The New York Giants 'don't care' that they're NFC East favorites",
-      "url": "https://www.espn.com/nfl/story/_/id/50381224/giants-care-nfc-east-favorites",
-      "summary": "It's an unfamiliar role for a franchise that hasn't claimed the NFC East crown since 2011.",
-      "published": "2026-11-07T11:00:01Z",
-      "source": "ESPN NFL",
+      "title": "NFL trade deadline: Four Eagles, two more Colts and a starting QB included among top candidates",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-rankings-top-25-eagles-colts/",
+      "summary": "Saquon Barkley, Jonathan Taylor, Kirk Cousins and more could fetch returns at the trade deadline",
+      "published": "Sat, 07 Nov 2026 16:22:22 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "transaction",
       "teams": [
-        "NYG"
+        "IND",
+        "PHI"
       ]
     },
     {
-      "title": "Bengals face Falcons S Jessie Bates III, evoking mixed emotions",
-      "url": "https://www.espn.com/nfl/story/_/id/50402286/jessie-bates-falcons-bengals",
-      "summary": "Cincinnati hasn't been to the playoffs since Bates' departure, but Atlanta also hasn't reached the postseason since his arrival.",
-      "published": "2026-11-07T11:00:10Z",
-      "source": "ESPN NFL",
+      "title": "Cowboys should consider trading George Pickens: 5 logical destinations at NFL trade deadline",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-nfl-trade-deadline-george-pickens-destinations/",
+      "summary": "Pickens received only four targets in Dallas' historic collapse against Arizona, adding urgency to the Cowboys' decision before the NFL trade deadline",
+      "published": "Sat, 07 Nov 2026 16:21:04 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Frustrated Derrick Henry responds to trade rumors, Ravens not expected to deal him, per report",
+      "url": "https://www.cbssports.com/nfl/news/ravens-derrick-henry-trade-rumor-thoughts-nfl-trade-deadline/",
+      "summary": "Henry was not a happy camper after Baltimore's fourth straight setback",
+      "published": "Sat, 07 Nov 2026 15:48:14 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Week 9 NFL betting promos: Get over $3,000 in bonuses from betting apps, sportsbooks, DraftKings, BetMGM",
+      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-promos-get-over-3000-bonuses-from-betting-apps-sportsbooks-draftkings-betmgm/",
+      "summary": "Top Week 9 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Sat, 07 Nov 2026 15:18:03 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 9 NFL odds, lines, totals, spreads for every game, including Cowboys-Colts, Jets-Chiefs, Giants-Eagles",
+      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-lines-spreads-odds-totals/",
+      "summary": "Check the Week 9 NFL odds, spreads, moneylines, and totals for all 15 games, including Bears-Buccaneers",
+      "published": "Sat, 07 Nov 2026 15:01:49 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL",
-        "CIN"
+        "CHI",
+        "DAL",
+        "IND",
+        "KC",
+        "NYG",
+        "NYJ",
+        "PHI",
+        "TB"
+      ]
+    },
+    {
+      "title": "NFL trade deadline rumors: Colts' Daniel Jones could get dealt and there's only one team that makes sense",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-rumors-colts-daniel-jones-vikings/",
+      "summary": "The Vikings are 6-1 despite fielding the league's second-worst passing attack, and a reunion with Kevin O'Connell makes all the sense in the world",
+      "published": "Sat, 07 Nov 2026 14:18:37 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND",
+        "MIN"
       ]
     },
     {
@@ -417,64 +519,6 @@
       ]
     },
     {
-      "title": "Week 9 NFL betting promos: Get over $3,000 in bonuses from betting apps, sportsbooks, DraftKings, BetMGM",
-      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-promos-get-over-3000-in-bonuses-from-betting-apps-sportsbooks-draftkings-betmgm/",
-      "summary": "Top Week 9 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Fri, 06 Nov 2026 16:22:16 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 9 NFL odds, lines, totals, spreads for every game, including Cowboys-Colts, Jets-Chiefs, Giants-Eagles",
-      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-lines-odds-spreads-totals/",
-      "summary": "Check the Week 9 NFL odds, spreads, moneylines, and totals for all 15 games, including Bears-Buccaneers",
-      "published": "Fri, 06 Nov 2026 16:15:27 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "DAL",
-        "IND",
-        "KC",
-        "NYG",
-        "NYJ",
-        "PHI",
-        "TB"
-      ]
-    },
-    {
-      "title": "Frustrated Derrick Henry responds to trade rumors following Ravens brutal 'TNF' loss to Jaguars",
-      "url": "https://www.cbssports.com/nfl/news/ravens-derrick-henry-trade-rumor-thoughts-nfl-trade-deadline/",
-      "summary": "Henry was not a happy camper after Baltimore's fourth straight setback",
-      "published": "Fri, 06 Nov 2026 16:14:11 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "BAL",
-        "JAX"
-      ]
-    },
-    {
-      "title": "NFL Week 9 odds, picks: Brinson's best bets, player props, anytime touchdown scorers for Sunday's games",
-      "url": "https://www.cbssports.com/betting/news/nfl-week-9-odds-picks-brinsons-best-bets-player-props-anytime-touchdown-scorers-for-sundays-games/",
-      "summary": "Back the Colts as dogs against Dallas, trust New England in Foxborough and target a low rushing total for Ashton Jeanty",
-      "published": "Fri, 06 Nov 2026 15:52:22 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
       "title": "NFL Trade Deadline: 4 mock trades that would make Steelers a true Super Bowl contender",
       "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-4-trade-options-steelers-super-bowl-contender/",
       "summary": "Pittsburgh needs to make the most of its 6-2 start while giving Aaron Rodgers a real chance to win big in his final season",
@@ -568,7 +612,7 @@
       "title": "NFL Week 9 bold predictions: Joe Milton-led Eagles upset first-place Giants, Vikings torture Josh Allen",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-9-bold-predictions-joe-milton-eagles-vikings-josh-allen/",
       "summary": "Plus, the Dolphins stifle Jared Goff and the roaring Lions offense",
-      "published": "Fri, 06 Nov 2026 11:49:40 +0000",
+      "published": "Sat, 07 Nov 2026 16:00:44 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -598,110 +642,12 @@
       "title": "NFL Week 9 odds, predictions, expert picks, best bets, teasers and more",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-9-odds-how-to-watch-streaming-expert-picks/",
       "summary": "CBS Sports experts pick every Week 9 game against the spread, with most backing Green Bay to upset New England",
-      "published": "Fri, 06 Nov 2026 12:18:38 +0000",
+      "published": "Sat, 07 Nov 2026 16:01:17 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "Week 9 best bets: Drake London stars in Madrid, Broncos keep rolling with win over Panthers",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-best-bets-drake-london-madrid-broncos/",
-      "summary": "Plus, a backup RB you should keep an eye on",
-      "published": "Fri, 06 Nov 2026 11:25:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "DEN"
-      ]
-    },
-    {
-      "title": "2026 NFL trade deadline: One realistic, one pipe dream trade scenario for every playoff contender",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-realistic-dream-trade-scenario-playoff-contenders/",
-      "summary": "What does each contender need to put them over the top?",
-      "published": "Fri, 06 Nov 2026 11:00:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 9 expert picks, best bets: Bears beat down Bucs, Saints get on track with a win",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-picks-odds-best-bets-expert-picks/",
-      "summary": "Jordan Dajani gives his picks for Week 9 of the 2026 NFL season",
-      "published": "Fri, 06 Nov 2026 11:00:51 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "NO",
-        "TB"
-      ]
-    },
-    {
-      "title": "Prisco's Week 9 NFL expert picks: Bengals rout Falcons in Madrid, Cowboys rebound",
-      "url": "https://www.cbssports.com/nfl/news/priscos-week-9-nfl-expert-picks-jaguars-roll-over-lamar-jackson-less-ravens-cowboys-rebound/",
-      "summary": "Pete Prisco reveals all of his Week 9 picks, including the Bills handing the Vikings their second straight loss",
-      "published": "Fri, 06 Nov 2026 01:27:51 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "BUF",
-        "CIN",
-        "DAL",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Dak Prescott delivers blunt assessment of Cowboys' offensive identity: 'Are we proud of it? I don't know'",
-      "url": "https://www.cbssports.com/nfl/news/dak-prescott-cowboys-offensive-identity-comment-brian-schottenheimer/",
-      "summary": "Prescott's frustrations could be boiling over as Dallas reaches its midseason point",
-      "published": "Fri, 06 Nov 2026 01:19:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Jaguars vs. Ravens odds, picks, NFL Week 9 prediction: Best bets, player props for Thursday Night Football",
-      "url": "https://www.cbssports.com/betting/news/jaguars-vs-ravens-odds-picks-nfl-week-9-prediction-best-bets-player-props-for-thursday-night-football/",
-      "summary": "Baltimore turns to third-string quarterback Joe Fagnano with Lamar Jackson sidelined, making Jacksonville a rare double-digit road favorite on Thursday night",
-      "published": "Thu, 05 Nov 2026 23:45:40 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Jaguars vs. Ravens odds, prediction, betting preview, start time: Thursday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/jaguars-vs-ravens-odds-prediction-betting-preview-start-time-thursday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Jaguars vs. Ravens on Thursday Night Football",
-      "published": "Thu, 05 Nov 2026 23:38:16 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "JAX"
-      ]
     }
   ],
   "reporters": []
