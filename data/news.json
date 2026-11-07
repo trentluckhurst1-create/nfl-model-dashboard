@@ -1,21 +1,21 @@
 {
-  "updated_at_utc": "2026-11-07T01:08:13.984382+00:00",
-  "checked_at_utc": "2026-11-07T01:08:13.984382+00:00",
+  "updated_at_utc": "2026-11-07T07:08:01.750520+00:00",
+  "checked_at_utc": "2026-11-07T07:08:01.750520+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 4,
+      "items": 19,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 30
+      "items": 31
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 15,
+      "items": 14,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
@@ -197,17 +197,6 @@
       "teams": []
     },
     {
-      "title": "2027 NFL Draft No. 1 Pick Odds: Drew Mestemaker Closing In On Jeremiah Smith",
-      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
-      "summary": "Could a former high school punter be the No. 1 overall pick? See the latest 2027 NFL Draft odds.",
-      "published": "Thu, 05 Nov 2026 15:09:10 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Brandon Aiyuk meets with 49ers, says he's healthy, 'looking to get reinstated'",
       "url": "https://www.espn.com/nfl/story/_/id/50402899/brandon-aiyuk-meets-49ers-looking-get-reinstated",
       "summary": "Brandon Aiyuk met with the Niners on Friday to begin hammering out a path toward a divorce that has been more than two years in the making.",
@@ -224,7 +213,7 @@
       "title": "Seahawks' Quenton Nelson, Sam Darnold among starters ruled out",
       "url": "https://www.espn.com/nfl/story/_/id/50402740/seahawks-quenton-nelson-sam-darnold-starters-ruled-out",
       "summary": "New Seahawks trade acquisition Quenton Nelson will have a \"minor procedure\" and is one of six starters, including QB Sam Darnold, who won't play vs. the Cardinals.",
-      "published": "2026-11-07T00:24:17Z",
+      "published": "2026-11-07T03:11:40Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -263,6 +252,219 @@
       ]
     },
     {
+      "title": "Jacoby Brissett brings hope but realistic expectations for spiraling Ravens",
+      "url": "https://www.espn.com/nfl/story/_/id/50401403/what-biggest-problems-facing-brissett-ravens",
+      "summary": "The Ravens know what they're getting in acquiring veteran journeyman QB, but does Jacoby Brissett know what he's in for?",
+      "published": "2026-11-07T01:09:33Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Joe Burrow makes time for art in Madrid ahead of Bengals-Falcons",
+      "url": "https://www.espn.com/nfl/story/_/id/50400935/joe-burrow-madrid-art-museum-bengals-falcons",
+      "summary": "While in Spain, the Bengals quarterback is finding time for one of his off-field interests: art.",
+      "published": "2026-11-06T19:05:40Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ATL",
+        "CIN"
+      ]
+    },
+    {
+      "title": "3 ways Browns QB Shedeur Sanders can show growth vs. Saints",
+      "url": "https://www.espn.com/nfl/story/_/id/50399074/cleveland-browns-qb-shedeur-sanders-start-growth-saints",
+      "summary": "The opportunity is a big one as the second-year quarterback's first start of the season comes at a critical time.",
+      "published": "2026-11-06T19:07:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CLE",
+        "NO"
+      ]
+    },
+    {
+      "title": "Cowboys' Jerry Jones says paying coaches never been an issue",
+      "url": "https://www.espn.com/nfl/story/_/id/50400964/cowboys-jerry-jones-says-paying-coaches-never-issue",
+      "summary": "Defending comments he made earlier in the week, Cowboys owner and GM Jerry Jones said it's \"ridiculous\" to think he would let money stop him from hiring a head coach.",
+      "published": "2026-11-06T19:08:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Browns to start Sanders at QB vs. Saints with Watson in protocol",
+      "url": "https://www.espn.com/nfl/story/_/id/50400928/browns-start-shedeur-sanders-qb-vs-saints",
+      "summary": "The Browns will start Shedeur Sanders at quarterback against the Saints as Deshaun Watson remains in the concussion protocol.",
+      "published": "2026-11-06T18:56:40Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CLE",
+        "NO"
+      ]
+    },
+    {
+      "title": "Rams' Myles Garrett to be activated from injured reserve, play vs. Commanders",
+      "url": "https://www.espn.com/nfl/story/_/id/50400738/sources-rams-myles-garrett-track-return-vs-commanders",
+      "summary": "Rams star pass rusher Myles Garrett is on track to be activated from injured reserve ahead of Sunday's game at the Commanders.",
+      "published": "2026-11-06T22:24:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Former NFL WR Antonio Brown avoids jail time in 2025 shooting case in Miami",
+      "url": "https://www.espn.com/nfl/story/_/id/50400733/antonio-brown-pleads-guilty-lesser-charge-shooting-case",
+      "summary": "Former NFL star Antonio Brown was sentenced to three years' probation Friday after pleading guilty to a lesser charge of aggravated assault with a firearm stemming from a 2025 shooting in Miami.",
+      "published": "2026-11-06T19:04:46Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL trade deadline grades: Deals for Jacoby Brissett, Jeffery Simmons, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "summary": "Wise move for the Ravens to add Jacoby Brissett? Did the Bears give up too much to go all-in with Jeffery Simmons? Let's evaluate eight trades before the deadline.",
+      "published": "2026-11-06T18:25:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL",
+        "CHI"
+      ]
+    },
+    {
+      "title": "Dolphins to get rookie OL Kadyn Proctor back from concussion",
+      "url": "https://www.espn.com/nfl/story/_/id/50400507/dolphins-get-rookie-ol-kadyn-proctor-back-concussion",
+      "summary": "Dolphins left guard Kadyn Proctor has cleared concussion protocol and will play Sunday against the Lions, coach Jeff Hafley said.",
+      "published": "2026-11-06T17:24:08Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET",
+        "MIA"
+      ]
+    },
+    {
+      "title": "2026 NFL trade deadline updates: Jacoby Brissett, Jeffery Simmons on the move",
+      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
+      "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including Jacoby Brissett to Baltimore.",
+      "published": "2026-11-06T20:04:33Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Jets WR Garrett Wilson (concussion) ruled out Sunday vs. the Chiefs",
+      "url": "https://www.espn.com/nfl/story/_/id/50400158/jets-wr-garrett-wilson-concussion-ruled-vs-chiefs",
+      "summary": "The Jets have ruled wideout Garrett Wilson out for Sunday's matchup against the Chiefs as he continues to recover from a concussion suffered last week.",
+      "published": "2026-11-06T16:45:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "KC",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Sources: Ravens trade 4th-, 7th-rounders to get Jacoby Brissett, 5th-round pick",
+      "url": "https://www.espn.com/nfl/story/_/id/50400123/ravens-complete-trade-cardinals-qb-jacoby-brissett",
+      "summary": "The Ravens will acquire quarterback Jacoby Brissett and a 2027 fifth-round pick for a fourth-round pick in 2027 and seventh-round pick in 2028, sources told ESPN and NFL Network.",
+      "published": "2026-11-06T21:06:00Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Patriots' TreVeyon Henderson affected by neurological symptoms",
+      "url": "https://www.espn.com/nfl/story/_/id/50400016/patriots-treveyon-henderson-affected-neurological-symptoms",
+      "summary": "Patriots RB TreVeyon Henderson said tests have come back positive after he suffered \"unexplained neurological symptoms\" that remain \"unknown and unexplainable.\"",
+      "published": "2026-11-06T20:22:37Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "Where to watch NFL Madrid game: Bengals vs. Falcons",
+      "url": "https://www.espn.com/nfl/story/_/id/50399475/watch-2026-nfl-madrid-game-bengals-vs-falcons",
+      "summary": "The NFL takes a trip to Spain.",
+      "published": "2026-11-06T16:51:03Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "CIN"
+      ]
+    },
+    {
+      "title": "Bills vs. Vikings: Where to watch 'Monday Night Football'",
+      "url": "https://www.espn.com/nfl/story/_/id/50392822/bills-vs-vikings-watch-monday-night-football-week-9",
+      "summary": "Here's what to know about the Week 9 matchup.",
+      "published": "2026-11-06T13:55:51Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "MIN"
+      ]
+    },
+    {
+      "title": "NFL Week 9 injury report: Mike Evans ruled out, Seahawks' Quenton Nelson 'week-to-week' after knee procedure",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-seahawks-quenton-nelson-out-knee-procedure/",
+      "summary": "The final injury reports for every NFL team in Week 9",
+      "published": "Sat, 07 Nov 2026 01:23:45 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SEA"
+      ]
+    },
+    {
       "title": "Brandon Aiyuk returns to 49ers offices to seek NFL reinstatement as $13 million problem looms",
       "url": "https://www.cbssports.com/nfl/news/brandon-aiyuk-returns-49ers-offices-13-million-problem-looms/",
       "summary": "The wide receiver says he is 100% healthy and filing for NFL reinstatement, though a $13 million financial dispute remains",
@@ -273,19 +475,6 @@
       "category": "game",
       "teams": [
         "SF"
-      ]
-    },
-    {
-      "title": "NFL Week 9 injury report: Seahawks' Quenton Nelson 'week-to-week' after knee procedure",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-seahawks-quenton-nelson-out-knee-procedure/",
-      "summary": "The final injury reports for every NFL team in Week 9",
-      "published": "Fri, 06 Nov 2026 23:42:18 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SEA"
       ]
     },
     {
@@ -659,6 +848,20 @@
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
+      "teams": [
+        "BAL",
+        "JAX"
+      ]
+    },
+    {
+      "title": "Jaguars vs. Ravens odds, prediction, betting preview, start time: Thursday Night Football picks, best bets",
+      "url": "https://www.cbssports.com/betting/news/jaguars-vs-ravens-odds-prediction-betting-preview-start-time-thursday-night-football-picks-best-bets/",
+      "summary": "Best bets and betting preview for Jaguars vs. Ravens on Thursday Night Football",
+      "published": "Thu, 05 Nov 2026 23:38:16 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": [
         "BAL",
         "JAX"
