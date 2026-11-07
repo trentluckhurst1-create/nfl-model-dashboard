@@ -1,25 +1,49 @@
 {
-  "updated_at_utc": "2026-11-07T18:39:49.659219+00:00",
-  "checked_at_utc": "2026-11-07T18:39:49.659219+00:00",
+  "updated_at_utc": "2026-11-07T22:18:46.471453+00:00",
+  "checked_at_utc": "2026-11-07T22:18:46.471453+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 1,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 34
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 14,
+      "items": 15,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "\u2018Let\u2019s Fiesta\u2019: Top Moments From Rob Gronkowski\u2019s Patriots Hall of Fame Speech",
+      "url": "https://www.foxsports.com/stories/nfl/rob-gronkowsi-patriots-hall-of-fame-speech-nfl-tight-end-stats",
+      "summary": "Here are the unreal highlights from Rob Gronkowski's New England Patriots Hall of Fame speech.",
+      "published": "Sat, 07 Nov 2026 15:48:34 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 9: Lines, Spreads, Results For All 15 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-9-lines-spreads-results-all-15-games",
+      "summary": "Check out the odds for every Week 9 NFL game.",
+      "published": "Sat, 07 Nov 2026 15:44:25 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "NFL Trade Deadline Rumors: Colts Busy? Derrick Henry Status? Star TE Move?",
       "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-rumors-colts-jonathan-taylor-ravens-derrick-henry",
@@ -123,17 +147,6 @@
       "teams": []
     },
     {
-      "title": "2026 NFL Odds Week 9: Lines, Spreads, Results For All 15 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-9-lines-spreads-results-all-15-games",
-      "summary": "Check out the odds for every Week 9 NFL game.",
-      "published": "Fri, 06 Nov 2026 10:04:25 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "2026 NFL Week 9 Best Bets, Expert Picks: Are Vikings In The Bills' League?",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-9-best-bets-expert-picks-vikings-bills-league",
       "summary": "Is Minnesota fool's gold, or can it hang with the league's best? Geoff Schwartz gives his take.",
@@ -199,17 +212,84 @@
       ]
     },
     {
-      "title": "Browns QB Deshaun Watson out of concussion protocol",
-      "url": "https://www.espn.com/nfl/story/_/id/50409705/browns-qb-deshaun-watson-concussion-protocol",
-      "summary": "Browns QB Deshaun Watson is out of the concussion protocol, but is questionable. Shedeur Sanders will get the start against the Saints.",
-      "published": "2026-11-07T18:33:59Z",
+      "title": "Rob Gronkowski caps Brady-attended Patriots Hall of Fame ceremony with spike",
+      "url": "https://www.espn.com/nfl/story/_/id/50412382/rob-gronkowski-caps-brady-attended-patriots-hall-fame-ceremony-spike",
+      "summary": "Rob Gronkowski was officially inducted into the New England Patriots Hall of Fame Saturday with fellow Hall of Famers in attendance, including Tom Brady.",
+      "published": "2026-11-07T21:46:20Z",
       "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
+      "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
+      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
+      "published": "2026-11-07T21:45:52Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LAC",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Vikings WR Jauan Jennings on rebuffing return to 49ers: 'I love where I'm at'",
+      "url": "https://www.espn.com/nfl/story/_/id/50411320/jennings-rebuffing-return-49ers-love-where-at",
+      "summary": "Jauan Jennings said he rebuffed the chance to return to the 49ers via trade despite struggling to produce for the Vikings because \"I love where I'm at.\"",
+      "published": "2026-11-07T21:25:23Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "MIN",
+        "SF"
+      ]
+    },
+    {
+      "title": "NFL fines Jaquan Brisker, two others for illegal Week 8 hits that placed opponents in concussion protocol",
+      "url": "https://www.cbssports.com/nfl/news/nfl-fines-jaquan-brisker-two-others-for-illegal-week-8-hits/",
+      "summary": "Each of the players on the receiving end of those collisions will miss Week 9",
+      "published": "Sat, 07 Nov 2026 22:01:31 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 9 last-minute best bets: Packers upset Patriots in Foxborough, Rams edge out road win vs. Commanders",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
+      "summary": "Need some last-minute advice on how to bet the Week 9 slate? Allow us to be of assistance",
+      "published": "Sat, 07 Nov 2026 20:44:58 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "LA",
+        "NE",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Pick your poison: Rams' Myles Garrett anticipates matchup nightmares in first game with Aaron Donald",
+      "url": "https://www.cbssports.com/nfl/news/rams-myles-garrett-anticipates-matchup-nightmares-first-game-aaron-donald/",
+      "summary": "An injured reserve stint delayed the first look at Garrett and Donald in the same lineup, but now they could dominate opposing offenses",
+      "published": "Sat, 07 Nov 2026 20:38:18 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "CLE",
-        "NO"
+        "LA"
       ]
     },
     {
@@ -342,37 +422,6 @@
       "category": "transaction",
       "teams": [
         "BAL"
-      ]
-    },
-    {
-      "title": "Week 9 NFL betting promos: Get over $3,000 in bonuses from betting apps, sportsbooks, DraftKings, BetMGM",
-      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-promos-get-over-3000-bonuses-from-betting-apps-sportsbooks-draftkings-betmgm/",
-      "summary": "Top Week 9 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Sat, 07 Nov 2026 15:18:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 9 NFL odds, lines, totals, spreads for every game, including Cowboys-Colts, Jets-Chiefs, Giants-Eagles",
-      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-lines-spreads-odds-totals/",
-      "summary": "Check the Week 9 NFL odds, spreads, moneylines, and totals for all 15 games, including Bears-Buccaneers",
-      "published": "Sat, 07 Nov 2026 15:01:49 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "DAL",
-        "IND",
-        "KC",
-        "NYG",
-        "NYJ",
-        "PHI",
-        "TB"
       ]
     },
     {
@@ -639,15 +688,18 @@
       ]
     },
     {
-      "title": "NFL Week 9 odds, predictions, expert picks, best bets, teasers and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-odds-how-to-watch-streaming-expert-picks/",
-      "summary": "CBS Sports experts pick every Week 9 game against the spread, with most backing Green Bay to upset New England",
-      "published": "Sat, 07 Nov 2026 16:01:17 +0000",
+      "title": "Week 9 best bets: Drake London stars in Madrid, Broncos keep rolling with win over Panthers",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-best-bets-drake-london-madrid-broncos/",
+      "summary": "Plus, a backup RB you should keep an eye on",
+      "published": "Sat, 07 Nov 2026 16:01:38 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": []
+      "teams": [
+        "CAR",
+        "DEN"
+      ]
     }
   ],
   "reporters": []
