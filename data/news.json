@@ -1,25 +1,81 @@
 {
-  "updated_at_utc": "2026-11-08T19:17:51.454008+00:00",
-  "checked_at_utc": "2026-11-08T19:17:51.454008+00:00",
+  "updated_at_utc": "2026-11-08T22:57:47.565090+00:00",
+  "checked_at_utc": "2026-11-08T22:57:47.565090+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 8,
+      "items": 11,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 26
+      "items": 22
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 21,
+      "items": 10,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Tom Brady Signs 1-of-1 Exclusive Topps Card Live On Air During Packers vs. Patriots",
+      "url": "https://www.foxsports.com/stories/nfl/tom-brady-signs-1-of-1-exclusive-topps-card-live-air-fox-broadcast",
+      "summary": "Tom Brady's return to Foxborough on FOX's Green Bay Packers-New England Patriots broadcast came with a neat surprise. During the second quarter, Brady signed an exclusive 1-of-1 Topps trading card live in the booth.",
+      "published": "Sun, 08 Nov 2026 17:50:21 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "GB",
+        "NE"
+      ]
+    },
+    {
+      "title": "Eagles' Braden Mann Boots Second-Longest Punt Of The Century vs. Giants",
+      "url": "https://www.foxsports.com/stories/nfl/eagles-braden-mann-delivered-wild-86-yard-punt-vs-giants",
+      "summary": "Braden Mann's 86-yarder against the Giants became the longest punt in the NFL since 2001.",
+      "published": "Sun, 08 Nov 2026 15:33:19 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Giants QB J.J. McCarthy Leaves Game vs. Eagles Before Returning",
+      "url": "https://www.foxsports.com/stories/nfl/giants-jj-mccarthy-hip-injury-update",
+      "summary": "The New York Giants are dealing with another injury at quarterback.",
+      "published": "Sun, 08 Nov 2026 15:28:50 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYG",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Chiefs QB Patrick Mahomes Takes Rough Hit, But Remains In Game vs. Jets",
+      "url": "https://www.foxsports.com/stories/nfl/patrick-mahomes-elbow-injury-update-chiefs",
+      "summary": "The Kansas City Chiefs' season almost took a turn for the worse on Sunday.",
+      "published": "Sun, 08 Nov 2026 14:56:52 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "KC",
+        "NYJ"
+      ]
+    },
     {
       "title": "How to Watch Buccaneers vs. Bears: TV Channel, Live Stream, Time",
       "url": "https://www.foxsports.com/stories/nfl/how-to-watch-buccaneers-vs-bears-tv-channel-live-stream-time-nov-8-2026",
@@ -102,86 +158,60 @@
       ]
     },
     {
-      "title": "NFL Trade Deadline Intel: Jay Glazer Dishes On Which Teams Will Be Busy",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-intel-jay-glazer-dishes-which-teams-will-busy",
-      "summary": "Ahead of the trade deadline on Tuesday, Nov. 10, which teams are looking to make trades? FOX NFL Insider Jay Glazer reveals what teams want.",
-      "published": "Sun, 08 Nov 2026 13:21:40 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Sources: Puka Nacua set for tests on late-game knee injury; Rams believe ACL OK",
+      "url": "https://www.espn.com/nfl/story/_/id/50425853/sources-rams-puka-nacua-undergo-tests-knee",
+      "summary": "The Rams do not believe Puka Nacua suffered a torn ACL, but the imaging Monday will tell more, sources said.",
+      "published": "2026-11-08T22:57:08Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "A Homecoming At NC State: Philip Rivers Reportedly Agrees To Become Wolfpack's Head Coach",
-      "url": "https://www.foxsports.com/stories/college-football/philip-rivers-nc-state-head-coach-hire-details",
-      "summary": "The NC State Wolfpack have officially hired former NFL quarterback Philip Rivers as the program's next head football coach.",
-      "published": "Sun, 08 Nov 2026 12:58:16 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Giants Out On Jonathan Taylor: New York Has Pulled Multi-Pick Offer To Colts",
-      "url": "https://www.foxsports.com/stories/nfl/giants-pull-multi-draft-pick-offer-off-table-colts-star-jonathon-taylor",
-      "summary": "FOX NFL insider Jay Glazer appeared on FOX NFL Kickoff\u2019s pre-game show and gave the latest update on trade deadline rumors. He revealed that the Giants have officially withdrawn the offer they made weeks ago for Taylor.",
-      "published": "Sun, 08 Nov 2026 12:22:10 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
+      "category": "injury",
       "teams": [
-        "IND",
-        "NYG"
+        "LA"
       ]
     },
     {
-      "title": "2026 NFL Odds Week 9: Lines, Spreads, Results For All 15 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-9-lines-spreads-results-all-15-games",
-      "summary": "Check out the odds for every Week 9 NFL game.",
-      "published": "Sun, 08 Nov 2026 10:13:34 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026",
+      "summary": "Check here for Sunday's top moments, TDs and analysis.",
+      "published": "2026-11-08T22:28:22Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "How to Watch Lions vs. Dolphins: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-lions-vs-dolphins-tv-channel-live-stream-time-nov-8-2026",
-      "summary": "How to watch the Detroit Lions vs. Miami Dolphins on Sunday, November 8, 2026, plus key players to watch in this NFL matchup at Hard Rock Stadium.",
-      "published": "Sun, 08 Nov 2026 07:16:59 -0500",
-      "source": "FOX Sports NFL",
+      "title": "NFL Week 9: Big takeaways, questions and fantasy spin from Sunday's games",
+      "url": "https://www.espn.com/nfl/story/_/id/50369510/week-9-sunday-games-takeaways-questions-2026",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 9.",
+      "published": "2026-11-08T22:56:22Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Javonte Williams' late TD run helps Cowboys avoid another 4th-quarter collapse and beat Colts 27-23",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873040",
+      "summary": "\u2014 Javonte Williams scored the go-ahead touchdown on a 1-yard run with 1:08 remaining to cap a 101-yard rushing day, and the Dallas Cowboys rallied to beat the Indianapolis Colts 27-23 on Sunday.",
+      "published": "2026-11-08T22:21:35Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET",
-        "MIA"
+        "DAL",
+        "IND"
       ]
     },
     {
-      "title": "How to Watch Jets vs. Chiefs: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-jets-vs-chiefs-tv-channel-live-stream-time-nov-8-2026",
-      "summary": "Everything to know for New York Jets vs. Kansas City Chiefs on Sunday, November 8, 2026, including time, venue, TV, streaming and players to watch.",
-      "published": "Sun, 08 Nov 2026 07:16:25 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "How to Watch Browns vs. Saints: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-browns-vs-saints-tv-channel-live-stream-time-nov-8-2026",
-      "summary": "How to watch the Cleveland Browns vs. New Orleans Saints in Week 9, plus four players to watch heading into the November 8, 2026 matchup at Caesars Superdome.",
-      "published": "Sun, 08 Nov 2026 07:15:37 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Saints hold on for a 23-22 overtime victory over the Browns by stopping a 2-point conversion",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873039",
+      "summary": "\u2014 Tyler Shough floated a 15-yard timing pass to Juwan Johnson toward the right corner of the end zone for a touchdown and the desperate New Orleans Saints stopped a do-or-die, 2-point conversion to outlast the Cleveland Browns 23-22 in overtime on...",
+      "published": "2026-11-08T22:10:34Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -191,11 +221,11 @@
       ]
     },
     {
-      "title": "How to Watch Broncos vs. Panthers: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-broncos-vs-panthers-tv-channel-live-stream-time-nov-8-2026",
-      "summary": "How to watch the Denver Broncos vs. Carolina Panthers in NFL Week 9 on Sunday, November 8, 2026, plus players to watch for both teams.",
-      "published": "Sun, 08 Nov 2026 07:14:14 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Bo Nix throws for 2 TDs, Broncos win key challenge to beat Panthers 26-21 for fifth straight victory",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873041",
+      "summary": "\u2014 Bo Nix threw for 237 yards and two touchdowns and the Denver Broncos benefitted from a momentum-turning coach\u2019s challenge to beat the Carolina Panthers 26-21 on Sunday for their fifth straight win.",
+      "published": "2026-11-08T21:53:40Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -205,11 +235,36 @@
       ]
     },
     {
-      "title": "How to Watch Rams vs. Commanders: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-rams-vs-commanders-tv-channel-live-stream-time-nov-8-2026",
-      "summary": "How to watch the Los Angeles Rams vs. Washington Commanders in Week 9 of the 2026 NFL season, plus players to watch at Northwest Stadium on November 8.",
-      "published": "Sun, 08 Nov 2026 07:13:45 -0500",
-      "source": "FOX Sports NFL",
+      "title": "As the 'Peanut Punch' takes over NFL, how do teams counter it?",
+      "url": "https://www.espn.com/nfl/story/_/id/50380155/countering-peanut-punch-james-cook-skattebo",
+      "summary": "After Charles Tillman popularized the punch 14 years ago, it has really taken off this season.",
+      "published": "2026-11-08T22:38:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Winston, McCarthy combine to lead Giants to 19-11 win and hand Eagles 7th straight loss",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873044",
+      "summary": "\u2014 Jameis Winston replaced the injured J.J. McCarthy long enough to throw a go-ahead touchdown pass and help the New York Giants keep their grip on the NFC East and beat Philadelphia 19-11 on Sunday to hand the Eagles their seventh straight loss.",
+      "published": "2026-11-08T21:38:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NYG",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Puka Nacua, Myles Garrett lead Rams to 20-13 win over Commanders",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873043",
+      "summary": "\u2014 Matt Stafford found star receiver Puka Nacua early and often, Myles Garrett had three sacks and a forced fumble in his return and the Los Angeles Rams held on for their third straight victory, 20-13 over the Washington Commanders on Sunday.",
+      "published": "2026-11-08T21:37:34Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -219,53 +274,94 @@
       ]
     },
     {
-      "title": "How to Watch Giants vs. Eagles: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-giants-vs-eagles-tv-channel-live-stream-time-nov-8-2026",
-      "summary": "Giants vs. Eagles kicks off Sunday, Nov. 8, at 1 p.m. ET on FOX. Get the players to watch for this Week 9 game in Philadelphia.",
-      "published": "Sun, 08 Nov 2026 07:12:23 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Kenneth Walker scores 3 TDs as the Chiefs roll past the woeful Jets 35-12 to end their 2-game skid",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873045",
+      "summary": "\u2014 Chiefs quarterback Patrick Mahomes walked off the field dangling his right arm, which had been bent grotesquely on a strip-sack by the Jets' David Bailey, and for the briefest of moments a pall seemed to descend over Arrowhead Stadium on Sunday.",
+      "published": "2026-11-08T21:14:36Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "KC",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Lions grind past Dolphins 19-9 as Jahmyr Gibbs scores and Jake Bates makes 4 field goals",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873042",
+      "summary": "\u2014 The Detroit Lions have repeated a mantra all week in the aftermath of a scary neck injury to All-Pro linebacker Jack Campbell.",
+      "published": "2026-11-08T21:05:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET",
+        "MIA"
+      ]
+    },
+    {
+      "title": "Buccaneers vs. Bears odds: NFL Week 9 Sunday Night Football first touchdown scorer picks, predictions",
+      "url": "https://www.cbssports.com/betting/news/buccaneers-vs-bears-odds-nfl-week-9-sunday-night-football-first-touchdown-scorer-picks-predictions/",
+      "summary": "Here are our top picks for first touchdown prediction markets on Sunday Night Football between the Bears and Buccaneers",
+      "published": "Sun, 08 Nov 2026 22:50:38 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
+      "teams": [
+        "CHI",
+        "TB"
+      ]
+    },
+    {
+      "title": "10 NFL trades that need to happen: Derrick Henry to Patriots, Budda Baker to Bills among options",
+      "url": "https://www.cbssports.com/nfl/news/10-nfl-trades-deadline-derrick-henry-patriots-budda-baker-bills/",
+      "summary": "Kirk Cousins returns to Minnesota, George Pickens heads to Las Vegas and more aggressive moves contenders should make before Tuesday's trade deadline",
+      "published": "Sun, 08 Nov 2026 21:46:48 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BUF",
+        "NE"
+      ]
+    },
+    {
+      "title": "Giants' J.J. McCarthy returns against Eagles after hip injury sent QB to locker room",
+      "url": "https://www.cbssports.com/nfl/news/giants-j-j-mccarthy-hip-injury-update-vs-eagles/",
+      "summary": "Jameis Winston briefly entered the Week 9 contest in relief of McCarthy",
+      "published": "Sun, 08 Nov 2026 20:41:40 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
       "teams": [
         "NYG",
         "PHI"
       ]
     },
     {
-      "title": "How to Watch Bengals vs. Falcons: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-bengals-vs-falcons-tv-channel-live-stream-time-nov-8-2026",
-      "summary": "Bengals vs. Falcons kicks off Sunday, Nov. 8, at 9:30 a.m. ET on NFL Network. Get the TV channel, streaming options and players to watch for this Week 9 game in Madrid.",
-      "published": "Sun, 08 Nov 2026 07:11:48 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Chiefs looking to trade for wide receiver, GM Brett Veach tells NFL on CBS' Tracy Wolfson",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-looking-to-trade-for-wide-receiver-nfl-trade-deadline/",
+      "summary": "Kansas City has one of the NFL's least-productive wide receiver corps in 2026",
+      "published": "Sun, 08 Nov 2026 20:08:16 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "transaction",
       "teams": [
-        "ATL",
-        "CIN"
+        "KC"
       ]
     },
     {
-      "title": "How to Watch Cowboys vs. Colts: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cowboys-vs-colts-tv-channel-live-stream-time-nov-8-2026",
-      "summary": "Cowboys vs. Colts kicks off Sunday, Nov. 8, at 1 p.m. ET on FOX. Get the players to watch for this Week 9 game in Indianapolis.",
-      "published": "Sun, 08 Nov 2026 07:10:41 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "IND"
-      ]
-    },
-    {
-      "title": "Patriots vs. Packers Prediction, Odds, Pick For NFL Week 9",
-      "url": "https://www.foxsports.com/stories/nfl/patriots-vs-packers-prediction-odds-pick-nfl-week-9",
-      "summary": "Get the latest odds, prediction and pick for the Week 9 Patriots vs. Packers game, as well as information on how to watch.",
-      "published": "Sun, 08 Nov 2026 04:25:49 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Packers vs. Patriots odds, picks, prediction, spread, line: Start time, NFL Week 9 betting preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/packers-vs-patriots-odds-picks-prediction-spread-line-start-time-nfl-week-9-betting-preview-best-bets/",
+      "summary": "Here's everything bettors need to know about wagering on Packers vs. Patriots in NFL Week 9",
+      "published": "Sun, 08 Nov 2026 20:00:49 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -275,138 +371,24 @@
       ]
     },
     {
-      "title": "Seahawks vs. Cardinals Prediction, Odds, Pick For NFL Week 9",
-      "url": "https://www.foxsports.com/stories/nfl/seahawks-vs-cardinals-prediction-odds-pick-nfl-week-9",
-      "summary": "Get the latest odds, prediction and pick for the Week 9 Seahawks vs. Cardinals game, as well as information on how to watch.",
-      "published": "Sun, 08 Nov 2026 04:25:18 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Bill Belichick makes surprise return to Patriots ahead of New England's Week 9 showdown vs. Packers",
+      "url": "https://www.cbssports.com/nfl/news/bill-belichick-surprise-return-patriots-new-england-week-9-showdown-packers/",
+      "summary": "Belichick has kept his distance since leaving New England after parting ways in 2023.",
+      "published": "Sun, 08 Nov 2026 19:53:05 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ARI",
-        "SEA"
-      ]
-    },
-    {
-      "title": "49ers vs. Raiders Prediction, Odds, Pick For NFL Week 9",
-      "url": "https://www.foxsports.com/stories/nfl/49ers-vs-raiders-prediction-odds-pick-nfl-week-9",
-      "summary": "Get the latest odds, prediction and pick for the Week 9 49ers vs. Raiders game, as well as information on how to watch.",
-      "published": "Sun, 08 Nov 2026 04:25:01 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LV",
-        "SF"
-      ]
-    },
-    {
-      "title": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026",
-      "summary": "Check here for Sunday's top moments, TDs and analysis.",
-      "published": "2026-11-08T18:47:57Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Burrow powers Bengals past the Falcons in Madrid for their 4th straight win",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873038",
-      "summary": "\u2014 Joe Burrow threw for three touchdowns and rushed for another and the Cincinnati Bengals' offense kept rolling to defeat the Atlanta Falcons 34-17 in Madrid on Sunday for their fourth straight win.",
-      "published": "2026-11-08T18:02:35Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "CIN"
-      ]
-    },
-    {
-      "title": "2026 NFL trade deadline updates: Jacoby Brissett, Jeffery Simmons on the move",
-      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-      "summary": "The NFL trade deadline is Nov. 10, but deals have already started. We're tracking all moves, including Jacoby Brissett to Baltimore.",
-      "published": "2026-11-08T18:10:06Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Bengals' Burrow, Chase, Higgins add Spanish flair to TD celebrations in Madrid",
-      "url": "https://www.espn.com/nfl/story/_/id/50421721/cincinnati-bengals-real-madrid-spain-touchdown-celebrations",
-      "summary": "The Bengals' first-half lead called for celebrations inspired by being in Spain.",
-      "published": "2026-11-08T18:19:56Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN"
-      ]
-    },
-    {
-      "title": "NFL Week 9: Big takeaways, questions and fantasy spin from Sunday's games",
-      "url": "https://www.espn.com/nfl/story/_/id/50369510/week-9-sunday-games-takeaways-questions-2026",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 9.",
-      "published": "2026-11-08T18:24:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 9 arrivals: Lions show support for Jack Campbell",
-      "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
-      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-08T16:55:10Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "Cowboys WR Pickens, CB Porter, LB Overshown inactive against Colts",
-      "url": "https://www.espn.com/nfl/story/_/id/50421090/cowboys-wr-pickens-cb-porter-lb-overshown-inactive-vs-colts",
-      "summary": "The Cowboys will be without wide receiver George Pickens, cornerback Joey Porter Jr. and linebacker DeMarvion Overshown against the Colts.",
-      "published": "2026-11-08T17:42:57Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "IND"
-      ]
-    },
-    {
-      "title": "Ben Johnson's Stanky Legg dance is Chicago Bears' latest postgame tradition",
-      "url": "https://www.espn.com/nfl/story/_/id/50415535/ben-johnson-chicago-bears-stanky-legg",
-      "summary": "As the weeks progress for the Bears, players eagerly await Johnson's dance, knowing that it signifies another win.",
-      "published": "2026-11-08T16:06:30Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "CHI"
+        "GB",
+        "NE"
       ]
     },
     {
       "title": "Browns' Shedeur Sanders claims 'smiling' comment about Saints defense was taken out of context",
       "url": "https://www.cbssports.com/nfl/news/saints-motivated-to-face-browns-shedeur-sanders/",
       "summary": "However, Sanders claims he doesn't care about how the Saints' defense feels",
-      "published": "Sun, 08 Nov 2026 18:58:34 +0000",
+      "published": "Sun, 08 Nov 2026 20:06:00 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -586,20 +568,6 @@
       "teams": []
     },
     {
-      "title": "Buccaneers vs. Bears odds: First touchdown scorer picks, predictions for NFL Week 9 Sunday Night Football",
-      "url": "https://www.cbssports.com/prediction/news/buccaneers-vs-bears-odds-first-touchdown-scorer-picks-predictions-for-nfl-week-9-sunday-night-football/",
-      "summary": "Here are our top picks for first touchdown prediction markets on Sunday Night Football between the Bears and Buccaneers",
-      "published": "Sun, 08 Nov 2026 13:00:56 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "TB"
-      ]
-    },
-    {
       "title": "Falcons vs. Bengals prediction: Stars on display in Madrid as Cincinnati seeks first international win",
       "url": "https://www.cbssports.com/nfl/news/falcons-vs-bengals-prediction-odds-where-to-watch/",
       "summary": "The NFL returns to Spain for the second straight season with a matchup that features many of the league's top offensive stars",
@@ -637,127 +605,6 @@
       "trust": "NETWORK",
       "category": "injury",
       "teams": []
-    },
-    {
-      "title": "NFL Week 9 last-minute best bets: Packers upset Patriots in Foxborough, Rams edge out road win vs. Commanders",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-last-minute-best-bets-packers-upset-patriots/",
-      "summary": "Need some last-minute advice on how to bet the Week 9 slate? Allow us to be of assistance",
-      "published": "Sat, 07 Nov 2026 20:44:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "LA",
-        "NE",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Pick your poison: Rams' Myles Garrett anticipates matchup nightmares in first game with Aaron Donald",
-      "url": "https://www.cbssports.com/nfl/news/rams-myles-garrett-anticipates-matchup-nightmares-first-game-aaron-donald/",
-      "summary": "An injured reserve stint delayed the first look at Garrett and Donald in the same lineup, but now they could dominate opposing offenses",
-      "published": "Sat, 07 Nov 2026 20:38:18 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "Rams' Quentin Lake apologizes to Justin Herbert for 'deli meat' remarks, Chargers not moving QB via trade",
-      "url": "https://www.cbssports.com/nfl/news/rams-quentin-lake-apologizes-justin-herbert-deli-meat-remarks-chargers/",
-      "summary": "Herbert leads the NFL in interceptions and holds the league's worst QBR through seven games",
-      "published": "Sat, 07 Nov 2026 17:20:13 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "LA",
-        "LAC"
-      ]
-    },
-    {
-      "title": "NFL trade deadline rumors: Could Giants' John Harbaugh reunite with former running back?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-rumors-giants-john-harbaugh-reunite-former-running-back/",
-      "summary": "Harbaugh brought seven players with him from the Ravens when he took the Giants job. Might an eighth be on the way?",
-      "published": "Sat, 07 Nov 2026 17:14:07 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "BAL",
-        "NYG"
-      ]
-    },
-    {
-      "title": "NFL week 9 anytime TD best bets: Look for Jonah Coleman and Joe Milton III to find end zone",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-anytime-td-best-bets-jonah-coleman-joe-milton-iii/",
-      "summary": "Target strong value in the red zone this week with five picks, including rookie runner Jonah Coleman against a reeling Panthers defense",
-      "published": "Sun, 08 Nov 2026 16:06:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR"
-      ]
-    },
-    {
-      "title": "Chargers not interested in Khalil Mack trade, will retain top offensive players despite 0-7 record, per report",
-      "url": "https://www.cbssports.com/nfl/news/trade-deadline-chargers-to-retain-khalil-mack-top-offensive-players-despite-0-7-record/",
-      "summary": "The winless Chargers will stick to the status quo",
-      "published": "Sat, 07 Nov 2026 16:35:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "NFL Week 9 odds, Brinson's best bets: Best player props, anytime touchdown scorers picks for Sunday matchups",
-      "url": "https://www.cbssports.com/betting/news/nfl-week-9-odds-brinsons-best-bets-best-player-props-anytime-touchdown-scorers-picks-for-sunday-matchups/",
-      "summary": "Back the Colts as dogs against Dallas, trust New England in Foxborough and target a low rushing total for Ashton Jeanty",
-      "published": "Sun, 08 Nov 2026 16:14:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "2026 NFL trade deadline candidates: Ranking big-name players into tiers",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-candidates-impact-tiers/",
-      "summary": "From proven stars like Jonathan Taylor and Maxx Crosby to discount playmakers and depth rentals, here is a look at who could switch teams before the window closes",
-      "published": "Sat, 07 Nov 2026 16:24:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "NFL trade deadline: Four Eagles, two more Colts and a starting QB included among top candidates",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-rankings-top-25-eagles-colts/",
-      "summary": "Saquon Barkley, Jonathan Taylor, Kirk Cousins and more could fetch returns at the trade deadline",
-      "published": "Sat, 07 Nov 2026 16:22:22 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "PHI"
-      ]
     }
   ],
   "reporters": []
