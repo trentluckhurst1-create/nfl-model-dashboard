@@ -1,25 +1,179 @@
 {
-  "updated_at_utc": "2026-11-08T07:55:45.214747+00:00",
-  "checked_at_utc": "2026-11-08T07:55:45.214747+00:00",
+  "updated_at_utc": "2026-11-08T14:52:38.195857+00:00",
+  "checked_at_utc": "2026-11-08T14:52:38.195857+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 1,
+      "items": 6,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 22
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 18,
+      "items": 19,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "How to Watch Lions vs. Dolphins: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-lions-vs-dolphins-tv-channel-live-stream-time-nov-8-2026",
+      "summary": "How to watch the Detroit Lions vs. Miami Dolphins on Sunday, November 8, 2026, plus key players to watch in this NFL matchup at Hard Rock Stadium.",
+      "published": "Sun, 08 Nov 2026 07:16:59 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "MIA"
+      ]
+    },
+    {
+      "title": "How to Watch Jets vs. Chiefs: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-jets-vs-chiefs-tv-channel-live-stream-time-nov-8-2026",
+      "summary": "Everything to know for New York Jets vs. Kansas City Chiefs on Sunday, November 8, 2026, including time, venue, TV, streaming and players to watch.",
+      "published": "Sun, 08 Nov 2026 07:16:25 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "How to Watch Browns vs. Saints: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-browns-vs-saints-tv-channel-live-stream-time-nov-8-2026",
+      "summary": "How to watch the Cleveland Browns vs. New Orleans Saints in Week 9, plus four players to watch heading into the November 8, 2026 matchup at Caesars Superdome.",
+      "published": "Sun, 08 Nov 2026 07:15:37 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "NO"
+      ]
+    },
+    {
+      "title": "How to Watch Broncos vs. Panthers: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-broncos-vs-panthers-tv-channel-live-stream-time-nov-8-2026",
+      "summary": "How to watch the Denver Broncos vs. Carolina Panthers in NFL Week 9 on Sunday, November 8, 2026, plus players to watch for both teams.",
+      "published": "Sun, 08 Nov 2026 07:14:14 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "DEN"
+      ]
+    },
+    {
+      "title": "How to Watch Rams vs. Commanders: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-rams-vs-commanders-tv-channel-live-stream-time-nov-8-2026",
+      "summary": "How to watch the Los Angeles Rams vs. Washington Commanders in Week 9 of the 2026 NFL season, plus players to watch at Northwest Stadium on November 8.",
+      "published": "Sun, 08 Nov 2026 07:13:45 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "WAS"
+      ]
+    },
+    {
+      "title": "How to Watch Giants vs. Eagles: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-giants-vs-eagles-tv-channel-live-stream-time-nov-8-2026",
+      "summary": "Giants vs. Eagles kicks off Sunday, Nov. 8, at 1 p.m. ET on FOX. Get the players to watch for this Week 9 game in Philadelphia.",
+      "published": "Sun, 08 Nov 2026 07:12:23 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "PHI"
+      ]
+    },
+    {
+      "title": "How to Watch Bengals vs. Falcons: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-bengals-vs-falcons-tv-channel-live-stream-time-nov-8-2026",
+      "summary": "Bengals vs. Falcons kicks off Sunday, Nov. 8, at 9:30 a.m. ET on NFL Network. Get the TV channel, streaming options and players to watch for this Week 9 game in Madrid.",
+      "published": "Sun, 08 Nov 2026 07:11:48 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "CIN"
+      ]
+    },
+    {
+      "title": "How to Watch Cowboys vs. Colts: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cowboys-vs-colts-tv-channel-live-stream-time-nov-8-2026",
+      "summary": "Cowboys vs. Colts kicks off Sunday, Nov. 8, at 1 p.m. ET on FOX. Get the players to watch for this Week 9 game in Indianapolis.",
+      "published": "Sun, 08 Nov 2026 07:10:41 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "IND"
+      ]
+    },
+    {
+      "title": "Patriots vs. Packers Prediction, Odds, Pick For NFL Week 9",
+      "url": "https://www.foxsports.com/stories/nfl/patriots-vs-packers-prediction-odds-pick-nfl-week-9",
+      "summary": "Get the latest odds, prediction and pick for the Week 9 Patriots vs. Packers game, as well as information on how to watch.",
+      "published": "Sun, 08 Nov 2026 04:25:49 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "NE"
+      ]
+    },
+    {
+      "title": "Seahawks vs. Cardinals Prediction, Odds, Pick For NFL Week 9",
+      "url": "https://www.foxsports.com/stories/nfl/seahawks-vs-cardinals-prediction-odds-pick-nfl-week-9",
+      "summary": "Get the latest odds, prediction and pick for the Week 9 Seahawks vs. Cardinals game, as well as information on how to watch.",
+      "published": "Sun, 08 Nov 2026 04:25:18 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "49ers vs. Raiders Prediction, Odds, Pick For NFL Week 9",
+      "url": "https://www.foxsports.com/stories/nfl/49ers-vs-raiders-prediction-odds-pick-nfl-week-9",
+      "summary": "Get the latest odds, prediction and pick for the Week 9 49ers vs. Raiders game, as well as information on how to watch.",
+      "published": "Sun, 08 Nov 2026 04:25:01 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV",
+        "SF"
+      ]
+    },
     {
       "title": "NFL DFS Week 9: Best Picks, Lineup Advice and Value Plays",
       "url": "https://www.foxsports.com/stories/nfl/nfl-dfs-week-9-best-picks-lineup-advice-value-plays",
@@ -122,147 +276,243 @@
       "teams": []
     },
     {
-      "title": "2026 NFL, CFB Odds: Best Bets For Texas-Missouri, Rams-Commanders",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-cfb-odds-best-bets-texas-missouri-rams-commanders",
-      "summary": "Sammy P is back with his best bets for the weekend, including four \u2014 four! \u2014 underdogs to cover.",
-      "published": "Fri, 06 Nov 2026 16:32:27 -0500",
-      "source": "FOX Sports NFL",
+      "title": "J.J. McCarthy wowing Giants after initial concerns over QB's 'maturity,' VP says",
+      "url": "https://www.espn.com/nfl/story/_/id/50419727/jj-mccarthy-wowing-giants-concerns-maturity",
+      "summary": "Chris Mara said the Giants were concerned by J.J. McCarthy's maturity before the 2024 draft but says the QB has impressed his new team \"on and off the field.\"",
+      "published": "2026-11-08T14:23:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Sources: Lamar Jackson told Ravens teammates he plans to return this season",
+      "url": "https://www.espn.com/nfl/story/_/id/50407561/sources-lamar-jackson-told-ravens-plans-return-26",
+      "summary": "Lamar Jackson told his Ravens teammates that he plans to return later this season, sources told NFL Network.",
+      "published": "2026-11-08T14:19:32Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LA",
-        "WAS"
+        "BAL"
       ]
     },
     {
-      "title": "Sean McVay Gives Myles Garrett Update For Rams; Superstar Poised To Return?",
-      "url": "https://www.foxsports.com/stories/nfl/myles-garrett-injury-update-rams-news",
-      "summary": "The Los Angeles Rams are expected to activate superstar pass rusher Myles Garrett from injured reserve for Week 9.",
-      "published": "Fri, 06 Nov 2026 14:57:51 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Sources: Seahawks' Sam Darnold in jeopardy of missing Week 10 game vs. Raiders",
+      "url": "https://www.espn.com/nfl/story/_/id/50400897/sources-seahawks-sam-darnold-danger-missing-week-10",
+      "summary": "Seahawks QB Sam Darnold, who is out Sunday against the Cardinals, also is in danger of missing Seattle's Week 10 game against the Raiders, sources told ESPN.",
+      "published": "2026-11-08T13:33:54Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "qb",
       "teams": [
-        "LA"
+        "ARI",
+        "LV",
+        "SEA"
       ]
     },
     {
-      "title": "Patriots RB Henderson Reveals Hospitalization For Neurological Symptoms",
-      "url": "https://www.foxsports.com/stories/nfl/new-england-patriots-treveyon-henderson-hospital-tests",
-      "summary": "The Patriots running back revealed he has spent several days in the hospital to determine the cause of unexplained neurological symptoms that have affected his strength and coordination.",
-      "published": "Fri, 06 Nov 2026 14:13:50 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026",
+      "summary": "Check here for Sunday's top moments, TDs and analysis.",
+      "published": "2026-11-08T13:22:52Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Weekly Patriots notes: What New England could do at the trade deadline, intel",
+      "url": "https://www.espn.com/nfl/story/_/id/50401769/new-england-patriots-notebook-week-9-trade-deadline-plans",
+      "summary": "The Patriots will upgrade if they can before Tuesday's deadline, but it might be quiet. In fact, New England could even trade away someone like Christian Barmore.",
+      "published": "2026-11-08T11:00:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
       "teams": [
         "NE"
       ]
     },
     {
-      "title": "Browns QB Deshaun Watson In Concussion Protocol; Will Shedeur Sanders Start?",
-      "url": "https://www.foxsports.com/stories/nfl/deshaun-watson-concussion-injury-update-browns-shedeur-sanders",
-      "summary": "Shedeur Sanders will start at quarterback for the Browns in Week 9 against the Saints, as Deshaun Watson deals with a head injury.",
-      "published": "Fri, 06 Nov 2026 13:57:05 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Geno Smith has been upgrade from Justin Fields for Jets -- except in win column",
+      "url": "https://www.espn.com/nfl/story/_/id/50400929/jets-qb-upgrade-geno-smith-justin-fields",
+      "summary": "Smith statistically has outperformed Fields in New York, but they both only have two wins.",
+      "published": "2026-11-08T14:30:12Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "NFL Week 9 odds, predictions, expert picks, best bets, teasers: Can Packers upset Patriots?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-odds-how-to-watch-streaming-expert-picks/",
+      "summary": "CBS Sports experts pick every Week 9 game against the spread, with most backing Green Bay to upset New England",
+      "published": "Sun, 08 Nov 2026 14:43:18 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "NE"
+      ]
+    },
+    {
+      "title": "Week 9 NFL betting promos: Get over $3,000 in bonuses from betting apps, sportsbooks, BetMGM, DraftKings",
+      "url": "https://www.cbssports.com/betting/news/week-9-nfl-betting-promos-get-over-3000-bonuses-from-betting-apps-sportsbooks-betmgm-draftkings/",
+      "summary": "Top Week 9 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Sun, 08 Nov 2026 14:10:34 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Broncos vs. Panthers odds, picks, prediction, spread: Betting preview, best bets for NFL Week 9",
+      "url": "https://www.cbssports.com/betting/news/broncos-vs-panthers-odds-picks-prediction-spread-betting-preview-best-bets-for-nfl-week-9/",
+      "summary": "Here's everything bettors need to know for Broncos vs. Panthers in NFL Week 9",
+      "published": "Sun, 08 Nov 2026 13:30:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "DEN"
+      ]
+    },
+    {
+      "title": "Have we been thinking about franchise QBs all wrong? CJ Carr, Darian Mensah and the Brock Purdy predicament",
+      "url": "https://www.cbssports.com/nfl/draft/news/nfl-draft-franchise-qbs-cj-carr-darian-mensah-and-brock-purdy-predicament/",
+      "summary": "Saturday's Miami-Notre Dame showdown offered a reminder that playing quarterback is about more than looking the part.",
+      "published": "Sun, 08 Nov 2026 13:08:04 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Buccaneers vs. Bears odds: First touchdown scorer picks, predictions for NFL Week 9 Sunday Night Football",
+      "url": "https://www.cbssports.com/prediction/news/buccaneers-vs-bears-odds-first-touchdown-scorer-picks-predictions-for-nfl-week-9-sunday-night-football/",
+      "summary": "Here are our top picks for first touchdown prediction markets on Sunday Night Football between the Bears and Buccaneers",
+      "published": "Sun, 08 Nov 2026 13:00:56 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "TB"
+      ]
+    },
+    {
+      "title": "Falcons vs. Bengals prediction: Stars on display in Madrid as Cincinnati seeks first international win",
+      "url": "https://www.cbssports.com/nfl/news/falcons-vs-bengals-prediction-odds-where-to-watch/",
+      "summary": "The NFL returns to Spain for the second straight season with a matchup that features many of the league's top offensive stars",
+      "published": "Sun, 08 Nov 2026 12:42:20 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "CIN"
+      ]
+    },
+    {
+      "title": "Browns vs. Saints odds, picks, prediction, spread: Start time, NFL Week 9 betting preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/browns-vs-saints-odds-picks-prediction-spread-start-time-nfl-week-9-betting-preview-best-bets/",
+      "summary": "Here's everything bettors need to know for Browns vs. Saints in NFL Week 9",
+      "published": "Sun, 08 Nov 2026 12:35:30 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": [
         "CLE",
         "NO"
       ]
     },
     {
-      "title": "NFL Reportedly Tells Brandon Aiyuk He Owes 49ers About $13 Million",
-      "url": "https://www.foxsports.com/stories/nfl/san-francisco-49ers-brandon-aiyuk-reinstatement-bonuses",
-      "summary": "The NFL told receiver Brandon Aiyuk that he needs to repay the San Francisco 49ers about $13 million he in bonuses as he tries to get reinstated to the team\u2019s roster.",
-      "published": "Fri, 06 Nov 2026 13:09:37 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Where Everybody Knows His Name: Boston Bartenders Reflect On Tom Brady's Impact",
-      "url": "https://www.foxsports.com/stories/nfl/boston-bartenders-reflect-tom-brady-impact-boston",
-      "summary": "As Tom Brady returns to Gillette Stadium as a broadcaster, we spoke with local bartenders about his lasting legacy on the Boston sports community.",
-      "published": "Fri, 06 Nov 2026 11:55:14 -0500",
-      "source": "FOX Sports NFL",
+      "title": "2026 Week 9 NFL player props, odds, picks, best bets for Sunday's games include Brock Purdy, Nico Collins",
+      "url": "https://www.cbssports.com/betting/news/2026-week-9-nfl-player-props-odds-picks-best-bets-for-sundays-games-include-brock-purdy-nico-collins/",
+      "summary": "Bet on Week 9 NFL player props at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
+      "published": "Sun, 08 Nov 2026 12:05:18 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "2026 NFL Week 9 Best Bets, Expert Picks: Are Vikings In The Bills' League?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-9-best-bets-expert-picks-vikings-bills-league",
-      "summary": "Is Minnesota fool's gold, or can it hang with the league's best? Geoff Schwartz gives his take.",
-      "published": "Fri, 06 Nov 2026 09:20:03 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Packers vs. Patriots odds, picks, prediction, spread, line: Start time, NFL Week 9 betting preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/packers-vs-patriots-odds-picks-prediction-spread-line-start-time-nfl-week-9-betting-preview-best-bets/",
+      "summary": "Here's everything bettors need to know about wagering on Packers vs. Patriots in NFL Week 9",
+      "published": "Sun, 08 Nov 2026 11:45:41 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BUF",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Jaguars Overwhelm Lamar Jackson-Less Ravens: 3 Takeaways From Jacksonville's Win",
-      "url": "https://www.foxsports.com/stories/nfl/baltimore-never-stood-chance-3-takeaways-from-jaguars-win-over-ravens",
-      "summary": "Joe Fagnano never got going against the Jaguars, who delivered a blowout win over the Ravens.",
-      "published": "Thu, 05 Nov 2026 23:07:06 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "JAX"
-      ]
-    },
-    {
-      "title": "How A Goofy Rookie Called 'Gronk' Transformed Into The Best Tight End Ever",
-      "url": "https://www.foxsports.com/stories/nfl/how-rob-gronkowski-transformed-best-tight-end-all-time",
-      "summary": "As Rob Gronkowski enters the Patriots' Hall of Fame, we look back at where it all began to unearth the birth of the legend of \"The Gronk.\"",
-      "published": "Thu, 05 Nov 2026 19:21:55 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
+        "GB",
         "NE"
       ]
     },
     {
-      "title": "Who Are Tom Brady's Top 4 NFL MVP Candidates? The GOAT Assesses The Favorites",
-      "url": "https://www.foxsports.com/stories/nfl/tom-brady-nfl-mvp-candidates-josh-allen",
-      "summary": "Tom Brady shared four players he believes are vying for the NFL MVP award.",
-      "published": "Thu, 05 Nov 2026 18:46:24 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
-      "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "published": "2026-11-08T02:18:40Z",
-      "source": "ESPN NFL",
+      "title": "Giants vs. Eagles odds, picks, prediction, spread, line: Start time, betting preview, best bets for NFL Week 9",
+      "url": "https://www.cbssports.com/betting/news/nfl-week-9-giants-vs-eagles-odds-picks-prediction-spread-line-start-time-betting-preview-best-bets/",
+      "summary": "Here's everything bettors need to know for Giants vs. Eagles in NFL Week 9",
+      "published": "Sun, 08 Nov 2026 11:45:38 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "LAC",
+        "NYG",
         "PHI"
+      ]
+    },
+    {
+      "title": "Prisco's Week 9 NFL expert picks: Bengals rout Falcons in Madrid, Cowboys rebound",
+      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-9-nfl-expert-picks/",
+      "summary": "Pete Prisco reveals all of his Week 9 picks, including the Bills handing the Vikings their second straight loss",
+      "published": "Sun, 08 Nov 2026 11:00:48 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "BUF",
+        "CIN",
+        "DAL",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Jets vs. Chiefs odds, picks, prediction, spread: Start time, NFL Week 9 betting preview, best bets",
+      "url": "https://www.cbssports.com/betting/news/jets-vs-chiefs-odds-picks-prediction-spread-start-time-nfl-week-9-betting-preview-best-bets/",
+      "summary": "Here's everything bettors need to know for Jets vs. Chiefs in NFL Week 9",
+      "published": "Sun, 08 Nov 2026 10:00:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "NYJ"
       ]
     },
     {
@@ -277,20 +527,6 @@
       "teams": [
         "CHI",
         "TB"
-      ]
-    },
-    {
-      "title": "Falcons vs. Bengals: Cincinnati seeks first international win as division contenders travel to Madrid",
-      "url": "https://www.cbssports.com/nfl/news/falcons-vs-bengals-prediction-odds-where-to-watch/",
-      "summary": "The NFL returns to Spain for the second straight season with a matchup that features many of the league's top offensive stars",
-      "published": "Sun, 08 Nov 2026 00:01:11 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "CIN"
       ]
     },
     {
@@ -413,290 +649,6 @@
       "teams": [
         "IND"
       ]
-    },
-    {
-      "title": "2026 NFL trade deadline candidates: Ranking big-name players into tiers",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-candidates-impact-tiers/",
-      "summary": "From proven stars like Jonathan Taylor and Maxx Crosby to discount playmakers and depth rentals, here is a look at who could switch teams before the window closes",
-      "published": "Sat, 07 Nov 2026 16:24:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "NFL trade deadline: Four Eagles, two more Colts and a starting QB included among top candidates",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-rankings-top-25-eagles-colts/",
-      "summary": "Saquon Barkley, Jonathan Taylor, Kirk Cousins and more could fetch returns at the trade deadline",
-      "published": "Sat, 07 Nov 2026 16:22:22 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Cowboys should consider trading George Pickens: 5 logical destinations at NFL trade deadline",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-nfl-trade-deadline-george-pickens-destinations/",
-      "summary": "Pickens received only four targets in Dallas' historic collapse against Arizona, adding urgency to the Cowboys' decision before the NFL trade deadline",
-      "published": "Sat, 07 Nov 2026 16:21:04 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Frustrated Derrick Henry responds to trade rumors, Ravens not expected to deal him, per report",
-      "url": "https://www.cbssports.com/nfl/news/ravens-derrick-henry-trade-rumor-thoughts-nfl-trade-deadline/",
-      "summary": "Henry was not a happy camper after Baltimore's fourth straight setback",
-      "published": "Sat, 07 Nov 2026 15:48:14 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "NFL trade deadline rumors: Colts' Daniel Jones could get dealt and there's only one team that makes sense",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-rumors-colts-daniel-jones-vikings/",
-      "summary": "The Vikings are 6-1 despite fielding the league's second-worst passing attack, and a reunion with Kevin O'Connell makes all the sense in the world",
-      "published": "Sat, 07 Nov 2026 14:18:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "MIN"
-      ]
-    },
-    {
-      "title": "NFL Week 9 injury report: Mike Evans ruled out, Seahawks' Quenton Nelson 'week-to-week' after knee procedure",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-seahawks-quenton-nelson-out-knee-procedure/",
-      "summary": "The final injury reports for every NFL team in Week 9",
-      "published": "Sat, 07 Nov 2026 01:23:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SEA"
-      ]
-    },
-    {
-      "title": "Brandon Aiyuk returns to 49ers offices to seek NFL reinstatement as $13 million problem looms",
-      "url": "https://www.cbssports.com/nfl/news/brandon-aiyuk-returns-49ers-offices-13-million-problem-looms/",
-      "summary": "The wide receiver says he is 100% healthy and filing for NFL reinstatement, though a $13 million financial dispute remains",
-      "published": "Sat, 07 Nov 2026 00:39:41 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Is Drew Mestemaker really QB1? A troubling trend and lessons from Caleb Williams, Trevor Lawrence",
-      "url": "https://www.cbssports.com/nfl/draft/news/is-drew-mestemaker-really-qb1-troubling-trend-lessons-from-caleb-williams-trevor-lawrence/",
-      "summary": "The Oklahoma State QB has become a popular QB1 choice, but his mistakes under pressure offer a warning \u2013 and some fascinating historical comparisons.",
-      "published": "Fri, 06 Nov 2026 20:16:17 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Antonio Brown avoids jail time, receives punishment after plea deal in Miami shooting",
-      "url": "https://www.cbssports.com/nfl/news/steelers-bucs-antonio-brown-takes-plea-deal-in-miami-shooting/",
-      "summary": "The former NFL star was accused of opening fire at a man last year",
-      "published": "Fri, 06 Nov 2026 20:03:20 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL in Spain: Bengals star Joe Burrow goes full tourist in Madrid, reveals the one thing he hates the most",
-      "url": "https://www.cbssports.com/nfl/news/nfl-spain-bengals-joe-burrow-full-tourist-in-madrid/",
-      "summary": "The Bengals are fully enjoying their time in the Spanish capital, which has been taken over by Cincinnati fans",
-      "published": "Fri, 06 Nov 2026 19:08:24 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN"
-      ]
-    },
-    {
-      "title": "Browns name starting QB for Week 9 game vs. Saints: Shedeur Sanders gets nod over Deshaun Watson",
-      "url": "https://www.cbssports.com/nfl/news/browns-name-starting-qb-week-9-saints-shedeur-sanders-deshaun-watson/",
-      "summary": "Sanders briefly replaced Watson during last Sunday's loss in Pittsburgh",
-      "published": "Sat, 07 Nov 2026 00:45:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CLE",
-        "NO"
-      ]
-    },
-    {
-      "title": "Myles Garrett on track to be activated ahead of Rams Week 9 matchup vs. Commanders",
-      "url": "https://www.cbssports.com/nfl/news/myles-garrett-injury-status-rams-week-9-vs-commanders/",
-      "summary": "Los Angeles could be getting its star pass rusher back",
-      "published": "Fri, 06 Nov 2026 19:38:55 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "LA",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Patriots' TreVeyon Henderson provides update on 'unknown and unexplainable' illness",
-      "url": "https://www.cbssports.com/nfl/news/patriots-treveyon-henderson-update-unknown-unexplainable-illness/",
-      "summary": "The second-year back spent several days in the hospital with neurological symptoms that affected his strength and coordination",
-      "published": "Fri, 06 Nov 2026 16:55:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Chargers' Mike McDaniel to begin calling play from the booth: Desperation move or possible fix?",
-      "url": "https://www.cbssports.com/nfl/news/chargers-mike-mcdaniel-calling-play-from-booth-desperation-move/",
-      "summary": "Los Angeles enters Week 9 with a 0-7 record",
-      "published": "Fri, 06 Nov 2026 16:38:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "Jacoby Brissett trade grades: Cardinals earn high mark, Ravens stay afloat in mutually beneficial trade",
-      "url": "https://www.cbssports.com/nfl/news/jacoby-brissett-trade-grades-cardinals-ravens-trade-deadline/",
-      "summary": "The Ravens needed a quarterback, and the Cardinals got valuable draft capital",
-      "published": "Fri, 06 Nov 2026 16:30:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "ARI",
-        "BAL"
-      ]
-    },
-    {
-      "title": "NFL Trade Deadline: 4 mock trades that would make Steelers a true Super Bowl contender",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-4-trade-options-steelers-super-bowl-contender/",
-      "summary": "Pittsburgh needs to make the most of its 6-2 start while giving Aaron Rodgers a real chance to win big in his final season",
-      "published": "Fri, 06 Nov 2026 15:30:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "NFL Week 9 underrated games: An international game, two AFC vs. NFC showdowns to add to your watch list",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-underrated-games-madrid-falcons-bengals/",
-      "summary": "A look at three games you should keep an eye on this week",
-      "published": "Fri, 06 Nov 2026 15:00:52 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Texans vs. Chargers betting trends, picks: Matchup of struggling teams to make NFL history for wrong reasons",
-      "url": "https://www.cbssports.com/betting/news/texans-vs-chargers-betting-trends-picks-matchup-of-struggling-teams-to-make-nfl-history-for-wrong-reasons/",
-      "summary": "Unwanted NFL history, at least for the two teams involved, will be made Sunday when the Texans visit the Chargers",
-      "published": "Fri, 06 Nov 2026 14:47:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Jaguars rout undermanned Ravens; Miami vs. Notre Dame college football picks; LIV Golf shuts down",
-      "url": "https://www.cbssports.com/nfl/news/jaguars-ravens-nfl-miami-notre-dame-college-football-picks-liv-golf/",
-      "summary": "Plus, which teams are on upset alert for Week 9 in the NFL",
-      "published": "Fri, 06 Nov 2026 13:48:26 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "JAX"
-      ]
-    },
-    {
-      "title": "Ballin' with backups: Malik Nabers is most QB proof WR since Larry Fitzgerald, DeAndre Hopkins",
-      "url": "https://www.cbssports.com/nfl/news/giants-malik-nabers-ballin-with-backup-quarterbacks-jj-mccarthy/",
-      "summary": "Malik Nabers has four straight 100-yard receiving games with backup QBs entering Sunday's game vs. Philadelphia",
-      "published": "Fri, 06 Nov 2026 12:44:00 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 9 picks: Our experts face off on Bengals vs. Falcons, Packers at Patriots and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-picks-experts-face-off-jaguars-ravens-bengals-falcons/",
-      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
-      "published": "Fri, 06 Nov 2026 12:21:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "CIN",
-        "GB",
-        "NE"
-      ]
-    },
-    {
-      "title": "100 days until Super Bowl LXI: 100 things to know about the playoff race, contenders, predictions",
-      "url": "https://www.cbssports.com/nfl/news/100-days-until-super-bowl-lxi-100-things-to-know/",
-      "summary": "We are officially 100 days from the Super Bowl. Here are 100 facts and storylines to get you ready",
-      "published": "Fri, 06 Nov 2026 12:25:00 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     }
   ],
   "reporters": []
