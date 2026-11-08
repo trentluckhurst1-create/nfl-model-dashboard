@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-11-07T22:18:46.471453+00:00",
-  "checked_at_utc": "2026-11-07T22:18:46.471453+00:00",
+  "updated_at_utc": "2026-11-08T01:33:15.214119+00:00",
+  "checked_at_utc": "2026-11-08T01:33:15.214119+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 34
+      "items": 33
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -214,8 +214,8 @@
     {
       "title": "Rob Gronkowski caps Brady-attended Patriots Hall of Fame ceremony with spike",
       "url": "https://www.espn.com/nfl/story/_/id/50412382/rob-gronkowski-caps-brady-attended-patriots-hall-fame-ceremony-spike",
-      "summary": "Rob Gronkowski was officially inducted into the New England Patriots Hall of Fame Saturday with fellow Hall of Famers in attendance, including Tom Brady.",
-      "published": "2026-11-07T21:46:20Z",
+      "summary": "Rob Gronkowski was officially inducted into the New England Patriots Hall of Fame on Saturday with fellow Hall of Famers in attendance, including Tom Brady.",
+      "published": "2026-11-07T22:36:17Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -239,17 +239,17 @@
       ]
     },
     {
-      "title": "Vikings WR Jauan Jennings on rebuffing return to 49ers: 'I love where I'm at'",
-      "url": "https://www.espn.com/nfl/story/_/id/50411320/jennings-rebuffing-return-49ers-love-where-at",
-      "summary": "Jauan Jennings said he rebuffed the chance to return to the 49ers via trade despite struggling to produce for the Vikings because \"I love where I'm at.\"",
-      "published": "2026-11-07T21:25:23Z",
-      "source": "ESPN NFL",
+      "title": "Falcons vs. Bengals: Cincinnati seeks first international win as division contenders travel to Madrid",
+      "url": "https://www.cbssports.com/nfl/news/falcons-vs-bengals-prediction-odds-where-to-watch/",
+      "summary": "The NFL returns to Spain for the second straight season with a matchup that features many of the league's top offensive stars",
+      "published": "Sun, 08 Nov 2026 00:01:11 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "game",
       "teams": [
-        "MIN",
-        "SF"
+        "ATL",
+        "CIN"
       ]
     },
     {
@@ -672,33 +672,6 @@
         "MIN",
         "NYG",
         "PHI"
-      ]
-    },
-    {
-      "title": "Tee Higgins is putting up historic numbers, and it's changing the Bengals offense",
-      "url": "https://www.cbssports.com/nfl/news/tee-higgins-states-2026-bengals-offense/",
-      "summary": "Higgins has always been one of the NFL's best contested-catch receivers, but new dimensions in his game have him producing at a historic pace",
-      "published": "Fri, 06 Nov 2026 11:28:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN"
-      ]
-    },
-    {
-      "title": "Week 9 best bets: Drake London stars in Madrid, Broncos keep rolling with win over Panthers",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-best-bets-drake-london-madrid-broncos/",
-      "summary": "Plus, a backup RB you should keep an eye on",
-      "published": "Sat, 07 Nov 2026 16:01:38 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "DEN"
       ]
     }
   ],
