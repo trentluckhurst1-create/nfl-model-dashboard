@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-11-08T01:33:15.214119+00:00",
-  "checked_at_utc": "2026-11-08T01:33:15.214119+00:00",
+  "updated_at_utc": "2026-11-08T07:55:45.214747+00:00",
+  "checked_at_utc": "2026-11-08T07:55:45.214747+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -15,11 +15,64 @@
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 15,
+      "items": 18,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "NFL DFS Week 9: Best Picks, Lineup Advice and Value Plays",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-dfs-week-9-best-picks-lineup-advice-value-plays",
+      "summary": "Top NFL DFS picks for Week 9, including value plays, lineup strategy and sleepers to target for your daily fantasy roster this week.",
+      "published": "Sun, 08 Nov 2026 01:33:57 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Cowboys vs. Colts Prediction, Odds, Pick For NFL Week 9",
+      "url": "https://www.foxsports.com/stories/nfl/cowboys-vs-colts-prediction-odds-pick-nfl-week-9",
+      "summary": "Get the latest odds, prediction and pick for the Week 9 Cowboys vs. Colts game, as well as information on how to watch.",
+      "published": "Sun, 08 Nov 2026 01:00:41 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "IND"
+      ]
+    },
+    {
+      "title": "Eagles vs. Giants Prediction, Odds, Pick For NFL Week 9",
+      "url": "https://www.foxsports.com/stories/nfl/eagles-vs-giants-prediction-odds-pick-nfl-week-9",
+      "summary": "Get the latest odds, prediction and pick for the Week 9 Eagles vs. Giants game, as well as information on how to watch.",
+      "published": "Sun, 08 Nov 2026 01:00:36 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Commanders vs. Rams Prediction, Odds, Pick For NFL Week 9",
+      "url": "https://www.foxsports.com/stories/nfl/commanders-vs-rams-prediction-odds-pick-nfl-week-9",
+      "summary": "Get the latest odds, prediction and pick for the Week 9 Commanders vs. Rams game, as well as information on how to watch.",
+      "published": "Sun, 08 Nov 2026 01:00:10 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "WAS"
+      ]
+    },
     {
       "title": "\u2018Let\u2019s Fiesta\u2019: Top Moments From Rob Gronkowski\u2019s Patriots Hall of Fame Speech",
       "url": "https://www.foxsports.com/stories/nfl/rob-gronkowsi-patriots-hall-of-fame-speech-nfl-tight-end-stats",
@@ -199,36 +252,10 @@
       "teams": []
     },
     {
-      "title": "Will Hill's Parlay Of The Week: Back Bears To Keep Winning; Gophers To Cover",
-      "url": "https://www.foxsports.com/stories/nfl/will-hills-parlay-week-back-bears-keep-winning-gophers-cover",
-      "summary": "Check out Will Hill's five-leg parlay, including another win for the Bears and a tight Big Ten contest.",
-      "published": "Thu, 05 Nov 2026 16:57:10 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Rob Gronkowski caps Brady-attended Patriots Hall of Fame ceremony with spike",
-      "url": "https://www.espn.com/nfl/story/_/id/50412382/rob-gronkowski-caps-brady-attended-patriots-hall-fame-ceremony-spike",
-      "summary": "Rob Gronkowski was officially inducted into the New England Patriots Hall of Fame on Saturday with fellow Hall of Famers in attendance, including Tom Brady.",
-      "published": "2026-11-07T22:36:17Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
       "title": "NFL Week 9 uniforms: Eagles rock 'Kelly Green,' Chargers don 'Super Chargers'",
       "url": "https://www.espn.com/nfl/story/_/id/50374069/nfl-week-9-uniforms",
       "summary": "Here's a look at what each NFL team is wearing in Week 9, led by throwbacks from the Eagles.",
-      "published": "2026-11-07T21:45:52Z",
+      "published": "2026-11-08T02:18:40Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -236,6 +263,20 @@
       "teams": [
         "LAC",
         "PHI"
+      ]
+    },
+    {
+      "title": "Bears vs. Buccaneers: Chicago looks to tame Tampa's running game while staying atop the NFC North",
+      "url": "https://www.cbssports.com/nfl/news/bears-vs-buccaneers-odds-prediction-where-to-watch/",
+      "summary": "Plus, where to watch, what to know and a preview from an NFL expert",
+      "published": "Sun, 08 Nov 2026 03:00:52 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "TB"
       ]
     },
     {
@@ -656,23 +697,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "NFL Week 9 bold predictions: Joe Milton-led Eagles upset first-place Giants, Vikings torture Josh Allen",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-bold-predictions-joe-milton-eagles-vikings-josh-allen/",
-      "summary": "Plus, the Dolphins stifle Jared Goff and the roaring Lions offense",
-      "published": "Sat, 07 Nov 2026 16:00:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "MIA",
-        "MIN",
-        "NYG",
-        "PHI"
-      ]
     }
   ],
   "reporters": []
