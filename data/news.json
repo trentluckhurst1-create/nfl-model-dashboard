@@ -1,25 +1,121 @@
 {
-  "updated_at_utc": "2026-11-09T02:33:03.496631+00:00",
-  "checked_at_utc": "2026-11-09T02:33:03.496631+00:00",
+  "updated_at_utc": "2026-11-09T10:17:25.808397+00:00",
+  "checked_at_utc": "2026-11-09T10:17:25.808397+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 23,
+      "items": 35,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 25
+      "items": 26
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 6,
+      "items": 13,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Overreaction Monday: Packers Are NFC's Best Team? Myles Garrett Is Still The Best?",
+      "url": "https://www.foxsports.com/stories/nfl/overreaction-monday-packers-bears-caleb-williams-myles-garrett-rams-joe-burrow-bengals",
+      "summary": "Are the Packers now the team to beat in the NFC? Has Caleb Williams been solved? We react to the top storylines from Week 9.",
+      "published": "Mon, 09 Nov 2026 01:33:09 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "Iceman Delivers When Needed: 3 Takeaways From Bears' Ugly Win vs. Buccaneers",
+      "url": "https://www.foxsports.com/stories/nfl/iceman-delivers-when-needed-3-takeaways-from-bears-ugly-win-vs-buccaneers",
+      "summary": "Caleb Williams was Iceman when it mattered, but had a career-worse showing outside of that.",
+      "published": "Mon, 09 Nov 2026 00:11:17 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "TB"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 10: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-10-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every NFL Week 10 game, beginning with Commanders-Giants on Thursday.",
+      "published": "Sun, 08 Nov 2026 23:54:09 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "WAS"
+      ]
+    },
+    {
+      "title": "NFL Week 9 Defining Stats: Packers Duo Dominates; Welcome Back Myles Garrett",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-9-defining-stats",
+      "summary": "Dynamic duos stole the show across the NFL. See the biggest stats that defined Week 9.",
+      "published": "Sun, 08 Nov 2026 23:46:15 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "2026 Super Bowl Odds: Patriots, Seahawks Failing To Find Momentum",
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "summary": "Last year's Super Bowl participants have yet to hit their stride through nine weeks. See the latest title odds.",
+      "published": "Sun, 08 Nov 2026 23:43:00 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NE",
+        "SEA"
+      ]
+    },
+    {
+      "title": "NFL Fallout Week 9: Packers Prove They're Contenders; Chiefs More Dangerous Than Ever",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-fallout-week-9-packers-prove-dangerous-chiefs-more-dangerous-than-ever",
+      "summary": "The Packers are contenders despite being in last place. The Chiefs' offense is scarier than ever. Here are Ralph Vacchiano's top takeaways from Week 9.",
+      "published": "Sun, 08 Nov 2026 22:25:13 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "KC"
+      ]
+    },
+    {
+      "title": "Tom Brady Awards Packers S Evan Williams LFG, But Says Drake Maye Threw 'Deli Meat'",
+      "url": "https://www.foxsports.com/stories/nfl/tom-brady-awards-packers-s-evan-williams-lfg-says-drake-maye-threw-deli-meat",
+      "summary": "Green Bay Packers safety Evan Williams was named Brady\u2019s LFG Player of the Game after intercepting Drake Maye in a 45-27 win over the New England Patriots on Sunday.",
+      "published": "Sun, 08 Nov 2026 21:33:16 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "NE"
+      ]
+    },
     {
       "title": "Top Moments From FOX NFL Veterans Day: Gronk's Stunt, Army-Navy Rivalry On Display",
       "url": "https://www.foxsports.com/stories/nfl/top-moments-from-fox-nfl-veterans-day-gronks-stunt-army-navy-rivalry-display",
@@ -101,10 +197,141 @@
       ]
     },
     {
+      "title": "Caleb Williams unfazed by 4 interceptions as Bears pull out win vs. Bucs",
+      "url": "https://www.espn.com/nfl/story/_/id/50430415/caleb-williams-4-interceptions-bears-win-buccaneers",
+      "summary": "Caleb Williams refused to let his four interceptions rattle his confidence as he put the Bears in position to beat the Buccaneers on a walk-off field goal.",
+      "published": "2026-11-09T08:35:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "TB"
+      ]
+    },
+    {
+      "title": "Titans WR Calvin Ridley involved in incident at Nashville airport",
+      "url": "https://www.espn.com/nfl/story/_/id/50429795/titans-wr-ridley-involved-incident-nashville-airport",
+      "summary": "Titans WR Calvin Ridley was involved in an incident at Nashville International Airport over the weekend, details of which have not been released.",
+      "published": "2026-11-09T05:52:42Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "TEN"
+      ]
+    },
+    {
+      "title": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026",
+      "summary": "Check here for Sunday's top moments, TDs and analysis.",
+      "published": "2026-11-09T05:55:59Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Giants' Malik Nabers takes issue with Greg Olsen, Fox for comments during game",
+      "url": "https://www.espn.com/nfl/story/_/id/50429684/giants-malik-nabers-takes-issue-fox-telecast",
+      "summary": "Malik Nabers took issue with Fox play-by-play man Joe Davis and analyst Greg Olsen for criticizing his body language during the Giants' win Sunday.",
+      "published": "2026-11-09T09:07:54Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "NFL Week 9: Big takeaways, questions and fantasy spin from Sunday's games",
+      "url": "https://www.espn.com/nfl/story/_/id/50369510/week-9-sunday-games-takeaways-questions-2026",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 9.",
+      "published": "2026-11-09T05:58:13Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Williams connects with Loveland to set up Santos' winning field goal as Bears edge Buccaneers 27-24",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873050",
+      "summary": "\u2014 Caleb Williams and the Chicago Bears played one of their worst games of the season \u2014 and won.",
+      "published": "2026-11-09T04:52:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "TB"
+      ]
+    },
+    {
+      "title": "Drew Lock overcomes oblique injury in fill-in start for Sam Darnold, Seahawks",
+      "url": "https://www.espn.com/nfl/story/_/id/50429192/drew-lock-overcomes-oblique-injury-seahawks-top-cardinals",
+      "summary": "Already dealing with an injury to his throwing elbow, Drew Lock hurt his oblique in the third quarter of Seattle's 17-3 win over the Arizona Cardinals at Lumen Field.",
+      "published": "2026-11-09T05:27:42Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ARI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "'Balling' Jordan Love wows teammates with big performance at Patriots",
+      "url": "https://www.espn.com/nfl/story/_/id/50429190/balling-jordan-love-wows-teammates-big-performance-patriots",
+      "summary": "Packers quarterback Jordan Love's performance in Sunday's win over the Patriots left some of his teammates in awe and others speechless.",
+      "published": "2026-11-09T05:28:12Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "GB",
+        "NE"
+      ]
+    },
+    {
+      "title": "Packers' Josh Jacobs dealing with broken finger, status for Vikings tilt TBD",
+      "url": "https://www.espn.com/nfl/story/_/id/50429092/packers-josh-jacobs-dealing-fractured-finger",
+      "summary": "Josh Jacobs broke the ring finger on his right hand while trying to stiff-arm a defender and is unsure if he'll be able to play next week against the Vikings.",
+      "published": "2026-11-09T05:27:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "MIN"
+      ]
+    },
+    {
+      "title": "'Grateful' Tank Dell has 105 receiving yards in 2nd game back from knee injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50428998/grateful-tank-dell-105-receiving-yards-2nd-game-back-knee-injury",
+      "summary": "Texans WR Tank Dell scored a touchdown Sunday in his second game back from a gruesome knee injury.",
+      "published": "2026-11-09T05:24:56Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "HOU"
+      ]
+    },
+    {
       "title": "49ers lose DT Gracen Halton to season-ending ankle fracture",
       "url": "https://www.espn.com/nfl/story/_/id/50428583/49ers-gracen-halton-season-broken-ankle",
       "summary": "Gracen Halton suffered a broken left ankle against the Raiders, an injury that will end his rookie season after eight games.",
-      "published": "2026-11-09T02:21:17Z",
+      "published": "2026-11-09T05:24:02Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -129,7 +356,7 @@
       "title": "Herbert to undergo testing after exiting Chargers' 44-22 loss with finger injury",
       "url": "https://www.espn.com/nfl/story/_/id/50428280/herbert-injures-finger-chargers-loss-testing",
       "summary": "Los Angeles Chargers quarterback Justin Herbert, who was sacked eight times and threw his NFL-leading 11th interception, left Sunday's 44-22 loss to the Houston Texans in the second half with an injury to the middle finger on his left (non-throwing) hand.",
-      "published": "2026-11-09T02:11:17Z",
+      "published": "2026-11-09T03:25:38Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -153,17 +380,6 @@
       ]
     },
     {
-      "title": "NFL Week 9: Big takeaways, questions and fantasy spin from Sunday's games",
-      "url": "https://www.espn.com/nfl/story/_/id/50369510/week-9-sunday-games-takeaways-questions-2026",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 9.",
-      "published": "2026-11-09T02:11:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Saints reference Shedeur Sanders quote after win, leading NFL Week 9 trolls",
       "url": "https://www.espn.com/nfl/story/_/id/50426400/nfl-week-9-trolls",
       "summary": "The New Orleans Saints kept the receipts and poked fun at Shedeur Sanders to lead NFL Week 9 trolls.",
@@ -180,7 +396,7 @@
       "title": "Reid: No decision now on Harrison Butker's Chiefs future",
       "url": "https://www.espn.com/nfl/story/_/id/50427823/reid-no-decision-harrison-butker-chiefs-future",
       "summary": "Chiefs coach Andy Reid said he hasn't made a decision on kicker Harrison Butker, who leads the NFL this season with seven missed field goal attempts.",
-      "published": "2026-11-09T01:58:34Z",
+      "published": "2026-11-09T05:23:16Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -204,21 +420,10 @@
       ]
     },
     {
-      "title": "Week 9 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50409762/week-9-sunday-highlights-best-plays-touchdowns-2026",
-      "summary": "Check here for Sunday's top moments, TDs and analysis.",
-      "published": "2026-11-09T00:55:43Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "Multidrop game in Colts' loss irks WR Josh Downs as trade deadline looms",
       "url": "https://www.espn.com/nfl/story/_/id/50427666/multi-drop-game-irks-colts-wr-downs-trade-deadline-nears",
       "summary": "Veteran receiver Josh Downs, who recently requested a trade away from the Indianapolis Colts, authored one of the most forgettable performances of his career Sunday, a multidrop effort at Lucas Oil Stadium in his team's 27-23 loss to the Dallas Cowboys.",
-      "published": "2026-11-09T01:37:21Z",
+      "published": "2026-11-09T05:22:21Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -323,7 +528,7 @@
       "title": "Chiefs' Patrick Mahomes brushes off injury scare during rout of Jets",
       "url": "https://www.espn.com/nfl/story/_/id/50427266/chiefs-patrick-mahomes-brushes-injury-scare",
       "summary": "Chiefs quarterback Patrick Mahomes was able to play through pain in his right arm after absorbing a massive hit during Sunday's 35-12 victory over the Jets.",
-      "published": "2026-11-09T02:03:32Z",
+      "published": "2026-11-09T05:19:49Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -337,7 +542,7 @@
       "title": "Giants QB J.J. McCarthy says he'll be fine after big hit injures hip",
       "url": "https://www.espn.com/nfl/story/_/id/50427263/giants-qb-jj-mccarthy-says-fine-big-hit-injures-hip",
       "summary": "Giants QB J.J. McCarthy said he's all good after being forced to exit Sunday's 19-11 win over the Eagles with a hip injury.",
-      "published": "2026-11-09T00:44:01Z",
+      "published": "2026-11-09T05:18:08Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -365,7 +570,7 @@
       "title": "Dak Prescott: Cowboys can make playoffs without making trade",
       "url": "https://www.espn.com/nfl/story/_/id/50427153/dak-prescott-cowboys-make-playoffs-making-trade",
       "summary": "Dallas quarterback Dak Prescott said the Cowboys have enough talent to be a playoff team without a trade deadline addition.",
-      "published": "2026-11-09T00:27:12Z",
+      "published": "2026-11-09T05:17:17Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -378,7 +583,7 @@
       "title": "Sean Payton's replay challenge results in key interception in Broncos' victory",
       "url": "https://www.espn.com/nfl/story/_/id/50427121/payton-challenge-results-key-interception-broncos-win",
       "summary": "Denver coach Sean Payton's replay challenge, with 1:30 left in the third quarter, turned an incomplete pass in the end zone into an improbable interception by Broncos safety Devon Key during his club's 26-21 win at Bank of America Stadium.",
-      "published": "2026-11-09T00:59:41Z",
+      "published": "2026-11-09T05:16:43Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -391,13 +596,133 @@
       "title": "John Harbaugh: Giants did pull offer for Jonathan Taylor but 'things do change'",
       "url": "https://www.espn.com/nfl/story/_/id/50426855/john-harbaugh-says-giants-did-pull-offer-jonathan-taylor",
       "summary": "The Giants pulled a recent trade offer for Jonathan Taylor, according to coach John Harbaugh, who added that doesn't mean a deal is completely off the table.",
-      "published": "2026-11-09T01:12:01Z",
+      "published": "2026-11-09T05:19:18Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
         "NYG"
+      ]
+    },
+    {
+      "title": "Myles Garrett has 3 sacks in return to help Rams stop Commanders",
+      "url": "https://www.espn.com/nfl/story/_/id/50426656/rams-myles-garrett-three-sacks-return",
+      "summary": "Myles Garrett had three sacks in his return to the field for the Rams in Los Angeles' victory over the Commanders.",
+      "published": "2026-11-09T02:36:40Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LA",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Sources: Puka Nacua set for tests on late-game knee injury; Rams believe ACL OK",
+      "url": "https://www.espn.com/nfl/story/_/id/50425853/sources-rams-puka-nacua-undergo-tests-knee",
+      "summary": "The Rams do not believe Puka Nacua suffered a torn ACL, but the imaging Monday will tell more, sources said.",
+      "published": "2026-11-08T23:32:52Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "Javonte Williams' late TD run helps Cowboys avoid another 4th-quarter collapse and beat Colts 27-23",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873040",
+      "summary": "\u2014 With the Dallas Cowboys trailing by three points and on the verge of yet another fourth-quarter collapse, Dak Prescott needed 29 seconds to bail them out.",
+      "published": "2026-11-08T22:21:35Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "IND"
+      ]
+    },
+    {
+      "title": "Saints hold on for a 23-22 overtime victory over the Browns by stopping a 2-point conversion",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873039",
+      "summary": "\u2014 Saints second-year quarterback Tyler Shough likes to think he has a refined and thoughtful approach to remaining calm and in control in the clutch.",
+      "published": "2026-11-08T22:10:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CLE",
+        "NO"
+      ]
+    },
+    {
+      "title": "NFL Week 9 grades for every team: Patriots among two teams with failing grades, Cowboys barely pass",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-grades-cowboys-bengals-patriots-packers/",
+      "summary": "We're handing out grades for every team that played in Week 9",
+      "published": "Mon, 09 Nov 2026 05:13:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "NE"
+      ]
+    },
+    {
+      "title": "2027 NFL Draft order, team needs: Full first-round picks for all 32 teams",
+      "url": "https://www.cbssports.com/nfl/news/2027-nfl-draft-order-team-needs/",
+      "summary": "See where every team picks in the first round and which positions each franchise could target in the 2027 NFL Draft",
+      "published": "Mon, 09 Nov 2026 05:03:13 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Titans' Calvin Ridley involved in 'incident' at Nashville International Airport, per report",
+      "url": "https://www.cbssports.com/nfl/news/titans-calvin-ridley-involved-in-incident-nashville-airport/",
+      "summary": "Ridley has been the subject of trade rumors in recent weeks",
+      "published": "Mon, 09 Nov 2026 04:55:07 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "TEN"
+      ]
+    },
+    {
+      "title": "Drew Lock suffers oblique injury, Week 10 status up in the air: Seahawks could have to start Jalen Milroe",
+      "url": "https://www.cbssports.com/nfl/news/drew-lock-suffers-oblique-injury-week-10-status-seahawks-could-start-jalen-milroe/",
+      "summary": "Lock was already filling in for Sam Darnold, who missed Week 9 with quad and rib injuries",
+      "published": "Mon, 09 Nov 2026 02:10:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "SEA"
+      ]
+    },
+    {
+      "title": "Josh Jacobs breaks finger during Packers' win over Patriots, could Green Bay trade for a RB?",
+      "url": "https://www.cbssports.com/nfl/news/josh-jacobs-breaks-finger-packers-win-over-patriots-trade-deadline/",
+      "summary": "Jacobs hopes to play through the issue, but grip struggles could force Green Bay to pursue running back help before Tuesday's trade deadline",
+      "published": "Mon, 09 Nov 2026 01:48:30 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "GB",
+        "NE"
       ]
     },
     {
@@ -411,20 +736,6 @@
       "category": "injury",
       "teams": [
         "KC"
-      ]
-    },
-    {
-      "title": "NFL Week 9 grades for every team: Patriots among two teams with failing grades, Cowboys barely pass",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-grades-cowboys-bengals-patriots-packers/",
-      "summary": "We're handing out grades for every team that played in Week 9",
-      "published": "Mon, 09 Nov 2026 01:24:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "NE"
       ]
     },
     {
@@ -689,45 +1000,6 @@
       "teams": [
         "NYG",
         "PHI"
-      ]
-    },
-    {
-      "title": "2026 Week 9 NFL player props, odds, picks, best bets for Sunday's games include Nico Collins, Brock Purdy",
-      "url": "https://www.cbssports.com/betting/news/2026-week-9-nfl-player-props-odds-picks-best-bets-for-sundays-games-include-nico-collins-brock-purdy/",
-      "summary": "Bet on Week 9 NFL player props at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
-      "published": "Sun, 08 Nov 2026 16:53:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Odell Beckham Jr. set to make Vikings debut after signing to 53-man roster, per report",
-      "url": "https://www.cbssports.com/nfl/news/vikings-signing-odell-beckham-jr-giants/",
-      "summary": "Beckham will be available to play in Monday night's game vs. the Bills",
-      "published": "Sun, 08 Nov 2026 17:21:33 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "BUF",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Browns vs. Saints odds, picks, prediction, spread: Start time, betting preview, best bets for NFL Week 9",
-      "url": "https://www.cbssports.com/betting/news/browns-vs-saints-odds-picks-prediction-spread-start-time-betting-preview-best-bets-for-nfl-week-9/",
-      "summary": "Here's everything bettors need to know for Browns vs. Saints in NFL Week 9",
-      "published": "Sun, 08 Nov 2026 16:45:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "NO"
       ]
     }
   ],
