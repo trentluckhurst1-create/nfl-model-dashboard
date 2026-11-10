@@ -1,69 +1,199 @@
 {
-  "updated_at_utc": "2026-11-10T03:04:05.856793+00:00",
-  "checked_at_utc": "2026-11-10T03:04:31.036575+00:00",
+  "updated_at_utc": "2026-11-10T11:02:00.466722+00:00",
+  "checked_at_utc": "2026-11-10T11:02:00.466722+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 8,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 31
+      "items": 33
     },
     "FOX Sports NFL": {
-      "ok": false,
-      "items": 0,
-      "error": "ReadTimeout",
+      "ok": true,
+      "items": 23,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Source: Pats' Rhamondre Stevenson expected to miss time with knee tendon issue",
-      "url": "https://www.espn.com/nfl/story/_/id/50438482/patriots-rhamondre-stevenson-dealing-knee-tendon-issue",
-      "summary": "Patriots top running back Rhamondre Stevenson is dealing with a knee tendon issue that is not expected to require surgery but could sideline him for a short period of time, a source told ESPN's Adam Schefter.",
-      "published": "2026-11-10T03:01:57Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "NFL Week 9 arrivals: Justin Jefferson rocks black leather trench coat before 'MNF'",
-      "url": "https://www.espn.com/nfl/story/_/id/50393510/nfl-week-9-fashionable-arrivals",
-      "summary": "NFL stars continue to turn gameday arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-10T01:12:56Z",
-      "source": "ESPN NFL",
+      "title": "NFL Midseason Awards: Joe Burrow Or Josh Allen For MVP? Kenneth Walker Or JSN For OPOY?",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-midseason-awards-mvp-joe-burrow-josh-allen-brock-purdy",
+      "summary": "Is Joe Burrow the MVP so far this season? We give out our midseason awards.",
+      "published": "Tue, 10 Nov 2026 01:53:18 -0500",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Chargers' Jim Harbaugh says X-rays on QB Justin Herbert's finger negative",
-      "url": "https://www.espn.com/nfl/story/_/id/50437202/chargers-harbaugh-says-x-rays-herbert-finger-negative",
-      "summary": "X-rays on the injured middle finger of Chargers quarterback Justin Herbert's left hand came back negative for a fracture, coach Jim Harbaugh said Monday.",
-      "published": "2026-11-10T01:59:03Z",
-      "source": "ESPN NFL",
+      "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Make The Playoffs?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
+      "summary": "See the latest NFL postseason odds after Week 9.",
+      "published": "Tue, 10 Nov 2026 00:01:20 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 9 All-Stars: Jordan Love Makes The Cut, But Do His Packers WRs Join Him?",
+      "url": "https://www.foxsports.com/stories/nfl/week-9-nfl-all-stars-jordan-love-packers-ceedee-lamb-cowboys-kenneth-walker-chiefs",
+      "summary": "It was a great week for quarterbacks and wide receivers around the NFL.",
+      "published": "Mon, 09 Nov 2026 23:57:22 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "2026 Super Bowl Odds: 49ers Narrow Favorites Over Bills After Week 9",
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "summary": "The Bills are closing the gap on the favored 49ers. See the latest odds to win the Super Bowl after Week 9.",
+      "published": "Mon, 09 Nov 2026 23:47:49 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "SF"
+      ]
+    },
+    {
+      "title": "2026 NFL Power Rankings Week 10: NFC North Takes Over The Top 10, Thanks To Packers",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-10",
+      "summary": "Even with the Vikings' loss, the NFC North dominates our power rankings this week.",
+      "published": "Mon, 09 Nov 2026 23:45:24 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "MIN"
+      ]
+    },
+    {
+      "title": "The Week 9 Plays That Stood Out, From Ben Johnson's Scheme To Joe Burrow's Big TD Toss",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-9-plays-stood-out",
+      "summary": "Here are the biggest plays from NFL Week 9, from Ben Johnson's elite Bears offense to Joe Burrow's elite playmaking.",
+      "published": "Mon, 09 Nov 2026 23:39:05 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "NFL Best And Worst: From Jordan Love\u2019s Masterpiece To Caleb Williams\u2019 Clunker",
+      "url": "https://www.foxsports.com/stories/nfl/packers-jordan-love-bears-caleb-williams-mvp-race",
+      "summary": "Packers QB Jordan Love rises while Bears QB Caleb Williams falls in the MVP race. Plus, a ridiculous TD catch and a wild red-zone fumble.",
+      "published": "Mon, 09 Nov 2026 23:34:45 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CHI",
+        "GB"
+      ]
+    },
+    {
+      "title": "2026 NFL Playoff Picture, Bracket After Week 9",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-playoff-picture-bracket-schedule",
+      "summary": "Here's what the NFL playoff picture looks like after Week 9 of the regular season.",
+      "published": "Mon, 09 Nov 2026 23:28:38 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Cardinals Lose WR Michael Wilson For Season To Neck Fracture In Loss At Seattle",
+      "url": "https://www.foxsports.com/stories/nfl/the-cardinals-listless-loss-in-seattle-cements-status-as-a-seller-at-nfls-trade-deadline",
+      "summary": "Arizona Cardinals wide receiver Michael Wilson is out for the season because of a fracture in his neck that he suffered in the team\u2019s loss against the Seattle Seahawks on Sunday.",
+      "published": "Mon, 09 Nov 2026 22:03:39 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Jonathan Taylor Next Team Odds: Will Superstar RB Get Traded At Deadline?",
+      "url": "https://www.foxsports.com/stories/nfl/jonathan-taylor-next-team-odds-will-superstar-rb-get-traded-deadline",
+      "summary": "Will Jonathan Taylor be traded before Tuesday's trade deadline? Check out his next team odds and the contenders that could land the Colts star.",
+      "published": "Mon, 09 Nov 2026 20:09:23 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "Eagles Updated Draft Capital Following The Jordan Davis Trade",
+      "url": "https://www.foxsports.com/stories/nfl/eagles-updated-draft-capital-following-jordan-davis-trade",
+      "summary": "Here is a breakdown of the Philadelphia Eagles' updated draft capital over the next three drafts following the Jordan Davis trade.",
+      "published": "Mon, 09 Nov 2026 19:15:49 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Packers RB Josh Jacobs Needs Surgery On Finger, Could Go On IR",
+      "url": "https://www.foxsports.com/stories/nfl/packers-josh-jacobs-finger-injury-update",
+      "summary": "Packers running back Josh Jacobs suffered a fractured ring finger and will need surgery following Sunday's win over the Patriots.",
+      "published": "Mon, 09 Nov 2026 19:08:36 -0500",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "LAC"
+        "GB",
+        "NE"
       ]
     },
     {
-      "title": "2026 NFL trade deadline updates: Jordan Davis, Andre Cisco on the move",
-      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-      "summary": "The NFL trade deadline is Tuesday at 4 p.m. ET. We're following all the action, including Jessie Bates III, Davon Godchaux and Jordan Davis to the Jaguars.",
-      "published": "2026-11-10T00:30:16Z",
-      "source": "ESPN NFL",
+      "title": "NFL Reinstates Brandon Aiyuk, But 49ers Say WR Has No Future With The Team",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-reinstates-receiver-brandon-aiyuk-to-the-49ers-after-he-left-the-team-last-year",
+      "summary": "Receiver Brandon Aiyuk has been reinstated to the San Francisco 49ers by the NFL after leaving the team a year ago.",
+      "published": "Mon, 09 Nov 2026 18:53:39 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "NFL Trade Deadline Grades: How Well Did Jaguars Do In Big Trades?",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-grades",
+      "summary": "Who has won the most notable trades ahead of the deadline? We grade all the top deals.",
+      "published": "Mon, 09 Nov 2026 18:50:33 -0500",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
@@ -72,56 +202,184 @@
       ]
     },
     {
-      "title": "A 'confident' C.J. Stroud soaks in five-TD day against Chargers",
-      "url": "https://www.espn.com/nfl/story/_/id/50434826/texans-cj-stroud-five-tds-chargers",
-      "summary": "Stroud matched his career high with five TD passes and added 384 passing yards in the win.",
-      "published": "2026-11-10T02:23:21Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC"
-      ]
-    },
-    {
-      "title": "Are Jaguars all-in after trades for Bates, Davis? Plus Eagles, Falcons reaction",
-      "url": "https://www.espn.com/nfl/story/_/id/50432490/jaguars-trade-jessie-bates-iii-falcons-draft",
-      "summary": "Jacksonville made a trio of trades Monday. What it means for Eagles and Falcons ... and the Jaguars' Super Bowl hopes.",
-      "published": "2026-11-10T00:39:55Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "ATL",
-        "JAX",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Dianna Russini returning to sports media with show, column for BetUS",
-      "url": "https://www.espn.com/nfl/story/_/id/50436869/russini-returning-sports-media-show-column-betus",
-      "summary": "Dianna Russini is returning to sports media with a new weekly football show and column for the Costa Rica-based gambling company BetUS.",
-      "published": "2026-11-10T00:24:57Z",
-      "source": "ESPN NFL",
+      "title": "Tom Brady, Jim Harbaugh Take You Inside Michigan Football's National Title Runs",
+      "url": "https://www.foxsports.com/stories/college-football/michigan-tom-brady-jim-harbaugh-documentary",
+      "summary": "Tom Brady and Jim Harbaugh teamed up to tell the story of Michigan's two most recent national championship teams.",
+      "published": "Mon, 09 Nov 2026 18:00:33 -0500",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Schottenheimer: Cowboys will be without Ferguson, Goodson for 'multiple weeks'",
-      "url": "https://www.espn.com/nfl/story/_/id/50436570/cowboys-ferguson-goodson-multiple-weeks",
-      "summary": "The Dallas Cowboys will be without starting tight end Jake Ferguson and No. 2 running back Tyler Goodson for \"multiple weeks,\" coach Brian Schottenheimer told reporters Monday, a day after his team posted a 27-23 victory against the Indianapolis Colts.",
-      "published": "2026-11-10T00:42:04Z",
+      "title": "Big Bets Report: $777k Bet Falls Short For Second-Straight Week",
+      "url": "https://www.foxsports.com/stories/nfl/big-bets-report-777k-bet-falls-short-second-straight-week",
+      "summary": "An odd \u2014 and unsuccessful \u2014 betting trend has appeared over the past two weeks in the NFL. Patrick Everson reports on that and more.",
+      "published": "Mon, 09 Nov 2026 17:56:57 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Eagles Reportedly Trade DT Jordan Davis To Jaguars For '27 1st-Round Pick & More",
+      "url": "https://www.foxsports.com/stories/nfl/jordan-davis-eagles-jaguars-trade-details",
+      "summary": "The Jaguars are trading a 2027 first-round pick and a 2029 second-round pick to the Eagles for defensive tackle Jordan Davis, according to ESPN.",
+      "published": "Mon, 09 Nov 2026 17:30:43 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "JAX",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Rams Expected To Place Puka Nacua On IR With MCL, PCL Sprains And Turf Toe",
+      "url": "https://www.foxsports.com/stories/nfl/rams-puka-nacua-knee-toe-injury-update",
+      "summary": "Rams wide receiver Puka Nacua tore his ACL on the Rams\u2019 final offensive snap of Sunday\u2019s 20-13 win over the Washington Commanders, after an MRI on Monday confirmed the injury.",
+      "published": "Mon, 09 Nov 2026 17:21:24 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Head Coach Aaron Glenn Says Jets Will 'Stand Pat' At Trade Deadline",
+      "url": "https://www.foxsports.com/stories/nfl/glenn-says-jets-will-stand-pat-for-now-at-the-trade-deadline-despite-mcdonalds-desire-to-be-dealt",
+      "summary": "Jets head coach Aaron Glenn expects the New York Jets' roster to remain mostly unchanged after the NFL trade deadline.",
+      "published": "Mon, 09 Nov 2026 15:30:46 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Best NFL Betting Sites: Top Sportsbook Apps (2026)",
+      "url": "https://www.foxsports.com/stories/betting/best-nfl-betting-sites",
+      "summary": "Compare the best NFL betting sites for the 2026 season. See top sportsbooks, sign-up bonuses, and betting features to help you bet smarter this season.",
+      "published": "Mon, 09 Nov 2026 14:57:53 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Chiefs QB Patrick Mahomes Takes Rough Hit, Remains Day-To-Day With Elbow Injury",
+      "url": "https://www.foxsports.com/stories/nfl/patrick-mahomes-elbow-injury-update-chiefs",
+      "summary": "The Kansas City Chiefs' season almost took a turn for the worse on Sunday.",
+      "published": "Mon, 09 Nov 2026 14:31:16 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "NFL Week 9 Defining Stats: Packers Duo Dominates; Welcome Back Myles Garrett",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-9-defining-stats",
+      "summary": "Dynamic duos stole the show across the NFL. See the biggest stats that defined Week 9.",
+      "published": "Mon, 09 Nov 2026 14:28:42 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "Jaguars Reportedly Trade For Saints DT Davon Godchaux",
+      "url": "https://www.foxsports.com/stories/nfl/jaguars-trade-saints-dt-davon-godchaux",
+      "summary": "The Jacksonville Jaguars are trading for New Orleans Saints defensive tackle Davon Godchaux.",
+      "published": "Mon, 09 Nov 2026 14:13:29 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "JAX",
+        "NO"
+      ]
+    },
+    {
+      "title": "Commanders running low on time to 'put it all together'",
+      "url": "https://www.espn.com/nfl/story/_/id/50437256/commanders-lose-another-one-score-game",
+      "summary": "Dan Quinn knows it's repetitive to say the Commanders are close, but now they're painted into a corner.",
+      "published": "2026-11-10T11:00:01Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": [
+        "WAS"
+      ]
+    },
+    {
+      "title": "Prisco's NFL Week 10 Power Rankings: Top 5 remains same, Bengals and Packers surging thanks to MVP candidates",
+      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-10-power-rankings-bengals-packers-climbing/",
+      "summary": "Pete Prisco shares his Week 10 Power Rankings for the 2026 NFL season, including the Vikings dropping five spots",
+      "published": "Tue, 10 Nov 2026 10:00:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "GB",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Six lessons learned from NFL Week 9: Arvell Reese a superstar in the making, C.J. Stroud having career year",
+      "url": "https://www.cbssports.com/nfl/news/six-lessons-nfl-week-9-arvell-reese-c-j-stroud/",
+      "summary": "Plus, there's a bell cow running back emerging for one of the NFL's best teams",
+      "published": "Tue, 10 Nov 2026 04:44:19 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 9 grades for every team: Bills earn impressive mark for beating Vikings, Cowboys barely pass",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-grades-cowboys-bengals-patriots-packers/",
+      "summary": "We're handing out grades for every team that played in Week 9",
+      "published": "Tue, 10 Nov 2026 04:34:29 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
         "DAL",
-        "IND"
+        "MIN"
+      ]
+    },
+    {
+      "title": "Can Carson Beck convince the Cardinals not to draft a QB? He has eight games to make his case",
+      "url": "https://www.cbssports.com/nfl/news/can-carson-beck-convince-cardinals-not-to-draft-a-qb/",
+      "summary": "The third-round rookie has eight games to prove he can be this year's Tyler Shough, but history says that won't be easy",
+      "published": "Tue, 10 Nov 2026 02:36:01 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI"
       ]
     },
     {
@@ -517,31 +775,6 @@
       "category": "game",
       "teams": [
         "CHI"
-      ]
-    },
-    {
-      "title": "Cover 32: What every team should do at NFL trade deadline, plus game balls and gaffes from Week 9",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-cover-32-week-9-2026/",
-      "summary": "Tyler Sullivan analyzes which contenders should go all-in and who needs to sell before it's too late",
-      "published": "Mon, 09 Nov 2026 13:36:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 10 early odds: Trade deadline could shake up lines for Chiefs, Colts and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-early-odds-trade-deadline-chiefs-cowboys-colts/",
-      "summary": "A Jonathan Taylor trade or a Chiefs acquisition could reshape several spreads, adding another layer of uncertainty",
-      "published": "Mon, 09 Nov 2026 12:09:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "KC"
       ]
     }
   ],
