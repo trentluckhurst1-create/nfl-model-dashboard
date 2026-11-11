@@ -1,7 +1,7 @@
 {
   "schema_version": "1.3",
   "status": "PARTIAL",
-  "updated_at_utc": "2026-11-11T08:21:43.758674+00:00",
+  "updated_at_utc": "2026-11-11T16:34:31.896329+00:00",
   "source": "ESPN_PUBLIC_TEAM_ENDPOINTS",
   "coverage": {
     "rosters": 32,
@@ -49,7 +49,7 @@
   ],
   "teams": {
     "ARI": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "5151948",
@@ -746,7 +746,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/22/depthcharts"
     },
     "ATL": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4568510",
@@ -923,6 +923,14 @@
           "jersey": "72",
           "status": "Active",
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4243220.png"
+        },
+        {
+          "id": "4685590",
+          "name": "Cameron Williams",
+          "position": "OL",
+          "jersey": "73",
+          "status": "Active",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685590.png"
         },
         {
           "id": "4035020",
@@ -1253,14 +1261,6 @@
           "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5150660.png"
         },
         {
-          "id": "4685590",
-          "name": "Cameron Williams",
-          "position": "OL",
-          "jersey": "73",
-          "status": "Day-To-Day",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685590.png"
-        },
-        {
           "id": "4869816",
           "name": "Vinny Anthony II",
           "position": "WR",
@@ -1387,7 +1387,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/1/depthcharts"
     },
     "BAL": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4690013",
@@ -2012,7 +2012,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/33/depthcharts"
     },
     "BUF": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "3918298",
@@ -2605,7 +2605,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/2/depthcharts"
     },
     "CAR": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4576075",
@@ -3270,7 +3270,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/29/depthcharts"
     },
     "CHI": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4243315",
@@ -3935,7 +3935,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/3/depthcharts"
     },
     "CIN": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4879478",
@@ -4544,7 +4544,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/4/depthcharts"
     },
     "CLE": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4597310",
@@ -5185,7 +5185,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/5/depthcharts"
     },
     "DAL": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4685120",
@@ -5810,7 +5810,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/6/depthcharts"
     },
     "DEN": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4383440",
@@ -6459,7 +6459,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/7/depthcharts"
     },
     "DET": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4241217",
@@ -7132,7 +7132,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/8/depthcharts"
     },
     "GB": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4242390",
@@ -7805,7 +7805,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/9/depthcharts"
     },
     "HOU": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4362732",
@@ -8502,7 +8502,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/34/depthcharts"
     },
     "IND": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "2998565",
@@ -9119,7 +9119,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/11/depthcharts"
     },
     "JAX": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "2576336",
@@ -9792,7 +9792,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/30/depthcharts"
     },
     "KC": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4912218",
@@ -10441,7 +10441,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/12/depthcharts"
     },
     "LAC": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4683487",
@@ -11066,7 +11066,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/24/depthcharts"
     },
     "LA": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4426553",
@@ -11739,7 +11739,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/14/depthcharts"
     },
     "LV": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4603186",
@@ -12348,7 +12348,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/13/depthcharts"
     },
     "MIA": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4685246",
@@ -12949,7 +12949,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/15/depthcharts"
     },
     "MIN": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4429205",
@@ -13582,7 +13582,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/16/depthcharts"
     },
     "NE": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4047646",
@@ -14231,7 +14231,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/17/depthcharts"
     },
     "NO": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4685260",
@@ -14848,7 +14848,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/18/depthcharts"
     },
     "NYG": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4570296",
@@ -15529,7 +15529,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/19/depthcharts"
     },
     "NYJ": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4685247",
@@ -16210,7 +16210,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/20/depthcharts"
     },
     "PHI": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "3929630",
@@ -16827,7 +16827,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/21/depthcharts"
     },
     "PIT": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4714771",
@@ -17476,7 +17476,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/23/depthcharts"
     },
     "SEA": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4576297",
@@ -18133,7 +18133,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/26/depthcharts"
     },
     "SF": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4360438",
@@ -18846,7 +18846,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/25/depthcharts"
     },
     "TB": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4429251",
@@ -19439,7 +19439,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/27/depthcharts"
     },
     "TEN": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "4883647",
@@ -20080,7 +20080,7 @@
       "depth_endpoint": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/10/depthcharts"
     },
     "WAS": {
-      "as_of": "2026-11-11T08:21:43.758674+00:00",
+      "as_of": "2026-11-11T16:34:31.896329+00:00",
       "roster": [
         {
           "id": "3115922",
