@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-11-11T03:07:36.935559+00:00",
-  "checked_at_utc": "2026-11-11T03:07:36.935559+00:00",
+  "updated_at_utc": "2026-11-11T10:53:32.599633+00:00",
+  "checked_at_utc": "2026-11-11T10:53:32.599633+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 17,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -302,20 +302,6 @@
       "teams": []
     },
     {
-      "title": "How Josh Downs fits with Patrick Mahomes and the Chiefs' offense",
-      "url": "https://www.espn.com/nfl/story/_/id/50448000/josh-downs-chiefs-trade-patrick-mahomes-offense-role",
-      "summary": "Former Colts WR Downs brings speed, route running and big-play ability to a Kansas City offense in need of all three.",
-      "published": "2026-11-11T03:05:38Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "IND",
-        "KC"
-      ]
-    },
-    {
       "title": "Patrick and Brittany Mahomes announce baby No. 4 on NFL trade deadline day",
       "url": "https://www.espn.com/nfl/story/_/id/50448300/patrick-brittany-mahomes-fourth-child-announcement",
       "summary": "The couple shared the news on a busy trade deadline day that also brought receiver Josh Downs to Kansas City.",
@@ -365,6 +351,180 @@
       "category": "transaction",
       "teams": [
         "KC"
+      ]
+    },
+    {
+      "title": "RB Jonathan Taylor, QB Daniel Jones remain with Colts as trade deadline passes",
+      "url": "https://www.espn.com/nfl/story/_/id/50446805/rb-taylor-qb-jones-remain-colts-trade-deadline-passes",
+      "summary": "Colts RB Jonathan Taylor and QB Daniel Jones were the subject of trade overtures in recent days and weeks but were not traded before Tuesday's trade deadline.",
+      "published": "2026-11-10T23:27:48Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "NFL trade deadline grades: Deals for Kirk Cousins, Josh Downs, Ryan Neuzil",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "summary": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
+      "published": "2026-11-11T02:53:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "KC",
+        "MIN"
+      ]
+    },
+    {
+      "title": "2026 NFL trade deadline updates: Kirk Cousins, Josh Downs on the move",
+      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
+      "summary": "We're officially past the NFL trade deadline. We followed the action on 18 in-season deals, including six on Tuesday.",
+      "published": "2026-11-11T02:46:38Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Giants' Nabers calls Fox analyst Olsen's body language critique a 'lie'",
+      "url": "https://www.espn.com/nfl/story/_/id/50446573/giants-nabers-calls-fox-analyst-olsen-body-language-criticism-lie",
+      "summary": "Giants wide receiver Malik Nabers said Tuesday he posted on social media after the game because he thought the critique from Fox play-by-play announcer Joe Davis and analyst Greg Olsen about his body language and being a bad teammate was a \"lie.\"",
+      "published": "2026-11-11T00:27:35Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Falcons trade center Ryan Neuzil to Ravens for guard Andrew Vorhees, pick",
+      "url": "https://www.espn.com/nfl/story/_/id/50446499/falcons-trade-center-neuzil-ravens-guard-vorhees-pick",
+      "summary": "The Ravens acquired Falcons starting center Ryan Neuzil in exchange for backup guard Andrew Vorhees and a conditional 2028 sixth-round pick.",
+      "published": "2026-11-10T23:07:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "ATL",
+        "BAL"
+      ]
+    },
+    {
+      "title": "2026 NFL trade deadline winners, losers: Kirk Cousins, Josh Downs, Bengals, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals",
+      "summary": "Which teams made the best -- and worst -- moves before the NFL trade deadline? We're making sense of all the action.",
+      "published": "2026-11-11T04:05:03Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "CIN"
+      ]
+    },
+    {
+      "title": "Dolphins put QB Malik Willis on IR with groin injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50445819/dolphins-put-qb-malik-willis-ir-groin-injury",
+      "summary": "The Dolphins have put quarterback Malik Wills on injured reserve because of a groin injury. He's eligible to return in Week 14.",
+      "published": "2026-11-10T22:33:26Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIA"
+      ]
+    },
+    {
+      "title": "Chiefs snag needed help at WR, trade for Colts' Josh Downs",
+      "url": "https://www.espn.com/nfl/story/_/id/50445576/chiefs-trade-colts-wr-josh-downs",
+      "summary": "The Chiefs have obtained needed help at wide receiver, acquiring Josh Downs in a trade with the Colts.",
+      "published": "2026-11-11T02:42:31Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND",
+        "KC"
+      ]
+    },
+    {
+      "title": "Broncos land LB Daiyan Henley in trade with Chargers before deadline",
+      "url": "https://www.espn.com/nfl/story/_/id/50445309/sources-broncos-land-daiyan-henley-trade-chargers",
+      "summary": "The Broncos have acquired Daiyan Henley from the Chargers in a trade just before Tuesday's deadline.",
+      "published": "2026-11-10T22:21:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DEN",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Bills fill major need at safety, trade for Titans' Amani Hooker",
+      "url": "https://www.espn.com/nfl/story/_/id/50444810/bills-trade-titans-safety-amani-hooker",
+      "summary": "The Bills traded for Titans safety Amani Hooker, giving up a second-round pick in exchange for Hooker and a fifth-round pick.",
+      "published": "2026-11-10T23:23:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BUF",
+        "TEN"
+      ]
+    },
+    {
+      "title": "49ers trade for Colts' Keenan Allen to bolster injury-plagued WR room",
+      "url": "https://www.espn.com/nfl/story/_/id/50444457/sources-49ers-acquire-keenan-allen-trade-colts",
+      "summary": "The 49ers completed a trade with the Colts for Keenan Allen in a move that will bolster their injury-plagued WR corps.",
+      "published": "2026-11-10T23:03:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "IND",
+        "SF"
+      ]
+    },
+    {
+      "title": "Vikings reunite with QB Kirk Cousins, send 3rd-round pick to Raiders",
+      "url": "https://www.espn.com/nfl/story/_/id/50444360/sources-vikings-id-qb-kirk-cousins-prime-trade-target",
+      "summary": "Vikings are trading for quarterback Kirk Cousins, sending a 2027 third-round pick to the Raiders.",
+      "published": "2026-11-11T01:12:15Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "LV",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Source: Falcons cutting kicker Nick Folk, signing Jake Moody",
+      "url": "https://www.espn.com/nfl/story/_/id/50444069/sources-falcons-cutting-kicker-nick-folk-signing-jake-moody",
+      "summary": "ESPN has confirmed that the Falcons are releasing kicker Nick Folk and signing Jake Moody.",
+      "published": "2026-11-10T18:21:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "ATL"
       ]
     },
     {
