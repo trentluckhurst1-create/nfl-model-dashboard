@@ -1,26 +1,345 @@
 {
-  "updated_at_utc": "2026-11-10T23:43:35.142384+00:00",
-  "checked_at_utc": "2026-11-10T23:44:00.328460+00:00",
+  "updated_at_utc": "2026-11-11T03:07:36.935559+00:00",
+  "checked_at_utc": "2026-11-11T03:07:36.935559+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 11,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 34
     },
     "FOX Sports NFL": {
-      "ok": false,
-      "items": 0,
-      "error": "ReadTimeout",
+      "ok": true,
+      "items": 22,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Jordan Love Has Mastered Green Bay's Offense; Analyzing Drake Maye's Interceptions",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-qb-notebook-week-9-jordan-love-drake-maye",
+      "summary": "Jordan Love's mastery and Drake Maye's interceptions headline this week's NFL QB Notebook.",
+      "published": "Tue, 10 Nov 2026 20:54:19 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Did The Vikings Win The Deadline? 5 Takeaways From The NFL Trade Deadline",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-trade-deadline-takeaways-kirk-cousins-jonathan-taylor",
+      "summary": "Here's what we learned from the 2026 NFL trade deadline, which saw Kirk Cousins return to the Vikings.",
+      "published": "Tue, 10 Nov 2026 18:38:00 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "All-In Jaguars Were Smart To Pounce At Trade Deadline To Give Them Title Shot",
+      "url": "https://www.foxsports.com/stories/nfl/jaguars-trade-deadline-eagles-bengals",
+      "summary": "The Jaguars have set themselves up with a shot to have the conference run through them this January.",
+      "published": "Tue, 10 Nov 2026 18:22:56 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Carson Beck In Line For First NFL Start As Cardinals Place Gardner Minshew On IR",
+      "url": "https://www.foxsports.com/stories/nfl/carson-beck-line-first-nfl-start-cardinals-place-gardner-minshew-ir",
+      "summary": "Rookie quarterback Carson Beck is expected to make his first NFL start when the Cardinals host the Los Angeles Rams on Sunday.",
+      "published": "Tue, 10 Nov 2026 18:03:12 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ARI",
+        "LA"
+      ]
+    },
+    {
+      "title": "Favorite 'Dogs: Back Cousins-Led Vikings; Arizona To Upset Utah",
+      "url": "https://www.foxsports.com/stories/nfl/favorite-dogs-back-cousins-led-vikings-arizona-upset-utah",
+      "summary": "Will Hill is getting behind Kirk Cousins in an NFC North showdown and thinks Utah is ready to be upset.",
+      "published": "Tue, 10 Nov 2026 17:31:07 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "What We Know About Dolphins Placing QB Malik Willis On Injured Reserve",
+      "url": "https://www.foxsports.com/stories/nfl/malik-willis-injured-reserve-dolphins-quarterbacks",
+      "summary": "The Miami Dolphins placed Malik Willis on injured reserve on Tuesday, sidelining the quarterback for at least four games.",
+      "published": "Tue, 10 Nov 2026 16:47:01 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIA"
+      ]
+    },
+    {
+      "title": "NFL Trade Deadline Grades: Did Vikings Do Well In Deal To Bring Back Kirk Cousins?",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-grades",
+      "summary": "Who has won the most notable trades ahead of the deadline? We grade all the top deals.",
+      "published": "Tue, 10 Nov 2026 16:38:41 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "2026 NFL Coach Of The Year Odds: John Harbaugh Favored; Liam Coen Surging",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-coach-of-the-year-odds",
+      "summary": "John Harbaugh is still favored to win NFL Coach Of The Year, but a candidate from the AFC South is rising up the board.",
+      "published": "Tue, 10 Nov 2026 16:24:11 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL OROY Odds: Set For First Start, Fernando Mendoza Now Favored",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-offensive-rookie-year-odds",
+      "summary": "Let Fernando Mendoza cook. The new Raiders' starter is favored to win OROY. See the latest odds.",
+      "published": "Tue, 10 Nov 2026 15:58:03 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "LV"
+      ]
+    },
+    {
+      "title": "Chiefs Find Wide Receiver Help In Trade With Colts",
+      "url": "https://www.foxsports.com/stories/nfl/chiefs-colts-josh-downs-trade-deadline",
+      "summary": "The Kansas City Chiefs have acquired Indianapolis Colts wide receiver Josh Downs.",
+      "published": "Tue, 10 Nov 2026 15:48:21 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND",
+        "KC"
+      ]
+    },
+    {
+      "title": "Mendoza's Offensive Rookie Of The Year Odds Spike After Cousins Trade",
+      "url": "https://www.foxsports.com/stories/nfl/fernando-mendozas-offensive-rookie-year-odds-jump-after-kirk-cousins-trade",
+      "summary": "There's a new favorite for Offensive Rookie of the Year, after the Raiders have decided to start the most-recent No. 1 pick.",
+      "published": "Tue, 10 Nov 2026 15:43:54 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "LV"
+      ]
+    },
+    {
+      "title": "Colts Don't Move Jonathan Taylor At NFL Trade Deadline",
+      "url": "https://www.foxsports.com/stories/nfl/jonathan-taylor-rumors-colts-nfl-trade-deadline",
+      "summary": "Despite being sellers at the 2026 NFL trade deadline, the Indianapolis Colts are keeping superstar running back Jonathan Taylor.",
+      "published": "Tue, 10 Nov 2026 15:28:22 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "With Kirk Cousins Traded, Fernando Mendoza Becomes Raiders' Starting QB",
+      "url": "https://www.foxsports.com/stories/nfl/fernando-mendoza-nfl-draft-trade-deadline-kirk-cousins-trade",
+      "summary": "Kirk Cousins has been dealt to the Minnesota Vikings, leaving the Las Vegas Raiders' QB1 spot open for 2026's first overall pick.",
+      "published": "Tue, 10 Nov 2026 15:26:15 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "LV",
+        "MIN"
+      ]
+    },
+    {
+      "title": "2026 NFL OPOY Odds: Detroit's Jahmyr Gibbs Favored",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
+      "summary": "Detroit's Jahmyr Gibbs is favored to win 2026 NFL Offensive Player of the Year. Find out who else is near the top of the oddsboard.",
+      "published": "Tue, 10 Nov 2026 15:16:32 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL DPOY Odds: Houston's Will Anderson Jr. Favored",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
+      "summary": "Check out the latest odds for the 2026 NFL Defensive Player of the Year award.",
+      "published": "Tue, 10 Nov 2026 14:47:20 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Blockbuster Reunion: Vikings Trade For Raiders QB Kirk Cousins",
+      "url": "https://www.foxsports.com/stories/nfl/kirk-cousins-trade-details-vikings-quarterbacks-raiders-fernando-mendoza",
+      "summary": "The Minnesota Vikings are reuniting with Kirk Cousins, striking a trade with the Las Vegas Raiders for the veteran quarterback.",
+      "published": "Tue, 10 Nov 2026 14:37:33 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "LV",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Bills Make Trade With Titans For Needed Secondary Help",
+      "url": "https://www.foxsports.com/stories/nfl/amani-hooker-trade-details-bills-titans",
+      "summary": "The Buffalo Bills have traded significant trade capital to acquire Tennessee Titans defensive back Amani Hooker.",
+      "published": "Tue, 10 Nov 2026 14:31:20 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BUF",
+        "TEN"
+      ]
+    },
+    {
+      "title": "QB Stock Market Week 10: Examining Jordan Love\u2019s Masterpiece; Caleb Williams\u2019 Outlier?",
+      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-10-jordan-love-ascending-caleb-williams-falling",
+      "summary": "Extraordinary performances by Jordan Love and Caleb Williams, both good and bad, shake up Henry McKenna's latest QB rankings.",
+      "published": "Tue, 10 Nov 2026 13:53:16 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "49ers Reportedly Acquire 6-Time Pro Bowler From Colts",
+      "url": "https://www.foxsports.com/stories/nfl/keenan-allen-trade-details-colts-49ers",
+      "summary": "The San Francisco 49ers have reportedly acquired veteran wide receiver Keenan Allen from the Indianapolis Colts.",
+      "published": "Tue, 10 Nov 2026 13:47:20 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "SF"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 10: Lines, Spreads, Results For All 14 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-10-lines-spreads-results-all-14-games",
+      "summary": "Check out the lines for every NFL Week 10 game, beginning with Commanders-Giants on Thursday.",
+      "published": "Tue, 10 Nov 2026 13:03:59 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "WAS"
+      ]
+    },
+    {
+      "title": "NFL Trade Candidate, Dolphins Defensive Leader Reportedly Out For Year",
+      "url": "https://www.foxsports.com/stories/nfl/zach-sieler-injury-update-dolphins-nfl-trade-deadline",
+      "summary": "Miami Dolphins veteran defensive lineman Zach Sieler ruptured his biceps and will undergo season-ending surgery.",
+      "published": "Tue, 10 Nov 2026 12:43:13 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIA"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds: Which Teams Are Favored To Win Their Divisions After Week 9?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-2027-nfl-odds-division-winner",
+      "summary": "Check out the latest NFL division odds, as several teams thought to be pretenders are now very worthy contenders.",
+      "published": "Tue, 10 Nov 2026 12:02:46 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "How Josh Downs fits with Patrick Mahomes and the Chiefs' offense",
+      "url": "https://www.espn.com/nfl/story/_/id/50448000/josh-downs-chiefs-trade-patrick-mahomes-offense-role",
+      "summary": "Former Colts WR Downs brings speed, route running and big-play ability to a Kansas City offense in need of all three.",
+      "published": "2026-11-11T03:05:38Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND",
+        "KC"
+      ]
+    },
+    {
+      "title": "Patrick and Brittany Mahomes announce baby No. 4 on NFL trade deadline day",
+      "url": "https://www.espn.com/nfl/story/_/id/50448300/patrick-brittany-mahomes-fourth-child-announcement",
+      "summary": "The couple shared the news on a busy trade deadline day that also brought receiver Josh Downs to Kansas City.",
+      "published": "2026-11-11T02:17:21Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Raiders name Fernando Mendoza starting QB after trading Kirk Cousins",
+      "url": "https://www.espn.com/nfl/story/_/id/50447756/raiders-name-fernando-mendoza-starting-qb-trading-kirk-cousins",
+      "summary": "No. 1 pick Fernando Mendoza was officially named the Raiders' starting quarterback Tuesday after the team traded Kirk Cousins to the Vikings.",
+      "published": "2026-11-11T01:45:03Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "LV",
+        "MIN"
+      ]
+    },
     {
       "title": "What the Kirk Cousins trade means for the Vikings and the Raiders",
       "url": "https://www.espn.com/nfl/story/_/id/50444528/kirk-cousins-trade-minnesota-vikings-las-vegas-raiders",
@@ -49,122 +368,33 @@
       ]
     },
     {
-      "title": "RB Jonathan Taylor, QB Daniel Jones remain with Colts as trade deadline passes",
-      "url": "https://www.espn.com/nfl/story/_/id/50446805/rb-taylor-qb-jones-remain-colts-trade-deadline-passes",
-      "summary": "Colts RB Jonathan Taylor and QB Daniel Jones were the subject of trade overtures in recent days and weeks but were not traded before Tuesday's trade deadline.",
-      "published": "2026-11-10T23:27:48Z",
-      "source": "ESPN NFL",
+      "title": "NFL trade deadline: Ranking all 18 in-season deals as Kirk Cousins, Jeffery Simmons reshape Super Bowl race",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-ranking-all-18-deals-kirk-cousins-jeffery-simmons/",
+      "summary": "The Jaguars, Bears and Bills are among the teams that pulled off home-run moves",
+      "published": "Wed, 11 Nov 2026 01:27:42 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "IND"
+        "BUF",
+        "CHI",
+        "JAX"
       ]
     },
     {
-      "title": "NFL trade deadline grades: Deals for Kirk Cousins, Josh Downs, Ryan Neuzil",
-      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-      "summary": "Was getting Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
-      "published": "2026-11-10T23:35:19Z",
-      "source": "ESPN NFL",
+      "title": "NFL trade deadline aftermath: Which teams improved, which teams should have made moves",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-aftermath-vikings-chiefs-improve/",
+      "summary": "The Vikings and Chiefs were among the teams that got better, but the Chargers really dropped the ball on Tuesday",
+      "published": "Wed, 11 Nov 2026 00:55:18 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
         "KC",
+        "LAC",
         "MIN"
-      ]
-    },
-    {
-      "title": "2026 NFL trade deadline updates: Josh Downs, Kirk Cousins on the move",
-      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-      "summary": "We're officially past the NFL trade deadline. We followed the action on 18 in-season deals, including six on Tuesday.",
-      "published": "2026-11-10T22:55:40Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Giants' Nabers calls Fox analyst Olsen's body language critique a 'lie'",
-      "url": "https://www.espn.com/nfl/story/_/id/50446573/giants-nabers-calls-fox-analyst-olsen-body-language-criticism-lie",
-      "summary": "Giants wide receiver Malik Nabers said Tuesday he posted on social media after the game because he thought the critique from Fox play-by-play announcer Joe Davis and analyst Greg Olsen about his body language and being a bad teammate was a \"lie.\"",
-      "published": "2026-11-10T23:24:46Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Falcons trade center Ryan Neuzil to Ravens for guard Andrew Vorhees, pick",
-      "url": "https://www.espn.com/nfl/story/_/id/50446499/falcons-trade-center-neuzil-ravens-guard-vorhees-pick",
-      "summary": "The Ravens acquired Falcons starting center Ryan Neuzil in exchange for backup guard Andrew Vorhees and a conditional 2028 sixth-round pick.",
-      "published": "2026-11-10T23:07:30Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "ATL",
-        "BAL"
-      ]
-    },
-    {
-      "title": "2026 NFL trade deadline winners, losers: Kirk Cousins, Josh Downs, Bengals, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals",
-      "summary": "Which teams made the best -- and worst -- moves before the NFL trade deadline? We're making sense of all the action.",
-      "published": "2026-11-10T23:36:14Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "CIN"
-      ]
-    },
-    {
-      "title": "Dolphins put QB Malik Willis on IR with groin injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50445819/dolphins-put-qb-malik-willis-ir-groin-injury",
-      "summary": "The Dolphins have put quarterback Malik Wills on injured reserve because of a groin injury. He's eligible to return in Week 14.",
-      "published": "2026-11-10T22:33:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIA"
-      ]
-    },
-    {
-      "title": "Chiefs snag needed help at WR, trade for Colts' Josh Downs",
-      "url": "https://www.espn.com/nfl/story/_/id/50445576/chiefs-trade-colts-wr-josh-downs",
-      "summary": "The Chiefs have obtained needed help at wide receiver, acquiring Josh Downs in a trade with the Colts.",
-      "published": "2026-11-10T23:02:05Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "KC"
-      ]
-    },
-    {
-      "title": "Broncos land LB Daiyan Henley in trade with Chargers before deadline",
-      "url": "https://www.espn.com/nfl/story/_/id/50445309/sources-broncos-land-daiyan-henley-trade-chargers",
-      "summary": "The Broncos have acquired Daiyan Henley from the Chargers in a trade just before Tuesday's deadline.",
-      "published": "2026-11-10T22:21:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DEN",
-        "LAC"
       ]
     },
     {
