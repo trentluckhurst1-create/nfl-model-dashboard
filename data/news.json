@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-11-11T10:53:32.599633+00:00",
-  "checked_at_utc": "2026-11-11T10:53:32.599633+00:00",
+  "updated_at_utc": "2026-11-11T18:21:58.354129+00:00",
+  "checked_at_utc": "2026-11-11T18:21:58.354129+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 17,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 34
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,72 @@
     }
   },
   "items": [
+    {
+      "title": "Rams Reportedly Pursued Blockbuster Trade For Chargers WR Ladd McConkey",
+      "url": "https://www.foxsports.com/stories/nfl/rams-reportedly-pursued-blockbuster-trade-chargers-wr-ladd-mcconkey",
+      "summary": "The Los Angeles Rams reached out to the Chargers on Tuesday in an attempt to trade for wide receiver Ladd McConkey.",
+      "published": "Wed, 11 Nov 2026 12:45:40 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "LA",
+        "LAC"
+      ]
+    },
+    {
+      "title": "2026 NFL MVP Odds: Joe Burrow Takes Over As Favorite",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
+      "summary": "Joe Burrow has taken over the MVP race. Can he maintain his recent momentum? Check out the odds after Week 9.",
+      "published": "Wed, 11 Nov 2026 12:21:28 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Despite Sanders\u2019 Strong Start, Deshaun Watson Named Browns Week 10 Starter",
+      "url": "https://www.foxsports.com/stories/nfl/cleveland-browns-deshaun-watson-concussion-shedeur-sanders",
+      "summary": "The Cleveland Browns are expected to start Deshaun Watson in Week 10 against the Houston Texans.",
+      "published": "Wed, 11 Nov 2026 11:41:53 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "CLE",
+        "HOU"
+      ]
+    },
+    {
+      "title": "Giants Reportedly Pursued Trade For Falcons Superstar RB Bijan Robinson",
+      "url": "https://www.foxsports.com/stories/nfl/giants-bijan-robinson-rumor-nfl-trade-deadline-falcons",
+      "summary": "The New York Giants reportedly contacted the Atlanta Falcons about acquiring superstar RB Bijan Robinson before the 2026 NFL trade deadline.",
+      "published": "Wed, 11 Nov 2026 10:44:50 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "ATL",
+        "NYG"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds: Which Teams Are Favored To Vie For Super Bowl LXI?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-which-teams-favored-vie-super-bowl-lxi",
+      "summary": "Books expect either San Francisco or Buffalo to be in the Super Bowl, if not both. See the odds for the most likely SBLXI matchups.",
+      "published": "Wed, 11 Nov 2026 09:35:03 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF"
+      ]
+    },
     {
       "title": "Jordan Love Has Mastered Green Bay's Offense; Analyzing Drake Maye's Interceptions",
       "url": "https://www.foxsports.com/stories/nfl/nfl-qb-notebook-week-9-jordan-love-drake-maye",
@@ -239,292 +305,217 @@
       ]
     },
     {
-      "title": "QB Stock Market Week 10: Examining Jordan Love\u2019s Masterpiece; Caleb Williams\u2019 Outlier?",
-      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-10-jordan-love-ascending-caleb-williams-falling",
-      "summary": "Extraordinary performances by Jordan Love and Caleb Williams, both good and bad, shake up Henry McKenna's latest QB rankings.",
-      "published": "Tue, 10 Nov 2026 13:53:16 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Browns' Monken: Watson over Sanders QB decision based on 'full body of work'",
+      "url": "https://www.espn.com/nfl/story/_/id/50453932/browns-todd-monken-explains-call-start-deshaun-watson",
+      "summary": "Browns coach Todd Monken said Wednesday his intention all along was to stick with Deshaun Watson as QB1 based on his \"full body of work\" this season.",
+      "published": "2026-11-11T18:13:33Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "49ers Reportedly Acquire 6-Time Pro Bowler From Colts",
-      "url": "https://www.foxsports.com/stories/nfl/keenan-allen-trade-details-colts-49ers",
-      "summary": "The San Francisco 49ers have reportedly acquired veteran wide receiver Keenan Allen from the Indianapolis Colts.",
-      "published": "Tue, 10 Nov 2026 13:47:20 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
       "teams": [
-        "IND",
-        "SF"
+        "CLE"
       ]
     },
     {
-      "title": "2026 NFL Odds Week 10: Lines, Spreads, Results For All 14 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-10-lines-spreads-results-all-14-games",
-      "summary": "Check out the lines for every NFL Week 10 game, beginning with Commanders-Giants on Thursday.",
-      "published": "Tue, 10 Nov 2026 13:03:59 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
-      "title": "NFL Trade Candidate, Dolphins Defensive Leader Reportedly Out For Year",
-      "url": "https://www.foxsports.com/stories/nfl/zach-sieler-injury-update-dolphins-nfl-trade-deadline",
-      "summary": "Miami Dolphins veteran defensive lineman Zach Sieler ruptured his biceps and will undergo season-ending surgery.",
-      "published": "Tue, 10 Nov 2026 12:43:13 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIA"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds: Which Teams Are Favored To Win Their Divisions After Week 9?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-2027-nfl-odds-division-winner",
-      "summary": "Check out the latest NFL division odds, as several teams thought to be pretenders are now very worthy contenders.",
-      "published": "Tue, 10 Nov 2026 12:02:46 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Ex-NFL coach Rex Ryan facing charges after alleged hit-and-run",
+      "url": "https://www.espn.com/nfl/story/_/id/50453897/rex-ryan-facing-charges-alleged-hit-run",
+      "summary": "Former NFL head coach Rex Ryan is facing charges after allegedly striking two pedestrians with his pickup truck and leaving the scene in Nashville, Tennessee.",
+      "published": "2026-11-11T18:13:49Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Patrick and Brittany Mahomes announce baby No. 4 on NFL trade deadline day",
-      "url": "https://www.espn.com/nfl/story/_/id/50448300/patrick-brittany-mahomes-fourth-child-announcement",
-      "summary": "The couple shared the news on a busy trade deadline day that also brought receiver Josh Downs to Kansas City.",
-      "published": "2026-11-11T02:17:21Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Raiders name Fernando Mendoza starting QB after trading Kirk Cousins",
-      "url": "https://www.espn.com/nfl/story/_/id/50447756/raiders-name-fernando-mendoza-starting-qb-trading-kirk-cousins",
-      "summary": "No. 1 pick Fernando Mendoza was officially named the Raiders' starting quarterback Tuesday after the team traded Kirk Cousins to the Vikings.",
-      "published": "2026-11-11T01:45:03Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "LV",
-        "MIN"
-      ]
-    },
-    {
-      "title": "What the Kirk Cousins trade means for the Vikings and the Raiders",
-      "url": "https://www.espn.com/nfl/story/_/id/50444528/kirk-cousins-trade-minnesota-vikings-las-vegas-raiders",
-      "summary": "We answered big questions surrounding the trade of quarterback Kirk Cousins from the Raiders to the Vikings.",
-      "published": "2026-11-10T23:19:32Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "LV",
-        "MIN"
-      ]
-    },
-    {
-      "title": "From 2-7 to 6-2: Josh Downs reacts to Chiefs trade with Vince Carter GIF",
-      "url": "https://www.espn.com/nfl/story/_/id/50446669/chiefs-josh-downs-trade-reaction-vince-carter-gif",
-      "summary": "A moment from Vince Carter's retirement ceremony helped Downs sum up his feelings about joining Kansas City.",
-      "published": "2026-11-10T23:17:29Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "KC"
-      ]
-    },
-    {
-      "title": "RB Jonathan Taylor, QB Daniel Jones remain with Colts as trade deadline passes",
-      "url": "https://www.espn.com/nfl/story/_/id/50446805/rb-taylor-qb-jones-remain-colts-trade-deadline-passes",
-      "summary": "Colts RB Jonathan Taylor and QB Daniel Jones were the subject of trade overtures in recent days and weeks but were not traded before Tuesday's trade deadline.",
-      "published": "2026-11-10T23:27:48Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "NFL trade deadline grades: Deals for Kirk Cousins, Josh Downs, Ryan Neuzil",
-      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
-      "summary": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
-      "published": "2026-11-11T02:53:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "KC",
-        "MIN"
-      ]
-    },
-    {
-      "title": "2026 NFL trade deadline updates: Kirk Cousins, Josh Downs on the move",
-      "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
-      "summary": "We're officially past the NFL trade deadline. We followed the action on 18 in-season deals, including six on Tuesday.",
-      "published": "2026-11-11T02:46:38Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Giants' Nabers calls Fox analyst Olsen's body language critique a 'lie'",
-      "url": "https://www.espn.com/nfl/story/_/id/50446573/giants-nabers-calls-fox-analyst-olsen-body-language-criticism-lie",
-      "summary": "Giants wide receiver Malik Nabers said Tuesday he posted on social media after the game because he thought the critique from Fox play-by-play announcer Joe Davis and analyst Greg Olsen about his body language and being a bad teammate was a \"lie.\"",
-      "published": "2026-11-11T00:27:35Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Falcons trade center Ryan Neuzil to Ravens for guard Andrew Vorhees, pick",
-      "url": "https://www.espn.com/nfl/story/_/id/50446499/falcons-trade-center-neuzil-ravens-guard-vorhees-pick",
-      "summary": "The Ravens acquired Falcons starting center Ryan Neuzil in exchange for backup guard Andrew Vorhees and a conditional 2028 sixth-round pick.",
-      "published": "2026-11-10T23:07:30Z",
+      "title": "Sources: Giants called Falcons to ask about Bijan Robinson before trade deadline",
+      "url": "https://www.espn.com/nfl/story/_/id/50453373/sources-giants-eyed-bijan-robinson-trade-deadline",
+      "summary": "The Giants made a call to the Falcons before the NFL trade deadline inquiring about star running back Bijan Robinson, multiple sources told ESPN.",
+      "published": "2026-11-11T16:33:25Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
         "ATL",
-        "BAL"
+        "NYG"
       ]
     },
     {
-      "title": "2026 NFL trade deadline winners, losers: Kirk Cousins, Josh Downs, Bengals, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50443388/2026-nfl-trade-deadline-winners-losers-best-worst-deals",
-      "summary": "Which teams made the best -- and worst -- moves before the NFL trade deadline? We're making sense of all the action.",
-      "published": "2026-11-11T04:05:03Z",
-      "source": "ESPN NFL",
+      "title": "Former NFL head coach Rex Ryan arrested by Nashville police for allegedly striking two pedestrians with truck",
+      "url": "https://www.cbssports.com/nfl/news/former-nfl-head-coach-rex-ryan-arrested-nashville-police-striking-two-pedestrians-truck/",
+      "summary": "The incident occurred before midnight on Thursday, Nov. 5",
+      "published": "Wed, 11 Nov 2026 17:38:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Kirk Cousins traded to Vikings: Raiders gave QB option to stay or leave franchise, per report",
+      "url": "https://www.cbssports.com/nfl/news/kirk-cousins-traded-vikings-raiders-gave-option-stay-leave-franchise-per-report/",
+      "summary": "Minnesota gave up a third round pick to bring back Cousins",
+      "published": "Wed, 11 Nov 2026 16:21:15 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
-      "teams": [
-        "CIN"
-      ]
-    },
-    {
-      "title": "Dolphins put QB Malik Willis on IR with groin injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50445819/dolphins-put-qb-malik-willis-ir-groin-injury",
-      "summary": "The Dolphins have put quarterback Malik Wills on injured reserve because of a groin injury. He's eligible to return in Week 14.",
-      "published": "2026-11-10T22:33:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIA"
-      ]
-    },
-    {
-      "title": "Chiefs snag needed help at WR, trade for Colts' Josh Downs",
-      "url": "https://www.espn.com/nfl/story/_/id/50445576/chiefs-trade-colts-wr-josh-downs",
-      "summary": "The Chiefs have obtained needed help at wide receiver, acquiring Josh Downs in a trade with the Colts.",
-      "published": "2026-11-11T02:42:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND",
-        "KC"
-      ]
-    },
-    {
-      "title": "Broncos land LB Daiyan Henley in trade with Chargers before deadline",
-      "url": "https://www.espn.com/nfl/story/_/id/50445309/sources-broncos-land-daiyan-henley-trade-chargers",
-      "summary": "The Broncos have acquired Daiyan Henley from the Chargers in a trade just before Tuesday's deadline.",
-      "published": "2026-11-10T22:21:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DEN",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Bills fill major need at safety, trade for Titans' Amani Hooker",
-      "url": "https://www.espn.com/nfl/story/_/id/50444810/bills-trade-titans-safety-amani-hooker",
-      "summary": "The Bills traded for Titans safety Amani Hooker, giving up a second-round pick in exchange for Hooker and a fifth-round pick.",
-      "published": "2026-11-10T23:23:02Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "BUF",
-        "TEN"
-      ]
-    },
-    {
-      "title": "49ers trade for Colts' Keenan Allen to bolster injury-plagued WR room",
-      "url": "https://www.espn.com/nfl/story/_/id/50444457/sources-49ers-acquire-keenan-allen-trade-colts",
-      "summary": "The 49ers completed a trade with the Colts for Keenan Allen in a move that will bolster their injury-plagued WR corps.",
-      "published": "2026-11-10T23:03:30Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "IND",
-        "SF"
-      ]
-    },
-    {
-      "title": "Vikings reunite with QB Kirk Cousins, send 3rd-round pick to Raiders",
-      "url": "https://www.espn.com/nfl/story/_/id/50444360/sources-vikings-id-qb-kirk-cousins-prime-trade-target",
-      "summary": "Vikings are trading for quarterback Kirk Cousins, sending a 2027 third-round pick to the Raiders.",
-      "published": "2026-11-11T01:12:15Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
       "teams": [
         "LV",
         "MIN"
       ]
     },
     {
-      "title": "Source: Falcons cutting kicker Nick Folk, signing Jake Moody",
-      "url": "https://www.espn.com/nfl/story/_/id/50444069/sources-falcons-cutting-kicker-nick-folk-signing-jake-moody",
-      "summary": "ESPN has confirmed that the Falcons are releasing kicker Nick Folk and signing Jake Moody.",
-      "published": "2026-11-10T18:21:07Z",
-      "source": "ESPN NFL",
+      "title": "Renner's post-deadline 2027 NFL mock draft: How the trade deadline affected the first three rounds",
+      "url": "https://www.cbssports.com/nfl/draft/news/renners-2027-nfl-three-round-mock-draft-trade-deadline-first-three-rounds-eagles-jets-titans/",
+      "summary": "The Eagles and Titans rebuild after the deadline, while the Chargers land a new weapon for Justin Herbert in Jeremiah Smith",
+      "published": "Wed, 11 Nov 2026 17:15:58 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "ATL"
+        "LAC",
+        "PHI",
+        "TEN"
+      ]
+    },
+    {
+      "title": "Why Packers' Jordan Love is the 2026 midseason MVP: Green Bay QB dominating with no help",
+      "url": "https://www.cbssports.com/nfl/news/why-packers-jordan-love-is-2026-midseason-mvp/",
+      "summary": "Love is doing more with less and doing it better than every other quarterback in the NFL through nine weeks of the 2026 season",
+      "published": "Wed, 11 Nov 2026 16:10:34 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "GB"
+      ]
+    },
+    {
+      "title": "Week 10 QB Power Rankings: There's a new No. 1, while Caleb Williams drops out of top 10",
+      "url": "https://www.cbssports.com/nfl/news/week-10-qb-power-rankings-joe-burrow-jordan-love-caleb-williams/",
+      "summary": "Joe Burrow swipes the top spot, Jordan Love climbs into the top five, C.J. Stroud cracks the top 10 and Caleb Williams falls",
+      "published": "Wed, 11 Nov 2026 18:16:19 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Giants attempted to trade for Falcons star RB Bijan Robinson at trade deadline, per report",
+      "url": "https://www.cbssports.com/nfl/news/giants-attempted-to-trade-for-falcons-bijan-robinson-trade-deadline/",
+      "summary": "After missing out on Jeffery Simmons and Jonathan Taylor, New York took a huge swing on the league's leading rusher before standing pat",
+      "published": "Wed, 11 Nov 2026 15:31:35 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "ATL",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Browns to start Deshaun Watson over Shedeur Sanders in Week 10 vs. Texans, per report",
+      "url": "https://www.cbssports.com/nfl/news/browns-start-deshaun-watson-over-shedeur-sanders-texans/",
+      "summary": "Watson missed last week's overtime loss vs. New Orleans due to a concussion",
+      "published": "Wed, 11 Nov 2026 15:06:19 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "CLE",
+        "HOU"
+      ]
+    },
+    {
+      "title": "Fernando Mendoza new favorite to win Offensive Rookie of the Year ahead of his first NFL start",
+      "url": "https://www.cbssports.com/nfl/news/raiders-fernando-mendoza-offensive-rookie-year-favorite-first-nfl-start/",
+      "summary": "A wide-open race puts the No. 1 overall pick atop the odds board before his first career start, though a brutal schedule against top defenses looms",
+      "published": "Wed, 11 Nov 2026 13:57:32 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Kirk Cousins' reunion with Vikings headlines NFL trade deadline; Georgia tops CFP Top 25 rankings",
+      "url": "https://www.cbssports.com/nfl/news/kirk-cousins-reunion-vikings-raiders-nfl-trade-deadline-georgia-utah-alabama-ucla-cfp-rankings/",
+      "summary": "Plus winners and losers from the first Celtics vs. 76ers showdown since their blockbuster trade",
+      "published": "Wed, 11 Nov 2026 13:46:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "NFL Week 10 picks, best bets: Steelers cool off Joe Burrow's Bengals, Chiefs roll in Atlanta",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-picks-best-bets-steelers-joe-burrows-bengals-chiefs/",
+      "summary": "Tyler Sullivan picks every game on the Week 10 schedule, including five locks against the spread",
+      "published": "Wed, 11 Nov 2026 13:43:17 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "KC",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Prisco's Week 10 NFL picks: Giants over Commanders on 'TNF,' Lions top Patriots in Munich",
+      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-10-expert-nfl-picks/",
+      "summary": "Pete Prisco reveals all of his Week 10 picks, including the Packers to spoil Kirk Cousins' return with the Vikings",
+      "published": "Wed, 11 Nov 2026 13:43:03 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "GB",
+        "MIN",
+        "NE",
+        "NYG",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Ranking NFL's greatest in-season trades of all-time: Where Kirk Cousins to Vikings ranks among top 10",
+      "url": "https://www.cbssports.com/nfl/news/ranking-nfls-greatest-in-season-trades-kirk-cousins-vikings/",
+      "summary": "Tuesday's trade is already among the most notable in-season deals in league history",
+      "published": "Wed, 11 Nov 2026 12:59:10 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "NFL pretenders and contenders after Week 9: NFC North is fierce, no faith in Giants and Steelers",
+      "url": "https://www.cbssports.com/nfl/news/nfl-pretenders-and-contenders-for-week-10-nfc-north-giants-steelers/",
+      "summary": "Breaking down all 14 teams currently in playoff position at the midway point to separate the legitimate Super Bowl threats from the impostors",
+      "published": "Wed, 11 Nov 2026 15:56:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "PIT"
       ]
     },
     {
@@ -788,210 +779,6 @@
       "category": "injury",
       "teams": [
         "LA"
-      ]
-    },
-    {
-      "title": "2026 NFL trade deadline: Ranking Vikings quarterback options with Kirk Cousins as best fit in Minnesota",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-vikings-quarterback-options-kirk-cousins/",
-      "summary": "After Carson Wentz exposed Minnesota's offensive problems on national television, the 6-2 Vikings must consider an aggressive move",
-      "published": "Tue, 10 Nov 2026 14:23:34 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "Josh Allen, Bills suffocate Vikings; NFL trade deadline day arrives with big names on the market",
-      "url": "https://www.cbssports.com/nfl/news/josh-allen-bills-vikings-mnf-nfl-trade-deadline-market/",
-      "summary": "Plus, Georgia has taken over the top spot in our CFB Power Rankings",
-      "published": "Tue, 10 Nov 2026 13:49:55 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "BUF",
-        "MIN"
-      ]
-    },
-    {
-      "title": "NFL Week 10 picks and score predictions: Lions run over Patriots in Germany, Bengals survive",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-10-picks-score-predictions-lions-patriots-bengals/",
-      "summary": "John Breech predicts every Week 10 game, including a Lions victory over the Patriots in Munich",
-      "published": "Tue, 10 Nov 2026 20:31:11 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "DET",
-        "NE"
-      ]
-    },
-    {
-      "title": "Prisco's NFL Week 10 Power Rankings: Top 5 remains same, Bengals and Packers surging thanks to MVP candidates",
-      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-10-power-rankings-bengals-packers-climbing/",
-      "summary": "Pete Prisco shares his Week 10 Power Rankings for the 2026 NFL season, including the Vikings dropping five spots",
-      "published": "Tue, 10 Nov 2026 15:09:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "GB",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Six lessons learned from NFL Week 9: Arvell Reese a superstar in the making, C.J. Stroud having career year",
-      "url": "https://www.cbssports.com/nfl/news/six-lessons-nfl-week-9-arvell-reese-c-j-stroud/",
-      "summary": "Plus, there's a bell cow running back emerging for one of the NFL's best teams",
-      "published": "Tue, 10 Nov 2026 04:44:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 9 grades for every team: Bills earn impressive mark for beating Vikings, Cowboys barely pass",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-grades-cowboys-bengals-patriots-packers/",
-      "summary": "We're handing out grades for every team that played in Week 9",
-      "published": "Tue, 10 Nov 2026 04:34:29 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "DAL",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Can Carson Beck convince the Cardinals not to draft a QB? He has eight games to make his case",
-      "url": "https://www.cbssports.com/nfl/news/can-carson-beck-convince-cardinals-not-to-draft-a-qb/",
-      "summary": "The third-round rookie has eight games to prove he can be this year's Tyler Shough, but history says that won't be easy",
-      "published": "Tue, 10 Nov 2026 02:36:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI"
-      ]
-    },
-    {
-      "title": "Cardinals' Gardner Minshew feared to have suffered a torn UCL, could be out for season, per report",
-      "url": "https://www.cbssports.com/nfl/news/cardinals-gardner-minshew-feared-torn-ucl-could-out-for-season-report/",
-      "summary": "Carson Beck would get the start if Minshew is sidelined",
-      "published": "Tue, 10 Nov 2026 00:22:28 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI"
-      ]
-    },
-    {
-      "title": "Bills vs. Vikings odds, picks, player props: Expert's NFL Week 9 best bets for Monday Night Football",
-      "url": "https://www.cbssports.com/betting/news/bills-vs-vikings-odds-picks-player-props-experts-nfl-week-9-best-bets-for-monday-night-football/",
-      "summary": "CBS Sports NFL expert Will Brinson shares his top picks and props for Monday Night Football in NFL Week 9",
-      "published": "Mon, 09 Nov 2026 23:45:49 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Bills vs. Vikings odds, prediction, betting preview, start time: Monday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/bills-vs-vikings-odds-prediction-betting-preview-start-time-monday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Bills vs. Vikings on Monday Night Football",
-      "published": "Mon, 09 Nov 2026 23:45:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Jordan Davis trade grades: Eagles kickstart rebuild, Jaguars push for 2026 AFC and Super Bowl titles",
-      "url": "https://www.cbssports.com/nfl/news/jordan-davis-trade-grades-eagles-jaguars/",
-      "summary": "Grading how both squads made out in the biggest trade on the eve of the NFL's Nov. 10 trade deadline",
-      "published": "Mon, 09 Nov 2026 23:26:41 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "JAX",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Cardinals Michael Wilson out for the year with neck fracture, how it impacts fantasy football",
-      "url": "https://www.cbssports.com/nfl/news/cardinals-michael-wilson-out-for-the-year-neck-fracture-fantasy-football/",
-      "summary": "Wilson was the top wide receiver for the Cardinals this season, who have lost a lot of depth at the position.",
-      "published": "Mon, 09 Nov 2026 23:01:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI"
-      ]
-    },
-    {
-      "title": "2027 NFL Draft order, team needs: Full first-round picks for all 32 teams after Jags-Eagles trade",
-      "url": "https://www.cbssports.com/nfl/news/2027-nfl-draft-order-team-needs/",
-      "summary": "See where every team picks in the first round and which positions each franchise could target in the 2027 NFL Draft",
-      "published": "Mon, 09 Nov 2026 22:58:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "Rams All-Pro Puka Nacua likely to go on injured reserve with knee, toe injuries",
-      "url": "https://www.cbssports.com/nfl/news/rams-all-pro-puka-nacua-likely-to-go-on-injured-reserve/",
-      "summary": "The Rams will now likely be without both Puka Nacua and Davante Adams",
-      "published": "Mon, 09 Nov 2026 22:45:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "Bills vs. Vikings odds: First touchdown scorer picks, NFL predictions for Monday Night Football",
-      "url": "https://www.cbssports.com/prediction/news/bills-vs-vikings-odds-first-touchdown-scorer-picks-nfl-predictions-monday-night-football/",
-      "summary": "Here are our top picks for first touchdown prediction markets on Monday Night Football between the Bills and Vikings",
-      "published": "Mon, 09 Nov 2026 22:44:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "MIN"
       ]
     }
   ],
