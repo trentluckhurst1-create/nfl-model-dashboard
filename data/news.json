@@ -1,25 +1,40 @@
 {
-  "updated_at_utc": "2026-11-12T00:54:06.348392+00:00",
-  "checked_at_utc": "2026-11-12T00:54:06.348392+00:00",
+  "updated_at_utc": "2026-11-12T07:58:14.014801+00:00",
+  "checked_at_utc": "2026-11-12T07:58:14.014801+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 10,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 32
+      "items": 35
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 20,
+      "items": 21,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Tom Brady's NFL Power Rankings: Was Bills' Win Convincing Enough To Move To No. 1?",
+      "url": "https://www.foxsports.com/stories/nfl/tom-bradys-nfl-power-rankings-bears-bills-49ers-chiefs",
+      "summary": "The Bears won in Week 9, but it didn't look pretty. Was that enough for the Bills or 49ers to take the top spot in Tom Brady's power rankings.",
+      "published": "Wed, 11 Nov 2026 20:32:52 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "CHI",
+        "SF"
+      ]
+    },
     {
       "title": "Kirk Cousins Relishes Kevin O'Connell's Familiarity Ahead Of Packers Matchup",
       "url": "https://www.foxsports.com/stories/nfl/cousins-rejoins-the-vikings-where-familiarity-and-comfort-will-help-him-prepare-to-play-the-packers",
@@ -278,134 +293,43 @@
       ]
     },
     {
-      "title": "Dolphins hopeful QB Malik Willis will be back this season",
-      "url": "https://www.espn.com/nfl/story/_/id/50456677/dolphins-quarterback-malik-willis-return-starter",
-      "summary": "Coach Jeff Hafley said Miami sees Malik Willis as its starter regardless of when he returns from his groin injury.",
-      "published": "2026-11-12T00:41:09Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIA"
-      ]
-    },
-    {
-      "title": "Source: Ravens, now on third kicker, sign journeyman Riley Patterson",
-      "url": "https://www.espn.com/nfl/story/_/id/50456455/source-ravens-now-third-kicker-sign-riley-patterson",
-      "summary": "The Raven signed journeyman kicker Riley Patterson after his workout for the team on Wednesday, according to NFL Network.",
-      "published": "2026-11-12T00:48:45Z",
+      "title": "NFL trade deadline grades: Deals for Kirk Cousins, Josh Downs, Ryan Neuzil",
+      "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals",
+      "summary": "Was getting Kirk Cousins a home run for the Vikings? Did the Chiefs make a smart move to pick up Josh Downs?",
+      "published": "2026-11-12T07:43:50Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "Fernando Mendoza relishes 'once-in-a-lifetime' opportunity as Raiders' QB1",
-      "url": "https://www.espn.com/nfl/story/_/id/50456405/fernando-mendoza-relishes-once-life-opportunity-raiders-starting-qb",
-      "summary": "No. 1 pick Fernando Mendoza said Wednesday it's a \"once-in-a-lifetime\" opportunity to be the Raiders' starting quarterback, while his teammates and coach expressed their confidence in his ability to lead the offense.",
-      "published": "2026-11-12T00:48:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "LV"
-      ]
-    },
-    {
-      "title": "Kirk Cousins makes first comments on Minnesota trade at Great Clips",
-      "url": "https://www.espn.com/nfl/story/_/id/50455775/kirk-cousins-minnesota-trade-great-clips",
-      "summary": "Kirk Cousins offered some thoughts on his trade to Minnesota after the news broke in the most on-brand location imaginable.",
-      "published": "2026-11-12T00:07:39Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Kirk Cousins says call with Kevin O'Connell convinced him to OK Vikings trade",
-      "url": "https://www.espn.com/nfl/story/_/id/50455771/kirk-cousins-reintroduced-vikings-starting-qb",
-      "summary": "Kirk Cousins has rejoined the Vikings after not quite three years away, relishing his familiarity with the Twin Cities area, the people in the organization.",
-      "published": "2026-11-12T00:04:23Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
+        "KC",
         "MIN"
       ]
     },
     {
-      "title": "New Bills safety Amani Hooker will be 'ready to go' vs. Jets",
-      "url": "https://www.espn.com/nfl/story/_/id/50455698/new-bills-safety-amani-hooker-ready-go-vs-jets",
-      "summary": "Amani Cooper said he's confident he'll be able to pick up defensive coordinator Jim Leonhard's scheme by kickoff vs. the Jets.",
-      "published": "2026-11-11T23:35:57Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Sean McVay: Rams optimistic WR Davante Adams will return 'sooner than later'",
-      "url": "https://www.espn.com/nfl/story/_/id/50455318/mcvay-rams-optimistic-wr-adams-return-sooner-later",
-      "summary": "The Rams are optimistic that injured wide receiver Davante Adams will return from his hamstring injury \"sooner than later,\" coach Sean McVay said.",
-      "published": "2026-11-11T23:36:14Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "Cardinals to start rookie QB Carson Beck against Rams",
-      "url": "https://www.espn.com/nfl/story/_/id/50455074/cardinals-start-rookie-qb-carson-beck-rams",
-      "summary": "The Cardinals will start their third quarterback in three weeks, with rookie Carson Beck getting the nod for Sunday's home game against the Rams.",
-      "published": "2026-11-12T00:43:05Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ARI",
-        "LA"
-      ]
-    },
-    {
-      "title": "Jets' Will McDonald has 'earned' bigger role, coach says",
-      "url": "https://www.espn.com/nfl/story/_/id/50454952/jets-mcdonald-earned-bigger-role-coach-says",
-      "summary": "Jets coach Aaron Glenn said Will McDonald IV has \"earned\" a bigger role after meeting with the pass rusher following his trade request.",
-      "published": "2026-11-11T21:13:37Z",
+      "title": "Broncos say trade with Chargers for LB Henley 'will not be finalized'",
+      "url": "https://www.espn.com/nfl/story/_/id/50459330/broncos-say-trade-chargers-lb-henley-not-finalized",
+      "summary": "The Broncos announced late Wednesday that their trade to acquire linebacker Daiyan Henley from the Chargers \"will not be finalized.\"",
+      "published": "2026-11-12T06:44:33Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "NYJ"
+        "DEN",
+        "LAC"
       ]
     },
     {
-      "title": "Titans' Calvin Ridley addresses incident with valet at Nashville airport",
-      "url": "https://www.espn.com/nfl/story/_/id/50454416/titans-ridley-addresses-incident-valet-airport",
-      "summary": "Titans WR Calvin Ridley addressed the incident that occurred over the weekend at Nashville International Airport involving a valet as he attempted to recover the keys to his truck.",
-      "published": "2026-11-11T20:22:54Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 10 injury report: Mike Evans still not practicing, Puka Nacua facing multi-week absence",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-10-injury-report-mike-evans-puka-nacua/",
+      "summary": "Here is the latest practice participation, game status and injury news for every team playing Thursday or Sunday in Week 10",
+      "published": "Thu, 12 Nov 2026 01:08:15 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "TEN"
-      ]
+      "category": "injury",
+      "teams": []
     },
     {
       "title": "Bengals nearly made a costly trade-deadline blunder, and Zac Taylor had to explain it",
@@ -840,6 +764,36 @@
       "teams": [
         "LV",
         "MIN"
+      ]
+    },
+    {
+      "title": "Jonathan Taylor mock trades: How Giants, Broncos, Vikings could target Colts star RB",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-jonathan-taylor-mock-trades/",
+      "summary": "The Colts need to replenish their draft assets, and dealing their three-time Pro Bowl running back could produce a significant return",
+      "published": "Tue, 10 Nov 2026 18:51:34 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DEN",
+        "IND",
+        "MIN",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Dolphins lose captain Zach Sieler for season with ruptured biceps",
+      "url": "https://www.cbssports.com/nfl/news/dolphins-zach-sieler-injury-2026/",
+      "summary": "The Dolphins captain ruptured his biceps on the opening play against the Lions but remarkably finished the game",
+      "published": "Tue, 10 Nov 2026 16:47:24 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "MIA"
       ]
     }
   ],
