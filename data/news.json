@@ -1,25 +1,47 @@
 {
-  "updated_at_utc": "2026-11-12T22:27:43.290287+00:00",
-  "checked_at_utc": "2026-11-12T22:27:43.290287+00:00",
+  "updated_at_utc": "2026-11-13T02:51:16.516960+00:00",
+  "checked_at_utc": "2026-11-13T02:51:16.516960+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 13,
+      "items": 10,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 28
+      "items": 29
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 24,
+      "items": 17,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Expectation Tiers: Redefining Success For All 32 Teams At Season's Halfway Point",
+      "url": "https://www.foxsports.com/stories/nfl/expectation-tiers-redefining-success-all-32-teams-seasons-halfway-point",
+      "summary": "Which teams need to make the Super Bowl at this point? We redefine success for all 32 teams in our expectation tiers.",
+      "published": "Thu, 12 Nov 2026 18:55:31 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL Week 10 Picks: Best Bets For Every Game \u2014 Will's Wagers",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-10-picks-best-bets-every-game-wills-wagers",
+      "summary": "Will Hill delivers his best bets for every NFL Week 10 game. Dive in.",
+      "published": "Thu, 12 Nov 2026 18:06:34 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "2027 NFL Draft No. 1 Pick Odds: Drew Mestemaker Narrows Gap On Jeremiah Smith",
       "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
@@ -217,272 +239,10 @@
       ]
     },
     {
-      "title": "The Raiders Have Given Meticulous Fernando Mendoza The Keys. What Should We Expect?",
-      "url": "https://www.foxsports.com/stories/nfl/fernando-mendoza-raiders-rams-puka-nacua",
-      "summary": "A detailed Fernando Mendoza has put in the work, but will he shine in his first start? Here's what people around the league are telling us.",
-      "published": "Wed, 11 Nov 2026 16:35:48 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LV"
-      ]
-    },
-    {
-      "title": "The Jets Didn't Honor Will McDonald IV's Trade Request, Now He Wants More Snaps",
-      "url": "https://www.foxsports.com/stories/nfl/new-york-jets-will-mcdonald-nfl-trade-deadline-demand",
-      "summary": "Will McDonald IV wants more playing time with the New York Jets after not getting his trade deadline wish.",
-      "published": "Wed, 11 Nov 2026 16:33:10 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYJ"
-      ]
-    },
-    {
-      "title": "2026 NFL Comeback Player of the Year Odds: Mahomes Leads, Tank Dell Surges",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-comeback-player-year",
-      "summary": "Patrick Mahomes remains the favorite for NFL Comeback Player of the Year, but Tank Dell is surging. Here\u2019s how the odds shifted after Week 9.",
-      "published": "Wed, 11 Nov 2026 16:27:45 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Miss The Playoffs?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-to-miss-playoffs",
-      "summary": "Two squads with injured quarterbacks are watching their odds to miss the playoffs move in the wrong direction. See the latest.",
-      "published": "Wed, 11 Nov 2026 16:27:15 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "Rams Coach Sean McVay Gives Injury Update On Superstar WR Puka Nacua",
-      "url": "https://www.foxsports.com/stories/nfl/rams-puka-nacua-knee-toe-injury-update",
-      "summary": "Los Angeles Rams head coach Sean McVay provided an update on wide receiver Puka Nacua, who suffered multiple knee sprains and turf toe in Week 9.",
-      "published": "Wed, 11 Nov 2026 16:10:50 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "Packers Matt LaFleur 'Surprised' Raiders Didn't Get More In Kirk Cousins Trade",
-      "url": "https://www.foxsports.com/stories/nfl/green-bay-packers-coach-las-vegas-raiders-trade-kirk-cousins",
-      "summary": "Green Bay Packers head coach Matt LaFleur wasn't shy about sharing his reaction to the blockbuster trade for quarterback Kirk Cousins.",
-      "published": "Wed, 11 Nov 2026 16:01:59 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "GB",
-        "LV"
-      ]
-    },
-    {
-      "title": "Will Hill's Parlay Of The Week: Back Arizona To Cover; Mendoza To Throw Pick",
-      "url": "https://www.foxsports.com/stories/nfl/will-hill-5-leg-parlay-cfb-week-11-nfl-week-10-nba-lakers",
-      "summary": "Check out Will Hill's five-leg parlay, including No. 23 Arizona to challenge No. 2 Utah and Fernando Mendoza to struggle.",
-      "published": "Wed, 11 Nov 2026 15:49:13 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL DROY Odds: Which New York Rookie Has The Edge?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-defensive-rookie-year-odds",
-      "summary": "Two rising stars in the Big Apple are battling atop the NFL Defensive Rookie of the Year oddsboard after Week 9. See the latest odds.",
-      "published": "Wed, 11 Nov 2026 14:25:00 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL No. 1 Seed Odds: Bills Favored, Bears Emerge As 49ers\u2019 Top Threat",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-no-1-seed-chiefs-49ers",
-      "summary": "Buffalo strengthened its grip on the AFC\u2019s top spot, while Chicago closed in on San Francisco in the NFC. See the latest NFL No. 1 seed odds.",
-      "published": "Wed, 11 Nov 2026 13:55:40 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "CHI",
-        "SF"
-      ]
-    },
-    {
-      "title": "Ravens QB Jacoby Brissett immersed in 'crash course' for Chargers tilt",
-      "url": "https://www.espn.com/nfl/story/_/id/50464938/ravens-qb-brissett-immersed-crash-course-chargers",
-      "summary": "New Ravens quarterback Jacoby Brissett says he's focused on Monday's game against the Chargers, not the team's plans at quarterback for the remainder of the season.",
-      "published": "2026-11-12T22:25:16Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "BAL",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Travis Hunter makes Jessie Bates' Jaguars trade a hit with his nephews",
-      "url": "https://www.espn.com/nfl/story/_/id/50464631/jaguars-jessie-bates-trade-travis-hunter",
-      "summary": "The safety's young nephews were thrilled to learn their uncle would be Hunter's teammate.",
-      "published": "2026-11-12T22:19:47Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "JAX"
-      ]
-    },
-    {
-      "title": "Cowboys' Porter: My absence is because of injury, not my contract",
-      "url": "https://www.espn.com/nfl/story/_/id/50464810/cowboys-joey-porter-absence-due-injury-not-contract",
-      "summary": "Cowboys CB Joey Porter Jr. wants it known his absence the last two weeks has everything to do with an ankle injury and nothing to do with a future contract.",
-      "published": "2026-11-12T22:24:03Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Kirk Cousins begins his 2nd stint with Vikings as they face the Packers in an NFC North showdown",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873060",
-      "summary": "\u2014 Kirk Cousins\u2019 career seemed at a crossroads when he tore his Achilles tendon during his last visit to Lambeau Field.",
-      "published": "2026-11-12T21:50:34Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Chargers' Jim Harbaugh frustrated with Broncos after nixed Daiyan Henley trade",
-      "url": "https://www.espn.com/nfl/story/_/id/50464601/chargers-jim-harbaugh-irked-broncos-nixed-trade",
-      "summary": "Chargers coach Jim Harbaugh on Thursday expressed frustration with the Denver Broncos about a nixed trade this week involving linebacker Daiyan Henley.",
-      "published": "2026-11-12T22:21:03Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DEN",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Despite slow starts, the Panthers and Saints meet with a chance to become sole leaders of NFC South",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873055",
-      "summary": "\u2014 Never mind the Carolina Panthers' three-game losing streak, or that the New Orleans Saints dropped five of their first seven games this season.",
-      "published": "2026-11-12T21:39:34Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "NO"
-      ]
-    },
-    {
-      "title": "Trevor Lawrence sees a 'shot' as the Jaguars add 3 defenders in trades before visiting Tennessee",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873057",
-      "summary": "\u2014 The Jacksonville Jaguars already felt pretty confident both in themselves and what they want for a franchise still searching for its first Super...",
-      "published": "2026-11-12T20:59:34Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "JAX"
-      ]
-    },
-    {
-      "title": "Deshaun Watson downplays facing Texans as Browns try to stay unbeaten at home, in playoff picture",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873056",
-      "summary": "\u2014 Deshaun Watson isn't buying the hype, insisting that it's no longer a big deal when he plays against his former team, the Houston Texans.",
-      "published": "2026-11-12T20:09:34Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "HOU"
-      ]
-    },
-    {
-      "title": "Jonathan Taylor focused on being leader for Colts with trade deadline drama over",
-      "url": "https://www.espn.com/nfl/story/_/id/50463938/still-colts-jonathan-taylor-focused-being-leader",
-      "summary": "Colts running back Jonathan Taylor said he has turned his attention toward the future after the team's big moves ahead of the NFL trade deadline.",
-      "published": "2026-11-12T20:24:51Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-      "url": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
-      "published": "2026-11-12T19:34:41Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "TEN"
-      ]
-    },
-    {
-      "title": "The Bills visit the Jets with a 7-1 record and a chance at their best start since 1991",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873054",
-      "summary": "\u2014 The Buffalo Bills are off to their best start in 33 years, Josh Allen and the high-scoring offense are clicking, and they're tied for the top...",
-      "published": "2026-11-12T19:03:40Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "NYJ"
-      ]
-    },
-    {
       "title": "Week 10 Thursday Night Football: Commanders at Giants highlights",
       "url": "https://www.espn.com/nfl/story/_/id/50463340/thursday-night-football-commanders-giants-highlights",
-      "summary": "Stay tuned for the biggest touchdowns and highlights from the NFC East faceoff at MetLife Stadium.",
-      "published": "2026-11-12T19:39:04Z",
+      "summary": "Follow along for the biggest touchdowns and highlights from the NFC East faceoff at MetLife Stadium.",
+      "published": "2026-11-13T02:43:01Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -493,17 +253,206 @@
       ]
     },
     {
-      "title": "A big Munich test for the Lions and Patriots as injuries loom for New England",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873053",
-      "summary": "\u2014 Heading into international games, NFL coaches typically talk up the niceties of \u201cgrowing the game\u201d globally.",
-      "published": "2026-11-12T18:49:38Z",
+      "title": "Rams put WR Puka Nacua on IR with knee, toe injuries",
+      "url": "https://www.espn.com/nfl/story/_/id/50466270/rams-wide-receiver-puka-nacua-ir-knee-toe-injuries",
+      "summary": "The Rams, who had said they would not put Puka Nacua on IR, pivoted so they can sign Brennan Presley to the active roster and Tyler Scott to the practice squad.",
+      "published": "2026-11-13T01:17:02Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "DET",
-        "NE"
+        "LA"
+      ]
+    },
+    {
+      "title": "Vikings 'hyped' to welcome back 'leader' Cousins on 1st day of practice",
+      "url": "https://www.espn.com/nfl/story/_/id/50466164/vikings-hyped-welcome-back-leader-kirk-cousins-1st-day-practice",
+      "summary": "The Minnesota Vikings reveled Thursday in quarterback Kirk Cousins' first full day back with the organization.",
+      "published": "2026-11-13T01:29:44Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "Cam Skattebo dons custom 'Iron Man' mask for TNF, leads NFL Week 10 arrivals",
+      "url": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-13T00:54:58Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Steelers and Bengals meet for AFC North lead on Sunday night, both 6-2",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873064",
+      "summary": "Joe Burrow and the Cincinnati Bengals have been on a record run during their four-game winning streak.",
+      "published": "2026-11-13T00:00:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Reunion for Jim Harbaugh and Jesse Minter comes with both the Chargers and Ravens spiraling",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873065",
+      "summary": "\u2014 Jim Harbaugh and Jesse Minter won a national championship together at the college level, then led the Los Angeles Chargers to back-to-back playoff appearances.",
+      "published": "2026-11-12T23:58:43Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Cardinals' rookie QB Carson Beck makes his NFL debut against stellar Rams defense",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873061",
+      "summary": "\u2014 First-year Arizona Cardinals coach Mike LaFleur is earning his paycheck this week as he works to develop an offensive game plan with a rookie...",
+      "published": "2026-11-12T23:33:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ARI",
+        "LA"
+      ]
+    },
+    {
+      "title": "Raiders QB Fernando Mendoza\u2019s first start will come against the Seahawks' NFL-best defense",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873062",
+      "summary": "\u2014 The change came quickly Tuesday, but it was not unexpected when the",
+      "published": "2026-11-12T23:29:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "LV",
+        "SEA"
+      ]
+    },
+    {
+      "title": "GM Joe Hortiz says Chargers were listening to trade offers, none were enticing",
+      "url": "https://www.espn.com/nfl/story/_/id/50465608/joe-hortiz-says-chargers-were-listening-trade-offers",
+      "summary": "GM Joe Hortiz pushed back against any narrative that the Chargers were unwilling or reluctant to pick up their phone ahead of Tuesday's trade deadline.",
+      "published": "2026-11-13T00:02:09Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
+      "title": "QB Kyle McCord eager to make his 1st NFL start as Dolphins and Colts meet in battle of reeling teams",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873059",
+      "summary": "\u2014 Miami Dolphins quarterback Kyle McCord has dreamed about this moment his entire life.",
+      "published": "2026-11-12T23:10:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "IND",
+        "MIA"
+      ]
+    },
+    {
+      "title": "Cardinals name Carson Beck starting QB: Rookie faces Aaron Donald, Myles Garrett in NFL debut",
+      "url": "https://www.cbssports.com/nfl/news/cardinals-starting-qb-carson-beck-2026/",
+      "summary": "Gardner Minshew's season-ending injury opens the door for Beck, whose first assignment comes against one of the NFL's most accomplished pass-rushing duos",
+      "published": "Fri, 13 Nov 2026 02:09:28 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ARI"
+      ]
+    },
+    {
+      "title": "Commanders vs. Giants odds, picks, prediction: Best bets, player props for NFL Week 10 Thursday Night Football",
+      "url": "https://www.cbssports.com/betting/news/commanders-vs-giants-odds-picks-prediction-best-bets-player-props-for-nfl-week-10-thursday-night-football/",
+      "summary": "New York is a 2.5-point home favorite, but backing Jayden Daniels against an erratic J.J. McCarthy in prime time provides strong value to take Washington on the money line",
+      "published": "Fri, 13 Nov 2026 00:01:27 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Commanders vs. Giants odds, prediction, betting preview, start time: Thursday Night Football picks, best bets",
+      "url": "https://www.cbssports.com/betting/news/commanders-vs-giants-odds-prediction-betting-preview-start-time-thursday-night-football-picks-best-bets/",
+      "summary": "Best bets and betting preview for Commanders vs. Giants on Thursday Night Football",
+      "published": "Fri, 13 Nov 2026 00:00:54 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Giants vs. Commanders prediction: New York, Washington look to rebound on 'TNF' after embarrassing Week 5 tie",
+      "url": "https://www.cbssports.com/nfl/news/giants-vs-commanders-how-to-watch-odds-spread-preview-prediction/",
+      "summary": "How to watch the 'Thursday Night Football' matchup, plus a preview and prediction",
+      "published": "Fri, 13 Nov 2026 00:50:51 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Week 10 NFL betting promos: Get over $3,000 in bonuses from betting apps, sportsbooks, Commanders vs. Giants",
+      "url": "https://www.cbssports.com/betting/news/week-10-nfl-betting-promos-get-over-3000-in-bonuses-from-betting-apps-sportsbooks-commanders-vs-giants/",
+      "summary": "Top Week 10 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Thu, 12 Nov 2026 22:43:28 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Chargers' Jim Harbaugh implores NFL to investigate 'loophole' that nixed Daiyan Henley trade",
+      "url": "https://www.cbssports.com/nfl/news/chargers-jim-harbaugh-implores-nfl-investigate-loophole-daiyan-henley-trade/",
+      "summary": "The Broncos and Chargers called off their agreed-upon trade following Henley's physical",
+      "published": "Thu, 12 Nov 2026 21:34:59 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "DEN",
+        "LAC"
       ]
     },
     {
@@ -615,20 +564,6 @@
       "teams": []
     },
     {
-      "title": "Giants vs. Commanders: New York, Washington look to rebound on 'TNF' after embarrassing Week 5 tie",
-      "url": "https://www.cbssports.com/nfl/news/giants-vs-commanders-how-to-watch-odds-spread-preview-prediction/",
-      "summary": "How to watch the 'Thursday Night Football' matchup, plus a preview and prediction",
-      "published": "Thu, 12 Nov 2026 14:49:20 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
       "title": "Jacob Misiorowski, Cam Schlittler win Cy Young awards; NFL expert picks for Week 10",
       "url": "https://www.cbssports.com/mlb/news/jacob-misiorowski-cam-schlittler-win-cy-young-awards-nfl-expert-picks-for-week-10/",
       "summary": "Plus, the Lakers are surging in our NBA Power Rankings",
@@ -712,7 +647,7 @@
       "title": "NFL Week 10 upset alert: Why the red-hot Bengals are in danger on 'Sunday Night Football'",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-10-upset-alert-2026-bengals-steelers/",
       "summary": "Pittsburgh's rest advantage and formidable defense could end Cincinnati's winning streak, while Kirk Cousins gives Minnesota new life against Green Bay",
-      "published": "Thu, 12 Nov 2026 12:41:27 +0000",
+      "published": "Fri, 13 Nov 2026 00:51:47 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -821,56 +756,6 @@
       "teams": [
         "GB"
       ]
-    },
-    {
-      "title": "Week 10 QB Power Rankings: There's a new No. 1, while Caleb Williams drops out of top 10",
-      "url": "https://www.cbssports.com/nfl/news/week-10-qb-power-rankings-joe-burrow-jordan-love-caleb-williams/",
-      "summary": "Joe Burrow swipes the top spot, Jordan Love climbs into the top five, C.J. Stroud cracks the top 10 and Caleb Williams falls",
-      "published": "Wed, 11 Nov 2026 18:16:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Giants attempted to trade for Falcons star RB Bijan Robinson at trade deadline, per report",
-      "url": "https://www.cbssports.com/nfl/news/giants-attempted-to-trade-for-falcons-bijan-robinson-trade-deadline/",
-      "summary": "After missing out on Jeffery Simmons and Jonathan Taylor, New York took a huge swing on the league's leading rusher before standing pat",
-      "published": "Wed, 11 Nov 2026 15:31:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "ATL",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Browns to start Deshaun Watson over Shedeur Sanders in Week 10 vs. Texans, per report",
-      "url": "https://www.cbssports.com/nfl/news/browns-start-deshaun-watson-over-shedeur-sanders-texans/",
-      "summary": "Watson missed last week's overtime loss vs. New Orleans due to a concussion",
-      "published": "Wed, 11 Nov 2026 15:06:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CLE",
-        "HOU"
-      ]
-    },
-    {
-      "title": "Fernando Mendoza new favorite to win Offensive Rookie of the Year ahead of his first NFL start",
-      "url": "https://www.cbssports.com/nfl/news/raiders-fernando-mendoza-offensive-rookie-year-favorite-first-nfl-start/",
-      "summary": "A wide-open race puts the No. 1 overall pick atop the odds board before his first career start, though a brutal schedule against top defenses looms",
-      "published": "Wed, 11 Nov 2026 13:57:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
     }
   ],
   "reporters": []
