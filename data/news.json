@@ -1,25 +1,114 @@
 {
-  "updated_at_utc": "2026-11-13T17:56:43.017089+00:00",
-  "checked_at_utc": "2026-11-13T17:56:43.017089+00:00",
+  "updated_at_utc": "2026-11-13T23:26:03.599751+00:00",
+  "checked_at_utc": "2026-11-13T23:26:03.599751+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 8,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 27
+      "items": 31
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 21,
+      "items": 20,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Sean McVay Gives Injury Updates On Rams Stars Myles Garrett, Trent McDuffie",
+      "url": "https://www.foxsports.com/stories/nfl/sean-mcvay-myles-garrett-trent-mcduffie-injury-update-rams-cardinals",
+      "summary": "Rams head coach Sean McVay provided an injury update on superstar defensive end Myles Garrett and All-Pro cornerback Trent McDuffie.",
+      "published": "Fri, 13 Nov 2026 17:40:43 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "That Was Fast! Vikings HC Kevin O'Connell Reveals Kirk Cousins Timeline",
+      "url": "https://www.foxsports.com/stories/nfl/vikings-quarterbacks-kirk-cousins-kevin-oconnell-press-conference",
+      "summary": "Vikings head coach Kevin O'Connell announced that the recently acquired Kirk Cousins will start at QB in Week 10 vs. the Packers.",
+      "published": "Fri, 13 Nov 2026 16:49:05 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "GB",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Chiefs RB Walker III Misses Practice With Groin Injury, Sunday Status Unclear",
+      "url": "https://www.foxsports.com/stories/nfl/chiefs-kenneth-walker-iii-misses-practice-with-a-sore-groin-status-uncertain-for-sunday-in-atlanta",
+      "summary": "Kansas City Chiefs running back Kenneth Walker III missed practice Friday with a sore groin, leaving his status in question for this weekend\u2019s trip to Atlanta.",
+      "published": "Fri, 13 Nov 2026 15:51:39 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "NFL Trade Deadline: Who Were Biggest Winners, Losers? League Execs React To Top Deals",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-who-were-biggest-winners-losers-league-execs-react-top-deals",
+      "summary": "From the Kirk Cousins deal to the biggest winners and losers, NFL execs dish on this year's trade deadline.",
+      "published": "Fri, 13 Nov 2026 15:45:30 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": []
+    },
+    {
+      "title": "Second-Half Breakout Candidates: 25 Players Who Could Emerge In Season's Homestretch",
+      "url": "https://www.foxsports.com/stories/nfl/second-half-breakout-candidates-25-players-who-could-emerge-seasons-homestretch",
+      "summary": "We look at 25 players who could break out in the second half of the 2026 season, including a ton of promising rookies.",
+      "published": "Fri, 13 Nov 2026 14:33:43 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Jaguars Sitting New Additions Jordan Davis, Jessie Bates III Against Titans",
+      "url": "https://www.foxsports.com/stories/nfl/jacksonville-jaguars-trade-deadline-tennessee-titans",
+      "summary": "Jacksonville Jaguars defensive tackle Jordan Davis and safety Jessie Bates III, both acquired via trades this week, won\u2019t play at Tennessee on Sunday.",
+      "published": "Fri, 13 Nov 2026 13:15:40 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "JAX",
+        "TEN"
+      ]
+    },
+    {
+      "title": "Ravens Reveal Lamar Jackson\u2019s Broken And Dislocated Thumb, Recovery Timetable",
+      "url": "https://www.foxsports.com/stories/nfl/baltimore-ravens-jesse-minter-lamar-jackson-injury",
+      "summary": "The Ravens finally offered information on the state of Lamar Jackson's injury.",
+      "published": "Fri, 13 Nov 2026 13:03:36 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL"
+      ]
+    },
     {
       "title": "\u2018I Am Confident\u2019: Aaron Glenn Expects Garrett Wilson Back for Jets vs. Bills",
       "url": "https://www.foxsports.com/stories/nfl/new-york-jets-garrett-wilson-concussion-protocol-buffalo-bills",
@@ -186,169 +275,260 @@
       "teams": []
     },
     {
-      "title": "2026 NFL Week 10 Picks: Best Bets For Every Game \u2014 Will's Wagers",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-10-picks-best-bets-every-game-wills-wagers",
-      "summary": "Will Hill delivers his best bets for every NFL Week 10 game. Dive in.",
-      "published": "Thu, 12 Nov 2026 18:06:34 -0500",
-      "source": "FOX Sports NFL",
+      "title": "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys",
+      "url": "https://www.espn.com/nfl/story/_/id/50475033/49ers-williams-greenlaw-questionable-evans-vs-cowboys",
+      "summary": "The 49ers are listing left tackle Trent Williams and linebacker Dre Greenlaw as questionable for Sunday's game against the Cowboys, while receiver Mike Evans has been ruled out.",
+      "published": "2026-11-13T23:06:06Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2027 NFL Draft No. 1 Pick Odds: Drew Mestemaker Narrows Gap On Jeremiah Smith",
-      "url": "https://www.foxsports.com/stories/nfl/2027-nfl-draft-odds-no-1-pick",
-      "summary": "Can a former high school punter challenge Jeremiah Smith for the No. 1 pick? See the latest 2027 NFL Draft odds.",
-      "published": "Thu, 12 Nov 2026 15:13:42 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Quarterback Tiers: The Three QBs At The Top; Who's Replacement Level?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-quarterback-tiers-midseason",
-      "summary": "Here are updated quarterback rankings at the midway point of the 2026 NFL regular season.",
-      "published": "Thu, 12 Nov 2026 14:50:22 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "Harry Kane An NFL Kicker? Patriots Star Drake Maye Supports It",
-      "url": "https://www.foxsports.com/stories/nfl/harry-kane-nfl-kicker-patriots-drake-maye-new-england-press-conference",
-      "summary": "New England Patriots quarterback Drake Maye fully endorses Harry Kane\u2019s dream of one day becoming an NFL kicker.",
-      "published": "Thu, 12 Nov 2026 14:05:41 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
+      "category": "injury",
       "teams": [
-        "NE"
+        "DAL",
+        "SF"
       ]
     },
     {
-      "title": "NFL Week 10 Betting Report: Can Cousins Save Vikings' Meager Offense?",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-10-betting-report-can-cousins-save-vikings-meager-offense",
-      "summary": "How many points is Kirk Cousins worth? Patrick Everson breaks down that and other midweek betting action.",
-      "published": "Thu, 12 Nov 2026 13:41:30 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN"
-      ]
-    },
-    {
-      "title": "How To Bet Today's Best Games: Commanders-Giants, UConn-Ohio St. \u2014 Nov. 12",
-      "url": "https://www.foxsports.com/stories/nfl/how-bet-todays-best-games-commanders-giants-uconn-ohio-st-nov-12",
-      "summary": "Check out how to bet the best games on Nov. 12, including Commanders-Giants in the NFL and UConn-Ohio State in women's college basketball.",
-      "published": "Thu, 12 Nov 2026 13:39:18 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Sammy\u2019s Sportsbook Whispers: UCLA Is Enjoying 'The Big Ten Schedule Lottery'",
-      "url": "https://www.foxsports.com/stories/college-football/sammys-sportsbook-whispers-ucla-bruins-hit-lottery-favorable-schedule",
-      "summary": "Sammy P's latest whispers? The Bruins are enjoying good fortune, and books are rooting for the Bears' misfortune.",
-      "published": "Thu, 12 Nov 2026 13:26:35 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Why Did Broncos Call Off Trade For Chargers LB Daiyan Henley?",
-      "url": "https://www.foxsports.com/stories/nfl/daiyan-henley-trade-details-called-off-chargers-broncos",
-      "summary": "Why did the AFC West trade between the Los Angeles Chargers and Denver Broncos involving linebacker Daiyan Henley get called off?",
-      "published": "Thu, 12 Nov 2026 11:01:43 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DEN",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Commanders QB Sam Hartman to star as 'The Bachelor' in milestone 30th season",
-      "url": "https://www.espn.com/nfl/story/_/id/50472000/sam-hartman-bachelor-season-30",
-      "summary": "The 30th season of ABC's \"The Bachelor\" that will premiere in March 2027 will star the former Notre Dame standout.",
-      "published": "2026-11-13T16:44:12Z",
+      "title": "Vikings to start reacquired QB Kirk Cousins vs. Packers",
+      "url": "https://www.espn.com/nfl/story/_/id/50474753/vikings-start-reacquired-qb-kirk-cousins-vs-packers",
+      "summary": "Coach Kevin O'Connell called Kirk Cousins' ability to get reacquainted with the Vikings' offense \"impressive.\"",
+      "published": "2026-11-13T22:41:55Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": [
-        "WAS"
+        "GB",
+        "MIN"
       ]
     },
     {
-      "title": "Chargers vs. Ravens: Where to watch 'Monday Night Football'",
-      "url": "https://www.espn.com/nfl/story/_/id/50472527/chargers-vs-ravens-watch-monday-night-football-week-10",
-      "summary": "Here's what to know about the Week 10 matchup.",
-      "published": "2026-11-13T16:30:30Z",
+      "title": "NFL outlines steps in Jalen Hurts investigation in letter to senator",
+      "url": "https://www.espn.com/nfl/story/_/id/50474564/nfl-outlines-aspects-jalen-hurts-investigation-senator",
+      "summary": "The NFL provided some additional details about the investigation into how Jalen Hurts' blood clots were handled in response to an inquiry from a U.S. senator.",
+      "published": "2026-11-13T22:23:25Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Chiefs RB Kenneth Walker III (groin) misses practice, status uncertain",
+      "url": "https://www.espn.com/nfl/story/_/id/50473948/chiefs-rb-walker-groin-misses-practice-status-uncertain",
+      "summary": "Chiefs running back Kenneth Walker III missed practice Friday with a sore groin, leaving his status for Sunday's matchup against the Falcons in question.",
+      "published": "2026-11-13T21:16:23Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ATL",
+        "KC"
+      ]
+    },
+    {
+      "title": "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
+      "url": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms",
+      "summary": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
+      "published": "2026-11-13T19:27:16Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
         "BAL",
-        "LAC"
+        "TEN"
       ]
     },
     {
-      "title": "Jaguars holding out new players Jordan Davis, Jessie Bates to give them bye",
-      "url": "https://www.espn.com/nfl/story/_/id/50472481/jaguars-holding-new-players-jordan-davis-jessie-bates-give-bye",
-      "summary": "The Jaguars are holding out newly acquired Jordan Davis and Jessie Bates to give them a bye week.",
-      "published": "2026-11-13T17:21:00Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX"
-      ]
-    },
-    {
-      "title": "Minter: Lamar Jackson 'doing everything' to return; QB had surgery, source says",
-      "url": "https://www.espn.com/nfl/story/_/id/50472222/ravens-lamar-jackson-injury-typical-line-6-10-weeks",
-      "summary": "Ravens coach Jesse Minter's update on Lamar Jackson's recovery process calls such timelines \"challenging to predict.\"",
-      "published": "2026-11-13T16:25:06Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "Falcons sign DE Cameron Thomas, CB C.J. Henderson to multiyear extensions",
-      "url": "https://www.espn.com/nfl/story/_/id/50471659/falcons-sign-de-thomas-cb-henderson-multiyear-extensions",
-      "summary": "The Atlanta Falcons have signed defensive end Cameron Thomas and cornerback C.J. Henderson to multiyear contract extensions, the team announced Friday.",
-      "published": "2026-11-13T15:24:09Z",
+      "title": "Eagles release wide receiver Hollywood Brown per request",
+      "url": "https://www.espn.com/nfl/story/_/id/50473514/sources-eagles-release-wr-hollywood-brown-per-request",
+      "summary": "Receiver Hollywood Brown, who has played sparingly over the first half of the season, has been released by the Eagles upon his request.",
+      "published": "2026-11-13T21:31:47Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "ATL"
+        "PHI"
+      ]
+    },
+    {
+      "title": "Amon-Ra St. Brown eyes a 2028 Olympics flag football run for Germany",
+      "url": "https://www.espn.com/nfl/story/_/id/50473202/amon-ra-st-brown-eyes-2028-olympics-flag-football-run-germany",
+      "summary": "- Lions star Amon-Ra St. Brown says he wants to play flag football for Germany at the 2028 Los Angeles Olympics.",
+      "published": "2026-11-13T18:16:33Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "Rookie WR Carnell Tate among multiple Titans starters ruled out vs. Jaguars",
+      "url": "https://www.espn.com/nfl/story/_/id/50473143/rookie-wr-carnell-tate-multiple-titans-ruled-out",
+      "summary": "The Titans will be without multiple starters against the Jaguars on Sunday, including rookie wide receiver Carnell Tate.",
+      "published": "2026-11-13T18:50:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "JAX",
+        "TEN"
+      ]
+    },
+    {
+      "title": "Vikings officially announce Kirk Cousins will start vs. Packers following trade deadline",
+      "url": "https://www.cbssports.com/nfl/news/vikings-officially-announce-kirk-cousins-start-vs-packers-lambeau-field-sunday/",
+      "summary": "Minnesota traded for their old friend on Tuesday at the NFL trade deadline, and he will start for the Vikings right away on Sunday",
+      "published": "Fri, 13 Nov 2026 21:48:22 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "GB",
+        "MIN"
+      ]
+    },
+    {
+      "title": "Week 10 underrated games: 3 games you should watch this week, from divisional matchups to first QB starts",
+      "url": "https://www.cbssports.com/nfl/news/week-10-underrated-games-browns-texans-raiders-seahawks/",
+      "summary": "A look at three games that should be on your radar this week",
+      "published": "Fri, 13 Nov 2026 21:05:09 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Jerry Jones reveals when he thinks NFL expands to 18-game season, but process to get there is complicated",
+      "url": "https://www.cbssports.com/nfl/news/jerry-jones-on-nfl-expansion-18-game-regular-season/",
+      "summary": "Jones sees the NFL 'maybe' expanding to an 18-game regular season sooner than one might think",
+      "published": "Fri, 13 Nov 2026 20:36:20 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Revisiting the 2026 NFL Draft: Did the Titans take the right receiver at No. 4 overall?",
+      "url": "https://www.cbssports.com/nfl/news/revisiting-2026-nfl-draft-did-titans-take-right-receiver-4-overall/",
+      "summary": "Carnell Tate has given quarterback Cam Ward a reliable target against zone coverage, but ball security issues and questions about his ultimate ceiling complicate the pick",
+      "published": "Fri, 13 Nov 2026 20:23:40 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "TEN"
+      ]
+    },
+    {
+      "title": "Eagles release wide receiver Hollywood Brown upon his request, according to report",
+      "url": "https://www.cbssports.com/nfl/news/eagles-release-wide-receiver-hollywood-brown-upon-his-request-according-to-report/",
+      "summary": "Brown wasn't used much in the Eagles offense this year",
+      "published": "Fri, 13 Nov 2026 20:19:13 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "Cardinals reportedly extend No. 2 TE Elijah Higgins, going all-in on tight ends amid WR injuries",
+      "url": "https://www.cbssports.com/nfl/news/cardinals-sign-2-tight-end-elijah-higgins-three-year-extension-per-report/",
+      "summary": "Coupled with the McBride extension in 2025, the Cardinals have now signed over $100 million in contracts for their top two tight ends",
+      "published": "Fri, 13 Nov 2026 19:38:19 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ARI"
+      ]
+    },
+    {
+      "title": "Cowboys' Joey Porter Jr. breaks silence on chatter that absence is contract related",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-joey-porter-jr-breaks-silence-on-chatter-that-absence-is-contract-related/",
+      "summary": "Porter Jr. missed Week 5 with a stomach bug and Week 9 at the Indianapolis Colts because of a foot injury",
+      "published": "Fri, 13 Nov 2026 19:26:03 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DAL",
+        "IND"
+      ]
+    },
+    {
+      "title": "Star on the rise: Cowboys' Dak Prescott feels Jason Witten could 'absolutely' be an NFL head coach",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-dak-prescott-feels-jason-witten-could-absolutely-be-nfl-head-coach/",
+      "summary": "Dallas' future Hall of Fame tight end has risen quickly from being a Texas high school head coach to being the interim offensive coordinator at the University of Oklahoma",
+      "published": "Fri, 13 Nov 2026 19:09:53 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "NFL Week 10 picks: Our experts face off on Vikings at Packers, Steelers at Bengals and more",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-picks-experts-face-off-commanders-giants-vikings-packers/",
+      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
+      "published": "Fri, 13 Nov 2026 18:08:43 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "GB",
+        "MIN",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Prisco's Week 10 NFL picks: Lions top Patriots in Munich, Cowboys upset 49ers",
+      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-10-expert-nfl-picks/",
+      "summary": "Pete Prisco reveals all of his Week 10 picks, including the Packers to spoil Kirk Cousins' return with the Vikings",
+      "published": "Fri, 13 Nov 2026 18:03:06 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "DET",
+        "GB",
+        "MIN",
+        "NE",
+        "SF"
+      ]
+    },
+    {
+      "title": "Bengals facing massive NFL scheduling disadvantage vs. Steelers in Week 10: No team has ever overcome this",
+      "url": "https://www.cbssports.com/nfl/news/bengals-facing-massive-nfl-scheduling-disadvantage-vs-steelers-week-10-no-team-ever/",
+      "summary": "The NFL didn't really think through this part of the schedule",
+      "published": "Fri, 13 Nov 2026 17:38:46 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "PIT"
       ]
     },
     {
@@ -621,100 +801,6 @@
       "teams": [
         "NYG",
         "WAS"
-      ]
-    },
-    {
-      "title": "Giants vs. Commanders prediction: New York, Washington look to rebound on 'TNF' after embarrassing Week 5 tie",
-      "url": "https://www.cbssports.com/nfl/news/giants-vs-commanders-how-to-watch-odds-spread-preview-prediction/",
-      "summary": "How to watch the 'Thursday Night Football' matchup, plus a preview and prediction",
-      "published": "Fri, 13 Nov 2026 00:50:51 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Chargers' Jim Harbaugh implores NFL to investigate 'loophole' that nixed Daiyan Henley trade",
-      "url": "https://www.cbssports.com/nfl/news/chargers-jim-harbaugh-implores-nfl-investigate-loophole-daiyan-henley-trade/",
-      "summary": "The Broncos and Chargers called off their agreed-upon trade following Henley's physical",
-      "published": "Thu, 12 Nov 2026 21:34:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DEN",
-        "LAC"
-      ]
-    },
-    {
-      "title": "NFL nightmare: How a six-win NFC East team could end up making the playoffs if Commanders beat the Giants",
-      "url": "https://www.cbssports.com/nfl/news/how-a-six-win-nfc-east-team-could-end-up-making-the-playoffs-commanders-giants/",
-      "summary": "This would be the NFL's worst nightmare",
-      "published": "Thu, 12 Nov 2026 17:20:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Pick Six: What to know about the NFL after the trade deadline, ahead of Week 10",
-      "url": "https://www.cbssports.com/nfl/news/pick-six-what-to-know-about-nfl-trade-deadline-week-10/",
-      "summary": "Picks for Commanders vs. Giants, plus midseason award predictions and full playoff projections",
-      "published": "Thu, 12 Nov 2026 17:11:18 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Broncos announce trade for Chargers LB Daiyan Henley falls through, 'will not be finalized'",
-      "url": "https://www.cbssports.com/nfl/news/broncos-chargers-trade-daiyan-henley-will-not-be-finalized/",
-      "summary": "Henley will return to the Chargers after an initial agreement was reached on Tuesday to send him to Denver",
-      "published": "Thu, 12 Nov 2026 16:57:45 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "DEN",
-        "LAC"
-      ]
-    },
-    {
-      "title": "2026 NFL midseason awards: Expert picks for Super Bowl winner, MVP, Coach of the Year, OPOY and more",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-midseason-awards-expert-picks-super-bowl-mvp-coach-of-year-opoy-more/",
-      "summary": "The CBS Sports NFL staff predicts winners at the halfway point",
-      "published": "Thu, 12 Nov 2026 17:29:58 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Revisiting the 2026 NFL Draft: Was Arvell Reese a luxury for Giants? Has Francis Mauigoa turned a corner?",
-      "url": "https://www.cbssports.com/nfl/news/revisiting-2026-nfl-draft-giants-arvell-reese-francis-mauigoa/",
-      "summary": "New York's top-10 investments are already fueling a 5-2-1 start, with a Defensive Rookie of the Year candidate emerging on defense and a reshaped offensive line",
-      "published": "Thu, 12 Nov 2026 15:52:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG"
       ]
     }
   ],
