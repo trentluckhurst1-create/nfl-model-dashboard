@@ -1,25 +1,36 @@
 {
-  "updated_at_utc": "2026-11-13T23:26:03.599751+00:00",
-  "checked_at_utc": "2026-11-13T23:26:03.599751+00:00",
+  "updated_at_utc": "2026-11-14T03:28:26.049941+00:00",
+  "checked_at_utc": "2026-11-14T03:28:26.049941+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 8,
+      "items": 2,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 31
+      "items": 30
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 20,
+      "items": 19,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "How The FAA Ground Stop Is Affecting CFB, NFL This Weekend",
+      "url": "https://www.foxsports.com/stories/college-football/how-sudden-faa-air-travel-ground-stop-impact-college-football-nfl-weekend",
+      "summary": "The Federal Aviation Administration's decision to ground all flights nationwide Friday has thrown the sports world into chaos.",
+      "published": "Fri, 13 Nov 2026 21:39:57 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
     {
       "title": "Sean McVay Gives Injury Updates On Rams Stars Myles Garrett, Trent McDuffie",
       "url": "https://www.foxsports.com/stories/nfl/sean-mcvay-myles-garrett-trent-mcduffie-injury-update-rams-cardinals",
@@ -69,17 +80,6 @@
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Second-Half Breakout Candidates: 25 Players Who Could Emerge In Season's Homestretch",
-      "url": "https://www.foxsports.com/stories/nfl/second-half-breakout-candidates-25-players-who-could-emerge-seasons-homestretch",
-      "summary": "We look at 25 players who could break out in the second half of the 2026 season, including a ton of promising rookies.",
-      "published": "Fri, 13 Nov 2026 14:33:43 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
       "teams": []
     },
     {
@@ -264,15 +264,18 @@
       "teams": []
     },
     {
-      "title": "Expectation Tiers: Redefining Success For All 32 Teams At Season's Halfway Point",
-      "url": "https://www.foxsports.com/stories/nfl/expectation-tiers-redefining-success-all-32-teams-seasons-halfway-point",
-      "summary": "Which teams need to make the Super Bowl at this point? We redefine success for all 32 teams in our expectation tiers.",
-      "published": "Thu, 12 Nov 2026 18:55:31 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Seahawks are hurting with injuries, but two players will return vs. Raiders",
+      "url": "https://www.espn.com/nfl/story/_/id/50475505/seahawks-raiders-week-10-darnold-lock-shaheed-returns",
+      "summary": "QB Drew Lock will start again for Darnold. LB Uchenna Nwosu and WR Rashid Shaheed will return to the field in Las Vegas.",
+      "published": "2026-11-14T02:05:47Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": []
+      "category": "injury",
+      "teams": [
+        "LV",
+        "SEA"
+      ]
     },
     {
       "title": "49ers OT Williams, LB Greenlaw questionable, WR Evans out vs. Cowboys",
@@ -289,103 +292,24 @@
       ]
     },
     {
-      "title": "Vikings to start reacquired QB Kirk Cousins vs. Packers",
-      "url": "https://www.espn.com/nfl/story/_/id/50474753/vikings-start-reacquired-qb-kirk-cousins-vs-packers",
-      "summary": "Coach Kevin O'Connell called Kirk Cousins' ability to get reacquainted with the Vikings' offense \"impressive.\"",
-      "published": "2026-11-13T22:41:55Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "GB",
-        "MIN"
-      ]
-    },
-    {
-      "title": "NFL outlines steps in Jalen Hurts investigation in letter to senator",
-      "url": "https://www.espn.com/nfl/story/_/id/50474564/nfl-outlines-aspects-jalen-hurts-investigation-senator",
-      "summary": "The NFL provided some additional details about the investigation into how Jalen Hurts' blood clots were handled in response to an inquiry from a U.S. senator.",
-      "published": "2026-11-13T22:23:25Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Chiefs RB Kenneth Walker III (groin) misses practice, status uncertain",
-      "url": "https://www.espn.com/nfl/story/_/id/50473948/chiefs-rb-walker-groin-misses-practice-status-uncertain",
-      "summary": "Chiefs running back Kenneth Walker III missed practice Friday with a sore groin, leaving his status for Sunday's matchup against the Falcons in question.",
-      "published": "2026-11-13T21:16:23Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 10 injury report: Chiefs' Kenneth Walker has new groin injury, Patriots' A.J. Brown questionable",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/",
+      "summary": "The final injury reports for every NFL team playing on Sunday in Week 10",
+      "published": "Sat, 14 Nov 2026 01:35:38 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "ATL",
-        "KC"
-      ]
-    },
-    {
-      "title": "NFL Week 10 uniforms: Titans debut Rivalries look, Ravens go all-black",
-      "url": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look.",
-      "published": "2026-11-13T19:27:16Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Eagles release wide receiver Hollywood Brown per request",
-      "url": "https://www.espn.com/nfl/story/_/id/50473514/sources-eagles-release-wr-hollywood-brown-per-request",
-      "summary": "Receiver Hollywood Brown, who has played sparingly over the first half of the season, has been released by the Eagles upon his request.",
-      "published": "2026-11-13T21:31:47Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "PHI"
-      ]
-    },
-    {
-      "title": "Amon-Ra St. Brown eyes a 2028 Olympics flag football run for Germany",
-      "url": "https://www.espn.com/nfl/story/_/id/50473202/amon-ra-st-brown-eyes-2028-olympics-flag-football-run-germany",
-      "summary": "- Lions star Amon-Ra St. Brown says he wants to play flag football for Germany at the 2028 Los Angeles Olympics.",
-      "published": "2026-11-13T18:16:33Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "Rookie WR Carnell Tate among multiple Titans starters ruled out vs. Jaguars",
-      "url": "https://www.espn.com/nfl/story/_/id/50473143/rookie-wr-carnell-tate-multiple-titans-ruled-out",
-      "summary": "The Titans will be without multiple starters against the Jaguars on Sunday, including rookie wide receiver Carnell Tate.",
-      "published": "2026-11-13T18:50:11Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "JAX",
-        "TEN"
+        "KC",
+        "NE"
       ]
     },
     {
       "title": "Vikings officially announce Kirk Cousins will start vs. Packers following trade deadline",
       "url": "https://www.cbssports.com/nfl/news/vikings-officially-announce-kirk-cousins-start-vs-packers-lambeau-field-sunday/",
       "summary": "Minnesota traded for their old friend on Tuesday at the NFL trade deadline, and he will start for the Vikings right away on Sunday",
-      "published": "Fri, 13 Nov 2026 21:48:22 +0000",
+      "published": "Sat, 14 Nov 2026 01:33:03 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -773,34 +697,6 @@
       "category": "injury",
       "teams": [
         "ARI"
-      ]
-    },
-    {
-      "title": "Commanders vs. Giants odds, picks, prediction: Best bets, player props for NFL Week 10 Thursday Night Football",
-      "url": "https://www.cbssports.com/betting/news/commanders-vs-giants-odds-picks-prediction-best-bets-player-props-for-nfl-week-10-thursday-night-football/",
-      "summary": "New York is a 2.5-point home favorite, but backing Jayden Daniels against an erratic J.J. McCarthy in prime time provides strong value to take Washington on the money line",
-      "published": "Fri, 13 Nov 2026 00:01:27 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Commanders vs. Giants odds, prediction, betting preview, start time: Thursday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/commanders-vs-giants-odds-prediction-betting-preview-start-time-thursday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Commanders vs. Giants on Thursday Night Football",
-      "published": "Fri, 13 Nov 2026 00:00:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG",
-        "WAS"
       ]
     }
   ],
