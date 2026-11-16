@@ -1,25 +1,157 @@
 {
-  "updated_at_utc": "2026-11-16T00:02:11.187134+00:00",
-  "checked_at_utc": "2026-11-16T00:02:11.187134+00:00",
+  "updated_at_utc": "2026-11-16T06:14:29.951649+00:00",
+  "checked_at_utc": "2026-11-16T06:14:29.951649+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 12,
+      "items": 13,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 20
+      "items": 19
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 8,
+      "items": 12,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Jerry Jones Backs 'Young Coach' Christian Parker After Cowboys\u2019 Defense Collapses",
+      "url": "https://www.foxsports.com/stories/nfl/jerry-jones-backs-young-coach-christian-parker-after-cowboys-defense-collapses",
+      "summary": "Jerry Jones isn\u2019t ready to give up on Christian Parker leading the Cowboys defense.",
+      "published": "Mon, 16 Nov 2026 01:02:04 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "Overreaction Monday: Brock Purdy Is The MVP? Patriots Bound To Miss Playoffs?",
+      "url": "https://www.foxsports.com/stories/nfl/overreaction-monday-brock-purdy-49ers-bengals-vikings-patriots-fernando-mendoza-chiefs",
+      "summary": "Is Brock Purdy really the MVP frontrunner? Are the Bengals the best team in the AFC? We determine which overreactions are legit.",
+      "published": "Mon, 16 Nov 2026 00:57:25 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "NE"
+      ]
+    },
+    {
+      "title": "Chiefs Have Found Perfect Ingredient To Make Another Run With Patrick Mahomes: Youth",
+      "url": "https://www.foxsports.com/stories/nfl/chiefs-patrick-mahomes-josh-downs-falcons",
+      "summary": "The Chiefs were dominant against the Falcons because of Patrick Mahomes ... and the young players around him.",
+      "published": "Mon, 16 Nov 2026 00:43:23 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL",
+        "KC"
+      ]
+    },
+    {
+      "title": "2026 NFL Playoff Picture, Bracket After Week 10",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-playoff-picture-bracket-schedule",
+      "summary": "Here's what the NFL playoff picture looks like after Week 10 of the regular season.",
+      "published": "Mon, 16 Nov 2026 00:37:57 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 Super Bowl Odds: Contenders Closing In On 49ers, Bills",
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "summary": "The 49ers and Bills are cruising, the Rams are rolling, and things are falling into place. See the latest odds to win the Super Bowl after Week 10.",
+      "published": "Mon, 16 Nov 2026 00:00:21 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "LA",
+        "SF"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 11: Lines, Spreads, Results For All 13 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-11-lines-spreads-results-all-13-games",
+      "summary": "Check out the lines for every NFL Week 11 game, beginning with Colts-Texans on Thursday.",
+      "published": "Sun, 15 Nov 2026 23:56:29 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "IND"
+      ]
+    },
+    {
+      "title": "NFL Shakeout Week 10: Kirk Cousins Is Final Piece To Vikings' Super Bowl Puzzle",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-shakeout-week-10-kirk-cousins-final-piece-vikings-super-bowl-puzzle",
+      "summary": "Minnesota can win it all. Dallas can't win anything. C.J. Stroud is a star. Is Drake Maye? Here are Ralph Vacchiano's top takeaways from Week 10.",
+      "published": "Sun, 15 Nov 2026 23:38:00 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "NFL Week 10 Defining Stats: Mahomes Moves Past Manning; Gibbs, CMC Make History",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-10-defining-stats",
+      "summary": "Christian McCaffrey did something no running back had ever done before. See the stats that defined Week 10.",
+      "published": "Sun, 15 Nov 2026 23:32:53 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Christian McCaffrey\u2019s Career Day Lifts 49ers, Earns LFG Player Of The Game",
+      "url": "https://www.foxsports.com/stories/nfl/christian-mccaffreys-career-day-lifts-49ers-earns-lfg-player-game",
+      "summary": "Christian McCaffrey ran, blocked and caught his way to his first LFG Player of the Game, and he made NFL history while doing it.",
+      "published": "Sun, 15 Nov 2026 21:53:07 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "SF"
+      ]
+    },
+    {
+      "title": "49ers Offense Runs Riot Over The Cowboys: 3 Takeaways From San Francisco's Win",
+      "url": "https://www.foxsports.com/stories/nfl/san-francisco-49ers-vs-dallas-cowboys-takeaways-november-15-2026",
+      "summary": "The San Francisco 49ers ran all over the Dallas Cowboys. Here are Steven Ruiz's takeaways.",
+      "published": "Sun, 15 Nov 2026 19:54:27 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "SF"
+      ]
+    },
     {
       "title": "Raiders Star TE Brock Bowers Exits With Ankle Injury Against Seahawks",
       "url": "https://www.foxsports.com/stories/nfl/brock-bowers-ankle-injury-update-raiders",
@@ -46,117 +178,35 @@
       "teams": []
     },
     {
-      "title": "2026 NFL Playoff Picture, Bracket After Week 10",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-playoff-picture-bracket-schedule",
-      "summary": "Here's what the NFL playoff picture looks like after Week 10 of the regular season.",
-      "published": "Sun, 15 Nov 2026 16:33:01 -0500",
-      "source": "FOX Sports NFL",
+      "title": "NFL Week 10: Big takeaways, questions and fantasy spin from Sunday's games",
+      "url": "https://www.espn.com/nfl/story/_/id/50443510/week-10-sunday-games-takeaways-questions-2026",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 10.",
+      "published": "2026-11-16T05:22:31Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Vikings Get Back On Track: 3 Takeaways From Minnesota's Win Over The Packers",
-      "url": "https://www.foxsports.com/stories/nfl/minnesota-vikings-vs-green-bay-packers-takeaways-november-15-2026",
-      "summary": "Kirk Cousins delivered in his return to the Vikings, powering a blowout win over the Packers. Here are Henry McKenna's takeaways.",
-      "published": "Sun, 15 Nov 2026 16:01:59 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Jets QB Geno Smith Clears Concussion Protocol, Returns Against Bills",
-      "url": "https://www.foxsports.com/stories/nfl/jets-qb-geno-smith-exits-injury-vs-bills",
-      "summary": "New York Jets QB Geno Smith exits with an injury against the Buffalo Bills.",
-      "published": "Sun, 15 Nov 2026 14:39:53 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BUF",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Roger Goodell Sees NFL\u2019s Global Blueprint Come To Life Through Amon-Ra St. Brown",
-      "url": "https://www.foxsports.com/stories/nfl/roger-goodell-nfl-global-blueprint-through-lions-amon-ra-st-brown",
-      "summary": "For Lions wide receiver Amon-Ra St. Brown, playing in Munich wasn't just another game on the schedule but a powerful homecoming.",
-      "published": "Sun, 15 Nov 2026 14:27:09 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "Chiefs' Star TE Travis Kelce Leaves Early, Then Returns vs. Falcons",
-      "url": "https://www.foxsports.com/stories/nfl/travis-kelce-ankle-injury-update-chiefs",
-      "summary": "Kansas City's Travis Kelce headed to the locker room with an apparent ankle injury and is questionable to return.",
-      "published": "Sun, 15 Nov 2026 14:24:06 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ATL",
-        "KC"
-      ]
-    },
-    {
-      "title": "Lions' Aidan Hutchinson Reportedly Done For Season After Injury On Celebration",
-      "url": "https://www.foxsports.com/stories/nfl/aidan-hutchinson-lions-celebration-knee-injury-update",
-      "summary": "Aidan Hutchinson's sack celebration in the first quarter of the Detroit Lions' matchup with the New England Patriots quickly turned into great concern.",
-      "published": "Sun, 15 Nov 2026 14:13:04 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DET",
-        "NE"
-      ]
-    },
-    {
-      "title": "Citing short week, Colts sticking with Daniel Jones at QB despite dreadful start",
-      "url": "https://www.espn.com/nfl/story/_/id/50496110/colts-sticking-daniel-jones-qb-dreadful-start",
-      "summary": "Colts coach Shane Steichen said the team will stick with Daniel Jones as starter despite a two-interception start that earned him a 2026-worst 1.7 QBR.",
-      "published": "2026-11-15T23:59:10Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "Kirk Cousins emotional after win in Vikings return, reflects on 'tough 3 years'",
-      "url": "https://www.espn.com/nfl/story/_/id/50495965/kirk-cousins-emotional-getting-win-return-vikings",
-      "summary": "Kirk Cousins was emotional discussing his return to the Vikings after their victory over the Packers.",
-      "published": "2026-11-15T23:45:00Z",
+      "title": "Joe Burrow and Bengals dominate Steelers 38-18 to take AFC North lead alone",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873064",
+      "summary": "\u2014 Joe Burrow passed for 409 yards and four touchdowns, Ja'Marr Chase had 11 catches for 231 yards and the Cincinnati Bengals dominated the Pittsburgh Steelers 38-18 on Sunday night to move into sole possession of first place in the AFC North.",
+      "published": "2026-11-16T04:36:35Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "GB",
-        "MIN"
+        "CIN",
+        "PIT"
       ]
     },
     {
       "title": "Week 10 NFL highlights: Best plays, moments, touchdowns, more",
       "url": "https://www.espn.com/nfl/story/_/id/50489998/week-10-highlights-sunday-best-plays-touchdowns-2026",
       "summary": "Check here for all of Sunday's top moments, TDs and analysis from ESPN's NFL reporters.",
-      "published": "2026-11-15T23:41:47Z",
+      "published": "2026-11-16T05:24:51Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -164,25 +214,140 @@
       "teams": []
     },
     {
-      "title": "Browns' Deshaun Watson relishes 'special' win vs. Texans after engineering rally",
-      "url": "https://www.espn.com/nfl/story/_/id/50495783/browns-deshaun-watson-savors-special-win-vs-texans",
-      "summary": "Deshaun Watson, who delivered his sixth game-winning drive of the season, called the 27-24 victory over the Texans, his former team, \"definitely special.\"",
-      "published": "2026-11-15T23:49:22Z",
+      "title": "49ers put up big numbers vs. Cowboys, tout 'incredibly dangerous' offense",
+      "url": "https://www.espn.com/nfl/story/_/id/50498373/49ers-put-big-numbers-victory-cowboys",
+      "summary": "The 49ers racked up 584 yards against the Cowboys on Sunday in a jaw-dropping offensive display led by Brock Purdy, Christian McCaffrey and Deebo Samuel.",
+      "published": "2026-11-16T05:29:59Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CLE",
-        "HOU"
+        "DAL",
+        "SF"
       ]
     },
     {
-      "title": "QB Jordan Love, Packers frustrated after blowout loss at home to Vikings",
-      "url": "https://www.espn.com/nfl/story/_/id/50495671/qb-jordan-love-packers-frustrated-home-loss-vikings",
-      "summary": "Jordan Love and the Packers expressed their frustration after a 30-10 loss to the Vikings.",
-      "published": "2026-11-16T00:00:02Z",
+      "title": "Jaxon Smith-Njigba's 144-yard quarter sparks Seahawks in win over Raiders",
+      "url": "https://www.espn.com/nfl/story/_/id/50498326/jaxon-smith-njigba-144-yard-third-quarter-sparks-seahawks-offense-win-raiders",
+      "summary": "Jaxon Smith-Njigba, the NFL's leading receiver, finished with a season-high 171 yards on eight catches, with 144 coming in the third quarter to help the Seahawks turn a three-point halftime deficit into a 21-13 win over the Raiders on Sunday.",
+      "published": "2026-11-16T04:43:26Z",
       "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Schottenheimer 'very disappointed, very frustrated' with Cowboys' porous defense",
+      "url": "https://www.espn.com/nfl/story/_/id/50498058/schottenheimer-very-frustrated-porous-cowboys-defense",
+      "summary": "Brian Schottenheimer said the Cowboys' defensive performance in the second half was a first for him after it gave up nearly 600 yards to the 49ers.",
+      "published": "2026-11-16T03:55:49Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "SF"
+      ]
+    },
+    {
+      "title": "Raiders' Fernando Mendoza vows to learn from first NFL start, a loss to Seahawks",
+      "url": "https://www.espn.com/nfl/story/_/id/50498040/raiders-fernando-mendoza-vows-learn-first-nfl-start",
+      "summary": "Fernando Mendoza completed 17 of 29 passes for 143 yards and had a passer rating of 71.5 in his first regular-season start for the Raiders.",
+      "published": "2026-11-16T04:42:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV",
+        "SEA"
+      ]
+    },
+    {
+      "title": "Steelers rally around Mason McCormick after guard suffers gruesome injury",
+      "url": "https://www.espn.com/nfl/story/_/id/50497966/steelers-mason-mccormick-carted-field-air-cast-ankle",
+      "summary": "The Steelers' thoughts were with Mason McCormick after the guard suffered what appeared to be a serious ankle injury and was carted off the field Sunday night.",
+      "published": "2026-11-16T06:10:22Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "NFL playoff chance tiers: Where all 32 teams fit in 2026 postseason picture",
+      "url": "https://www.espn.com/nfl/story/_/id/50463347/2026-nfl-playoffs-chances-odds-tiers-32-teams-nfc-afc",
+      "summary": "We placed all 32 NFL teams into tiers based on their likelihood of making the playoffs, from Super Bowl favorites to the top draft pick candidates.",
+      "published": "2026-11-16T04:54:28Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Tracking Jaguars CB/WR Travis Hunter's 2026 season: Snaps on offense, defense",
+      "url": "https://www.espn.com/nfl/story/_/id/50043976/jacksonville-jaguars-travis-hunter-stats-snaps-tracker",
+      "summary": "Every week, we will look at how many snaps the two-way corner/receiver plays on offense and defense. Is there a trend in his usage?",
+      "published": "2026-11-16T02:52:49Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "NFL depth charts for all 32 teams for 2026 season",
+      "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
+      "summary": "Here are the latest NFL depth charts for all 32 teams.",
+      "published": "2026-11-16T02:31:38Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Aaron Donald savors first sack in 1,050 days, but Rams' win 'felt even better'",
+      "url": "https://www.espn.com/nfl/story/_/id/50497324/rams-aaron-donald-savors-first-sack-1050-days-vs-cardinals",
+      "summary": "Aaron Donald recorded his first sack since New Year's Eve in 2023 and helped the Rams top the Cardinals for their fourth straight win.",
+      "published": "2026-11-16T02:10:09Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "LA"
+      ]
+    },
+    {
+      "title": "Ex-kicker Bill Gramatica sympathizes with Aidan Hutchinson, offers support",
+      "url": "https://www.espn.com/nfl/story/_/id/50497214/bill-gramatica-sympathizes-lions-aidan-hutchinson",
+      "summary": "Bill Gramatica said he'd be happy to reach out to Aidan Hutchinson to provide any advice for getting through a tough moment.",
+      "published": "2026-11-16T02:07:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 10 grades: Packers fail in showdown with Vikings, Patrick Mahomes catches fire",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-grades-packers-vikings-patrick-mahomes/",
+      "summary": "We're handing out grades for every team that played in Week 10",
+      "published": "Mon, 16 Nov 2026 04:36:08 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -192,100 +357,95 @@
       ]
     },
     {
-      "title": "Bijan Robinson: Falcons deserved boos in loss to Chiefs",
-      "url": "https://www.espn.com/nfl/story/_/id/50495406/bijan-robinson-says-falcons-deserved-boos-loss-chiefs",
-      "summary": "Fans at Mercedes-Benz Stadium booed the Falcons after another poor offensive showing Sunday.",
-      "published": "2026-11-15T23:38:40Z",
-      "source": "ESPN NFL",
+      "title": "Scorigami: Cowboys-49ers ends with score never before seen in NFL history thanks to Dak Prescott",
+      "url": "https://www.cbssports.com/nfl/news/scorigami-cowboys-49ers-ends-with-score-never-seen-nfl/",
+      "summary": "Dak Prescott's otherwise meaningless two-point conversion helped make history",
+      "published": "Mon, 16 Nov 2026 01:29:37 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ATL",
-        "KC"
+        "DAL",
+        "SF"
       ]
     },
     {
-      "title": "Raiders lose TE Brock Bowers to ankle injury vs. Seahawks",
-      "url": "https://www.espn.com/nfl/story/_/id/50495181/raiders-lose-te-brock-bowers-ankle-injury-vs-seahawks",
-      "summary": "Brock Bowers was ruled out of Sunday's matchup against the Seahawks after suffering a right ankle injury in the opening quarter.",
-      "published": "2026-11-15T23:09:20Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 10 winners and losers: Texans crumble against Browns, Kirk Cousins trade pays dividends for Vikings",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-winners-and-losers-texans-crumble-against-browns-kirk-cousins-trade-pays-dividends-for-vikings/",
+      "summary": "Houston squandered a three-score lead while Minnesota won by a three-possession margin of its own",
+      "published": "Mon, 16 Nov 2026 01:03:29 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "transaction",
       "teams": [
-        "LV",
-        "SEA"
+        "CLE",
+        "HOU",
+        "MIN"
       ]
     },
     {
-      "title": "Who are the winningest NFL coaches of all time?",
-      "url": "https://www.espn.com/nfl/story/_/id/39286200/best-nfl-coaches-all-ranked-wins",
-      "summary": "From Belichick to Reid, there are many iconic coaches in NFL history. Who has the best career record? Check out the stat breakdown now.",
-      "published": "2026-11-15T22:37:16Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 10: Big takeaways, questions and fantasy spin from Sunday's games",
-      "url": "https://www.espn.com/nfl/story/_/id/50443510/week-10-sunday-games-takeaways-questions-2026",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 10.",
-      "published": "2026-11-15T23:32:55Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Is Chuba Hubbard the biggest X factor to spark a Panthers turnaround?",
-      "url": "https://www.espn.com/nfl/story/_/id/50463509/chuba-hubbard-x-factor-spark-carolina-panthers",
-      "summary": "Meet Carolina's team captain, a locker room leader and a relentless running back who is \"chasing greatness myself.\"",
-      "published": "2026-11-15T22:16:58Z",
-      "source": "ESPN NFL",
+      "title": "Bengals vs. Steelers odds: Best Sunday Night Football first touchdown scorer picks, NFL predictions",
+      "url": "https://www.cbssports.com/prediction/news/bengals-vs-steelers-odds-sunday-night-football-first-touchdown-scorer-picks-nfl-predictions/",
+      "summary": "Here are our top picks for first touchdown prediction markets on Sunday Night Football between the Bengals and Steelers",
+      "published": "Mon, 16 Nov 2026 00:46:57 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CAR"
+        "CIN",
+        "PIT"
       ]
     },
     {
-      "title": "Amon-Ra St. Brown talks lederhosen, Lions' 'Human Centipede' celebration",
-      "url": "https://www.espn.com/nfl/story/_/id/50493599/amon-ra-st-brown-german-roots-lederhosen-munich",
-      "summary": "Inspired by his mother, St. Brown paired a memorable performance with a coordinated Bavarian look alongside his Lions teammates.",
-      "published": "2026-11-15T23:58:04Z",
-      "source": "ESPN NFL",
+      "title": "Steelers vs. Bengals prediction, odds, betting preview, start time: Sunday Night Football picks, best bets",
+      "url": "https://www.cbssports.com/betting/news/steelers-vs-bengals-prediction-odds-betting-preview-start-time-sunday-night-football-picks-best-bets/",
+      "summary": "Best bets and betting preview for Steelers vs. Bengals on Sunday Night Football",
+      "published": "Mon, 16 Nov 2026 00:38:50 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET"
+        "CIN",
+        "PIT"
       ]
     },
     {
-      "title": "Colts' struggling offense does just enough to beat Dolphins 24-22 and snap 5-game skid",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873059",
-      "summary": "\u2014 The Indianapolis Colts got the respite they needed.",
-      "published": "2026-11-15T22:02:37Z",
-      "source": "ESPN NFL",
+      "title": "Bengals vs. Steelers prediction: First place in AFC North up for grabs in rivalry battle on 'SNF'",
+      "url": "https://www.cbssports.com/nfl/news/bengals-vs-steelers-prediction-odds-how-to-watch/",
+      "summary": "Pittsburgh won the first matchup between the two teams back in Week 3. Plus, how to watch, what to know, and a prediction",
+      "published": "Mon, 16 Nov 2026 00:03:46 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "IND",
-        "MIA"
+        "CIN",
+        "PIT"
       ]
     },
     {
-      "title": "Raiders' Brock Bowers ruled out with ankle injury as Fernando Mendoza makes first career start",
+      "title": "Bengals vs. Steelers picks, NFL Week 10 prediction, player props: Expert's best bets for Sunday Night Football",
+      "url": "https://www.cbssports.com/betting/news/bengals-vs-steelers-picks-nfl-week-10-prediction-player-props-experts-best-bets-for-sunday-night-football/",
+      "summary": "Back the Over on the 49.5-point total and capitalize on plus-money anytime touchdown value with Tee Higgins and Darnell Washington",
+      "published": "Sun, 15 Nov 2026 23:45:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Raiders' Brock Bowers suffers ankle injury, misses majority of Fernando Mendoza's first career start",
       "url": "https://www.cbssports.com/nfl/news/brock-bowers-injury-raiders-fernando-mendoza-debut/",
-      "summary": "Mendoza will be without his top target for the rest of his starting debut",
-      "published": "Sun, 15 Nov 2026 23:24:50 +0000",
+      "summary": "Mendoza was without his top target for much of his starting debut",
+      "published": "Mon, 16 Nov 2026 00:36:03 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -298,7 +458,7 @@
       "title": "NFL Week 10 overreactions: Patriots to miss playoffs? Texans' DeMeco Ryans on the hot seat?",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-10-overreactions-patriots-lions-demeco-ryans-texans/",
       "summary": "Drake Maye got hurt, and New England got blown out in Germany as the Pats playoff hopes slip away",
-      "published": "Sun, 15 Nov 2026 23:24:44 +0000",
+      "published": "Mon, 16 Nov 2026 01:14:59 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -306,20 +466,6 @@
       "teams": [
         "HOU",
         "NE"
-      ]
-    },
-    {
-      "title": "NFL Week 10 grades: Packers fail in showdown with Vikings, Patrick Mahomes catches fire",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-grades-packers-vikings-patrick-mahomes/",
-      "summary": "We're handing out grades for every team that played in Week 10",
-      "published": "Sun, 15 Nov 2026 23:07:48 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "MIN"
       ]
     },
     {
@@ -452,106 +598,6 @@
       "trust": "NETWORK",
       "category": "game",
       "teams": []
-    },
-    {
-      "title": "Panthers vs. Saints odds, picks, prediction, spread: Start time, NFL Week 10 betting preview, best bets",
-      "url": "https://www.cbssports.com/betting/news/panthers-vs-saints-odds-picks-prediction-spread-start-time-nfl-week-10-betting-preview-best-bets/",
-      "summary": "Here's everything bettors need to know for Panthers vs. Saints in NFL Week 10",
-      "published": "Sun, 15 Nov 2026 16:22:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CAR",
-        "NO"
-      ]
-    },
-    {
-      "title": "Week 10 NFL odds, lines, totals, spreads for every game, including Bills-Jets, Cowboys-49ers, Steelers-Bengals",
-      "url": "https://www.cbssports.com/betting/news/week-10-nfl-betting-lines-spreads-totals-odds/",
-      "summary": "NFL Week 10 spreads and totals for every game, including 49ers-Cowboys and Steelers-Bengals",
-      "published": "Sun, 15 Nov 2026 16:02:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "CIN",
-        "DAL",
-        "NYJ",
-        "PIT",
-        "SF"
-      ]
-    },
-    {
-      "title": "NFL reshuffles officiating crews for Week 10, including double duty for one crew due to FAA ground stop",
-      "url": "https://www.cbssports.com/nfl/news/nfl-major-officiating-changes-week-10-faa-ground-stop/",
-      "summary": "The changes include one referee pulling double-duty on Sunday",
-      "published": "Sun, 15 Nov 2026 15:32:06 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 10 NFL betting promos: Get over $3,000 in bonuses from betting apps, sportsbooks for Sunday's games",
-      "url": "https://www.cbssports.com/betting/news/week-10-nfl-betting-promos-get-over-3000-bonuses-from-betting-apps-sportsbooks-for-sundays-games/",
-      "summary": "Top Week 10 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Sun, 15 Nov 2026 15:23:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Prisco's Week 10 NFL picks: Cowboys upset 49ers, Texans edge Browns",
-      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-10-expert-nfl-picks/",
-      "summary": "Pete Prisco reveals all of his Week 10 picks, including the Packers to spoil Kirk Cousins' return with the Vikings",
-      "published": "Sun, 15 Nov 2026 14:33:07 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "DAL",
-        "GB",
-        "HOU",
-        "MIN",
-        "SF"
-      ]
-    },
-    {
-      "title": "Lions vs. Patriots odds, picks, prediction, spread: Start time, betting preview, best bets for Munich game",
-      "url": "https://www.cbssports.com/betting/news/lions-vs-patriots-odds-picks-prediction-spread-start-time-betting-preview-best-bets-munich-game/",
-      "summary": "Here's everything bettors need to know as the Lions and Patriots meet in Munich, Germany in NFL Week 10",
-      "published": "Sun, 15 Nov 2026 13:03:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "NE"
-      ]
-    },
-    {
-      "title": "Lions vs. Patriots prediction: Detroit seeks fifth straight victory, while New England looks to bounce back",
-      "url": "https://www.cbssports.com/nfl/news/lions-vs-patriots-prediction-odds-where-to-watch-munich/",
-      "summary": "Everything you need to know to catch the game",
-      "published": "Sun, 15 Nov 2026 12:36:28 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET",
-        "NE"
-      ]
     }
   ],
   "reporters": []
