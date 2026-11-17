@@ -1,88 +1,355 @@
 {
-  "updated_at_utc": "2026-11-17T00:10:44.839763+00:00",
-  "checked_at_utc": "2026-11-17T00:11:09.991205+00:00",
+  "updated_at_utc": "2026-11-17T07:57:01.117951+00:00",
+  "checked_at_utc": "2026-11-17T07:57:01.117951+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 5,
+      "items": 4,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 26
+      "items": 27
     },
     "FOX Sports NFL": {
-      "ok": false,
-      "items": 0,
-      "error": "ReadTimeout",
+      "ok": true,
+      "items": 20,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Kyle Hamilton rocks Christmas sweater ahead of 'MNF,' leads NFL Week 10 arrivals",
-      "url": "https://www.espn.com/nfl/story/_/id/50465223/nfl-week-10-fashionable-arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-16T23:53:27Z",
-      "source": "ESPN NFL",
+      "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Make The Playoffs?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
+      "summary": "See the latest NFL postseason odds after Week 10, with a few AFC teams apparently locked into the field.",
+      "published": "Tue, 17 Nov 2026 00:03:24 -0500",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Behind Raiders fans' tribute to Fernando Mendoza's mother",
-      "url": "https://www.espn.com/nfl/story/_/id/50504017/raiders-fans-seated-fernando-mendoza-touchdown-tribute",
-      "summary": "Tom Joanides' social media campaign became a meaningful tribute when Mendoza scored in his first NFL start.",
-      "published": "2026-11-16T23:13:41Z",
-      "source": "ESPN NFL",
+      "title": "NFL Best & Worst: Kirk Cousins Shines In Vikings Return; Dallas D Crumbles",
+      "url": "https://www.foxsports.com/stories/nfl/vikings-offense-cowboys-terrible-defense-49ers-unstoppable",
+      "summary": "Week 10 highs and lows: The Vikings find an offensive spark while the Dallas defense sinks to new lows. Plus, the 49ers look unstoppable.",
+      "published": "Mon, 16 Nov 2026 23:56:09 -0500",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
+      "teams": [
+        "MIN",
+        "SF"
+      ]
+    },
+    {
+      "title": "NFL Week 10 All-Stars: Patrick Mahomes & Joe Burrow Battle Again In Loaded Week",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-10-all-stars-patrick-mahomes-joe-burrow-chiefs-bengals-cowboys-49ers",
+      "summary": "Patrick Mahomes or Joe Burrow? Which two of five worthy RBs make the All-Star Team? Here are our Week 10 All-Stars.",
+      "published": "Mon, 16 Nov 2026 23:55:24 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 Super Bowl Odds: 49ers, Bills Share Top Spot As Bengals, Rams Gain Ground",
+      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
+      "summary": "The 49ers and Bills are tied atop the Super Bowl oddsboard, with the Rams and Bengals closing in. See the latest odds after Week 10.",
+      "published": "Mon, 16 Nov 2026 23:52:08 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "CIN",
+        "LA",
+        "SF"
+      ]
+    },
+    {
+      "title": "2026 NFL Power Rankings Week 11: We Know Which 10 (Or So) Teams Are Contenders",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-11",
+      "summary": "The 10 (or so) best teams keep on winning. But who is the best out of that group legitimate contenders?",
+      "published": "Mon, 16 Nov 2026 23:33:28 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Big Bets Report: Fernando Mendoza's 1st NFL TD Helps Bettor Win $58k",
+      "url": "https://www.foxsports.com/stories/nfl/big-bets-report-fernando-mendozas-1st-nfl-td-helps-bettor-win-58k",
+      "summary": "Mendoza's 10-yard rushing TD spelled big bucks for one bettor, while Arch Manning's win vaporized a bettor's $200k. Patrick Everson has the latest.",
+      "published": "Mon, 16 Nov 2026 22:58:50 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Vintage Patrick Mahomes Is Back? How Chiefs Found Deep Ball Swagger",
+      "url": "https://www.foxsports.com/stories/nfl/vintage-patrick-mahomes-back-how-chiefs-found-deep-ball-swagger",
+      "summary": "From Patrick Mahomes rediscovering his deep ball to the tweak that might save the Rams, here's what stood out from Week 10.",
+      "published": "Mon, 16 Nov 2026 18:22:10 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "LA"
+      ]
+    },
+    {
+      "title": "Fernando Mendoza's First Start Brought Enough Promise For Raiders: 'He's The Real Deal'",
+      "url": "https://www.foxsports.com/stories/nfl/fernando-mendoza-raiders-seahawks",
+      "summary": "Fernando Mendoza looked the part of a franchise QB for a good portion of his first NFL start.",
+      "published": "Mon, 16 Nov 2026 16:18:46 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
       "teams": [
         "LV"
       ]
     },
     {
-      "title": "Bears RB Kyle Monangai says he's 'on track' to return Sunday against Saints",
-      "url": "https://www.espn.com/nfl/story/_/id/50505407/bears-rb-kyle-monangai-says-track-return-sunday",
-      "summary": "Bears running back Kyle Monangai said Monday that he's \"on track\" to return Sunday against the Saints after sitting out five games because of a thumb injury and turf toe.",
-      "published": "2026-11-16T23:30:11Z",
-      "source": "ESPN NFL",
+      "title": "Will Arch Manning Return To Texas? QB Joins Senior Day, Keeps Future Undecided",
+      "url": "https://www.foxsports.com/stories/college-football/texas-qb-arch-manning-to-join-senior-day-celebration-but-noncommittal-about-playing-future",
+      "summary": "Texas quarterback Arch Manning says he will participate in the team's senior day ceremonies before the final home game of the season against Arkansas.",
+      "published": "Mon, 16 Nov 2026 16:14:16 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "NFL, CFB Weekend Recap: 'Public\u2019s Heavy Hitters Landed Nearly Every Punch'",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-cfb-weekend-recap-publics-heavy-hitters-landed-nearly-every-punch",
+      "summary": "The public struck gold on NFL Sunday, giving books an \"ugly\" day. But college football was a different story. Patrick Everson breaks it down.",
+      "published": "Mon, 16 Nov 2026 16:07:08 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "How to Watch Chargers vs. Ravens: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-chargers-vs-ravens-tv-channel-live-stream-time-nov-16-2026",
+      "summary": "Chargers vs. Ravens kicks off Monday, Nov. 16, at 8:15 p.m. ET on ESPN. Get the TV channel, streaming options and players to watch for this game in Baltimore.",
+      "published": "Mon, 16 Nov 2026 16:04:23 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Las Vegas Raiders Fans Honor Fernando Mendoza\u2019s Mother With Seated TD Celebration",
+      "url": "https://www.foxsports.com/stories/nfl/las-vegas-raiders-fans-honor-fernando-mendozas-mother-seated-td-celebration",
+      "summary": "The Raiders fanbase honored quarterback Fernando Mendoza and his mother, Elsa, with a seated celebration after his first NFL touchdown.",
+      "published": "Mon, 16 Nov 2026 15:46:31 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "LV"
+      ]
+    },
+    {
+      "title": "Aidan Hutchinson Isn\u2019t Alone: 5 Noteworthy Times Athletes Got Hurt Celebrating",
+      "url": "https://www.foxsports.com/stories/nfl/aidan-hutchinson-detroit-lions-injury-celebration",
+      "summary": "Aidan Hutchinson\u2019s best play of the day turned into the Detroit Lions\u2019 worst news of the season.",
+      "published": "Mon, 16 Nov 2026 15:30:01 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "Vikings WR Jordan Addison Expected To Miss Multiple Games Following Thumb Surgery",
+      "url": "https://www.foxsports.com/stories/nfl/vikings-wr-jordan-addison-injury-thumb-surgery",
+      "summary": "Reuniting with Kirk Cousins solved the Minnesota Vikings\u2019 quarterback dilemma, though injuries to the skill positions keep testing his supporting cast.",
+      "published": "Mon, 16 Nov 2026 14:42:57 -0500",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "CHI",
-        "NO"
+        "MIN"
       ]
     },
     {
-      "title": "49ers WR Mike Evans' Achilles tendinitis injury explained",
-      "url": "https://www.espn.com/nfl/story/_/id/50502440/san-francisco-49ers-mike-evans-achilles-tendinitis-injury-recovery",
-      "summary": "ESPN spoke with a medical professional for a better understanding of Evans' diagnosis. When could he return? And will the injury completely resolve itself?",
-      "published": "2026-11-16T22:55:17Z",
-      "source": "ESPN NFL",
+      "title": "Jets QB Geno Smith Undergoing Tests On Ankle, Will Remain Starter If Healthy",
+      "url": "https://www.foxsports.com/stories/nfl/new-york-jets-geno-smith-ankle-injury",
+      "summary": "New York Jets quarterback Geno Smith was having imaging tests on his injured ankle Monday and it\u2019s uncertain if he\u2019ll be able to play Sunday against the Los Angeles Chargers.",
+      "published": "Mon, 16 Nov 2026 14:25:40 -0500",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
+      "teams": [
+        "LAC",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds: Which Teams Are Favored To Vie For Super Bowl LXI?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-which-teams-favored-vie-super-bowl-lxi",
+      "summary": "Books expect either San Francisco or Buffalo to be in the Super Bowl, if not both. See the odds for the most likely SBLXI matchups.",
+      "published": "Mon, 16 Nov 2026 13:59:18 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": [
         "SF"
       ]
     },
     {
-      "title": "Seahawks' Mike Macdonald 'optimistic' QB Sam Darnold returns after bye week",
-      "url": "https://www.espn.com/nfl/story/_/id/50504531/seahawks-macdonald-optimisitic-qb-darnold-plays-bye-week",
-      "summary": "Seahawks coach Mike Macdonald is \"optimistic\" QB Sam Darnold will return to his starting role after the team's bye week.",
-      "published": "2026-11-16T21:17:12Z",
+      "title": "Mendoza's Offensive Rookie Of The Year Odds Spike After Cousins Trade",
+      "url": "https://www.foxsports.com/stories/nfl/fernando-mendozas-offensive-rookie-year-odds-jump-after-kirk-cousins-trade",
+      "summary": "There's a new favorite for Offensive Rookie of the Year, after the Raiders have decided to start the most-recent No. 1 pick.",
+      "published": "Mon, 16 Nov 2026 13:52:51 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "LV"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 11: Lines, Spreads, Results For All 13 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-11-lines-spreads-results-all-13-games",
+      "summary": "Check out the lines for every NFL Week 11 game, beginning with Colts-Texans on Thursday.",
+      "published": "Mon, 16 Nov 2026 13:35:29 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "IND"
+      ]
+    },
+    {
+      "title": "Tory Horton Explains 'Incredible Play' That Helped Seal The Seahawks' Victory",
+      "url": "https://www.foxsports.com/stories/nfl/tory-horton-incredible-play-seals-seahawks-victory",
+      "summary": "We go inside Tory Horton's viral special teams play that helped Seattle close out a 21-13 win over the Raiders on Sunday.",
+      "published": "Mon, 16 Nov 2026 10:32:16 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV",
+        "SEA"
+      ]
+    },
+    {
+      "title": "49ers Are Juggernaut Rams Hoped To Be; What About Drew Lock For Seahawks' QB1?",
+      "url": "https://www.foxsports.com/stories/nfl/49ers-juggernaut-rams-hoped-be-drew-lock-seahawks-qb1",
+      "summary": "Why the 49ers are so dangerous, how Drew Lock is putting Sam Darnold on a short leash, and the missing pieces for the Vikings and Chiefs.",
+      "published": "Mon, 16 Nov 2026 09:16:28 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "LA",
+        "MIN",
+        "SEA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Kyle Hamilton says Ravens 'disgracing' standards after losing to 0-8 Chargers",
+      "url": "https://www.espn.com/nfl/story/_/id/50508744/kyle-hamilton-says-ravens-disgracing-standards-loss-previously-winless-chargers",
+      "summary": "Pro Bowl safety Kyle Hamilton vented after the Ravens' 23-20 loss to the previously winless Chargers on Monday night, which was one of the most embarrassing defeats in team history.",
+      "published": "2026-11-17T07:53:47Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": [
-        "SEA"
+        "BAL",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Chargers relieved after beating Ravens for first win of season",
+      "url": "https://www.espn.com/nfl/story/_/id/50508438/chargers-relieved-beating-ravens-first-win-season",
+      "summary": "The Chargers beat the Ravens 23-30 on Monday night to earn their first win since Week 16 of last season, bringing a franchise-wide sigh of relief.",
+      "published": "2026-11-17T07:32:25Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Justin Herbert, defense help lift Chargers past Ravens on MNF",
+      "url": "https://www.espn.com/nfl/story/_/id/50506286/ravens-chargers-mnf-herbert-first-win",
+      "summary": "The Chargers' defense stifles Baltimore's running backs, and Justin Herbert steps up in Los Angeles' first win.",
+      "published": "2026-11-17T06:03:19Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Chargers bully the Ravens at the line of scrimmage and earn their first win of the season, 23-20",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873065",
+      "summary": "\u2014 The Los Angeles Chargers finally won a game \u2014 with the type of smashmouth performance that has brought Jim Harbaugh so much success during his coaching career.",
+      "published": "2026-11-17T04:32:46Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "LAC"
+      ]
+    },
+    {
+      "title": "NFL Week 10 grades: Chargers earn 'A-' for picking up first win, Packers fail in showdown with Vikings",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-grades-packers-vikings-patrick-mahomes/",
+      "summary": "We're handing out grades for every team that played in Week 10",
+      "published": "Tue, 17 Nov 2026 04:48:03 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "LAC",
+        "MIN"
       ]
     },
     {
@@ -117,7 +384,7 @@
       "title": "Ravens vs. Chargers prediction: Can L.A. get its first win on 'MNF' against the injury-plagued Ravens?",
       "url": "https://www.cbssports.com/nfl/news/ravens-vs-chargers-how-to-watch-spread-odds-preview-prediction/",
       "summary": "Plus, how to watch, odds, a preview and a prediction for the Monday night matchup",
-      "published": "Mon, 16 Nov 2026 23:15:49 +0000",
+      "published": "Tue, 17 Nov 2026 00:28:13 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -184,7 +451,7 @@
       "title": "Joe Burrow isn't just chasing MVP, he's chasing the greatest passing season ever",
       "url": "https://www.cbssports.com/nfl/news/joe-burrow-stats-mvp-bengals-qb-2026/",
       "summary": "With 20 touchdown passes during Cincinnati's five-game winning streak, Burrow has separated himself in the MVP race while closing in on historic territory",
-      "published": "Mon, 16 Nov 2026 18:59:20 +0000",
+      "published": "Tue, 17 Nov 2026 02:21:00 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -359,20 +626,6 @@
       "teams": []
     },
     {
-      "title": "NFL Week 10 grades: Packers fail in showdown with Vikings, Patrick Mahomes catches fire",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-grades-packers-vikings-patrick-mahomes/",
-      "summary": "We're handing out grades for every team that played in Week 10",
-      "published": "Mon, 16 Nov 2026 04:36:08 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "MIN"
-      ]
-    },
-    {
       "title": "Scorigami: Cowboys-49ers ends with score never before seen in NFL history thanks to Dak Prescott",
       "url": "https://www.cbssports.com/nfl/news/scorigami-cowboys-49ers-ends-with-score-never-seen-nfl/",
       "summary": "Dak Prescott's otherwise meaningless two-point conversion helped make history",
@@ -420,6 +673,20 @@
       "url": "https://www.cbssports.com/betting/news/steelers-vs-bengals-prediction-odds-betting-preview-start-time-sunday-night-football-picks-best-bets/",
       "summary": "Best bets and betting preview for Steelers vs. Bengals on Sunday Night Football",
       "published": "Mon, 16 Nov 2026 00:38:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Bengals vs. Steelers prediction: First place in AFC North up for grabs in rivalry battle on 'SNF'",
+      "url": "https://www.cbssports.com/nfl/news/bengals-vs-steelers-prediction-odds-how-to-watch/",
+      "summary": "Pittsburgh won the first matchup between the two teams back in Week 3. Plus, how to watch, what to know, and a prediction",
+      "published": "Mon, 16 Nov 2026 00:03:46 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
