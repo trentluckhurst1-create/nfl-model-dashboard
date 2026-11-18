@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-17T23:56:13.679224+00:00",
-  "checked_at_utc": "2026-11-17T23:56:13.679224+00:00",
+  "updated_at_utc": "2026-11-18T06:46:38.642128+00:00",
+  "checked_at_utc": "2026-11-18T06:46:38.642128+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
@@ -11,15 +11,37 @@
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 31
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 21,
+      "items": 23,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Is Chicago Big Enough For Two MVPs? Caleb Williams Thinks So",
+      "url": "https://www.foxsports.com/stories/nfl/chicago-big-enough-two-mvps-caleb-williams-thinks-so",
+      "summary": "Caleb Williams and Pete Crow-Armstrong say their friendship is as real as it looks.",
+      "published": "Tue, 17 Nov 2026 22:28:00 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Joe Burrow Plays Like The NBA's Frontrunner For MVP, But Another QB Is NFL's MVP",
+      "url": "https://www.foxsports.com/stories/nfl/qb-notebook-week-10-joe-burrow-josh-allen-mvp",
+      "summary": "In this week's QB Notebook, we share why Joe Burrow is ethically hooping, while another star QB is the MVP so far this year.",
+      "published": "Tue, 17 Nov 2026 20:35:49 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
     {
       "title": "Nick Wright Says Chargers Should \u2018Hard Reset The Whole Thing\u2019 After First Win",
       "url": "https://www.foxsports.com/stories/nfl/nick-wright-says-chargers-should-hard-reset-whole-thing-after-first-win",
@@ -287,42 +309,42 @@
       "teams": []
     },
     {
-      "title": "Arrest warrants issued for robbery of Steelers' Max Iheanachor",
-      "url": "https://www.espn.com/nfl/story/_/id/50514216/arrest-warrants-issued-robbery-steelers-max-iheanachor",
-      "summary": "Arrest warrants have been issued for three individuals in connection with the burglary of the home of Steelers first-round pick Max Iheanachor, police said.",
-      "published": "2026-11-17T23:22:46Z",
+      "title": "Source: Cardinals' Gardner Minshew has surgery to repair right UCL",
+      "url": "https://www.espn.com/nfl/story/_/id/50517561/source-cardinals-qb-gardner-minshew-surgery-repair-right-ucl",
+      "summary": "Cardinals quarterback Gardner Minshew II had surgery on his right ulnar collateral ligament on Monday, a source told ESPN.",
+      "published": "2026-11-18T05:06:06Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "ARI"
+      ]
+    },
+    {
+      "title": "Minter: Ravens working to jump-start running game, but 'talk is cheap'",
+      "url": "https://www.espn.com/nfl/story/_/id/50516834/minter-ravens-working-jump-start-running-game-talk-cheap",
+      "summary": "Baltimore Ravens coach Jesse Minter had some strong words when addressing the team's identity on Monday.",
+      "published": "2026-11-18T03:50:18Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "PIT"
+        "BAL"
       ]
     },
     {
-      "title": "Source: Jordan Phillips latest Dolphins DT to suffer season-ending injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50513896/source-dolphins-jordan-phillips-miss-rest-season",
-      "summary": "Dolphins DT Jordan Phillips will miss the rest of the season with torn biceps, a source confirmed to ESPN.",
-      "published": "2026-11-17T22:30:15Z",
+      "title": "Bears QB Caleb Williams has moved on from 4-INT game, but frustration lingers",
+      "url": "https://www.espn.com/nfl/story/_/id/50515291/bears-caleb-williams-moved-4-interception-game-frustration-lingers",
+      "summary": "Caleb Williams spent his bye week resting his ailing hamstring, supporting his close friend Pete Crow-Armstrong as the Cubs outfielder was named NL MVP, and putting one of the worst games of his career in the rearview mirror.",
+      "published": "2026-11-18T02:45:43Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "qb",
       "teams": [
-        "MIA"
-      ]
-    },
-    {
-      "title": "Titans put WR Wan'Dale Robinson on IR due to ankle injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50513594/titans-put-wr-wandale-robinson-ankle-ir",
-      "summary": "The Titans placed wide receiver Wan'Dale Robinson on injured reserve Tuesday.",
-      "published": "2026-11-17T23:03:44Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "TEN"
+        "CHI"
       ]
     },
     {
@@ -733,6 +755,19 @@
       "teams": [
         "LAC",
         "NYJ"
+      ]
+    },
+    {
+      "title": "Steelers' receiver problem proves they made a massive NFL trade deadline mistake",
+      "url": "https://www.cbssports.com/nfl/news/steelers-bengals-blowout-nfl-trade-deadline-aaron-rodgers/",
+      "summary": "Pittsburgh declined to add a receiver at the trade deadline, leaving Aaron Rodgers without the help he needed",
+      "published": "Mon, 16 Nov 2026 12:18:36 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PIT"
       ]
     }
   ],
