@@ -1,72 +1,53 @@
 {
-  "updated_at_utc": "2026-11-19T03:59:49.397174+00:00",
-  "checked_at_utc": "2026-11-19T04:00:14.559887+00:00",
+  "updated_at_utc": "2026-11-19T12:50:46.336355+00:00",
+  "checked_at_utc": "2026-11-19T12:50:46.336355+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 23,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 34
     },
     "FOX Sports NFL": {
-      "ok": false,
-      "items": 0,
-      "error": "ReadTimeout",
+      "ok": true,
+      "items": 22,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Niners' Nick Bosa on 4-game sack drought: 'Don't think I'm playing my best'",
-      "url": "https://www.espn.com/nfl/story/_/id/50526309/niners-nick-bosa-says-better-amid-4-game-sack-drought",
-      "summary": "Niners star Nick Bosa acknowledged his performance this season, including four straight games with no sacks, hasn't been up to his usual standard.",
-      "published": "2026-11-19T01:47:36Z",
-      "source": "ESPN NFL",
+      "title": "NFL Head Coach Hot Seat Rankings: Who Is The Most In Danger Ahead Of Thanksgiving?",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-head-coach-hot-seat-rankings-nick-sirianni-eagles-brian-schottenheimer-cowboys",
+      "summary": "Are Brian Schottenheimer and Nick Sirianni's jobs on the line? We determine where they rank in our latest head coach hot seat rankings.",
+      "published": "Thu, 19 Nov 2026 00:42:21 -0500",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": [
-        "SF"
-      ]
+      "teams": []
     },
     {
-      "title": "Florio, Simms apologize for comments about Vrabel's mustache in Germany",
-      "url": "https://www.espn.com/nfl/story/_/id/50525580/florio-simms-apologize-comments-vrabel-mustache",
-      "summary": "\"PFT Live\" hosts Mike Florio and Chris Simms apologized for comments they made about Mike Vrabel's mustache when talking about the Patriots' trip to Germany.",
-      "published": "2026-11-19T02:03:15Z",
-      "source": "ESPN NFL",
+      "title": "Tom Brady's NFL Power Rankings: The GOAT Thinks It's Obvious Who Best QB Is Right Now",
+      "url": "https://www.foxsports.com/stories/nfl/tom-bradys-nfl-power-rankings-bears-49ers-bills-chiefs-bengals",
+      "summary": "While Tom Brady thinks there's an obvious No. 1 QB, he doesn't have that team in the top five of his power rankings.",
+      "published": "Wed, 18 Nov 2026 21:11:36 -0500",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NE"
-      ]
+      "category": "qb",
+      "teams": []
     },
     {
-      "title": "TNF: Texans rule out DE Hunter, RB Marks; Colts rule out CB Ward, starting OTs",
-      "url": "https://www.espn.com/nfl/story/_/id/50524890/texans-rule-hunter-marks-colts-rule-ward-starting-ots",
-      "summary": "The Texans and Colts ruled out several key contributors for their Thursday night matchup.",
-      "published": "2026-11-18T23:26:51Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "HOU",
-        "IND"
-      ]
-    },
-    {
-      "title": "Giants RB Cam Skattebo to nix backflips in wake of Aidan Hutchinson's injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury",
-      "summary": "Giants RB Cam Skattebo said he is holding off on doing any more backflips after Lions DE Aidan Hutchinson suffered a major knee injury while leaping and celebrating a sack.",
-      "published": "2026-11-18T23:13:37Z",
-      "source": "ESPN NFL",
+      "title": "Giants RB Cam Skattebo Says No More Backflips After Aidan Hutchinson\u2019s Injury",
+      "url": "https://www.foxsports.com/stories/nfl/giants-rb-cam-skattebo-says-no-more-backflips-after-aidan-hutchinsons-injury",
+      "summary": "New York Giants running back Cam Skattebo is putting a pause to his backflip celebration after Detroit Lions defensive end Aidan Hutchinson's season-ending injury.",
+      "published": "Wed, 18 Nov 2026 20:02:55 -0500",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
@@ -76,179 +57,11 @@
       ]
     },
     {
-      "title": "Panthers secondary set for boost with return of CB Mike Jackson",
-      "url": "https://www.espn.com/nfl/story/_/id/50524458/panthers-cb-mike-jackson-set-return-sunday-vs-ravens",
-      "summary": "Panthers starting cornerback Mike Jackson, who has been sidelined since injuring his groin in Week 3, plans to be in the lineup Sunday against the Ravens.",
-      "published": "2026-11-18T22:37:57Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "CAR"
-      ]
-    },
-    {
-      "title": "Ravens' Humphrey apologizes for quip that Baltimore 'best at making criminals'",
-      "url": "https://www.espn.com/nfl/story/_/id/50524109/ravens-humphrey-apologizes-criminals-quip-podcast",
-      "summary": "Ravens cornerback Marlon Humphrey apologized Wednesday for the derogatory comment he recently made about Baltimore on his podcast.",
-      "published": "2026-11-19T03:37:02Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "Ravens' Flowers 'super frustrated' by latest late-game fumble",
-      "url": "https://www.espn.com/nfl/story/_/id/50523527/ravens-flowers-super-frustrated-latest-late-game-fumble",
-      "summary": "Ravens wide receiver Zay Flowers said he was \"super frustrated\" after having the ball ripped away around midfield in the final two minutes of a loss to the Chargers on Monday night.",
-      "published": "2026-11-18T20:29:38Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "LAC"
-      ]
-    },
-    {
-      "title": "Titans WR Wan'Dale Robinson out for season with ankle injury",
-      "url": "https://www.espn.com/nfl/story/_/id/50523261/titans-wr-wandale-robinson-season-ankle-injury",
-      "summary": "Titans wide receiver Wan'Dale Robinson will miss the rest of the season due to an ankle injury, coach Robert Saleh said Wednesday.",
-      "published": "2026-11-18T19:45:54Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "TEN"
-      ]
-    },
-    {
-      "title": "Stroud: Texans' home skid and 17-point collapse fuel 'scary' urgency vs Colts",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873066",
-      "summary": "\u2014 C.J. Stroud certainly isn\u2019t thrilled with where his Houston Texans are entering Thursday night\u2019s AFC South matchup with Indianapolis.",
-      "published": "2026-11-18T18:58:34Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND"
-      ]
-    },
-    {
-      "title": "Sources: Brandon Aiyuk contacted Jayden Daniels to mend friendship with star QB",
-      "url": "https://www.espn.com/nfl/story/_/id/50522814/sources-brandon-aiyuk-mended-friendship-jayden-daniels",
-      "summary": "Brandon Aiyuk and Jayden Daniels have patched up their relationship after a falling out earlier this year, sources told ESPN.",
-      "published": "2026-11-18T18:50:43Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
-    },
-    {
-      "title": "NFL depth charts for all 32 teams for 2026 season",
-      "url": "https://www.espn.com/nfl/story/_/id/29098001/nfl-depth-charts-all-32-teams",
-      "summary": "Here are the latest NFL depth charts for all 32 teams.",
-      "published": "2026-11-18T18:38:41Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Eagles' Sirianni sticking with Milton as QB1, Mannion as offensive playcaller",
-      "url": "https://www.espn.com/nfl/story/_/id/50522640/eagles-stick-milton-qb1-mannion-offensive-playcaller",
-      "summary": "QB Joe Milton will start again for the Eagles on Sunday and Sean Mannion will remain as the offensive playcaller against the Steelers, coach Nick Sirianni said.",
-      "published": "2026-11-18T18:57:48Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "PHI",
-        "PIT"
-      ]
-    },
-    {
-      "title": "The NFL's current worst team? Lamar-less Ravens making that case",
-      "url": "https://www.espn.com/nfl/story/_/id/50521008/nfl-current-worst-team-lamar-jackson-ravens-making-case-week-11",
-      "summary": "The Ravens have gone 38 days without a win. It has been 24 days since they've had a lead.",
-      "published": "2026-11-18T17:40:53Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "Jaguars rule starting center Robert Hainsey (knee) out for Giants game",
-      "url": "https://www.espn.com/nfl/story/_/id/50522085/jaguars-rule-center-robert-hainsey-knee-giants-game",
-      "summary": "Jaguars center Robert Hainsey will miss Sunday's game against the Giants because of a knee injury, coach Liam Coen said Wednesday.",
-      "published": "2026-11-18T16:41:39Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "JAX",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Pettine to take over defensive playcalling for Cowboys; Parker still DC",
-      "url": "https://www.espn.com/nfl/story/_/id/50520940/sources-pettine-take-defensive-playcalling-cowboys",
-      "summary": "Christian Parker will remain as the Cowboys' defensive coordinator, but Mike Pettine will call the defense on game day, coach Brian Schottenhiemer said.",
-      "published": "2026-11-18T21:29:26Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Sources: Mason McCormick avoided ankle fracture; Steelers place guard on IR",
-      "url": "https://www.espn.com/nfl/story/_/id/50519701/sources-steelers-g-mccormick-need-surgery-ankle",
-      "summary": "Steelers guard Mason McCormick, who has been placed on injured reserve, does not need surgery after he was carted off the field with an ankle injury, sources told NFL Network.",
-      "published": "2026-11-18T19:43:15Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "NFL Week 11 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-      "url": "https://www.espn.com/nfl/story/_/id/50513379/week-11-buzz-fantasy-predictions-graziano-fowler-2026",
-      "summary": "What are people around the league saying about Fernando Mendoza? Could changes be coming in Dallas? And what now for New England? Here's the latest intel.",
-      "published": "2026-11-18T17:48:56Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "A Rams bye means time for rest and ramping up",
-      "url": "https://www.espn.com/nfl/story/_/id/50512215/rams-bye-rest-ramp-week-11",
-      "summary": "The bye \"represents an opportunity to get recharged,\" but it also allows the team to improve.",
-      "published": "2026-11-18T11:00:14Z",
-      "source": "ESPN NFL",
+      "title": "How Blake Corum Energized Rams\u2019 Ailing Offense, With The Help Of Sean McVay",
+      "url": "https://www.foxsports.com/stories/nfl/blake-corum-rams-justin-herbert-chargers-emmett-johnson-chiefs",
+      "summary": "Blake Corum has been the engine of the Los Angeles Rams' offense with Puka Nacua and Davante Adams out. Here's how he's done it.",
+      "published": "Wed, 18 Nov 2026 19:57:18 -0500",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -257,69 +70,289 @@
       ]
     },
     {
-      "title": "Why Packers can't protect Jordan Love or rush successfully",
-      "url": "https://www.espn.com/nfl/story/_/id/50513014/packers-jordan-love-sack-rushing-offensive-line",
-      "summary": "The two-year demise of the Packers' offensive line began on March 10, 2025, and has no end in sight.",
-      "published": "2026-11-18T14:21:52Z",
-      "source": "ESPN NFL",
+      "title": "Roll The Tape: Vikings-49ers Is Immovable Object Vs. Unstoppable Force",
+      "url": "https://www.foxsports.com/stories/nfl/roll-tape-vikings-49ers-immovable-object-vs-unstoppable-force",
+      "summary": "After diving into the All-22 coaches' film from Week 10, Bucky Brooks examines three new developments to watch.",
+      "published": "Wed, 18 Nov 2026 19:40:57 -0500",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "GB"
+        "MIN",
+        "SF"
       ]
     },
     {
-      "title": "Kansas City Chiefs tight end Travis Kelce's top moments at Arrowhead Stadium",
-      "url": "https://www.espn.com/nfl/story/_/id/50513358/chiefs-travis-kelce-100-games-arrowhead-taylor-swift",
-      "summary": "Kelce's greatest Arrowhead moments include his first catch, lots of playoff magic, and meeting the love of his life, Taylor Swift.",
-      "published": "2026-11-18T11:00:10Z",
-      "source": "ESPN NFL",
+      "title": "49ers, Vikings Take Opposite Approaches To Preparing For Mexico City Altitude",
+      "url": "https://www.foxsports.com/stories/nfl/49ers-vikings-take-opposite-approaches-preparing-mexico-city-altitude",
+      "summary": "The NFL returns to Mexico City on Sunday, and the Vikings and 49ers have taken very different routes to the same 7,000-plus feet of altitude.",
+      "published": "Wed, 18 Nov 2026 19:08:54 -0500",
+      "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
+      "teams": [
+        "MIN",
+        "SF"
+      ]
+    },
+    {
+      "title": "NFL Fact Or Fiction: Burrow Over Allen, Purdy For MVP? Drew Lock Over Sam Darnold?",
+      "url": "https://www.foxsports.com/stories/nfl/bengals-joe-burrow-mvp-josh-allen-brock-purdy-drew-lock-sam-darnold",
+      "summary": "Who\u2019s the true MVP frontrunner? Drew Lock should be Seattle\u2019s QB1? The Vikings are the NFC's best team? We dive into your hottest NFL takes.",
+      "published": "Wed, 18 Nov 2026 17:49:17 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "Will Hill's Parlay Of The Week: Back Michigan To Struggle; Vols To Cover",
+      "url": "https://www.foxsports.com/stories/college-football/will-hills-parlay-week-back-michigan-struggle-vols-cover",
+      "summary": "Check out Will Hill's five-leg parlay, including No. 9 Tennessee to cover and No. 4 UCLA to dominate Michigan.",
+      "published": "Wed, 18 Nov 2026 16:28:56 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Kenneth Walker III Misses Chiefs Practice With Groin Injury, Sunday In Question",
+      "url": "https://www.foxsports.com/stories/nfl/kansas-city-chiefs-kenneth-walker-injury-emmett-johnson",
+      "summary": "The Kansas City Chiefs could be without running back Kenneth Walker because of a groin injury for the second straight week.",
+      "published": "Wed, 18 Nov 2026 16:05:18 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
       "teams": [
         "KC"
       ]
     },
     {
-      "title": "Three-win Saints, Kellen Moore face defining stretch of games",
-      "url": "https://www.espn.com/nfl/story/_/id/50514927/3-win-new-orleans-saints-kellen-moore-defining-games",
-      "summary": "Starting with the Bears on Sunday, the head coach's tenure and the team's season sits at a crucial crossroads.",
-      "published": "2026-11-18T13:39:56Z",
+      "title": "2026 NFL No. 1 Seed Odds: Bills Strengthen Grip On AFC, 49ers Pull Away In NFC",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-no-1-seed-chiefs-49ers",
+      "summary": "Buffalo widened its lead in the AFC, while San Francisco pulled away from Chicago and Minnesota in the NFC. See the latest NFL No. 1 seed odds.",
+      "published": "Wed, 18 Nov 2026 15:14:20 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "SF"
+      ]
+    },
+    {
+      "title": "Nick Sirianni Reveals Eagles Week 11 Role For QB Joe Milton",
+      "url": "https://www.foxsports.com/stories/nfl/joe-milton-stats-nick-sirianni-presser-steelers-eagles",
+      "summary": "Philadelphia Eagles head coach Nick Sirianni revealed whether the team will stay with Joe Milton at quarterback.",
+      "published": "Wed, 18 Nov 2026 14:44:29 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PHI"
+      ]
+    },
+    {
+      "title": "2026 NFL Comeback Player Of The Year Odds: Mahomes Surges After 5-TD Game",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-comeback-player-year",
+      "summary": "Patrick Mahomes extends his lead as the favorite for NFL Comeback Player of the Year. Here\u2019s how the odds shifted after Week 10.",
+      "published": "Wed, 18 Nov 2026 14:28:18 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "2026 NFL DROY Odds: Arvell Reese, David Bailey Battle For Top Spot",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-defensive-rookie-year-odds",
+      "summary": "Two of New York\u2019s young stars are battling for Defensive Rookie of the Year. See where Arvell Reese and David Bailey stand after Week 10.",
+      "published": "Wed, 18 Nov 2026 13:47:22 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Jets QB Geno Smith Limited With Ankle Injury; Will He Play vs. Chargers?",
+      "url": "https://www.foxsports.com/stories/nfl/geno-smith-injury-update-jets-quarterbacks-aaron-glenn-presser",
+      "summary": "Jets quarterback Geno Smith was limited in practice Wednesday with an ankle injury, per coach Aaron Glenn; will Smith start against the Chargers?",
+      "published": "Wed, 18 Nov 2026 13:27:27 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LAC",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Steelers G Mason McCormick Avoids Fracture, Could Return For Playoff Run",
+      "url": "https://www.foxsports.com/stories/nfl/steelers-g-mason-mccormick-avoids-fracture-could-return-playoffs",
+      "summary": "Pittsburgh Steelers guard Mason McCormick got about the best news possible after one of the scariest injuries of the season.",
+      "published": "Wed, 18 Nov 2026 13:00:15 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Miss The Playoffs?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-to-miss-playoffs",
+      "summary": "In Week 10, a single division loss had a major impact on one team's odds to make the playoffs. See the latest.",
+      "published": "Wed, 18 Nov 2026 10:51:31 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Cowboys Demote DC Christian Parker In Damning Manner",
+      "url": "https://www.foxsports.com/stories/nfl/cowboys-defense-stats-dc-christian-parker-mike-pettine-history",
+      "summary": "The Dallas Cowboys have demoted defensive coordinator Christian Parker - but not in the way you might think.",
+      "published": "Wed, 18 Nov 2026 10:49:58 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL"
+      ]
+    },
+    {
+      "title": "2026 NFL AFC, NFC Title Odds: Bills Once Again Favored; 49ers Stand Pat",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-afc-nfc-title-odds",
+      "summary": "Ten weeks in, both conference title races are beginning to heat up. See the latest odds.",
+      "published": "Wed, 18 Nov 2026 10:46:46 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "SF"
+      ]
+    },
+    {
+      "title": "2026 NFL MVP Odds: 4-Horse Race Brewing, With Burrow As The Favorite",
+      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
+      "summary": "At this point in the season, it appears only four names have a legitimate chance at winning NFL MVP. See the latest.",
+      "published": "Wed, 18 Nov 2026 10:41:32 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Is Chicago Big Enough For Two MVPs? Caleb Williams Thinks So",
+      "url": "https://www.foxsports.com/stories/nfl/chicago-big-enough-two-mvps-caleb-williams-thinks-so",
+      "summary": "Caleb Williams and Pete Crow-Armstrong say their friendship is as real as it looks.",
+      "published": "Tue, 17 Nov 2026 22:28:00 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Joe Burrow Plays Like The NBA's Frontrunner For MVP, But Another QB Is NFL's MVP",
+      "url": "https://www.foxsports.com/stories/nfl/qb-notebook-week-10-joe-burrow-josh-allen-mvp",
+      "summary": "In this week's QB Notebook, we share why Joe Burrow is ethically hooping, while another star QB is the MVP so far this year.",
+      "published": "Tue, 17 Nov 2026 20:35:49 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Nick Wright Says Chargers Should \u2018Hard Reset The Whole Thing\u2019 After First Win",
+      "url": "https://www.foxsports.com/stories/nfl/nick-wright-says-chargers-should-hard-reset-whole-thing-after-first-win",
+      "summary": "The Los Angeles Chargers finally have a win, but Nick Wright says the result shouldn\u2019t change the franchise's next steps.",
+      "published": "Tue, 17 Nov 2026 18:43:52 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LAC"
+      ]
+    },
+    {
+      "title": "Are there actually 32 true starting quarterbacks in the NFL at any given time?",
+      "url": "https://www.espn.com/nfl/story/_/id/50521968/how-many-starting-quarterbacks-32-teams-talent-barnwell",
+      "summary": "Finding legit quarterbacks can be tough, and many people think there aren't even enough true QB1s to fill the league's 32 QB1 spots. Is there any validity to that?",
+      "published": "2026-11-19T11:26:05Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Midseason reports on every NFL team's offensive coordinator, playcaller",
+      "url": "https://www.espn.com/nfl/story/_/id/50520404/nfl-offensive-coordinators-playcallers-midseason-report",
+      "summary": "Here's the good and the bad for each offensive coordinator or playcaller through Week 10, plus keys to their success the rest of the way.",
+      "published": "2026-11-19T11:00:11Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Falcons seek change, but keep ending up in the same spot",
+      "url": "https://www.espn.com/nfl/story/_/id/50524413/falcons-matt-ryan-michael-penix-kevin-stefanski",
+      "summary": "Mediocre record, questions at quarterback, rinse, repeat. Maybe next year the Falcons can start making progress.",
+      "published": "2026-11-19T11:39:28Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": [
-        "CHI",
-        "NO"
+        "ATL"
       ]
     },
     {
-      "title": "Source: Cardinals' Gardner Minshew has surgery to repair right UCL",
-      "url": "https://www.espn.com/nfl/story/_/id/50517561/source-cardinals-qb-gardner-minshew-surgery-repair-right-ucl",
-      "summary": "Cardinals quarterback Gardner Minshew II had surgery on his right ulnar collateral ligament on Monday, a source told ESPN.",
-      "published": "2026-11-18T05:06:06Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ARI"
-      ]
-    },
-    {
-      "title": "Minter: Ravens working to jump-start running game, but 'talk is cheap'",
-      "url": "https://www.espn.com/nfl/story/_/id/50516834/minter-ravens-working-jump-start-running-game-talk-cheap",
-      "summary": "Baltimore Ravens coach Jesse Minter had some strong words when addressing the team's identity on Monday.",
-      "published": "2026-11-18T17:42:12Z",
+      "title": "Why can't Richardson beat out struggling Jones as Colts QB1?",
+      "url": "https://www.espn.com/nfl/story/_/id/50521994/colts-anthony-richardson-daniel-jones-quarterback",
+      "summary": "Daniel Jones has some of the worst numbers in the NFL, yet Anthony Richardson can't get on the field for the woeful Colts.",
+      "published": "2026-11-19T11:00:00Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL"
+        "IND"
+      ]
+    },
+    {
+      "title": "How Houston has banded together through backbreaking losses and adversity",
+      "url": "https://www.espn.com/nfl/story/_/id/50502967/texans-playoff-hopes-kamari-lassiter-cj-stroud",
+      "summary": "Houston enters \"Thursday Night Football\" against the Indianapolis Colts with a 32.4% chance of making the playoffs.",
+      "published": "2026-11-19T11:00:02Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "IND"
       ]
     },
     {
@@ -770,6 +803,20 @@
       "url": "https://www.cbssports.com/betting/news/chargers-vs-ravens-odds-prediction-betting-preview-start-time-monday-night-football-picks-best-bets/",
       "summary": "Best bets and betting preview for Chargers vs. Ravens on Monday Night Football",
       "published": "Tue, 17 Nov 2026 00:04:30 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "LAC"
+      ]
+    },
+    {
+      "title": "Chargers vs. Ravens odds: NFL Week 10 first touchdown scorer picks, NFL predictions for Monday Night Football",
+      "url": "https://www.cbssports.com/betting/news/chargers-vs-ravens-odds-nfl-week-10-first-touchdown-scorer-picks-nfl-predictions-for-monday-night-football/",
+      "summary": "Here are our top picks for first touchdown prediction markets on Monday Night Football between the Chargers and Ravens to end Week 10",
+      "published": "Mon, 16 Nov 2026 23:50:42 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
