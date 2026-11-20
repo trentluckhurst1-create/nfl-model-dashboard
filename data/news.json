@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-11-20T10:10:07.481418+00:00",
-  "checked_at_utc": "2026-11-20T10:10:07.481418+00:00",
+  "updated_at_utc": "2026-11-20T18:36:59.514644+00:00",
+  "checked_at_utc": "2026-11-20T18:36:59.514644+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 30
+      "items": 29
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,62 @@
     }
   },
   "items": [
+    {
+      "title": "That's A Wrap: Colts Coach Shane Steichen Reveals Team Cut Daniel Jones",
+      "url": "https://www.foxsports.com/stories/nfl/colts-release-daniel-jones-shane-steichen-presser-indianapolis-depth-chart",
+      "summary": "The Indianapolis Colts have released quarterback Daniel Jones, who was in the first season of a two-year, $88 million deal.",
+      "published": "Fri, 20 Nov 2026 13:14:12 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "Jets Coach Aaron Glenn Gives Geno Smith Injury Update For Chargers Clash",
+      "url": "https://www.foxsports.com/stories/nfl/geno-smith-injury-update-aaron-glenn-presser-jets-chargers",
+      "summary": "Jets quarterback Geno Smith was set to fully participate in practice Friday and appears on track to start against the Chargers on Sunday.",
+      "published": "Fri, 20 Nov 2026 11:16:45 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LAC",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 11: Lines, Spreads, Results For All 13 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-11-lines-spreads-results-all-13-games",
+      "summary": "Check out the lines for every NFL Week 11 game, beginning with Colts-Texans on Thursday.",
+      "published": "Fri, 20 Nov 2026 09:55:40 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "IND"
+      ]
+    },
+    {
+      "title": "2026 NFL Week 11 Best Bets, Expert Picks: Bucs Are Live As Touchdown Underdogs",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-11-best-bets-expert-picks-bucs-live-touchdown-underdogs",
+      "summary": "Geoff Schwartz likes Tampa Bay to keep it close in Detroit and has a Christian McCaffrey prop for Vikings-49ers in Mexico City.",
+      "published": "Fri, 20 Nov 2026 08:54:20 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN",
+        "SF",
+        "TB"
+      ]
+    },
     {
       "title": "Tom Brady Shuts Down Possibility Of Unretiring And Playing In The NFL \u2014 Again",
       "url": "https://www.foxsports.com/stories/nfl/tom-brady-shuts-down-possibility-unretiring-playing-nfl-again",
@@ -205,20 +261,6 @@
       ]
     },
     {
-      "title": "2026 NFL Odds Week 11: Lines, Spreads, Results For All 13 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-11-lines-spreads-results-all-13-games",
-      "summary": "Check out the lines for every NFL Week 11 game, beginning with Colts-Texans on Thursday.",
-      "published": "Thu, 19 Nov 2026 10:29:24 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND"
-      ]
-    },
-    {
       "title": "Browns QB Deshaun Watson Expresses Interest In Signing New Deal",
       "url": "https://www.foxsports.com/stories/nfl/deshaun-watson-contract-stats-browns-quarterbacks-schedule",
       "summary": "Quarterback Deshaun Watson expressed an interest in playing for the Cleveland Browns beyond this season.",
@@ -257,71 +299,198 @@
       "teams": []
     },
     {
-      "title": "Giants RB Cam Skattebo Says No More Backflips After Aidan Hutchinson\u2019s Injury",
-      "url": "https://www.foxsports.com/stories/nfl/giants-rb-cam-skattebo-says-no-more-backflips-after-aidan-hutchinsons-injury",
-      "summary": "New York Giants running back Cam Skattebo is putting a pause to his backflip celebration after Detroit Lions defensive end Aidan Hutchinson's season-ending injury.",
-      "published": "Wed, 18 Nov 2026 20:02:55 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Colts release QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
+      "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
+      "summary": "The Colts have released quarterback Daniel Jones and are turning to Anthony Richardson Sr. to start going forward, coach Shane Steichen announced.",
+      "published": "2026-11-20T18:34:56Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "transaction",
       "teams": [
-        "DET",
-        "NYG"
+        "IND"
       ]
     },
     {
-      "title": "How Blake Corum Energized Rams\u2019 Ailing Offense, With The Help Of Sean McVay",
-      "url": "https://www.foxsports.com/stories/nfl/blake-corum-rams-justin-herbert-chargers-emmett-johnson-chiefs",
-      "summary": "Blake Corum has been the engine of the Los Angeles Rams' offense with Puka Nacua and Davante Adams out. Here's how he's done it.",
-      "published": "Wed, 18 Nov 2026 19:57:18 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Rams' Puka Nacua has MCL surgery, likely done for regular season",
+      "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
+      "summary": "Rams WR Puka Nacua, who is serving a three-game suspension while on IR, had surgery on his MCL and likely will miss at least the rest of the regular season.",
+      "published": "2026-11-20T18:19:07Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "injury",
       "teams": [
         "LA"
       ]
     },
     {
-      "title": "Roll The Tape: Vikings-49ers Is Immovable Object Vs. Unstoppable Force",
-      "url": "https://www.foxsports.com/stories/nfl/roll-tape-vikings-49ers-immovable-object-vs-unstoppable-force",
-      "summary": "After diving into the All-22 coaches' film from Week 10, Bucky Brooks examines three new developments to watch.",
-      "published": "Wed, 18 Nov 2026 19:40:57 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Can Ravens keep the Marlon Humphrey controversy from becoming a distraction?",
+      "url": "https://www.espn.com/nfl/story/_/id/50541178/ravens-avoid-marlon-humphrey-controversy-distraction",
+      "summary": "While there's more to the cornerback's story, one Baltimore teammate says: \"We have enough things to worry about.\"",
+      "published": "2026-11-20T17:12:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Puka Nacua had surgery on MCL injury, will miss 'a couple of months,' Sean McVay says",
+      "url": "https://www.cbssports.com/nfl/news/rams-puka-nacua-injury-surgery-sean-mcvay/",
+      "summary": "Nacua suffered the injury on the final play of the Rams' Week 9 win over the Commanders",
+      "published": "Fri, 20 Nov 2026 17:35:03 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA",
+        "WAS"
+      ]
+    },
+    {
+      "title": "In Kansas City, Kenneth Walker III and the run game makes the Chiefs contenders again",
+      "url": "https://www.cbssports.com/nfl/news/in-kansas-city-kenneth-walker-iii-run-game-completely-transformed-chiefs-offense-super-bowl/",
+      "summary": "One of the league's most explosive running backs has the Chiefs looking like their old Super Bowl-winning selves.",
+      "published": "Fri, 20 Nov 2026 16:15:17 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "Aidan Hutchinson speaks out on freak injury celebration: 'That's the last time I go airborne'",
+      "url": "https://www.cbssports.com/nfl/news/lions-aidan-hutchinson-speaks-out-freak-injury-celebration/",
+      "summary": "Hutchinson tore his ACL while celebrating a sack of New England's Drake Maye",
+      "published": "Fri, 20 Nov 2026 15:51:05 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": []
+    },
+    {
+      "title": "Lions' Jahmyr Gibbs laying early foundation for one of the best running back careers ever",
+      "url": "https://www.cbssports.com/nfl/news/lions-jahmyr-gibbs-laying-early-foundation-for-rb-goat-case/",
+      "summary": "Gibbs is only 3.5 years into his NFL career, and he's on a few different record-breaking paces",
+      "published": "Fri, 20 Nov 2026 15:34:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "NFL exploring possibility of implementing new travel rules for international games",
+      "url": "https://www.cbssports.com/nfl/news/nfl-exploring-possibility-implementing-new-travel-rules-international-games/",
+      "summary": "NFL teams might have to change the way they travel for international games",
+      "published": "Fri, 20 Nov 2026 15:28:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 11 NFL betting promos: Get almost $4,000 in bonuses from betting apps, sportsbooks for Sunday's games",
+      "url": "https://www.cbssports.com/betting/news/week-11-nfl-betting-promos-get-almost-4000-in-bonuses-betting-apps-sportsbooks-for-sundays-games/",
+      "summary": "Top Week 11 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Fri, 20 Nov 2026 15:28:36 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL odds, picks: Brinson's Week 11 best bets, player props, anytime TD scorers for Sunday's games",
+      "url": "https://www.cbssports.com/betting/news/nfl-odds-picks-brinsons-week-11-best-bets-player-props-anytime-td-scorers-for-sundays-games/",
+      "summary": "Steer clear of bloated double-digit spreads, grab the extra points with Philadelphia, and count on Dak Prescott to clear his passing total in a shootout",
+      "published": "Fri, 20 Nov 2026 15:26:53 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Week 11 NFL odds, lines, totals, spreads for every game, including Steelers-Eagles, 49ers-Vikings, more",
+      "url": "https://www.cbssports.com/betting/news/week-11-nfl-betting-odds-lines-spreads-totals/",
+      "summary": "A look at the latest Week 11 NFL odds and updated lines for all 13 matchups.",
+      "published": "Fri, 20 Nov 2026 15:19:55 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
         "MIN",
+        "PHI",
+        "PIT",
         "SF"
       ]
     },
     {
-      "title": "Titans' Calvin Ridley facing misdemeanor assault charge over airport incident",
-      "url": "https://www.espn.com/nfl/story/_/id/50539065/titans-calvin-ridley-assault-charge-airport-incident",
-      "summary": "Titans wide receiver Calvin Ridley is facing a misdemeanor assault charge as a result of a Nov. 7 incident at Nashville International Airport.",
-      "published": "2026-11-20T07:46:11Z",
-      "source": "ESPN NFL",
+      "title": "Week 11 bold predictions: Fernando Mendoza upsets Broncos, Tony Pollard breaks Cowboys",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-bold-predictions-fernando-mendoza-raiders-broncos/",
+      "summary": "Plus, Jahmyr Gibbs dominates Tampa Bay's No. 1 run defense",
+      "published": "Fri, 20 Nov 2026 13:57:35 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "TEN"
+        "DAL",
+        "DEN"
       ]
     },
     {
-      "title": "C.J. Stroud stays in 'groove' with another 3-TD night in Texans' blowout of Colts",
-      "url": "https://www.espn.com/nfl/story/_/id/50538998/cj-stroud-stays-groove-texans-blowout-colts",
-      "summary": "C.J. Stroud had his third straight game with at least three touchdown passes and led the Texans to their fourth win in six games Thursday night against the Colts.",
-      "published": "2026-11-20T07:41:39Z",
-      "source": "ESPN NFL",
+      "title": "C.J. Stroud keeps Texans' playoff hopes alive; CFB Week 12 picks; NBA's biggest disappointments",
+      "url": "https://www.cbssports.com/nfl/news/c-j-stroud-texans-playoffs-nfl-college-football-picks-nba-disappointments/",
+      "summary": "Plus, Puka Nacua draws a three-game suspension and NBA trade rumors swirl",
+      "published": "Fri, 20 Nov 2026 13:52:53 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "HOU"
+      ]
+    },
+    {
+      "title": "Week 11 best bets: Tony Pollard scores against former team, Lions win sixth straight game",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-best-bets-tony-pollard-cowboys-lions/",
+      "summary": "Plus, picks for every game on the schedule",
+      "published": "Fri, 20 Nov 2026 12:35:25 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "HOU",
-        "IND"
+        "DET"
+      ]
+    },
+    {
+      "title": "NFL Week 11 picks, best bets: Why 49ers beat Vikings in primetime, Bengals cover vs. Commanders",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-picks-best-bets-49ers-vikings-bengals-commanders/",
+      "summary": "Jordan Dajani gives his picks for Week 11 of the 2026 NFL season",
+      "published": "Fri, 20 Nov 2026 14:12:10 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "MIN",
+        "SF",
+        "WAS"
       ]
     },
     {
@@ -368,20 +537,6 @@
       "category": "game",
       "teams": [
         "BUF"
-      ]
-    },
-    {
-      "title": "Week 11 NFL betting promos: Get almost $4,000 in bonuses from betting apps, sportsbooks for Texans vs. Colts",
-      "url": "https://www.cbssports.com/betting/news/week-11-nfl-betting-promos-get-almost-4000-in-bonuses-betting-apps-sportsbooks-texans-vs-colts/",
-      "summary": "Top Week 11 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Fri, 20 Nov 2026 00:35:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND"
       ]
     },
     {
@@ -566,159 +721,6 @@
       "teams": [
         "HOU",
         "IND"
-      ]
-    },
-    {
-      "title": "Most important Week 11 games for NFL playoff races: Can anyone gain separation in NFC North or NFC South?",
-      "url": "https://www.cbssports.com/nfl/news/most-important-week-11-games-nfl-playoff-races/",
-      "summary": "Plus, can the Giants bounce back?",
-      "published": "Fri, 20 Nov 2026 02:53:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "NFL Week 11 picks: Our experts face off on Colts at Texans, Vikings vs. 49ers and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-experts-picks-colts-at-texans-vikings-vs-49ers/",
-      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
-      "published": "Thu, 19 Nov 2026 15:52:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND",
-        "MIN",
-        "SF"
-      ]
-    },
-    {
-      "title": "NFL experts make Week 11 picks; LaMelo Ball driving Timberwolves' success; No. 1, No. 3 teams in Top 25 lose",
-      "url": "https://www.cbssports.com/nfl/news/nfl-experts-make-week-11-picks-lamelo-ball-driving-timberwolves-success-no-1-no-3-teams-in-top-25-lose/",
-      "summary": "Plus, LSU makes its call on RJ Luis Jr.",
-      "published": "Thu, 19 Nov 2026 13:58:12 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Grading every trade deadline acquisition's new team debut: Kirk Cousins, two WRs get near 'A'",
-      "url": "https://www.cbssports.com/nfl/news/grading-every-trade-deadline-acquisitions-new-team-debut-kirk-cousins/",
-      "summary": "Many midseason movers had strong debuts for their new teams",
-      "published": "Thu, 19 Nov 2026 15:39:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "Week 11 Super Bowl stock report: Kirk Cousins raises Vikings' ceiling, Drake Maye injury tanks Patriots",
-      "url": "https://www.cbssports.com/nfl/news/week-11-super-bowl-stock-report-kirk-cousins-vikings-drake-maye-patriots/",
-      "summary": "We assess the NFL title race after Week 10 and identify three upcoming games that could reshape the Super Bowl picture",
-      "published": "Thu, 19 Nov 2026 12:58:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "MIN",
-        "NE"
-      ]
-    },
-    {
-      "title": "Grading NFL quarterbacks on rookie contracts: Caleb Williams, C.J. Stroud kick careers into high gear",
-      "url": "https://www.cbssports.com/nfl/news/grading-nfl-quarterbacks-on-rookie-contracts-caleb-williams-c-j-stroud/",
-      "summary": "A few young quarterbacks have aced their tests in 2026",
-      "published": "Thu, 19 Nov 2026 12:56:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": []
-    },
-    {
-      "title": "It wouldn't shock me if ... for Week 11: New WR crashes OROY race, Jared Goff's pesky streak continues",
-      "url": "https://www.cbssports.com/nfl/news/it-wouldnt-shock-me-if-for-week-11-jared-goffs-tony-pollard/",
-      "summary": "Plus, Tony Pollard could shine in his first game back in Dallas",
-      "published": "Thu, 19 Nov 2026 14:19:28 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 11 injury report: Latest update on Chiefs' Kenneth Walker III; Lions' Kerby Joseph practices fully",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-injury-report-chiefs-kenneth-walker-iii-lions-kerby-joseph/",
-      "summary": "Get the latest Week 11 injury updates on Kenneth Walker III, Kerby Joseph, Baker Mayfield, Mike Evans and other notable NFL players",
-      "published": "Thu, 19 Nov 2026 01:17:02 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DET",
-        "KC"
-      ]
-    },
-    {
-      "title": "Giants' Cam Skattebo to halt backflip celebrations after Aidan Hutchinson jumping celebration injury",
-      "url": "https://www.cbssports.com/nfl/news/giants-cam-skattebo-backflip-celebrations-aidan-hutchinson-injury/",
-      "summary": "Hutchinson suffered a season-ending knee injury while jumping to celebrate a sack in Week 10",
-      "published": "Wed, 18 Nov 2026 23:43:27 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Ravens CB Marlon Humphrey apologizes after saying Baltimore is 'best at making criminals'",
-      "url": "https://www.cbssports.com/nfl/news/ravens-pro-bowl-cb-marlon-humphrey-apologizes-baltimore-best-making-criminals/",
-      "summary": "Humphrey criticized the city where he has played all 10 of his NFL seasons on his podcast before apologizing Wednesday afternoon",
-      "published": "Wed, 18 Nov 2026 23:22:16 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "Cowboys' handling of DC Christian Parker is bizarre, leaving Dallas with more questions than answers",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-handling-defensive-coordinator-christian-parker-mike-pettine/",
-      "summary": "Dallas head coach Brian Schottenheimer maintains Parker has an \"incredibly bright future\" with the Cowboys despite taking play-calling away from his first-year coordinator",
-      "published": "Wed, 18 Nov 2026 22:41:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Agent's Take: Breaking down Dolphins' historic dead money and where they go from here",
-      "url": "https://www.cbssports.com/nfl/news/agents-take-breaking-down-dolphins-historic-dead-money-salary-cap/",
-      "summary": "Miami's $188.88 million in dead money is unprecedented, but a number the Dolphins felt was necessary to rebuild",
-      "published": "Wed, 18 Nov 2026 20:13:11 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIA"
       ]
     }
   ],
