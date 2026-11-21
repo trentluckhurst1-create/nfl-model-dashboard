@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-11-21T07:20:44.459046+00:00",
-  "checked_at_utc": "2026-11-21T07:20:44.459046+00:00",
+  "updated_at_utc": "2026-11-21T15:28:42.994820+00:00",
+  "checked_at_utc": "2026-11-21T15:28:42.994820+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 19,
+      "items": 9,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 31
+      "items": 32
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -20,6 +20,20 @@
     }
   },
   "items": [
+    {
+      "title": "2026 NFL Odds Week 11: Lines, Spreads, Results For All 13 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-11-lines-spreads-results-all-13-games",
+      "summary": "Check out the lines for every NFL Week 11 game, beginning with Colts-Texans on Thursday.",
+      "published": "Sat, 21 Nov 2026 10:13:52 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "IND"
+      ]
+    },
     {
       "title": "Who's The NFL's MVP So Far? Who'll Win The Super Bowl? League Execs Pick Their Faves",
       "url": "https://www.foxsports.com/stories/nfl/nfl-mvp-super-bowl-predictions-joe-burrow-josh-allen",
@@ -113,20 +127,6 @@
       ]
     },
     {
-      "title": "2026 NFL Odds Week 11: Lines, Spreads, Results For All 13 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-11-lines-spreads-results-all-13-games",
-      "summary": "Check out the lines for every NFL Week 11 game, beginning with Colts-Texans on Thursday.",
-      "published": "Fri, 20 Nov 2026 09:55:40 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND"
-      ]
-    },
-    {
       "title": "2026 NFL Week 11 Best Bets, Expert Picks: Bucs Are Live As Touchdown Underdogs",
       "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-11-best-bets-expert-picks-bucs-live-touchdown-underdogs",
       "summary": "Geoff Schwartz likes Tampa Bay to keep it close in Detroit and has a Christian McCaffrey prop for Vikings-49ers in Mexico City.",
@@ -202,261 +202,170 @@
       "teams": []
     },
     {
-      "title": "Back at practice again, Bengals QB Burrow optimistic he'll be at full strength",
-      "url": "https://www.espn.com/nfl/story/_/id/50544261/burrow-practices-again-full-strength-mnf",
-      "summary": "A full participant at practice for the second straight day despite the bug that he has battled, Bengals quarterback Joe Burrow is optimistic that he'll be at full strength when Cincinnati plays the Washington Commanders on \"Monday Night Football.\"",
-      "published": "2026-11-20T23:37:55Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "CIN",
-        "WAS"
-      ]
-    },
-    {
-      "title": "NFL Week 11 uniforms: Texans debut Rivalries look, Commanders rock 'Hail Raiser'",
-      "url": "https://www.espn.com/nfl/story/_/id/50514892/nfl-week-11-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 11, led by Houston debuting its Rivalries combination.",
-      "published": "2026-11-20T22:49:33Z",
+      "title": "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
+      "url": "https://www.espn.com/nfl/story/_/id/50549761/mark-davis-upset-father-portrayal-movie-madden",
+      "summary": "Saying \"I did the best I could to protect him,\" Raiders owner Mark Davis expressed frustration with the depiction of his father, the late Al Davis, in the new movie \"Madden.\"",
+      "published": "2026-11-21T15:27:22Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "HOU",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Drake Maye ankle injury: Is the Patriots' season over? Can Tommy DeVito step up?",
-      "url": "https://www.espn.com/nfl/story/_/id/50503981/drake-maye-ankle-injury-patriots-tommy-devito-stats",
-      "summary": "If the QB doesn't return in 2026, New England faces an uphill battle against some of the NFL's best teams.",
-      "published": "2026-11-20T22:06:28Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Raiders TE Brock Bowers (ankle, quad) listed as questionable",
-      "url": "https://www.espn.com/nfl/story/_/id/50543720/raiders-te-brock-bowers-ankle-quad-listed-questionable",
-      "summary": "Las Vegas Raiders tight end Brock Bowers (ankle/quad) is questionable for Sunday's divisional matchup against the Denver Broncos, coach Klint Kubiak said Friday.",
-      "published": "2026-11-20T22:23:03Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DEN",
         "LV"
       ]
     },
     {
-      "title": "Jets QB Geno Smith (ankle) cleared to start vs. Chargers",
-      "url": "https://www.espn.com/nfl/story/_/id/50543665/jets-qb-geno-smith-ankle-cleared-start-vs-chargers",
-      "summary": "Jets quarterback Geno Smith made it through the practice week with no setbacks and was cleared to face the Chargers.",
-      "published": "2026-11-20T22:13:34Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LAC",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Police investigate man's death after alleged altercation at 49ers-Cowboys game",
-      "url": "https://www.espn.com/nfl/story/_/id/50543613/police-investigate-man-death-incident-cowboys-game",
-      "summary": "Police are investigating the death of a man who was allegedly involved in an altercation before Sunday's game between the Cowboys and 49ers at AT&T Stadium.",
-      "published": "2026-11-20T22:37:47Z",
+      "title": "NFL Week 11 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50521728/week-11-predictions-upsets-fantasy-sleepers-stats-2026",
+      "summary": "Eagles upsetting the Steelers? Big receiving day for Christian McCaffrey? Touchdown for Josh Downs? Let's predict 15 things for Week 11.",
+      "published": "2026-11-21T11:49:08Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DAL",
+        "PHI",
+        "PIT"
+      ]
+    },
+    {
+      "title": "Falcons insist winning still the goal despite trading Jessie Bates III",
+      "url": "https://www.espn.com/nfl/story/_/id/50473666/atlanta-falcons-trade-deadline-jessie-bates-morale",
+      "summary": "Atlanta wanted to ensure trading away Jessie Bates III didn't send the wrong message to the team.",
+      "published": "2026-11-21T11:59:54Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL"
+      ]
+    },
+    {
+      "title": "Giants' Abdul Carter on lack of sacks: 'I've got to do more'",
+      "url": "https://www.espn.com/nfl/story/_/id/50522936/giants-abdul-carter-lack-sacks",
+      "summary": "On the surface, the lack of sacks and hard numbers seem insufficient, but dig deeper and it's a different story.",
+      "published": "2026-11-21T11:00:00Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "How Steelers' wide receiver corps gets big boost in Week 11",
+      "url": "https://www.espn.com/nfl/story/_/id/50545137/steelers-receiver-corps-boost-wilson-pittman-week-11",
+      "summary": "DK Metcalf and the passing game are poised to get a lift this week with the return of Roman Wilson and Michael Pittman Jr.",
+      "published": "2026-11-21T11:00:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Why Amarius Mims is an underrated key to Bengals' success",
+      "url": "https://www.espn.com/nfl/story/_/id/50543897/bengals-amarius-mims-pass-protection-joe-burrow",
+      "summary": "Joe Burrow is on an MVP trajectory, and a big reason is his OL, led by Amarius Mims.",
+      "published": "2026-11-21T11:00:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN"
+      ]
+    },
+    {
+      "title": "In Mexico City, 49ers' Fred Warner can represent his heritage and boost DPOY case",
+      "url": "https://www.espn.com/nfl/story/_/id/50535108/san-francisco-49ers-fred-warner-mexican-heritage-dpoy",
+      "summary": "Warner will represent his heritage again Sunday in Mexico City. This time while in the middle of the best Defensive Player of the Year campaign of his career.",
+      "published": "2026-11-21T11:57:44Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
         "SF"
       ]
     },
     {
-      "title": "Bills TE Dalton Kincaid doubtful to play vs. Dolphins",
-      "url": "https://www.espn.com/nfl/story/_/id/50543381/bills-te-dalton-kincaid-doubtful-play-vs-dolphins",
-      "summary": "Bills starting tight end Dalton Kincaid, their leading receiver, is listed as doubtful for Sunday's game against the Dolphins due to thumb and ankle injuries.",
-      "published": "2026-11-20T21:49:40Z",
+      "title": "Why is the Raiders' defense struggling, and how can it improve?",
+      "url": "https://www.espn.com/nfl/story/_/id/50533134/las-vegas-raiders-defense-rob-leonard-struggles",
+      "summary": "The Raiders' defense has struggled mightly for weeks, but small steps of progress have been made.",
+      "published": "2026-11-21T11:00:03Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV"
+      ]
+    },
+    {
+      "title": "Edge Jonathan Greenard loves to makes plays, despite Eagles' standing",
+      "url": "https://www.espn.com/nfl/story/_/id/50541401/eagles-jonathan-greenard-loves-make-plays-record",
+      "summary": "Greenard speaks on his injury-filled season and outlook for the second half of the year.",
+      "published": "2026-11-21T11:00:15Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "BUF",
-        "MIA"
+        "PHI"
       ]
     },
     {
-      "title": "Tom Brady tops list of athletes who became owners",
-      "url": "https://www.espn.com/nfl/story/_/id/29553205/dwyane-wade-tom-brady-lebron-james-athletes-team-owners",
-      "summary": "The legendary quarterback is a member of an exclusive list of athletes that includes LeBron James, Serena Williams and Wayne Gretzky.",
-      "published": "2026-11-20T20:47:35Z",
-      "source": "ESPN NFL",
+      "title": "NFL week 11 anytime TD best bets: There's value on Mark Andrews and a Tony Pollard revenge game",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-anytime-td-best-bets-mark-andrews/",
+      "summary": "Tony Pollard faces his former team, Justin Jefferson reunites with Kirk Cousins on an international stage and Josh Downs makes his Chiefs home debut",
+      "published": "Sat, 21 Nov 2026 14:41:01 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "Why Jaguars' Trevor Lawrence has legitimate 2026 NFL MVP case, is destined to win one at some point",
+      "url": "https://www.cbssports.com/nfl/news/jaguars-trevor-lawrence-legitimate-2026-nfl-mvp-case-destined-win-one-some-point/",
+      "summary": "Across Lawrence's last 17 regular season games, he has 15-plus wins and 45-plus TD. He is only 1 of 10 QBs to achieve that feat",
+      "published": "Sat, 21 Nov 2026 14:14:48 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Don't sleep on these three NFL Week 11 games, from Joe Burrow's historic run to a rookie QB encore",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-games-joe-burrow-bengals-commanders/",
+      "summary": "Joe Burrow's historic MVP push, Tampa Bay's dominant rushing attack and Fernando Mendoza's second NFL start highlight three overlooked Week 11 games worth watching",
+      "published": "Sat, 21 Nov 2026 14:04:41 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": []
     },
     {
-      "title": "Justin Reid posts Saints farewell as team releases safety",
-      "url": "https://www.espn.com/nfl/story/_/id/50543025/justin-reid-posts-saints-farewell-team-works-release",
-      "summary": "The Saints have granted Justin Reid's request to be released, with the safety posting on social media: \"In life and sports, things don't always go the way you planned or hoped they would.\"",
-      "published": "2026-11-20T22:05:55Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "NO"
-      ]
-    },
-    {
-      "title": "Chiefs' Kenneth Walker III, two linemen out vs. Cardinals",
-      "url": "https://www.espn.com/nfl/story/_/id/50543014/chiefs-expect-kenneth-walker-iii-vs-cardinals",
-      "summary": "Chiefs RB Kenneth Walker III will not play in Sunday's game against the Cardinals after not participating in practice this week due to a groin injury.",
-      "published": "2026-11-20T20:29:34Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ARI",
-        "KC"
-      ]
-    },
-    {
-      "title": "Cowboys' Mike Pettine feels for DC Christian Parker, but focused on Titans",
-      "url": "https://www.espn.com/nfl/story/_/id/50542944/bottom-line-business-cowboys-pettine-focused-titans",
-      "summary": "Mike Pettine, the Cowboys' new defensive playcaller, is focused on preparing for the Titans, not looking in the rearview mirror.",
-      "published": "2026-11-20T20:24:06Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "TEN"
-      ]
-    },
-    {
-      "title": "Ravens rule out DT Nnamdi Madubuike (hamstring) vs Panthers",
-      "url": "https://www.espn.com/nfl/story/_/id/50542891/ravens-rule-dt-nnamdi-madubuike-hamstring-vs-panthers",
-      "summary": "Ravens defensive tackle Nnamdi Madubuike has a hamstring injury and has been ruled out for Sunday's game against the Panthers.",
-      "published": "2026-11-20T21:59:11Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BAL",
-        "CAR"
-      ]
-    },
-    {
-      "title": "Bengals vs. Commanders: Where to watch 'Monday Night Football'",
-      "url": "https://www.espn.com/nfl/story/_/id/50542859/bengals-vs-commanders-watch-monday-night-football-week-11",
-      "summary": "Here's what to know about the Week 11 matchup.",
-      "published": "2026-11-20T20:02:03Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Bears rule out CB Kyler Gordon; RB Kyle Monangai cleared to return",
-      "url": "https://www.espn.com/nfl/story/_/id/50542720/bears-rule-cb-kyler-gordon-vs-saints",
-      "summary": "The Bears will be without nickel corner Kyler Gordon when they host the Saints, while running back Kyle Monangai, wide receiver Luther Burden III and defensive tackle Jeffery Simmons are expected to play.",
-      "published": "2026-11-20T20:03:03Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "NO"
-      ]
-    },
-    {
-      "title": "Cardinals QB Carson Beck dealing with back spasms; Josh Johnson may start",
-      "url": "https://www.espn.com/nfl/story/_/id/50542595/cardinals-qb-beck-dealing-back-spasms-johnson-start",
-      "summary": "The Cardinals are preparing veteran quarterback Josh Johnson to start Sunday vs. the Chiefs as rookie Carson Beck deals with back spasms, coach Mike LaFleur said Friday.",
-      "published": "2026-11-21T01:36:03Z",
-      "source": "ESPN NFL",
+      "title": "Tom Brady says it's 'obvious' who the NFL's best quarterback is right now: 'Numbers don't lie'",
+      "url": "https://www.cbssports.com/nfl/news/tom-brady-says-its-obvious-who-nfls-best-quarterback-is-right-now/",
+      "summary": "There is one QB who's playing at a higher level than any other QB in the league right now, according to Brady",
+      "published": "Sat, 21 Nov 2026 13:01:35 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
-      "teams": [
-        "ARI",
-        "KC"
-      ]
-    },
-    {
-      "title": "Patriots QB Drake Maye has fractured fibula, sources say",
-      "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
-      "summary": "Patriots quarterback Drake Maye has a fractured right fibula, and receiver A.J. Brown has a hamstring injury, sources told ESPN's Mike Reiss and Adam Schefter.",
-      "published": "2026-11-20T19:36:45Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
-      "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
-      "summary": "The Colts have cut quarterback Daniel Jones after a challenging 11-game stint in 2026 and are turning to Anthony Richardson Sr. to start going forward.",
-      "published": "2026-11-20T20:00:49Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "IND"
-      ]
-    },
-    {
-      "title": "Rams' Puka Nacua has MCL surgery, likely done for regular season",
-      "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
-      "summary": "Rams WR Puka Nacua, who is serving a three-game suspension while on IR, had surgery on his MCL and likely will miss at least the rest of the regular season.",
-      "published": "2026-11-20T18:19:07Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA"
-      ]
-    },
-    {
-      "title": "Can Ravens keep the Marlon Humphrey controversy from becoming a distraction?",
-      "url": "https://www.espn.com/nfl/story/_/id/50541178/ravens-avoid-marlon-humphrey-controversy-distraction",
-      "summary": "While there's more to the cornerback's story, one Baltimore teammate says: \"We have enough things to worry about.\"",
-      "published": "2026-11-20T17:12:30Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL"
-      ]
+      "teams": []
     },
     {
       "title": "49ers lose shot at breaking NFL record for most miles traveled due to Week 11 travel detour en route to Mexico",
@@ -829,46 +738,6 @@
       "teams": [
         "HOU",
         "IND"
-      ]
-    },
-    {
-      "title": "Colts vs. Texans odds, picks, prediction: NFL Week 11 best bets, player props for Thursday Night Football",
-      "url": "https://www.cbssports.com/betting/news/colts-vs-texans-odds-picks-prediction-nfl-week-11-best-bets-player-props-for-thursday-night-football/",
-      "summary": "Why backing the under on a 44-point total and targeting rushing props for David Montgomery and Daniel Jones create the best betting value for this divisional clash",
-      "published": "Thu, 19 Nov 2026 23:45:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND"
-      ]
-    },
-    {
-      "title": "How Aidan Hutchinson injury could grant Lions a salary cap credit in 2027",
-      "url": "https://www.cbssports.com/nfl/news/how-aidan-hutchinson-injury-could-grant-lions-a-salary-cap-credit-in-2027/",
-      "summary": "The Lions would not be the first team to receive cap relief for an injured player",
-      "published": "Thu, 19 Nov 2026 23:37:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "Rams' Puka Nacua suspended three games, will serve ban during injured reserve stint",
-      "url": "https://www.cbssports.com/nfl/news/rams-puka-nacua-suspended-three-games-will-serve-ban-during-injured-reserve-stint/",
-      "summary": "The NFL threatened Nacua with potential \"banishment\" from the league for future violations of the personal conduct policy",
-      "published": "Thu, 19 Nov 2026 21:46:34 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA"
       ]
     }
   ],
