@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-11-21T00:13:37.896188+00:00",
-  "checked_at_utc": "2026-11-21T00:13:37.896188+00:00",
+  "updated_at_utc": "2026-11-21T07:20:44.459046+00:00",
+  "checked_at_utc": "2026-11-21T07:20:44.459046+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 13,
+      "items": 19,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 29
+      "items": 31
     },
     "FOX Sports NFL": {
       "ok": true,
@@ -379,6 +379,86 @@
       ]
     },
     {
+      "title": "Bears rule out CB Kyler Gordon; RB Kyle Monangai cleared to return",
+      "url": "https://www.espn.com/nfl/story/_/id/50542720/bears-rule-cb-kyler-gordon-vs-saints",
+      "summary": "The Bears will be without nickel corner Kyler Gordon when they host the Saints, while running back Kyle Monangai, wide receiver Luther Burden III and defensive tackle Jeffery Simmons are expected to play.",
+      "published": "2026-11-20T20:03:03Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "NO"
+      ]
+    },
+    {
+      "title": "Cardinals QB Carson Beck dealing with back spasms; Josh Johnson may start",
+      "url": "https://www.espn.com/nfl/story/_/id/50542595/cardinals-qb-beck-dealing-back-spasms-johnson-start",
+      "summary": "The Cardinals are preparing veteran quarterback Josh Johnson to start Sunday vs. the Chiefs as rookie Carson Beck deals with back spasms, coach Mike LaFleur said Friday.",
+      "published": "2026-11-21T01:36:03Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "ARI",
+        "KC"
+      ]
+    },
+    {
+      "title": "Patriots QB Drake Maye has fractured fibula, sources say",
+      "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
+      "summary": "Patriots quarterback Drake Maye has a fractured right fibula, and receiver A.J. Brown has a hamstring injury, sources told ESPN's Mike Reiss and Adam Schefter.",
+      "published": "2026-11-20T19:36:45Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "NE"
+      ]
+    },
+    {
+      "title": "Colts cut QB Daniel Jones, turn to Anthony Richardson Sr. for next start",
+      "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
+      "summary": "The Colts have cut quarterback Daniel Jones after a challenging 11-game stint in 2026 and are turning to Anthony Richardson Sr. to start going forward.",
+      "published": "2026-11-20T20:00:49Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "IND"
+      ]
+    },
+    {
+      "title": "Rams' Puka Nacua has MCL surgery, likely done for regular season",
+      "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
+      "summary": "Rams WR Puka Nacua, who is serving a three-game suspension while on IR, had surgery on his MCL and likely will miss at least the rest of the regular season.",
+      "published": "2026-11-20T18:19:07Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "Can Ravens keep the Marlon Humphrey controversy from becoming a distraction?",
+      "url": "https://www.espn.com/nfl/story/_/id/50541178/ravens-avoid-marlon-humphrey-controversy-distraction",
+      "summary": "While there's more to the cornerback's story, one Baltimore teammate says: \"We have enough things to worry about.\"",
+      "published": "2026-11-20T17:12:30Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
       "title": "49ers lose shot at breaking NFL record for most miles traveled due to Week 11 travel detour en route to Mexico",
       "url": "https://www.cbssports.com/nfl/news/49ers-lose-shot-breaking-nfl-record-most-miles-traveled-week-11-travel-detour/",
       "summary": "The 49ers are taking a detour in Week 11 that's going to cost them the NFL record for most miles traveled",
@@ -406,7 +486,7 @@
       "title": "Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess",
       "url": "https://www.cbssports.com/nfl/news/colts-daniel-jones-not-trading-qb-jonathan-taylor-deadline-major-second-guess/",
       "summary": "Indy has put themselves in a very tough spot after sitting on the fence at the deadline.",
-      "published": "Fri, 20 Nov 2026 21:43:00 +0000",
+      "published": "Sat, 21 Nov 2026 01:37:50 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -763,6 +843,32 @@
       "teams": [
         "HOU",
         "IND"
+      ]
+    },
+    {
+      "title": "How Aidan Hutchinson injury could grant Lions a salary cap credit in 2027",
+      "url": "https://www.cbssports.com/nfl/news/how-aidan-hutchinson-injury-could-grant-lions-a-salary-cap-credit-in-2027/",
+      "summary": "The Lions would not be the first team to receive cap relief for an injured player",
+      "published": "Thu, 19 Nov 2026 23:37:50 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DET"
+      ]
+    },
+    {
+      "title": "Rams' Puka Nacua suspended three games, will serve ban during injured reserve stint",
+      "url": "https://www.cbssports.com/nfl/news/rams-puka-nacua-suspended-three-games-will-serve-ban-during-injured-reserve-stint/",
+      "summary": "The NFL threatened Nacua with potential \"banishment\" from the league for future violations of the personal conduct policy",
+      "published": "Thu, 19 Nov 2026 21:46:34 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA"
       ]
     }
   ],
