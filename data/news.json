@@ -1,25 +1,223 @@
 {
-  "updated_at_utc": "2026-11-22T08:01:18.860382+00:00",
-  "checked_at_utc": "2026-11-22T08:01:18.860382+00:00",
+  "updated_at_utc": "2026-11-22T16:11:41.903593+00:00",
+  "checked_at_utc": "2026-11-22T16:11:41.903593+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 33
+      "items": 25
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 16,
+      "items": 21,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "How To Bet Today's Best Games: Bucs-Lions, Vikings-49ers, More \u2014 Nov. 22",
+      "url": "https://www.foxsports.com/stories/nfl/how-bet-todays-best-games-bucs-lions-vikings-49ers-more-nov-22",
+      "summary": "Check out how to bet the top events on Nov. 22, including three NFL barnburners.",
+      "published": "Sun, 22 Nov 2026 10:27:29 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "MIN",
+        "SF",
+        "TB"
+      ]
+    },
+    {
+      "title": "2026 NFL Odds Week 11: Lines, Spreads, Results For All 13 Games",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-11-lines-spreads-results-all-13-games",
+      "summary": "Check out the lines for every NFL Week 11 game, beginning with Colts-Texans on Thursday.",
+      "published": "Sun, 22 Nov 2026 10:19:28 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "HOU",
+        "IND"
+      ]
+    },
+    {
+      "title": "How to Watch Vikings vs. 49ers: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-vikings-vs-49ers-tv-channel-live-stream-time-nov-22-2026",
+      "summary": "Vikings vs. 49ers kicks off Sunday, Nov. 22, at 8:20 p.m. ET on NBC. Get the TV channel, streaming options and players to watch for this game in Mexico City.",
+      "published": "Sun, 22 Nov 2026 08:07:36 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN",
+        "SF"
+      ]
+    },
+    {
+      "title": "How to Watch Raiders vs. Broncos: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-raiders-vs-broncos-tv-channel-live-stream-time-nov-22-2026",
+      "summary": "Raiders vs. Broncos kicks off Sunday, Nov. 22, at 4:25 p.m. ET on CBS. Get the TV channel, streaming options and players to watch for this game in Denver.",
+      "published": "Sun, 22 Nov 2026 08:07:23 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "LV"
+      ]
+    },
+    {
+      "title": "How to Watch Jaguars vs. Giants: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-jaguars-vs-giants-tv-channel-live-stream-time-nov-22-2026",
+      "summary": "Jaguars vs. Giants kicks off Sunday, Nov. 22, at 4:25 p.m. ET on CBS. Get the TV channel, streaming options and players to watch for this game in East Rutherford.",
+      "published": "Sun, 22 Nov 2026 08:07:07 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX",
+        "NYG"
+      ]
+    },
+    {
+      "title": "How to Watch Jets vs. Chargers: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-jets-vs-chargers-tv-channel-live-stream-time-nov-22-2026",
+      "summary": "Jets vs. Chargers kicks off Sunday, Nov. 22, at 4:05 p.m. ET on FOX. Get the FOX One streaming info and players to watch for this game in Inglewood.",
+      "published": "Sun, 22 Nov 2026 08:06:54 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LAC",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "How to Watch Steelers vs. Eagles: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-eagles-tv-channel-live-stream-time-nov-22-2026",
+      "summary": "Steelers vs. Eagles kicks off Sunday, Nov. 22, at 1 p.m. ET on CBS. Get the TV channel, streaming options and players to watch for this game in Philadelphia.",
+      "published": "Sun, 22 Nov 2026 08:06:25 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PHI",
+        "PIT"
+      ]
+    },
+    {
+      "title": "How to Watch Cardinals vs. Chiefs: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cardinals-vs-chiefs-tv-channel-live-stream-time-nov-22-2026",
+      "summary": "Cardinals vs. Chiefs kicks off Sunday, Nov. 22, at 1 p.m. ET on CBS. Get the TV channel, streaming options and players to watch for this game in Kansas City.",
+      "published": "Sun, 22 Nov 2026 08:06:10 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ARI",
+        "KC"
+      ]
+    },
+    {
+      "title": "How to Watch Dolphins vs. Bills: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-dolphins-vs-bills-tv-channel-live-stream-time-nov-22-2026",
+      "summary": "Dolphins vs. Bills kicks off Sunday, Nov. 22, at 1 p.m. ET on CBS. Get the TV channel, streaming options and players to watch for this game in Orchard Park.",
+      "published": "Sun, 22 Nov 2026 08:05:56 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "MIA"
+      ]
+    },
+    {
+      "title": "How to Watch Ravens vs. Panthers: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-ravens-vs-panthers-tv-channel-live-stream-time-nov-22-2026",
+      "summary": "Ravens vs. Panthers kicks off Sunday, Nov. 22, at 1 p.m. ET on FOX. Get the FOX One streaming info and players to watch for this game in Charlotte.",
+      "published": "Sun, 22 Nov 2026 08:04:02 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CAR"
+      ]
+    },
+    {
+      "title": "How to Watch Titans vs. Cowboys: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-titans-vs-cowboys-tv-channel-live-stream-time-nov-22-2026",
+      "summary": "Titans vs. Cowboys kicks off Sunday, Nov. 22, at 1 p.m. ET on FOX in Week 11. Get the FOX One streaming info and players to watch for this game in Arlington.",
+      "published": "Sun, 22 Nov 2026 08:03:53 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "TEN"
+      ]
+    },
+    {
+      "title": "How to Watch Buccaneers vs. Lions: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-buccaneers-vs-lions-tv-channel-live-stream-time-nov-22-2026",
+      "summary": "Buccaneers vs. Lions kicks off Sunday, Nov. 22, at 1 p.m. ET on FOX in Week 11. Get the FOX One streaming info and players to watch for this game in Detroit.",
+      "published": "Sun, 22 Nov 2026 08:03:43 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DET",
+        "TB"
+      ]
+    },
+    {
+      "title": "How to Watch Saints vs. Bears: TV Channel, Live Stream, Time",
+      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-saints-vs-bears-tv-channel-live-stream-time-nov-22-2026",
+      "summary": "Saints vs. Bears kicks off Sunday, Nov. 22, at 1 p.m. ET on FOX in Week 11. Get the FOX One streaming info and players to watch for this game in Chicago.",
+      "published": "Sun, 22 Nov 2026 08:02:36 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "NO"
+      ]
+    },
+    {
+      "title": "Chargers vs. Jets Prediction, Odds, Pick For NFL Week 11",
+      "url": "https://www.foxsports.com/stories/nfl/chargers-vs-jets-prediction-odds-pick-nfl-week-11",
+      "summary": "Get the latest odds, prediction and pick for the Week 11 Chargers vs. Jets game, as well as information on how to watch.",
+      "published": "Sun, 22 Nov 2026 04:05:36 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LAC",
+        "NYJ"
+      ]
+    },
     {
       "title": "Cowboys vs. Titans Prediction, Odds, Pick For NFL Week 11",
       "url": "https://www.foxsports.com/stories/nfl/cowboys-vs-titans-prediction-odds-pick-nfl-week-11",
@@ -77,20 +275,6 @@
       ]
     },
     {
-      "title": "2026 NFL Odds Week 11: Lines, Spreads, Results For All 13 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-11-lines-spreads-results-all-13-games",
-      "summary": "Check out the lines for every NFL Week 11 game, beginning with Colts-Texans on Thursday.",
-      "published": "Sat, 21 Nov 2026 10:13:52 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND"
-      ]
-    },
-    {
       "title": "Who's The NFL's MVP So Far? Who'll Win The Super Bowl? League Execs Pick Their Faves",
       "url": "https://www.foxsports.com/stories/nfl/nfl-mvp-super-bowl-predictions-joe-burrow-josh-allen",
       "summary": "Most people around the NFL seem to think the MVP race is down to two QBs, while some think a handful of teams can win it all.",
@@ -130,37 +314,24 @@
       ]
     },
     {
-      "title": "Patriots Reportedly Get Inauspicious Injury Updates On Drake Maye, A.J. Brown",
-      "url": "https://www.foxsports.com/stories/nfl/patriots-drake-maye-aj-brown-injury-updates",
-      "summary": "The New England Patriots were reportedly dealt negative injury updates on quarterback Drake Maye and wide receiver A.J. Brown.",
-      "published": "Fri, 20 Nov 2026 14:42:19 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Tom Jackson, Broncos star LB and Hall of Fame broadcaster at ESPN, dies at 75",
+      "url": "https://www.espn.com/nfl/story/_/id/50561778/tom-jackson-broncos-star-espn-legend-dies-75",
+      "summary": "Tom Jackson, a foundational player on the Broncos \"Orange Crush\" defense and a fixture at ESPN as a Hall of Fame broadcaster, has died. He was 75.",
+      "published": "2026-11-22T15:52:22Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
       "teams": [
-        "NE"
+        "DEN"
       ]
     },
     {
-      "title": "Cardinals' QB Carson Beck dealing with back spasms, meaning 40-year-old Josh Johnson could start",
-      "url": "https://www.foxsports.com/stories/nfl/arizona-cardinals-qb-carson-beck-injury-josh-johnson",
-      "summary": "Arizona Cardinals rookie quarterback Carson Beck will not practice Friday due to back spasms, and Josh Johnson might start in his place on Sunday.",
-      "published": "Fri, 20 Nov 2026 14:05:15 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ARI"
-      ]
-    },
-    {
-      "title": "That's A Wrap: Colts Coach Shane Steichen Reveals Team Cut Daniel Jones",
-      "url": "https://www.foxsports.com/stories/nfl/colts-release-daniel-jones-shane-steichen-presser-indianapolis-depth-chart",
-      "summary": "The Indianapolis Colts have released quarterback Daniel Jones, who was in the first season of a two-year, $88 million deal.",
-      "published": "Fri, 20 Nov 2026 13:14:12 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Sources: Ex-Colts QB Daniel Jones likely to wait before signing with new team",
+      "url": "https://www.espn.com/nfl/story/_/id/50557657/sources-daniel-jones-likely-wait-joining-new-team",
+      "summary": "If Daniel Jones clear waivers and becomes a free agent, the QB is unlikely to sign immediately, preferring to wait for the right opportunity, sources said.",
+      "published": "2026-11-22T15:07:28Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "transaction",
@@ -169,53 +340,94 @@
       ]
     },
     {
-      "title": "Jets Coach Aaron Glenn Gives Geno Smith Injury Update For Chargers Clash",
-      "url": "https://www.foxsports.com/stories/nfl/geno-smith-injury-update-aaron-glenn-presser-jets-chargers",
-      "summary": "Jets quarterback Geno Smith was set to fully participate in practice Friday and appears on track to start against the Chargers on Sunday.",
-      "published": "Fri, 20 Nov 2026 11:16:45 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LAC",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "2026 NFL Week 11 Best Bets, Expert Picks: Bucs Are Live As Touchdown Underdogs",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-week-11-best-bets-expert-picks-bucs-live-touchdown-underdogs",
-      "summary": "Geoff Schwartz likes Tampa Bay to keep it close in Detroit and has a Christian McCaffrey prop for Vikings-49ers in Mexico City.",
-      "published": "Fri, 20 Nov 2026 08:54:20 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Sources: Colts shut down Alec Pierce for season, plan for WR's return in 2027",
+      "url": "https://www.espn.com/nfl/story/_/id/50551004/sources-colts-shutting-alec-pierce-rest-season",
+      "summary": "The Colts are shutting down Alec Pierce for the rest of the season and are planning for the WR to return fully healthy in 2027, sources told NFL Network.",
+      "published": "2026-11-22T13:32:52Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "MIN",
-        "SF",
-        "TB"
+        "IND"
       ]
     },
     {
-      "title": "Tom Brady Shuts Down Possibility Of Unretiring And Playing In The NFL \u2014 Again",
-      "url": "https://www.foxsports.com/stories/nfl/tom-brady-shuts-down-possibility-unretiring-playing-nfl-again",
-      "summary": "If any Patriots fans had hope that Tom Brady would suit up for the team again after Drake Maye's injury, they should put those hopes to rest.",
-      "published": "Thu, 19 Nov 2026 20:44:23 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Kirk Cousins on pace to make history as 1st QB to play 18 regular-season games",
+      "url": "https://www.espn.com/nfl/story/_/id/50557919/vikings-qb-kirk-cousins-pace-make-nfl-history",
+      "summary": "Vikings quarterback Kirk Cousins is poised to become the first quarterback in the modern era to play 18 regular-season games.",
+      "published": "2026-11-22T15:49:34Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "MIN"
+      ]
+    },
+    {
+      "title": "Sources: Bucs' Baker Mayfield has plantar fasciitis, determined to keep playing",
+      "url": "https://www.espn.com/nfl/story/_/id/50550285/sources-buccaneers-qb-baker-mayfield-plantar-fasciitis",
+      "summary": "Baker Mayfield is dealing with a painful case of plantar fasciitis, sources told NFL Network, an injury that the Bucs QB is determined to play through.",
+      "published": "2026-11-22T14:24:15Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "NE"
+        "TB"
       ]
     },
     {
-      "title": "The NFL's Top 10 Offensive And Defensive Units This Season",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-top-10-offensive-and-defensive-units-this-season",
-      "summary": "Here are the best units in the NFL this season, headlined by the Vikings defense and 49ers offense.",
-      "published": "Thu, 19 Nov 2026 20:37:55 -0500",
-      "source": "FOX Sports NFL",
+      "title": "NFL week 11 anytime TD best bets: There's value on Mark Andrews and a Tony Pollard revenge game",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-anytime-td-best-bets-mark-andrews/",
+      "summary": "Tony Pollard faces his former team, Justin Jefferson reunites with Kirk Cousins on an international stage and Josh Downs makes his Chiefs home debut",
+      "published": "Sun, 22 Nov 2026 16:02:27 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "NFL Week 11 upset alert: Can Titans shock Cowboys? Two straight losses for Steelers?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-upset-alert-predictions-steelers-titans-cowboys/",
+      "summary": "The Jets could also send the Chargers back into the loss column",
+      "published": "Sun, 22 Nov 2026 15:55:42 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "LAC",
+        "NYJ",
+        "PIT",
+        "TEN"
+      ]
+    },
+    {
+      "title": "Jaguars vs. Giants odds, picks, prediction, spread: Start time, betting preview, best bets for NFL Week 11",
+      "url": "https://www.cbssports.com/betting/news/jaguars-vs-giants-odds-picks-prediction-spread-start-time-betting-preview-best-bets-nfl-week-11/",
+      "summary": "Here's everything bettors need to know for Jaguars vs. Giants in NFL Week 11",
+      "published": "Sun, 22 Nov 2026 15:54:55 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Vikings vs. 49ers prediction, odds, betting preview: Sunday Night Football picks, best bets for Mexico City",
+      "url": "https://www.cbssports.com/betting/news/vikings-vs-49ers-prediction-odds-betting-preview-sunday-night-football-picks-best-bets-mexico-city/",
+      "summary": "Best bets and betting preview for 49ers vs. Vikings on Sunday Night Football in Mexico City",
+      "published": "Sun, 22 Nov 2026 15:41:50 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -225,22 +437,102 @@
       ]
     },
     {
-      "title": "2026 Super Bowl Predictions: Revising Our Preseason Picks As Thanksgiving Nears",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-lxi-predictions",
-      "summary": "Some of us would like a redo on our Super Bowl picks. Here's who we like to win it all at the season's halfway point.",
-      "published": "Thu, 19 Nov 2026 17:32:02 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Broncos Ring of Fame linebacker and Hall of Fame broadcaster Tom Jackson dies at 75",
+      "url": "https://www.cbssports.com/nfl/news/broncos-ring-of-fame-linebacker-hall-of-fame-broadcaster-tom-jackson-dies-at-75/",
+      "summary": "Jackson spent his entire career with the Broncos",
+      "published": "Sun, 22 Nov 2026 15:27:19 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN"
+      ]
+    },
+    {
+      "title": "Week 11 games that will impact NFL playoff races: Can anyone gain separation in NFC North or NFC South?",
+      "url": "https://www.cbssports.com/nfl/news/most-important-week-11-games-nfl-playoff-races/",
+      "summary": "Plus, can the Giants bounce back?",
+      "published": "Sun, 22 Nov 2026 15:02:14 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "NYG"
+      ]
+    },
+    {
+      "title": "Week 11 NFL betting promos: Get nearly $4,000 in bonuses from betting apps, sportsbooks for Sunday's games",
+      "url": "https://www.cbssports.com/betting/news/week-11-nfl-betting-promos-get-nearly-4000-in-bonuses-betting-apps-sportsbooks-sundays-games/",
+      "summary": "Top Week 11 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Sun, 22 Nov 2026 14:10:40 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": []
     },
     {
-      "title": "Police investigating whether Titans DE Harrell assaulted driver before crash",
-      "url": "https://www.espn.com/nfl/story/_/id/50558496/police-probing-whether-titans-de-harrell-assaulted-driver",
-      "summary": "Police are investigating whether Titans DE Jaylen Harrell assaulted a rideshare driver before a serious car crash that left him hospitalized.",
-      "published": "2026-11-22T04:31:20Z",
-      "source": "ESPN NFL",
+      "title": "Week 11 NFL odds, lines, totals, spreads for every game, including Eagles-Steelers, 49ers-Vikings, more",
+      "url": "https://www.cbssports.com/betting/news/week-11-nfl-betting-lines-odds-totals-spreads/",
+      "summary": "A look at the latest Week 11 NFL odds and updated lines for all 13 matchups.",
+      "published": "Sun, 22 Nov 2026 14:01:25 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN",
+        "PHI",
+        "PIT",
+        "SF"
+      ]
+    },
+    {
+      "title": "Why Jaguars' Trevor Lawrence has legitimate 2026 NFL MVP case, is destined to win one at some point",
+      "url": "https://www.cbssports.com/nfl/news/jaguars-trevor-lawrence-legitimate-2026-nfl-mvp-case-destined-win-one-some-point/",
+      "summary": "Across Lawrence's last 17 regular season games, he has 15-plus wins and 45-plus TD. He is only 1 of 10 QBs to achieve that feat",
+      "published": "Sun, 22 Nov 2026 14:01:37 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "2026 Week 11 NFL player props, picks, odds, best bets for Sunday's games include Patrick Mahomes, Tony Pollard",
+      "url": "https://www.cbssports.com/betting/news/2026-week-11-nfl-player-props-picks-odds-best-bets-sundays-games-include-patrick-mahomes-tony-pollard/",
+      "summary": "Bet on Week 11 NFL player props at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
+      "published": "Sun, 22 Nov 2026 13:45:43 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Vikings vs. 49ers odds: Best Sunday Night Football Mexico City first touchdown scorer picks, NFL predictions",
+      "url": "https://www.cbssports.com/prediction/news/vikings-vs-49ers-odds-best-sunday-night-football-mexico-city-first-touchdown-scorer-picks-nfl-predictions/",
+      "summary": "Here are our top picks for first touchdown prediction markets on the Vikings and 49ers' Sunday Night Football game in Mexico City",
+      "published": "Sun, 22 Nov 2026 13:30:51 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN",
+        "SF"
+      ]
+    },
+    {
+      "title": "Titans' Jaylen Harrell hospitalized after serious car accident, remains in hospital in Tampa",
+      "url": "https://www.cbssports.com/nfl/news/titans-jaylen-harrell-car-accident-hospital-tampa/",
+      "summary": "The Titans said edge defender Jaylen Harrell remains hospitalized and is receiving care after a serious car accident Friday night in his hometown of Tampa",
+      "published": "Sun, 22 Nov 2026 13:23:39 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -249,16 +541,37 @@
       ]
     },
     {
-      "title": "Sources: Rams' Puka Nacua out 4-5 months after knee surgery, will miss playoffs",
-      "url": "https://www.espn.com/nfl/story/_/id/50556613/sources-rams-puka-nacua-4-5-months-knee-surgery",
-      "summary": "Puka Nacua's recovery time from MCL surgery is considered to be four to five months, sources told ESPN, meaning he will miss the playoffs.",
-      "published": "2026-11-22T02:19:36Z",
-      "source": "ESPN NFL",
+      "title": "Rams' Puka Nacua had surgery on MCL injury, WR expected to miss rest of season and playoffs, per report",
+      "url": "https://www.cbssports.com/nfl/news/rams-puka-nacua-mcl-injury-surgery-out-for-season/",
+      "summary": "Nacua suffered the injury on the final play of the Rams' Week 9 win over the Commanders",
+      "published": "Sun, 22 Nov 2026 13:18:09 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "LA"
+        "LA",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Prisco's Week 11 NFL picks: 49ers over Vikings, Cowboys rout Titans, Panthers edge Ravens",
+      "url": "https://www.cbssports.com/nfl/news/priscos-week-11-nfl-picks-odds-expert-picks-predictions/",
+      "summary": "Pete Prisco reveals all of his Week 11 picks, including the Jaguars to handle the Giants on the road",
+      "published": "Sun, 22 Nov 2026 10:01:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CAR",
+        "DAL",
+        "JAX",
+        "MIN",
+        "NYG",
+        "SF",
+        "TEN"
       ]
     },
     {
@@ -289,30 +602,6 @@
       ]
     },
     {
-      "title": "Titans' Jaylen Harrell hospitalized after serious car accident, remains in hospital in Tampa",
-      "url": "https://www.cbssports.com/nfl/news/titans-jaylen-harrell-car-accident-hospital-tampa/",
-      "summary": "The Titans said edge defender Jaylen Harrell remains hospitalized and is receiving care after a serious car accident Friday night in his hometown of Tampa",
-      "published": "Sat, 21 Nov 2026 18:09:36 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "TEN"
-      ]
-    },
-    {
-      "title": "NFL odds, picks: Brinson's Week 11 best bets, player props, anytime TD scorers for Sunday's games",
-      "url": "https://www.cbssports.com/betting/news/nfl-odds-picks-brinsons-week-11-best-bets-player-props-anytime-td-scorers-for-sundays-games/",
-      "summary": "Steer clear of bloated double-digit spreads, grab the extra points with Philadelphia, and count on Dak Prescott to clear his passing total in a shootout",
-      "published": "Sat, 21 Nov 2026 16:43:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
       "title": "How to watch 49ers vs. Vikings in Mexico City: TV, streaming, betting odds for 'Sunday Night Football' clash",
       "url": "https://www.cbssports.com/nfl/news/how-to-watch-49ers-vikings-tv-streaming-betting-odds-sunday-night-football-clash/",
       "summary": "The NFC-leading 49ers face the Vikings in a Mexico City duel at Estadio Azteca",
@@ -324,19 +613,6 @@
       "teams": [
         "MIN",
         "SF"
-      ]
-    },
-    {
-      "title": "NFL week 11 anytime TD best bets: There's value on Mark Andrews and a Tony Pollard revenge game",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-anytime-td-best-bets-mark-andrews/",
-      "summary": "Tony Pollard faces his former team, Justin Jefferson reunites with Kirk Cousins on an international stage and Josh Downs makes his Chiefs home debut",
-      "published": "Sat, 21 Nov 2026 14:41:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC"
       ]
     },
     {
@@ -436,259 +712,6 @@
       "category": "game",
       "teams": [
         "NE"
-      ]
-    },
-    {
-      "title": "Patriots WR A.J. Brown expected to miss multiple weeks due to hamstring injury, per report",
-      "url": "https://www.cbssports.com/nfl/news/patriots-wr-aj-brown-hamstring-injury-update/",
-      "summary": "Brown has already missed multiple games this season and is now expected to miss at least the next few contests",
-      "published": "Fri, 20 Nov 2026 19:38:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Drake Maye has fractured right fibula, will not require surgery, per report",
-      "url": "https://www.cbssports.com/nfl/news/drake-maye-has-fractured-right-fibula-will-not-require-surgery-per-report/",
-      "summary": "Maye's injury will sideline him deep into the season, if he is able to return at all, per the report",
-      "published": "Fri, 20 Nov 2026 19:28:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "Cardinals turn to Josh Johnson \u2014 fourth starting QB in four weeks \u2014 with Carson Beck (back) sidelined",
-      "url": "https://www.cbssports.com/nfl/news/carson-beck-back-spasms-josh-johnson-force-cardinals-start-fourth-quarterback-four-weeks/",
-      "summary": "Johnson will make his season debut vs. Chiefs, the eighth team he's taken regular-season snaps for.",
-      "published": "Sat, 21 Nov 2026 20:12:19 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "ARI",
-        "KC"
-      ]
-    },
-    {
-      "title": "Colts release Daniel Jones: Landing spots for QB include Patriots, Ravens, Eagles",
-      "url": "https://www.cbssports.com/nfl/news/colts-release-qb-daniel-jones-possible-landing-spots/",
-      "summary": "Jones just completed his sixth straight game with an interception, the longest streak by a Colts player since Curtis Painter in 2011",
-      "published": "Fri, 20 Nov 2026 19:48:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "BAL",
-        "IND",
-        "NE",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Revisiting 2026 NFL Draft: Were the Saints wise in taking a chance on injury-prone Jordyn Tyson?",
-      "url": "https://www.cbssports.com/nfl/news/revisiting-2026-nfl-draft-saints-took-chance-on-jordyn-tyson/",
-      "summary": "New Orleans took a gamble on the explosive wideout at No. 8 overall, and his early impact alongside Tyler Shough is proving the top-10 talent was worth the durability concerns",
-      "published": "Fri, 20 Nov 2026 18:01:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "NO"
-      ]
-    },
-    {
-      "title": "Puka Nacua had surgery on MCL injury, will miss 'a couple of months,' Sean McVay says",
-      "url": "https://www.cbssports.com/nfl/news/rams-puka-nacua-injury-surgery-sean-mcvay/",
-      "summary": "Nacua suffered the injury on the final play of the Rams' Week 9 win over the Commanders",
-      "published": "Fri, 20 Nov 2026 17:35:03 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA",
-        "WAS"
-      ]
-    },
-    {
-      "title": "In Kansas City, Kenneth Walker III and the run game makes the Chiefs contenders again",
-      "url": "https://www.cbssports.com/nfl/news/in-kansas-city-kenneth-walker-iii-run-game-completely-transformed-chiefs-offense-super-bowl/",
-      "summary": "One of the league's most explosive running backs has the Chiefs looking like their old Super Bowl-winning selves.",
-      "published": "Fri, 20 Nov 2026 16:15:17 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC"
-      ]
-    },
-    {
-      "title": "Aidan Hutchinson speaks out on freak injury celebration: 'That's the last time I go airborne'",
-      "url": "https://www.cbssports.com/nfl/news/lions-aidan-hutchinson-speaks-out-freak-injury-celebration/",
-      "summary": "Hutchinson tore his ACL while celebrating a sack of New England's Drake Maye",
-      "published": "Fri, 20 Nov 2026 15:51:05 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "Lions' Jahmyr Gibbs laying early foundation for one of the best running back careers ever",
-      "url": "https://www.cbssports.com/nfl/news/lions-jahmyr-gibbs-laying-early-foundation-for-rb-goat-case/",
-      "summary": "Gibbs is only 3.5 years into his NFL career, and he's on a few different record-breaking paces",
-      "published": "Fri, 20 Nov 2026 15:34:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "NFL exploring possibility of implementing new travel rules for international games",
-      "url": "https://www.cbssports.com/nfl/news/nfl-exploring-possibility-implementing-new-travel-rules-international-games/",
-      "summary": "NFL teams might have to change the way they travel for international games",
-      "published": "Fri, 20 Nov 2026 15:28:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 11 bold predictions: Fernando Mendoza upsets Broncos, Tony Pollard breaks Cowboys",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-bold-predictions-fernando-mendoza-raiders-broncos/",
-      "summary": "Plus, Jahmyr Gibbs dominates Tampa Bay's No. 1 run defense",
-      "published": "Fri, 20 Nov 2026 13:57:35 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "DEN"
-      ]
-    },
-    {
-      "title": "C.J. Stroud keeps Texans' playoff hopes alive; CFB Week 12 picks; NBA's biggest disappointments",
-      "url": "https://www.cbssports.com/nfl/news/c-j-stroud-texans-playoffs-nfl-college-football-picks-nba-disappointments/",
-      "summary": "Plus, Puka Nacua draws a three-game suspension and NBA trade rumors swirl",
-      "published": "Fri, 20 Nov 2026 13:52:53 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "HOU"
-      ]
-    },
-    {
-      "title": "Week 11 best bets: Tony Pollard scores against former team, Lions win sixth straight game",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-best-bets-tony-pollard-cowboys-lions/",
-      "summary": "Plus, picks for every game on the schedule",
-      "published": "Fri, 20 Nov 2026 12:35:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "NFL Week 11 picks, best bets: Why 49ers beat Vikings in primetime, Bengals cover vs. Commanders",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-picks-best-bets-49ers-vikings-bengals-commanders/",
-      "summary": "Jordan Dajani gives his picks for Week 11 of the 2026 NFL season",
-      "published": "Fri, 20 Nov 2026 14:12:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "MIN",
-        "SF",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Bengals duo could break NFL record that has stood for 31 years: Ja'Marr Chase and Tee Higgins on historic pace",
-      "url": "https://www.cbssports.com/nfl/news/bengals-duo-could-break-nfl-record-jamarr-chase-tee-higgins-historic-pace/",
-      "summary": "Ja'Marr Chase and Tee Higgins could make NFL history for the red hot Bengals",
-      "published": "Fri, 20 Nov 2026 02:07:10 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN"
-      ]
-    },
-    {
-      "title": "Bills to retire franchise legend Andre Reed's No. 83 during the 2027 season",
-      "url": "https://www.cbssports.com/nfl/news/bills-to-retire-andre-reeds-no-83-during-the-2027-season/",
-      "summary": "Reed is Buffalo's career leader in every major receiving category",
-      "published": "Fri, 20 Nov 2026 00:46:54 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF"
-      ]
-    },
-    {
-      "title": "Texans vs. Colts odds, prediction, line, betting preview, start time: Thursday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/texans-vs-colts-odds-prediction-line-betting-preview-start-time-thursday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Colts vs. Texans on Thursday Night Football",
-      "published": "Fri, 20 Nov 2026 00:04:12 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND"
-      ]
-    },
-    {
-      "title": "Texans vs. Colts prediction: Houston looks to bounce back on 'TNF' vs. lowly Indy after rough Week 10 loss",
-      "url": "https://www.cbssports.com/nfl/news/texans-vs-colts-how-to-watch-odds-preview-prediction/",
-      "summary": "Plus, how to watch, what to know and a prediction before the 'Thursday Night Football' matchup",
-      "published": "Fri, 20 Nov 2026 00:38:59 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND"
-      ]
-    },
-    {
-      "title": "Colts vs. Texans odds, picks, prediction: NFL Week 11 best bets, player props for Thursday Night Football",
-      "url": "https://www.cbssports.com/betting/news/colts-vs-texans-odds-picks-prediction-nfl-week-11-best-bets-player-props-for-thursday-night-football/",
-      "summary": "Why backing the under on a 44-point total and targeting rushing props for David Montgomery and Daniel Jones create the best betting value for this divisional clash",
-      "published": "Thu, 19 Nov 2026 23:45:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND"
       ]
     }
   ],
