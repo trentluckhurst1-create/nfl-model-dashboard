@@ -1,25 +1,51 @@
 {
-  "updated_at_utc": "2026-11-22T21:49:47.104411+00:00",
-  "checked_at_utc": "2026-11-22T21:49:47.104411+00:00",
+  "updated_at_utc": "2026-11-23T02:02:12.279854+00:00",
+  "checked_at_utc": "2026-11-23T02:02:12.279854+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 12,
+      "items": 16,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 21
+      "items": 20
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 15,
+      "items": 7,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "Jeffery Simmons Sends Playful Warning To Tom Brady After Bears' Fifth Straight Win",
+      "url": "https://www.foxsports.com/stories/nfl/jeffery-simmons-sends-playful-warning-tom-brady-after-bears-fifth-straight-win",
+      "summary": "Bears star DL Jeffery Simmons managed to slip in a subtle jab at Tom Brady up in a postgame interview.",
+      "published": "Sun, 22 Nov 2026 20:19:22 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "How An Unheralded Bears Rookie WR Won Tom Brady's LFG Player Of The Game",
+      "url": "https://www.foxsports.com/stories/nfl/how-unheralded-bears-rookie-wr-won-tom-bradys-lfg-player-game",
+      "summary": "Chicago Bears rookie Zavion Thomas earned his first LFG Player Of The Game after a successful trick play and two critical third-down conversions.",
+      "published": "Sun, 22 Nov 2026 18:31:21 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
     {
       "title": "Jeffery Simmons' Impact Grows: 3 Takeaways From The Bears' Win Over The Saints",
       "url": "https://www.foxsports.com/stories/nfl/new-orleans-saints-vs-chicago-bears-takeaways-nfl-november-22-2026",
@@ -89,139 +115,51 @@
       ]
     },
     {
-      "title": "Packers Star Micah Parsons Expected To Play vs. Rams In Week 12",
-      "url": "https://www.foxsports.com/stories/nfl/micah-parsons-acl-injury-update-packers-rams",
-      "summary": "The Green Bay Packers will have their top defensive star back in action when they take the field against the Los Angeles Rams on Wednesday.",
-      "published": "Sun, 22 Nov 2026 11:49:32 -0500",
-      "source": "FOX Sports NFL",
+      "title": "How active NFL players continue to redefine all-time sack list",
+      "url": "https://www.espn.com/nfl/story/_/id/49545945/all-sack-list-tracker-myles-garrett-von-miller-aaron-donald",
+      "summary": "Myles Garrett's torrid pace up the all-time sack list paces active players making their moves among the greats.",
+      "published": "2026-11-23T01:49:27Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
-      "teams": [
-        "GB",
-        "LA"
-      ]
+      "teams": []
     },
     {
-      "title": "How To Bet Today's Best Games: Bucs-Lions, Vikings-49ers, More \u2014 Nov. 22",
-      "url": "https://www.foxsports.com/stories/nfl/how-bet-todays-best-games-bucs-lions-vikings-49ers-more-nov-22",
-      "summary": "Check out how to bet the top events on Nov. 22, including three NFL barnburners.",
-      "published": "Sun, 22 Nov 2026 10:27:29 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Week 11 NFL highlights: Best plays, moments, touchdowns, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026",
+      "summary": "Check here for all of the top moments, TDs and analysis from games at the Broncos, Jets, Cowboys, Eagles and more.",
+      "published": "2026-11-23T01:42:13Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DET",
-        "MIN",
-        "SF",
-        "TB"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 11: Lines, Spreads, Results For All 13 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-11-lines-spreads-results-all-13-games",
-      "summary": "Check out the lines for every NFL Week 11 game, beginning with Colts-Texans on Thursday.",
-      "published": "Sun, 22 Nov 2026 10:19:28 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND"
-      ]
-    },
-    {
-      "title": "How to Watch Vikings vs. 49ers: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-vikings-vs-49ers-tv-channel-live-stream-time-nov-22-2026",
-      "summary": "Vikings vs. 49ers kicks off Sunday, Nov. 22, at 8:20 p.m. ET on NBC. Get the TV channel, streaming options and players to watch for this game in Mexico City.",
-      "published": "Sun, 22 Nov 2026 08:07:36 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN",
-        "SF"
-      ]
-    },
-    {
-      "title": "How to Watch Raiders vs. Broncos: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-raiders-vs-broncos-tv-channel-live-stream-time-nov-22-2026",
-      "summary": "Raiders vs. Broncos kicks off Sunday, Nov. 22, at 4:25 p.m. ET on CBS. Get the TV channel, streaming options and players to watch for this game in Denver.",
-      "published": "Sun, 22 Nov 2026 08:07:23 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
+        "DAL",
         "DEN",
-        "LV"
+        "NYJ",
+        "PHI"
       ]
     },
     {
-      "title": "How to Watch Jaguars vs. Giants: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-jaguars-vs-giants-tv-channel-live-stream-time-nov-22-2026",
-      "summary": "Jaguars vs. Giants kicks off Sunday, Nov. 22, at 4:25 p.m. ET on CBS. Get the TV channel, streaming options and players to watch for this game in East Rutherford.",
-      "published": "Sun, 22 Nov 2026 08:07:07 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Tyler Shough voices confidence in Saints, Kellen Moore after 3-7 start",
+      "url": "https://www.espn.com/nfl/story/_/id/50566404/tyler-shough-confident-new-orleans-saints-kellen-moore",
+      "summary": "Two straight losses. Justin Reid being released. Run game a mess. Despite the challenges, there's belief New Orleans can turn things around.",
+      "published": "2026-11-23T01:25:56Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "transaction",
       "teams": [
-        "JAX",
-        "NYG"
+        "NO"
       ]
     },
     {
-      "title": "How to Watch Jets vs. Chargers: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-jets-vs-chargers-tv-channel-live-stream-time-nov-22-2026",
-      "summary": "Jets vs. Chargers kicks off Sunday, Nov. 22, at 4:05 p.m. ET on FOX. Get the FOX One streaming info and players to watch for this game in Inglewood.",
-      "published": "Sun, 22 Nov 2026 08:06:54 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LAC",
-        "NYJ"
-      ]
-    },
-    {
-      "title": "How to Watch Steelers vs. Eagles: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-eagles-tv-channel-live-stream-time-nov-22-2026",
-      "summary": "Steelers vs. Eagles kicks off Sunday, Nov. 22, at 1 p.m. ET on CBS. Get the TV channel, streaming options and players to watch for this game in Philadelphia.",
-      "published": "Sun, 22 Nov 2026 08:06:25 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PHI",
-        "PIT"
-      ]
-    },
-    {
-      "title": "How to Watch Cardinals vs. Chiefs: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-cardinals-vs-chiefs-tv-channel-live-stream-time-nov-22-2026",
-      "summary": "Cardinals vs. Chiefs kicks off Sunday, Nov. 22, at 1 p.m. ET on CBS. Get the TV channel, streaming options and players to watch for this game in Kansas City.",
-      "published": "Sun, 22 Nov 2026 08:06:10 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI",
-        "KC"
-      ]
-    },
-    {
-      "title": "How to Watch Dolphins vs. Bills: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-dolphins-vs-bills-tv-channel-live-stream-time-nov-22-2026",
-      "summary": "Dolphins vs. Bills kicks off Sunday, Nov. 22, at 1 p.m. ET on CBS. Get the TV channel, streaming options and players to watch for this game in Orchard Park.",
-      "published": "Sun, 22 Nov 2026 08:05:56 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Bills' Grand Theft Auto VI-themed jab at Dolphins tops NFL Week 11 trolls",
+      "url": "https://www.espn.com/nfl/story/_/id/50567903/nfl-week-11-trolls",
+      "summary": "NFL teams remained petty in Week 11, led by a petty post from the Buffalo Bills.",
+      "published": "2026-11-23T01:21:29Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -231,24 +169,88 @@
       ]
     },
     {
-      "title": "Bryce Young throws 2 TD passes, Chuba Hubbard scores twice as Panthers beat Ravens 35-33",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873068",
-      "summary": "\u2014 Bryce Young threw for 254 yards and two touchdowns, Chuba Hubbard ran for 120 yards and two more scores and the Carolina Panthers made a late defensive stop to beat Baltimore 35-33 on Sunday, sending the Ravens to their sixth straight loss.",
-      "published": "2026-11-22T21:46:35Z",
+      "title": "NFL Week 11: Big takeaways, questions and fantasy spin from Sunday's games",
+      "url": "https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026",
+      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.",
+      "published": "2026-11-23T02:01:39Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Judging overreactions to NFL Week 11: Joe Brady's Bills impact, Eagles' chances",
+      "url": "https://www.espn.com/nfl/story/_/id/50563318/week-11-overreactions-2026-graziano-bills-eagles-nfc-east",
+      "summary": "Is Brady the coach that can vault the Bills over the top? Is an NFC East three-peat still in play in Philly? We overreact to Week 11 NFL action.",
+      "published": "2026-11-23T01:08:32Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "BAL",
-        "CAR"
+        "BUF",
+        "PHI"
       ]
     },
     {
-      "title": "Jeffery Simmons gets 3 sacks as the Chicago Bears beat the New Orleans Saints 21-13",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873071",
-      "summary": "\u2014 Jeffery Simmons had three sacks, Caleb Williams threw two touchdown passes and the Chicago Bears beat the New Orleans Saints 21-13 on Sunday for their fifth consecutive win.",
-      "published": "2026-11-22T21:40:41Z",
+      "title": "Giants intercept Trevor Lawrence twice as they hold on to beat the Jaguars 23-18",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873069",
+      "summary": "\u2014 J.J. McCarthy threw a touchdown pass to Malik Nabers, Abdul Carter and the defense flustered Trevor Lawrence throughout and the New York Giants held on to defeat the Jacksonville Jaguars 23-18 on Sunday, bouncing back from a bad loss and ending the...",
+      "published": "2026-11-23T01:03:31Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX",
+        "NYG"
+      ]
+    },
+    {
+      "title": "Jonah Coleman powers Broncos past Raiders 38-24 as Denver honors the late Tom Jackson",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873075",
+      "summary": "\u2014 Rookie Jonah Coleman ran for a season-best 111 yards and three touchdowns and the Denver Broncos beat the Las Vegas Raiders 38-24 on a solemn Sunday in the Mile High City as they honored \u201cOrange Crush\u201d and ESPN great",
+      "published": "2026-11-23T00:59:31Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "LV"
+      ]
+    },
+    {
+      "title": "NFL Week 11 arrivals: George Kittle rocks luchador mask ahead of SNF in Mexico",
+      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
+      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
+      "published": "2026-11-23T01:00:32Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Chargers' Justin Herbert lands in concussion protocol",
+      "url": "https://www.espn.com/nfl/story/_/id/50567478/chargers-justin-herbert-lands-concussion-protocol",
+      "summary": "Quarterback Justin Herbert is in the concussion protocol, the Chargers said after Sunday's 27-24 loss to the Jets in Inglewood, California.",
+      "published": "2026-11-23T01:00:45Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LAC",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Jeffery Simmons matches career high with 3 sacks in Bears' win",
+      "url": "https://www.espn.com/nfl/story/_/id/50567207/jeffery-simmons-matches-career-high-3-sacks-bears-win",
+      "summary": "Jeffery Simmons recorded three sacks in the Bears' 21-13 win over the Saints on Sunday, which tied his single-game career high.",
+      "published": "2026-11-23T01:15:07Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -259,24 +261,24 @@
       ]
     },
     {
-      "title": "Jared Goff throws 2 TDs, Jahmyr Gibbs runs for 2 more and Lions beat Bucs 31-21 for 6th straight win",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873072",
-      "summary": "\u2014 Jared Goff threw two touchdown passes through three quarters and Jahmyr Gibbs ran for two scores in the fourth, helping the Detroit Lions pull away and beat the",
-      "published": "2026-11-22T21:31:32Z",
+      "title": "Jets score on first 5 drives and edge Chargers 27-24 to snap 5-game skid",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873074",
+      "summary": "\u2014 Mired in a losing season, New York Jets quarterback Geno Smith's efficiency has been largely overlooked with the offense lagging. Sterling Shepard helped change that Sunday, catching two touchdown passes from Smith and potentially earning himself a...",
+      "published": "2026-11-23T00:03:31Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
+      "category": "qb",
       "teams": [
-        "DET",
-        "TB"
+        "LAC",
+        "NYJ"
       ]
     },
     {
-      "title": "Eagles snap 7-game losing streak and keep Steelers winless in Philly since 1965 with 19-16 victory",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873076",
-      "summary": "\u2014 Saquon Barkley ran 38 yards for a touchdown to provide a rare spark for the Eagles and helped Philadelphia snap a seven-game losing streak with a 19-16 win over an ineffective Aaron Rodgers and the Pittsburgh Steelers on Sunday.",
-      "published": "2026-11-22T21:29:32Z",
+      "title": "Eagles' Riq Woolen benched after missed tackles vs. Steelers",
+      "url": "https://www.espn.com/nfl/story/_/id/50567158/eagles-riq-woolen-benched-missed-tackles-vs-steelers",
+      "summary": "Eagles cornerback Riq Woolen was benched in favor of veteran Jonathan Jones late in the first half of Sunday's 19-16 win over the Steelers.",
+      "published": "2026-11-23T00:14:53Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -287,51 +289,38 @@
       ]
     },
     {
-      "title": "NFL Week 11: Big takeaways, questions and fantasy spin from Sunday's games",
-      "url": "https://www.espn.com/nfl/story/_/id/50563342/week-11-sunday-games-takeaways-questions-2026",
-      "summary": "Our NFL Nation reporters react to all the action, answering the biggest questions coming out of each Sunday game. Here's what we learned from Week 11.",
-      "published": "2026-11-22T21:47:20Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Bills' defense feasts in 26-9 win over injury-depleted Dolphins",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873070",
-      "summary": "\u2014 Greg Rousseau had two sacks, including his team-leading 10th this season, and Buffalo's defense bailed out the Bills' sputtering Josh Allen-led offense in a 26-9 win over the injury-depleted division rival Miami Dolphins on Sunday.",
-      "published": "2026-11-22T21:22:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "BUF",
-        "MIA"
-      ]
-    },
-    {
-      "title": "Week 11 NFL highlights: Best plays, moments, touchdowns, more",
-      "url": "https://www.espn.com/nfl/story/_/id/50562956/week-11-highlights-sunday-best-plays-touchdowns-2026",
-      "summary": "Check here for all of the top moments, TDs and analysis from games at the Cowboys, Chiefs, Eagles, Panthers and more.",
-      "published": "2026-11-22T21:20:56Z",
+      "title": "'Locked into the moment,' Bryce Young rallies first-place Panthers past Ravens",
+      "url": "https://www.espn.com/nfl/story/_/id/50567146/young-authors-game-winning-drive-first-place-panthers",
+      "summary": "In a back-and-forth game laced with lead changes, Bryce Young rallied the Panthers to a 35-33 home win over the Baltimore Ravens on Sunday at Bank of America Stadium, a second straight victory for the 5-5 Panthers that padded lead in the NFC South.",
+      "published": "2026-11-23T01:28:16Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CAR",
-        "DAL",
-        "KC",
-        "PHI"
+        "BAL",
+        "CAR"
       ]
     },
     {
-      "title": "Dak Prescott accounts for 5 TDs as the Cowboys roll to a 51-30 victory over the Titans",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873073",
-      "summary": "\u2014 Dak Prescott threw four touchdown passes and ran for a score, and the Dallas Cowboys reached the end zone on their first six drives in a 51-30 victory over the Tennessee Titans on Sunday.",
-      "published": "2026-11-22T21:14:31Z",
+      "title": "Jesse Minter: I take responsibility for latest Ravens loss",
+      "url": "https://www.espn.com/nfl/story/_/id/50567139/jesse-minter-take-responsibility-latest-ravens-loss",
+      "summary": "Ravens coach Jesse Minter took accountability after Baltimore's 35-33 setback to the Panthers extended the NFL's longest active losing streak to six games.",
+      "published": "2026-11-23T00:50:05Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BAL",
+        "CAR"
+      ]
+    },
+    {
+      "title": "Dak Prescott continues hot streak, salutes Cowboys offense after rout of Titans",
+      "url": "https://www.espn.com/nfl/story/_/id/50566873/dak-prescott-continues-hot-streak-leads-cowboys-titans",
+      "summary": "Dak Prescott completed 28 of 33 passes for 325 yards with four TDs, no interceptions and a rushing score in the Cowboys' 51-30 win against the Titans.",
+      "published": "2026-11-23T01:14:14Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -342,38 +331,93 @@
       ]
     },
     {
-      "title": "NFL Week 11 arrivals: Broncos LB Alex Singleton honors Tom Jackson with jersey",
-      "url": "https://www.espn.com/nfl/story/_/id/50535179/nfl-week-11-fashionable-arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-22T21:03:04Z",
-      "source": "ESPN NFL",
+      "title": "49ers vs. Vikings prediction, odds, betting preview: Sunday Night Football picks, best bets for Mexico City",
+      "url": "https://www.cbssports.com/betting/news/49ers-vs-vikings-prediction-odds-betting-preview-sunday-night-football-picks-best-bets-mexico-city/",
+      "summary": "Best bets and betting preview for 49ers vs. Vikings on Sunday Night Football in Mexico City",
+      "published": "Mon, 23 Nov 2026 01:09:46 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "DEN"
+        "MIN",
+        "SF"
       ]
     },
     {
-      "title": "Mahomes throws 3 TD passes, Kelce catches 2 of them, as KC routs Cardinals 34-7 for 3rd straight win",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873067",
-      "summary": "\u2014 Patrick Mahomes threw for 324 yards and three touchdowns in just over three quarters, Travis Kelce caught two of the TD passes, and the Kansas City Chiefs whipped the Arizona Cardinals 34-7 on Sunday to take some momentum into a crucial five-week...",
-      "published": "2026-11-22T20:56:33Z",
-      "source": "ESPN NFL",
+      "title": "NFL Week 11 winners and losers: Cowboys offense makes history in get-right win, Steelers slump",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-winners-losers-cowboys-offense-makes-history-get-right-win-steelers-slump/",
+      "summary": "Dallas scored on all but one possession in a bounce-back victory, while Pittsburgh's postseason hopes took a hit",
+      "published": "Mon, 23 Nov 2026 01:07:17 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ARI",
-        "KC"
+        "DAL",
+        "PIT"
       ]
     },
     {
-      "title": "Steelers WR DK Metcalf ejected from game against Eagles",
-      "url": "https://www.espn.com/nfl/story/_/id/50564475/steelers-wr-dk-metcalf-ejected-game-eagles",
-      "summary": "Steelers wide receiver DK Metcalf was ejected in the third quarter of Sunday's game against the Eagles for unsportsmanlike conduct.",
-      "published": "2026-11-22T21:36:02Z",
-      "source": "ESPN NFL",
+      "title": "Justin Herbert in concussion protocol after loss to Jets: Chargers QB played entire game",
+      "url": "https://www.cbssports.com/nfl/news/justin-herbert-concussion-protocol-update-jets/",
+      "summary": "Herbert took some big shots late in the game but did not exit",
+      "published": "Mon, 23 Nov 2026 01:05:39 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LAC",
+        "NYJ"
+      ]
+    },
+    {
+      "title": "Vikings vs. 49ers picks, predictions, player props: Expert's best bets for NFL Week 11 Sunday Night Football",
+      "url": "https://www.cbssports.com/betting/news/vikings-vs-49ers-picks-predictions-player-props-experts-best-bets-for-nfl-week-11-sunday-night-football/",
+      "summary": "Brian Flores brings a 5-0 mark against Kyle Shanahan into Mexico City as an underdog gets the nod to win outright, alongside prime targets for George Kittle and Justin Jefferson",
+      "published": "Mon, 23 Nov 2026 00:01:44 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "MIN",
+        "SF"
+      ]
+    },
+    {
+      "title": "DK Metcalf's bad season just got worse. What happens now for Steelers embattled receiver?",
+      "url": "https://www.cbssports.com/nfl/news/what-happens-now-steelers-embattled-receiver-dk-metcalf/",
+      "summary": "It's safe for Metcalf to be considered the worst trade acquisition in Steelers history. Now he faces a possible suspension and an uncertain future in Pittsburgh",
+      "published": "Mon, 23 Nov 2026 01:12:30 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Week 11 overreactions: Jesse Minter one-and-done? Offensive Player of the Year award winner emerging?",
+      "url": "https://www.cbssports.com/nfl/news/week-11-overreactions-jesse-minter-one-and-done-offensive-player-year-award-winner-emerging/",
+      "summary": "Plus, the Steelers are once again facing a familiar end to their season",
+      "published": "Sun, 22 Nov 2026 23:22:46 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "DK Metcalf ejected: Steelers WR tossed after poking Cooper DeJean in the eye, could face suspension",
+      "url": "https://www.cbssports.com/nfl/news/dk-metcalf-ejected-steelers-receiver-tossed-after-poking-cooper-dejean-eye/",
+      "summary": "Metcalf had more penalty than receiving yards against the Eagles, in jeopardy of suspension as repeat offender",
+      "published": "Sun, 22 Nov 2026 22:45:03 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -383,16 +427,30 @@
       ]
     },
     {
-      "title": "Kansas City Chiefs tight end Travis Kelce's top moments at Arrowhead Stadium",
-      "url": "https://www.espn.com/nfl/story/_/id/50513358/chiefs-travis-kelce-100-games-arrowhead-taylor-swift",
-      "summary": "Kelce's greatest Arrowhead moments include his first catch, lots of playoff magic, and meeting the love of his life, Taylor Swift.",
-      "published": "2026-11-22T20:33:07Z",
-      "source": "ESPN NFL",
+      "title": "Cowboys vs. Titans ends in historic scorigami after late Tennessee touchdown",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-titans-final-score-scorigami-2026/",
+      "summary": "The Cowboys' 51-30 victory became the 1,101st unique final score in NFL history after a late Titans touchdown",
+      "published": "Sun, 22 Nov 2026 21:41:43 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "KC"
+        "DAL",
+        "TEN"
+      ]
+    },
+    {
+      "title": "Derrick Henry injury: Ravens star RB clears concussion protocol after leaving game post-TD",
+      "url": "https://www.cbssports.com/nfl/news/derrick-henry-injury-ravens-star-rb-leaves-evaluated-concussion-after-scoring-touchdown/",
+      "summary": "Baltimore avoids yet another key loss to injury",
+      "published": "Sun, 22 Nov 2026 22:09:15 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BAL"
       ]
     },
     {
@@ -420,20 +478,6 @@
       "teams": [
         "DAL",
         "TEN"
-      ]
-    },
-    {
-      "title": "DK Metcalf ejected: Steelers receiver tossed after poking Cooper DeJean in the eye",
-      "url": "https://www.cbssports.com/nfl/news/dk-metcalf-ejected-steelers-receiver-tossed-after-poking-cooper-dejean-eye/",
-      "summary": "Metcalf had more penalty than receiving yards against the Eagles",
-      "published": "Sun, 22 Nov 2026 20:43:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PHI",
-        "PIT"
       ]
     },
     {
@@ -558,131 +602,6 @@
       "category": "game",
       "teams": [
         "DEN"
-      ]
-    },
-    {
-      "title": "Week 11 games that will impact NFL playoff races: Can anyone gain separation in NFC North or NFC South?",
-      "url": "https://www.cbssports.com/nfl/news/most-important-week-11-games-nfl-playoff-races/",
-      "summary": "Plus, can the Giants bounce back?",
-      "published": "Sun, 22 Nov 2026 15:02:14 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Week 11 NFL betting promos: Get nearly $4,000 in bonuses from betting apps, sportsbooks for Sunday's games",
-      "url": "https://www.cbssports.com/betting/news/week-11-nfl-betting-promos-get-nearly-4000-in-bonuses-betting-apps-sportsbooks-sundays-games/",
-      "summary": "Top Week 11 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Sun, 22 Nov 2026 14:10:40 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Week 11 NFL odds, lines, totals, spreads for every game, including Eagles-Steelers, 49ers-Vikings, more",
-      "url": "https://www.cbssports.com/betting/news/week-11-nfl-betting-lines-odds-totals-spreads/",
-      "summary": "A look at the latest Week 11 NFL odds and updated lines for all 13 matchups.",
-      "published": "Sun, 22 Nov 2026 14:01:25 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN",
-        "PHI",
-        "PIT",
-        "SF"
-      ]
-    },
-    {
-      "title": "Why Jaguars' Trevor Lawrence has legitimate 2026 NFL MVP case, is destined to win one at some point",
-      "url": "https://www.cbssports.com/nfl/news/jaguars-trevor-lawrence-legitimate-2026-nfl-mvp-case-destined-win-one-some-point/",
-      "summary": "Across Lawrence's last 17 regular season games, he has 15-plus wins and 45-plus TD. He is only 1 of 10 QBs to achieve that feat",
-      "published": "Sun, 22 Nov 2026 14:01:37 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX"
-      ]
-    },
-    {
-      "title": "2026 Week 11 NFL player props, picks, odds, best bets for Sunday's games include Patrick Mahomes, Tony Pollard",
-      "url": "https://www.cbssports.com/betting/news/2026-week-11-nfl-player-props-picks-odds-best-bets-sundays-games-include-patrick-mahomes-tony-pollard/",
-      "summary": "Bet on Week 11 NFL player props at NFL sportsbooks like DraftKings, FanDuel and BetMGM",
-      "published": "Sun, 22 Nov 2026 13:45:43 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Vikings vs. 49ers odds: Best Sunday Night Football Mexico City first touchdown scorer picks, NFL predictions",
-      "url": "https://www.cbssports.com/prediction/news/vikings-vs-49ers-odds-best-sunday-night-football-mexico-city-first-touchdown-scorer-picks-nfl-predictions/",
-      "summary": "Here are our top picks for first touchdown prediction markets on the Vikings and 49ers' Sunday Night Football game in Mexico City",
-      "published": "Sun, 22 Nov 2026 13:30:51 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN",
-        "SF"
-      ]
-    },
-    {
-      "title": "Titans' Jaylen Harrell hospitalized after serious car accident, remains in hospital in Tampa",
-      "url": "https://www.cbssports.com/nfl/news/titans-jaylen-harrell-car-accident-hospital-tampa/",
-      "summary": "The Titans said edge defender Jaylen Harrell remains hospitalized and is receiving care after a serious car accident Friday night in his hometown of Tampa",
-      "published": "Sun, 22 Nov 2026 13:23:39 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "TEN"
-      ]
-    },
-    {
-      "title": "Rams' Puka Nacua had surgery on MCL injury, WR expected to miss rest of season and playoffs, per report",
-      "url": "https://www.cbssports.com/nfl/news/rams-puka-nacua-mcl-injury-surgery-out-for-season/",
-      "summary": "Nacua suffered the injury on the final play of the Rams' Week 9 win over the Commanders",
-      "published": "Sun, 22 Nov 2026 13:18:09 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "LA",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Prisco's Week 11 NFL picks: 49ers over Vikings, Cowboys rout Titans, Panthers edge Ravens",
-      "url": "https://www.cbssports.com/nfl/news/priscos-week-11-nfl-picks-odds-expert-picks-predictions/",
-      "summary": "Pete Prisco reveals all of his Week 11 picks, including the Jaguars to handle the Giants on the road",
-      "published": "Sun, 22 Nov 2026 10:01:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "CAR",
-        "DAL",
-        "JAX",
-        "MIN",
-        "NYG",
-        "SF",
-        "TEN"
       ]
     }
   ],
