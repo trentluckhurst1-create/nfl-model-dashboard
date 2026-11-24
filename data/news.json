@@ -1,25 +1,109 @@
 {
-  "updated_at_utc": "2026-11-23T22:14:55.072577+00:00",
-  "checked_at_utc": "2026-11-23T22:14:55.072577+00:00",
+  "updated_at_utc": "2026-11-24T06:09:06.369547+00:00",
+  "checked_at_utc": "2026-11-24T06:09:06.369547+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 7,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 25
+      "items": 28
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 22,
+      "items": 24,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
+    {
+      "title": "NFL Week 11 All-Stars: Dak Prescott Or Patrick Mahomes? Rookies Make An Impact",
+      "url": "https://www.foxsports.com/stories/nfl/nfl-week-11-all-stars-dak-prescott-ceedee-lamb-cowboys-travis-kelce-chiefs-jeffery-simmons-bears",
+      "summary": "Dak Prescott and Patrick Mahomes dominated on Sunday, while offensive rookies are starting to show out.",
+      "published": "Tue, 24 Nov 2026 00:05:14 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "Jayden Daniels Gets The Better Of Joe Burrow: 3 Takeaways From The Commanders' Win",
+      "url": "https://www.foxsports.com/stories/nfl/cincinnati-bengals-vs-washington-commanders-nfl-takeaways-november-23-2026",
+      "summary": "Jayden Daniels delivered some impressive heroics to beat Joe Burrow and the Bengals. Here are Steven Ruiz's takeaways.",
+      "published": "Mon, 23 Nov 2026 23:52:43 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "WAS"
+      ]
+    },
+    {
+      "title": "2026 NFL Power Rankings Week 12: Are The Giants Finally A Top-10 Team?",
+      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-power-rankings-week-12",
+      "summary": "Is it time to view the Giants as contenders? How far do the Jaguars, Vikings and Bengals fall following their Week 11 losses?",
+      "published": "Mon, 23 Nov 2026 23:49:53 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "JAX",
+        "MIN",
+        "NYG"
+      ]
+    },
+    {
+      "title": "NFL Best & Worst: From The Cowboys\u2019 Offensive Explosion To The Jaguars\u2019 Nightmare Day",
+      "url": "https://www.foxsports.com/stories/nfl/cowboys-explosive-offense-jaguars-lose-49ers-best-team",
+      "summary": "Week 11 superlatives: The Cowboys go off while the Jags go down. Plus, the 49ers end Kirk Cousins' honeymoon and two plays you have to see.",
+      "published": "Mon, 23 Nov 2026 23:29:04 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "JAX",
+        "SF"
+      ]
+    },
+    {
+      "title": "Who Turned Off The Lights? Why Bengals-Commanders Game Briefly Went Dark",
+      "url": "https://www.foxsports.com/stories/nfl/why-lights-turned-off-during-bengals-commanders",
+      "summary": "The lights at Northwest Stadium went out during the third quarter of Monday night\u2019s game between the Cincinnati Bengals and the Washington Commanders, leading to a delay of about four minutes",
+      "published": "Mon, 23 Nov 2026 22:39:41 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Inside The Lions' Staggering Defensive Transformation Ahead Of Matchup vs. Bears",
+      "url": "https://www.foxsports.com/stories/nfl/how-the-detroit-lions-defense-transformed-into-capable-unit-ahead-of-matchup-vs-bears",
+      "summary": "The Detroit Lions defense has gone from mediocre to contender-level since the first month of the season.",
+      "published": "Mon, 23 Nov 2026 22:09:49 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "DET"
+      ]
+    },
     {
       "title": "Steelers' DK Metcalf Denies Eye-Poke Intent In Scuffle vs. Eagles; Won't Be Suspended",
       "url": "https://www.foxsports.com/stories/nfl/steelers-dk-metcalf-says-he-wasnt-poking-eagles-cooper-dejean-was-telling-him-to-stop-pushing",
@@ -262,148 +346,157 @@
       ]
     },
     {
-      "title": "NFL Shakeout Week 11: Giants' $100M Bet Paying Off; Dallas Bounces Back",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-shakeout-week-11-giants-100m-bet-paying-off-time-bench-aaron-rodgers",
-      "summary": "John Harbaugh is molding the Giants into a contender. The Steelers need a QB change. Here are Ralph Vacchiano's top takeaways from Week 11.",
-      "published": "Sun, 22 Nov 2026 23:26:45 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NYG",
-        "PIT"
-      ]
-    },
-    {
-      "title": "2026 NFL Odds Week 11: Lines, Spreads, Results For All 13 Games",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-11-lines-spreads-results-all-13-games",
-      "summary": "Check out the lines for every NFL Week 11 game, beginning with Colts-Texans on Thursday.",
-      "published": "Sun, 22 Nov 2026 21:25:03 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "HOU",
-        "IND"
-      ]
-    },
-    {
-      "title": "Jeffery Simmons Sends Playful Warning To Tom Brady After Bears' Fifth Straight Win",
-      "url": "https://www.foxsports.com/stories/nfl/jeffery-simmons-sends-playful-warning-tom-brady-after-bears-fifth-straight-win",
-      "summary": "Bears star DL Jeffery Simmons managed to slip in a subtle jab at Tom Brady up in a postgame interview.",
-      "published": "Sun, 22 Nov 2026 20:19:22 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "How An Unheralded Bears Rookie WR Won Tom Brady's LFG Player Of The Game",
-      "url": "https://www.foxsports.com/stories/nfl/how-unheralded-bears-rookie-wr-won-tom-bradys-lfg-player-game",
-      "summary": "Chicago Bears rookie Zavion Thomas earned his first LFG Player Of The Game after a successful trick play and two critical third-down conversions.",
-      "published": "Sun, 22 Nov 2026 18:31:21 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI"
-      ]
-    },
-    {
-      "title": "Commanders RB Jacory Croskey-Merritt activated from IR ahead of MNF",
-      "url": "https://www.espn.com/nfl/story/_/id/50576561/commanders-rb-jacory-croskey-merritt-activated-ir",
-      "summary": "The Commanders activated running back Jacory Croskey-Merritt off injured reserve Monday.",
-      "published": "2026-11-23T21:53:33Z",
+      "title": "Commanders' Jayden Daniels-themed post aimed at Bengals tops NFL Week 11 trolls",
+      "url": "https://www.espn.com/nfl/story/_/id/50567903/nfl-week-11-trolls",
+      "summary": "NFL teams remained petty in Week 11, led by a post from the Washington Commanders.",
+      "published": "2026-11-24T04:59:15Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Jayden Daniels rallies Commanders in final seconds to set up winning kick in 22-20 win over Bengals",
+      "url": "http://www.espn.com/nfl/recap?gameId=401873078",
+      "summary": "\u2014 Jayden Daniels and the Commanders had scored on five consecutive drives, all of them covering 50 yards or more. But their last possession was the most daunting.",
+      "published": "2026-11-24T04:33:40Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Commanders building momentum, halt Bengals' 5-game win streak",
+      "url": "https://www.espn.com/nfl/story/_/id/50573995/2026-nfl-week-11-washington-commanders-cincinnati-bengals",
+      "summary": "The Commanders' defense held the potent Bengals in check and Washington has won three of four.",
+      "published": "2026-11-24T04:58:12Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "WAS"
+      ]
+    },
+    {
+      "title": "NFL Week 11 grades for every team: Commanders earn 'A-' for stunning Monday win",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-grades-every-team-cowboys-earn-a-high-flying-win-steelers-nearly-fail/",
+      "summary": "We're handing out grades for every team that played in Week 11",
+      "published": "Tue, 24 Nov 2026 05:01:47 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": [
         "WAS"
       ]
     },
     {
-      "title": "Giants' Greg Newsome out 'multiple weeks' with ankle sprain",
-      "url": "https://www.espn.com/nfl/story/_/id/50576454/giants-greg-newsome-multiple-weeks-ankle-sprain",
-      "summary": "Giants starting cornerback Greg Newsome will miss \"multiple weeks\" with a high ankle sprain, coach John Harbaugh said Monday.",
-      "published": "2026-11-23T21:59:39Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NYG"
-      ]
-    },
-    {
-      "title": "Cardinals fire defensive coordinator Nick Rallis, sources say",
-      "url": "https://www.espn.com/nfl/story/_/id/50575938/cardinals-fire-defensive-coordinator-nick-rallis-sources-say",
-      "summary": "The Cardinals have fired defensive coordinator Nick Rallis, sources told ESPN's Adam Schefter and the NFL Network's Ian Rapoport.",
-      "published": "2026-11-23T21:46:46Z",
-      "source": "ESPN NFL",
+      "title": "2026 NFL playoff picture, standings: 49ers reign over NFC, Jaguars slip in AFC, wild-card battles heat up",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-playoff-picture-standings-49ers-reign-over-nfc-jaguars-slip-in-afc/",
+      "summary": "A comprehensive look at all seven seeds in the AFC and NFC and the teams on the outside looking in",
+      "published": "Tue, 24 Nov 2026 04:33:23 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "ARI"
+        "JAX",
+        "SF"
       ]
     },
     {
-      "title": "Rams TE Terrance Ferguson needs season-ending ankle surgery, Sean McVay says",
-      "url": "https://www.espn.com/nfl/story/_/id/50575889/rams-te-terrance-ferguson-needs-season-ending-ankle-surgery",
-      "summary": "Rams tight end Terrance Ferguson's ankle injury will require season-ending surgery.",
-      "published": "2026-11-23T20:41:51Z",
-      "source": "ESPN NFL",
+      "title": "Bengals vs. Commanders odds, prediction, betting preview, start time: Monday Night Football picks, best bets",
+      "url": "https://www.cbssports.com/betting/news/bengals-vs-commanders-odds-prediction-betting-preview-start-time-monday-night-football-picks-best-bets/",
+      "summary": "Best bets and betting preview for Bengals vs. Commanders on Monday Night Football",
+      "published": "Tue, 24 Nov 2026 00:47:31 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Bengals vs. Commanders odds: First touchdown scorer picks, Week 11 NFL predictions for Monday Night Football",
+      "url": "https://www.cbssports.com/prediction/news/bengals-vs-commanders-odds-first-touchdown-scorer-picks-week-11-nfl-predictions-for-monday-night-football/",
+      "summary": "Here are our top picks for first touchdown prediction markets on Bengals vs. Commanders in NFL Week 11 on Monday Night Football",
+      "published": "Tue, 24 Nov 2026 00:43:01 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Week 11 NFL betting promos: Get nearly $4,000 in bonuses from betting apps, sportsbooks for Commanders-Bengals",
+      "url": "https://www.cbssports.com/betting/news/week-11-nfl-betting-promos-get-nearly-4000-in-bonuses-betting-apps-sportsbooks-commanders-bengals/",
+      "summary": "Top Week 11 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+      "published": "Mon, 23 Nov 2026 23:50:40 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Bengals vs. Commanders odds, NFL Week 11 picks, player props: Expert has best bets for Monday Night Football",
+      "url": "https://www.cbssports.com/betting/news/bengals-vs-commanders-odds-nfl-week-11-picks-player-props-expert-has-best-bets-for-monday-night-football/",
+      "summary": "CBS Sports NFL expert Will Brinson shares his top picks and props for Monday Night Football in NFL Week 11",
+      "published": "Mon, 23 Nov 2026 23:45:48 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CIN",
+        "WAS"
+      ]
+    },
+    {
+      "title": "Micah Parsons injury update: Packers star cleared to make 2026 debut vs. Rams in Week 12",
+      "url": "https://www.cbssports.com/nfl/news/micah-parsons-injury-update-packers-return-rams-2026/",
+      "summary": "Green Bay's star pass rusher is set to make his 2026 debut against Los Angeles after missing nearly a year because of multiple knee injuries",
+      "published": "Mon, 23 Nov 2026 23:44:04 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
+        "GB",
         "LA"
       ]
     },
     {
-      "title": "Sources: 49ers releasing WR Brandon Aiyuk with roster exemption ending",
-      "url": "https://www.espn.com/nfl/story/_/id/50575346/sources-49ers-releasing-wr-brandon-aiyuk",
-      "summary": "The 49ers are releasing wide receiver Brandon Aiyuk on Monday, sources told ESPN's Adam Schefter.",
-      "published": "2026-11-23T20:35:04Z",
-      "source": "ESPN NFL",
+      "title": "Brandon Aiyuk landing spots: Commanders, Steelers among four potential fits for former 49ers star",
+      "url": "https://www.cbssports.com/nfl/news/brandon-aiyuk-landing-spots-commanders-steelers-49ers/",
+      "summary": "A reunion with Jayden Daniels, an NFC West revenge tour and two potential AFC opportunities headline Aiyuk's most intriguing options",
+      "published": "Mon, 23 Nov 2026 23:06:20 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "game",
       "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Vrabel: Patriots sticking with DeVito as QB1, not looking for outside help",
-      "url": "https://www.espn.com/nfl/story/_/id/50575341/mike-vrabel-patriots-sticking-tommy-devito-qb1",
-      "summary": "Patriots coach Mike Vrabel said Monday the team isn't looking outside the organization for a starting quarterback as it prepares to be without Drake Maye in the coming weeks due to a fractured right fibula.",
-      "published": "2026-11-23T19:41:05Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "NE"
-      ]
-    },
-    {
-      "title": "Source: 49ers, GM John Lynch agree to contract extension",
-      "url": "https://www.espn.com/nfl/story/_/id/50575248/source-49ers-gm-john-lynch-agree-contract-extension",
-      "summary": "The 49ers and general manager John Lynch have agreed to a multiyear contract extension, a team source confirmed to NFL Network's Ian Rapoport.",
-      "published": "2026-11-23T19:05:14Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "SF"
+        "PIT",
+        "SF",
+        "WAS"
       ]
     },
     {
@@ -566,34 +659,6 @@
       ]
     },
     {
-      "title": "2026 NFL playoff picture, standings: 49ers reign over NFC, Jaguars slip in AFC, wild-card battles heat up",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-playoff-picture-standings-49ers-reign-over-nfc-jaguars-slip-in-afc/",
-      "summary": "A comprehensive look at all seven seeds in the AFC and NFC and the teams on the outside looking in",
-      "published": "Mon, 23 Nov 2026 13:32:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX",
-        "SF"
-      ]
-    },
-    {
-      "title": "2027 NFL Draft order, team needs: Full first-round picks for all 32 teams after Week 11",
-      "url": "https://www.cbssports.com/nfl/news/2027-nfl-draft-order-team-needs-full-first-round-picks-all-32-teams/",
-      "summary": "Tennessee, the Chargers and Miami lead the race for the top selection at 1-9, while the Jets hold three picks in the top 15 thanks to blockbuster trades",
-      "published": "Mon, 23 Nov 2026 13:09:06 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "LAC",
-        "NYJ"
-      ]
-    },
-    {
       "title": "NFL Week 12 early odds: Bills favored over Chiefs for Thanksgiving showdown, Steelers home underdogs",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-12-early-odds-bills-over-chiefs-thanksgiving-steelers/",
       "summary": "The Bears are road favorites for their Thanksgiving matchup in Detroit",
@@ -620,21 +685,6 @@
       "category": "transaction",
       "teams": [
         "PIT"
-      ]
-    },
-    {
-      "title": "NFL Week 11 grades for every team: 49ers earn 'A+' for dominating Vikings, Steelers nearly fail",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-grades-every-team-cowboys-earn-a-high-flying-win-steelers-nearly-fail/",
-      "summary": "We're handing out grades for every team that played in Week 11",
-      "published": "Mon, 23 Nov 2026 14:11:46 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN",
-        "PIT",
-        "SF"
       ]
     },
     {
@@ -718,33 +768,6 @@
       "teams": [
         "LAC",
         "NYJ"
-      ]
-    },
-    {
-      "title": "Vikings vs. 49ers picks, predictions, player props: Expert's best bets for NFL Week 11 Sunday Night Football",
-      "url": "https://www.cbssports.com/betting/news/vikings-vs-49ers-picks-predictions-player-props-experts-best-bets-for-nfl-week-11-sunday-night-football/",
-      "summary": "Brian Flores brings a 5-0 mark against Kyle Shanahan into Mexico City as an underdog gets the nod to win outright, alongside prime targets for George Kittle and Justin Jefferson",
-      "published": "Mon, 23 Nov 2026 00:01:44 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "MIN",
-        "SF"
-      ]
-    },
-    {
-      "title": "DK Metcalf's bad season just got worse. What happens now for Steelers embattled receiver?",
-      "url": "https://www.cbssports.com/nfl/news/what-happens-now-steelers-embattled-receiver-dk-metcalf/",
-      "summary": "It's safe for Metcalf to be considered the worst trade acquisition in Steelers history. Now he faces a possible suspension and an uncertain future in Pittsburgh",
-      "published": "Mon, 23 Nov 2026 01:12:30 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "PIT"
       ]
     }
   ],
