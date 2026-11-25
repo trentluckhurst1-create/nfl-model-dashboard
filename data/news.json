@@ -1,17 +1,17 @@
 {
-  "updated_at_utc": "2026-11-25T10:29:34.252585+00:00",
-  "checked_at_utc": "2026-11-25T10:29:59.411259+00:00",
+  "updated_at_utc": "2026-11-25T20:07:35.057113+00:00",
+  "checked_at_utc": "2026-11-25T20:08:00.264193+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 9,
+      "items": 1,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 31
+      "items": 29
     },
     "FOX Sports NFL": {
       "ok": false,
@@ -22,11 +22,25 @@
   },
   "items": [
     {
-      "title": "Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph",
-      "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
-      "summary": "Pittsburgh Steelers coach Mike McCarthy has benched starting quarterback Aaron Rodgers in favor of backup Mason Rudolph.",
-      "published": "2026-11-25T08:06:03Z",
+      "title": "Bills TE Kincaid, CB Benford among 5 starters who are questionable vs. Chiefs",
+      "url": "https://www.espn.com/nfl/story/_/id/50596159/bills-kincaid-benford-5-starters-listed-questionable",
+      "summary": "The Bills are listing five starters -- including tight end Dalton Kincaid and cornerback Christian Benford -- as questionable for Thursday night's showdown with the Chiefs.",
+      "published": "2026-11-25T20:06:30Z",
       "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "BUF",
+        "KC"
+      ]
+    },
+    {
+      "title": "Aaron Rodgers unleashes on Mike McCarthy: Unpacking everything Steelers' QB said after benching",
+      "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-unleases-on-steelers-mike-mccarthy-pat-mcafee-interview/",
+      "summary": "Rodgers confirmed that his time in Pittsburgh is over, while accusing the Steelers coach of sleeping through meetings",
+      "published": "Wed, 25 Nov 2026 19:53:54 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
@@ -35,114 +49,10 @@
       ]
     },
     {
-      "title": "Longtime Lions owner Martha Firestone Ford dies at age 101",
-      "url": "https://www.espn.com/nfl/story/_/id/50588773/long-lions-owner-martha-firestone-ford-dies-age-101",
-      "summary": "Martha Firestone Ford, who served as the primary owner of the Lions from 2014 to 2020, has died at the age of 101, the team announced Tuesday night.",
-      "published": "2026-11-25T05:43:02Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "Bears' Johnson has no plan to stop using Swift in run game despite costly fumbles",
-      "url": "https://www.espn.com/nfl/story/_/id/50587324/bears-johnson-stick-swift-role-bears-run-game",
-      "summary": "Chicago Bears running back D'Andre Swift won't have an extended stay in Ben Johnson's doghouse after fumbling in the fourth quarter against the Saints.",
-      "published": "2026-11-25T00:50:49Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "NO"
-      ]
-    },
-    {
-      "title": "Brandon Aiyuk scheduled for visit Wednesday with Commanders, agent says",
-      "url": "https://www.espn.com/nfl/story/_/id/50586505/brandon-aiyuk-scheduled-visit-wednesday-commanders",
-      "summary": "Wide receiver Brandon Aiyuk is scheduled to visit Wednesday with the Commanders, agent Drew Rosenhaus told ESPN's Adam Schefter.",
-      "published": "2026-11-24T23:29:38Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "WAS"
-      ]
-    },
-    {
-      "title": "Broncos' Sean Payton: J.K. Dobbins suspended one game for detrimental conduct",
-      "url": "https://www.espn.com/nfl/story/_/id/50586087/broncos-payton-says-rb-dobbins-suspended-one-game",
-      "summary": "The Broncos suspended running back J.K. Dobbins for one game for conduct detrimental to the team.",
-      "published": "2026-11-25T02:19:50Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN"
-      ]
-    },
-    {
-      "title": "Myles Garrett, Micah Parsons ready for spotlight when Rams host Packers on Thanksgiving Eve",
-      "url": "http://www.espn.com/nfl/preview?gameId=401873079",
-      "summary": "\u2014 Myles Garrett and Micah Parsons are two of the best pass rushers of their generation, and they're set to share an NFL field for only the third time Wednesday night when the Los Angeles Rams host...",
-      "published": "2026-11-24T20:35:32Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "LA"
-      ]
-    },
-    {
-      "title": "Ravens cut punt returner LaJohntay Wester after his two muffs in loss",
-      "url": "https://www.espn.com/nfl/story/_/id/50585397/source-ravens-cut-punt-returner-wester-two-muffs-loss",
-      "summary": "The Ravens waived returner LaJohntay Wester after he muffed two punts in Sunday's loss at Carolina.",
-      "published": "2026-11-24T21:05:41Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "BAL"
-      ]
-    },
-    {
-      "title": "Commanders coach Dan Quinn fine with Stefon Diggs' sideline rant",
-      "url": "https://www.espn.com/nfl/story/_/id/50585285/commanders-quinn-fine-diggs-sideline-rant",
-      "summary": "A video clip of Washington Commanders receiver Stefon Diggs appearing to chew out teammates, including quarterback Jayden Daniels, during Monday's win over Cincinnati did not bother his coach.",
-      "published": "2026-11-24T21:46:32Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "WAS"
-      ]
-    },
-    {
-      "title": "Pro Football Hall of Fame voters trim Class of 2027 nominees to 52",
-      "url": "https://www.espn.com/nfl/story/_/id/50584494/pro-football-hall-fame-trims-2027-player-nominees-52",
-      "summary": "Five first-time eligible former players advanced in the voting process for the Pro Football Hall of Fame's Class of 2027, it was announced Tuesday.",
-      "published": "2026-11-24T18:54:01Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Is this how it ends? Steelers bench Aaron Rodgers, turn to Mason Rudolph to start vs. Broncos",
+      "title": "Steelers bench Aaron Rodgers, turn to Mason Rudolph to start vs. Broncos",
       "url": "https://www.cbssports.com/nfl/news/steelers-bench-aaron-rodgers-make-qb-inactive-friday-broncos/",
       "summary": "Pittsburgh made the call to bench Rodgers after offensive struggles led to consecutive losses following a 6-2 start",
-      "published": "Wed, 25 Nov 2026 05:18:04 +0000",
+      "published": "Wed, 25 Nov 2026 19:44:42 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -153,14 +63,291 @@
       ]
     },
     {
-      "title": "NFL Thanksgiving injury report: Micah Parsons cleared for season debut, Kenneth Walker III practices",
-      "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-injury-report-micah-parsons-cleared-kenneth-walker-iii-practices/",
-      "summary": "Injury reports for every NFL team playing on Wednesday and Thursday in Week 12",
-      "published": "Wed, 25 Nov 2026 00:20:02 +0000",
+      "title": "Brandon Aiyuk to sign with Commanders' practice squad days after leaving 49ers",
+      "url": "https://www.cbssports.com/nfl/news/former-49ers-wr-brandon-aiyuk-to-sign-with-commanders/",
+      "summary": "San Francisco's former wideout is officially getting a fresh start",
+      "published": "Wed, 25 Nov 2026 18:56:38 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
+      "teams": [
+        "SF",
+        "WAS"
+      ]
+    },
+    {
+      "title": "NFL Thanksgiving 2026: Ranking the 10 most memorable Thanksgiving halftime shows",
+      "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-2026-ranking-most-memorable-halftime-shows/",
+      "summary": "A look at some of the most iconic performances from Turkey Days of the past",
+      "published": "Wed, 25 Nov 2026 17:52:00 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Lions vs. Bears Thanksgiving prediction: Which team will be in control of NFC North?",
+      "url": "https://www.cbssports.com/nfl/news/lions-vs-bears-thanksgiving-prediction-odds-how-to-watch/",
+      "summary": "Sole possession of first place in the NFC North is on the line at Ford Field as two 8-2 rivals clash on Thanksgiving with long winning streaks",
+      "published": "Wed, 25 Nov 2026 17:42:15 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "DET"
+      ]
+    },
+    {
+      "title": "Agent's Take: The Puka Nacua predicament and where his future with Rams stands after injury",
+      "url": "https://www.cbssports.com/nfl/news/agents-take-puka-nacua-predicament-where-future-rams-stands/",
+      "summary": "Nacua's rookie contract is expiring, leaving LA with a decision to make on the wide receiver this offseason",
+      "published": "Wed, 25 Nov 2026 17:31:09 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "LA"
+      ]
+    },
+    {
+      "title": "NFL on Thanksgiving cheat sheet: Everything you need to know to impress relatives during three holiday games",
+      "url": "https://www.cbssports.com/nfl/news/nfl-on-thanksgiving-cheat-sheet-everything-you-to-know-three-holiday-games/",
+      "summary": "A look at everything you need to know about Bears-Lions, Eagles-Cowboys and Chiefs-Bills",
+      "published": "Wed, 25 Nov 2026 17:13:32 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "CHI",
+        "DAL",
+        "DET",
+        "KC",
+        "PHI"
+      ]
+    },
+    {
+      "title": "NFL Thanksgiving injury report: Micah Parsons cleared for season debut, Chiefs' Kenneth Walker III out",
+      "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-injury-report-micah-parsons-cleared-kenneth-walker-iii-practices/",
+      "summary": "Injury reports for every NFL team playing on Wednesday and Thursday in Week 12",
+      "published": "Wed, 25 Nov 2026 16:57:39 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "KC"
+      ]
+    },
+    {
+      "title": "Aaron Rodgers' brother has a theory on why QB was shockingly benched by Steelers",
+      "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-brother-theory-why-qb-was-shockingly-benched-steelers/",
+      "summary": "Jordan Rodgers believes GM Omar Khan intervened to make the change rather than Mike McCarthy after the quarterback took subtle shots at the front office",
+      "published": "Wed, 25 Nov 2026 16:32:03 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Prisco's NFL Week 12 Power Rankings: Thanksgiving feast offers a proving ground for contenders",
+      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-12-power-rankings-thanksgiving-games/",
+      "summary": "Pete Prisco shares his Week 12 Power Rankings for the 2026 NFL season, including the Jaguars falling five spots",
+      "published": "Wed, 25 Nov 2026 16:16:24 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "JAX"
+      ]
+    },
+    {
+      "title": "Packers vs. Rams odds, picks, prediction: NFL Week 12 best bets, player props for Thanksgiving Eve",
+      "url": "https://www.cbssports.com/betting/news/packers-vs-rams-odds-picks-prediction-nfl-week-12-best-bets-player-props-for-thanksgiving-eve/",
+      "summary": "Will Brinson breaks down his top value plays for Packers vs. Rams on Thanksgiving Eve, including a lean on the total and some anytime touchdown scorers",
+      "published": "Wed, 25 Nov 2026 16:20:35 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "LA"
+      ]
+    },
+    {
+      "title": "Biggest questions on Aaron Rodgers benching: Why did Steelers make abrupt quarterback change?",
+      "url": "https://www.cbssports.com/nfl/news/steelers-bench-aaron-rodgers-why-and-what-it-means-mason-rudolph/",
+      "summary": "Pittsburgh made a difficult decision while setting in motion their plans for the QB position moving forward",
+      "published": "Wed, 25 Nov 2026 19:51:35 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "Cowboys vs. Eagles Thanksgiving prediction: Dallas looks for first win streak of 2026 vs. ex-QB",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-vs-eagles-thanksgiving-how-to-watch-odds-preview-prediction/",
+      "summary": "How to watch, what to know and a prediction for the Thanksgiving clash between NFC East rivals",
+      "published": "Wed, 25 Nov 2026 19:23:58 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Predicting full 14-team NFL playoff bracket for NFL Week 12: How Aaron Rodgers' benching impacts AFC race",
+      "url": "https://www.cbssports.com/nfl/news/predicting-full-14-team-nfl-playoff-bracket-nfl-week-12/",
+      "summary": "All 32 teams are still alive in the playoff race, but only 14 will be making the postseason, and we projected the full list here",
+      "published": "Wed, 25 Nov 2026 15:14:08 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "NFL Week 12 QB Power Rankings: Brock Purdy swipes No. 1 spot from Joe Burrow, Dak Prescott into top five",
+      "url": "https://www.cbssports.com/nfl/news/week-12-qb-power-rankings-brock-purdy-joe-burrow-dak-prescott/",
+      "summary": "Brock Purdy takes the top spot from Joe Burrow, and Dak Prescott soars into the top five",
+      "published": "Wed, 25 Nov 2026 14:54:56 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": []
+    },
+    {
+      "title": "One bold prediction for each NFL Thanksgiving game, including Cowboys' Dak Prescott to feast on Eagles",
+      "url": "https://www.cbssports.com/nfl/news/one-bold-prediction-each-nfl-thanksgiving-game-cowboys-dak-prescott-feast-eagles/",
+      "summary": "One bold prediction for each of the NFL rivalry showcases on Thanksgiving",
+      "published": "Wed, 25 Nov 2026 14:37:55 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "NFL Week 12 expert picks, best bets: Lions spoil Bears Thanksgiving, Patrick Mahomes picks up rare win",
+      "url": "https://www.cbssports.com/nfl/news/week-12-expert-picks-best-bets-lions-spoil-bears-thanksgiving/",
+      "summary": "Tyler Sullivan picks every game on the Week 12 schedule, including five locks against the spread",
+      "published": "Wed, 25 Nov 2026 14:18:32 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI",
+        "DET"
+      ]
+    },
+    {
+      "title": "Steelers bench Aaron Rodgers; Tennessee jumps Alabama in CFP rankings; Cubs land Teruaki Sato",
+      "url": "https://www.cbssports.com/nfl/news/steelers-bench-aaron-rodgers-nfl-tennessee-alabama-cfp-rankings-cubs-teruaki-sato-mlb/",
+      "summary": "Plus Pete Prisco's Week 12 NFL Power Rankings",
+      "published": "Wed, 25 Nov 2026 13:50:08 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PIT"
+      ]
+    },
+    {
+      "title": "NFL playoff picture: Ranking AFC wild card contenders, from Super Bowl-hopeful Chiefs to rebuilding Raiders",
+      "url": "https://www.cbssports.com/nfl/news/nfl-playoff-picture-ranking-afc-wild-card-contenders-chiefs-raiders/",
+      "summary": "Outside of Kansas City, the battle for a wild card berth in this conference is wide open",
+      "published": "Wed, 25 Nov 2026 13:17:52 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "KC",
+        "LV"
+      ]
+    },
+    {
+      "title": "NFL Week 12 most important games for playoff picture: Rams-Packers, Panthers-Bucs key duels in NFC",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-12-most-important-games-playoff-picture-rams-packers-panthers-bucs/",
+      "summary": "This week is chock-full of potential make-or-break games from Wednesday to Sunday",
+      "published": "Wed, 25 Nov 2026 13:10:19 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CAR",
+        "GB",
+        "LA",
+        "TB"
+      ]
+    },
+    {
+      "title": "Rams vs. Packers prediction: Can Green Bay find continue success with deep ball? Will L.A. overcome injuries?",
+      "url": "https://www.cbssports.com/nfl/news/rams-vs-packers-prediction-odds-how-to-watch-thanksgiving-eve/",
+      "summary": "Micah Parsons makes his season debut for Green Bay as an injury-depleted Los Angeles offense leans on its ground attack in the NFL's first Thanksgiving Eve showdown",
+      "published": "Wed, 25 Nov 2026 14:11:49 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "GB",
+        "LA"
+      ]
+    },
+    {
+      "title": "Prisco's Week 12 NFL picks: Packers edge Rams, Cowboys feast on Eagles, Bills win thriller over Chiefs",
+      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-12-nfl-picks-odds-expert-picks/",
+      "summary": "Pete Prisco reveals all of his Week 12 picks, including the Steelers to upset the Broncos on Black Friday",
+      "published": "Wed, 25 Nov 2026 11:00:42 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "BUF",
+        "DAL",
+        "DEN",
+        "GB",
+        "KC",
+        "LA",
+        "PHI",
+        "PIT"
+      ]
+    },
+    {
+      "title": "NFL Thanksgiving 2026: A look at every NFL halftime show performer for the holiday slate",
+      "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-2026-halftime-show-performers-schedule/",
+      "summary": "There will be four performances between Thanksgiving Eve and Thanksgiving",
+      "published": "Wed, 25 Nov 2026 11:00:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
       "teams": []
     },
     {
@@ -234,317 +421,6 @@
       "url": "https://www.cbssports.com/nfl/news/bengals-commanders-mnf-refs-two-seconds-off-clock/",
       "summary": "The Monday night matchup seemed to end with two botched situations from the officials",
       "published": "Tue, 24 Nov 2026 15:53:05 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "WAS"
-      ]
-    },
-    {
-      "title": "2026 NFL playoff picture: Ranking NFC wild card contenders, from stout NFC North to rising Seahawks, Rams",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-playoff-picture-ranking-nfc-wild-card-contenders-nfc-north-rising-seahawks-rams/",
-      "summary": "Which teams in the NFC wild card race are tracking toward entering the playoffs through the side door?",
-      "published": "Tue, 24 Nov 2026 15:42:29 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "LA",
-        "SEA"
-      ]
-    },
-    {
-      "title": "NFL Thanksgiving schedule: What to know about Thanksgiving Eve, Turkey Day, and Black Friday games",
-      "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-games-2026-schedule-black-friday-rams-packers/",
-      "summary": "A look at the Thanksgiving week slate and all of its fixings you need in time for Turkey Day",
-      "published": "Tue, 24 Nov 2026 15:30:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Prisco's NFL Week 12 Power Rankings: Thanksgiving feast offers a proving ground for contenders",
-      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-12-power-rankings-thanksgiving-games/",
-      "summary": "Pete Prisco shares his Week 12 Power Rankings for the 2026 NFL season, including the",
-      "published": "Tue, 24 Nov 2026 14:33:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Why the Cowboys and Lions always play on Thanksgiving Day: All 32 NFL team's record on the holiday",
-      "url": "https://www.cbssports.com/nfl/news/why-cowboys-lions-always-play-thanksgiving-day-all-32-nfl-teams-record-holiday/",
-      "summary": "A look at the records and traditions in the NFL on Thanksgiving",
-      "published": "Tue, 24 Nov 2026 14:30:32 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "DET"
-      ]
-    },
-    {
-      "title": "NFL Week 12 picks, score predictions: Bears, Chiefs lose on Thanksgiving; Rams edge Packers in thriller",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-12-breech-picks-score-predictions-bears-chiefs-rams-packers/",
-      "summary": "Here's your weekly dose of John Breech's NFL picks",
-      "published": "Wed, 25 Nov 2026 04:26:42 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CHI",
-        "GB",
-        "KC",
-        "LA"
-      ]
-    },
-    {
-      "title": "Jayden Daniels leads Commanders past Bengals on MNF; Florida State hires coach Glenn Schumann",
-      "url": "https://www.cbssports.com/nfl/news/jayden-daniels-commanders-bengals-nfl-mnf-florida-state-coach-glenn-schumann/",
-      "summary": "Plus, the SEC has taken another step toward expelling LSU",
-      "published": "Tue, 24 Nov 2026 13:41:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "WAS"
-      ]
-    },
-    {
-      "title": "6 lessons from Week 11: Kyle Shanahan is as good as it gets, plus a rookie RB earning a role",
-      "url": "https://www.cbssports.com/nfl/news/6-lessons-week-11-kyle-shanahan-49ers-chiefs-colts/",
-      "summary": "The 49ers are the league's best team, and Shanahan is the league's best coach",
-      "published": "Tue, 24 Nov 2026 13:16:51 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "It wouldn't shock me if ... for NFL Week 12: Colston Loveland feasts on Thanksgiving, Browns RB shines",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-12-predictions-colston-loveland-thanksgiving/",
-      "summary": "Our five bold calls for Week 12 include a career day for Quinshon Judkins and mounting pressure on the Seahawks to play Drew Lock",
-      "published": "Tue, 24 Nov 2026 12:42:05 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CLE",
-        "SEA"
-      ]
-    },
-    {
-      "title": "NFL Week 12 upset alert: Don't count out Patrick Mahomes, Fernando Mendoza and these underdogs",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-12-upset-picks-thanksgiving-games-chiefs-bills/",
-      "summary": "Patrick Mahomes is heating up, Detroit owns its Thanksgiving opponent and three other underdogs have compelling paths",
-      "published": "Tue, 24 Nov 2026 12:40:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 11 grades for every team: Commanders earn 'A-' for stunning Monday win",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-grades-every-team-cowboys-earn-a-high-flying-win-steelers-nearly-fail/",
-      "summary": "We're handing out grades for every team that played in Week 11",
-      "published": "Tue, 24 Nov 2026 05:01:47 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "WAS"
-      ]
-    },
-    {
-      "title": "2026 NFL playoff picture, standings: 49ers reign over NFC, Jaguars slip in AFC, wild-card battles heat up",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-playoff-picture-standings-49ers-reign-over-nfc-jaguars-slip-in-afc/",
-      "summary": "A comprehensive look at all seven seeds in the AFC and NFC and the teams on the outside looking in",
-      "published": "Tue, 24 Nov 2026 04:33:23 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "JAX",
-        "SF"
-      ]
-    },
-    {
-      "title": "Bengals vs. Commanders odds, prediction, betting preview, start time: Monday Night Football picks, best bets",
-      "url": "https://www.cbssports.com/betting/news/bengals-vs-commanders-odds-prediction-betting-preview-start-time-monday-night-football-picks-best-bets/",
-      "summary": "Best bets and betting preview for Bengals vs. Commanders on Monday Night Football",
-      "published": "Tue, 24 Nov 2026 00:47:31 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Bengals vs. Commanders odds: First touchdown scorer picks, Week 11 NFL predictions for Monday Night Football",
-      "url": "https://www.cbssports.com/prediction/news/bengals-vs-commanders-odds-first-touchdown-scorer-picks-week-11-nfl-predictions-for-monday-night-football/",
-      "summary": "Here are our top picks for first touchdown prediction markets on Bengals vs. Commanders in NFL Week 11 on Monday Night Football",
-      "published": "Tue, 24 Nov 2026 00:43:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Week 11 NFL betting promos: Get nearly $4,000 in bonuses from betting apps, sportsbooks for Commanders-Bengals",
-      "url": "https://www.cbssports.com/betting/news/week-11-nfl-betting-promos-get-nearly-4000-in-bonuses-betting-apps-sportsbooks-commanders-bengals/",
-      "summary": "Top Week 11 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-      "published": "Mon, 23 Nov 2026 23:50:40 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Bengals vs. Commanders odds, NFL Week 11 picks, player props: Expert has best bets for Monday Night Football",
-      "url": "https://www.cbssports.com/betting/news/bengals-vs-commanders-odds-nfl-week-11-picks-player-props-expert-has-best-bets-for-monday-night-football/",
-      "summary": "CBS Sports NFL expert Will Brinson shares his top picks and props for Monday Night Football in NFL Week 11",
-      "published": "Mon, 23 Nov 2026 23:45:48 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Micah Parsons injury update: Packers star activated, cleared to make 2026 debut vs. Rams in Week 12",
-      "url": "https://www.cbssports.com/nfl/news/micah-parsons-injury-update-packers-return-rams-2026/",
-      "summary": "Green Bay's star pass rusher is set to make his 2026 debut against Los Angeles after missing nearly a year to multiple knee injuries",
-      "published": "Tue, 24 Nov 2026 19:46:55 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "GB",
-        "LA"
-      ]
-    },
-    {
-      "title": "Brandon Aiyuk landing spots: Commanders, Steelers among four potential fits for former 49ers star",
-      "url": "https://www.cbssports.com/nfl/news/brandon-aiyuk-landing-spots-commanders-steelers-49ers/",
-      "summary": "A reunion with Jayden Daniels, an NFC West revenge tour and two potential AFC opportunities headline Aiyuk's most intriguing options",
-      "published": "Mon, 23 Nov 2026 23:06:20 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PIT",
-        "SF",
-        "WAS"
-      ]
-    },
-    {
-      "title": "DK Metcalf will not be suspended by the NFL after getting ejected during Steelers' loss to Eagles",
-      "url": "https://www.cbssports.com/nfl/news/dk-metcalf-not-suspended-nfl-ejected-steelers-loss-eagles-cooper-dejean-eyes/",
-      "summary": "Metcalf may face other discipline by the NFL for his actions",
-      "published": "Mon, 23 Nov 2026 21:19:06 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PHI",
-        "PIT"
-      ]
-    },
-    {
-      "title": "Cardinals fire defensive coordinator Nick Rallis, per reports",
-      "url": "https://www.cbssports.com/nfl/news/cardinals-fire-defensive-coordinator-nick-rallis-per-reports/",
-      "summary": "Rallis is out after working with the Cardinals since 2023. Teryl Austin will serve as Arizona's temporary DC",
-      "published": "Mon, 23 Nov 2026 21:03:15 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ARI"
-      ]
-    },
-    {
-      "title": "Commanders vs. Bengals prediction: Cincinnati looks to extend lead in AFC North in 'MNF' matchup",
-      "url": "https://www.cbssports.com/nfl/news/commanders-vs-bengals-prediction-odds-how-to-watch-mnf-matchup/",
-      "summary": "How to watch, what to know and a prediction for the Monday night contest in DC",
-      "published": "Mon, 23 Nov 2026 20:27:57 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "CIN",
-        "WAS"
-      ]
-    },
-    {
-      "title": "49ers, longtime general manager John Lynch reach extension",
-      "url": "https://www.cbssports.com/nfl/news/49ers-longtime-general-manager-john-lynch-reach-extension/",
-      "summary": "Lynch currently presides over the NFC's best team",
-      "published": "Mon, 23 Nov 2026 20:02:51 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Brandon Aiyuk released: Former 49ers WR looks to resume career after years away",
-      "url": "https://www.cbssports.com/nfl/news/brandon-aiyuk-released-former-49ers-wr-looks-to-resume-career-after-years-away/",
-      "summary": "Aiyuk hasn't played in a game since suffering an injury in 2024, has yet to take a snap under 2025 four-year extension",
-      "published": "Mon, 23 Nov 2026 19:55:50 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "SF"
-      ]
-    },
-    {
-      "title": "Pick Six: NFL Week 11 losers, plus grades for every team and Bengals-Commanders picks for Monday night",
-      "url": "https://www.cbssports.com/nfl/news/pick-six-nfl-week-11-losers-grades-every-team-bengals-commanders-picks-monday-night-football/",
-      "summary": "Here's everything you need to know about the NFL for Nov. 23",
-      "published": "Mon, 23 Nov 2026 18:29:35 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
