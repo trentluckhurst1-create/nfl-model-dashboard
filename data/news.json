@@ -1,234 +1,51 @@
 {
-  "updated_at_utc": "2026-11-25T01:38:08.531597+00:00",
-  "checked_at_utc": "2026-11-25T01:38:08.531597+00:00",
+  "updated_at_utc": "2026-11-25T10:29:34.252585+00:00",
+  "checked_at_utc": "2026-11-25T10:29:59.411259+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 2,
+      "items": 9,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 30
+      "items": 31
     },
     "FOX Sports NFL": {
-      "ok": true,
-      "items": 17,
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout",
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "Dak Prescott Is Having An Elite Season That The Cowboys Are Wasting",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-qb-notebook-week-11-dak-prescott-brock-purdy",
-      "summary": "Dak Prescott is playing at an elite level this season, but the Cowboys are making sure it won't help them win.",
-      "published": "Tue, 24 Nov 2026 19:18:16 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL"
-      ]
-    },
-    {
-      "title": "Roll The Tape: The Giants' Big Advantage; The Chiefs' X Factor; Jahmyr Gibbs, MVP?",
-      "url": "https://www.foxsports.com/stories/nfl/roll-tape-giants-big-advantage-chiefs-x-factor-jahmyr-gibbs-mvp",
-      "summary": "After diving into the All-22 coaches' film from Week 11, Bucky Brooks examines three new developments to watch.",
-      "published": "Tue, 24 Nov 2026 18:33:15 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC",
-        "NYG"
-      ]
-    },
-    {
-      "title": "Broncos Suspend RB J.K. Dobbins One Game For Conduct Detrimental To the Team",
-      "url": "https://www.foxsports.com/stories/nfl/broncos-suspend-rb-j-k-dobbins-one-game-conduct-detrimental-team",
-      "summary": "Speaking to reporters on Tuesday, head coach Sean Payton announced that Dobbins has been suspended one game for conduct detrimental to the team.",
-      "published": "Tue, 24 Nov 2026 18:03:15 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN"
-      ]
-    },
-    {
-      "title": "2026 NFL DPOY Odds: Houston's Will Anderson Jr. Favored",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-defensive-player-year-odds",
-      "summary": "Check out the latest odds for the 2026 NFL Defensive Player of the Year award.",
-      "published": "Tue, 24 Nov 2026 18:02:42 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Offensive Rookie Of The Year Is Still Up For Grabs, But It Might Not Be For Much Longer",
-      "url": "https://www.foxsports.com/stories/nfl/offensive-rookie-of-the-year-jonah-coleman-fernando-mendoza-emmett-johnson-broncos-raiders-chiefs",
-      "summary": "Who is the Offensive Rookie of the Year? A leading candidate has emerged, but it should be an enticing race down the season's homestretch.",
-      "published": "Tue, 24 Nov 2026 17:37:18 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Favorite 'Dogs: Back Mahomes-Led Chiefs; Arkansas To Upset LSU",
-      "url": "https://www.foxsports.com/stories/nfl/favorite-dogs-back-mahomes-led-chiefs-arkansas-upset-lsu",
-      "summary": "A Thanksgiving showdown between AFC rivals and an SEC rivalry game highlight this week's underdog picks.",
-      "published": "Tue, 24 Nov 2026 16:14:59 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "KC"
-      ]
-    },
-    {
-      "title": "2026 NFL OPOY Odds: Detroit's Jahmyr Gibbs Clear Favorite",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-offensive-player-of-the-year",
-      "summary": "Detroit's Jahmyr Gibbs is favored to win 2026 NFL Offensive Player of the Year. Find out who's near the top of the oddsboard.",
-      "published": "Tue, 24 Nov 2026 15:31:31 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Thanksgiving Games: Schedule, Teams, How to Watch",
-      "url": "https://www.foxsports.com/stories/nfl/2026-nfl-thanksgiving-games-schedule-teams-how-watch",
-      "summary": "See the 2026 NFL Thanksgiving schedule, including all five Thanksgiving Week matchups, kickoff times, TV channels and streaming information.",
-      "published": "Tue, 24 Nov 2026 15:13:05 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL OROY Odds: Jonah Coleman Favored; Fernando Mendoza Second",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-offensive-rookie-year-odds",
-      "summary": "There's a new favorite at the top of the board. See the latest odds for NFL OROY.",
-      "published": "Tue, 24 Nov 2026 14:27:02 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Rob Gronkowski Among 1st-Time Eligibles Advancing In Hall of Fame Voting Process",
-      "url": "https://www.foxsports.com/stories/nfl/rob-gronkowski-ben-roethlisberger-pro-football-hall-of-fame",
-      "summary": "Rob Gronkowski and Ben Roethlisberger are among the first-time eligible players who have advanced in the voting process for the Pro Football Hall of Fame Class of 2027",
-      "published": "Tue, 24 Nov 2026 13:59:49 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "2026 NFL Odds: Which Teams Are Favored To Win Their Divisions After Week 11?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-2027-nfl-odds-division-winner",
-      "summary": "Check out the latest NFL division odds, as a few surprises continue to unfurl with the regular season creeping toward its end.",
-      "published": "Tue, 24 Nov 2026 10:53:26 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
-      "url": "https://www.foxsports.com/stories/nfl/green-bay-packers-micah-parsons-knee-injury-surgery",
-      "summary": "Micah Parsons has been cleared to play Wednesday night when the Green Bay Packers visit the Los Angeles Rams",
-      "published": "Tue, 24 Nov 2026 10:37:09 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "LA"
-      ]
-    },
-    {
-      "title": "2026 NFL MVP Odds: Burrow, Purdy Setting Up 2-Horse Race",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-mvp-odds",
-      "summary": "Two QBs have separated themselves from the pack when it comes to the MVP race. See the latest.",
-      "published": "Tue, 24 Nov 2026 10:30:40 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "QB Stock Market Week 12: Brock Purdy Is Playing Like The MVP. Why Isn't Josh Allen?",
-      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-12-brock-purdy-playing-like-mvp-why-isnt-josh-allen",
-      "summary": "Brock Purdy is peaking. Is Josh Allen plateauing? Is J.J. McCarthy helping or hurting the Giants? Here are Henry McKenna's latest QB rankings.",
-      "published": "Tue, 24 Nov 2026 10:23:11 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Steelers bench struggling QB Aaron Rodgers, to start Mason Rudolph",
+      "url": "https://www.espn.com/nfl/story/_/id/50589757/steelers-bench-struggling-qb-aaron-rodgers-start-mason-rudolph",
+      "summary": "Pittsburgh Steelers coach Mike McCarthy has benched starting quarterback Aaron Rodgers in favor of backup Mason Rudolph.",
+      "published": "2026-11-25T08:06:03Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
       "teams": [
-        "NYG"
+        "PIT"
       ]
     },
     {
-      "title": "2026 Super Bowl Odds: 49ers Reclaim Favorite Status; Jags, Steelers Stumble",
-      "url": "https://www.foxsports.com/stories/nfl/2026-super-bowl-odds",
-      "summary": "The 49ers tightened their grip on the top spot, while the Jaguars and Steelers slipped. See the latest Super Bowl LXI odds after Week 11.",
-      "published": "Tue, 24 Nov 2026 02:12:28 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Longtime Lions owner Martha Firestone Ford dies at age 101",
+      "url": "https://www.espn.com/nfl/story/_/id/50588773/long-lions-owner-martha-firestone-ford-dies-age-101",
+      "summary": "Martha Firestone Ford, who served as the primary owner of the Lions from 2014 to 2020, has died at the age of 101, the team announced Tuesday night.",
+      "published": "2026-11-25T05:43:02Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "JAX",
-        "PIT",
-        "SF"
+        "DET"
       ]
-    },
-    {
-      "title": "2026 NFL Playoff Odds: Which Teams Are Favored To Make The Playoffs?",
-      "url": "https://www.foxsports.com/stories/nfl/2026-27-nfl-playoffs-odds",
-      "summary": "The Chiefs, Bills and 49ers are all but locks, while the Bengals slipped. See the latest NFL playoff odds after Week 11.",
-      "published": "Tue, 24 Nov 2026 02:07:08 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "CIN",
-        "KC",
-        "SF"
-      ]
-    },
-    {
-      "title": "NFL Week 11 All-Stars: Dak Prescott Or Patrick Mahomes? Rookies Make An Impact",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-week-11-all-stars-dak-prescott-ceedee-lamb-cowboys-travis-kelce-chiefs-jeffery-simmons-bears",
-      "summary": "Dak Prescott and Patrick Mahomes dominated on Sunday, while offensive rookies are starting to show out.",
-      "published": "Tue, 24 Nov 2026 00:05:14 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": []
     },
     {
       "title": "Bears' Johnson has no plan to stop using Swift in run game despite costly fumbles",
@@ -255,6 +72,84 @@
       "category": "game",
       "teams": [
         "WAS"
+      ]
+    },
+    {
+      "title": "Broncos' Sean Payton: J.K. Dobbins suspended one game for detrimental conduct",
+      "url": "https://www.espn.com/nfl/story/_/id/50586087/broncos-payton-says-rb-dobbins-suspended-one-game",
+      "summary": "The Broncos suspended running back J.K. Dobbins for one game for conduct detrimental to the team.",
+      "published": "2026-11-25T02:19:50Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN"
+      ]
+    },
+    {
+      "title": "Myles Garrett, Micah Parsons ready for spotlight when Rams host Packers on Thanksgiving Eve",
+      "url": "http://www.espn.com/nfl/preview?gameId=401873079",
+      "summary": "\u2014 Myles Garrett and Micah Parsons are two of the best pass rushers of their generation, and they're set to share an NFL field for only the third time Wednesday night when the Los Angeles Rams host...",
+      "published": "2026-11-24T20:35:32Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "GB",
+        "LA"
+      ]
+    },
+    {
+      "title": "Ravens cut punt returner LaJohntay Wester after his two muffs in loss",
+      "url": "https://www.espn.com/nfl/story/_/id/50585397/source-ravens-cut-punt-returner-wester-two-muffs-loss",
+      "summary": "The Ravens waived returner LaJohntay Wester after he muffed two punts in Sunday's loss at Carolina.",
+      "published": "2026-11-24T21:05:41Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "transaction",
+      "teams": [
+        "BAL"
+      ]
+    },
+    {
+      "title": "Commanders coach Dan Quinn fine with Stefon Diggs' sideline rant",
+      "url": "https://www.espn.com/nfl/story/_/id/50585285/commanders-quinn-fine-diggs-sideline-rant",
+      "summary": "A video clip of Washington Commanders receiver Stefon Diggs appearing to chew out teammates, including quarterback Jayden Daniels, during Monday's win over Cincinnati did not bother his coach.",
+      "published": "2026-11-24T21:46:32Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "qb",
+      "teams": [
+        "WAS"
+      ]
+    },
+    {
+      "title": "Pro Football Hall of Fame voters trim Class of 2027 nominees to 52",
+      "url": "https://www.espn.com/nfl/story/_/id/50584494/pro-football-hall-fame-trims-2027-player-nominees-52",
+      "summary": "Five first-time eligible former players advanced in the voting process for the Pro Football Hall of Fame's Class of 2027, it was announced Tuesday.",
+      "published": "2026-11-24T18:54:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Is this how it ends? Steelers bench Aaron Rodgers, turn to Mason Rudolph to start vs. Broncos",
+      "url": "https://www.cbssports.com/nfl/news/steelers-bench-aaron-rodgers-make-qb-inactive-friday-broncos/",
+      "summary": "Pittsburgh made the call to bench Rodgers after offensive struggles led to consecutive losses following a 6-2 start",
+      "published": "Wed, 25 Nov 2026 05:18:04 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "PIT"
       ]
     },
     {
@@ -402,7 +297,7 @@
       "title": "NFL Week 12 picks, score predictions: Bears, Chiefs lose on Thanksgiving; Rams edge Packers in thriller",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-12-breech-picks-score-predictions-bears-chiefs-rams-packers/",
       "summary": "Here's your weekly dose of John Breech's NFL picks",
-      "published": "Tue, 24 Nov 2026 14:43:05 +0000",
+      "published": "Wed, 25 Nov 2026 04:26:42 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
