@@ -1,39 +1,79 @@
 {
-  "updated_at_utc": "2026-11-27T03:14:00.038106+00:00",
-  "checked_at_utc": "2026-11-27T03:14:00.038106+00:00",
+  "updated_at_utc": "2026-11-27T12:42:17.419251+00:00",
+  "checked_at_utc": "2026-11-27T12:42:17.419251+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 15,
+      "items": 5,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 23
+      "items": 26
     },
     "FOX Sports NFL": {
       "ok": true,
-      "items": 17,
+      "items": 16,
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "NFL Thanksgiving Takeaways: Bears-Lions, Eagles-Cowboys Play Instant Classics",
+      "title": "NFL Thanksgiving Takeaways: Bears, Eagles, Bills Prevail In Day Of Instant Classics",
       "url": "https://www.foxsports.com/stories/nfl/nfl-thanksgiving-takeaways-lions-bears-cowboys-eagles-bills-chiefs",
-      "summary": "NFL fans have had two Thanksgiving classics to feast on. Here are our takeaways from Bears-Lions and Eagles-Cowboys.",
-      "published": "Thu, 26 Nov 2026 21:00:42 -0500",
+      "summary": "NFL fans had three Thanksgiving classics to feast on. Here are our takeaways from Bears-Lions, Eagles-Cowboys and Chiefs-Bills",
+      "published": "Thu, 26 Nov 2026 23:50:06 -0500",
       "source": "FOX Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
+        "BUF",
         "CHI",
         "DAL",
         "DET",
+        "KC",
         "PHI"
+      ]
+    },
+    {
+      "title": "Tom Brady Admits He Wasn't Great Friends With Peyton Manning During Playing Career",
+      "url": "https://www.foxsports.com/stories/nfl/tom-brady-admits-he-wasnt-great-friends-peyton-manning-during-playing-career",
+      "summary": "Tom Brady described the relationship of him and Peyton Manning on and off the field in the newest edition of #AskTom.",
+      "published": "Thu, 26 Nov 2026 23:26:42 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Eagles' Joe Milton Torches Former Team, But He Was Just As Excited To Meet Tom Brady",
+      "url": "https://www.foxsports.com/stories/nfl/joe-milton-tom-brady-eagles-cowboys",
+      "summary": "Six weeks ago, Joe Milton was on the Dallas Cowboys' practice squad. On Thursday, he beat them on Thanksgiving and earned Tom Brady's LFG Player of the Game.",
+      "published": "Thu, 26 Nov 2026 22:56:34 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "injury",
+      "teams": [
+        "DAL",
+        "PHI"
+      ]
+    },
+    {
+      "title": "Mike Tomlin: Steelers Are A 'Dumpster Fire' Amid Aaron Rodgers-Mike McCarthy Drama",
+      "url": "https://www.foxsports.com/stories/nfl/mike-tomlin-steelers-dumpster-fire-amid-aaron-rodgers-mike-mccarthy-drama",
+      "summary": "Mike Tomlin doesn't like what he's seeing with the team he used to coach.",
+      "published": "Thu, 26 Nov 2026 22:40:56 -0500",
+      "source": "FOX Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PIT"
       ]
     },
     {
@@ -186,261 +226,75 @@
       ]
     },
     {
-      "title": "How to Watch Eagles vs. Cowboys: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-eagles-vs-cowboys-tv-channel-live-stream-time-nov-26-2026",
-      "summary": "Eagles vs. Cowboys kicks off Thursday, Nov. 26, at 4:30 p.m. ET on FOX. Get the FOX One streaming info and players to watch for this game in Arlington.",
-      "published": "Thu, 26 Nov 2026 09:03:13 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "A Star Is Born In L.A.: 3 Takeaways From Rams' Thanksgiving Eve Win vs. Packers",
-      "url": "https://www.foxsports.com/stories/nfl/packers-rams-takeaways-blake-corum",
-      "summary": "Blake Corum is emerging as a star for the Rams as they continued their winning streak with their victory over the Packers.",
-      "published": "Wed, 25 Nov 2026 23:49:29 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "LA"
-      ]
-    },
-    {
-      "title": "Packers' Christian Watson Leaves vs. Rams After Taking Hard Hit; S Kam Kinchens Ejected",
-      "url": "https://www.foxsports.com/stories/nfl/packers-christian-watson-leaves-vs-rams-after-taking-hard-hit-s-kam-kinchens-ejected",
-      "summary": "Green Bay Packers wide receiver Christian Watson was on the wrong end of a hit that led to an ejection in Wednesday's game against the Los Angeles Rams.",
-      "published": "Wed, 25 Nov 2026 21:50:59 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "GB",
-        "LA"
-      ]
-    },
-    {
-      "title": "Sammy\u2019s Sportsbook Whispers: Big Ten's CFP Hopes Dwindle With QB Injuries",
-      "url": "https://www.foxsports.com/stories/college-football/sammys-sportsbook-whispers-big-tens-cfp-hopes-dwindle-qb-injuries",
-      "summary": "The Big Ten would be thankful to have just two teams in the 12-team Playoff field. That and more in Sammy P's Sportsbook Whispers.",
-      "published": "Wed, 25 Nov 2026 20:57:17 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": []
-    },
-    {
-      "title": "QB Caleb Williams, WR Rome Odunze's chemistry helps Bears stun Lions",
-      "url": "https://www.espn.com/nfl/story/_/id/50608495/qb-caleb-williams-wr-rome-odunze-chemistry-helps-bears-stun-lions",
-      "summary": "QB Caleb Williams and WR Rome Odunze leaned on their chemistry trust to secure Chicago's ninth win of the season.",
-      "published": "2026-11-27T03:13:30Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "qb",
-      "teams": [
-        "CHI",
-        "DET"
-      ]
-    },
-    {
-      "title": "Eagles' comeback against Cowboys stuns Jason Kelce, Caitlin Clark and more",
-      "url": "https://www.espn.com/nfl/story/_/id/50607960/eagles-cowboys-thanksgiving-social-reaction",
-      "summary": "The Philadelphia Eagles pulled off the largest Thanksgiving Day comeback in NFL history.",
-      "published": "2026-11-27T02:36:42Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Joe Milton has huge game as Eagles shock Cowboys",
-      "url": "https://www.espn.com/nfl/story/_/id/50605786/cowboys-eagles-thanksgiving-dak-prescott-saquon-barkley",
-      "summary": "Dallas blew a 21-point lead as Philly made a spectacular comeback with Milton at the helm.",
-      "published": "2026-11-27T02:43:27Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Schottenheimer defends 4th-down call before Eagles' 59-yard FG in 39-38 stunner over Cowboys",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873080",
-      "summary": "\u2014 Brian Schottenheimer said he second-guesses plenty of his decisions, just not the one that will be dissected more than any other in his two seasons as coach of the Dallas Cowboys.",
-      "published": "2026-11-27T01:40:31Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "The Aaron Rodgers-Steelers marriage was always bound to end this way",
-      "url": "https://www.espn.com/nfl/story/_/id/50607587/aaron-rodgers-steelers-mike-mccarthy-release-wetzel",
-      "summary": "Rodgers was released by the Steelers after making accusations about Mike McCarthy. It's not his first breakup, and Pittsburgh should have seen it coming.",
-      "published": "2026-11-27T03:10:10Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "transaction",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "Brady disappointed in Rodgers' McCarthy comments: 'Nobody wins'",
-      "url": "https://www.espn.com/nfl/story/_/id/50607635/tom-brady-disappointed-aaron-rodgers-mccarthy-comments",
-      "summary": "Tom Brady expressed his disappointment in how Aaron Rodgers handled his exit from Pittsburgh, saying there are things in the locker room that shouldn't be made public.",
-      "published": "2026-11-27T03:07:47Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 12 arrivals: Chris Jones leads arrivals ahead of Chiefs-Bills",
-      "url": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-27T00:25:19Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "KC"
-      ]
-    },
-    {
-      "title": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
-      "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
-      "published": "2026-11-27T00:24:39Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "LA"
-      ]
-    },
-    {
-      "title": "NFL Week 12: Highlights of Thanksgiving games",
-      "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
-      "summary": "Our team reporters are set to keep you updated on all the biggest plays and highlights.",
-      "published": "2026-11-27T03:10:16Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Lions to 'move forward' after latest Thanksgiving heartbreak",
-      "url": "https://www.espn.com/nfl/story/_/id/50607165/lions-move-forward-latest-thanksgiving-heartbreak",
-      "summary": "Lions head coach Dan Campbell rued another heartbreaker on Thanksgiving but encouraged his team to still try and enjoy the night with their families.",
-      "published": "2026-11-27T00:15:14Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DET"
-      ]
-    },
-    {
-      "title": "Eagles' Cooper DeJean leaves win at Cowboys because of concussion",
-      "url": "https://www.espn.com/nfl/story/_/id/50606739/eagles-cooper-dejean-concussion-leaves-game-cowboys",
-      "summary": "Eagles All-Pro defensive back Cooper DeJean was ruled out of Thursday's game against the Dallas Cowboys with a concussion.",
-      "published": "2026-11-27T01:37:41Z",
+      "title": "Why the Seahawks are turning back to quarterback Sam Darnold vs. the 49ers",
+      "url": "https://www.espn.com/nfl/story/_/id/50609180/why-seahawks-starting-qb-sam-darnold-49ers-week-12",
+      "summary": "Drew Lock has been 'fantastic' filling in for Darnold, who has struggled with injuries but is on track to face 9-1 San Francisco on Sunday.",
+      "published": "2026-11-27T12:02:29Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "DAL",
-        "PHI"
+        "SEA",
+        "SF"
       ]
     },
     {
-      "title": "Aaron Rodgers officially a free agent after clearing waivers",
-      "url": "https://www.espn.com/nfl/story/_/id/50606625/aaron-rodgers-officially-free-agent-clearing-waivers",
-      "summary": "Aaron Rodgers is officially a free agent and eligible to sign with any team after he cleared waivers Thursday.",
-      "published": "2026-11-26T23:30:54Z",
+      "title": "2027 NFL draft order projections for Round 1, chances for top pick, more",
+      "url": "https://www.espn.com/nfl/draft2027/story/_/id/49794361/2027-nfl-draft-order-projections-first-round-picks",
+      "summary": "ESPN's Football Power Index projects the 2027 NFL draft order for Round 1, complete with each team's chances to pick in the top five, in the top 10 and at No. 1.",
+      "published": "2026-11-27T11:00:02Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "game",
       "teams": []
     },
     {
-      "title": "Caleb Williams' late TD to Rome Odunze gives Bears dramatic win over Lions",
-      "url": "https://www.espn.com/nfl/story/_/id/50605750/jahmyr-gibbs-lions-caleb-williams-bears-thanksgiving-game",
-      "summary": "Caleb Williams turned into the 'Iceman' once again to give the Bears a dramatic late win over the Lions.",
-      "published": "2026-11-27T01:01:44Z",
+      "title": "Can the 49ers lock up the NFC West after exceeding preseason expectations?",
+      "url": "https://www.espn.com/nfl/story/_/id/50582755/san-francisco-49ers-nfc-west-playoffs-seeding",
+      "summary": "The 49ers are 9-1, and two of their next three games are against the Seahawks (6-4) and Rams (7-4) at home.",
+      "published": "2026-11-27T11:00:13Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CHI",
-        "DET"
+        "LA",
+        "SEA",
+        "SF"
       ]
     },
     {
-      "title": "Caleb Williams' TD pass with 3 seconds left gives Bears 39-35 win over Lions",
-      "url": "http://www.espn.com/nfl/recap?gameId=401873081",
-      "summary": "\u2014 Caleb Williams took a shotgun snap, dropped back, looked left and threw a perfect pass to the back, right corner of the end zone where only Rome Odunze could catch it.",
-      "published": "2026-11-26T21:45:32Z",
+      "title": "NFL Week 12 preview: Picks, predictions, schedule, betting odds, fantasy tips",
+      "url": "https://www.espn.com/nfl/story/_/id/50587851/week-12-picks-predictions-schedule-fantasy-odds-2026",
+      "summary": "Seahawks vs. 49ers? Kirk Cousins against Atlanta? There are 12 more games in Week 12, and we have picks, predictions and more for all of them.",
+      "published": "2026-11-27T11:48:57Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CHI",
-        "DET"
+        "SEA",
+        "SF"
       ]
     },
     {
-      "title": "Steelers activate Michael Pittman Jr. off IR, sign Max Hurleman to active roster",
-      "url": "https://www.espn.com/nfl/story/_/id/50606063/steelers-activate-michael-pittman-jr-ir-sign-max-hurleman-active-roster-practice-squad",
-      "summary": "The Steelers on Thursday activated Michael Pittman Jr. from injured reserve and signed Max Hurleman to the active roster from the practice squad.",
-      "published": "2026-11-26T22:36:50Z",
+      "title": "2026 NFL playoff picture: AFC, NFC seed projections, chances to make postseason",
+      "url": "https://www.espn.com/nfl/story/_/id/49745176/2026-nfl-playoff-predictions-afc-nfc-odds-super-bowl",
+      "summary": "We're looking ahead to how the 14-team playoff picture could line up -- and who will win divisions -- en route to the Super Bowl.",
+      "published": "2026-11-27T11:00:08Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "PIT"
-      ]
+      "category": "game",
+      "teams": []
     },
     {
       "title": "NFL Week 12 grades for Thanksgiving: Cowboys choke their way to a 'D,' Bears earn 'B' for big win",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-12-grades-thanksgiving-bears-earn-b-packers-get-d/",
       "summary": "Caleb Williams delivers late magic to Rome Odunze in a wild shootout, while Detroit's defense collapses and Jordan Love struggles without Christian Watson",
-      "published": "Fri, 27 Nov 2026 02:08:04 +0000",
+      "published": "Fri, 27 Nov 2026 05:13:44 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -448,6 +302,75 @@
       "teams": [
         "CHI",
         "DAL"
+      ]
+    },
+    {
+      "title": "NFL Thanksgiving overreactions: Bears a shoo-in for NFC North title? Should Joe Milton be a full-time QB1?",
+      "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-overreactions-bears-a-shoo-in-nfc-north-title-joe-milton-full-time-qb1/",
+      "summary": "Plus, is Jahmyr Gibbs truly an MVP candidate?",
+      "published": "Fri, 27 Nov 2026 05:07:38 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CHI"
+      ]
+    },
+    {
+      "title": "Jerry Jones refutes Aaron Rodgers' accusations, calls Mike McCarthy 'outstanding'",
+      "url": "https://www.cbssports.com/nfl/news/jerry-jones-calls-mike-mccarthy-outstanding-refutes-aaron-rodgers-accusations/",
+      "summary": "Rodgers accused McCarthy of being late to meetings, sleeping in meetings and being behind on film prep",
+      "published": "Fri, 27 Nov 2026 04:49:17 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
+    },
+    {
+      "title": "Prisco's Week 12 NFL picks: Browns over Raiders, Steelers overcome issues to upset Broncos",
+      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-12-nfl-picks-odds-expert-picks/",
+      "summary": "Pete Prisco reveals all of his Week 12 picks, including the Steelers to upset the Broncos on Black Friday",
+      "published": "Fri, 27 Nov 2026 03:42:14 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE",
+        "DEN",
+        "LV",
+        "PIT"
+      ]
+    },
+    {
+      "title": "NFL Week 12 picks: Our experts face off on Broncos at Steelers, Seahawks at 49ers and more",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-12-picks-our-experts-face-off-on-bears-at-lions-chiefs-at-bills-and-more/",
+      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
+      "published": "Fri, 27 Nov 2026 03:39:29 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "DEN",
+        "PIT",
+        "SEA",
+        "SF"
+      ]
+    },
+    {
+      "title": "Former Steelers coach Mike Tomlin on Aaron Rodgers-Mike McCarthy saga: 'It's a dumpster fire'",
+      "url": "https://www.cbssports.com/nfl/news/former-steelers-coach-mike-tomlin-aaron-rodgers-mike-mccarthy-saga-dumpster-fire/",
+      "summary": "Tomlin revealed his thoughts on the entire Rodgers-McCarthy mess on Thursday night",
+      "published": "Fri, 27 Nov 2026 03:37:34 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "PIT"
       ]
     },
     {
@@ -527,24 +450,6 @@
       "trust": "NETWORK",
       "category": "transaction",
       "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "Prisco's Week 12 NFL picks: Cowboys feast on Eagles, Bills win thriller over Chiefs",
-      "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-12-nfl-picks-odds-expert-picks/",
-      "summary": "Pete Prisco reveals all of his Week 12 picks, including the Steelers to upset the Broncos on Black Friday",
-      "published": "Thu, 26 Nov 2026 18:01:01 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "DAL",
-        "DEN",
-        "KC",
-        "PHI",
         "PIT"
       ]
     },
@@ -656,22 +561,6 @@
       "category": "game",
       "teams": [
         "PIT"
-      ]
-    },
-    {
-      "title": "NFL Week 12 picks: Our experts face off on Bears at Lions, Chiefs at Bills and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-12-picks-our-experts-face-off-on-bears-at-lions-chiefs-at-bills-and-more/",
-      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
-      "published": "Thu, 26 Nov 2026 13:19:20 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "CHI",
-        "DET",
-        "KC"
       ]
     },
     {
