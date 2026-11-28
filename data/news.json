@@ -1,206 +1,85 @@
 {
-  "updated_at_utc": "2026-11-27T21:39:57.182899+00:00",
-  "checked_at_utc": "2026-11-27T21:39:57.182899+00:00",
+  "updated_at_utc": "2026-11-28T03:33:08.998464+00:00",
+  "checked_at_utc": "2026-11-28T03:33:34.185734+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 6,
+      "items": 3,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
       "ok": true,
-      "items": 26
+      "items": 29
     },
     "FOX Sports NFL": {
-      "ok": true,
-      "items": 15,
+      "ok": false,
+      "items": 0,
+      "error": "ReadTimeout",
       "feed": "FOX_OFFICIAL_NFL_RSS"
     }
   },
   "items": [
     {
-      "title": "2026 NFL, CFB Odds: Best Bets For Louisville-Kentucky, Falcons-Vikings",
-      "url": "https://www.foxsports.com/stories/college-football/2026-nfl-cfb-odds-best-bets-falcons-vikings",
-      "summary": "Sammy P has his eyes on four college football tilts, as well as an NFC battle. Dive in.",
-      "published": "Fri, 27 Nov 2026 16:09:03 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Steelers, fueled by jabs over Aaron Rodgers drama, 'come together' to rout Broncos",
+      "url": "https://www.espn.com/nfl/story/_/id/50618077/steelers-fueled-jabs-aaron-rodgers-drama-rout-broncos",
+      "summary": "Turned into a national punchline following Aaron Rodgers' release, the Steelers played with a sense of \"urgency\" and \"anger\" Friday night in a 27-6 win over Denver.",
+      "published": "2026-11-28T03:30:23Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "ATL",
-        "MIN"
-      ]
-    },
-    {
-      "title": "Cardinals QB Carson Beck Out Against Commanders, Josh Johnson To Start Again",
-      "url": "https://www.foxsports.com/stories/nfl/arizona-cardinals-carson-beck-back-injury-washington-commanders",
-      "summary": "Arizona Cardinals rookie quarterback Carson Beck will miss a second straight game on Sunday with a back injury.",
-      "published": "Fri, 27 Nov 2026 14:35:50 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "ARI",
-        "WAS"
-      ]
-    },
-    {
-      "title": "Demario Davis Explains Why Aaron Glenn Is Right Coach For Jets",
-      "url": "https://www.foxsports.com/stories/nfl/demario-davis-aaron-glenn-quote-jets-head-coaches",
-      "summary": "New York Jets linebacker Demario Davis gave a strong public backing for head coach Aaron Glenn.",
-      "published": "Fri, 27 Nov 2026 12:55:20 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "NYJ"
-      ]
-    },
-    {
-      "title": "Jerry Jones Believes In Brian Schottenheimer Even After Latest Cowboys' Loss",
-      "url": "https://www.foxsports.com/stories/nfl/dallas-cowboys-philadelphia-eagles-thanksgiving-loss-jerry-jones",
-      "summary": "Jerry Jones says he still believes Brian Schottenheimer is the right coach for the Dallas Cowboys, even after losing to the Eagles on Thanksgiving.",
-      "published": "Fri, 27 Nov 2026 12:39:05 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "PHI"
-      ]
-    },
-    {
-      "title": "How To Bet Today's Best Games: Broncos-Steelers, Lakers-Spurs, More \u2014 Nov. 27",
-      "url": "https://www.foxsports.com/stories/nfl/how-bet-todays-best-games-broncos-steelers-lakers-spurs-more-nov-27",
-      "summary": "Check out how to bet today's best games, including Broncos-Steelers, Lakers-Spurs and more.",
-      "published": "Fri, 27 Nov 2026 11:12:15 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
+      "category": "transaction",
       "teams": [
         "DEN",
         "PIT"
       ]
     },
     {
-      "title": "Jaguars Determine WR Parker Washington's Week 12 Status",
-      "url": "https://www.foxsports.com/stories/nfl/parker-washington-injury-news-jaguars-titans-liam-coen-presser",
-      "summary": "Jacksonville Jaguars star receiver Parker Washington won\u2019t play Sunday against the Tennessee Titans after injuring a shoulder in practice.",
-      "published": "Fri, 27 Nov 2026 11:08:31 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Bo Nix, after one of his worst games for Broncos, says 'I let the team down'",
+      "url": "https://www.espn.com/nfl/story/_/id/50617060/qb-bo-nix-says-let-team-broncos-routed-steelers",
+      "summary": "After one of the most difficult starts of his NFL career, Broncos quarterback Bo Nix said \"I let the team down'' in a 27-5 loss to the Steelers on Friday.",
+      "published": "2026-11-28T03:16:39Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
-      "teams": [
-        "JAX",
-        "TEN"
-      ]
-    },
-    {
-      "title": "How to Watch Broncos vs. Steelers: TV Channel, Live Stream, Time",
-      "url": "https://www.foxsports.com/stories/nfl/how-to-watch-broncos-vs-steelers-tv-channel-live-stream-time-nov-27-2026",
-      "summary": "Broncos vs. Steelers kicks off Friday, Nov. 27, at 3 p.m. ET on Amazon Prime Video. Get the TV channel, streaming options and players to watch for this game in Pittsburgh.",
-      "published": "Fri, 27 Nov 2026 09:06:57 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
+      "category": "qb",
       "teams": [
         "DEN",
         "PIT"
       ]
     },
     {
-      "title": "NFL Thanksgiving Takeaways: Bears, Eagles, Bills Prevail In Day Of Instant Classics",
-      "url": "https://www.foxsports.com/stories/nfl/nfl-thanksgiving-takeaways-lions-bears-cowboys-eagles-bills-chiefs",
-      "summary": "NFL fans had three Thanksgiving classics to feast on. Here are our takeaways from Bears-Lions, Eagles-Cowboys and Chiefs-Bills",
-      "published": "Thu, 26 Nov 2026 23:50:06 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "CHI",
-        "DAL",
-        "DET",
-        "KC",
-        "PHI"
-      ]
-    },
-    {
-      "title": "Tom Brady Admits He Wasn't Great Friends With Peyton Manning During Playing Career",
-      "url": "https://www.foxsports.com/stories/nfl/tom-brady-admits-he-wasnt-great-friends-peyton-manning-during-playing-career",
-      "summary": "Tom Brady described the relationship of him and Peyton Manning on and off the field in the newest edition of #AskTom.",
-      "published": "Thu, 26 Nov 2026 23:26:42 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Eagles' Joe Milton Torches Former Team, But He Was Just As Excited To Meet Tom Brady",
-      "url": "https://www.foxsports.com/stories/nfl/joe-milton-tom-brady-eagles-cowboys",
-      "summary": "Six weeks ago, Joe Milton was on the Dallas Cowboys' practice squad. On Thursday, he beat them on Thanksgiving and earned Tom Brady's LFG Player of the Game.",
-      "published": "Thu, 26 Nov 2026 22:56:34 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Sam Darnold 'ready to roll' vs. 49ers as Seahawks fight to stay in NFC West race",
+      "url": "https://www.espn.com/nfl/story/_/id/50616624/seahawks-sam-darnold-return-vs-49ers-2-game-absence",
+      "summary": "Seahawks QB Sam Darnold, who missed the past two games with a quad injury, will return to start against the Niners in a pivotal NFC West showdown.",
+      "published": "2026-11-28T01:37:28Z",
+      "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "DAL",
-        "PHI"
+        "SEA",
+        "SF"
       ]
     },
     {
-      "title": "Mike Tomlin: Steelers Are A 'Dumpster Fire' Amid Aaron Rodgers-Mike McCarthy Drama",
-      "url": "https://www.foxsports.com/stories/nfl/mike-tomlin-steelers-dumpster-fire-amid-aaron-rodgers-mike-mccarthy-drama",
-      "summary": "Mike Tomlin doesn't like what he's seeing with the team he used to coach.",
-      "published": "Thu, 26 Nov 2026 22:40:56 -0500",
-      "source": "FOX Sports NFL",
+      "title": "NFL Week 12 injury report: Brock Purdy, Justin Herbert out as QB health dwindles across league",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-12-injury-report-brock-purdy-justin-herbert-out/",
+      "summary": "Final injury reports for every team playing on Sunday in Week 12",
+      "published": "Sat, 28 Nov 2026 02:36:32 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "Tom Brady Didn't Like Aaron Rodgers' Outburst: 'Nobody Wins When The Family Feuds'",
-      "url": "https://www.foxsports.com/stories/nfl/tom-brady-aaron-rodgers-steelers-mike-mccarthy",
-      "summary": "During FOX's Thanksgiving broadcast, Tom Brady praised Aaron Rodgers' Hall of Fame career, but said the blowup in Pittsburgh is a reminder that an NFL locker room is \"a sacred place.\"",
-      "published": "Thu, 26 Nov 2026 20:33:11 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
+      "category": "injury",
       "teams": []
     },
     {
-      "title": "Week 12 Playoff Picture: AFC & NFC Seeds Entering The Holiday Weekend",
-      "url": "https://www.foxsports.com/stories/nfl/week-11-nfl-playoff-bracket-whos-in-whos-out-key-tiebreakers",
-      "summary": "Here's what the NFL playoff picture looks like after Week 10 of the regular season.",
-      "published": "Thu, 26 Nov 2026 17:27:42 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "Terry Bradshaw Sides With Mike McCarthy In Aaron Rodgers' Dispute",
-      "url": "https://www.foxsports.com/stories/nfl/terry-bradshaw-addresses-aaron-rodgers-calling-out-mike-mccarthy",
-      "summary": "Here's what former Pittsburgh Steelers quarterback Terry Bradshaw had to say about the dispute between Aaron Rodgers and Mike McCarthy.",
-      "published": "Thu, 26 Nov 2026 17:12:57 -0500",
-      "source": "FOX Sports NFL",
+      "title": "Aaron Rodgers claims he was 'barred' from Steelers' facility: Why QB went scorched earth on Mike McCarthy",
+      "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-barred-from-steelers-facility-qb-went-scorched-earth-on-mike-mccarthy/",
+      "summary": "Here's why the QB went scorched earth on Mike McCarthy",
+      "published": "Sat, 28 Nov 2026 00:15:17 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "qb",
@@ -209,77 +88,24 @@
       ]
     },
     {
-      "title": "Jay Glazer Details How Aaron Rodgers' Steelers Exit Unfolded",
-      "url": "https://www.foxsports.com/stories/nfl/jay-glazer-details-how-aaron-rodgers-steelers-exit-unfolded",
-      "summary": "Jay Glazer says the end of Aaron Rodgers' time with the Pittsburgh Steelers came down to one meeting and an ultimatum.",
-      "published": "Thu, 26 Nov 2026 16:59:45 -0500",
-      "source": "FOX Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "Ravens' Marlon Humphrey to return to lineup; role uncertain",
-      "url": "https://www.espn.com/nfl/story/_/id/50614218/ravens-marlon-humphrey-return-lineup-role-uncertain",
-      "summary": "Ravens cornerback Marlon Humphrey will play Sunday against the Texans, a week after he was benched for making disparaging comments about the city of Baltimore.",
-      "published": "2026-11-27T21:33:18Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BAL",
-        "HOU"
-      ]
-    },
-    {
-      "title": "Saints rule TE Juwan Johnson out vs. Bengals; TE Noah Fant questionable",
-      "url": "https://www.espn.com/nfl/story/_/id/50613922/saints-rule-te-johnson-vs-bengals-te-fant-questionable",
-      "summary": "The Saints ruled out tight end Juwan Johnson with a hamstring and wrist injuries while backup Noah Fant is questionable with a calf injury vs. the Bengals.",
-      "published": "2026-11-27T21:01:47Z",
-      "source": "ESPN NFL",
+      "title": "Chargers poised to start DJ Uiagalelei with Justin Herbert ruled out for Week 12",
+      "url": "https://www.cbssports.com/nfl/news/chargers-poised-to-start-dj-uiagalelei-with-justin-herbert-ruled-out-for-week-12/",
+      "summary": "Uiagalelei's first career start marks a new low for Los Angeles' maligned offense",
+      "published": "Fri, 27 Nov 2026 23:58:34 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "injury",
       "teams": [
-        "CIN",
-        "NO"
+        "LAC"
       ]
     },
     {
-      "title": "NFL Week 12: Highlights of Thanksgiving weekend games",
-      "url": "https://www.espn.com/nfl/story/_/id/50599365/nfl-week-12-highlights-touchdowns-plays",
-      "summary": "Our team reporters are set to keep you updated on all the biggest plays and highlights.",
-      "published": "2026-11-27T20:49:40Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": []
-    },
-    {
-      "title": "NFL Week 12 uniforms: Rams debut alternates, Cowboys rock Thanksgiving throwbacks",
-      "url": "https://www.espn.com/nfl/story/_/id/50577887/nfl-week-12-uniforms",
-      "summary": "Here's a look at what each NFL team is wearing in Week 12, led by an alternate uniform for the Los Angeles Rams.",
-      "published": "2026-11-27T19:34:37Z",
-      "source": "ESPN NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DAL",
-        "LA"
-      ]
-    },
-    {
-      "title": "NFL Week 12 arrivals: Cameron Heyward leads arrivals ahead of Steelers-Broncos",
-      "url": "https://www.espn.com/nfl/story/_/id/50588078/nfl-week-12-fashionable-arrivals",
-      "summary": "NFL stars continue to turn game-day arrivals into their own weekly fashion showcase.",
-      "published": "2026-11-27T18:59:58Z",
-      "source": "ESPN NFL",
+      "title": "Black Friday scorigami: Steelers-Broncos ends with final score that's never happened before in NFL history",
+      "url": "https://www.cbssports.com/nfl/news/black-friday-scorigami-steelers-broncos-final-score-nfl-history/",
+      "summary": "The Broncos and Steelers combined to make NFL history on Black Friday",
+      "published": "Fri, 27 Nov 2026 23:27:44 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
@@ -289,18 +115,28 @@
       ]
     },
     {
-      "title": "Cardinals to start QB Josh Johnson again with Carson Beck (back spasms) out",
-      "url": "https://www.espn.com/nfl/story/_/id/50612845/cardinals-start-qb-johnson-again-beck-back-spasms-out",
-      "summary": "Cardinals rookie QB Carson Beck will miss a second straight game as he recovers from back spasms, paving the way for veteran Josh Johnson to start vs. the Commanders.",
-      "published": "2026-11-27T20:50:14Z",
-      "source": "ESPN NFL",
+      "title": "Mason Rudolph and Steelers defense can clean up Aaron Rodgers' mess, but the franchise's problems run deeper",
+      "url": "https://www.cbssports.com/nfl/news/mason-rudolph-defense-can-steady-steelers-but-real-progress-far-off/",
+      "summary": "Pittsburgh's post-Rodgers resurgence offers hope for this season, but the organization's long-term problems aren't going away",
+      "published": "Fri, 27 Nov 2026 23:45:17 +0000",
+      "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": [
-        "ARI",
-        "WAS"
+        "PIT"
       ]
+    },
+    {
+      "title": "Rick Pitino takes thinly veiled jab at Aaron Rodgers over scathing Mike McCarthy comments",
+      "url": "https://www.cbssports.com/nfl/news/rick-pitino-takes-jab-at-aaron-rodgers-steelers-mike-mccarthy-comments/",
+      "summary": "Rodgers' bombshell comments left an impression on the entire sports world",
+      "published": "Fri, 27 Nov 2026 21:57:31 +0000",
+      "source": "CBS Sports NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": []
     },
     {
       "title": "Broncos troll Steelers, Aaron Rodgers with 'discount double-check' celebration after safety",
@@ -420,10 +256,10 @@
       ]
     },
     {
-      "title": "Jaguars lose WR Parker Washington to shoulder injury as playoffs draw near",
+      "title": "Jaguars lose WR Parker Washington, RB Bhayshul Tuten to injury as playoffs draw near",
       "url": "https://www.cbssports.com/nfl/news/jaguars-wr-parker-washington-out-week-12-considered-week-to-week-shoulder-injury-playoffs/",
-      "summary": "Jacksonville's top target is evaluated week-to-week with a shoulder issue, while leading rusher Bhayshul Tuten is also banged-up",
-      "published": "Fri, 27 Nov 2026 17:04:49 +0000",
+      "summary": "Jacksonville's top target is evaluated week-to-week with a shoulder issue, while leading rusher Bhayshul Tuten is also out",
+      "published": "Fri, 27 Nov 2026 22:21:36 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
@@ -567,17 +403,16 @@
       ]
     },
     {
-      "title": "NFL Week 12 grades for Thanksgiving: Cowboys choke their way to a 'D,' Bears earn 'B' for big win",
+      "title": "NFL Week 12 grades for Black Friday and Thanksgiving: Steelers ace post Aaron Rodgers test",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-12-grades-thanksgiving-bears-earn-b-packers-get-d/",
       "summary": "Caleb Williams delivers late magic to Rome Odunze in a wild shootout, while Detroit's defense collapses and Jordan Love struggles without Christian Watson",
-      "published": "Fri, 27 Nov 2026 14:49:23 +0000",
+      "published": "Fri, 27 Nov 2026 22:58:05 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
       "category": "game",
       "teams": [
-        "CHI",
-        "DAL"
+        "PIT"
       ]
     },
     {
@@ -607,49 +442,6 @@
         "DEN",
         "LV",
         "PIT"
-      ]
-    },
-    {
-      "title": "NFL Week 12 picks: Our experts face off on Broncos at Steelers, Seahawks at 49ers and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-12-picks-our-experts-face-off-on-bears-at-lions-chiefs-at-bills-and-more/",
-      "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict this weekend's top games",
-      "published": "Fri, 27 Nov 2026 03:39:29 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "DEN",
-        "PIT",
-        "SEA",
-        "SF"
-      ]
-    },
-    {
-      "title": "Former Steelers coach Mike Tomlin on Aaron Rodgers-Mike McCarthy saga: 'It's a dumpster fire'",
-      "url": "https://www.cbssports.com/nfl/news/former-steelers-coach-mike-tomlin-aaron-rodgers-mike-mccarthy-saga-dumpster-fire/",
-      "summary": "Tomlin revealed his thoughts on the entire Rodgers-McCarthy mess on Thursday night",
-      "published": "Fri, 27 Nov 2026 03:37:34 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "PIT"
-      ]
-    },
-    {
-      "title": "Chiefs vs. Bills odds, picks, prediction, start time: 2026 NFL Thanksgiving betting preview, best bets",
-      "url": "https://www.cbssports.com/betting/news/chiefs-bills-odds-picks-prediction-start-time-2026-nfl-thanksgiving-betting-preview-best-bets/",
-      "summary": "Here's everything bettors need to know for Bills vs. Chiefs on Thanksgiving in NFL Week 12",
-      "published": "Thu, 26 Nov 2026 23:43:08 +0000",
-      "source": "CBS Sports NFL",
-      "source_type": "publisher",
-      "trust": "NETWORK",
-      "category": "game",
-      "teams": [
-        "BUF",
-        "KC"
       ]
     }
   ],
