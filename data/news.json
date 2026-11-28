@@ -1,12 +1,12 @@
 {
-  "updated_at_utc": "2026-11-28T03:33:08.998464+00:00",
-  "checked_at_utc": "2026-11-28T03:33:34.185734+00:00",
+  "updated_at_utc": "2026-11-28T12:17:23.360707+00:00",
+  "checked_at_utc": "2026-11-28T12:17:48.549731+00:00",
   "policy": "CURATED_NETWORK_SOURCES_ONLY",
   "model_input": false,
   "sources": {
     "ESPN NFL": {
       "ok": true,
-      "items": 3,
+      "items": 6,
       "feed": "ESPN_NOW_API_NFL_FILTERED"
     },
     "CBS Sports NFL": {
@@ -22,45 +22,83 @@
   },
   "items": [
     {
-      "title": "Steelers, fueled by jabs over Aaron Rodgers drama, 'come together' to rout Broncos",
-      "url": "https://www.espn.com/nfl/story/_/id/50618077/steelers-fueled-jabs-aaron-rodgers-drama-rout-broncos",
-      "summary": "Turned into a national punchline following Aaron Rodgers' release, the Steelers played with a sense of \"urgency\" and \"anger\" Friday night in a 27-6 win over Denver.",
-      "published": "2026-11-28T03:30:23Z",
+      "title": "NFL Week 12 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+      "url": "https://www.espn.com/nfl/story/_/id/50595037/week-12-predictions-upsets-fantasy-sleepers-stats-2026",
+      "summary": "Touchdown for Justin Jefferson? Upset over the Giants for the Colts? Big day for Bucky Irving? Let's predict 15 things for the Sunday and Monday matchups.",
+      "published": "2026-11-28T11:37:45Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "transaction",
+      "category": "game",
       "teams": [
-        "DEN",
-        "PIT"
+        "IND",
+        "NYG"
       ]
     },
     {
-      "title": "Bo Nix, after one of his worst games for Broncos, says 'I let the team down'",
-      "url": "https://www.espn.com/nfl/story/_/id/50617060/qb-bo-nix-says-let-team-broncos-routed-steelers",
-      "summary": "After one of the most difficult starts of his NFL career, Broncos quarterback Bo Nix said \"I let the team down'' in a 27-5 loss to the Steelers on Friday.",
-      "published": "2026-11-28T03:16:39Z",
+      "title": "Five unsung heroes of the Bears' 6-game win streak",
+      "url": "https://www.espn.com/nfl/story/_/id/50616158/bears-win-streak-tj-edwards-dillon-thieneman",
+      "summary": "The Bears' stars get the headlines, but these five players have been just as important for the NFC North leaders.",
+      "published": "2026-11-28T11:00:11Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "qb",
+      "category": "game",
       "teams": [
-        "DEN",
-        "PIT"
+        "CHI"
       ]
     },
     {
-      "title": "Sam Darnold 'ready to roll' vs. 49ers as Seahawks fight to stay in NFC West race",
-      "url": "https://www.espn.com/nfl/story/_/id/50616624/seahawks-sam-darnold-return-vs-49ers-2-game-absence",
-      "summary": "Seahawks QB Sam Darnold, who missed the past two games with a quad injury, will return to start against the Niners in a pivotal NFC West showdown.",
-      "published": "2026-11-28T01:37:28Z",
+      "title": "Cam Skattebo remains Giants' 'best back'",
+      "url": "https://www.espn.com/nfl/story/_/id/50612320/cam-skattebo-remains-giants-best-running-back",
+      "summary": "Ahead of playing Colts' Jonathan Taylor, the Giants could wonder about what could have been -- but the team is trusting in Skattebo.",
+      "published": "2026-11-28T11:00:00Z",
       "source": "ESPN NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
-      "category": "injury",
+      "category": "game",
       "teams": [
-        "SEA",
-        "SF"
+        "IND",
+        "NYG"
+      ]
+    },
+    {
+      "title": "'Give him the ball': Falcons focus on feeding Bijan Robinson",
+      "url": "https://www.espn.com/nfl/story/_/id/50614599/falcons-focus-bijan-robinson",
+      "summary": "The Falcons know how getting away from feeding Bijan reflects in the win-loss column, and they vow changes.",
+      "published": "2026-11-28T11:00:01Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "ATL"
+      ]
+    },
+    {
+      "title": "How has Fernando Mendoza played in his first two starts?",
+      "url": "https://www.espn.com/nfl/story/_/id/50596874/las-vegas-raiders-quarterback-fernando-mendoza-first-two-starts",
+      "summary": "We took a look at what Raiders' Fernando Mendoza did well -- and not so well -- in his first two starts.",
+      "published": "2026-11-28T11:00:10Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "LV"
+      ]
+    },
+    {
+      "title": "A must-listen: KC Concepcion's powerful message on stuttering",
+      "url": "https://www.espn.com/nfl/story/_/id/50608001/cleveland-browns-kc-concepcion-message-stuttering",
+      "summary": "There's more to the story for this Browns rookie receiver: \"Me being able to inspire people all over the world, it just means everything.\"",
+      "published": "2026-11-28T11:00:04Z",
+      "source": "ESPN NFL",
+      "source_type": "publisher",
+      "trust": "NETWORK",
+      "category": "game",
+      "teams": [
+        "CLE"
       ]
     },
     {
@@ -91,7 +129,7 @@
       "title": "Chargers poised to start DJ Uiagalelei with Justin Herbert ruled out for Week 12",
       "url": "https://www.cbssports.com/nfl/news/chargers-poised-to-start-dj-uiagalelei-with-justin-herbert-ruled-out-for-week-12/",
       "summary": "Uiagalelei's first career start marks a new low for Los Angeles' maligned offense",
-      "published": "Fri, 27 Nov 2026 23:58:34 +0000",
+      "published": "Sat, 28 Nov 2026 03:43:58 +0000",
       "source": "CBS Sports NFL",
       "source_type": "publisher",
       "trust": "NETWORK",
